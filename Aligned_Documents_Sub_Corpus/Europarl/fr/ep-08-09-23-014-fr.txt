@@ -1,0 +1,419 @@
+
+
+  
+    
+      Système d'information Schengen de deuxième génération (décision) - Système d'information Schengen de deuxième génération (règlement) (débat)
+    
+    
+      
+        L'ordre du jour appelle la discussion commune sur:
+      
+      
+        le rapport de Carlos Coelho, au nom de la commission des libertés civiles, de la justice et des affaires intérieures, sur le système d'information Schengen de deuxième génération (décision) (12059/1/2008 - C6-0188/2008 -, et
+      
+      
+        le rapport de Carlos Coelho, au nom de la commission des libertés civiles, de la justice et des affaires intérieures, sur le système d'information Schengen de deuxième génération (règlement) (11925/2/2008 - C6-0189/2008 -.
+      
+    
+    
+      
+        (PT) Monsieur le Président, Monsieur le Président en exercice du Conseil, Monsieur le Vice-président de la Commission européenne, Mesdames et Messieurs, nous examinons deux instruments: un règlement et une décision sur la migration du SISone4ALL vers le SIS II, y compris un test complet qui permettra de démontrer que le niveau de performance du SIS II est équivalant à celui atteint par le système actuel.
+        Ces propositions résultent d'une modification de la stratégie de migration.
+      
+      
+        Je voudrais souligner quatre points: premièrement, le plan initial consistait à effectuer la migration de 15 États membres au cours d'un processus durant environ 8 heures.
+        Entre-temps, le nombre d'États membres est passé à 25, rendant ce processus beaucoup plus complexe et difficile.
+        Deuxièmement, il faudra créer une architecture technique provisoire permettant au SIS 1+ et au SIS II de fonctionner en parallèle pendant une période de transition limitée.
+        C'est une solution judicieuse que nous devrions accepter et elle nous permettra d'avoir une issue de secours si quelque chose se passait mal.
+        Troisièmement, un outil technique - un convertisseur - sera mis à disposition pendant cette période de transition.
+        Il connectera le système central du SIS I au système central du SIS II, permettant aux deux systèmes de traiter les mêmes informations et garantissant que tous les États membres restent au même niveau.
+        Enfin, le mandat confié à la Commission en 2001 expire à la fin de cette année.
+      
+      
+        Nous avons soulevé quatre préoccupations.
+        Premièrement, il faut que la Commission européenne conserve un mandat de développement du SISI II jusqu'à ce que ce dernier soit opérationnel.
+        Nous sommes opposés à l'idée, qui a été envisagée, que le mandat de la Commission prenne fin lorsque les travaux sur le système central du C-SIS seront achevés.
+        Deuxièmement, nous sommes pour qu'il y ait une claire définition des compétences de la Commission européenne et de celles des États membres.
+        Troisièmement, il faut que toutes les conditions fixées au point 2 établissant la base juridique du SIS soient remplies avant de procéder à la migration des données.
+        Enfin, cette migration devrait être réalisée en une seule phase, effectuée par tous les États membres.
+      
+      
+        Les propositions que nous avons reçues le 3 septembre, le jour où elles ont été approuvées par le Coreper, apportent des changements majeurs aux propositions initiales.
+        Normalement, le Parlement doit à nouveau être consulté lorsque les textes présentés proposent des changements substantiels.
+        Cependant, une fois de plus, le calendrier est serré; le mandat de la Commission expire à la fin de 2008 et il est essentiel que le Conseil approuve ces propositions à la fin d'octobre.
+        Le Parlement montre une fois de plus qu'il est à la hauteur de ses responsabilités et que ce n'est pas de notre faute si le processus est retardé.
+        En effet, les changements qui ont été effectués répondent à la plupart des inquiétudes exposées dans mes projets de rapport, en particulier en ce qui concerne la clarification des responsabilités de la Commission et des États membres et le fait que la Commission continuera de disposer d'un mandat de développement du SIS II jusqu'à ce que ce dernier soit opérationnel.
+      
+      
+        Pour conclure, je voudrais féliciter la présidence française pour l'excellent travail qu'elle a effectué afin d'obtenir un accord satisfaisant entre la Commission et les États membres, alors que cela semblait difficile.
+        Le Parlement européen souhaite contribuer à éviter des retards supplémentaires et à ce que le SIS II soit opérationnel à la nouvelle date fixée: le 30 septembre 2009.
+        Nous sommes toutefois inquiets, étant donné que plusieurs experts ont déclaré officieusement qu'il est plus que probable que cette date ne soit à nouveau pas respectée.
+      
+      
+        Il est deux points essentiels que le Parlement européen considère comme cruciaux et que tous les groupes politiques soutiennent.
+        Tout d'abord, le fait que le Parlement européen devrait être informé tous les six mois de l'évolution du projet et, ensuite, le fait que le mandat confié à la nouvelle Commission ne devrait pas être un mandat illimité et qu'il faudrait inclure une règle prévoyant que le Parlement européen doit être consulté à nouveau s'il y a un retard de plus d'un an.
+        Nous espérons sincèrement que, cette fois-ci, le projet sera conclu à temps et que le SIS II pourra commencer à fonctionner à la date prévue.
+      
+    
+    
+      
+        Nous allons maintenant écouter le Conseil.
+        Monsieur Jouyet, je vous félicite au nom du Parlement, pour votre présence ici tout au long de la journée.
+        Je crois que votre assiduité devant cette Assemblée est à la mesure de votre engagement européen.
+      
+    
+    
+      
+        Président en exercice du Conseil. - Monsieur le Président, merci de vos très aimables paroles, je vous retourne bien évidemment le compliment en ce qui concerne l'engagement européen ainsi qu'à M. le vice-président de la Commission, Jacques Barrot.
+      
+      
+        Monsieur le Ministre Carlos Coelho, Mesdames et Messieurs les parlementaires, le développement d'un nouveau système pour la zone Schengen est nécessaire pour développer les nouvelles fonctionnalités qu'exigeront demain la lutte contre la criminalité et le contrôle du franchissement des frontières.
+        Le système SIS I for all, développé à la suite de l'initiative de la présidence portugaise, Monsieur le Ministre, est un très heureux compromis qui a permis de raccorder les États membres qui ont adhéré en 2004 et surtout de lever le contrôle aux frontières intérieures terrestres, en décembre dernier, puis aériennes, en mars.
+      
+      
+        Et c'est pour tous ici une grande émotion d'avoir vu s'abattre le dernier rideau de fer, d'avoir vu les premiers ministres slovaque et autrichien scier symboliquement la barrière en bois du poste de frontière de Berg-Petrzalka à l'est de Vienne.
+        Je pense que c'est une immense fierté pour tout Européen convaincu de constater que nous disposons d'un espace de libre circulation de 3,6 millions de kilomètres carrés.
+        C'est le plus vaste au monde mais - comme vous le savez - la contrepartie nécessaire de cette grande liberté, c'est la mise en place d'un système électronique qui permette d'identifier les personnes recherchées qui ont commis une infraction et de suivre la trace des faux documents, des passeports volés, tout en appliquant des règles de protection des données rigoureuses, garantes des libertés des citoyens - et j'insiste sur ce point.
+      
+      
+        Or - vous l'avez bien indiqué - le système actuel ne permet pas d'utiliser les technologies modernes même si elles respectent les grands principes de protection des données et notamment le principe de proportionnalité.
+        Comment les services de police peuvent-ils effectuer un travail efficace alors que la base centrale ne permet pas, actuellement, de consulter les photographies numériques des personnes recherchées, de les identifier de façon certaine?
+        C'est la raison pour laquelle l'objectif de mise en place du système d'information Schengen II ou SIS II doit être maintenu et c'est l'enjeu - vous l'avez très bien expliqué - de notre débat.
+        Je tiens ici, Monsieur le Président, au nom du Conseil, à adresser tous mes remerciements au vice-président, Jacques Barrot, qui a accepté, sur la base d'un nouveau mandat, de continuer à piloter le développement de la base centrale du nouveau SIS ainsi que les interconnexions avec les bases nationales et je le remercie de s'être personnellement engagé dans cette mission.
+      
+      
+        Les projets de texte sur lesquels vous serez appelés à voter demain établissent un partage plus clair des responsabilités entre les États membres et la Commission à toutes les phases, qu'il s'agisse du développement du projet, des tests finaux, de la phase intermédiaire, avec le convertisseur, ou de la migration finale d'un système à un autre, dans un souci d'équilibre d'ensemble entre ce que sont les obligations des États membres et ce que sont les responsabilités de la Commission européenne.
+      
+      
+        Je voudrais tout particulièrement remercier Carlos Coelho, qui a su mener rapidement un travail important, efficace et imaginatif aussi avec ses collègues de la commission des libertés.
+        Je voudrais qu'il transmette également mes remerciements au président Deprez.
+        M. Coelho a favorisé l'inscription des textes nécessaires à la plénière d'aujourd'hui et ces textes intègrent les propositions que vous avez faites, Monsieur le Rapporteur.
+        Ce soutien de votre Assemblée nous permet aujourd'hui de franchir une nouvelle étape dans la transition vers le SIS II en temps utile, avant que le mandat actuel de la Commission n'expire, mandat qui vient à échéance - mandat ad hoc, je le précise - le 31 décembre prochain, je rassure tout de suite le vice-président.
+      
+      
+        Certes, le défi technologique que représente la mise en place du nouveau système est important et a sans doute été sous-estimé dans les premiers temps.
+        En effet, le transfert de 22 millions de données, impliquant plus de 24 parties dont les bases nationales sont de formats disparates n'est, comme vous pouvez l'imaginer à ce simple énoncé, pas une tâche facile.
+        Mais les efforts qui ont été investis dans ce projet sont, je crois, à la hauteur de l'enjeu.
+        Ces efforts techniques et financiers méritent que le Parlement européen soit pleinement informé des progrès et des difficultés qui existent dans la transition vers le nouveau système et qu'il soit fixé une date limite - vous l'avez indiqué, Monsieur le Rapporteur - pour tester le nouveau système et vérifier qu'il sera pleinement opérationnel - nous l'espérons - en septembre de l'année prochaine, comme cela a été convenu lors du Conseil des ministres de la justice et des affaires intérieures du 6 juin dernier.
+      
+      
+        L'échéance que nous nous sommes fixée, nous le savons, est exigeante.
+        Les techniciens le savent et nous ne pourrons l'atteindre que si chacun s'engage sans réserve dans le projet SIS II et assume les responsabilités qui lui incombent.
+        Le Parlement européen nous donne, à travers votre rapport, un signal favorable ce soir en présentant des demandes qui sont parfaitement légitimes.
+        C'est la raison pour laquelle le Conseil se propose d'approuver sans réserve les amendements présentés qui ont reçu - je le souligne - le soutien de tous les groupes politiques de votre Assemblée.
+        Je vous remercie véritablement du travail ainsi accompli.
+      
+    
+    
+      
+        vice-président de la Commission. - Monsieur le Président, à mon tour je voudrais remercier la présidence et Jean-Pierre Jouyet pour l'accord qu'il vient de donner au rapport de Carlos Coelho car je crois en effet que, dans ce domaine majeur, il faut que nous avancions sans retard, sans délai.
+        Et je voudrais dire merci aussi à Carlos Coelho pour son rapport et pour son engagement personnel dans la réussite de SIS II.
+        Si SIS II voit le jour, eh bien il vous devra beaucoup, cher Monsieur Coehlo.
+      
+      
+        Votre rapport met à nouveau en évidence l'intérêt fort et le soutien continu de la part du Parlement en faveur du projet de développement du système d'information Schengen de deuxième génération.
+        Évidemment, le SIS II sera un outil clé de l'espace commun de sécurité, de liberté et de justice et à cette fin, évidemment, il est primordial que ce système soit opérationnel dès que possible.
+      
+      
+        Je me félicite donc qu'un accord ait été trouvé sur les instruments juridiques relatifs à la migration du SIS 1 vers le SIS II.
+        Cet accord est acceptable parce qu'il maintient les trois principes clés suivants:
+      
+      
+        une claire délimitation des tâches et des responsabilités des acteurs: États membres, Commission, Conseil;
+      
+      
+        les processus décisionnels efficaces et dépourvus de toute ambiguïté;
+      
+      
+        la définition d'échéances contraignantes;
+      
+      
+        L'adoption de ce cadre juridique d'ici octobre nous permettra d'assurer la continuité des travaux nécessaires en 2009 pour le SIS II.
+        C'est vrai, comme l'a souligné Jean-Pierre Jouyet, Monsieur le Ministre, vous l'avez souligné, la date du 30 septembre 2009, inscrite aujourd'hui dans les projets d'instruments juridiques sur la migration, est une date ambitieuse et, même cet été, nous avons dû effectivement, après avoir consulté de façon informelle les experts des États membres, suspendre certains tests en cours avec les États membres.
+      
+      
+        Le contractant dispose à présent d'une période de 20 jours pour remédier aux problèmes existants.
+        Mais il est certain qu'il faut faire très attention à toutes ces difficultés qui peuvent survenir et faire obstacle au respect du calendrier complet du SIS II.
+        Nous discutons actuellement avec les États membres de la meilleure approche à adopter pour achever les travaux SIS II.
+        Il nous faut par ailleurs trouver un bon équilibre entre la priorité politique qui est attachée à ce système et, en même temps, l'assurance d'une qualité optimale du service qu'il rendra aux autorités nationales qui l'utiliseront.
+      
+      
+        En toute hypothèse, les mécanismes d'adaptation prévus nous offrent la flexibilité et nous obligent à la transparence nécessaire en ce qui concerne le plan de développement.
+        Alors, Monsieur Coehlo, nous sommes totalement d'accord avec vos amendements, cela va de soi.
+      
+      
+        D'une part, la fixation d'une date d'expiration des actes législatifs relative à la migration fin juin 2010 va nous offrir une marge de manœuvre suffisante en cas de difficultés pour finaliser le développement du SIS II ou pour la migration, et cette date nous garantit que le SIS II sera pleinement opérationnel à la mi-2010.
+      
+      
+        D'autre part, la présentation par la Commission, deux fois par an, de rapports relatifs au développement et à la migration du SIS 1 vers le SIS II garantira la transparence des travaux relatifs au SIS II vis-à-vis du Parlement.
+      
+      
+        Je voudrais pour ma part, Monsieur le Président, vraiment souligner, après la présidence qui s'est exprimée au travers de M. le ministre Jean-Pierre Jouyet, que pour que Schengen soit vraiment une réussite complète - ce qu'il est déjà -, nous avons besoin du SIS II.
+        C'est véritablement une prouesse technologique qui illustre d'ailleurs toutes les potentialités de l'Europe lorsqu'elle se met vraiment à utiliser les nouvelles technologies, mais c'est tout à fait essentiel.
+      
+      
+        C'est pourquoi je remercie beaucoup le Parlement qui, pratiquement sans opposition, accepte toutes ces perspectives et a approuvé le rapport de M. Coehlo.
+      
+    
+    
+      
+        au nom du PPE-DE. - (RO) Je souscris à la proposition du rapporteur de fixer le délai pour ce nouveau paquet législatif au 30 juin 2010; c'est important afin d'empêcher tout éventuel retard dans la mise en œuvre de la deuxième génération du système d'information Schengen, le SIS II.
+      
+      
+        La suppression des contrôles aux frontières terrestres et maritimes, qui a débuté le 21 décembre 2007, ainsi qu'aériennes (mars 2008) constitue une étape pertinente pour neuf des dix États membres.
+        Le Conseil a décidé que les contrôles aux frontières dans les trois pays restants, à savoir Chypre, la Roumanie et la Bulgarie, cesseraient lorsque l'opérabilité du système Schengen aura été garantie à la suite d'une évaluation.
+        Or, le fonctionnement du système Schengen dans ces trois pays dépend du fonctionnement du SIS II dans les actuels pays Schengen.
+        Comme vous le savez, il était initialement prévu que le SIS II commence à fonctionner en mai 2007, puis le délai a été reporté à décembre 2008 et, maintenant, il a de nouveau été reporté à septembre 2009.
+        Ces modifications du calendrier pourraient entraîner des retards dans les trois États membres.
+        Il ne faut pas oublier que ces trois États membres sont tous des États frontaliers de l'Union européenne et qu'ils ont des frontières terrestres et maritimes.
+      
+      
+        Les deux premières mesures de l'acquis de Schengen sont la suppression des contrôles aux frontières pour les déplacer vers les frontières extérieures, et des procédures communes de contrôle des personnes franchissant les frontières extérieures.
+        Ces mesures de l'acquis sont minées par le fait que des pays tels que la Roumanie, la Bulgarie et Chypre dépendent de la mise en œuvre retardée du SIS II dans des pays qui font partie de l'espace Schengen.
+        Par conséquent, j'appelle la Commission et la présidence française à résoudre le problème de la gestion du SIS II et à négocier avec le contractant afin d'éviter l'imposition de nouveaux délais pour la mise en œuvre du SIS II.
+      
+    
+    
+      
+        au nom du groupe PSE. - Monsieur le Président, je voudrais vous dire que Martine Roure est rapporteure fictive sur ce rapport.
+        Elle ne peut être là et je m'exprime donc en son nom et au nom du PSE.
+      
+      
+        Je partage les remarques du rapporteur que je remercie pour son travail.
+        En effet, cette situation est tout à fait inacceptable.
+        La mise en place du SIS II a pris un retard considérable.
+        Nous avons déjà dû prolonger une première fois le mandat de la Commission jusqu'à fin décembre 2008 pour effectuer cette migration.
+        Or, la Commission a pris un nouveau retard important et elle demande aujourd'hui une extension illimitée dans le temps de son mandat pour effectuer la migration.
+        Ceci me semble inacceptable, car alors toute future consultation du Parlement européen serait exclue sur cette question.
+      
+      
+        Nous ne souhaitons cependant pas que la migration du SIS vers le SIS II soit faite à la va-vite, car ce serait au détriment de la qualité et de la sécurité des données et du système dans son ensemble.
+        Il convient par conséquent que toutes les précautions soient prises pour assurer la protection des données et la sécurité du système.
+        C'est pourquoi nous pourrions consentir à prolonger à nouveau les délais et le mandat de la Commission pour mener cette migration à bon port.
+      
+      
+        Cependant, la poursuite de ce processus ne peut en aucun cas se faire sans aucun contrôle démocratique du Parlement européen.
+        C'est pourquoi le groupe PSE soutiendra le rapporteur dans sa démarche, afin d'assurer les pouvoirs du Parlement européen.
+      
+    
+    
+      
+        au nom du groupe ALDE. - (EN) Monsieur le Président, je voudrais également exprimer ma reconnaissance envers le rapporteur pour son très bon travail.
+      
+      
+        Le système d'information Schengen est la plus grande base de données commune en Europe, qui fonctionne comme un système commun d'information pour les États membres.
+        Ces informations peuvent être utilisées par la police et par le pouvoir judiciaire lorsqu'ils coopèrent sur des affaires pénales, ainsi que pour le contrôle des personnes au niveau des frontières extérieures ou du territoire national et pour l'émission de visas et d'autorisations de séjour.
+      
+      
+        La décision de créer un SIS de deuxième génération, le SIS II, provient du fait qu'on s'est rendu compte de la nécessité d'intégrer les données biométriques et de nouveaux types de signalement, par exemple en raison du mandat d'arrêt européen.
+        Comme nous l'avons entendu, le SIS II est aussi nécessaire pour intégrer les nouveaux États membres.
+      
+      
+        Il était initialement prévu que le nouveau système commence à fonctionner en mars 2007.
+        Nous savons qu'il y a eu beaucoup de retards et qu'un nouveau calendrier a été annoncé, selon lequel le SIS II devrait être opérationnel à la fin de cette année.
+        En outre, grâce à la solution provisoire présentée par le gouvernement portugais et mentionnée tout à l'heure par le ministre Jouyet, ledit "SIS One 4 All", le système est désormais pleinement opérationnel et a permis de connecter neuf des nouveaux États membres au SIS.
+        Toutefois, comme l'a souligné le commissaire Barrot, dans cet espace Schengen élargi, le renforcement des exigences de sécurité est devenu encore plus urgent et ne peut être pleinement atteint que grâce à une transition complète à un système de nouvelle génération.
+      
+      
+        Il est essentiel pour cette transition que le SIS II remplisse toutes les exigences techniques et fonctionnelles définies par la législation, ainsi que d'autres exigences en ce qui concerne la robustesse, la réactivité et les performances.
+        Le Parlement est maintenant invité à donner son avis sur les deux actuelles propositions visant à établir le cadre juridique régissant la migration.
+        En ma qualité de rapporteur fictif ALDE, je soutiens pleinement la position adoptée par le rapporteur, notamment le fait que la Commission devrait, avant la fin juin 2009, puis avant la fin de chaque semestre, faire rapport au Conseil et au Parlement sur l'état d'avancement du développement du SIS II et de la migration du système d'information Schengen SIS I+ vers le système de deuxième génération SIS II.
+      
+      
+        Il a été très décevant de constater que le SIS II n'est pas encore opérationnel.
+        Avec ce nouveau mandat et les tests rigoureux qui seront réalisés, j'espère que le SIS II est enfin sur la voie d'un lancement réussi d'ici septembre 2009.
+      
+    
+    
+      
+        au nom du groupe des Verts/ALE. - (EN) Monsieur le Président, je tiens avant tout à remercier M. Coelho pour son travail productif, comme à l'accoutumée, sur les rapports relatifs à la transition vers le SIS II.
+        Ces rapports couvrent principalement des aspects techniques, mais je voudrais aborder le SIS II sous un angle plus général.
+      
+      
+        Tout d'abord, je voudrais reconnaître le fait que la présidence portugaise a donné la possibilité aux dix nouveaux États membres de rejoindre l'ancienne version du SIS.
+        Sinon, les nouveaux États membres, le mien compris, auraient dû attendre au moins jusqu'en septembre 2009, soit presque deux années de plus.
+      
+      
+        Par ailleurs, "en retard" n'est pas nécessairement synonyme de "mauvais".
+        Le SIS II fonctionnera dans le cadre de deux piliers.
+        Cependant, nous ne disposons toujours pas d'une décision-cadre juridiquement contraignante sur la protection des données au sein du troisième pilier.
+        Dans la mesure où le SIS II introduit le traitement de données biométriques, la question de la protection des données reste largement irrésolue.
+      
+      
+        Je tiens à souligner que mon groupe politique est extrêmement prudent concernant la biométrie.
+        Peut-être devrions-nous réellement attendre de disposer d'une base juridique solide pour la protection des données avant de commencer à utiliser le SIS II.
+      
+      
+        Un autre domaine où le fonctionnement du SIS pourrait s'avérer utile, sont les interdictions d'entrée imposées par les États membres aux ressortissants de pays tiers.
+        D'après la convention de Schengen, c'est le droit national qui est applicable lorsqu'une personne demande la suppression d'un signalement la concernant.
+        À cet égard, le règlement sur le SIS II prévoit de meilleures garanties procédurales au niveau européen.
+      
+      
+        Pour résumer, dans certains domaines, le SIS II nous donne une meilleure Europe.
+        Néanmoins, nous devrons continuer de travailler sur plusieurs importantes failles.
+        Si nous devons attendre d'obtenir plus de garanties, nous devrions peut-être nous préparer à une longue attente.
+      
+    
+    
+      
+        Comme l'ont souligné plusieurs organisations qui suivent le processus de communautarisation de la justice et des affaires intérieures, des domaines qui sont au cœur de la souveraineté des États membres, avec la "migration" du système d'information Schengen vers sa deuxième version, les caractéristiques de ce système d'information et de cette base de données ont été étendues grâce à l'inclusion de nouveaux types de signalement, comme le mandat d'arrêt européen, l'ajout de nouvelles catégories de données, comme les données biométriques, et l'accès accordé à de nouvelles entités.
+        De nouvelles caractéristiques et fonctionnalités ont également été mises au point pour relier les signalements entre eux et connecter le système au système d'information sur les visas.
+        Il convient par ailleurs de mentionner l'inquiétante possibilité que les enregistrements puissent être conservés longtemps si nécessaire, mais je me demande bien qui décidera de quand c'est nécessaire.
+        Il convient également d'apporter des éclaircissements quant au domaine beaucoup trop vague du possible échange de données avec des pays tiers.
+      
+      
+        Nous pensons que cette extension par rapport à l'ancien système entraîne des risques concernant la protection des droits, des libertés et des garanties des citoyens en ce sens qu'elle ajoute de nouveaux éléments à une base de données qui sera plus accessible et qui permettra un plus grand partage d'informations.
+        Au fond, bien plus que répondre à l'élargissement à de nouveaux pays, il y a une tentative d'adapter le SIS à la dangereuse préoccupation sécuritaire liée au renforcement de la communautarisation des affaires intérieures au sein de l'Union européenne, que nous rejetons.
+      
+    
+    
+      
+        au nom du groupe IND/DEM. - (SV) Monsieur le Président, le sujet dont nous débattons est bien plus important que d'autres sujets régulièrement abordés dans cette Assemblée.
+        Nous discutons du sujet fondamental de la mobilité des personnes au sein de ce que l'on appelle l'espace Schengen.
+        Il ne fait pas l'ombre d'un doute que ce système facilite les déplacements de nombreuses personnes, mais il faut bien dire que les inconvénients du système éclipsent ses aspects positifs.
+      
+      
+        Je parle du fait que Schengen entraîne également une restriction de la mobilité d'un grand nombre de personnes en raison des systèmes sociaux.
+        Schengen représente une nouvelle étape vers la création d'un super-État, d'une Europe forteresse.
+        La création d'une société de contrôle disposant d'immenses pouvoirs.
+        Je ne tiens pas à y contribuer.
+      
+      
+        Il ne fait en effet aucun doute que la criminalité transfrontalière est l'un des plus gros problèmes de notre temps.
+        Par conséquent, il faut trouver des solutions transfrontalières.
+        Toutefois, je ne pense pas que Schengen, ni l'UE d'ailleurs, soit le bon forum pour ce faire.
+        Il y a déjà Interpol, un corps de police international excellent et efficace auquel des États souverains du monde entier participent.
+        Au lieu de créer des systèmes parallèles, il faudrait œuvrer davantage au renforcement d'Interpol.
+        Nous savons que la criminalité ne se limite pas à notre continent, mais se compose de réseaux mondiaux.
+        C'étaient là quelques remarques générales; passons maintenant à des points plus spécifiques.
+      
+      
+        Un aspect qui, selon moi, est pris trop à la légère lorsqu'il s'agit des systèmes d'information Schengen, est la question de la confidentialité.
+        Les données à caractère personnel qui seront traitées et stockées sont de nature très sensible.
+        L'une des missions les plus importantes de l'État est d'apporter à ses concitoyens des garanties complètes contre l'accès non autorisé aux données à caractère personnel.
+        Je considère dès lors qu'il s'agit d'une question nationale, étant donné que je crois fermement que l'UE n'est pas en mesure de fournir les garanties requises.
+        Par ailleurs, j'estime qu'il est superflu et onéreux de créer de nouvelles structures.
+        Après tout, c'est l'argent des contribuables qui doit financer le système.
+      
+      
+        Je suis depuis longtemps d'avis que le développement de l'UE, ou l'intégration européenne comme d'aucuns aiment l'appeler, peut être comparé à la progression de la tyrannie à petits pas.
+        Et il est assez effrayant de constater que ces pas ne sont plus si petits.
+        Au contraire, nous assistons à de grands pas, rapides et déterminés, vers la création d'un État européen.
+        Aucun véritable europhile ne devrait accepter cette évolution.
+      
+    
+    
+      
+        (SK) Mesdames et Messieurs, nous discutons une fois de plus du système d'information Schengen (SIS), qui est l'instrument principal d'application des principes de Schengen.
+        Il constitue sans nul doute l'épine dorsale de l'Europe "sans frontières" et de l'espace de liberté, de sécurité et de justice.
+        Il est dès lors essentiel que le SIS II commence à fonctionner.
+      
+      
+        À l'heure actuelle, le système SISone4ALL est pleinement opérationnel en tant que solution technique provisoire, puisqu'il permet de connecter les neuf nouveaux États membres au SIS et, bien sûr, de par leur adhésion à l'espace Schengen, d'en faire des membres à part entière de l'Union.
+        Le 21 décembre 2007 était une date importante pour l'histoire de mon pays, la Slovaquie, et de l'ensemble de l'UE.
+        Elle a marqué la réelle chute du rideau de fer.
+      
+      
+        C'est pourquoi je voudrais remercier Carlos Coelho d'avoir élaboré ce rapport et pour les énormes efforts qu'il a consentis.
+        Je suis convaincue que s'il n'avait pas été là, l'espace Schengen ne compterait pas neuf nouveaux membres aujourd'hui.
+        Je pense que le SIS nouvelle génération parviendra à fonctionner tout aussi rapidement et sans aucun problème.
+      
+    
+    
+      
+        Président en exercice du Conseil. - Merci beaucoup à tous les intervenants pour la qualité de ce débat et le large soutien au principe du nouveau mandat, ainsi qu'à la position du rapporteur, qui a été exprimée par les différents intervenants.
+      
+      
+        Monsieur Marinescu, j'ai salué l'excellent travail qui avait été effectué par la présidence portugaise, qui a permis le raccordement de nouveaux États membres.
+        J'ai pris note du désir de la Roumanie de rejoindre dès que possible le système sous le contrôle de la Commission, avec les ajustements techniques qui pourront être faits à cet égard.
+      
+      
+        Par rapport aux observations qui ont été présentées par Mme Lefrançois et par M. Lax, le Conseil ne peut que regretter le retard qui a été apporté, mais nous constatons tous les efforts qui ont été entrepris par la Commission, l'engagement personnel du vice-président Jacques Barrot pour redresser le cours des choses et l'action forte qu'il a rappelée à l'égard du prestataire.
+        Le Conseil restera vigilant également aux côtés de la Commission et de tous les États membres et ces derniers resteront fortement engagés pour mener à bien le projet tel qu'il est prévu, en veillant à la fois à sa fiabilité technique et à son efficacité, ainsi qu'à la garantie, bien évidemment, des libertés des citoyens.
+      
+      
+        Pour répondre à Mme Ždanoka et à M. Guerreiro, je comprends - et Mme Lefrançois l'a souligné - que plusieurs d'entre vous et le Parlement souhaitent une discussion supplémentaire pour inclure dans le système de nouvelles fonctionnalités, mais il est indispensable de faire aboutir le SIS II pour permettre ces fonctionnalités.
+        Donc, qu'il y ait un débat politique, sur ce que doivent être ces nouvelles fonctionnalités, cela me paraît normal, comme plusieurs d'entre vous l'ont souligné, cela ne doit pas entraver la marche vers la mise en place de ce nouveau système.
+        En effet, il ne serait pas acceptable de renoncer à ces fonctionnalités seulement parce qu'un système trop ancien, en l'occurrence le SIS 1, ne le permet pas.
+        Il faut d'abord, avant de tenir ce débat, que l'on dispose du système et que la mise au point technologique soit faite.
+      
+      
+        Par rapport aux autres interventions qui ont porté, pour la plupart, sur la protection des données, je souhaite indiquer - comme le président l'a souligné, et nous participions avec M. Barrot ce matin au débat sur la protection des données individuelles - que nous souhaitons effectivement continuer l'action qui est entreprise au niveau européen, que nous pensons que les garanties nécessaires que vous avez demandées doivent être apportées quant à la protection de ces données et quant aux échanges avec les États tiers.
+        Sans revenir sur le débat général que nous avons tenu ce matin, je souhaite préciser qu'il a été convenu également, en ce qui concerne la protection de ces données, de s'en remettre aux recommandations du contrôleur européen des systèmes d'information, de façon à ce que ces préoccupations soient prises en compte.
+      
+    
+    
+      
+        vice-président de la Commission. - Monsieur le Président, je remercie aussi tous les intervenants et une fois de plus notre rapporteur.
+        Je voudrais rappeler à mon tour, à la suite de ce qu'a dit M. le ministre Jean-Pierre Jouyet, que nous sommes très attentifs au respect des règles de protection des données.
+        Les services sont en contact régulier, vous l'avez souligné, Monsieur le Ministre, avec les services du contrôleur européen de la protection des données pour assurer la bonne intégration de ces règles dans le cadre du développement et de la gestion du SIS II.
+        Une visite du contrôleur européen de la protection des données est prévue au premier semestre 2009 sur le site de Strasbourg, avant que la migration ait lieu, afin de s'assurer que la sécurité de la protection des données est respectée.
+      
+      
+        Le convertisseur qui est en train d'être développé permettra aussi un transfert sécurisé de données du SIS 1 vers le SIS II.
+        Mme Lefrançois a évoqué, à juste titre, cette migration en disant qu'elle ne devait pas se faire à la va-vite, et elle a raison.
+        Il faudra que nous fassions très attention.
+      
+      
+        Par ailleurs, les instruments juridiques contiennent des dispositions spécifiques visant à garantir le respect des principes de protection des données.
+        Voilà ce que je peux dire sur la protection des données en sachant qu'en effet, nous devons faire extrêmement attention à ce que ce système soit cohérent avec ce que, par ailleurs, nous essayons de promouvoir en Europe en matière de protection des données.
+      
+      
+        Je reviens sur le retard.
+        Je comprends bien M. Marinescu, M. Lax et Mme Lefrançois, qui ont souligné évidemment l'inquiétude qui est née de ces retards successifs.
+        En ce qui concerne les préparations SIS II au niveau central, nous suivons de très près le développement, nous avons mis en place des moyens qui permettent d'assurer un suivi très rapproché et les services de la Commission veillent tout particulièrement à ce qu'il y ait suffisamment de ressources pour assurer le suivi des travaux des contractants.
+      
+      
+        Évidemment, nous pouvons avoir recours, le cas échéant, aux pénalités prévues dans les contrats, comme mon prédécesseur l'avait fait, en imposant plus d'un million d'euros de pénalité à l'un des contractants.
+        Mais, Monsieur le Président et Mesdames et Messieurs les députés, plutôt que de créer des pénalités, je veux surtout m'assurer que les cocontractants sont vraiment efficaces et suivent bien notre calendrier.
+      
+      
+        Toutefois, la mise en œuvre du SIS II ne concerne pas seulement le SIS II central.
+        Il faut aussi - et je suis heureux que la présidence française soit là car je sais combien elle est engagée dans cette voie - évidemment des efforts importants de la part des États membres.
+      
+      
+        Pour assister les États membres dans leurs préparatifs au niveau national, le groupe des amis du SIS II, qui a été établi par la présidence slovène et confirmé par la présidence française, est extrêmement utile.
+        Ce groupe à haut niveau, auquel participe activement la Commission, a pour objectif de suivre la mise en œuvre du SIS II dans les États membres.
+        C'est en effet par une excellente coopération que nous parviendrons à résoudre le problème.
+      
+      
+        Je veux simplement dire que nous ne bâtissons pas avec SIS II une Europe forteresse, nous nous assurons simplement que la suppression des frontières intérieures ne signifie pas, pour l'Union européenne, pour la communauté des citoyens européens, un risque accru d'insécurité, de violence, de terrorisme.
+        Je ne peux donc pas vous laisser dire qu'en créant SIS II, nous fermons les portes de l'Europe.
+        Il ne s'agit pas de cela.
+        Il s'agit simplement de faire en sorte qu'ayant aboli nos frontières intérieures, nous puissions offrir aux citoyens européens un espace - eh oui, je le dis - un espace de sécurité et de liberté.
+      
+      
+        Voilà, Monsieur le Président.
+        En tout cas merci au Parlement et à M. Coehlo, personnellement, de s'investir autant dans cette construction du SIS II qui est, encore une fois, la clé de la réussite de Schengen.
+      
+    
+    
+      
+        rapporteur. - Monsieur le Président, je prends le risque de faire mes commentaires finaux en français pour répondre à la courtoisie des remarques du ministre Jouyet et du vice-président Barrot.
+        Je m'exprimerai donc maintenant dans votre langue pour vous féliciter.
+        Ça n'a pas été un travail facile de bâtir un consensus au sein du Conseil, mais vous avez réussi.
+        Pour nous, deux choses sont vraiment importantes: la clarté de la répartition des compétences entre la Commission européenne et les États membres, et le problème du mandat de la Commission.
+      
+      
+        Le mandat de la Commission ne pourra prendre fin que quand le système SIS II fonctionnera parfaitement.
+        Je veux aussi remercier le Conseil, la Commission et tous les groupes politiques de la commission LIBE pour le travail accompli ensemble pour la rédaction des amendements que nous irons voter demain.
+        Pour nous, la clause de transparence est très importante: les citoyens ont le droit d'être informés au sujet du système Schengen et du SIS II.
+        Quant au problème de la durée du mandat de la Commission, un mandat à durée illimitée n'est pas acceptable et nous avons réussi à résoudre ce problème-là.
+      
+      
+        Pour finir, Monsieur le Président, je voudrais expliquer à ceux qui se sont exprimés de façon peu optimiste sur le système pourquoi nous aimons le SIS II.
+        Nous aimons le SIS II parce que nous aimons la liberté de circulation en Europe.
+        Or, pour avoir la libre circulation en Europe, nous devons être sûrs que nos frontières externes sont sûres.
+        La sûreté des frontières externes est une condition de liberté des citoyens européens et c'est pourquoi on a besoin très rapidement du SIS II.
+      
+    
+    
+      
+        Le débat est clos.
+      
+      
+        Le vote aura lieu demain.
+      
+    
+  
+
