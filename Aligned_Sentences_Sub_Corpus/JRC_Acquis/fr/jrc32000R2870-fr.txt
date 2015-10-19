@@ -1,0 +1,125 @@
+Article 2 Par dérogation à l'article 1er, premier tiret, l'application d'autres méthodes d'analyse est admise, sous la responsabilité du directeur de laboratoire, à condition que l'exactitude et la précision (répétabilité et reproductibilité) de ces méthodes soient au moins équivalentes à celles des méthodes d'analyse de référence correspondantes, figurant à l'annexe.
+Article 3 Lorsque des méthodes d'analyse communautaires de référence ne sont pas prévues pour la détection et la quantification des substances contenues dans une boisson spiritueuse donnée, les méthodes d'analyse suivantes sont applicables: a) méthodes d'analyse validées conformément à des procédures internationalement reconnues et répondant en particulier aux critères établis à l'annexe de la directive 85/591/CEE; b) méthodes d'analyse conformes aux normes recommandées par l'Organisation internationale de normalisation (ISO); c) méthodes d'analyse reconnues et publiées par l'assemblée générale de l'Office international de la vigne et du vin (OIV); d) lorsque les méthodes visées aux points a), b) et c) ne peuvent pas être appliquées et au vu de son exactitude, de sa répétabilité et de sa reproductibilité: - toute méthode d'analyse agréée par l'État membre concerné, - le cas échéant, toute autre méthode d'analyse appropriée.
+Article 5 Le présent règlement entre en vigueur le septième jour suivant celui de sa publication au Journal officiel des Communautés européennes.
+Il est applicable à partir du 1er janvier 2001.
+Fait à Bruxelles, le 19 décembre 2000.
+Par la Commission Franz Fischler Membre de la Commission (1) JO L 160 du 12.6.1989, p. 1. (2) JO L 105 du 25.4.1990, p. 9. (3) JO L 270 du 7.10.1998, p. 9. (4) JO L 372 du 31.12.1985, p. 50.
+Références normatives ISO 3696:1987: Eau pour laboratoire à usage analytique - Spécification et méthodes d'essai. 3.
+Termes et définitions 3.1.
+Température de référence La température de référence pour la détermination du titre alcoométrique volumique, de la masse volumique et de la densité relative des boissons spiritueuses est de 20 °C.
+Remarque 1: On réservera l'expression %quot%à t °C%quot% aux déterminations (de la masse volumique ou du titre alcoométrique volumique) exprimées à une température autre que la température de référence de 20 °C. 3.2.
+Masse volumique La masse volumique est le quotient de la masse d'un certain volume de boisson spiritueuse à 20 °C par ce volume dans le vide.
+Elle s'exprime en kilogrammes par mètre cube et son symbole est ρ20 °C ou ρ20. 3.3.
+Densité relative La densité relative est le rapport, exprimé en nombre décimal, de la masse volumique des boissons spiritueuses à 20 °C à la masse volumique de l'eau à la même température.
+Remarque 2: Il est possible d'obtenir la densité relative à partir de la masse volumique ρ20 à 20 °C: %gt%PICTURE%gt% ou %gt%PICTURE%gt%, où 998,203 est la masse volumique de l'eau à 20 °C. 3.4.
+Les valeurs de référence à utiliser pour le titre alcoométrique volumique ( % vol.) à 20 °C en fonction de la masse volumique à 20 °C des mélanges hydroalcooliques sont celles qui figurent dans la table internationale adoptée par l'Organisation internationale de métrologie légale dans sa recommandation no 22.
+L'équation générale reliant le titre alcoométrique volumique et la masse volumique des mélanges hydroalcooliques à une température donnée est indiquée au chapitre 3 %quot%Titre alcoométrique volumique%quot%, page 40, de l'annexe du règlement (CEE) no 2676/90 (JO L 272 du 3.10.1990, p. 1) et dans le recueil des méthodes d'analyse de l'OIV (1994) (p. 17).
+Formule de conversion: %gt%PIC FILE= %quot%L_2000333FR.002301.EPS%quot%%gt% où TAM= titre alcoométrique massique, ρ20 (alcool)= 789,24 kg/m3 4.
+Réactifs et matériaux 3.1.
+Billes antiprojection. 3.2.
+Appareillage et matériel Appareillage courant de laboratoire, et notamment: 4.1.
+Bain-marie pouvant être maintenu entre 10 et 15 °C.
+Bain-marie pouvant être maintenu à 20 °C (+- 0,2 °C). 4.2.
+Fioles jaugées (100 et 200 ml) de classe A, vérifiées à +- 0,1 et 0,15 % respectivement. 4.3.
+Appareil de distillation 4.3.1.
+La figure 1 montre, à titre d'exemple, un appareil de distillation approprié, qui comprend: - un ballon d'un litre de capacité, équipé d'un rodage normalisé, - une colonne rectificatrice d'une hauteur minimale de 20 cm (colonne de Vigreux par exemple), - un tube de connexion coudé pourvu, dans sa partie droite, d'un réfrigérant à bords droits (dit %quot%de West%quot%) d'une longueur de 10 cm environ, - un réfrigérant à serpentin de 40 cm de long, - un tube effilé permettant de conduire le distillat au fond d'une fiole jaugée réceptrice contenant un faible volume d'eau.
+Remarque: L'appareil décrit ci-dessus est prévu pour un échantillon d'au moins 200 ml.
+Contrôle de l'appareil de distillation L'appareil utilisé doit répondre aux exigences suivantes: La distillation d'une solution hydroalcoolique de 200 ml dont la concentration est connue et voisine de 50 % vol.
+Boissons spiritueuses dont le titre alcoométrique est inférieur à 50 % vol.
+Prélever à l'aide d'une fiole jaugée 200 ml de boisson spiritueuse.
+Verser l'échantillon dans le ballon de l'appareil de distillation et rincer la fiole jaugée avec trois volumes d'eau distillée d'environ 20 ml chacun.
+Remarque: Cette dilution de 60 ml est suffisante dans le cas des boissons spiritueuses contenant moins de 250 g d'extrait sec par litre.
+Sinon, pour éviter les pyrolyses, il faut que le volume des liquides de rinçage soit au moins de 70 ml si l'extrait sec est de 300 g/l, 85 ml pour un extrait sec de 400 g/l et 100 ml pour un extrait sec de 500 g/l (certaines liqueurs ou crèmes de fruits).
+Verser 20 ml d'eau distillée dans la fiole jaugée d'origine de 200 ml, qui sera utilisée pour recueillir le distillat.
+Cette fiole doit ensuite être placée dans un bain d'eau froide (4.1) (10 à 15 °C pour les boissons spiritueuses anisées).
+Boissons spiritueuses dont le titre alcoométrique est supérieur à 50 % vol.
+Utiliser suffisamment d'eau pour que le contenu de ce ballon atteigne environ 230 ml.
+Cette fiole doit ensuite être placée dans un bain d'eau froide (4.1) (10 à 15 °C pour les boissons spiritueuses anisées).
+Réactifs et matériaux Au cours de l'analyse, sauf indication contraire, n'utiliser que des réactifs de qualité analytique reconnue et de l'eau de classe 3 au minimum, répondant à la définition de la norme ISO 3696:1987.
+Solution de chlorure de sodium (2 % p/v) Pour préparer 1 litre, peser 20 g de chlorure de sodium et dissoudre au volume avec de l'eau.
+Appareillage et matériel Appareillage courant de laboratoire, et notamment: A.3.1.
+Balance analytique d'une sensibilité de 0,1 mg.
+Il comporte un tube latéral de 25 mm de long et de 1 mm au plus de diamètre intérieur, terminé par une partie conique rodée.
+D'autres pycnomètres décrits dans la norme ISO 3507, de 50 ml par exemple, peuvent être utilisés le cas échéant.
+Flacon tare de même volume extérieur (à moins de 1 ml près) que le pycnomètre et de masse égale à celle du pycnomètre plein d'un liquide d'une densité de 1,01 (solution de chlorure de sodium A.2.1).
+Remarque 1: La méthode de détermination de la masse volumique dans le vide des boissons spiritueuses requiert l'utilisation d'une balance à deux plateaux, d'un pycnomètre et d'un flacon tare de même volume extérieur pour annuler l'effet de la poussée de l'air à tout moment donné.
+Il est toutefois possible d'utiliser un pycnomètre de volume inférieur, 50 ml par exemple.
+Peser le pycnomètre propre et sec (P).
+Peser le pycnomètre plein d'eau (P1).
+Peser le flacon tare (T0).
+V20 °C doit être connu à 0,001 ml près. - Masse de l'eau contenue dans le pycnomètre à 20 °C %gt%PICTURE%gt% où 0,998203 est la masse volumique de l'eau à 20 °C.
+Réaliser l'équilibre en plaçant à côté du pycnomètre des masses marquées, soit p grammes.
+Peser le pycnomètre plein d'eau, soit p' la masse en grammes qui réalise l'équilibre.
+V20 °C doit être connu à 0,001 ml près. - Masse de l'eau contenue dans le pycnomètre à 20 °C %gt%PICTURE%gt% où 0,998203 est la masse volumique de l'eau à 20 °C.
+Peser le flacon tare, soit T1 sa masse.
+Peser le pycnomètre plein du distillat préparé (voir appendice I), soit P2 sa masse à t °C.
+Calcul - %gt%PICTURE%gt% - Masse du pycnomètre vide au moment de la mesure = P - m + dT - Masse du liquide contenu dans le pycnomètre à t °C = P2 - (P - m + dT) - Masse volumique à t °C en g/ml - %gt%PIC FILE= %quot%L_2000333FR.002801.EPS%quot%%gt% - Exprimer la masse volumique à t °C en kilogrammes par m3 en multipliant ρt °C par 1000, soit ρt cette valeur. - Corriger ρt à l'aide de la table des masses volumiques ρT des mélanges hydroalcooliques [table II de l'annexe II du recueil des méthodes d'analyse de l'OIV (1994), p. 17 à 29].
+Dans cette table, chercher sur la ligne horizontale correspondant à la température entière T immédiatement inférieure à t °C la plus petite masse volumique supérieure à ρt.
+Utiliser la différence tabulaire lue sous cette masse volumique pour calculer la masse volumique ρt de la boisson spiritueuse à cette température entière T. - En utilisant la ligne de température entière, calculer la différence entre la masse volumique p' de la table immédiatement supérieure à ρt et la masse volumique calculée ρt.
+Résultat À l'aide de la masse volumique ρ20, calculer le titre alcoométrique volumique réel en utilisant les tables mentionnées ci-dessous.
+Peser le pycnomètre plein du distillat préparé (voir appendice I), soit p%quot% sa masse à t °C.
+Calcul - Masse du liquide contenu dans le pycnomètre à t °C = p + m - p%quot% - Masse volumique à t °C en g/ml %gt%PIC FILE= %quot%L_2000333FR.002802.EPS%quot%%gt% - Exprimer la masse volumique à t °C en kilogrammes par m3 et procéder à la correction de température afin de calculer le titre alcoométrique à 20 °C, en suivant les indications fournies pour l'utilisation de la balance monoplateau.
+Réactifs et matériaux Au cours de l'analyse, sauf indication contraire, n'utiliser que des réactifs de qualité analytique reconnue et de l'eau de classe 3 au minimum, répondant à la définition de la norme ISO 3696:1987.
+Appareillage et matériel Appareillage courant de laboratoire, et notamment: B.3.1.
+Remarque 2: L'ajustement précis et le contrôle de la température de la cellule de mesure sont des paramètres très importants, car une erreur de 0,1 °C peut entraîner une variation de masse volumique de l'ordre de 0,1 kg/m3.
+Détermination de la masse volumique de l'échantillon B.4.2.1.
+Résultat Lorsque la masse volumique ρ20 est utilisée, calculer le titre alcoométrique volumique réel en utilisant les tables mentionnées ci-dessous.
+Réactifs et matériaux Au cours de l'analyse, sauf indication contraire, n'utiliser que des réactifs de qualité analytique reconnue et de l'eau de classe 3 au minimum, répondant à la définition de la norme ISO 3696:1987.
+Appareillage et matériel Appareillage courant de laboratoire, et notamment: C.3.1.
+Balance hydrostatique monoplateau d'une sensibilité de 1 mg.
+Flotteur d'un volume d'au moins 20 ml, spécialement adapté à la balance, suspendu par un fil d'un diamètre inférieur ou égal à 0,1 mm.
+L'éprouvette cylindrique doit avoir un diamètre intérieur supérieur d'au moins 6 mm à celui du flotteur.
+Thermomètre (ou sonde de mesure de la température) gradué en degrés et dixièmes de degré, de 10 à 40 °C, étalonné à 0,05 °C près.
+Remarque 1: L'utilisation d'une balance à deux plateaux est également possible; le principe en est décrit au chapitre 1 %quot%Masse volumique et densité relative%quot% de l'annexe du règlement (CEE) no 2676/90 (p. 7).
+Contrôle à l'aide d'une solution hydroalcoolique C.4.3.1.
+Remplir l'éprouvette cylindrique jusqu'au repère avec un mélange hydroalcoolique de titre connu, dont la température sera comprise entre 15 et 25 °C, mais se situera de préférence à 20 °C.
+Noter la température si la masse volumique est mesurée à t °C (ρt).
+Corriger ρt à l'aide de la table des masses volumiques ρT des mélanges hydroalcooliques [table II de l'annexe II du recueil des méthodes d'analyse de l'OIV (1994), p. 17 à 29].
+DÉTERMINATION DE L'EXTRAIT SEC TOTAL DES BOISSONS SPIRITUEUSES PAR GRAVIMÉTRIE 1.
+Références normatives ISO 3696:1987: Eau pour laboratoire à usage analytique - Spécification et méthodes d'essai. 3.
+Capsule cylindrique à fond plat de 55 mm de diamètre. 5.2.
+Introduire à la pipette 25 ml de boisson spiritueuse contenant moins de 15 g/l de matières sèches dans une capsule cylindrique à fond plat de 55 mm de diamètre, préalablement tarée.
+Terminer la dessiccation en plaçant la capsule dans une étuve à 105 °C +- 3 °C pendant deux heures.
+Calcul La masse du résidu multipliée par 40 est égale à l'extrait sec contenu dans la boisson spiritueuse, qui doit être exprimé en g/l avec une décimale. 9.
+Résultats statistiques de l'essai interlaboratoire Les données suivantes proviennent d'une étude internationale sur les performances de la méthode, réalisée conformément aux procédures établies au niveau international [1] [2]. %gt%TABLE%gt% %gt%TABLE%gt% III.
+REMARQUES GÉNÉRALES 1.
+Références normatives ISO 3696:1987: Eau pour laboratoire à usage analytique - Spécification et méthodes d'essai. 3.
+Les substances cogénérées sont séparées par programmation de la température d'une colonne adaptée et sont détectées à l'aide d'un détecteur à ionisation de flamme (FID).
+Réactifs et matériaux Sauf indication contraire, n'utiliser que des réactifs d'une pureté supérieure à 97 %, achetés auprès d'un fournisseur agréé par l'ISO et munis d'un certificat de pureté, exempts d'autres substances cogénérées lors de la dilution d'essai (la confirmation peut être apportée par l'injection d'un étalon de chaque substance cogénérée lors de la dilution d'essai dans les conditions CPG indiquées au point 6.4) et de l'eau de classe 3 au minimum, répondant à la définition de la norme ISO 3696.
+L'acétal et l'acétaldéhyde doivent être stockés dans l'obscurité à une température inférieure à 5 oC.
+Méthanol (CAS 67-56-1). 5.3.
+Acétate d'éthyle (CAS 141-78-6). 5.9.
+Acétaldéhyde (CAS 75-07-0). 5.12.
+Préparation et conservation des solutions titrées (procédure utilisée pour la méthode validée) Toutes les solutions titrées doivent être stockées à une température inférieure à 5 °C et être renouvelées tous les mois.
+La masse des constituants et des solutions doit être donnée à 0,1 mg près. 5.14.1.
+Solution titrée - A Introduire à la pipette les réactifs suivants dans une fiole jaugée de 100 ml, contenant environ 60 ml de solution d'éthanol (5.13) pour minimiser l'évaporation des constituants, porter au volume à l'aide de la solution d'éthanol (5.13) et bien mélanger.
+Noter le poids de la fiole et de chaque constituant ajouté, ainsi que le poids total final du contenu. %gt%TABLE%gt% Remarque 1: Il est préférable d'ajouter l'acétal et l'acétaldéhyde en dernier lieu afin de minimiser les pertes par évaporation. 5.14.2.
+Solution titrée - B Introduire à la pipette 3 ml de pentan-3-ol ou d'un autre étalon interne approprié (5.5) dans une fiole jaugée de 100 ml, contenant environ 80 ml de solution d'éthanol (5.13), porter au volume à l'aide de la solution d'éthanol (5.13) et bien mélanger.
+Noter le poids de la fiole et du pentan-3-ol ou de tout autre étalon interne ajouté, ainsi que le poids total final du contenu. 5.14.3.
+Solution titrée - C Introduire à la pipette 1 ml de solution A (5.14.1) et 1 ml de solution B (5.14.2) dans une fiole jaugée de 100 ml, contenant environ 80 ml de solution d'éthanol (5.13), porter au volume à l'aide de la solution d'éthanol (5.13) et bien mélanger.
+Noter le poids de la fiole et de chaque constituant ajouté ainsi que le poids total final du contenu. 5.14.4.
+Solution titrée - D Afin de maintenir la continuité analytique, préparer un étalon de contrôle de la qualité à l'aide de l'étalon A précédemment préparé (5.14.1).
+Introduire à la pipette 1 ml de solution A (5.14.1) dans une fiole jaugée de 100 ml, contenant environ 80 ml de solution d'éthanol (5.13), porter au volume à l'aide de la solution d'éthanol (5.13) et bien mélanger.
+Noter le poids de la fiole et de chaque constituant ajouté ainsi que le poids total final du contenu. 5.14.5.
+Solution titrée - E Introduire à la pipette 10 ml de solution B (5.14.2) dans une fiole jaugée de 100 ml, contenant environ 80 ml de solution d'éthanol (5.13), porter au volume à l'aide de la solution d'éthanol (5.13) et bien mélanger.
+Noter le poids de la fiole et de chaque constituant ajouté ainsi que le poids total final du contenu. 5.14.6.
+Solutions titrées servant à contrôler la linéarité de la réponse du FID Dans différentes fioles jaugées de 100 ml, contenant environ 80 ml d'éthanol (5.13), introduire à la pipette 0, 0,1, 0,5, 1,0, 2,0 ml de solution A (5.14.1) et 1 ml de solution B (5.14.2), porter au volume à l'aide de la solution d'éthanol (5.13) et bien mélanger.
+Noter le poids de la fiole et de chaque constituant ajouté ainsi que le poids total final du contenu. 5.14.7.
+Solution titrée de contrôle de la qualité (CQ) Introduire à la pipette 9 ml de solution titrée D (5.14.4) et 1 ml de solution titrée E (5.14.5) dans un récipient et bien mélanger.
+Noter le poids de la fiole et de chaque constituant ajouté ainsi que le poids total final du contenu. 6.
+Prise d'essai 8.1.1.
+Ajouter 1 ml de solution titrée E (5.14.5) et noter le poids (MIS). 8.1.4.
+Les échantillons doivent être stockés à une température inférieure à 5 °C avant l'analyse afin de minimiser les pertes par évaporation. 8.2.
+Ajouter 1 ml de solution titrée E (5.14.5) et noter le poids. 8.2.4.
+Les échantillons doivent être stockés à une température inférieure à 5 °C avant l'analyse afin de minimiser les pertes par évaporation. 8.3.
+Un tracé linéaire doit être obtenu, avec un/coefficient de corrélation d'au moins 0,99. %gt%PIC FILE= %quot%L_2000333FR.004001.EPS%quot%%gt% 8.5.
+Détermination Injecter la solution titrée C (5.14.3) et deux solutions titrées CQ (5.14.7).
+Injecter une solution titrée C (5.14.3) tous les cinq échantillons. 9.
+substance= concentration de la substance dans la solution C (5.14.3) Conc.
+IS= concentration de l'étalon interne dans la solution C (5.14.3) 9.1.2.
+Analyse de l'échantillon À l'aide de l'équation (2) figurant ci-dessous, calculer la concentration de chaque substance dans les échantillons. %gt%PIC FILE= %quot%L_2000333FR.004003.EPS%quot%%gt% où: MÉCH= poids de l'échantillon (8.1.2) MIS= poids de l'étalon interne (8.1.3) Conc.
+IS= concentration de l'étalon interne dans la solution E (5.14.5) RF= facteur de réponse calculé à l'aide de l'équation 1 9.1.3.
+Analyse de la solution titrée de contrôle de la qualité À l'aide de l'équation (3) figurant ci-dessous, calculer le taux de récupération de la valeur cible pour les différents substances contenues dans les étalons CQ (5.14.7). %gt%PIC FILE= %quot%L_2000333FR.004004.EPS%quot%%gt% La concentration de l'analyte dans l'étalon CQ est calculée en utilisant les équations (1) et (2). 9.2.
+Présentation finale des résultats Pour les échantillons, les résultats sont convertis de μg/g en g par hectolitre d'alcool absolu à l'aide de l'équation (4). %gt%PIC FILE= %quot%L_2000333FR.004101.EPS%quot%%gt% où ρ= masse volumique en kg/m3.
+Assurance et contrôle de la qualité (utilisés pour la méthode validée) À l'aide de l'équation (2), calculer la concentration de chaque substance cogénérée dans les solutions titrées de contrôle de la qualité préparées conformément au mode opératoire décrit aux points 8.1.1 à 8.1.4.
+Si les résultats analysés sont compris entre +- 10 % de leurs valeurs théoriques pour chaque substance, l'analyse peut être réalisée.

@@ -1,0 +1,5 @@
+Configurer consiste à simuler la réalisation d’un produit complexe à partir de composants choisis dans un catalogue de types.
+Ni le nombre ni les types des composants requis ne sont connus au départ.
+Les composants sont soumis à des relations (cette information est appellée "partonomique") et leurs types sont soumis à des relations d’héritage (information "taxonomique").
+Les contraintes (appelées aussi règles de bonne formation) définissent l’ensemble des produits valides de manière générique.
+Un configurateur prend en entrée un fragment de la structure de l’objet à construire et l’étend en une solution du problème, si elle existe.

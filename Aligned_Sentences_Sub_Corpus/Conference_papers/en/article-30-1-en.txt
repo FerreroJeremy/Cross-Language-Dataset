@@ -1,0 +1,2 @@
+INTRODUCTION Discourse segmentation aims at splitting texts into Elementary Discourse Units (EDUs) which are nonoverlapping units that serve to build the discourse structure of a document.
+Indeed, EDUs are the entities that have to be linked by coherent relations or the entities that have to be grouped together if a set of EDUs is, as a whole, an argument of a coherent relation.

@@ -1,0 +1,1 @@
+Il comporte les cinq modules suivants : la segmentation du texte brut, la reconnaissance des entités nom-mées, l’annotation des événements, le regroupement des événements similaires et le résumé automatique.

@@ -1,0 +1,3 @@
+Ces partitions en 4 et 9 clusters obtenues par notre algorithme ont été comparées avec la catégorisation en 5 classes des équipes de recherches données a priori par l’Inria.
+Cette catégorisation en 5 classes connue a priori est la suivante : “Mathématiques appliquées, calcul et simulation (M)”, “Algorithmique, programmation, logiciels et architectures (A)”, “Réseaux, systèmes et services, calcul distribué (R)”, “Perception, cognition, interaction (P)”, “STIC pour les sciences de la vie et de l’environnement (V)”.
+Ces 5 catégories sont elles-même divisées en sous-categories.

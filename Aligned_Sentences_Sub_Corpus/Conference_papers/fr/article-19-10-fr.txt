@@ -1,0 +1,2 @@
+Comme précédemment, cette valeur est nulle s’il n’y a pas de relation dans le réseau entre deux cooccurrents.
+Avec cette seconde mesure de similarité, deux cooccurrents n’ont plus nécessairement besoin d’entretenir une relation de cooccurrence directe pour être jugés proches : ils peuvent se contenter de partager un ensemble de mots avec lesquels ils entretiennent une telle relation.

@@ -1,0 +1,51 @@
+Article 2 Les mesures de longueur qui peuvent recevoir les marques et signes CEE sont décrites à l'annexe.
+Article 3 Les États membres ne peuvent refuser, interdire ou restreindre la mise sur le marché et la mise en service de mesures de longueur munies du signe d'approbation CEE de modèle et de la marque de vérification primitive CEE.
+Article 5 Les États membres sont destinataires de la présente directive.
+Fait à Bruxelles, le 19 novembre 1973.
+Par le Conseil Le président Ib FREDERIKSEN (1)JO nº L 202 du 6.9.1971, p. 1.
+Définitions 1.1.
+pour les mesures de longueur devant être utilisées sous une force de traction spécifiée, une modification de 10 % en plus ou en moins de cette force ne provoque pas une variation de longueur supérieure à l'erreur maximale tolérée. 3.
+Graduation et chiffraison 4.1.
+La graduation et la chiffraison doivent être claires, régulières, indélébiles et réalisées de telle sorte qu'elles permettent une lecture sûre, facile et non ambiguë. 4.2.
+La valeur de l'échelon doit être de la forme 1 × 10n,2 × 10n ou 5 × 10n mètres, l'exposant n étant un nombre entier positif ou négatif ou zéro.
+Elle doit être au plus égale à: - 1 cm sur les mesures d'une longueur nominale inférieure ou égale à 2 m, - 10 cm si la longueur nominale est supérieure à 2 m et inférieure à 10 m, - 20 cm si la longueur nominale est supérieure ou égale à 10 m et inférieure à 50 m, - 50 cm si la longueur nominale est supérieure ou égale à 50 m.
+Dans ce cas, l'épaisseur des traits peut être plus faible dans les zones à échelon réduit que dans le reste de la mesure. 4.5.
+Lorsque l'unité de chiffraison est différente du mètre, les repères des mètres peuvent cependant être chiffrés en mètres.
+Lorsque la valeur de l'échelon d'une échelle à traits est de la forme 2 × 10n et non inférieure à 2 centimètres, tous les repères doivent être chiffrés. 4.7.
+Longueur nominale 5.1.
+La longueur nominale des mesures doit avoir l'une des valeurs suivantes : 0,5 - 1 - 1,5 - 2 - 3 - 4 - 5 mètres ou un multiple entier de 5 mètres. 5.2.
+la longueur nominale; 6.1.1.2.
+l'indice de la classe de précision : I, II ou III; 6.1.1.4.
+la température de référence si elle est différente de 20ºC; 6.1.2.2.
+Les inscriptions obligatoires à l'exception du signe d'approbation CEE de modèle et l'emplacement des inscriptions publicitaires doivent figurer sur le modèle faisant l'objet de l'approbation CEE de modèle. 7.
+Erreurs maximales tolérées 7.1.
+Les mesures de longueurs définies dans la présente directive sont réparties, selon leur degré de précision, en trois classes désignées par les indices I, II et III.
+Pour la vérification primitive CEE des mesures de longueur, l'erreur maximale tolérée, en plus ou en moins sur la longueur nominale et sur la distance comprise entre deux repères quelconques d'une mesure de longueur, est exprimée en fonction de la longueur considérée par une formule de la forme (a + b L) millimètres dans laquelle: - L est la valeur de la longueur considérée arrondie au nombre entier de mètres par excès, - a et b sont des coefficients fixés pour chaque classe de précision dans le tableau suivant: %gt%PIC FILE= %quot%T0004947%quot%%gt% 7.2.
+En outre, sur une mesure de longueur à bouts ou mixte, l'erreur maximale tolérée, en plus ou en moins, sur la longueur de l'intervalle terminal limité par un bout, est majorée: - de 0,1 mm pour des mesures de la classe I, - de 0,2 mm pour des mesures de la classe II, - de 0,3 mm pour des mesures de la classe III. 7.4.
+L'erreur maximale tolérée sur les mesures de longueur en service est égale au double de l'erreur maximale tolérée en vérification primitive fixée au point 7.1. 7.5.
+Les mesures de longueur, pour lesquelles une force de traction est indiquée au point 9, sont soumises aux essais, soutenues sur toute la longueur contrôlée, pratiquement sans frottement, sur un plan horizontal, et tendues par la force de traction indiquée sur mesure. 8.
+Marques de vérification Toute mesure de longueur doit être réalisée de manière telle qu'elle puisse recevoir les marques de vérification prévues par la directive du Conseil, du 26 juillet 1971, concernant le rapprochement des législations des États membres relatives aux dispositions communes aux instruments de mesurage et aux méthodes de contrôle métrologique.
+Longueur nominale comprise entre 0,5 et 50 mètres.
+La force de traction, de l'ordre de 20 N, doit être indiquée.
+Ces mesures appartiennent aux classes de précision I, II ou III. 9.2.
+Mesures d'une seule pièce, rigides ou semi-rigides en métal ou en un autre matériau (pour mesurages courants).
+Longueur nominale comprise entre 0,5 et 5 mètres.
+Ces mesures appartiennent à la classe de précision II. 9.3.
+Mesures articulées en métal ou en un autre matériau.
+Longueur nominale comprise entre 0,5 et 5 mètres.
+Leur articulation et leur alignement en position déployée doivent être assurés par un dispositif efficace construit de manière à ne pas occasionner à l'endroit de l'articulation une erreur supplémentaire excédant 0,3 mm pour les mesures des classes de précision I et II et 0,5 mm pour les mesures de la classe de précision III.
+Ces mesures appartiennent aux classes de précision I, II ou III. 9.4.
+Longueur nominale comprise entre 0,5 et 5 mètres.
+Ces mesures appartiennent aux classes de précision I ou II. 9.4.2.
+Longueur nominale : 5, 10, 20, 50, 100 ou 200 mètres.
+La force de traction, de l'ordre de 50 N, doit être indiquée sur la mesure.
+Ces mesures appartiennent aux classes de précision I ou II. 9.4.3.
+Longueur nominale comprise entre 5 et 100 mètres.
+La force de traction, de l'ordre de 50 N, doit être indiquée sur la mesure.
+Ces mesures appartiennent aux classes de précision I ou II. 9.4.4.
+Longueur nominale comprise entre 5 et 50 mètres.
+Ces mesures appartiennent aux classes de précision I ou II.
+Toutefois, l'erreur maximale tolérée sur l'ensemble de l'instrument en position d'emploi avec le lest n'est jamais inférieure à 0,6 mm. 9.5.
+Mesures de longueur en métal d'une seule pièce pour mesurages soignés: - rigides ou semi-rigides (longueur nominale comprise entre 0,5 et 5 mètres) utilisées notamment comme piges, - souples (longueur nominale comprise entre 1 et 200 mètres).
+La force de traction, de l'ordre de 50 N, doit être indiquée sur les mesures souples.
+Ces mesures appartiennent aux classes de précision I ou II.

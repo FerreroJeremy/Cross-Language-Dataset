@@ -1,0 +1,2 @@
+Ce protocole consiste à essayer de mettre en correspondance chaque sens trouvé pour un mot avec l’un de ses synsets dans WordNet et ce, au moyen d’une mesure de similarité.
+Ils définissent néan moins une mesure de rappel mais destinée seulement à classer un ensemble de systèmes.

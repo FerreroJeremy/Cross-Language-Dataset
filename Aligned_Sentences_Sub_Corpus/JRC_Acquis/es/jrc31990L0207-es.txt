@@ -1,0 +1,17 @@
+Formaldehido patron : solucion madre // En un matraz aforado de 1 000 ml, introducir 10 g de formaldehido ( 5.2.9 .) y completar hasta 1 000 ml con agua . // Determinacion del titulo de la solucion madre : // Extraer 5,00 ml, anadir 25 ml de la solucion titulada de iodo ( 5.2.14 ) y 10 ml de solucion de hidroxido de sodio ( 5.2.10 ). // Dejar reposar durante cinco minutos . // Acidificar con 11 ml de HCL ( 5.2.11 ) y determinar el iodo en exceso con una solucion titulada de tiosulfato de sodio ( 5.2.15 ) en presencia de engrudo de almidon como indicador . // 1 ml de solucion de iodo consumida ( 5.2.14 ) corresponde a 1,5 ( 1 ) Segun la norma ISO 5725 . 5.2.19 .
+Formaldehido patron : solucion diluida // Realizar una dilucion al 1/100 de la solucion madre en la fase movil ( 5.2.16 ). // 1 ml de esta solucion contiene aproximadamente 37 *g de formaldehido .
+Material habitual de laboratorio 5.3.2 .
+Una bomba HPLC sin pulsaciones 5.3.3 .
+Una valvula de inyeccion provista de un bucle de 10 *l 5.3.5 .
+Reactor post-columna incluyendo los elementos siguientes : // 1 bombona tritubular de 1 litro, // + 1 calienta bombonas de 1 litro // + 2 columnas Vigreux con 10 platos minimo ( refrigeracion por aire ) // + tubo inoxidable ( para intercambio térmico ) de 1,6 mm _ diametro interior 0,23 mm L = 400 mm // + tubo de teflon de 1,6 mm _ diametro interior 0,30 mm _ L = 5 m, ( Tricotin ) ( ver apéndice 1 ) // + 1 pieza en T sin volumen muerto ( Valco o equivalente ) // + 3 racores Union sin volumen muerto // O : un modulo post-columna de tipo Applied Biosystems PCRS 520 o equivalente provisto de un reactor de 1 ml 5.3.6 .
+Filtro acrodisco RCR 0,45 * 5.3.7 .
+Registradora 5.3.14 .
+Agitador vibratorio ( tipo Vortex o equivalente ) 5.4 .
+Procedimiento 5.4.1 .
+Preparacion de las muestras 5.4.2.1 .
+durante 2 minutos ). // Por otra parte, lavar un cartucho ( 5.3.7 ) con 2 ml de metanol ( 5.2.7 ) y después acondicionar con 5 ml de agua ( 5.2.1 ). // Hacer pasar 4 ml de la fase acuosa del extracto a través del cartucho ( 5.3.8 ), eliminar los primeros 2 ml y recuperar la fraccion siguiente . 5.4.2.2 .
+Condiciones cromatograficas // _ caudal de la fase movil : 1 ml/min // _ caudal del reactivo : 0,5 ml/min // _ caudal total a la salida del detector : 1,5 ml/min // _ volumen inyectado : 10 *l // _ temperatura de elucion : en las separaciones dificiles, la columna se sumerge en un bano de hielo fundente y se espera el equilibrio de las temperaturas . // _ temperatura reaccion post-columna : 100 *C // _ deteccion : 420 nm // _ atenuacion : 0,32 escala plena // _ registrador : 10 mv escala plena desarrollo 10 mm/min . // NB : El conjunto del sistema cromatografico y post-columna debe enjuagarse con agua después de utilizado ( 5.2.1 ).
+Calculo // Caso de las emulsiones // Contenido en % de formaldehido ( m/m ): 1.2.3.4 // C 10-6 100 5 m = C 10-4 5 m 1.2 // **** ** *** ******** * ****** ** ****** **** * *** 1.2.3.4 // * // 10-6 100 m = C 10-4 m 1.2 // ***** * ** **** ** * ** ** ******* ******** * ******* * ** ************ ** *********** ** *g/100ml leida en la curva maestra ( 5.4.1 .) 5.6 .
+Apéndice 1 CONFECCION DE UN SERPENTIN ACCESORIOS UTILIZADOS PARA LA REALIZACION DEL %quot% SERPENTIN %quot% _ 1 bobina de madera : de un diametro exterior de 5 cm, en medio de la cual se practicara un agujero de 1,5 cm .
+Se plantaran cuatro puntas de acero equidistantes ( ver esquema de la bobina en la figura 1 y figura 2 ).
+Dejar aproximadamente 10 cm de tubo para cerrar la cadenilla.

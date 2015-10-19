@@ -1,0 +1,5 @@
+D est la mesure de disimilarité qui varie dans l’intervalle [0; 1].
+La valeur 0 signifie que les deux matrices d’adjacence sont identiques et par conséquent, la structure topologique induite par les deux mesures de proximité est la même.
+Dans ce cas, on parle d’équivalence topologique entre les deux mesures de proximité.
+La valeur 1 signifie que la topologie a totalement changé, autrement dit, aucun couple de voisins dans la structure topologique induite par la première mesure de proximité, n’est resté voisin dans la structure topologique induite par la seconde mesure et vice versa.
+D s’interprète également comme le pourcentage de désaccord entre des tableaux d’adjacence.

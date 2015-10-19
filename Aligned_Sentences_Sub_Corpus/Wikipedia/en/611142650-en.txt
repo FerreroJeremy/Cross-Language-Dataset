@@ -1,0 +1,5 @@
+The algorithm was initially controversial with classified design elements, a relatively short key length, and suspicions about a National Security Agency (NSA) backdoor.
+The S-boxes of DES were much more resistant to the attack than if they had been chosen at random, strongly suggesting that IBM knew about the technique back in the 1970s.
+It was subsequently reaffirmed as the standard in 1983, 1988 (revised as FIPS-46-1), 1993 (FIPS-46-2), and again in 1999 (FIPS-46-3), the latter prescribing "Triple DES" (see below).
+On 26 May 2002, DES was finally superseded by AES, the Advanced Encryption Standard, following a public competition (see AES process).
+The 56 bits are then divided into two 28-bit halves; each half is thereafter treated separately.

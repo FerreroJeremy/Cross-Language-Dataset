@@ -1,0 +1,2 @@
+The two discriminative models described in section 3 require MWE-dedicated features.
+In order to make these models comparable, we use two comparable sets of feature templates: one adapted to sequence labelling (CRF-based MWER) and the other one adapted to reranking (MaxEnt-based reranker).

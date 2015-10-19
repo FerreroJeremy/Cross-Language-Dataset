@@ -1,0 +1,2 @@
+Les structures peuvent être combinées par unification.
+L'unification de deux structures A et B donne une nouvelle structure A!B obtenue en « collant » ensemble ces structures par l'identification d'une partie des objets de la première structure avec ceux de la deuxième.

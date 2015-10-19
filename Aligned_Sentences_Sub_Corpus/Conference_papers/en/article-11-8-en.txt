@@ -1,0 +1,1 @@
+Cosine Measure The cosine measure (cosine) We followed the approach of Nadeau and Foster [11] and represented a document by a vector whose dimension expresses the number of different tokens in the corpus.

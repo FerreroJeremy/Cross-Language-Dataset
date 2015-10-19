@@ -1,0 +1,7 @@
+Article 5 The codes for the transcription, on computer or multimedia medium, of the data referred to in Article 4 of Directive 76/625/EEC must conform to the description given in Annex V to this Decision.
+Article 6 This Decision is addressed to the Member States.
+Done at Brussels, 27 December 2001.
+For the Commission Pedro Solbes Mira Member of the Commission (1) OJ L 218, 11.8.1976, p. 10. (2) OJ L 179, 7.8.1972, p. 1.
+The information recorded in accordance with the characteristics referred to in Article 2 of Directive 76/625/EEC must be communicated to the Commission on computer or multimedia medium, in accordance with the following procedure: 2.
+Data shall be recorded in TXT format with fixed-length entries (58 characters); 4.
+Structure of entry Each entry shall consist of the following 12 fields: %gt%TABLE%gt% The information entered is to be lined up on the right of each field.

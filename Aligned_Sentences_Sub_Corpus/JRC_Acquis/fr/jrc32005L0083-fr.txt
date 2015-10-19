@@ -1,0 +1,16 @@
+Ils appliquent ces dispositions à partir du 1er octobre 2006.
+Article 3 La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.
+Article 4 Les États membres sont destinataires de la présente directive.
+Fait à Bruxelles, le 23 novembre 2005.
+Par la Commission Günter Verheugen Vice-président [1] JO L 42 du 23.2.1970, p. 1.
+Directive modifiée en dernier lieu par la directive 2005/49/CE de la Commission (JO L 194 du 26.7.2005, p. 12). [2] JO L 152 du 6.7.1972, p. 15.
+L’essai est exécuté conformément à la norme CISPR 25 (2e édition, 2002), clause 6.4 — méthode ALSE.". 4) Le point 3.1 de l’annexe VIII est remplacé par le texte suivant: "3.1.
+Les SEEE peuvent satisfaire aux prescriptions de n’importe quelle combinaison des procédures d’essai suivantes, à la discrétion du constructeur, pour autant que les résultats couvrent toute la gamme de fréquences mentionnée au point 3.1 de la présente annexe: - essai en chambre anéchoïque: conformément à la norme ISO 11452-2: 2e édition, 2004, - essai en cellule TEM: conformément à la norme ISO 11452-3: 2e édition, 2001, - essai en injection de courant: conformément à la norme ISO 11452-4: 3e édition, 2005, - essai en stripline: conformément à la norme ISO 11452-5: 2e édition, 2002, - essai en stripline de 800 mm: conformément au point 4.5 de la présente annexe.
+La gamme de fréquences et les conditions générales d’essai doivent être conformes à la norme ISO 11452-1: 3e édition, 2005." b) Le point 2.1 est remplacé par le texte suivant: "2.1.
+Les conditions d’essai doivent être conformes à la norme ISO 11452-1: 3e édition, 2005." c) Le point 3.1 est remplacé par le texte suivant: "3.1.
+Gamme de fréquences, temps d’illumination Les mesures doivent être effectuées dans la gamme de fréquences de 20 à 2000 MHz, avec les pas de fréquence définis dans la norme ISO 11452-1: 3e édition, 2005.
+Modulation du signal d’essai: - MA, avec une modulation de 1 kHz et un taux de modulation de 80 % dans la gamme de fréquences 20-800 MHz, - PM, t = 577 μs, période = 4600 μs, dans la gamme de fréquences 800-2000 MHz, sauf dispositions contraires convenues entre le service technique et le fabricant du SEEE.
+Le service technique réalise les essais aux intervalles précisés dans la norme ISO 11452-1, 3e édition, 2005 dans la gamme de fréquences de 20 à 2000 MHz.
+Sinon, si le constructeur fournit, pour toute la bande de fréquences, des mesures émanant d’un laboratoire d’essai accrédité aux parties applicables de la norme ISO 17025 (1re édition, 1999) et reconnu par l’autorité de réception, un nombre limité de fréquences caractéristiques dans la gamme (par exemple 27, 45, 65, 90, 120, 150, 190, 230, 280, 380, 450, 600, 750, 900, 1300 et 1800 MHz) afin de confirmer que le SEEE satisfait aux exigences de la présente annexe." e) Le point 4.1.2 est remplacé par le texte suivant: "4.1.2.
+Méthodologie d’essai L’essai est effectué conformément à la norme ISO 11452-3: 2e édition, 2001.
+Méthodologie d’essai L’essai est effectué sur un banc d’essai conformément à la norme ISO 11452-4: 3e édition, 2005.

@@ -1,0 +1,2 @@
+Parsing The configurator is exploited as follows : it expects as input a group of partially known objects (for example some instances of the category TerminalCat), that are partially interconnected (via the relation next).
+It tries to complete this input by adding further objects and interconnections, and by deciding for the actual type of all objects as well as for the actual value of all attributes so as to satisfy all the model constraints.

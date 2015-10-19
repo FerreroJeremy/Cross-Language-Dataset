@@ -1,0 +1,3 @@
+Dans ce papier, nous proposons une méthode pour résumer et interroger des logs de requêtes OLAP.
+L’idée de base est qu’une requête résume une autre requête et qu’un log, qui est une séquence de requêtes, résume un autre log.
+Des tests sur des logs de requêtes MDX ont montré l’intérêt de notre approche.

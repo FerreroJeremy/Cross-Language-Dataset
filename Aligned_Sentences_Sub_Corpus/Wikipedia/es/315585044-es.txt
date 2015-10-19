@@ -1,0 +1,4 @@
+Basándonos en el contador, podríamos calcular que la fecha es 00:00:00 del 2 de enero de 1970 (UT1).
+Si hubiésemos añadido un segundo intercalar el 31 de diciembre de 1970 al contador, éste tendría un valor de 43.200.001 segundos a medianoche del 16 de mayo de 1971 y permitiría calcular la fecha correcta.
+Sin embargo, la velocidad de rotación de la Tierra es impredecible a largo plazo, por lo que no es posible predecir su necesidad con más de seis meses de adelanto.
+Entre enero de 1972 y diciembre de 1998, el IERS dio instrucciones de insertar un segundo intercalar en 22 ocasiones.

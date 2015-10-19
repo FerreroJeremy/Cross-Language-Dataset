@@ -1,0 +1,3 @@
+Il est maintenant établi que l’exploitation des logs de requêtes peut aider l’utilisateur qui analyse de grandes bases de données ou des entrepôts de données (Khoussainova et al., 2009).
+Mais, à notre connaissance, même le simple fait de fournir à l’utilisateur une représentation concise, i.e.
+un résumé, de ce qui apparaît dans un log de grande taille n’a que très rarement été abordé dans la littérature (Khoussainova et al., 2009).

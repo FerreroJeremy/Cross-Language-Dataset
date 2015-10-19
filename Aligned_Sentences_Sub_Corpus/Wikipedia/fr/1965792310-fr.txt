@@ -1,0 +1,3 @@
+Par exemple, si l'on utilise un décalage de 3, A serait remplacé par D, B deviendrait E, et ainsi de suite; on parle alors de décalage circulaire.
+Cette méthode doit son nom à Jules César, qui utilisait cette technique pour certaines de ses correspondances, notamment militaires.L'étape de chiffrement du code de César n'est souvent qu'une partie d'une méthode plus complexe, comme le chiffre de Vigenère.
+David Kahn (1967) donne des exemples d'amants communiquant en secret en chiffrant leurs messages à l'aide du chiffre de César dans le journal britannique The Times.

@@ -1,0 +1,20 @@
+Article 2 Les États membres sont destinataires de la présente décision.
+Fait à Bruxelles, le 27 octobre 2006.
+Par la Commission Günter Verheugen Vice-président [1] JO L 40 du 11.2.1989, p. 12.
+Montage général de l'échantillon d'essai pour les classes B1ca, B2ca, Cca et Dca Les câbles sont montés sur la face avant d'une échelle standard (EN 50266-1).
+La partie inférieure des câbles électriques est située à 20 cm sous le bord inférieur du brûleur.
+Pour les câbles électriques de diamètre inférieur ou égal à 50 mm, il convient d'utiliser du fil d'un diamètre de 0,5 à 1,0 mm.
+Pour les câbles de diamètre supérieur à 50 mm, on utilisera du fil d'un diamètre de 1,0 à 1,5 mm.
+Tous les 25 cm dans le sens de la hauteur, une ligne horizontale est tracée, afin de mesurer la propagation de flamme en fonction du temps.
+Les câbles sont montés comme suit, en fonction de la classification demandée: 1.1.1.
+Classes B2ca, Cca et Dca La technique de montage choisie dépend du diamètre du câble électrique, comme indiqué dans le tableau 4.1.
+L'espacement entre les faisceaux est de 10 mm | Les seuils de diamètre sont déterminés en arrondissant le diamètre au millimètre le plus proche, sauf dans le cas des câbles de diamètre inférieur à 5 mm, où il n'est pas procédé à un tel arrondi.
+Pour les câbles ou fils de diamètre inférieur ou égal à 5 mm Le nombre de faisceaux de câbles de 10 mm de diamètre (Nbu) est fourni par la formule: Nbu = int300 + 1020 = 15 équation 3 Il convient, par conséquent, de monter 15 faisceaux espacés chacun de 10 mm.
+Le nombre de câbles dans chaque faisceau (n) est: n = int100dc2 équation 4 où: dc est le diamètre du câble (exprimé en mm et non arrondi).
+Le nombre de tronçons de câble ou de fil de diamètre inférieur à 5 mm (CL) est donc: CL = n × 15 équation 5 1.1.1.4.
+Longueur totale de câble par essai La longueur totale L (exprimée en m) par essai est: L = n × 15 × 3,5 pour dc ≤= 5 mm où L = N × 3,5 pour dc %gt% 5 mm équation 6 1.1.2.
+Class B1ca Une plaque incombustible en silicate de calcium, d'une masse volumique de 870 ± 50 kg/m3 et d'une épaisseur de 11 ± 2 mm, est fixée à l'arrière du chemin de câbles.
+Sous tous les autres aspects, le montage des câbles est le même que pour les classes B2ca, Cca et Dca. 2.
+Définitions des paramètres d'essai Tableau 4.2 DÉFINITIONS DES PARAMÈTRES DES ESSAIS FIPEC20 SCÉNARIOS 1 ET 2 Tous les paramètres calculés sont évalués pendant 20 minutes à partir du début de l'essai (allumage du brûleur).
+Valeurs seuils: HRRsm30 = 3 kW et THR = 0,4 MJ | SMOGRA, cm2/s2 | Indice SMOGRA (SMOke Growth RAte — accélération de la production de fumée), défini comme la valeur maximale du quotient entre SPRsm60 et le temps, multipliée par 10000.
+Aucune déclaration = aucune performance déterminée. [5] Le débit d'air dans la chambre est réglé à 8000 ± 800 l/min.FIPEC20 Scenario 1 = prEN 50399-2-1 avec montage et fixation comme ci dessous.FIPEC20 Scenario 2 = prEN 50399-2-2 avec montage et fixation comme ci dessous. [6] La classe de fumée déclarée pour les câbles de la classe B1ca doit résulter de l'essai FIPEC20 Scénario 2. [7] La classe de fumée déclarée pour les câbles des classes B2ca, Cca et Dca doit résulter de l'essai FIPEC20 Scénario 1. [8] Cette classification vise à mesurer les propriétés dangereuses des gaz formés en cas d'incendie, qui compromettent la capacité des personnes qui y sont exposées de prendre des mesures efficaces pour fuir, et non pas à décrire la toxicité de ces gaz. --------------------------------------------------

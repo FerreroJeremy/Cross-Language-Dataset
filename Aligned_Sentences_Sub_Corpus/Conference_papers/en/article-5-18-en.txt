@@ -1,0 +1,2 @@
+Macrocommunities are also identified when the proportion of edges between microcommunities is superior to the proportion of edges between micro-communities.
+Indeed the flat clustering N2(T) should be equal to F(T) (the micro- communities) but it is obviously not always the case here.

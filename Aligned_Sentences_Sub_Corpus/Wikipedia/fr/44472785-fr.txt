@@ -1,0 +1,3 @@
+En mathématiques, un élément x'' d'un anneau ''R est appelé nilpotent s'il existe un certain nombre entier positif n tel que x^n = 0\,.ExemplesCette définition peut être appliquée en particulier aux matrices carrées.
+La matriceA = \begin0&1&0\\ 0&0&1\\ 0&0&0\end est nilpotente parce que A^3 = 0\,.
+La charge BRST est un exemple important en physique.Catégorie:Algèbreca:Nilpotent de:Nilpotenz en:Nilpotent es:Nilpotente he:איבר נילפוטנטי hu:Nilpotens elem it:Nilpotente nl:Nilpotent pl:Element nilpotentny pt:Nilpotente ru:Нильпотентный элемент th:นิรพล zh:幂零元 zh-yue:冪零元

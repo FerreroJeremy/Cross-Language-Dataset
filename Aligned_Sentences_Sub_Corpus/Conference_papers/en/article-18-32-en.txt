@@ -1,0 +1,4 @@
+The phenomenon detection is done by examination of the neighbourhood of a conceptual vector.
+If among the N first neighbors, the density of words with no correlation with the target word is important then an action of separation must be undertaken.
+This action of separation consists in plunging the whole network in field where the nodes tend to be pushed back.
+In directly being inspired by physics, a force of repulsion in 1/d2 is calculated iteratively between nodes.

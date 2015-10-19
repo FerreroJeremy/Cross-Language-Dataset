@@ -1,0 +1,1 @@
+Los rootkits intentan protegerse a sí mismos monitorizando los procesos activos y suspendiendo su actividad hasta que el escaneo ha finalizado, de modo que el rootkit no pueda ser identificado por un detector.Los fabricantes de aplicaciones de seguridad han ido integrando los detectores de rootkits en los productos tradicionales de detección de antivirus.

@@ -1,0 +1,3 @@
+L’objectif est d’évaluer les productions du moteur ainsi que les mécanismes de blocage logique et de filtrage.
+A partir de cet ensemble d’inférences proposées, nous en avons sélectionné aléatoirement 400 pour chacun des types de relations et nous les avons soumises au processus de validition/réconciliation.
+Cette expérience a été menée dans un but d’évaluation car en pratique le moteur d’élicitation fonctionne conjointement avec les jeux et l’approche contributive de façon incrémentale.

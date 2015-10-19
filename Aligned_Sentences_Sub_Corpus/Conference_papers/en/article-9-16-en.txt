@@ -1,0 +1,2 @@
+With the same principles, one can build a dependency grammar generating the syntactic dependency trees of a fragment of natural language.
+Grammar G4, directly inspired from Nasr 1995, proposes a fragment of grammar for English generating the syntactic tree of Peter eats red beans.

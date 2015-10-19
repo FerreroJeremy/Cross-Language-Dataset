@@ -1,0 +1,60 @@
+Article 2 Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 30 June 1994.
+Article 3 This Directive is addressed to the Member States.
+Done at Brussels, 28 July 1993.
+For the Commission René STEICHEN Member of the Commission (1) OJ No L 170, 3. 8. 1970, p. 2. (2) OJ No L 362, 31. 12. 1985, p. 8.
+The lower limit of determination is 1 mg/kg. 2.
+Acetonitrile, HPLC grade 3.2.
+Amberlite XAD-2 resin 3.3.
+Halofuginone standard substance (DL-trans-7-brome-6-chloro-3-[3-hydroxy-2-piperidyl)acetonyl] quinazoline-4-(3H)-one hydrobromide, E 764) 3.6.1.
+Halofuginone stock standard solution, 100 mg/ml Weight to the nearest 0,1 mg, 50 mg of halofuginone (3.6) in a 500 ml graduated flask, dissolve in ammonium acetate buffer solution (3.18), make up to the mark with the buffer solution and mix.
+This solution is stable for three weeks at 5 °C if stored in the dark. 3.6.2.
+Calibration solutions Into a series of 100 ml graduated flasks transfer 1,0, 2,0, 3,0, 4,0 and 6,0 ml of the stock standard solution (3.6.1).
+These solutions have concentrations of 1,0, 2,0, 3,0, 4,0 and 6,0 mg/ml of halofuginone respectively.
+Silver nitrate 3.10.
+Sodium ascorbate 3.11.
+Sodium carbonate 3.12.
+Sodium chloride 3.13.
+EDTA (ehtylenediaminetetraacetic acid, disodium salt) 3.14.
+Water, HPLC grade 3.15.
+Sodium carbonate solution, v = 10 g/100 ml 3.16.
+Ammonium acetate buffer solution, approximately 0,25 Dissolve 19,3 g of ammonium acetate (3.3) and 30 ml of acetic acid (3.5) in water (3.14) and dilute to 1 l. 3.19.
+Then wash the resin with 50 ml of methanol (3.8), discard the methanol and store the resin under fresh methanol. 3.20.
+Silver nitrate solution, approximately 0,1 mol/l Dissolve 0,17 g of silver nitrate (3.9) in 10 ml of water. 3.21.
+HPLC Mobile phase Mix 500 ml of acetonitrile (3.1) with 300 ml of ammonium acetate buffer solution (3.18) and 1 200 ml of water (3.14).
+Adjust the pH to 4,3 using acetic acid (3.5).
+Filter through a 0,22 mm filter (4.8) and degas the solution (e.g.
+Liquid chromatographic column, 300 mm × 4 mm, C 18, 10 mm packaging, or an equivalent column 4.5.
+Glass column (300 mm × 10 mm) fitted with a sintered-glass filter and a stopcock 4.6.
+Glass-fibre filters, diameter 150 mm 4.7.
+Membrane filters, 0,45 mm 4.8.
+Membrane filters, 0,22 mm 5.
+It should not remain in ethyl acetate for more than 30 minutes. 5.1.
+To fortify at a level of 3 mg/kg, add 300 ml of the stock standard solution (3.6.1) to 10 g of the blank feed, mix and wait for 10 minutes before proceeding with the extraction step (5.2).
+Extraction Weigh to the nearest 0,1 g, 10 g of the prepared sample, into a 200 ml centrifuge tube, add 0,5 g of sodium ascorbate (3.10), 0,5 g of EDTA (3.13) and 20 ml of water and mix.
+Place the tube for 5 minutes in a water bath (80 °C).
+After cooling down to room temperature, add 20 ml of sodium carbonate solution (3.15) and mix.
+Add immediately 100 ml of ethyl acetate (3.4) and shake vigorously by hand for 15 seconds.
+Centrifuge for two minutes and decant the ethyl acetate phase through a glass fibre filter (4.6), into a 500 ml separating funnel.
+Repeat the extraction of te sample with a second portion of 100 ml of ethyl acetate.
+Extract the organic layer for 1 min with 50 ml of hydrochloric acid (3.17).
+Re-extract the organic layer for 1,5 minutes with a further 50 ml of hydrochlorid acid and combine with the first extract.
+Wash the combined acid extracts by swirling for approximately 10 seconds with 10 ml of ethyl acetate (3.4).
+The temperature of the water bath should not exceed 40 °C.
+Drain the methanol from the column and wash the resin with 100 ml of water, stopping the flow as the liquid reaches the top of the resin bed.
+Allow the column to equilibrate or 10 minutes before use.
+Never allow the column to run dry. 5.3.2.
+The rate of elution should not exceed 20 ml/min.
+Rinse the round-bottomed flask with 20 ml of hydrochlorid acid (3.17) and use this to wash the resin column.
+Add 100 ml of methanol (3.8) to the column and allow 5 to 10 ml to elute, collecting the eluate in a 250 ml round-bottomed flask.
+Transfer the residue quantitatively into a 10 ml calibrated flask using the mobile phase (3.21).
+Reserver this solution for the HPLC determination (5.4) 5.4.
+HPLC determination 5.4.1.
+The content of halofuginone w (mg/kg) of the sample is given by the following formula: w = c × 10 m in which: - c: halofuginone concentration of the sample solution in mg/ml, - m: mass of the test portion in grams. 7.
+Identity The identity of the analyte can be confirmed by co-chromatography, or by using a diode-array detector by which the spectra of the sample extract and the calibration solution (3.6.2) containing 6,0 mg/ml are compared. 7.1.1.
+The amount of added halofuginone should be similar to the estimated amount of halofuginone found in the sample extract.
+The peak width, at half of its maximum height, must be within ± 10 % of the original width. 7.1.2.
+For diode-array detection, this is typically within ± 2 nm; (b) between 225 and 300 nm, the sample and standard spectra recorded at the peak apex on the chromatogram, must not be different for those parts of the spectrum within the range 10 to 100 % or relative absorbance.
+This criterion is met when the same maxima are present and when at all observed points the deviation between the spectra does not exceed 15 % of the absorbance of the spectrum of the apex.
+Repeatability The difference between results of two parallel determinations carried out on the same sample must not exceed 0,5 mg/kg for halofuginone contents up to 3 mg/kg. 7.3.
+Recovery For the fortified blank sample the recovery should be at least 80 %. 8.
+Results /* Tables: see OJ */ (1) The Analyst 108, 1983, pp. 1252 to 1256.

@@ -1,0 +1,1 @@
+After filtering the less significant cooccurrences cooccurrences (cooccurrences with less than 10 occurrences and cohesion lower than 0.1), we got a network with approximately 23,000 words and 5.2 million cooccurrences for French, 30,000 words and 4.8 million cooccurrences for English.

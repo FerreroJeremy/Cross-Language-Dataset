@@ -1,0 +1,2 @@
+Conceptual Vectors We represent thematic aspects of textual segments (documents, paragraph, syntagms, etc) by conceptual vectors.
+In computational linguistics, [Chauche, 90] proposes a formalism for the projection of the linguistic notion of semantic field in a vectorial space, from which our model is inspired.

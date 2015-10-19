@@ -1,0 +1,3 @@
+Hybrid modelisation of meaning : conceptual vectors and lexical networks Contribution of the lexical networks to the conceptual vectors As shown in [18], distances computed on vectors are influenced by shared components and/or disinct components.
+Angular distance is a good tool for our aims because of its mathematical characteristics, its simplicity to understand and to linguistically interpret and futhermore it is effective for computational process.
+Whatever is the chosen distance, used on this kind of vectors (represanting ideas and not term occurences), the lower the distance is, the more the lexical objects are in the same semantic field (isotopy as said by Rastier [19]).

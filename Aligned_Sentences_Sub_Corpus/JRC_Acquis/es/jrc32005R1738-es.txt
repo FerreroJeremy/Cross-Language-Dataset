@@ -1,0 +1,85 @@
+Artículo 2 El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea.
+Hecho en Bruselas, el 21 de octubre de 2005.
+Por la Comisión Joaquín Almunia Miembro de la Comisión [1] DO L 63 de 12.3.1999, p. 6.
+Reglamento modificado por el Reglamento (CE) no 1882/2003 del Parlamento Europeo y del Consejo (DO L 284 de 31.10.2003, p. 1). [2] DO L 229 de 9.9.2000, p. 3. [3] DO L 203 de 3.8.1999, p. 28. -------------------------------------------------- ANEXO I LISTA DE VARIABLES 1.
+Información relativa a la unidad local a la que pertenecen los asalariados de la muestra 1.1.
+Ubicación geográfica de la unidad local (NUTS-1) 1.2.
+Actividad económica principal de la unidad local (NACE Rev. 1.1.) 1.4.
+Afiliación de la unidad local a un grupo de empresas (facultativo) 2.
+Información sobre características individuales de cada asalariado de la muestra relativa al mes de referencia 2.1.
+Ocupación [CIUO-88 (COM)] 2.4.
+Parte de las horas normales de trabajo de un asalariado a tiempo completo 2.8.
+Nacionalidad (facultativo) 3.
+Número de semanas del año de referencia a que se refieren los ingresos brutos anuales 3.2.
+Número de horas extraordinarias pagadas durante el mes de referencia 3.3.
+Total de ingresos brutos anuales del año de referencia 4.1.1.
+Ingresos brutos del mes de referencia 4.2.1.
+Cotizaciones sociales obligatorias e impuestos pagados por el empleador en nombre del asalariado (facultativo) 4.2.3.1.
+Ingresos brutos medios por hora del mes de referencia 5.
+Factores de extrapolación 5.1.
+Factor de extrapolación para la unidad local 5.2.
+Variables de ingresos de las estadísticas sobre estructura de ingresos +++++ TIFF +++++ -------------------------------------------------- ANEXO II DEFINICIÓN DE LAS VARIABLES 1.
+Información relativa a la unidad local a la que pertenecen los asalariados de la muestra La recogida de estadísticas estructurales sobre ingresos debe basarse en unidades locales y empresas con arreglo al Reglamento (CEE) no 696/93 del Consejo [1] y proporcionar información de los asalariados en empresas de diez trabajadores o más clasificadas según su tamaño y su actividad principal.
+Las estadísticas cubrirán todas las actividades definidas en las secciones C a K y M a O de la nomenclatura general de las actividades económicas de las Comunidades Europeas (en lo sucesivo, "NACE Rev. 1.1") en empresas con un mínimo de diez asalariados [2]. 1.1.
+Ubicación geográfica de la unidad estadística (NUTS-1) La región donde se halle la unidad local deberá clasificarse según la nomenclatura de unidades territoriales estadísticas (NUTS), nivel 1.
+Los códigos de transmisión para las distintas categorías NUTS se presentarán en un plan de aplicación que distribuirá Eurostat. 1.2.
+Los códigos de transmisión para las clases de tamaño enumeradas más arriba se presentarán en un plan de aplicación que va a distribuir Eurostat. 1.3.
+Actividad económica principal de la unidad local (NACE rev. 1.1) La actividad económica principal de la unidad local deberá codificarse en el nivel de dos dígitos de la NACE Rev. 1.1 (nivel de división).
+Los códigos de transmisión para las distintas categorías de la NACE se presentarán en un plan de aplicación que va a distribuir Eurostat. 1.4.
+Se presume que hay influencia dominante (o control) cuando los poderes públicos, directa o indirectamente, y respecto de la empresa: - poseen la mayoría del capital suscrito de la empresa (%gt% 50 %), o - disponen de la mayoría de los votos inherentes a las participaciones emitidas por la empresa, o pueden designar a más de la mitad de los miembros del órgano de administración, de dirección o de vigilancia de la empresa.
+Los códigos de transmisión para las dos categorías de la variable 1.4 se presentarán en un plan de aplicación que va a distribuir Eurostat. 1.5.
+Debe elegirse una de las categorías anteriores (respuesta "sí") si afecta a más del 50 % de los asalariados de la unidad local.
+Los códigos de transmisión para las categorías de la variable 1.5 enumeradas más arriba se presentarán en un plan de aplicación que va a distribuir Eurostat. 1.6.
+Número total de asalariados en la unidad local (facultativo) Esta variable representa en número de personas el número total de asalariados del mes de referencia (por ejemplo, el 1 o el 31 de octubre) y cubre a todos los asalariados, incluidos los aprendices, becarios remunerados y estudiantes. 1.7.
+Los códigos de transmisión para las dos categorías los fija Eurostat en un plan de aplicación.
+Información sobre las características individuales de cada asalariado de la muestra relativa al mes de referencia Asalariados son todas las personas, independientemente de su nacionalidad o del tiempo durante el que hayan trabajado en el país, que tienen un contrato de trabajo directo con la empresa o la unidad local (sea el acuerdo formal o informal) y cobran, con independencia del tipo de trabajo realizado, el número de horas trabajadas (a tiempo completo o a tiempo parcial) y la duración del contrato (temporal o indefinido).
+La definición de asalariados abarca a los trabajadores manuales y no manuales y al personal directivo de los sectores privado y público de las actividades económicas clasificadas en las secciones C a K y M a O de la NACE Rev. 1.1 en empresas con un mínimo de diez asalariados [3].
+Ocupación del mes de referencia [CIUO-88 (COM)] La ocupación debe codificarse de conformidad con la Clasificación Internacional Uniforme de Ocupaciones, versión 1988 [CIUO-88 (COM)], en el nivel de dos dígitos y, si es posible, en el de tres dígitos.
+Los códigos de transmisión para las categorías de la variable 2.3 las fija Eurostat en un plan de aplicación. 2.4.
+Además, los asalariados que no tiene una posición "de supervisión" no pertenecen exclusivamente a CIUO-88 (COM), grupo principal 1 (miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empresas).
+Muchos asalariados codificados en el grupo 2 (profesionales científicos e intelectuales) y 3 (técnicos y profesionales de nivel medio) pueden tener responsabilidades de supervisión.
+Los códigos de transmisión para las dos categorías las fija Eurostat en un plan de aplicación. 2.5.
+Nivel máximo de estudios o de formación superado (CINE 97) Esta variable hace referencia al nivel de enseñanza general, profesional o superior cursada por el asalariado de acuerdo con la Clasificación Internacional Normalizada de la Educación, versión 1997 (CINE 97).
+Los códigos de transmisión para las categorías de la variable 2.5 enumerados más arriba las fija Eurostat en un plan de aplicación. 2.6.
+Cualquier momento del mes de referencia bastará como fecha de referencia (por ejemplo, 1 o 31 de octubre).
+Las franjas de tamaño para la variable 2.6 y los códigos de transmisión de las franjas las fija Eurostat en un plan de aplicación. 2.7.
+Los códigos de transmisión para las dos categorías de la variable 2.7 las fija Eurostat en un plan de aplicación. 2.7.1.
+Parte de las horas normales de trabajo de un asalariado a tiempo completo Para un asalariado a tiempo completo, esta parte es siempre el 100 %.
+Los códigos de transmisión para las tres categorías de la variable 2.8 las fija Eurostat en un plan de aplicación. 2.9.
+Los códigos de transmisión para las tres categorías de la variable 2.9 las fija Eurostat en un plan de aplicación. 3.
+Número de semanas/meses a que se refieren los ingresos brutos anuales La variable 3.1 hace referencia al tiempo trabajado realmente pagado del asalariado durante el año y debería corresponder a los ingresos brutos anuales reales (variable 4.1).
+Si se ha pagado a un asalariado a tiempo parcial por seis meses, hay que introducir "26" semanas. 3.2.
+Si se dispone, por ejemplo, de información según la cual el 20 % del mes de referencia de un asalariado estuvo constituido por una ausencia no remunerada, se multiplicará la variable 3.2 por el factor de corrección 1,25. 3.2.1.
+Número de horas extraordinarias pagadas durante el mes de referencia Las horas extraordinarias incluyen las trabajadas fuera del horario semanal (o mensual) normal o convencional.
+Por consiguiente, la variable 3.2.1 debe ser coherente con los ingresos por horas extraordinarias del mes de referencia (variable 4.2.1).
+El procedimiento de ajuste aplicado a la variable 3.2 supone que el procedimiento de extrapolación hace referencia también a la variable 3.2.1, que es un componente de la variable 3.2.
+Si, por ejemplo, se sabe que el 20 % del mes de referencia de un asalariado estuvo constituido por una ausencia no remunerada, se multiplicará la variable 3.2.1 por el factor de corrección 1,25. 3.3.
+Por esta razón, la variable 3.3 hace referencia a los derechos de vacaciones anuales, lo cual sirve para sustituir las vacaciones anuales realmente tomadas.
+No se consideran como vacaciones: - las bajas por enfermedad, - el permiso de formación, - el permiso especial pagado por razones personales, - el tiempo de permiso adicional concedido en virtud de acuerdos sobre la reducción del tiempo de trabajo.
+Por ejemplo: si un asalariado a tiempo completo tiene derecho normalmente a cinco semanas de vacaciones anuales, eso equivale a 25 días.
+Por el contrario, un derecho de cinco semanas de vacaciones para un asalariado a tiempo parcial que trabaja el 60 % de las horas normales de trabajo de un asalariado a tiempo completo (variable 2.7.1) representa un derecho a sólo 15 días "completos" de permiso. 3.4.
+Información sobre ingresos para cada asalariado de la muestra Los asalariados que se van a incluir en todas las variables siguientes sobre ingresos anuales, mensuales y horarios son los que cobran realmente durante el mes de referencia.
+El factor de extrapolación para los asalariados (variable 5.2) deberá hacer referencia estrictamente a los asalariados de la muestra para los que se puedan facilitar estimaciones sólidamente fundadas de los ingresos mensuales brutos. 4.1.
+Total de ingresos brutos anuales del año de referencia Los ingresos brutos anuales hacen referencia a la remuneración en metálico y en especie pagada durante el año de referencia previa deducción de impuestos y cotizaciones a la seguridad social pagados por los asalariados y retenidos por el empleador.
+Además, los ingresos mensuales no tienen en cuenta los pagos en especie.
+Cuando la variable 3.1 (número de semanas a que se refieren los ingresos anuales) es inferior a 52 semanas, se utilizará la variable 3.1 para deducir la variable 4.1 y sus componentes. 4.1.1.
+Ingresos brutos del mes de referencia Esta variable hace referencia a la remuneración en metálico pagada durante el mes de referencia previa deducción de impuestos y cotizaciones a la seguridad social pagados por los asalariados y retenidos por el empleador.
+La variable 4.2 debe ser coherente con la cantidad de horas pagadas durante el mes de referencia (variable 3.2).
+Se incluyen los elementos siguientes: - todos los pagos efectuados en este período (aunque se hayan pagado realmente fuera del mes de referencia), incluyendo cualquier paga por horas extraordinarias, compensación por trabajo por turnos, prima, comisión, etc., - pagas por horas extraordinarias, compensaciones por trabajo en equipo, trabajo nocturno, trabajo durante el fin de semana, comisiones, etc., - primas y bonificaciones pagadas regularmente con cada salario, aunque su importe varíe de un mes a otro, - pagos por períodos de ausencia y suspensión de trabajo abonadas completamente por el empleador, - bonificaciones familiares y otras prestaciones en metálico establecidas por convenios colectivos o acordados de forma voluntaria, - ingresos en el régimen de ahorro de los asalariados.
+La variable 4.2.1 debe ser coherente con la variable 3.2.1 (número de horas extraordinarias pagadas en el mes de referencia). 4.2.2.
+Cotizaciones sociales obligatorias e impuestos pagados por el empleador en nombre del asalariado (facultativo) Esta variable recoge el importe total de las cotizaciones sociales e impuestos obligatorios pagados por el empleador a la administración pública en nombre del asalariado en el mes de referencia.
+Si los ingresos mensuales del asalariado tienen que ver con una ausencia no remunerada, se ajustará la variable 4.2.3 (junto con sus subcomponentes 4.2.3.1 y 4.2.3.2) para obtener las deducciones estimadas para un mes completo. 4.2.3.1.
+Dicha cifra debe ser coherente con los ingresos brutos medios por hora derivados de los ingresos brutos para el mes de referencia (variable 4.2) divididos por la cantidad de horas pagadas durante el mismo período (variable 3.2). 5.
+El factor de extrapolación 5.1 es necesario para elaborar conclusiones sobre la población de todas las unidades locales del estrato en cuestión a partir de los datos recogidos sobre las unidades locales de la muestra.
+De manera similar, el factor de extrapolación 5.2 permite alcanzar conclusiones sobre la población de todos los asalariados del mismo estrato a partir de los datos sobre los asalariados de la muestra.
+En general, cuando se decida retirar los microdatos relativos a una empresa individual o a un asalariado individual (por la razón que sea) o cuando dichos datos no estén disponibles, deberán recalcularse los factores de extrapolación según métodos apropiados como la calibración, con objeto de ajustar los pesos iniciales respectivos de las unidades locales y los asalariados respectivamente. 5.1.
+Factor de extrapolación para cada asalariado El factor de extrapolación para los asalariados se calcula para cada unidad local de la muestra.
+Cuando sea necesario excluir a asalariados que tengan períodos de ausencia(s) no remunerada(s) en el mes de referencia, deberá recalcularse el factor de extrapolación 5.2 facilitado para tener en cuenta a los asalariados excluidos. [1] DO L 76 de 30.3.1993, p. 1.
+Reglamento modificado en último lugar por el Reglamento (CE) no 1882/2003 del Parlamento Europeo y del Consejo. [2] La cobertura de la sección L de la NACE Rev. 1.1 es facultativa.
+La cobertura de los asalariados de las empresas con menos de diez asalariados es, asimismo, facultativa. [3] La cobertura de la sección L de la NACE Rev. 1.1 es facultativa.
+Variables Deberán cumplimentarse enteramente todos los elementos de los registros A y B.
+Cuando no se disponga de la información para una variable facultativa, deberá introducirse "OPT" para las variables alfanuméricas y "99999999" para las variables numéricas (el número de "nueves" corresponde a la longitud del campo).
+Categorías de variables de la encuesta sobre estructura de ingresos Las variables de la encuesta sobre estructura de ingresos enumeradas en el anexo I pueden ser cualitativas o cuantitativas.
+Las categorías de las variables cualitativas de la encuesta sobre estructura de ingresos así como las franjas para las variables cuantitativas de la encuesta sobre estructura de ingresos las fija Eurostat en un plan de aplicación.
+Contenido de los registros A y B El contenido y el orden de las variables de los registros A y B y de los códigos que se van a usar se especificarán en documentos independientes.
+No obstante, a causa de la necesidad de precisión, los valores de las variables 4.3, 5.1 y 5.2 deberán indicarse con dos decimales.

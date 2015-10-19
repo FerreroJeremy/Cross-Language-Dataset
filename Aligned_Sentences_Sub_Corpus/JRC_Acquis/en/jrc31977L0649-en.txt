@@ -1,0 +1,41 @@
+Article 7 This Directive is addressed to the Member States.
+The procedure for situating the vehicle relative to the grid is specified in Annex IV ; all coordinates referred to ground zero shall be based on a vehicle in running order (as defined in section 2.6 of Annex I to Directive 70/156/EEC) plus one front-seat passenger, the mass of the passenger being 75 kg ± 1 %. 2.3.1.
+R point or seating reference point (See Annex III, section 1.2) 2.10.
+H point (See Annex III, section 1.1) 2.11.
+Transparent area %quot%Transparent area%quot% means that area of a vehicle windscreen or other glazed surface whose light transmittance measured at right angles to the surface, is not less than 70 %. 2.13.
+A pillar %quot%A pillar%quot% means any roof support forward of the vertical transverse plane located 68 mm in front of the V points and includes non-transparent items, such as windscreen mouldings and door frames, attached or contiguous to such a support. 2.16.
+Horizontal seat-adjustment range %quot%Horizontal seat-adjustment range%quot% means the range of normal driving positions designated by the vehicle manufacturer for the adjustment of the driver's seat in the direction of the X axis (see 2.3). 2.17.
+a horizontal datum point forward of V1 and 17º to the left (see Annex IV, Appendix, figure 1); 5.1.1.2.
+The angle of binocular obstruction of each A pillar shall not exceed the following values at the level of the pivotal points P1 and P2 of the head (see Annex IV, Appendix, figure 2): until 30 September 1981 : 7º from 1 October 1981 : 6º 5.1.2.1.
+The angle of binocular obstruction is measured in a horizontal plane between tangents connecting: 5.1.2.1.1.
+E1 to the rearward side and E2 to the forward side of the left A pillar, and 5.1.2.1.2.
+E3 to the forward side and E4 to the rearward side of the right A pillar. 5.1.2.2.
+The positions of the V points in relation to the R point, as indicated by XYZ coordinates from the three-dimensional reference grid, are as shown in Tables I and IV. 5.2.1.1.
+Table I indicates the basic coordinates for a design seat-back angle of 25º.
+The positions of the P points in relation to the R point, as indicated by the XYZ coordinates from the three-dimensional reference grid, are as shown by Tables II, III and IV. 5.3.1.1.
+Table II indicates the basic coordinates for a design seat-back angle of 25º.
+E1 and E2 are each 104 mm from P1.
+E2 is 65 mm from E1 (see Annex IV, Appendix, figure 4). 5.5.2.
+The line joining E1 and E2 is rotated about P1 until it is normal to the vertical median longitudinal plane of the vehicle, provided that: 5.5.2.1.
+The line E3 - E4 is rotated about P2 until it forms an angle of 120º with the tangent from E4 to the rearward edge of the right A pillar (see Annex IV, Appendix, figure 2). 6.
+The dimensional relationships between the vehicle's primary reference marks and the three-dimensional reference grid shall be determined by the procedure prescribed in Annex IV. 6.1.2.
+The position of the points V1 and V2 are determined in relation to the R point as indicated by XYZ coordinates from the three-dimensional reference grid and are shown in Table I under 5.2.1.1 and Table IV under 5.4.
+The windscreen datum points shall then be found from the corrected V points as prescribed in 5.1.1. 6.1.3.
+The relationship between the P points, the R point, and the centre-line of the driver's seating position, as indicated by XYZ coordinates from the three-dimensional reference grid, shall be determined from Tables II and III in 5.3.
+The angle of binocular obstruction (see 5.1.2) shall be measured in the horizontal plane as indicated in Annex IV, Appendix, figure 2.
+The relationship between P1 and P2, which are connected to E1 and E2 and E3 and E4 respectively, is shown in Annex IV, Appendix, figure 4. 6.1.4.1.
+The line E1 - E2 shall be set as described in 5.5.2.
+The line E3 - E4 shall be set as described in 5.5.4.
+has coordinates determined in relation to the vehicle structure; 1.2.2.
+An H point and an actual seat-back angle shall be determined for each seating position specified by the vehicle manufacturer.
+The intersection of this axis with the vertical medium longitudinal plane of the seating position determines the H point; 3.2.2.
+the manikin shall be placed on the seat concerned, its pivotal axis being perpendicular to the median longitudinal plane of the vehicle; 4.4.
+if the H point is being determined at a centre seat, the feet shall be placed one on each side of the tunnel; 4.5.
+a horizontal load of 10 ± 1 daN shall be applied to the manikin twice.
+The transverse level of the manikin shall be kept horizontal; 4.9.
+The transverse level of the manikin shall be horizontal.
+The coordinates of the H point in relation to three mutually perpendicular planes, and the actual seat-back angle, shall be measured for comparison with the data supplied by the vehicle manufacturer. 6.
+The relative positions of the R point and the H point and the relationship between the design seat-back angle and the actual seat-back angle shall be considered to be satisfactory for the seating position in question if the H point, as defined by its coordinates, lies within a longitudinal rectangle whose horizontal and vertical sides are 30 mm and 20 mm long respectively and whose diagonals intersect at the R point, and if the actual seat-back angle is within 3º of the design seat-back angle. 6.2.1.
+For verifying the relative positions of the R point and the H point and the relationship between the design seat-back angle and the actual seat-back angle in a series-produced vehicle, the rectangle referred to in 6.2 shall be replaced by a square of 50 mm side and the actual seat-back angle shall not differ by more than 5º from the design seat-back angle.
+The two scales must be set at right angles to each other as shown in figure 6 of the Appendix to this Annex.
+EXAMINATION OF THE REFERENCE PLANE In order to provide for minor variations in the level of the reference plane or test area, it will be necessary to measure the deviations from ground zero along both the X and Y scales at intervals of 250 mm and to record the readings obtained so that corrections can be made when checking the vehicle. 4.

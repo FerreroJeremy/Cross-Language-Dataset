@@ -1,0 +1,2 @@
+L’identification des paires de documents parallèles est réalisée en deux étapes: le pointage de toutes les paires du produit Cartésien S × T et la classification de chacune d’elles comme parallèle ou non.
+Les différents pointages utilisés sont décrits dans la section 2.1 et l’algorithme de classification dans la section 2.2.

@@ -1,0 +1,4 @@
+In order to consolidate the lexical network, we adopt a strategy based on a simple (if not simplistic) inference mechanism to propose new relations from those existing.
+Inferred relations are submitted either to contributors for voting or to expert for direct validation/invalidation.
+However, a non negligible part of them are found to bewrong and understanding why is both relevant and useful.
+The explanation process can be viewed as reconciliation between the inference engine and the validator who is guided through a dialog to explain why he found the considered relation incorrect.

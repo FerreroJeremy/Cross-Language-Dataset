@@ -1,0 +1,2 @@
+L’analyse Le configurateur est utilisé de la manière suivante : il prend en entrée un groupe d’objets partiellement connus (des instances de la classe Mot par exemple), partiellement interconnectés (via la relation suivant).
+Puis, il tente de compléter cette entrée en ajoutant de nouveaux objets et relations et en assignant un type à chaque objet et une valeur à chaque attribut dans le but de satisfaire toutes les contraintes du modèle.

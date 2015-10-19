@@ -1,0 +1,32 @@
+Article 3 No Member State may, on grounds relating to the construction or inspection of a cylinder within the meaning of Directive 76/767/EEC and this Directive, refuse, prohibit or restrict the marketing and placing in service of an EEC-type cylinder.
+Article 4 All EEC-type cylinders shall be subject to EEC pattern approval.
+All EEC-type cylinders shall be subject to EEC verification with the exception of cylinders with a hydraulic test pressure of 120 bars or less and with a capacity of not more than one litre.
+Article 6 The procedure laid down in Article 17 of Directive 76/767/EEC may apply to section 2.2 of Annex I to this Directive.
+Article 8 This Directive is addressed to the Member States.
+SYMBOLS The symbols used in this Annex have the following meanings: Ph = hydraulic test pressure, in bars; Pr = cylinder bursting pressure measured during the bursting test, in bars; Prt = calculated minimum theoretical bursting pressure, in bars; Re = value of the yield stress taken into account in accordance with 1.1 for the purpose of determining the value of R used in calculating the parts subjected to pressure, in N/mm2; ReL = minimum value of the lower yield point, guaranteed by the cylinder manufacturer, in N/mm2; ReH = minimum value of the upper yield point, guaranteed by the cylinder manufacturer, in N/mm2; Rp 0,2 = conventional yield point 0,2 %, guaranteed by the manufacturer, in N/mm2; The conventional yield point is the value of the stress which gives rise to a non-proportional elongation equal to 0,2 % of the original gauge length.
+Rm = minimum value of the tensile strength guaranteed by the cylinder manufacturer, in N/mm2; a = calculated minimum thickness of the cylindrical shell wall, in mm; D = nominal outside diameter of the cylinder, in mm; d = mandrel diameter for bend tests, in mm; Rmt = actual tensile strength, in N/mm2. 1.4.
+NORMALIZATION The term %quot%normalization%quot% is used in this Directive as defined in paragraph 68 of EURONORM 52-83.
+The cylinder is then cooled at a rate not exceeding 80 % of that obtained by cooling in water at 20 °C and subsequently tempered at a uniform temperature below the lowest transformation point (Ac1) of the steel.
+The austenitization temperature before quenching or normalization must be fixed with a margin of 35 °C either way.
+The sulphur and phosphorus contents obtained for the cast sample should each be not more that 0,035 % and must not in total exceed 0,06 %.
+The sulphur and phosphorus contents obtained for the product must each be not more than 0,04 % and must not in total exceed 0,07 %. 2.1.3.
+The maximum deviation of the cylindrical part of the shell from a straight line shall not exceed 3 mm per metre length. 2.3.3.
+Except where otherwise specified by this Directive, the mechanical tests shall be carried out in accordance with the following EURONORMS: EURONORM 2-80 : tensile test for steel; EURONORM 3-79 : Brinell hardness test; EURONORM 6-55 : bend test for steel; EURONORM 11-80 : tensile test for steel sheet and strip less than 3 mm thick; EURONORM 12-55 : bend test for steel sheet and strip less than 3 mm thick; EURONORM 45-63 : impact test on a notched test-piece resting on two supports. 3.1.1.2.
+Types of test and test criteria Every test cylinder must undergo one tensile test in a longitudinal direction, four bend tests in a circumferential direction and, if the wall thickness makes it possible to take test-pieces at least 5 mm wide, three impact tests.
+The impact test-pieces shall be taken in a transverse direction ; however, if the thickness and/or diameter of the cylinder prevents a test specimen of at least 5 mm wide from being taken in a transverse direction, the impact test-pieces shall be taken in a longitudinal direction. 3.1.2.1.
+The test-piece shall be in accordance with the provisions: - of chapter 4 of EURONORM 2-80, where it is 3 mm thick or more, - of chapter 4 of EURONORM 11-80, where it is less than 3 mm thick.
+In this case, the gauge width and length of the test-piece shall be 12,5 and 50 mm respectively, irrespective of the thickness of the test-piece. 3.1.2.1.2.
+The elongation, expressed as a percentage, must not be less than: %gt%PIC FILE= %quot%T0026218%quot%%gt% Moreover, the elongation must in no case be less than: - 14 %, where the test is carried out in accordance with EURONORM 2-80, - 11 %, where the test is carried out in accordance with EURONORM 11-80. 3.1.2.1.4.
+The bend test must be carried out using a mandrel of diameter d and two cylinders separated by a distance of d + 3a.
+All impact strength measurements shall be carried out at - 20 °C.
+The test must be carried out at room temperature. 3.2.1.2.
+The maximum cyclic pressure shall be equal to either the pressure Ph or two-thirds thereof.
+The lower cyclic pressure must not exceed 10 % of the upper cyclic pressure.
+CHECK ON THE CONSISTENCY OF A CYLINDER This test involves checking that any two points on the metal of the external surface of the cylinder do not differ in hardness by more than 25 HB.
+carry out the following tests on the cylinders selected: - the tests specified in 3.1, on two cylinders ; however, where the length of the cylinder is 1 500 mm or more, the tensile test in a longitudinal direction and the bend tests shall be carried out on test-pieces taken from the upper and lower regions of the shell, - the test specified in 3.2, on two cylinders, - the test specified in 3.3, on two cylinders, - the test specified in 3.5, on one cylinder, - the test specified in 3.7, on all the sample cylinders. 4.3.
+EEC VERIFICATION 5.1.
+provide the inspection body with a list of the cylinders, stating the numbers and inscriptions as required in section 6. 5.2.
+DURING EEC VERIFICATION 5.2.1.
+EXEMPTION FROM EEC VERIFICATION In the case of the cylinders exempted from EEC verification pursuant to Article 4 of this Directive, all the test and inspection operations prescribed in 5.2 shall be carried out by the manufacturer on his own responsibility.
+The manufacturer shall provide the inspection body with all the documents and the test and inspection reports. 6.
+In the case of cylinders with a capacity of not more than 15 litres the marks and inscriptions may be stamped on either the shoulder or another sufficiently thick part of the cylinder.

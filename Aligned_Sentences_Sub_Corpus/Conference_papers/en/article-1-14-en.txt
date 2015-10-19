@@ -1,0 +1,3 @@
+In figures 2 and 3, we report scatter plots for the study of the evolution (from train set to test set) of confidence values of extracted rules.
+We also compare the values of the MODL criterion.
+As expected, for all data sets, we observe that confidence is unstable from train to test: indeed, a highly confident rule in train may have low confidence in test (see the points far from the identity line).

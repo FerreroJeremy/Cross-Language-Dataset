@@ -1,0 +1,3 @@
+The set P of polarities is provided with an operation noted “.” and called product.
+A non-empty strict subset N of P contains the neutral polarities.
+A polarized structure is neutral if all its polarities are neutral.

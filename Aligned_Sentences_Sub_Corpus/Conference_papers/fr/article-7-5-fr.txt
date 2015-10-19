@@ -1,0 +1,2 @@
+Nous nous sommes intéressés plutôt à l'annotation des événements sous forme de métadonnées liées aux documents.
+Notre travail ne se limite pas à la détection des événements, mais permet aussi de regrouper les événements similaires pour faciliter un traitement ultérieur (indexation, rem-plissage des formulaires, etc.).

@@ -1,0 +1,20 @@
+Article 2 This Decision is addressed to the Member States.
+Done at Brussels, 27 October 2006.
+For the Commission Günter Verheugen Vice-President [1] OJ L 40, 11.2.1989, p. 12.
+Mounting of the test sample general for classes B1ca, B2ca, Cca and Dca The cables shall be mounted on the front of a standard ladder (EN 50266-1).
+The lower part of the electric cables shall be 20 cm under the lower edge of the burner.
+For electric cables up to and including 50 mm diameter, use wire between 0,5 mm and up to and including 1,0 mm in diameter.
+For cables above 50 mm diameter use wire between 1,0 mm and 1,5 mm in diameter.
+At each height of 25 cm a horizontal line shall be drawn in order to measure the flame spread as a function of time.
+The cables shall be mounted as follows depending on the classification that is applied for. 1.1.1.
+Class B2ca, Cca and class Dca The selected mounting procedure depends on the electric cable diameter according to Table 4.1.
+The spacing between bundles shall be 10 mm. | The threshold values are determined with the diameter rounded to nearest mm, except for cables with a diameter of less than 5 mm, where the diameter shall not be rounded.
+For cables or wires with a diameter less than or equal to 5 mm The number of 10 mm bundles, Nbu, of cables is given by: Nbu = int300 + 1020 = 15 equation 3 Thus 15 bundles with 10 mm distance between the bundles shall be mounted.
+The number of cables in each bundle (n) is: n = int100dc2 equation 4 where: dc is the diameter of the cable (in mm and not rounded).
+The number of cable lengths (CL) for wires or cables with a diameter less than 5 mm will hence be: CL = n × 15 equation 5 1.1.1.4.
+Total length of cable per test The total length L (m) per test is: L = n × 15 × 3,5 for dc ≤ 5 mm or L = N × 3,5 for dc %gt% 5 mm equation 6 1.1.2.
+Class B1ca At the back of the cable tray a non-combustible calcium silicate board shall be mounted with a density 870 ± 50 kg/m3 and a thickness of 11 ± 2 mm.
+In all other aspects the mounting of the cables is identical to class B2ca, Cca and Dca. 2.
+Definitions of test parameters Table 4.2 DEFINITIONS OF TEST PARAMETERS IN FIPEC20 SCENARIOS 1 AND 2 All calculated parameters are evaluated during 20 minutes from test start (ignition of burner).
+Threshold values HRRsm30 = 3 kW and THR = 0,4 MJ | SMOGRA, cm2/s2 | SMOke Growth RAte index is defined as highest value of the quotient between SPRsm60 and time, multiplied by 10000.
+No declaration = No Performance Determined. [5] Air flow into chamber shall be set to 8000 ± 800 l/min.FIPEC20 Scenario 1 = prEN 50399-2-1 with mounting and fixing as belowFIPEC20 Scenario 2 = prEN 50399-2-2 with mounting and fixing as below [6] The smoke class declared for class B1ca cables must originate from the FIPEC20 Scen 2 test. [7] The smoke class declared for class B2ca, Cca, Dca cables must originate from the FIPEC20 Scen 1 test. [8] Measuring the hazardous properties of gases developed in the event of fire, which compromise the ability of the persons exposed to them to take effective action to accomplish escape, and not describing the toxicity of these gases. --------------------------------------------------

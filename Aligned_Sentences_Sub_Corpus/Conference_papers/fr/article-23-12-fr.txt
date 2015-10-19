@@ -1,0 +1,4 @@
+JeuxDeMots : un GWAP pour la construction d’un réseau lexical Lancé en septembre 2007, JeuxDeMots 2 (Lafourcade, 2007) est un GWAP 3 associant les joueurs par paires, et visant à construire un grand réseau lexico-sémantique.
+Le réseau lexical contruit est composé de termes (noeuds) et de relations typées (arcs).
+Il y a plus de 50 types de relations et chaque occurrence de relation est pondérée indiquant une force d’association.
+Une occurrence de relation peut éventuellement avoir un poids négatif indiquant dans ce cas que la relation est fausse bien que pertinente.

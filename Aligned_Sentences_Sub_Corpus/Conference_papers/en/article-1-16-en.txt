@@ -1,0 +1,2 @@
+In order to simulate the presence of class-noise in the breast-w data set, we add uniform noise in the class attribute using the AddNoise function of WEKA [Witten and Frank, 2005] – with various ratio: 20% and 50% amount of noisy class labels.
+We then proceed the train-test experiments on each artificially noisy data set.

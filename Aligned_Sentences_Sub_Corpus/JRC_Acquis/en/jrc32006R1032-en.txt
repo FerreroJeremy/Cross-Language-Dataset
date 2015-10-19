@@ -1,0 +1,142 @@
+As Regulation (EC) No 2082/2000 was repealed with effect from 20 October 2005, it is necessary to update Community legislation, so as to ensure the consistency of relevant regulatory provisions. (4) This Regulation should not cover military operation and training as referred in Article 1(2) of Regulation (EC) No 549/2004. (5) In a Statement by the Member States on military issues related to the single European sky [4], the Member States committed themselves to cooperate with each other, taking into account national military requirements, in order that the concept of flexible use of airspace is fully and uniformly applied in all Member States by all users of airspace. (6) The application of the concept of the flexible use of airspace, as defined in Article 2(22) of Regulation (EC) No 549/2004, requires the establishment of systems for the timely exchange of flight data between air traffic service units and controlling military units. (7) Automated processes related to notification and initial coordination should be implemented by area control centres to provide consistent flight information at both the transferring and receiving units and to support the coordination of the planned transfer of flights.
+This Regulation shall not apply to the exchange of flight data between air traffic control units served by flight data processing systems identified in paragraph 2 for which the flight data covered by this Regulation are synchronised by means of a common system.
+Article 2 Definitions 1.
+Air navigation service providers shall ensure that the systems referred to in Article 1(2)(a) and serving ACCs, comply with the interoperability and performance requirements specified in Annex I, Parts A and B. 2.
+Air navigation service providers that have specified in their letter of agreement that they will implement the notification, the initial coordination, the revision of coordination, the abrogation of coordination, the basic flight data or the change to basic flight data processes between ATC units other than ACCs, shall ensure that the systems referred to in Article 1(2)(a), comply with the interoperability and performance requirements specified in Annex I, Parts A and B. 3.
+Air navigation service providers that have specified in their letter of agreement that they will implement the pre-departure notification and coordination, the change of frequency or the manual assumption of communications processes, shall ensure that the systems referred in Article 1(2)(a) comply with the interoperability and performance requirements specified in Annex I, Parts A and C. 4.
+Member States shall ensure that the systems referred to in Article 1(2)(b) comply with the interoperability and performance requirements specified in Annex I, Parts A and B, in respect of the basic flight data and the change of basic flight data processes. 5.
+When air traffic services units and controlling military units have implemented between their systems referred to in Article 1(2)(b) the crossing intention notification, the crossing clearance request, the crossing counter-proposal or the crossing cancellation processes, Member States shall ensure that these systems comply with the interoperability and performance requirements specified in Annex I, Parts A and C.
+Air navigation service providers shall ensure that the systems referred to in Article 1(2)(a) comply with the requirements concerning quality of service, specified in Annex II. 2.
+Member States shall ensure that the systems referred to in Article 1(2)(b) comply with the requirements concerning quality of service, specified in Annex II.
+Article 5 Associated procedures 1.
+For a flight subject to initial coordination, the agreed transfer conditions of a flight shall be operationally binding for both ATC units unless the coordination is abrogated or revised. 2.
+For a flight subject to revision of coordination, the agreed transfer conditions of a flight shall be operationally binding for both ATC units unless the coordination is abrogated or the conditions are further revised. 3.
+Article 6 Safety requirements Member States shall take the necessary measures to ensure that any changes to the existing automatic systems for the exchange of flight data covered by this Regulation or the introduction of new systems are preceded by a safety assessment, including hazard identification, risk assessment and mitigation, conducted by the parties concerned.
+Article 7 Conformity or suitability for use of constituents Before issuing an EC declaration of conformity or suitability for use referred to in Article 5 of Regulation (EC) No 552/2004, manufacturers of constituents of the systems referred to in Article 1(2)(a) and (b) shall assess the conformity or suitability for use of these constituents in compliance with the requirements set out in Annex IV, Part A.
+Article 8 Verification of systems 1.
+Air navigation service providers which can demonstrate that they fulfil the conditions set out in Annex V shall conduct a verification of the systems referred to in Article 1(2)(a) in compliance with the requirements set out in Annex IV, Part B. 2.
+Air navigation service providers which cannot demonstrate that they fulfil the conditions set out in Annex V shall subcontract to a notified body a verification of the systems referred to in Article 1(2)(a).
+This verification shall be conducted in compliance with the requirements set out in Annex IV, Part C. 3.
+Member States shall ensure that the verification of the systems referred in Article 1(2)(b) demonstrates the conformity of these systems with the interoperability and performance, quality of service and safety requirements of this Regulation.
+Article 9 Compliance Member States shall take the necessary measures to ensure compliance with this Regulation.
+Article 10 Transitional arrangements 1.
+The transitional arrangements provided for in Article 10(1) of Regulation (EC) No 552/2004 shall apply to the European air traffic management network (hereinafter EATMN) systems referred in Article 1(2), as from the entry into force of this Regulation in respect of the notification and the initial coordination processes.
+The transitional arrangements provided for in Article 10(2) of Regulation (EC) No 552/2004 shall apply to the systems referred in Article 1(2), from 31 December 2012.
+Article 11 Entry into force This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+Done at Brussels, 6 July 2006.
+For the Commission Jacques Barrot Vice-President [1] OJ L 96, 31.3.2004, p. 26. [2] OJ L 96, 31.3.2004, p. 1. [3] OJ L 254, 9.10.2000, p. 1. [4] OJ L 96, 31.3.2004, p. 9. -------------------------------------------------- ANNEX I Interoperability and performance requirements (referred to in Article 3) PART A: GENERAL REQUIREMENTS 1.
+RECORDING OF SYSTEM INFORMATION EXCHANGE DATA 2.1.
+Flight information concerned 1.1.1.
+The information subject to the Notification process shall include as a minimum: - aircraft identification, - SSR mode and code (if available), - departure aerodrome, - estimate data, - destination aerodrome, - number and type of aircraft, - type of flight, - equipment capability and status. 1.1.2.
+The content of the "equipment capability and status" information shall include reduced vertical separation minima (hereinafter "RVSM") and 8.33 KHz capability as a minimum. 1.1.3.
+Rules of application 1.2.1.
+The notification process shall take place again each time there is a change to any of the following data prior to the initial coordination process: - COP, - expected SSR code at the transfer of control point, - aerodrome of destination, - type of aircraft, - equipment capability and status. 1.2.6.
+The notification parameter(s) shall be included in the letters of agreement between the ATC units concerned. 1.3.3.
+INITIAL COORDINATION 2.1.
+Flight information concerned 2.1.1.
+The information subject to the initial coordination process shall include as a minimum: - aircraft identification, - SSR mode and code, - departure aerodrome, - estimate data, - destination aerodrome, - number and type of aircraft, - type of flight, - equipment capability and status. 2.1.2.
+The content of the "equipment capability and status" information shall include RVSM and 8.33 KHz capability as a minimum. 2.1.3.
+Rules of application 2.2.1.
+Eligibility criteria for cross boundary initial coordination of flights shall be in accordance with the letters of agreement. 2.2.3.
+Unless already manually initiated, the initial coordination process shall be automatically initiated at: - a bilaterally agreed parameter time period before the estimated time at the coordination point, or - the time at which the flight is at a bilaterally agreed distance from the coordination point, in accordance with the letters of agreement. 2.2.4.
+Completion of the initial coordination process including confirmation from the receiving unit shall be provided to the transferring unit â&#x20AC;&#x201D; the flight is then considered "coordinated". 2.2.7.
+Failure of the initial coordination process to confirm completion, within the applicable quality of service requirements, shall result in a warning at the working position responsible for the coordination of the flight within the transferring unit. 2.2.8.
+The initial coordination information shall be made available at the appropriate working position in the receiving unit. 3.
+REVISION OF COORDINATION 3.1.
+Flight information concerned 3.1.1.
+The revision of coordination process shall ensure association with the flight previously coordinated. 3.1.2.
+Revision of coordination shall provide the following flight information if they have changed: - SSR mode and code, - estimated time and flight level, - equipment capability and status. 3.1.3.
+If bilaterally agreed, the revision of coordination data shall provide the following if they have changed: - coordination point, - route. 3.2.
+Rules of application 3.2.1.
+Completion of the revision of coordination process including confirmation from the receiving unit shall be provided at the transferring unit. 3.2.5.
+Failure of the revision of coordination process to confirm completion, within the applicable quality of service requirements, shall result in a warning at the working position responsible for the coordination of the flight within the transferring unit. 3.2.6.
+THE ABROGATION OF COORDINATION 4.1.
+Flight information concerned 4.1.1.
+The abrogation of coordination process shall ensure association with the previous notification or coordination process that is being cancelled. 4.2.
+Rules of application 4.2.1.
+The abrogation of coordination process shall take place with a unit for a coordinated flight when: - the unit is no longer the next unit in the coordination sequence, - the flight plan is cancelled in the sending unit and the coordination is no longer relevant, - abrogation of coordination information is received from the previous unit in respect of the flight. 4.2.2.
+The abrogation of coordination process may take place with a unit for a notified flight when: - the unit is no longer the next unit in the coordination sequence, - the flight plan is cancelled in the sending unit and the coordination is no longer relevant, - an abrogation of coordination is received from the previous unit in respect of the flight, - the flight is delayed en-route and a revised estimate cannot be determined automatically. 4.2.3.
+Completion of the abrogation of coordination process including confirmation from the receiving unit shall be provided at the transferring unit. 4.2.4.
+Failure of the abrogation of coordination process to confirm completion, within the applicable quality of service requirements, shall result in a warning at the working position responsible for the coordination of the flight within the transferring unit. 4.2.5.
+The abrogation of coordination information shall be made available at the appropriate working position in the notified unit or in the unit with which the coordination is cancelled. 5.
+Flight information concerned 5.1.1.
+The information subject to the basic flight data process shall provide as a minimum: - aircraft identification, - SSR mode and code. 5.1.2.
+Rules of application 5.2.1.
+The basic flight data process shall be performed automatically for each eligible flight. 5.2.2.
+The eligibility criteria for basic flight data shall be in accordance with the letters of agreement. 5.2.3.
+Completion of the basic flight data process including confirmation from the receiving unit shall be provided to the supplying unit. 5.2.4.
+Failure of the basic flight data process to confirm completion, within the applicable quality of service requirements, shall result in a warning at the appropriate working position within the supplying unit. 6.
+Flight information concerned 6.1.1.
+Rules of application 6.2.1.
+Completion of the change to basic flight data process including confirmation from the receiving unit shall be provided to the supplying unit. 6.2.4.
+The change to basic flight data information shall be made available at the appropriate working position in the receiving unit.
+Flight information concerned 1.1.1.
+The information subject to the pre-departure notification and coordination process shall include as a minimum: - aircraft identification, - SSR mode and code (if available), - departure aerodrome, - estimated take-off time or estimate data, as bilaterally agreed, - destination aerodrome, - number and type of aircraft. 1.1.2.
+The information subject to the pre-departure notification and coordination process from a terminal manoeuvring area (TMA) control unit or an ACC shall contain the following: - type of flight, - equipment capability and status. 1.1.3.
+The content of the "equipment capability and status" information shall include RVSM and 8.33 KHz capability as a minimum. 1.1.4.
+Rules of Application 1.2.1.
+The pre-departure notification and coordination process shall take place again each time there is a change to any item of the data subject to the previous pre-departure notification and coordination process before departure. 1.2.4.
+Completion of the pre-departure notification and coordination process including confirmation from the receiving unit shall be provided at the transferring unit. 1.2.5.
+Failure of the pre-departure notification and coordination process to confirm completion, within the applicable quality of service requirements, shall result in a warning at the working position responsible for the notification/coordination of the flight within the transferring unit. 1.2.6.
+The pre-departure notification and coordination information shall be made available at the appropriate working position in the notified unit. 2.
+CHANGE OF FREQUENCY 2.1.
+Flight information concerned 2.1.1.
+The information subject to the change of frequency process shall include as a minimum: - aircraft identification. 2.1.2.
+The information subject to the change of frequency process shall include any of the following, if available: - release indication, - cleared flight level, - assigned heading/track or direct clearance, - assigned speed, - assigned rate of climb/descent. 2.1.3.
+If bilaterally agreed, change of frequency data shall contain the following: - current track position, - instructed frequency. 2.2.
+Rules of application 2.2.1.
+The change of frequency process shall be manually initiated by the transferring controller. 2.2.2.
+Completion of the change of frequency process including confirmation from the receiving unit shall be provided at the transferring ATC unit. 2.2.3.
+Failure of the change of frequency process to confirm completion, within the applicable quality of service requirements, shall result in a warning at the appropriate working position within the transferring ATC unit. 2.2.4.
+The change of frequency information shall be made available to the accepting controller without delay. 3.
+Flight information concerned 3.1.1.
+The information subject to the manual assumption of communications process shall include as a minimum the aircraft identification. 3.2.
+Rules of application 3.2.1.
+Completion of the manual assumption of communications process including confirmation from the transferring unit shall be provided at the accepting ATC unit. 3.2.3.
+The manual assumption of communications information shall be presented immediately to the controller in the transferring unit. 4.
+Flight information concerned 4.1.1.
+The information subject to the crossing intention notification process shall include as a minimum: - aircraft identification, - SSR mode and code, - number and type of aircraft, - sector in charge identifier, - crossing route including estimated times and flight levels for each point on the route. 4.2.
+Rules of application 4.2.1.
+The crossing intention notification process shall be initiated manually by the controller, or automatically as described in the letters of agreement. 4.2.2.
+Completion of the crossing intention notification process including confirmation from the notified unit shall be provided to the notifying unit. 4.2.3.
+The crossing intention notification information shall be made available at the appropriate working position in the notified unit. 5.
+Flight information concerned 5.1.1.
+The information subject to the crossing clearance request process shall include as a minimum: - aircraft identification, - SSR mode and code, - number and type of aircraft, - sector in charge identifier, - crossing route including estimated times and flight levels for each point on the route. 5.1.2.
+If bilaterally agreed, a crossing clearance request shall contain the equipment capability and status. 5.1.3.
+The content of the "equipment capability and status" information shall include RVSM capability as a minimum. 5.1.4.
+Rules of application 5.2.1.
+The crossing clearance request shall be initiated at the controller's discretion, in accordance with the conditions specified in the letters of agreement. 5.2.2.
+Completion of the crossing clearance request process including confirmation from the unit receiving the request shall be provided to the requesting unit. 5.2.3.
+Failure of the crossing clearance request process to confirm completion, within the applicable quality of service requirements, shall result in a warning at the appropriate working position within the requesting unit. 5.2.4.
+The crossing clearance request information shall be made available at the appropriate working position in the unit receiving the request. 5.3.
+If an operational reply is not received within a bilaterally agreed time interval a warning shall be issued at the appropriate working position within the requesting unit. 6.
+Flight information concerned 6.1.1.
+The crossing counter-proposal process shall ensure association with the flight previously subject to coordination. 6.1.2.
+The information subject to the crossing counter-proposal process shall include as a minimum: - aircraft identification, - crossing route including estimated times and flight levels for each point on the route. 6.2.
+Rules of application 6.2.1.
+Completion of the crossing counter-proposal process including confirmation from the original requesting unit shall be provided to the counter proposing unit. 6.2.3.
+Failure of the crossing counter-proposal process to confirm completion, within the applicable quality of service requirements, shall result in a warning at the appropriate working position within the counter proposing unit. 6.2.4.
+The crossing counter-proposal information shall be made available at the appropriate working position in the original requesting unit. 6.3.
+The confirmation of the successful processing of the crossing counter-proposal information in the original requesting unit shall be followed by an operational reply from the original requesting unit. 6.3.2.
+The operational reply to a crossing counter-proposal shall be an acceptance or rejection as appropriate. 6.3.3.
+CROSSING CANCELLATION 7.1.
+Flight information concerned 7.1.1.
+The crossing cancellation process shall ensure association with the previous notification or coordination process that is canceled. 7.2.
+Rules of application 7.2.1.
+Completion of the crossing cancellation process including confirmation from the notified/requested unit shall be provided at the cancelling unit. 7.2.4.
+The crossing cancellation information shall be made available at the appropriate working position in the notified/requested unit. -------------------------------------------------- ANNEX II Requirements concerning quality of service (referred to in Article 4) 1.
+The reliability for a system information exchange link shall be at least 99,86 %. 1.4.
+Process times 2.1.
+The maximum process time before a warning is generated shall be bilaterally agreed. -------------------------------------------------- ANNEX III Safety requirements (referred to in Article 6) 1.
+For the revision of coordination, abrogation of coordination, basic flight data and change to basic flight data processes, the quality of service requirements specified in Annex II shall also be considered as safety requirements. -------------------------------------------------- ANNEX IV PART A: REQUIREMENTS FOR THE ASSESSMENT OF THE CONFORMITY OR SUITABILITY FOR USE OF CONSTITUENTS REFERRED TO IN ARTICLE 7 1.
+The manufacturer shall manage the conformity assessment activities and shall in particular: - determine the appropriate test environment, - verify that the test plan describes the constituents in the test environment, - verify that the test plan provides full coverage of applicable requirements, - ensure the consistency and quality of the technical documentation and the test plan, - plan the test organisation, staff, installation and configuration of test platform, - perform the inspections and tests as specified in the test plan, - write the report presenting the results of inspections and tests. 3.
+PART B: REQUIREMENTS FOR THE VERIFICATION OF SYSTEMS REFERRED TO IN ARTICLE 8(1) 1.
+The verification of systems implementing information exchanges supporting the process of notification, coordination and transfer of flights and the process of civil-military coordination shall be conducted in accordance with appropriate and recognised testing practices. 3.
+The air navigation service provider shall manage the verification activities and shall in particular: - determine the appropriate simulated operational and technical environment reflecting the operational environment, - verify that the test plan describes the integration of information exchanges supporting the process of notification, coordination and transfer of flights and the process of civil-military coordination in the system tested in a simulated operational and technical environment, - verify that the test plan provides full coverage of the interoperability and performance, quality of service and safety requirements of this Regulation, - ensure the consistency and quality of the technical documentation and the test plan, - plan the test organisation, staff, installation and configuration of the test platform, - perform the inspections and tests as specified in the test plan, - write the report presenting the results of inspections and tests. 6.
+The air navigation service provider shall ensure that the implementation of information exchanges supporting the process of notification, coordination and transfer of flights and the process of civil-military coordination, integrated in systems operated in a simulated operational environment meets the interoperability and performance, quality of service and safety requirements of this Regulation. 7.
+Upon satisfying completion of verification of compliance, air navigation service providers shall draw up the EC declaration of verification of system and submit it to the national supervisory authority together with the technical file as requested by Article 6 of the interoperability Regulation.
+PART C: REQUIREMENTS FOR THE VERIFICATION OF SYSTEMS REFERRED TO IN ARTICLE 8(2) 1.
+The verification of systems implementing information exchanges supporting the process of notification, coordination and transfer of flights and the process of civil-military coordination shall be conducted in accordance with appropriate and recognised testing practices. 3.
+The notified body shall manage the verification activities and shall in particular: - verify that the test plan describes the integration of information exchanges supporting the process of notification, coordination and transfer of flights and the process of civil-military coordination in the system tested in a simulated operational and technical environment, - verify that the test plan provides full coverage of the interoperability and performance, quality of service and safety requirements of this Regulation, - ensure the consistency and quality of the technical documentation and the test plan, - plan the test organisation, staff, installation and configuration of the test platform, - perform the inspections and tests as specified in the test plan, - write the report presenting the results of inspections and tests. 7.
+The notified body shall ensure that the implementation of information exchanges supporting the process of notification, coordination and transfer of flights and the process of civil-military coordination, integrated in systems operated in a simulated operational environment meets the interoperability and performance, quality of service and safety requirements of this Regulation. 8.
+Then, the air navigation service provider shall draw up the EC declaration of verification of system and submit it to the national supervisory authority together with the technical file as requested by Article 6 of the interoperability Regulation. -------------------------------------------------- ANNEX V Conditions referred to in Article 8 1.

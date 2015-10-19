@@ -1,0 +1,4 @@
+Afin de consolider le réseau lexical issu du projet JeuxDeMots, nous utilisons une approche par inférence qui permet de déduire de nouvelles relations à partir de celles existantes.
+Les relations inférées sont soumises aux contributeurs pour vote et par la suite soumises à une validation ou invalidation par un expert.
+Toutefois, une part non négligeable se révèle fausse et il convient de déterminer pourquoi.
+Ce processus d’explication constitue la réconciliation entre le moteur d’inférences et le validateur, mené à l’aide d’un dialogue lui permettant d’expliciter en quoi la relation considérée est incorrecte.

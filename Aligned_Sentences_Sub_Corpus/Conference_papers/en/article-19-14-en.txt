@@ -1,0 +1,2 @@
+For associating a cooccurrent to a sense seed, the strength of the link between them must be higher than a given threshold.
+Moreover, the seeds that are considered as too close from each other for giving rise to separate senses can also be grouped during this step in accordance with the same criteria than the other cooccurrents.

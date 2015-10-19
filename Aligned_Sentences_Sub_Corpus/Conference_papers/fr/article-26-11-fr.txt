@@ -1,0 +1,3 @@
+Categories et programmation par contraintes Les catégories sont des structures de traits.
+Une structure de traits est un ensemble de couples (attribut, valeur) utilisés pour étiquetter une unité linguistique, comme sur la figure 1, où livre est un nom masculin à la 3i`eme personne du singulier.
+Cette définition est récursive : une valeur de trait peut être une autre structure de trait ou un autre ensemble de traits.

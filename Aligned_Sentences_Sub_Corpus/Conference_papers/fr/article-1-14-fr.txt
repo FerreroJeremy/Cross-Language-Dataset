@@ -1,0 +1,3 @@
+Dans les graphiques de la figure 2, nous reportons l’évolution train-test des valeurs de taux d’acroissement (GR) pour chaque base de données.
+Nous comparons aussi les valeurs de level des règles extraites.
+Nous remarquons que GR est généralement instable : en effet, une règle à fort taux d’accroissement en apprentissage peut avoir un faible GR en test (voir les points éloignés de la droite identité) – ce qui confirme notre hypothèse que le taux d’accroissement (comme la confiance) ne capturent pas la notion de robustesse.

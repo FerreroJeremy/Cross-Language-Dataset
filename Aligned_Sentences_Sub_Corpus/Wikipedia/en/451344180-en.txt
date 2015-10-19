@@ -1,0 +1,1 @@
+Adium is a popular free instant messaging client for Mac OS X that supports multiple protocols through the libezv (for Bonjour) and the libpurple (all other protocols) libraries.

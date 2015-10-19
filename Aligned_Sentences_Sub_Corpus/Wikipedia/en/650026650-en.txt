@@ -1,0 +1,3 @@
+The reflector modifies the radiation of the active antenna.
+The graph should show sidelobes and backlobes, where the antenna's gain is at a minima or maxima.See Antenna measurement: Radiation pattern or Radiation pattern for more information.ImpedanceAs an electro-magnetic wave travels through the different parts of the antenna system (radio, feed line, antenna, free space) it may encounter differences in impedance (E/H, V/I, etc).
+For a transmitting antenna, this is the antenna itself.

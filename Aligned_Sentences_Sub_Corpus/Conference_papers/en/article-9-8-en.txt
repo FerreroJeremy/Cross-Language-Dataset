@@ -1,0 +1,2 @@
+Structures combine by unification.
+The unification of two structures A and B gives a new structure A?B obtained by “pasting” together these structures and identifying a part of the objects of the first structure with objects of the second structure.

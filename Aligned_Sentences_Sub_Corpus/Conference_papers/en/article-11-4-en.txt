@@ -1,0 +1,3 @@
+The present study is intended to be applied as a post-processing stage after a set of documents has been collected (for instance from the Internet).
+In section 2, we address the problem of automatically identifying parallel documents in a (likely noisy) set of texts.
+Doing so, we explore different approaches to the task that make use of few or no specific linguistic resources.

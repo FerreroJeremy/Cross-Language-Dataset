@@ -1,0 +1,1 @@
+The antonymy measure MantiEval is the angle between the sum of A and B and the sum of AnticR(A;C) and AnticR(B;C).

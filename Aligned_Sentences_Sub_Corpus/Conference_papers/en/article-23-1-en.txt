@@ -1,0 +1,3 @@
+The approach we propose is based on a triangulation method involving the semantic transitivity with a blocking mechanism to avoid proposing dubious relations.
+Inferred relations are then proposed to contributors to be validated or rejected.
+In cas of invalidation, a reconciliation strategy is implemented to identify the cause of the erroneous inference : an exception, an error in the premises, or a confusion caused by polysemy.

@@ -1,0 +1,3 @@
+Lorsque Y est un attribut classe, on parle alors de règle de classification (X ?
+Les récentes avancées en extraction de motifs ont donné naissance à de nombreux classifieurs à base de règles (e.g.
+Ces méthodes sont connues pour leur interprétabilité et sont performantes en terme de prédiction dans les tâches de classification supervisée.

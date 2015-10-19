@@ -1,0 +1,2 @@
+Bien entendu, pour simuler des automates avec de plus en plus d'états, un automate intrinsèquement universel utilise des groupes de cellules de plus en plus grands.
+Intuitivement, B "remonte le temps" de l'évolution de A et, inversement, A "remonte le temps" de l'évolution de B.

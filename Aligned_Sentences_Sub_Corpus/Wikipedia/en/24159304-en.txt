@@ -1,0 +1,1 @@
+Running rootkits attempt to protect themselves by monitoring running processes and suspending their activity until the scanning has finished; this is more difficult if the rootkit is not allowed to run.

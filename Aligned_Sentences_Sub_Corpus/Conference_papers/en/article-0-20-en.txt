@@ -1,0 +1,3 @@
+The implementation has been done considering that dimensions fit in main memory.
+These dimensions are represented by trees storing for each member the cardinality of its coverage at the most detailed level.
+The logs used are synthetic logs on the Foodmart database example coming with the Mondrian OLAP engine.

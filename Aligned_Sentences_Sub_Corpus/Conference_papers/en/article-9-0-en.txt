@@ -1,0 +1,3 @@
+Abstract This paper proposes a generic mathematical formalism for the combination of structures.
+The control of saturation of the final structures is realized by a polarization of the objects of the elementary structures.
+This formalism allows us to bring to the fore and to formalize the hidden procedural mechanisms of numerous formalisms, including rewriting systems, dependency grammars, TAG, HPSG and LFG.

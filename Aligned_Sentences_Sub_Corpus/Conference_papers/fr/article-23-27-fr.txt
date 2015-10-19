@@ -1,0 +1,1 @@
+Le seuil de filtrage a été fixé à un poids de 25 (seules les inférences avec un poids égal ou supérieur à 25 ont été prises en considération).

@@ -1,0 +1,2 @@
+Acrobat can also be configured to close an opened PDF file before recompiling it with LaTeX.
+These operations are accomplished using Dynamic Data Exchange calls, documented in Acrobat Interapplication Communication Overview and Acrobat Interapplication Communication Reference.Instructions on how to set up TeXnicCenter to work with Adobe Acrobat Reader/Professional 7.x can be found in http://texnik.dante.de/cgi-bin/mainFAQ.cgi?file=gui/TeXnikCenter.

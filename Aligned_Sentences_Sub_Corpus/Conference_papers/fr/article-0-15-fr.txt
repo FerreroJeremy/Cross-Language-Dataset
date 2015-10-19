@@ -1,0 +1,3 @@
+Dans notre cas, ces mesures devraient être étendues pour prendre en compte la relation de couverture exploitée par les opérateurs.
+Par exemple, considérons l’expression lca(q1 [ q2) de l’exemple 3.2 résumant q1 et q2 par fSodagfS2-08gfFranceg.
+Cette expression résume en retirant toutes les références de q1 et q2 et ajoute la référence r = fSodag fS2-08g fFranceg, ce qui donne un rappel et une précision nulle.

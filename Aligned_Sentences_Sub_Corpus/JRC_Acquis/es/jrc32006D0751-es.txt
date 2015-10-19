@@ -1,0 +1,20 @@
+Artículo 2 Los destinatarios de la presente Decisión serán los Estados miembros.
+Hecho en Bruselas, el 27 de octubre de 2006.
+Por la Comisión Günter Verheugen Vicepresidente [1] DO L 40 de 11.2.1989, p. 12.
+Montaje de la muestra de ensayo general para las clases B1ca, B2ca, Cca y Dca Los cables se montarán en la parte frontal de una escalera estándar (EN 50266-1).
+La parte inferior de los cables eléctricos estará 20 cm por debajo del extremo inferior del quemador.
+Para cables eléctricos de diámetro inferior o igual a 50 mm, deberá utilizarse alambre con un diámetro de 0,5 mm a 1,0 mm, inclusive.
+Para cables de diámetro superior a 50 mm, el alambre deberá tener un diámetro de 1,0 mm a 1,5 mm.
+Se trazará una línea horizontal cada 25 cm en sentido ascendente, a fin de medir la propagación de la llama en función del tiempo.
+Los cables se montarán como sigue, dependiendo de la clasificación que se solicite. 1.1.1.
+Clases B2ca, Cca y Dca El procedimiento de montaje seleccionado dependerá del diámetro del cable eléctrico conforme al cuadro 4.1.
+La distancia entre haces será de 10 mm. | Los umbrales se determinarán redondeando el diámetro al mm más próximo, salvo que el cable tenga un diámetro inferior a 5 mm, en cuyo caso no se redondeará el diámetro.
+Cables o hilos de diámetro inferior o igual a 5 mm El número de haces de 10 mm, Nbu de cables, viene dado por: Nbu = int300 + 1020 = 15 ecuación 3 De este modo, se montarán quince haces con una distancia de 10 mm entre cada uno de ellos.
+El número de cables de cada haz (n) será: n = int100dc2 ecuación 4 donde: dc es el diámetro del cable (en mm y no redondeado).
+Así pues, el número de longitudes de cable (CL) de los hilos o cables con un diámetro inferior a 5 mm será: CL = n × 15 ecuación 5 1.1.1.4.
+Longitud total de cable por ensayo La longitud total L (m) por ensayo será: L = n × 15 × 3,5 por dc ≤ 5 mm o L = N × 3,5 por dc %gt% 5 mm ecuación 6 1.1.2.
+Clase B1ca En la parte posterior de la bandeja de cables se montará un tablero incombustible de silicato cálcico con una densidad de 870 ± 50 kg/m3 y un grosor de 11 ± 2 mm.
+En todos los demás aspectos, el montaje de los cables será idéntico al de las clases B2ca, Cca y Dca. 2.
+Definición de los parámetros de ensayo Cuadro 4.2 DEFINICIÓN DE LOS PARÁMETROS DE ENSAYO EN LOS ESCENARIOS 1 Y 2 FIPEC20 Todos los parámetros calculados se evaluarán durante 20 minutos desde el inicio del ensayo (ignición del quemador).
+Umbrales HRRsm30 = 3 kW y THR = 0,4 MJ | SMOGRA, cm2/s2 | Índice de propagación del humo (SMOke Growth RAte), definido como el valor máximo del cociente entre la SPRsm60 y el tiempo, multiplicado por 10000.
+Ninguna declaración = Sin determinación de propiedades. [5] El flujo de entrada de aire en la cámara deberá fijarse en 8000 ± 800 l/min.Escenario 1 FIPEC20 = prEN 50399-2-1 con montaje y fijación según se indica más abajo.Escenario 2 FIPEC20 = prEN 50399-2-2 con montaje y fijación según se indica más abajo. [6] La clase de humo declarada para los cables de la clase B1ca debe derivar del ensayo del escenario 2 FIPEC20. [7] La clase de humo declarada para los cables de las clases B2ca, Cca y Dca debe derivar del ensayo del escenario 1 FIPEC20. [8] Medición de las propiedades peligrosas de los gases que se forman en caso de incendio que merman la capacidad de quienes están expuestos a ellos para actuar con eficacia y lograr escapar, y no descripción de su toxicidad. --------------------------------------------------

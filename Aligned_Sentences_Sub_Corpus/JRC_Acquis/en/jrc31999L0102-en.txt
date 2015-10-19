@@ -1,0 +1,18 @@
+Article 3 This Directive shall enter into force on the third day following its publication in the Official Journal of the European Communities.
+Article 4 This Directive is addressed to the Member States.
+Done at Brussels, 15 December 1999.
+For the Commission Erkki LIIKANEN Member of the Commission (1) OJ L 76, 6.4.1970, p. 1. (2) OJ L 350, 28.12.1998, p. 1. (3) OJ L 42, 23.2.1970, p. 1. (4) OJ L 11, 16.1.1999, p. 25.
+ANNEX AMENDMENTS TO ANNEXES I, VI, X AND XI TO DIRECTIVE 70/220/EEC A.
+Vehicles with compression-ignition engines Vehicles of category M1, except - vehicles designed to carry more than six occupants including the driver, - vehicles whose maximum mass exceeds 2500 kg, from 1 January 2003 for new types and from 1 January 2004 for all types, must be fitted with an on-board diagnostic (OBD) system for emission control in accordance with Annex XI.
+Vehicles may be type-approved, registered and sold with such deficiencies according to the requirements of Section 4 of this Annex.%quot% 4.
+All emission-related fault codes must be consistent with Section 6.5.3.4 of Appendix 1 to this Annex.%quot% 5.
+If the MI is switched back to the previous state of activation, the corresponding fault codes and stored freeze-frame conditions may be erased.%quot% 12.
+In such a case, the deficiency may be carried-over for a period not exceeding three years. 4.5.2.
+In such a case, the deficiency may be carried-over for a period not exceeding three years. 4.6.
+ISO FDIS 14230 - Part 4 %quot%Road Vehicles - Diagnostic Systems - Keyword Protocol 2000%quot%.
+Test equipment and diagnostic tools needed to communicate with OBD systems must meet or exceed the functional specification given in ISO DIS 15031-4 - dated June 1998 (SAE J1978 - dated February 1998). 6.5.3.3.
+Basic diagnostic data, (as specified in 6.5.1) and bi-directional control information must be provided using the format and units described in ISO DIS 15031-5 - dated October 1998 (SAE J1979 - dated September 1997) and must be available using a diagnostic tool meeting the requirements of ISO DIS 15031-4 - dated June 1998 (SAE J1978 - dated February 1998). 6.5.3.4.
+When a fault is registered, the manufacturer must identify the fault using an appropriate fault code consistent with those given in Section 6.3 of ISO DIS 15031-6 - dated October 1998 (SAE J2012 - dated July 1996), relating to %quot%Powertrain system diagnostic trouble codes%quot% (P0 fault codes).
+The note in Section 6.3 of ISO 15031-6 (SAE J2012 - dated July 1996) immediately preceding the list of fault codes in the same section does not apply. 6.5.3.5.
+The connection interface between the vehicle and the diagnostic tester must be standardised and must meet all the requirements of ISO DIS 15031-3 - dated December 1998 (SAE J1962 - dated February 1998).
+Entitled to such information is any person engaged in commercially servicing or repairing, road-side rescuing, inspecting or testing of vehicles or in manufacturing or selling replacement or retro-fit components, diagnostic tools and test equipment.%quot% (1) This requirement is only applicable from 1 January 2003 to new types of vehicles with an electronic speed input to the engine management.

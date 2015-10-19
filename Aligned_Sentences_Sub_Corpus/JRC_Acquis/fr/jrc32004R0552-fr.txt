@@ -1,0 +1,39 @@
+Article 3 Mesures d'exécution en matière d'interopérabilité 1.
+Les mesures d'exécution en matière d'interopérabilité sont établies conformément à la procédure visée à l'article 8 du règlement-cadre.
+Article 4 Spécifications communautaires 1.
+Les références aux spécifications d'Eurocontrol visées au paragraphe 1, point b), sont publiées par la Commission au Journal officiel de l'Union européenne conformément à la procédure visée à l'article 5, paragraphe 2, du règlement-cadre. 5.
+CHAPITRE III VÉRIFICATION DE LA CONFORMITÉ Article 5 Déclaration CE de conformité ou d'aptitude à l'emploi de composants 1.
+Le fabricant, ou son mandataire établi dans la Communauté, garantit et déclare, au moyen d'une déclaration CE de conformité ou d'aptitude à l'emploi, qu'il a appliqué les dispositions contenues dans les exigences essentielles et dans les mesures d'exécution pertinentes en matière d'interopérabilité. 3.
+Article 6 Déclaration CE de vérification des systèmes 1.
+Les éléments de cette déclaration et du dossier technique sont définis à l'annexe IV.
+Article 7 Sauvegardes 1.
+Lorsque la Commission constate que la non-conformité avec les exigences essentielles est due à l'application incorrecte des mesures d'exécution en matière d'interopérabilité et/ou des spécifications communautaires, l'État membre concerné prend les mesures appropriées à l'encontre de l'organe qui a délivré la déclaration de conformité ou d'aptitude à l'emploi ou la déclaration CE de vérification et en informe la Commission et les autres États membres. 6.
+Article 8 Organismes notifiés 1.
+Sans préjudice des exigences visées aux paragraphes 1, 2 et 3, les États membres peuvent décider de désigner en tant qu'organismes notifiés les organismes agréés conformément à l'article 3 du règlement sur la fourniture de services.
+CHAPITRE IV DISPOSITIONS FINALES Article 9 Révision des annexes En cas de progrès technique ou opérationnel, les annexes I et II peuvent être adaptées conformément à la procédure visée à l'article 5, paragraphe 3, du règlement-cadre.
+Tous les systèmes et composants actuellement en exploitation du réseau européen de gestion du trafic aérien devront être conformes aux exigences essentielles d'ici le 20 avril 2011, sauf disposition contraire des mesures d'exécution pertinentes en matière d'interopérabilité. 3.
+Article 11 Abrogation Les directives 93/65/CEE et 97/15/CE et les règlements (CE) n° 2082/2000 et n° 980/2002 sont abrogés le 20 octobre 2005.
+Article 12 Entrée en vigueur Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.
+Fait à Strasbourg, le 10 mars 2004.
+Cox Par le Conseil Le président D.
+Roche (1) JO C 103 E du 30.4.2002, p. 41. (2) JO C 241 du 7.10.2002, p. 24. (3) JO C JO C 278 du 14.11.2002, p. 13. (4) Avis du Parlement européen du 3 septembre 2002 (JO C 272 E du 13.11.2003, p. 325), position commune du Conseil du 18 mars 2003 (JO C 129 E du 3.6.2003, p. 26) et position du Parlement européen du 3 juillet 2003 (non encore parue au Journal officiel).
+Systèmes et procédures utilisés pour la gestion des courants de trafic aérien. 3.
+Systèmes et procédures de navigation. 6.
+Systèmes et procédures de surveillance. 7.
+ANNEXE II EXIGENCES ESSENTIELLES Partie A: Exigences générales Les exigences générales concernent l'ensemble du réseau et s'appliquent, en général, à chacun des systèmes énumérés à l'annexe I. 1.
+Systèmes et procédures utilisés pour la gestion des courants de trafic aérien 2.1.
+Soutien à de nouveaux concepts d'exploitation Les systèmes de traitement des données de vol doivent permettre la mise en oeuvre progressive de concepts d'exploitation avancés agréés et validés pour toutes les phases de vol.
+Systèmes de traitement des données de surveillance 3.2.1.
+Soutien à de nouveaux concepts d'exploitation Les systèmes de traitement des données de surveillance doivent permettre la mise à disposition progressive de nouvelles sources d'informations de surveillance de manière à améliorer la qualité globale du service. 3.3.
+Systèmes d'interface homme-machine 3.3.1.
+Soutien à de nouveaux concepts d'exploitation Les systèmes d'interface homme-machine doivent permettre l'introduction progressive de nouveaux concepts d'exploitation agréés et validés ainsi qu'une automatisation accrue, de manière à faire en sorte que les tâches attribuées au personnel de contrôle restent compatibles avec les capacités humaines, aussi bien en mode d'exploitation normal qu'en mode d'exploitation dégradé. 4.
+Soutien à de nouveaux concepts d'exploitation Les systèmes de communications doivent permettre la mise en oeuvre de concepts d'exploitation avancés agréés et validés pour toutes les phases de vol. 5.
+Systèmes et procédures de navigation 5.1.
+Systèmes et procédures de surveillance 6.1.
+Systèmes et procédures pour les services d'information aéronautique 7.1.
+Soutien à de nouveaux concepts d'exploitation Une information aéronautique de plus en plus exacte, complète et à jour doit être mise à disposition et utilisée en temps utile pour soutenir l'amélioration continue de l'efficacité de l'utilisation de l'espace aérien et des aéroports. 8.
+ANNEXE III LES COMPOSANTS Déclaration CE - de conformité - d'aptitude à l'emploi 1.
+Les composants Les composants seront identifiés dans les mesures d'exécution en matière d'interopérabilité conformément aux dispositions de l'article 3 du présent règlement. 2.
+ANNEXE IV LES SYSTÈMES Déclaration CE de vérification des systèmes Procédures de vérification des systèmes 1.
+Cette déclaration doit être rédigée dans la même langue que celle du dossier technique et doit contenir les éléments suivants: - les références au règlement, - le nom et l'adresse du prestataire de services de navigation aérienne (dénomination sociale et adresse complète), - une description succincte du système, - une description de la procédure utilisée pour déclarer la conformité du système (article 6 du présent règlement), - le cas échéant, le nom et l'adresse de l'organisme notifié qui a accompli les tâches se rapportant à la procédure de vérification, - les références des documents contenus dans le dossier technique, - le cas échéant, les références des spécifications communautaires, - toutes les dispositions provisoires ou définitives auxquelles les systèmes doivent être conformes, et notamment, le cas échéant, toutes les restrictions ou conditions d'exploitation, - dans le cas d'une déclaration provisoire: la durée de validité de la déclaration CE, - l'identification du signataire. 2.
+ANNEXE V LES ORGANISMES NOTIFIÉS 1.

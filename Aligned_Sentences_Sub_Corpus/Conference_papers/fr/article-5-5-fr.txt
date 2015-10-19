@@ -1,0 +1,4 @@
+Le reste de ce papier est organisé de la façon suivante.
+Dans la section 2 nous présentons l’approche utilisée pour évaluer la qualité des décompositions hiérarchiques ainsi qu’une présentation générale de notre méthode.
+Nous montrons dans la section 3 en quoi cette dernière est pertinente en l’appliquant à l’algorithme de Blondel et al. (2008).
+Dans la section 4, nous analysons différents résultats expérimentaux qui valident notre approche, d’abord sur un benchmark proposé par Lancichinetti et Radicchi (2008) puis sur des exemples réels en se comparant aux algorithmes de Lancichinetti et al. (2011) et de Rosvall et Bergstrom (2011).

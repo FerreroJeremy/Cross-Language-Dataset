@@ -1,0 +1,4 @@
+Pour une propriété de voisinage donnée, chacune de ces deux distances engendre une structure topologique sur les objets E.
+Une telle structure est parfaitement décrite par sa matrice d’adjacence.
+On notera VE et VMah les deux matrices d’adjacence associées aux deux structures toplogiques.
+Pour mesurer le degré de ressemblance entre graphes, il suffit de compter le nombre de discordances entre les deux matrices d’adjacence.

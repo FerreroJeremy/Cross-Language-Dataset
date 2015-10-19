@@ -1,0 +1,3 @@
+Nous considérons en général que pour une distance DA(X; Y ) 4 (45), X et Y sont thématiquement proches et partagent plusieurs concepts.
+Pour DA(X; Y ) 4 , la proximité thématique est considérée comme faible et aux alentours de 2 (90), X et Y n’ont aucune relation.
+DA est une vraie distance, elle vérifie donc les propriétés de réflexivité, de symétrie et d’inégalité triangulaire.

@@ -1,0 +1,3 @@
+We propose a parsing algorithm for Interaction Grammars using the deductive parsing framework.
+This approach brings new perspectives on this problem, departing from previous methods relying on constraint-solving techniques to interpret it as a graph-rewriting problem.
+Furthermore, this presentation allows a standard description of the algorithm and a fine-grained inspection of the sources of non-determinism.

@@ -1,0 +1,3 @@
+Adaptation of the SNN algorithm For implementing the SNN algorithm presented in the previous section, one of the points that must be specified more precisely is the way its different thresholds are fixed.
+For the identification of the sense seeds (threshold equal to 0.9) and for the definition of the cooccurrents that are noise (threshold equal to 0.2), the thresholds are quantiles of the number of strong links of cooccurrents.
+For defining strong links (threshold equal to 0.65), associating cooccurrents to sense seeds (threshold equal to 0.5) and aggregating cooccurrent to senses (threshold equal to 0.7), the thresholds are quantiles of the strength of the links between cooccurrents in the shared nearest neighbor graph.

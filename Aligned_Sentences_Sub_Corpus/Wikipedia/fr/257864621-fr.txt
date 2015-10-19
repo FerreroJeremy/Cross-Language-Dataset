@@ -1,0 +1,1 @@
+Il s'agit ainsi d'un protocole de niveau 2 s'appuyant sur PPP.IPsec est un protocole de niveau 3, issu des travaux de l'IETF, permettant de transporter des données chiffrées pour les réseaux IP.SSL/TLS offre une très bonne solution de tunnelisation.

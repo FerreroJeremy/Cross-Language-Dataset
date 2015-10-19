@@ -1,0 +1,3 @@
+Angular Distance Let us define Sim(A;B) as one of the similarity measures between two vectors A et B, often used in information retrieval [Morin, 1999].
+We can express this function as: Sim(A;B) = cos(dA;B) = AB with as the scalar product.
+Intuitively, this function constitutes an evaluation of the thematic proximity and measures the angle between the two vectors.

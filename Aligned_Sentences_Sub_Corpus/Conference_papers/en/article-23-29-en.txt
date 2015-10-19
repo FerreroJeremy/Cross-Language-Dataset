@@ -1,0 +1,2 @@
+Conclusion In this paper we presented some issues in building a lexico-semantic network with games and user contributions and inferring new relations from existing ones.
+Such a network is highly lexicalized and word usages are discovered incrementally along its construction.

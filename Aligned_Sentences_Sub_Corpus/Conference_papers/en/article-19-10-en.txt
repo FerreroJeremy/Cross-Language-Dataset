@@ -1,0 +1,2 @@
+As for the first measure, a null value is taken when there is no relation between two words in the cooccurrence network.
+With this second measure, two cooccurrents can be found strongly linked even though they are not directly linked in the cooccurrence network: they just have to share a significant number of words with which they are linked in the cooccurrence network.

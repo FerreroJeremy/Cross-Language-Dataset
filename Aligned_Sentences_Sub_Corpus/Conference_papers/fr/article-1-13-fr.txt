@@ -1,0 +1,2 @@
+Nous utilisons le prototype AClike pour extraire les règles fréquentes et de confiance : en fait AClike extrait les itemsets ?-fréquents d-libres (Boulicaut et al., 2003) qui sont les corps de règles p telle que conf(p, r) = 1 - d/?.
+Nous utilisons aussi le prototype consepminer (Zhang et al., 2000) pour extraire les motifs ?-fréquents ?-émergents.

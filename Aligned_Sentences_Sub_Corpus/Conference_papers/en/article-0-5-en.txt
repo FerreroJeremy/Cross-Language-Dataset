@@ -1,0 +1,2 @@
+In our example, the data warehouse records sales of beverages in different locations at different times.
+Consider a sequence of queries L = hq1;q2;q3i where q1 is the first query launched, q2 the second one and q3 the last one.

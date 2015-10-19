@@ -1,0 +1,3 @@
+Certes, le contexte d’application, les connaissances a priori, le type de données etc., peuvent aider à identifier les mesures idoines.
+Par exemple, si les objets à comparer sont décrits par des vecteurs booléens, on peut se limiter à une catégorie de mesures spécifiquement dédiées.
+Néanmoins, comment faire quand le nombre de mesures candidates reste grand ?

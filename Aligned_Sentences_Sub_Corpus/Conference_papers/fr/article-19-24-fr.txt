@@ -1,0 +1,6 @@
+où s est le synset le plus spécifique subsumant les synset s1 et s2 dans la hiérarchie de Word- Net et où P(s) représente la probabilité du synset s calculée à partir d’un corpus de référence, en l’occurrence le SemCor.
+Pour le calcul de cette mesure, nous nous avons utilisé le module Perl WordNet::Similarity v0.06 (Patwardhan, Pedersen, 2003).
+La similarité entre un sens et un synset est plus précisément définie comme la moyenne des similarités entre les mots composant le sens, ou une partie de ceux-ci, et le synset.
+La similarité entre un mot et un synset est elle-même donnée par la plus forte des similarités entre le synset et les synsets auxquels le mot considéré appartient, celles-ci reposant sur (1).
+Un sens est affecté au synset qui lui est le plus similaire, à condition toutefois que la similarité entre les deux soit supérieure à un seuil (égal ici à 0,25 comme dans (Pantel, Lin, 2002)).
+Finalement, la précision pour un mot est donnée par le rapport entre le nombre de ses sens s’appariant avec un de ses synsets et le nombre total de ses sens.

@@ -1,0 +1,2 @@
+INTRODUCTION In automatic speech understanding or translation system, the role of Automatic Speech Recognition (ASR) is to obtain a text hypothesis from a speech signal while, generally, this hypothesis is further treated by a separate understanding or analysis module, which transforms the text string into a semantic representation.
+Both ASR and understanding (or analysis) modules use linguistic resources like dictionaries, language models and/or grammars, but they are often seen as “black-boxes” to each other.

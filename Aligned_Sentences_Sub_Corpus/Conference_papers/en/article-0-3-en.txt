@@ -1,0 +1,3 @@
+This paper is organized as follows.
+Next section motivates the approach with a toy example.
+Section 4 describes the quality measure based on precision and recall, that is used to assess the summaries expressed in QSL.

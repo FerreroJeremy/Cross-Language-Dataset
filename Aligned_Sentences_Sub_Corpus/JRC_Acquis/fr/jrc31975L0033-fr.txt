@@ -1,0 +1,14 @@
+Article 2 Les compteurs d'eau froide qui peuvent recevoir les marques et signes CEE sont décrits en annexe à la présente directive.
+Article 5 Les États membres sont destinataires de la présente directive.
+Débit nominal : Qn Le débit nominal Qn est égal à la moitié du débit maximal Qmax.
+Au débit nominal Qn le compteur doit pouvoir fonctionner en utilisation normale, c'est-à-dire en régime permanent et en régime intermittent, en respectant les erreurs maximales tolérées. 1.5.
+Erreurs maximales tolérées L'erreur maximale tolérée dans la zone inférieure comprise entre Qmin inclus et Qt exclu est de ± 5 %.
+L'erreur maximale tolérée dans la zone supérieure comprise entre Qt inclus et Qmax inclus est de ± 2 %. 2.2.
+La valeur minimale de cette pression est de 10 bars. 3.4.
+Près de chaque échelle sont indiquées les désignations × 1 000 - 100 - × 10 - × 1 - × 0,1 - × 0,01 - × 0,001.
+L'échelon de vérification doit être de la forme 1 × 10n, 2 × 10n ou 5 × 10n.
+Inscriptions d'identification Tout compteur porte obligatoirement, de manière lisible et indélébile, groupées ou réparties sur l'enveloppe, le cadran du dispositif indicateur ou la plaque signalétique, les indications suivantes: a) le nom ou la raison sociale du fabricant ou sa marque de fabrique; b) la classe métrologique et le débit nominal Qn en mètres cubes par heure; c) l'année de fabrication, le numéro individuel de fabrication; d) une ou deux flèches indiquant le sens d'écoulement; e) le signe d'approbation CEE de modèle; f) la pression maximale de service en bars si elle peut être supérieure à 10 bars; g) la lettre V ou H, si le compteur ne peut fonctionner correctement que dans la position verticale (V) ou dans la position horizontale (H). 4.2.
+L'incertitude maximale de précision relative de l'installation est de 5 % pour le mesurage de la pression et de 2,5 % pour le mesurage de la perte de pression.
+La variation relative de la valeur des débits, pendant chaque essai, ne doit pas dépasser 2,5 % de Qmin à Qt et 5 % de Qt à Qmax.
+Conditions d'approbation CEE de modèle Un modèle de compteur d'eau est approuvé: a) lorsqu'il satisfait aux prescriptions administratives, techniques et métrologiques de la directive et de son annexe; b) lorsque les essais 1, 2 et 3 prévus au point 5.2.4 montrent qu'il satisfait aux caractéristiques métrologiques et technologiques des parties II et III de la présente annexe, et c) lorsqu'après chaque essai du programme d'usure accélérée: 1.
+le compteur respecte une erreur maximale de ± 6 % entre Qmin et Qt et de ± 2,5 % entre Qt et Qmax.

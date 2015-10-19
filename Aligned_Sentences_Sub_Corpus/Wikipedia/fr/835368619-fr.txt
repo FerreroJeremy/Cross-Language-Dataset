@@ -1,0 +1,3 @@
+Les courbes de Bézier sont des courbes polynomiales paramétriques décrites pour la première fois en 1962 par l'ingénieur français Pierre Bézier qui les utilisa pour concevoir des pièces d'automobiles à l'aide d'ordinateurs.
+Une courbe de Bézier cubique est la courbe B'(''t) définie par les points de contrôle '''P0, P'''1, '''P2 et P3.
+Le dénominateur n'est là que pour normaliser la somme des poids supplémentaires, afin que la courbe soit correctement définie.Une courbe de Bézier rationnelle prend la forme générale suivante:\mathbf(t) = \dfrac^n b_(t) \omega_i \mathbf_ ^n b_(t) w_i NotesVoir aussiArticles connexesSpline et B-spline, autres courbes paramétriques.

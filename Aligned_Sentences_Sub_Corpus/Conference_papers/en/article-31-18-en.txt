@@ -1,0 +1,4 @@
+In this manner, we approach the production of a dynamic summarization according to the interests of the user.
+In order to limit the number of sentences while increasing their relevance, we propose to reduce the RST tree by eliminating all the descendants which form relations not retained for the final summary.
+We took as a starting point the technique of simplification (Udo, 2000) to determine the role of a propositional expression in a document in order to draw out the structure of discourse from a text.
+Thus, the final extract preserves only the nuclei minimal units remaining in the tree RST after simplification.

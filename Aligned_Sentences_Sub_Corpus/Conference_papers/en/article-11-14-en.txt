@@ -1,0 +1,3 @@
+We observe that the performance of the engine trained on the bitexts identified by our cosine [ edit classifiers is better than the performance of the engine trained on the dictionary bitext.
+This is a very satisfactory result since no manual intervention was required, neither any special bilingual resource.
+Another encouraging result is that the precision of all our classifiers is very high (99% or greater).

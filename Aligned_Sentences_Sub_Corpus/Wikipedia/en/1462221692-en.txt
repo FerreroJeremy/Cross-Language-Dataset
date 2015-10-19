@@ -1,0 +1,3 @@
+Fibers which support only a single mode are called singlemode fibers (SMF).
+Fiber is also immune to electrical interference, which prevents cross-talk between signals in different cables and pickup of environmental noise.
+Time delay can be determined using a device such as an optical time-domain reflectometer.Optical fibers can be used as sensors to measure strain, temperature, pressure and other quantities by modifying a fiber so that the quantity to be measured modulates the intensity, phase, polarization, wavelength or transit time of light in the fiber.

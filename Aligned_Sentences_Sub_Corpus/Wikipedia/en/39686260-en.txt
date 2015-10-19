@@ -1,0 +1,1 @@
+It is up to the receiving application to detect loss or corruption and recover data using error correction techniques.

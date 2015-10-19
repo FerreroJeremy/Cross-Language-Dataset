@@ -1,0 +1,3 @@
+Originally resulting from Ross Quillian’s work on psycholinguistics [1], lexical networks are today object of many researches in Natural Language Processing.
+They are employed in many tasks (lexical disambiguation [2]) or field applications (machine translation with multilingual networks like Papillon [3] or [4], information retrieval or text classification [5]).
+Most of these networks and specifically the most famous,Word- Net [6], miss syntagmatic information and, in particular, information concerning the domain usage of terms or at least thematicaly related terms.

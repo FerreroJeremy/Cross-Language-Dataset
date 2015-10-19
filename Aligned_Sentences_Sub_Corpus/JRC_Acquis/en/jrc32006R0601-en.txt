@@ -1,0 +1,6 @@
+Article 2 Data format Member States shall use the data format "Gesmes", in conformity with the interchange standards specified by the Commission (Eurostat).
+Article 3 Technical specifications of data format The technical specifications of the data structure shall be as given in the Annex to this Regulation.
+Article 4 Entry into force This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+Done at Brussels, 18 April 2006.
+For the Commission JoaquĂ­n Almunia Member of the Commission [1] OJ L 35, 8.2.2005, p. 23. -------------------------------------------------- ANNEX Technical specifications of the data structure INTRODUCTION Standardisation of data record structures is fundamental for efficient data processing.
+DATA SETS The following five data sets will be used for balance of payments reporting: Data set identifier | Description | BOP_EUR_Q | Euro indicators | BOP_FDI_A | Foreign direct investments | BOP_ITS_A | International trade in services | BOP_POS_A | Foreign direct investment positions | BOP_Q_Q | Quarterly statistics | DATA STRUCTURE, CODE LISTS AND ATTRIBUTES This section gives an overview of the data structure, code lists and attributes to be used.

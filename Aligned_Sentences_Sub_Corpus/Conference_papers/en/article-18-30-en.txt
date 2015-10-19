@@ -1,0 +1,2 @@
+This approach naturally involves an agglomeration of the vectors.
+If this last is not around 10% of the average CV the vector undergoes a nonlinear operation of amplification (exponentiation of each component then normalisation), and this in a reiterated way until obtaining a coefficient of variation in the acceptable values.

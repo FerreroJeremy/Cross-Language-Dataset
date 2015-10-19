@@ -1,0 +1,125 @@
+Article 2 Notwithstanding the first indent of Article 1, other analytical methods shall be permitted, under the responsibility of the director of the laboratory, on condition that the accuracy and precision (repeatability and reproducibility) of the methods are at least equivalent to those of the relevant reference analytical methods given in the Annex.
+Article 3 Where Community analytical reference methods are not laid down for the detection and quantification of substances contained in a particular spirit drink, the following methods shall be used: (a) analytical methods which are validated to internationally recognised procedures and in particular meet the criteria set in the Annex to Directive 85/591/EEC; (b) analytical methods conforming to the recommended standards of the International Organisation for Standardisation (ISO); (c) analytical methods recognised by the General Assembly of the International Vine and Wine Office (OIV) and published by that Office; (d) in the absence of a method as indicated at (a), (b) or (c), by reason of its accuracy, repeatability and reproducibility: - an analytical method approved by the Member State concerned, - where necessary, any other suitable analytical method.
+Article 5 This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.
+It shall apply from 1 January 2001.
+Done at Brussels, 19 December 2000.
+For the Commission Franz Fischler Member of the Commission (1) OJ L 160, 12.6.1989, p. 1. (2) OJ L 105, 25.4.1990, p. 9. (3) OJ L 270, 7.10.1998, p. 9. (4) OJ L 372, 31.12.1985, p. 50.
+Normative References ISO 3696:1987: Water for analytical laboratory use - Specifications and test methods. 3.
+Terms and Definitions 3.1.
+Reference temperature: The reference temperature for the determination of alcoholic strength by volume, density and specific gravity of spirit drinks is 20 °C.
+Note 1: The term %quot%at t °C%quot% is reserved for all determinations (of density or alcoholic strength by volume) expressed at a temperature other than the reference temperature of 20 °C. 3.2.
+Density: The density is the mass per unit volume in vacuo of spirit drinks at 20 °C.
+It is expressed in kilograms per cubic metre and its symbol is ρ20 °C or ρ20. 3.3.
+Specific gravity: The specific gravity is the ratio, expressed as a decimal number, of the density of spirit drinks at 20 °C to the density of water at the same temperature.
+Note 2: It is possible to obtain the specific gravity from the density ρ20 at 20 °C: %gt%REFERENCE TO A GRAPHIC%gt% or %gt%REFERENCE TO A GRAPHIC%gt% where 998,203 is the density of water at 20 °C. 3.4.
+The reference values for alcoholic strength by volume (% vol) at 20 °C versus density at 20 °C for different water-alcohol mixtures that are to be used are those given in the international table adopted by the International Legal Metrology Organisation in its Recommendation No 22.
+The general equation relating the alcoholic strength by volume and density of a water-alcohol mixture at a given temperature is given on page 40 in Chapter 3 %quot%Alcoholic strength by volume%quot% of the Annex to Commission Regulation (EEC) No 2676/90 (OJ L 272, 3.10.1990, p. 1) or in the manual of analysis methods of the OIV (1994) (p. 17).
+Conversion formula: %gt%PIC FILE= %quot%L_2000333EN.002301.EPS%quot%%gt% where ASM= alcoholic strength by mass, ρ20 (alcohol)= 789,24 kg/m3 4.
+Reagents and Materials 3.1.
+Anti-bumping granules. 3.2.
+Apparatus and equipment Usual laboratory apparatus and in particular the following. 4.1.
+Water bath capable of being maintained at 10 °C to 15 °C.
+Water bath capable of being maintained at 20 °C (+- 0,2 °C). 4.2.
+Class A volumetric flasks, 100 ml and 200 ml, that have been certified to 0,1 % and 0,15 % respectively. 4.3.
+Distillation apparatus: 4.3.1.
+An example of a suitable distillation apparatus is shown in Figure 1 and includes the following parts: - round-bottomed flask, 1 litre, with a standardised ground-glass joint, - rectifying column at least 20-cm high (a Vigreux column, for example), - elbow connector with an approximately 10-cm-long straight-rimmed condenser (a West-type condenser) fitted vertically, - cooling coil, 40-cm long, - drawn-out tube, taking the distillate to the bottom of a graduated collecting flask containing a small amount of water.
+Note: The apparatus described above is intended for a sample of least 200 ml.
+The apparatus used must be capable of the following: The distillation of 200 ml of a water-alcohol solution with known concentration close to 50 % vol must not cause a loss of alcohol of more than 0,1 % vol. 6.2.
+Spirit drinks with alcoholic strength below 50 % vol.
+Measure out 200 ml of the spirit into a volumetric flask.
+Pour the sample into the round-bottomed flask of the distillation apparatus and rinse the volumetric flask with three aliquots each of approximately 20 ml of distilled water.
+Note: This 60-ml dilution is sufficient for spirits containing less than 250 g of dry extract per litre.
+Otherwise, to prevent pyrolysis, the volume of rinse water must be at least 70 ml if the dry extract concentration is 300 g/l, 85 ml for 400 g/l dry extract, and 100 ml for 500 g/l dry extract (some fruit liqueurs or crèmes).
+Pour 20 ml of distilled water into the original 200 ml volumetric flask that will be used to hold the distillate.
+This flask must then be placed in a cold water bath (4.1) (10 to 15 °C for aniseed-flavoured spirit drinks).
+Spirit drinks with alcoholic strength above 50 % vol.
+Use enough water to bring the flask's contents up to approximately 230 ml.
+This flask must then be placed in a cold water bath (4.1) (10 to 15 °C for aniseed-flavoured spirits).
+Reagents and materials During the analysis, unless otherwise is stated, use only reagents of recognised analytical grade and water of at least grade 3 as defined in ISO 3696:1987.
+Sodium chloride solution (2 % w/v) To prepare 1 litre, weigh out 20 g of sodium chloride and dissolve to 1 litre using water.
+Apparatus and Equipment Usual laboratory apparatus and in particular the following: A.3.1.
+Analytical balance capable of reading 0,1 mg.
+The pycnometer has a side tube 25 mm in length and 1 mm (maximum) in internal diameter ending in a conical ground joint.
+Other pycnometers as described in ISO 3507, e.g. 50 ml may be used if appropriate.
+A tare bottle of the same external volume (to within 1 ml) as the pycnometer and with a mass equal to the mass of the pycnometer filled with a liquid of density 1,01 (sodium chloride solution A.2.1).
+Note 1: The method for determining the densities in vacuo of spirits calls for the use of a twin-pan balance, a pycnometer and a tare bottle of the same outside external volume to cancel out the effect of air buoyancy at any given moment.
+However, it is also possible to use a smaller pycnometer, for example 50 ml.
+Weigh the clean, dry pycnometer (P).
+Weigh the water-filled pycnometer (P1).
+Weigh the tare bottle (T0).
+V20 °C must be known to the nearest 0,001 ml. - Mass of water in the pycnometer at 20 °C: %gt%REFERENCE TO A GRAPHIC%gt% where 0,998203 is the density of water at 20 °C.
+Balance them by placing weights on the pycnometer side: p grams.
+Weigh the water-filled pycnometer, with p' the weight in grams making up the equilibrium.
+V20 °C must be known to the nearest 0,001 ml. - Mass of water in the pycnometer at 20 °C: %gt%REFERENCE TO A GRAPHIC%gt% where 0,998203 is the density of water at 20 °C.
+Weigh the tare bottle, weight T1.
+Weigh the pycnometer with the prepared distillate (see Appendix I), P2 is its weight at t °C.
+Calculation - %gt%REFERENCE TO A GRAPHIC%gt% - Mass of empty pycnometer at moment of measuring = P - m + dT - Mass of the liquid in the pycnometer at t °C = P2 - (P - m + dT) - Density at t °C in g/ml - %gt%PIC FILE= %quot%L_2000333EN.002801.EPS%quot%%gt% - Express the density at t °C in kilograms per m3 by multiplying ρt °C by 1000, the value being known as ρt. - Correct ρt to 20 using the table of densities ρT for water-alcohol mixtures (Table II of Appendix II to the OIV's manual of analysis methods (1994), pp. 17-29).
+In the table find the horizontal line corresponding to temperature T in whole degrees immediately below t °C, the smallest density above ρt.
+Use the table difference found below that density to calculate the density ρt of the spirit at that temperature T in whole degrees. - Using the whole temperature line, calculate the difference between density ρ' in the table immediately above ρt and the calculated density ρt.
+Result Using the density ρ20 calculate the real alcoholic strength using the alcoholic strength tables identified below: The table giving the value of the alcoholic strength by volume (% vol) at 20 °C as a function of the density at 20 °C of water-alcohol mixtures is the international table adopted by the International Legal Metrology Organisation in its Recommendation No 22.
+Weigh the pycnometer with the distillate prepared (see part I), p%quot% is mass at t °C.
+Calculation - Mass of the liquid in the pycnometer at t °C = p + m - p%quot% - Density at t °C in g/ml %gt%PIC FILE= %quot%L_2000333EN.002802.EPS%quot%%gt% - Express the density at t °C in kilograms per m3 and carry out the temperature correction in order to calculate the alcoholic strength at 20 °C, as indicated above for use of the single-pan balance.
+Reagents and materials During the analysis, unless otherwise is stated, use only reagents of recognised analytical grade and water of at least grade 3 as defined in ISO 3696:1987.
+Apparatus and equipment Usual laboratory apparatus and in particular the following: B.3.1.
+Note 2: The precise setting and monitoring of the temperature in the measuring cell are very important, for an error of 0,1 °C can lead to a variation in density of the order of 0,1 kg/m3.
+Determination of sample density B.4.2.1.
+Result When the density ρ20 is used, calculate the real alcoholic strength using the alcoholic strength tables identified below: The table giving the value of the alcoholic strength by volume (% vol) at 20 °C as a function of the density at 20 °C of water-alcohol mixtures is the international table adopted by the International Legal Metrology Organisation in its Recommendation No 22.
+Reagents and materials During the analysis, unless otherwise is stated, use only reagents of recognised analytical grade and water of at least grade 3 as defined in ISO 3696:1987.
+Apparatus and Equipment Usual laboratory apparatus and in particular the following: C.3.1.
+Single-pan hydrostatic balance with a sensitivity of 1 mg.
+Float with a volume of at least 20 ml, specially adapted to the balance, suspended with a thread of diameter not exceeding 0,1 mm.
+The measuring cylinder must have an internal diameter at least 6 mm larger than that of the float.
+Thermometer (or temperature-measuring probe) graduated in degrees and tenths of a degree from 10 to 40 °C, calibrated to 0,05 °C.
+Note 1: Use of a twin-pan balance is also possible; the principle is described in Chapter 1 %quot%Density and specific gravity%quot% of the Annex to Regulation (EEC) No 2676/90 (p. 7).
+Control using a water-alcohol solution C.4.3.1.
+Fill the measuring cylinder to the mark with a water-alcohol mixture of known strength at a temperature between 15 and 25 °C but preferably at 20 °C.
+Note the temperature if the density is measured at t °C (ρt).
+Correct ρt to 20 using the table of densities ρT for water-alcohol mixtures (Table II of Annex II to the OIV's Manual of analysis methods (1994), pp. 17-29).
+DETERMINATION OF TOTAL DRY EXTRACT OF SPIRIT DRINKS BY GRAVIMETRY 1.
+Normative References ISO 3696:1987: Water for analytical laboratory use - Specifications and test methods. 3.
+Flat-bottomed cylindrical evaporating dish 55 mm in diameter. 5.2.
+Pipette 25 ml of the spirit containing less than 15 g/l dry matter into a previously weighed flat-bottomed cylindrical evaporating dish 55 mm in diameter.
+Complete the drying by placing the evaporating dish in a drying oven at 105 °C +- 3 °C for two hours.
+Calculation The mass of the residue multiplied by 40 is equal to the dry extract contained in the spirit and it must be expressed in g/l to one decimal place. 9.
+Statistical results of the interlaboratory test The following data were obtained from an international method performance study carried out to internationally agreed procedures [1] [2]. %gt%TABLE%gt% %gt%TABLE%gt% III.
+GENERAL REMARKS 1.
+Normative References ISO 3696:1987: Water for analytical laboratory use - Specifications and test methods. 3.
+The congeners are separated by temperature programming on a suitable column and are detected using a flame ionisation detector (FID).
+Reagents and materials Unless otherwise stated, use only reagents of a purity greater than 97 %, purchased from an ISO-accredited supplier with a certificate of purity, free from other congeners at test dilution (this may be confirmed by injection of individual congener standards at the test dilution using GC conditions as in 6.4) and only water of at least grade 3 as defined in ISO 3696.
+Acetal and acetaldehyde must be stored in the dark at %amp%lt; 5 °C, all other reagents may be stored at room temperature. 5.1.
+Methanol (CAS 67-56-1). 5.3.
+Ethyl acetate (CAS 141-78-6). 5.9.
+Acetaldehyde (CAS 75-07-0). 5.12.
+All standard solutions must be stored at %amp%lt; 5 °C and be prepared freshly on a monthly basis.
+Masses of components and solutions should be recorded to the nearest 0,1 mg. 5.14.1.
+Standard solution - A Pipette the following reagents into a 100-ml volumetric flask, containing approximately 60-ml ethanol solution (5.13) to minimise component evaporation, make up to volume with ethanol solution (5.13) and mix thoroughly.
+Record the weight of the flask, each component added and the total final weight of contents. %gt%TABLE%gt% Note 1: It is preferable to add acetal and acetaldehyde last in order to minimise losses through evaporation. 5.14.2.
+Standard solution - B Pipette 3 ml of pentan-3-ol, or other suitable internal standard, (5.5) into a 100-ml volumetric flask, containing approximately 80 ml ethanol solution (5.13), make up to volume with ethanol solution (5.13) and mix thoroughly.
+Record the weight of the flask, the weight of pentan-3-ol or other internal standard added and the total final weight of contents. 5.14.3.
+Standard solution - C Pipette 1 ml solution A (5.14.1) and 1 ml solution B (5.14.2) into a 100-ml volumetric flask containing approximately 80 ml ethanol solution (5.13), make up to volume with ethanol solution (5.13) and mix thoroughly.
+Record the weight of the flask, each component added and the total final weight of contents. 5.14.4.
+Standard solution - D In order to maintain analytical continuity, prepare a quality control standard using the previously prepared standard A (5.14.1).
+Pipette 1 ml solution A (5.14.1) into a 100-ml volumetric flask containing approximately 80 ml ethanol solution (5.13), make up to volume with ethanol solution (5.13) and mix thoroughly.
+Record the weight of the flask, each component added and the total final weight of contents. 5.14.5.
+Standard solution - E Pipette 10 ml solution B (5.14.2) into a 100-ml volumetric flask containing approximately 80 ml ethanol solution (5.13), make up to volume with ethanol solution (5.13) and mix thoroughly.
+Record the weight of the flask, each component added and the total final weight of contents. 5.14.6.
+Standard solutions used to check the linearity of response of FID Into separate 100-ml volumetric flasks, containing approximately 80 ml ethanol (5.13), pipette 0, 0,1, 0,5, 1,0, 2,0 ml solution A (5.14.1) and 1 ml solution B (5.14.2), make up to volume with ethanol solution (5.13) and mix thoroughly.
+Record the weight of the flask, each component added and the total final weight of contents. 5.14.7.
+QC standard solution Pipette 9 ml standard solution D (5.14.4) and 1 ml of standard solution E (5.14.5) into a weighing vessel and mix thoroughly.
+Record the weight of the flask, each component added and the total final weight of contents. 6.
+Test portion 8.1.1.
+Add 1 ml of standard solution E (5.14.5) and record the weight (MIS). 8.1.4.
+Samples must be stored at less than 5 °C prior to analysis in order to minimise any volatile losses. 8.2.
+Add 1 ml of standard solution E (5.14.5) and record the weight. 8.2.4.
+Samples must be stored at less than 5 °C prior to analysis in order to minimise any volatile losses. 8.3.
+A linear plot should be obtained, with a correlation coefficient of at least 0,99. %gt%PIC FILE= %quot%L_2000333EN.004001.EPS%quot%%gt% 8.5.
+Determination Inject standard solution C (5.14.3) and 2 QC standard solutions (5.14.7).
+Inject one standard solution C (5.14.3) after every 5 samples. 9.
+congener= concentration of congener in solution C (5.14.3) Conc.
+IS= concentration of internal standard in solution C (5.14.3). 9.1.2.
+Sample analysis Using equation (2) below, calculate the concentration of each congener in the samples. %gt%PIC FILE= %quot%L_2000333EN.004003.EPS%quot%%gt% where: MSAMPLE= weight of sample (8.1.2); MIS= weight of internal standard (8.1.3); Conc.
+IS= concentration of internal standard in solution E (5.14.5); RF= response factor calculated using equation 1. 9.1.3.
+Quality control standard solution analysis Using equation (3) below, calculate the percentage recovery of the target value for each congener in the quality control standards (5.14.7): %gt%PIC FILE= %quot%L_2000333EN.004004.EPS%quot%%gt% The concentration of the analyte in the QC standard is calculated using equations (1) and (2) above. 9.2.
+Final presentation of results Results are converted from μ/g to g per 100 litres absolute alcohol for samples using equation (4): %gt%PIC FILE= %quot%L_2000333EN.004101.EPS%quot%%gt% where ρ= density in kg/m3.
+Quality assurance and control (used for the validated method) Using equation (2) above, calculate the concentration of each congener in the quality control standard solutions prepared by following the procedure as in 8.1.1 to 8.1.4.
+If the analysed results are within +- 10 % of their theoretical values for each congener, analysis may proceed.

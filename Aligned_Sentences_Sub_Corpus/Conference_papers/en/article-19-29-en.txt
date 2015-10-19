@@ -1,0 +1,2 @@
+Conclusion and future work In this article, we have presented a new method for discriminating and defining the senses of a word from a network of lexical cooccurrences.
+This method consists in applying an unsupervised clustering algorithm, in this case the SNN algorithm, to the cooccurrents of the word by relying on the relations that these cooccurrents have in the cooccurrence network.

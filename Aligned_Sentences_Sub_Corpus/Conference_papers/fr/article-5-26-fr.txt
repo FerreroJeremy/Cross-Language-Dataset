@@ -1,0 +1,2 @@
+La méthode a été appliquée à l’algorithme de Blondel et al. (2008) en utilisant une généralisation de la modularité au cadre multi-niveaux.
+Des tests réalisés sur des graphes aléatoires montrent que la hiérarchie optimisée est bien plus proche de la vraie configuration du réseau.

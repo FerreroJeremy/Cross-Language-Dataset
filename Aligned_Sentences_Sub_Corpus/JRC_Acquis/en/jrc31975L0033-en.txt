@@ -1,0 +1,14 @@
+Article 2 Cold-water meters which may bear the EEC marks and signs are described in the Annex to this Directive.
+Article 5 This Directive is addressed to the Member States.
+Nominal flowrate (Qn) The nominal flowrate, Qn, is equal to half the maximum flowrate, Qmax.
+At the nominal flowrate, Qn, the meter should be able to function in normal use, i.e., in continuous and intermittent operating conditions, without exceeding the maximum permissible errors. 1.5.
+Maximum permissible errors The maximum error permitted in the lower region, from Qmin inclusive to Qt non-inclusive, is ± 5 %.
+The maximum error permitted in the upper region, from Qt inclusive to Qmax inclusive, is ± 2 %. 2.2.
+The minimum value for this pressure is 10 bars. 3.4.
+The following should be shown near each part of the scale : × 1000 - × 100 - × 10 - × 1 - × 0.1 - × 0.01 - × 0.001.
+The size of the verification scale division must be based on the formula 1 × 10n or 2 × 10n or 5 × 10n.
+Identification inscriptions It is compulsory for all meters to carry, in a legible and indelible manner, either separately or grouped together on the meter casing, the indicator dial, or the indication plate, the following information: (a) the name or trade name of the manufacturer or his trademark; (b) the metrological class and nominal flowrate Qn in cubic metres per hour; (c) the year of manufacture, individual serial number; (d) one or two arrows showing direction of flow; (e) the EEC pattern approval symbol; (f) the maximum operating pressure in bars if this can exceed 10 bars; (g) the letter %quot%V%quot% or %quot%H%quot% if the meter can operate properly only in either the vertical (V) or horizontal (H) positions. 4.2.
+The maximum permissible inaccuracy is 5 % in the case of measurement of pressure and 2.5 % in the case of measurement of loss of pressure.
+During each test, the relative variation in the flowrates should not exceed 2.5 % between Qmin and Qt and 5 % between Qt and Qmax.
+Conditions for EEC pattern approval A water meter pattern will be approved if it fulfils the following conditions: (a) it conforms with the administrative, technical and metrological provisions of this Directive and its Annex; (b) tests 1, 2 and 3 under point 5.2.4 show that it conforms with Parts II and III of this Annex as regards metrological and technological characteristics; (c) after each accelerated endurance test: 1.
+the maximum error of the meter between Qmin and Qt is ± 6 % and between Qt and Qmax ± 2.5 %.

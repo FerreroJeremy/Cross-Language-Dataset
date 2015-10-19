@@ -1,0 +1,16 @@
+Aplicarán dichas disposiciones a partir del 1 de octubre de 2006.
+Artículo 3 La presente Directiva entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea.
+Artículo 4 Los destinatarios de la presente Directiva serán los Estados miembros.
+Hecho en Bruselas, el 23 de noviembre de 2005.
+Por la Comisión Günter Verheugen Vicepresidente [1] DO L 42 de 23.2.1970, p. 1.
+Directiva modificada en último lugar por la Directiva 2005/49/CE de la Comisión (DO L 194 de 26.7.2005, p. 12). [2] DO L 152 de 6.7.1972, p. 15.
+El ensayo se llevará a cabo con arreglo a lo dispuesto en la cláusula 6.4 de la norma CISPR 25 (2a edición 2002), método ALSE.%quot%; 4) en el anexo VIII, el punto 3.1 se sustituye por el texto siguiente: %quot%3.1.
+Los SEE cumplirán los requisitos de cualquier combinación de los siguientes métodos de ensayo, a elección del fabricante, si se abarca toda la gama de frecuencias indicada en el punto 3.1 del presente anexo: - ensayo de cámara absorbente: con arreglo a ISO 11452-2: 2a edición 2004, - ensayo de célula TEM: con arreglo a ISO 11452-3: 2a edición 2001, - ensayo de inyección de corriente de masa: con arreglo a ISO 11452-4: 3a edición 2005, - ensayo de línea TEM con placas: con arreglo a la norma ISO 11452-5: 2a edición 2002, - ensayo de línea TEM con placas de 800 mm: con arreglo al punto 4.5 del presente anexo.
+La gama de frecuencias y las condiciones generales de ensayo se basarán en la norma ISO 11452-1: 3a edición 2005.%quot%; b) el punto 2.1 se sustituye por el texto siguiente: %quot%2.1.
+Las condiciones de ensayo cumplirán lo dispuesto en la norma ISO 11452-1: 3a edición 2005.%quot%; c) el punto 3.1 se sustituye por el texto siguiente: %quot%3.1.
+Frecuencias de medida y duración de los ensayos Las mediciones se efectuarán en la gama de frecuencias que va de 20 a 2000 MHz con los pasos de frecuencia contemplados en la norma ISO 11452-1: 3a edición 2005.
+La modulación de la señal de ensayo será: - AM, con modulación de 1 kHz y coeficiente de modulación de 80 % en la gama de frecuencias de 20–800 MHz, - PM, t en 577 μs, período 4600 μs en la gama de frecuencias de 800–2000 MHz, si no se acuerda lo contrario entre el servicio técnico y el fabricante del SEE.
+El servicio técnico llevará a cabo el ensayo a los intervalos especificados en la norma ISO 11452-1: 3a edición 2005 en toda la gama de frecuencias que va desde los 20 hasta los 2000 MHZ.
+Como alternativa, si el fabricante facilita datos de medición de toda la banda de frecuencias procedentes de un laboratorio de ensayos con la acreditación de las partes pertinentes de la norma ISO 17025 (1a edición, 1999) y reconocido por el organismo competente en materia de homologación, el servicio técnico podrá optar por seleccionar un número reducido de frecuencias únicas de la gama (por ejemplo, 27, 45, 65, 90, 120, 150, 190, 230, 280, 380, 450, 600, 750, 900, 1300 y 1800 MHz) para confirmar que el SEE cumple los requisitos del presente anexo.%quot%; e) el punto 4.1.2 se sustituye por el texto siguiente: %quot%4.1.2.
+Método de ensayo El ensayo se realizará con arreglo a la norma ISO 11452-3: 2a edición 2001.
+Método de ensayo El ensayo se realizará en un banco de ensayos con arreglo a ISO 11452-4: 3a edición 2005.

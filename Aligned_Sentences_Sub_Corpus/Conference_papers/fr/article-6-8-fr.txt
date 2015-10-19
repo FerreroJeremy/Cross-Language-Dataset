@@ -1,0 +1,1 @@
+L’algorithme décrit dans ce papier est conçu pour donner une partition et un prototype pour chacun des clusters tout en apprenant quel poids donner à chacune des matrices de dissimilarité par optimisation d’un critère d’adéquation qui mesure l’adéquation entre un cluster et son représentant.

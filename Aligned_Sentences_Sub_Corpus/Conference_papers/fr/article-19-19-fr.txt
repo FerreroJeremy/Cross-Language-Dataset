@@ -1,0 +1,2 @@
+Une seconde adaptation, d’impact plus faible, a été opérée afin de s’assurer que les cooccurrents rattachés lors de la dernière étape n’introduisent pas de bruit.
+Nous avons ainsi imposé que la condition de rattachement ne porte pas seulement sur la force de la relation entre le cooccurrent à rattacher et l’un des membres de la classe mais sur la force moyenne des relations entre ce cooccurrent et les éléments de cette classe.

@@ -1,0 +1,2 @@
+Controlled Task europarl is a large corpus of bitexts drawn from the European Parliament between April 1996 and September 2003 [15].
+Our test corpus contains 487 English documents (therefore 487 Spanish ones), thus summing to 237,169 potential pairs of documents.

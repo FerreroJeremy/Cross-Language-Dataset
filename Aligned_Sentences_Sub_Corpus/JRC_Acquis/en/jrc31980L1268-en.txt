@@ -1,0 +1,20 @@
+Article 2 No Member State may refuse to grant EEC type-approval or national type-approval in respect of a vehicle, or refuse or prohibit the sale, registration, entry into service or use of a vehicle, on grounds relating to its fuel consumption if the consumption figures have been determined in accordance with Annexes I and II and are set out in a document given to the vehicle owner at the time of purchase in a manner and form decided on by each Member State.
+Article 5 This Directive is addressed to the Member States.
+Constant speed test at 90 km/h (see section 6); 3.1.3.
+Constant speed test at 120 km/h (see section 6).
+This test is not performed if the vehicle's maximum design speed is less than 130 km/h. 3.2.
+The vehicle must have been run in and have covered at least 3 000 km before the test. 4.2.
+The fuel must be supplied to the engine through a device capable of measuring the quantity consumed to within ± 2 % ; this device must not interfere with normal supply.
+The air density is calculated using the formula: %gt%PIC FILE= %quot%T0013780%quot%%gt% dT = air density under test conditions; do = air density under reference conditions; HT = pressure during the test; TT = absolute temperature during the test (K). 5.
+The test cycle is as described in Annex III to Directive 70/220/EEC 5.1.1.
+Reference mass of the vehicle The mass of the vehicle is the reference mass, as defined in section 1.2 of Annex I to Directive 70/220/EEC 5.2.
+The idling period between two consecutive cycles may be extended by not more than 60 s to facilitate fuel consumption measurement. 5.4.
+If the fuel consumption is measured gravimetrically, the consumption is expressed (in litres/100 km) by converting the measurement M (fuel consumed expressed in kilograms) using the following formula: %gt%PIC FILE= %quot%T0013781%quot%%gt% Sg = density of the fuel under the reference conditions (kg/dm3); D = distance covered during the test (km). 5.4.2.
+If the extreme measurements differ by more than 5 % from the mean, further tests must be carried out in accordance with this procedure until a degree of accuracy of at least 5 % is obtained. 5.5.3.
+For the purposes of this Directive, %quot%mass of the vehicle in running order%quot% means its total unladen mass with all tanks except the fuel tank full, the fuel tank being filled to 90 % of the capacity specified by the manufacturer, and with a set of tools and the spare wheel on board. 6.2.
+The relative humidity must be less than 95 % ; the road must be dry ; the road surface may, however, bear traces of moisture, provided that there is no appreciable film of water at any one place. 6.3.1.1.2.
+The average wind speed must be less than 3 m/s and gusts less than 8 m/s. 6.3.1.2.
+A straight road may be used provided that a run of 2 km is made in both directions.
+The gradient must not exceed 2 % between any two points. 6.3.1.4.
+The average speed for each test must not differ from the reference speed by more than 2 km/h. 6.3.1.5.
+If the conditions in 6.3.1.7 are not achieved for either pair of calculated values, the four test runs must be repeated.

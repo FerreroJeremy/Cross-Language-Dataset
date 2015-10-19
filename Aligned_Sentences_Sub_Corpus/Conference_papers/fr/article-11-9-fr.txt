@@ -1,0 +1,2 @@
+Expérience contrôlée EUROPARL est un corpus parallèle tiré de la transcription des débats parlementaires européens s’étant tenus entre avril 1996 et septembre 2003 (Koehn, 2002).
+Notre corpus était composé de 487 textes anglais et de 487 textes espagnols ayant en moyenne environ 2800 phrases chacun.

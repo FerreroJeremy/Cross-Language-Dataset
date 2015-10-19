@@ -1,0 +1,2 @@
+Il est clairement impossible pour un projectile sur une courbe balistique de rester en l'air 14 heures et il effectuera donc seulement une partie de la trajectoire courbe.Par contre, la situation est différente dans le cas de l'océan ou de l'atmosphère.
+En effet, pour une parcelle d'air en mouvement dans une zone où la pression atmosphérique est uniforme (vaste col de pression) ou pour une couche océanique en mouvement dans une zone à très faible relief dynamique, le déplacement inertiel est appelé oscillation d'inertie.

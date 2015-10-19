@@ -1,0 +1,4 @@
+Les premières grammaires d'arbre rentrant dans le paradigme des GUP ont, à ma connaissance, été proposées par Nasr 1995.
+La grammaire G1 suivante permet de générer tous les arbres finis (un arbre est un graphe orienté connexe dont tous les noeuds sont la cible d'au plus un arc) : les objets sont des noeuds et des arcs ; la structure initiale (placé dans le cadre de gauche) est réduite à un noeud noir ; la grammaire possède une seule structure élémentaire qui est composée d'un arc noir reliant un noeud blanc à un noeud noir.
+Chaque noeud blanc devra s'unifier avec un noeud noir pour être neutralisé et un noeud noir pourra s'unifier avec un nombre quelconque de noeuds blancs.
+On vérifie aisément que les structures générées par la grammaire sont bien des arbres, puisque tout noeud aura un et un seul gouverneur à l'exception du noeud introduit par la structure initiale qui sera la racine de l'arbre.

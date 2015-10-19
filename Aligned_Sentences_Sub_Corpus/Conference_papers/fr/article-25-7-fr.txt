@@ -1,0 +1,4 @@
+Le travail présenté ici se situe à l’interface entre le module de reconnaissance et le module d’analyse en IF (voir figure 1).
+Plus précisément, le module de reconnaissance de la parole a été adapté afin d’être capable de délivrer une chaîne partiellement ou complètement analysée en IF.
+Cela a été achevé par l’usage d’un modèle de langage utilisant des classes qui correspondent directement à des concepts de l’IF.
+La section 3 présente quelques résultats expérimentaux obtenus tandis que la section 4 propose une première conclusion à ce travail.

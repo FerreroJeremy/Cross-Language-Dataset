@@ -1,0 +1,19 @@
+Unlike most modern text editors, TECO has separate modes which the user used to either add text, edit existing text, or display the document.
+This behavior is similar to the program ed.Richard Stallman visited the Stanford AI Lab in 1972 or 1974 and saw the lab's "E" editor, written by Fred Wright.
+A text-formatting program used on ITS was later named BOLIO by [[Dave Moon]], who frequented that store.
+However, Stallman did not like that ice cream, and did not even know of it when choosing the name &quot;Emacs&quot;; this ignorance is the basis of a [[hacker koan]], [[Hacker koan#Emacs and Bolio|''Emacs and Bolio'']]).Stallman saw a problem in too much customization and de-facto forking and set certain conditions for usage.
+It quickly became the standard editing program on ITS.
+It was written in C and, notably, used a language with Lisp-like syntax known as Mocklisp as an extension language.
+Since it had more features than Gosling Emacs, in particular a full-featured Lisp as extension language, it soon replaced Gosling Emacs as the de facto Emacs editor on Unix.Until 1999, GNU Emacs development was relatively closed, to the point where it was used as an example of the "Cathedral" development style in The Cathedral and the Bazaar.
+The editor is used by Linus Torvalds.Stifflog - Stiff asks, great programmers answermg, originally called MicroGNUEmacs (and later mg2a), a public-domain offshoot of MicroEMACS intended to more closely resemble GNU Emacs.
+Now installed by default on OpenBSD.NotGNU NotGNU Emacs Editor (Author's Official Download Site)&lt;!-- Bot generated title --&gt;, a small, fast, freeware implementation for DOS, Win16, Win32 and Linux by Julie Melbin.JOVE (Jonathan's Own Version of Emacs), a non-programmable Emacs implementation for UNIX-like systems by Jonathan Payne.Freemacs, a DOS version with an extension language based on text macro expansion, all within the original 64 KiB flat memory limit.MINCE (MINCE Is Not Complete Emacs), a version for CP/M from Mark of the Unicorn.
+Emacs can also use the native graphical systems of Mac OS X (using the Carbon or Cocoa interfaces) and Microsoft Windows.
+For example, the user can find out about the command bound to a particular keystroke simply by entering C-h k (which runs the command describe-key), followed by the keystroke.
+An electronic copy of the GNU Emacs Manual, written by Richard Stallman, is included with GNU Emacs and can be viewed with the built-in Info browser.
+Two other manuals, the Emacs Lisp Reference Manual by Bill Lewis, Richard Stallman, and Dan Laliberte, and Programming in Emacs Lisp by Robert Chassell, are also included.
+Apart from the electronic versions, all three manuals are also available in book form, published by the Free Software Foundation.
+XEmacs has a similar manual to the GNU Emacs Manual, which forked from the GNU Emacs Manual at the same time as the XEmacs software.InternationalizationEmacs supports the editing of text written in many human languages.
+Emacs provides spell checking for many languages by calling external programs such as ispell.
+Every editing command is actually an invocation of a function in the Emacs Lisp environment.
+This has been a third-party package up to, and including, GNU Emacs 21, but is included in GNU Emacs 22.Note that the commands save-buffer and save-buffers-kill-emacs use multiple modified keystrokes.
+This technique, allowing more commands to be bound to the keyboard than with the use of single keystrokes alone, was popularized by Emacs, which got it from TECMAC, one of the TECO macro collections that immediately preceded Emacs.

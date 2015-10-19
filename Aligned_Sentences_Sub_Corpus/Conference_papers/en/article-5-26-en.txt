@@ -1,0 +1,2 @@
+Our method was applied to the algorithm of Blondel et al.[2] by using a generalization of the modularity metric to hierarchical clusterings.
+The experiments run on random graphs clearly show that the hierarchies we provide are very close to the ground truth hierarchies.

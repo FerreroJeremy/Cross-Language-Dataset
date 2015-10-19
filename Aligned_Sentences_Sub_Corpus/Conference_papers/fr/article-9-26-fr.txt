@@ -1,0 +1,3 @@
+Conclusion L'introduction de la polarisation des objets dans une grammaire d'unification permet de contrôler la saturation des structures de manière explicite.
+L'obligation ou l'interdiction de combiner davantage d'objets est ensuite entièrement contrôlée par la polarisation des objets.
+La polarisation va donc guider la procédure de combinaison des structures élémentaires.

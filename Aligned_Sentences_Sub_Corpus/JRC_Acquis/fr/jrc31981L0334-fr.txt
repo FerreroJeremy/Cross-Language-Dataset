@@ -1,0 +1,26 @@
+Article 4 Les États membres sont destinataires de la présente directive.
+Les deux valeurs mesurées comme il est prescrit au point 5.2.1.1 ci-avant doivent être consignées dans le procès-verbal et sur une fiche conforme au modèle de l'annexe III. 5.2.2.
+Mesures acoustiques L'appareil de mesure acoustique est un sonomètre de précision, conforme au modèle décrit dans la publication no 179 «sonomètres de précision», deuxième édition, de la Commission électrotechnique internationale (CEI).
+Mesures de vitesse La vitesse de rotation du moteur et la vitesse du véhicule sur le parcours d'essai sont déterminées avec une précision au moins égale à 3 %. 5.2.2.3.
+Cette condition est considérée comme remplie lorsqu'il n'existe pas d'écrans importants réflecteurs du son, tels que clôtures, rochers, ponts ou bâtiments, à une distance de 50 m autour du centre du parcours d'accélération.
+La surface du terrain doit être constituée, sur un rayon minimal de 10 m autour du centre du parcours d'accélération, d'un matériau dur, tel que le béton, l'asphalte ou tout autre matériau équivalent sur le plan acoustique ; elle ne doit être recouverte ni de neige poudreuse, ni de hautes herbes, ni de particules de terre, ni de cendrée.
+Emplacement du microphone Le microphone doit être placé à 7,5 m ± 0,2 m de la ligne de référence CC' (figure 1) de la piste et à 1,2 m ± 0,1 m au-dessus du niveau du sol.
+Conditions générales Pour toutes les mesures, le véhicule est conduit en ligne droite sur le parcours d'accélération de telle manière que le plan longitudinal médian du véhicule soit le plus près possible de la ligne CC'.
+La véhicule s'approche de la ligne AA' à une vitesse initiale stabilisée, conformément aux points 5.2.2.4.3.2 et 5.2.2.4.3.3.
+Vitesse d'approche Le véhicule s'approche de la ligne AA' à une vitesse stabilisée correspondant à la plus faible des deux vitesses suivantes: - vitesse correspondant à une vitesse de rotation du moteur égale aux trois quarts de celle (S) à laquelle le moteur développe sa puissance maximale, - 50 km/h.
+Boîte de vitesses automatique munie d'un sélecteur manuel Si le véhicule est muni d'un sélecteur manuel à X positions de marche avant, l'essai doit être effectué avec le sélecteur en position X ; la rétrogradation forcée (kick-down par exemple) doit être mise hors service.
+Bruit ambiant Les indications de l'instrument de mesure, provoquées par le bruit ambiant et par le vent, doivent être inférieures d'au moins 10 dB (A) au niveau sonore à mesurer.
+Trois mesures au moins sont relevées en chaque point de mesure. 5.2.3.4.2.
+Par rapport à ce plan vertical, le microphone doit être placé du côté qui ménage la plus grande distance possible entre le microphone et le contour du véhicule.
+Dans la mesure du possible, ce dernier doit être éloigné de plus de 0,5 m de l'obstacle le plus proche et son axe de sensibilité maximale être orienté vers l'orifice de sortie des gaz à l'emplacement le moins masqué par les obstacles susmentionnés. 5.2.3.4.3.
+Un tel dispositif silencieux est jugé efficace en circulation routière si les gaz d'échappement ne sont pas en contact avec les matériaux fibreux ou si le silencieux du véhicule prototype essayé selon les prescriptions des points 5.2.2 et 5.2.3 a été mis en état normal de circulation routière avant les mesures du niveau sonore.
+Parcours continu de 10 000 km sur route 5.3.1.1.1.
+Le dispositif d'échappement ou élément de ce dispositif est monté sur le véhicule mentionné au point 2.3 ou sur le moteur mentionné au point 2.4.
+Elle doit se fermer lorsque cette pression ne diffère pas de plus de 10 % de sa valeur stabilisée mesurée soupape ouverte. 5.3.1.3.4.
+La vitesse du moteur doit être égale à 75 % du régime (S) auquel le moteur fournit sa puissance maximale. 5.3.1.3.6.
+La puissance indiquée par le dynamomètre doit correspondre à 50 % de la puissance maximale mesurée à 75 % du régime (S) du moteur. 5.3.1.3.7.
+L'ensemble de l'essai ne doit pas dépasser 48 heures.
+Le demandeur doit présenter, à la demande du service technique: 2.3.1. - deux échantillons du dispositif pour lequel la réception CEE est demandée, 2.3.2. - un dispositif silencieux d'échappement conforme à celui qui équipait à l'origine le véhicule lors de sa réception CEE, 2.3.3. - un véhicule représentatif du type à équiper qui: - en ce qui concerne son niveau sonore en marche, soit dans des conditions telles qu'il respecte les limites prévues au point 5.2.2.1 de l'annexe I et qui ne dépasse pas de plus de 3 dB(A) les valeurs obtenues lors de la réception du type et - en ce qui concerne son niveau sonore à l'arrêt, respecte la valeur obtenue lors de la réception du type, 2.3.4. - un moteur isolé qui correspond au type de véhicule décrit ci-avant. 3.
+La valeur mesurée avec le dispositif silencieux de remplacement ne doit pas dépasser de plus de 25 % la valeur mesurée avec le dispositif silencieux d'origine dans les conditions énoncées ci-après. 5.3.4.
+Méthode d'essai sur moteur On procède aux mesures sur le moteur mentionné au point 2.3.4, monté sur un banc dynamométrique.
+L'essai doit être effectué: - soit sur route, - soit sur un banc dynamométrique à rouleaux.

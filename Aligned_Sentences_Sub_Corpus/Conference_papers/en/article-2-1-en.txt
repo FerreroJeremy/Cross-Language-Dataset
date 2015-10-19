@@ -1,0 +1,3 @@
+In this paper we propose to mine more precise patterns of the form “young users buy products A and B then product C, while old users do not follow this same behavior”.
+By highlighting relevant properties of such contexts, we show how contextual sequential patterns can be extracted by mining the database in a concise manner.
+We conduct our experimental evaluation on real-world data and demonstrate performance issues.

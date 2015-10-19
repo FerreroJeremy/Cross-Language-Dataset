@@ -1,0 +1,4 @@
+Based on the counter, and assuming that a day is 24×60×60=86400 seconds long, the date will be calculated as 00:00:00.002 January 2 1970.
+If a leap second had been added on December 31 1970, then the date would be computed as 00:00:00 on May 16, 1971.
+However, because the Earth's rotation rate is unpredictable in the long term, it is not possible to predict the need for them more than six months in advance.
+Between January 1972 and December 2005, the IERS gave instructions to insert a leap second on 23 occasions.

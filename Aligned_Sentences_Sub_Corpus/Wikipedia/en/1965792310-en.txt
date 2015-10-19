@@ -1,0 +1,3 @@
+For example, with a shift of 3, A would be replaced by D, B would become E, and so on.
+The method is named after Julius Caesar, who used it to communicate with his generals.The encryption step performed by a Caesar cipher is often incorporated as part of more complex schemes, such as the Vigenère cipher, and still has modern application in the ROT13 system.
+Kahn (1967) describes instances of lovers engaging in secret communications enciphered using the Caesar cipher in The Times.

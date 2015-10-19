@@ -1,0 +1,1 @@
+Since we do not provide an extractor of MODL rules in this preliminary work, we compute the value of our MODL criterion for the extracted confident (or emerging) rules on the training and test set for comparison.

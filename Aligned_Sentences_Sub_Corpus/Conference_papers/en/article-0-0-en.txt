@@ -1,0 +1,3 @@
+Abstract In this paper, we propose a method for summarizing OLAP query logs.
+The basic idea is that a query summarizes another query and that a log, which is a sequence of queries, summarizes another log.
+Tests on MDX query logs showed the usefulness of our approach.

@@ -1,0 +1,1 @@
+A fin de cuentas, en el espacio euclideo, la derivada de una base (por ejemplo e_x) respecto a otra cordenada (pongamos y) es siempre cero, por la simple razón de que las bases de ambas coordenadas son ortogonales.

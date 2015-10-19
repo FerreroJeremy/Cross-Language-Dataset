@@ -1,0 +1,3 @@
+UNL (Universal Networking Language (Sérasset & Boitet, 2000)), est un dictionnaire du français vers un anglais désambiguïsé conçu pour la traduction automatique, qui comprend des informations syntaxiques dans sa partie française.
+UNL n’a qu’une couverture assez faible (moins de 27 000 lemmes), mais il propose dans sa partie anglaise des informations de type sémantique que nous envisageons d’utiliser par la suite.
+UNL contient 48 prépositions simples dont 10 apparaissant dans les cadres de sous-catégorisation des verbes.

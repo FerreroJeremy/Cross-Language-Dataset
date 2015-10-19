@@ -1,0 +1,4 @@
+2 Polarities and unification 2.1 Polarized Unification Grammars Polarized Unification Grammars generate sets of finite structures.
+A structure is based on objects.
+For instance, for a (directed) graph, objects are nodes and edges.
+These two types of objects are linked, giving us the proper structure: if X is the set of nodes and U, the set of edges, the graph is defined by two maps p1 and p2 from U into X which associate an edge with its source and its target.

@@ -1,0 +1,1 @@
+When a string of binary symbols is manipulated in this way, it is called a bitwise operation; the logical operators AND, OR, and XOR may be performed on corresponding bits in two binary numerals provided as input.

@@ -1,0 +1,3 @@
+In the framework of the Papillon project, we have defined strategies for populating a pivot dictionnary of interlingual links from monolingual vectorial bases.
+One given acception corresponds to a meaning of an entry of a monolingual dictionnary.
+The overall architecture being as defined in [Serasset and Mangeot, 2001] and [Mangeot, 2001] Such a pivot dictionnary can be used with great avantages for word sense disambiguation and lexical transfert.

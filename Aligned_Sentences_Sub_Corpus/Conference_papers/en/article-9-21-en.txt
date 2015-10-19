@@ -1,0 +1,7 @@
+TAG (Tree Adjoining Grammar) PUG has a clear kinship with TAG, which is the first formalism based on combination of structures to be studied at length.
+TAGs are generally presented as grammars combining (ordered) trees.
+In fact, as a tree grammar, TAG is not monotonic and cannot be simulated with PUG.
+As shown by Vijay-Shanker 1992, to obtain a monotonic formalism, TAG must be viewed as a grammar combining quasi-trees.
+Intuitively, a quasi-tree is a tree whose nodes has been split in two parts and have each one an upper part and a lower part, between which another quasi-tree can be inserted (this is the famous adjoining operation of TAG).
+Formally, a quasi-tree is a tree whose branches have two types: dependency relations and dominance relations (respectively noted by plain lines and dotted lines).
+Two nodes linked by a negative dominance relation are potentially the two parts of a same node; only the lower part can have dependents.

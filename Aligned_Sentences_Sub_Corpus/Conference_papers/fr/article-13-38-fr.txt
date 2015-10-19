@@ -1,0 +1,2 @@
+Techniquement, la seule difficulté est de choisir comment représenter l’appartenance à une classe sémantique de prépositions comme loc.
+Ici, nous avons choisi de définir comme valeurs atomiques possibles pour le trait “prep”, l’ensemble des prépositions argumentales et l’ensemble des classes sémantiques (notées en majuscules).

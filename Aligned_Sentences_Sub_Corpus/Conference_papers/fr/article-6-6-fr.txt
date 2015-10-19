@@ -1,0 +1,1 @@
+L’influence (ou poids) de ces différentes matrices de dissimilarité n’est pas identique pour définir les clusters de la partition finale et cette pertinence doit être calculée grâce à un apprentissage tout au long du déroulement de l’algorithme.

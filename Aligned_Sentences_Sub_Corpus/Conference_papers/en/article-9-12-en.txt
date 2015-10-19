@@ -1,0 +1,2 @@
+The system (P, . ) we have presented is commutative and associative.
+Associativity implies that the combination of structures is unordered: if an object B must combine with A and C, there is no precedence order between the combination of A and B and the one of B and C, that is, A?(B?C) = (A?IfB w)

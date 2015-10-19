@@ -1,0 +1,4 @@
+Concluding Remarks This paper introduced a clustering algorithm that is able to partition ob- jects taking into account simultaneously their relational descriptions given by multiple dissimilaritity matrices.
+These matrices could have been generated using different sets of variables and dissimilarity functions.
+This algorithm provides a partition and a prototype for each cluster as well as a relevance weight for each dissimilarity matrix by optimizing an adequacy criterion that measures the fit between clusters and their representatives.
+These relevance weights change at each algorithm iteration and are different from one cluster to another.

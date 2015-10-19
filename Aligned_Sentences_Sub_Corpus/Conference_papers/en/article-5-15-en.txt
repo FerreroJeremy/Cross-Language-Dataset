@@ -1,0 +1,2 @@
+Each level of T can be seen as a local maximum of the modularity.
+The authors suggest that the last level found N1(T) is the most meaningful since it corresponds to the highest modularity reached.

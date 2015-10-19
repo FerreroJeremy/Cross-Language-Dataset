@@ -1,0 +1,30 @@
+Article 2 Les règles détaillées pour les procédures de transmission des données, en application de l'article 7 de la directive 95/57/CE, figurent à l'annexe II.
+Article 3 Les dérogations accordées aux États membres, en application de l'article 10 de la directive 95/57/CE, figurent à l'annexe III.
+Fait à Bruxelles, le 9 décembre 1998.
+Par la Commission Yves-Thibault DE SILGUY Membre de la Commission (1) JO L 291 du 6. 12. 1995, p. 32.
+STATISTIQUES SUR L'HÉBERGEMENT 1.1.
+La CPA est conforme à la NACE tout en étant plus détaillée.
+Ce groupe couvre également les pensions de famille, les chambres d'hôte et les fermes. [Inclus dans la classe NACE 55.23 «Moyens d'hébergement divers» (comprenant tous autres établissements à l'exception des hôtels, des campings et des auberges de jeunesse).
+Locations privées Chambres louées dans des logements familiaux Définition: Ce mode d'hébergement se différencie d'une pension par le fait que le touriste séjourne avec la famille qui généralement continue d'habiter dans la maison et acquitte un loyer. (Inclus dans la classe NACE 55.23 «Moyens d'hébergement divers» comprenant tous les autres établissements à l'exception des hôtels, des campings et des auberges de jeunesse.
+DÉFINITIONS DES VARIABLES 1.2.1.
+Les nuitées sont calculées par pays de résidence du client et par mois.
+Taux d'occupation net des places-lits Définition: Le taux d'occupation net par places-lits au cours d'un mois est obtenu en divisant le total des nuitées par le produit des places-lits offertes par le nombre de jours où les lits sont effectivement disponibles (indépendamment des fermetures saisonnières ou d'autres fermetures temporaires pour entretien, par décision de police, etc.) pour un même groupe d'établissements, le quotient étant ensuite multiplié par 100 pour obtenir un pourcentage.
+Formule: Un = (%gt%NUM%gt%P/%gt%DEN%gt%Gd) × 100 où P est le nombre de nuitées enregistrées pendant le mois (ou l'année) et Gd le nombre de journées-lits effectivement disponibles dans le mois (ou l'année).
+Taux d'occupation brut des places-lits Définition: Le taux d'occupation brut par places-lits au cours d'un mois est obtenu en divisant le total des nuitées par le produit des places-lits offertes par le nombre de jours du mois correspondant (appelé parfois «lits-nuits») pour un même groupe d'établissements, le quotient étant ensuite multiplié par 100 pour obtenir un pourcentage.
+Formule: Ue = (%gt%NUM%gt%P/%gt%DEN%gt%Gp) × 100 où Gp est le nombre de journées-lits potentielles. 2.
+DEMANDE TOURISTIQUE 2.1.
+DÉFINITIONS DES VARIABLES 2.2.1.
+Elle doit être définie comme au point i), à savoir le lieu que le visiteur considère comme la destination principale.
+Pour la définition des types d'hébergement, voir 1.1. 2.2.3.
+ANNEXE II Règles détaillées pour les procédures de transmission des données 1.
+Belgique - C.1.1, C.1.2, C.1.3, C.1.4: délai de transmission des données trimestrielles provisoires de 1997.
+Allemagne - C.1.1, C.1.2, C.1.3, C.1.4: période de référence 1996 concernant les données annuelles.
+Espagne - A.1.2, B.1.2, B.2.1, B.1.3: collecte de données incomplète pour «Autres établissements d'hébergement collectif» de 1996 et 1997 pour les données annuelles et de 1997 pour les données mensuelles.
+France - A.1.1: nombre de places-lits «Autres établissements d'hébergement collectif» pour les données annuelles de 1996-1997. - B.1.1, B.1.2, B.1.3, B.2.1: périodes de référence 1996-1997 pour les données annuelles et 1997 pour les données mensuelles concernant les «Logements de vacances» et «Autres établissements d'hébergement collectif».
+Irlande - A.1.1, B.1.1, B.1.3, B.2.1, B.2.2: données sur les établissements «Bed and Breakfast» non enregistrés de 1996-1998 pour les données annuelles et de 1997-1998 pour les données mensuelles. - A.1.2, B.1.2, B.1.3, B.2.1: période de référence 1997 pour les données mensuelles et 1996-1997 pour les données annuelles.
+Collecte de données incomplète pour «Autres établissements d'hébergement collectif» de 1996-1998 pour les données annuelles et de 1997-1998 pour les données mensuelles. - B.1.3: ventilation par pays de résidence en 1996-1998. - B.2.1, B.2.2: période de référence 1997 pour les données mensuelles. - C.1.1, C.1.2, C.1.3, C.1.4: période de référence 1997 pour les données trimestrielles et 1996-1997 pour les données annuelles.
+Italie - B.1.1, B.1.2, B.1.3: retard de six mois pour la transmission des données annuelles de 1996-1997. - B.2.1, B.2.2: retard de six mois pour la transmission des données mensuelles de 1997. - C.1.1, C.1.2, C.1.3, C.1.4: retard de douze mois pour la transmission des données annuelles de 1996 et des données trimestrielles de 1997.
+Luxembourg - A.1.2: nombre de places-lits dans «Autres établissements d'hébergement collectif» de 1996. - C.1.1, C.1.2, C.1.3, C.1.4: périodes de référence 1996-1997 les données annuelles.
+Autriche - A.1.1, A.1.2: dont «Logements de vacances» sous «Hôtels et établissements assimilés» en 1996-1997 pour les données annuelles. - B.1, B.2: dont «Logements de vacances» sous «Hôtels et établissements assimilés» jusqu'à octobre 1997 pour les données mensuelles et en 1996-1997 pour les données annuelles. - B.1.3: ventilation par pays de résidence en 1996-1997. - C.1.1, C.1.2, C.1.3, C.1.4: périodes de référence 1996-1997 pour les données annuelles et 1997-1999 pour les données trimestrielles.
+Portugal - A.1.2, B.1.2, B.2.1, B.1.3: période de référence 1997 pour les données mensuelles et 1996-1997 pour les données annuelles concernant les «Logements de vacances».
+Suède - B.1.3: périodes de référence 1996-1997 pour les données annuelles. - B.2.1: période de référence 1997 pour les données mensuelles. - C.1.1.1: période de référence 1997 pour les données trimestrielles et 1996 pour les données annuelles. - C.1.3: période de référence 1997 pour les données trimestrielles et 1996 pour les données annuelles.

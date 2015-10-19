@@ -1,0 +1,4 @@
+mistake from players, in this case) and the chances of database corruption (voluntary erroneous answers from a malicious player).
+The semantic network is therefore constructed by connecting terms by typed and weighted relations, validated by pairs of players.
+These relations are labelled according to the instructions given to the players and weighted according to the number of pairs of players who choose them.
+Initially, prior to putting the game online, the database was populated with nodes, however if a pair of players suggest a non-existing term, the new node is added to the database.

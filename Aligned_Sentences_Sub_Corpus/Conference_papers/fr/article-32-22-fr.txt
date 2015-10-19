@@ -1,0 +1,2 @@
+Dans ces trois configurations, le trait testant la présence d’un GN au moins deux fois dans le dialogue apporte une amélioration conséquente par rapport aux autres.
+C’était plutôt attendu puisqu’en principe la fréquence d’un GN apporte de l’information sur le sujet principal, et cela a du sens, puisque les agents ont tendance à exprimer des préférences sur le sujet de la discussion.

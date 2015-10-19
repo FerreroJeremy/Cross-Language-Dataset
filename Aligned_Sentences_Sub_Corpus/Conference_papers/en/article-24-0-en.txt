@@ -1,0 +1,3 @@
+ftreachery#2, betrayal#1, treason#3, perfidy#2g = an act of deliberate betrayal As one can see in this example, the definition includes a word (betrayal) of the same form as one of the lexical units of the synset (betrayal#1).
+From now on, we will systematically distinguish the notion of lexical unit (one form associated to one meaning) from the notion of word (one form associated to possibly several meanings, in other terms, a polysemic unit).
+So we will say that the lexical unit betrayal#1 is defined by another lexical unit of the word betrayal but we don't know which one until the words of the definition are disambiguated1.

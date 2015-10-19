@@ -1,0 +1,2 @@
+Le système (P,.) que nous venons de présenter est commutatif et associatif.
+L'associativité permet de rendre la combinaison des objets également associative, c'est-à-dire que si un objet B doit se combiner avec A et C, il n'y a pas d'ordre de précédence entre la combinaison de A et B et celle de B et C : A!(B!C) = (A!B)!C.

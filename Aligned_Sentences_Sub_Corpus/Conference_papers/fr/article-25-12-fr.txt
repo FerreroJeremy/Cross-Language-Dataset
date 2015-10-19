@@ -1,0 +1,4 @@
+Corpus de test Les signaux de test sont 216 tours de parole extraits du corpus de dialogues du projet NESPOLE.
+Dans la deuxième colonne sont présentées les hypothèses textuelles obtenues à la sortie du module de RAP utilisant notre modèle de langage sémantique.
+Nous remarquons que des tours de parole simples sont déjà complètement analysés en IF.
+D’autres tours de parole plus complexes sont, eux aussi, analysés partiellement ou complètement en IF.

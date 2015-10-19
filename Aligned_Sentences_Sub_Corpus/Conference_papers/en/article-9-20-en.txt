@@ -1,0 +1,4 @@
+Let us recall that a derivation tree for a contextfree grammar is an ordered tree.
+An ordered tree combines two structures on the same set of nodes: a structure of tree and a precedence relation on the node of the tree.
+Here the precedence relation is explicitly represented (a “node” of the tree precedes another “node” if the target of the first one is the source of the second one).
+When they calculate the precedence relation, parsers (of the CKY type for instance) in fact calculate a data structure like the one we present here, where beginnings and ends of phrase are explicitly considered as objects.

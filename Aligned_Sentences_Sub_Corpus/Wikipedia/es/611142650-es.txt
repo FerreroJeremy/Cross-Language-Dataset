@@ -1,0 +1,5 @@
+El algoritmo fue controvertido al principio, con algunos elementos de diseño clasificados, una longitud de clave relativamente corta, y las continuas sospechas sobre la existencia de alguna puerta trasera para la National Security Agency (NSA).
+Las S-cajas de DES eran mucho más resistentes al ataque que si hubiesen sido escogidas al azar, lo que sugería que IBM conocía la técnica allá en los 70. Éste era de hecho, el caso &mdash; en 1994, Don Coppersmith publicó los criterios de diseño originales para las S-cajas.
+Fue posteriormente confirmado como estándar en 1983, 1988 (revisado como FIPS-46-1), 1993 (FIPS-46-2), y de nuevo en 1998 (FIPS-46-3), éste último definiendo "TripleDES" (véase más abajo).
+El 26 de mayo de 2002, DES fue finalmente reemplazado por AES (Advanced Encryption Standard), tras una competición pública (véase Proceso de Advanced Encryption Standard).
+Los 56 bits se dividen entonces en dos mitades de 28 bits; a continuación cada mitad se trata independientemente.

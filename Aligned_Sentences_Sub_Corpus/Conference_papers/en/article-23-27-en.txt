@@ -1,0 +1,1 @@
+The threshold for filtering was set to a weight of 25 (that is to say only inferences with a weight equal to or above 25 have been considered).

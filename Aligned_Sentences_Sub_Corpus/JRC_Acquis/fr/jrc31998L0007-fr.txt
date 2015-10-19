@@ -1,0 +1,22 @@
+Directive modifiée en dernier lieu par la directive 97/55/CE (JO L 290 du 23.10.1997, p. 18).» e) L'annexe II est remplacée par le texte de l'annexe I de la présente directive.
+Article 3 Les États membres sont destinataires de la présente directive.
+Fait à Bruxelles, le 16 février 1998.
+GIL-ROBLES Par le Conseil Le président J.
+CUNNINGHAM (1) JO C 235 du 13.8.1996, p. 8.
+Décision du Conseil du 18 décembre 1997. (4) JO L 42 du 12.2.1987, p. 48.
+Directive modifiée par la directive 90/88/CEE (JO L 61 du 10.3.1990, p. 14).
+Une année compte 365 jours, 365,25 jours ou, pour les années bissextiles, 366 jours, 52 semaines ou 12 mois normalisés.
+CALCUL DU TAUX ANNUEL EFFECTIF GLOBAL SUR LA BASE DE L'ANNÉE CIVILE (UN AN = 365 JOURS, (OU 366 JOURS POUR LES ANNÉES BISSEXTILES)) Premier exemple Somme prêtée: S = 1 000 écus, date: 1er janvier 1994.
+La somme est remboursée en un seul versement de 1 200 écus effectué le 1er juillet 1995, soit 1,5 an ou 546 jours (365 + 181) après la date du prêt.
+L'équation est la suivante: %gt%TABLE%gt% ou %gt%TABLE%gt% Ce montant sera arrondi à 13 % (ou à 12,96 % si l'on préfère une précision de deux décimales).
+Deuxième exemple La somme prêtée est S = 1 000 écus, mais le prêteur retient 50 écus pour frais de dossier, de sorte que le prêt ne porte en fait que sur 950 écus; le remboursement de 1 200 écus, comme dans le premier exemple, est effectué le 1er juillet 1995.
+L'équation est la suivante: %gt%TABLE%gt% ou %gt%TABLE%gt% Ce montant sera arrondi à 16,9 %.
+L'équation est la suivante: %gt%TABLE%gt% Elle se résout par l'algèbre et donne i = 0,1306623, arrondi à 13,1 % (ou à 13,07 % si l'on préfère une précision de deux décimales).
+Quatrième exemple La somme prêtée, le 1er janvier 1994, est S = 1 000 écus et les montants à payer par l'emprunteur sont: %gt%TABLE%gt% L'équation est la suivante: %gt%TABLE%gt% L'équation permet de calculer i par des approximations successives, qui peuvent être programmées sur une calculatrice de poche.
+On obtient i = 0,13226, arrondi à 13,2 % (ou à 13,23 % si l'on préfère une précision de deux décimales).
+CALCUL DU TAUX ANNUEL EFFECTIF GLOBAL SUR LA BASE D'UNE ANNÉE STANDARD (UN AN = 365 JOURS OU 365,25 JOURS OU 52 SEMAINES OU DOUZE MOIS NORMALISÉS) Premier exemple La somme prêtée S = 1 000 écus.
+Elle est remboursée en un seul versement de 1 200 écus effectué 1,5 an (c'est-à-dire 1,5 × 365 = 547,5 jours, 1,5 × 365,25 = 547,875 jours, 1,5 × 366 = 549 jours, 1,5 × 12 = 18 mois ou 1,5 × 52 = 78 semaines) après la date du prêt.
+L'équation est la suivante: %gt%TABLE%gt% ou %gt%TABLE%gt% Ce montant sera arrondi à 12,9 % (ou à 12,92 % si l'on préfère une précision de deux décimales).
+L'équation est la suivante: %gt%TABLE%gt% ou %gt%TABLE%gt% Ce montant sera arrondi à 16,9 % (ou à 16,85 % si l'on préfère une précision de deux décimales).
+L'équation est la suivante: %gt%TABLE%gt% Elle se résout par l'algèbre et donne i = 0,13066, arrondi à 13,1 % (ou à 13,07 % si l'on préfère une précision de deux décimales).
+On aboutit à i = 0,13185, arrondi à 13,2 % (ou à 13,19 % si l'on préfère une précision de deux décimales).»

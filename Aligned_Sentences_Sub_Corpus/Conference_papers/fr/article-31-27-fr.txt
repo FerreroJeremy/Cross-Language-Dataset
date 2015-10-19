@@ -1,0 +1,2 @@
+Dans cet article, nous avons proposé une méthode de résumé automatique de textes arabes.
+Notre méthode se base sur la technique RST (Mann et al., 1988), qui utilise des connaissances purement linguistiques.

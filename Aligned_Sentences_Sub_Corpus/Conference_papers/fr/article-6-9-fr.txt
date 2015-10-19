@@ -1,0 +1,2 @@
+Cette pondération change à chaque itération de l’algorithme et est différent pour chaque cluster.
+Il est basé sur l’algorithme des nuées dynamiques pour des données relationelles décrit par (Lechevallier, 1974; De Carvalho et al., 2008) ainsi que celui utilisant les distances adaptatives (Diday et Govaert, 1977; De Carvalho et Lechevallier, 2009).

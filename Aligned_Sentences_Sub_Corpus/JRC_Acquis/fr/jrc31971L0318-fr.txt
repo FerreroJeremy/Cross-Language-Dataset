@@ -1,0 +1,20 @@
+Compteurs volumétriques: - compteurs à parois déformables, - compteurs à pistons rotatifs. 2.
+MORO (1)JO nº C 65 du 5.6.1970, p. 30. (2)JO nº C 131 du 29.10.1970, p. 7. (3)Voir p. 1 du présent Journal officiel.
+Pression de fonctionnement La pression de fonctionnement d'un compteur de gaz est la différence entre la pression à l'entrée du compteur de gaz à mesurer et la pression atmosphérique. 3.2.
+Pression de référence La pression de référence pr d'un compteur de gaz est la pression de gaz à laquelle est rapporté le volume de gaz indiqué.
+Absorption de pression L'absorption de pression d'un compteur de gaz est la différence entre les pressions mesurées à l'entrée et à la sortie du compteur pendant l'écoulement d'un gaz. 5.
+Dans le cas où le dernier rouleau est chiffré en un multiple décimal du mètre cube, la plaque du dispositif indicateur doit porter: a) soit un (ou deux, ou trois, etc.) zéro fixe après le dernier rouleau, b) soit l'indication «10» (ou «100», ou «1 000», etc.) de telle façon que la lecture se fasse toujours en m3. 5.1.2.
+La valeur de l'échelon doit être de la forme 1 × 10n, 2 × 10n ou 5 × 10n m3, n'étant un nombre entier, positif, négatif ou nul. 5.2.3.3.
+Dans le cas où la valeur de l'échelon est de la forme 1 × 10n ou 2 × 10n m3, tous les traits de rang multiple de cinq et, dans le cas où la valeur de l'échelon est de la forme 5 × 10n m3, tous les traits de rang multiple de deux doivent se distinguer par une plus grande longueur. 5.2.4.
+Diamètres des rouleaux et des cadrans Le diamètre des rouleaux doit être d'au moins 16 mm.
+Le diamètre des échelles chiffrées visées au point I B 5.2.2 b) doit être d'au moins 32 mm. 5.4.
+Les compteurs ayant un volume cyclique inférieur à la valeur mentionnée dans le tableau du point II 2.1 peuvent être approuvés pourvu que le modèle de ces compteurs satisfasse aux exigences de l'essai d'endurance mentionné à cet effet au point II 7.2.5. 3.
+Pour les compteurs G 1,6 jusqu'à G 6 inclus, l'élément contrôleur est réalisé comme visé au point I B 5.2.2.
+Pour les compteurs G 10 jusqu'à G 650 inclus, l'élément contrôleur est: - soit réalisé comme visé au point I B 5.2.2, - soit amovible. 4.2.
+Pour les compteurs dont l'élément contrôleur est réalisé comme visé au point I B 5.2.2, l'écart type d'une série d'au moins 30 mesurages successifs, effectués à un débit de l'ordre de 0,1 Qmax et dans les mêmes conditions, d'un volume d'air fixé ci-dessous ne peut excéder les valeurs mentionnées au tableau ci-après: %gt%PIC FILE= %quot%T0002650%quot%%gt% 5.
+Les erreurs maximales tolérées en plus et en moins sont données dans le tableau ci-après: %gt%PIC FILE= %quot%T0002651%quot%%gt% 5.1.2.
+Disposition spéciale Pour les compteurs dont la pression de fonctionnement est supérieure à 0,1 MN/m2 (1 bar), les dispositions du point II 6.2 relatives à l'absorption mécanique de pression sont appliquées, l'absorption totale de pression prévue au point II 6.1 de ces compteurs n'étant pas prise en considération. 7.
+Une dérogation à cette disposition peut être accordée en ce sens que les compteurs échantillons peuvent être mis ultérieurement à la disposition du service compétent.
+La durée de l'essai d'endurance pour les compteurs dont le volume cyclique est égal ou supérieur aux valeurs mentionnées dans le tableau du point II 2.1 est: 7.2.4.1.
+Pour les compteurs dont le volume cyclique est inférieur aux valeurs mentionnées dans le tableau du point II 2.1, la durée de l'essai d'endurance doit être de 2 000 heures, et porter sur un nombre d'appareils supérieur à celui prévu au point II 7.1, suivant la désignation du compteur examiné et ses caractéristiques générales. 7.2.6.
+Essais d'exactitude Un compteur est considéré satisfaire aux prescriptions concernant les erreurs maximales tolérées, si celles-ci sont respectées aux débits ci-après: a) à un débit compris entre Qmin et 2 Qmin; b) à un débit de l'ordre de 1/5 Qmax; c) au débit Qmax; d) au débit ½ Qmax pour les compteurs dont la pression de fonctionnement est supérieure à 0,1 MN/m2 (1 bar).

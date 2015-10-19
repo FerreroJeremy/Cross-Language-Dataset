@@ -1,0 +1,5 @@
+La notion de logiciel libre ne doit se confondre ni avec celle de logiciel gratuit (freewares ou gratuiciels), ni avec celle de sharewares, ni avec celle de domaine public.
+Les logiciels libres sous copyleft sont donc disponibles sous une licence qui inclut un nombre important de clauses visant à empêcher toute possibilité de rendre le logiciel moins libre en le redistribuant.
+Un cas de changement de licence courant est l'intégration de logiciel sous licence BSD dans un logiciel sous copyleft (licence GPL).
+L'appellation peut apparaître trompeuse, car à l'exception de logiciels du domaine public, les logiciels libres n'ont pas moins de propriétaires que les autres, encore que le terme auteurs soit plus approprié.
+Ils y apportent de nouvelles fonctionnalités sachant qu'une large audience est en droit et en mesure de valider ou non celles-ci.

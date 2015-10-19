@@ -1,0 +1,6 @@
+Le processus d’annotation automatique des documents que nous présentons, s’effectue en quatre étapes : 1.
+Prétraitement : qui consiste d’une part, à détecter les frontières des phrases dans un texte et d’autre part, à nommer les entités. 2.
+Annotation des événements : qui utilise un classificateur jouant le rôle d’un filtre pour les phrases non événementielles. 3.
+Clustering : qui consiste à regrouper les phrases se référant au même événement.
+Nous avons proposé, pour cette étape, une nouvelle mesure de similarité entre les événements. 4.
+Annotation du document : qui prendra différentes formes (phrase, formulaire, concept, etc.) selon le domaine d’application.

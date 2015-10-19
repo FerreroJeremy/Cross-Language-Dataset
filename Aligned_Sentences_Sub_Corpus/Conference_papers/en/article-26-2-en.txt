@@ -1,0 +1,4 @@
+Simultaneously, an evolution of constraint programming in the direction of configuration problems has favored the emergence of efficient configurators with potential AI applications [11, 16].
+A tool like JConfigurator [11] heavily relies upon constrained set variables, as does the implementation of dependency grammars in [5].
+There, parsing is explicitly referred to as a configuration task.
+It is worth noting that the Mozart implementation of the OZ language comes with built in feature constraints, with immediate application to natural language processing[18], which further assesses the merging of concepts.

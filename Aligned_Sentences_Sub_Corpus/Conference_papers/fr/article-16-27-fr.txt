@@ -1,0 +1,2 @@
+Nous évaluons donc les deux approches à l’aide des taux de précision et de rappel 10 que nous mesurons en différents points.
+Nous résumons ces taux à l’aide des taux MAP (Mean Average Precision) et MRR (Mean Reciprocal Rank) couramment employés en recherche d’information.

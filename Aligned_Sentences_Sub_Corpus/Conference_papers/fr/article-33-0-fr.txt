@@ -1,0 +1,1 @@
+Nous proposons deux stratégies discriminantes d’intégration des mots composés dans un processus d’analyse syntaxique en constituants : (i) présegmentation lexicale avant analyse, (ii) postsegmentation lexicale après analyse au moyen d’un réordonnanceur.

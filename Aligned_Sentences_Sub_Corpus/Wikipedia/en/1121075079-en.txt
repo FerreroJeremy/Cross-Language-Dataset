@@ -1,0 +1,9 @@
+[[Image:Complex zeta.jpg|right|thumb|300px|Riemann zeta function &zeta;(s'') in the complex plane.
+As a result, the zeta function becomes a meromorphic function of the complex variable s'', which is holomorphic in the region of the complex plane and has a simple pole at ''s&nbsp;=&nbsp;1.
+They are trivial in the sense that their existence is relatively easy to prove, for example, from sin(π''s''/2) being 0 in the functional equation.
+The non-trivial zeros have captured far more attention because their distribution not only is far less understood but, more importantly, their study yields impressive results concerning prime numbers and related objects in number theory.
+If π(x) is the prime-counting function, then\log \zeta(s) = s \int_0^\infty \frac\,dx,for values with \Re(s)1.\!
+A simpler infinite product expansion is\zeta(s) = \pi^ \frac \right).\!This form clearly displays the simple pole at s'' = 1, the trivial zeros at −2, −4, ...
+However, &minus;1 lies outside of the domain for which the Dirichlet series for the zeta-function converges.
+In particular1+2+3+\cdots = -\frac (\Re),\!where the notation (\Re)\!
+For other related functions see the articles Zeta function and L-function.The polylogarithm is given by\mathrm_s(z) = \sum_^\infty \!which coincides with Riemann's zeta-function when z = 1.The Lerch transcendent is given by\Phi(z, s, q) = \sum_^\infty\frac \!

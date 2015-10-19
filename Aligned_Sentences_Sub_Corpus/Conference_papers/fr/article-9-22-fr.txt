@@ -1,0 +1,3 @@
+Un noeud de substitution (comme DØ) donne un noeud négatif, qui devra s'unifier avec la racine d'un arbre a.
+Un arbre b possède une racine et un noeud pied blancs qui devront s'unifier avec la partie haute et la partie basse d'un noeud scindé.
+Pour cette raison, la racine et le noeud pied sont reliés par un lien de dominance positif qui devra s'unifier avec le lien de dominance négatif reliant les deux parties du site d'adjonction.

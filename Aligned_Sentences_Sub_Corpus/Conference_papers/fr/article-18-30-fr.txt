@@ -1,0 +1,2 @@
+Il est donc nécessaire d’augmenter le contraste d’un vecteur à la suite de son calcul.
+Si ce dernier ne se situe pas a 10% du CV moyen alors le vecteur subit une opération non linéaire d’amplification (la mise à une puissance n de chaque composante puis normalisation), et ce de façon itérée jusqu’à l’obtention d’un coefficient de variation dans la fourchette acceptable.

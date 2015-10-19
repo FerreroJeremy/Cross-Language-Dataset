@@ -1,0 +1,4 @@
+Pour réaliser cette annotation, nous avons utilisé l’outil d’alignement Yawat (Germann, 2008) conçu à l’origine pour l’alignement de textes parallèles bilingues au niveau du mot.
+Nous avons adapté le schéma d’annotation de cet outil pour notre annotation multi-niveaux.
+L’annotation a été réalisée par quatre annotateurs 4 sur 200 paires de segments tirées d’une version filtrée du corpus WICOPACO.
+Comme les modifications de ponctuation sont fréquentes, seules les modifications d’une distance d’édition (Levenshtein) d’au moins 4 ont été considérées pour l’annotation.

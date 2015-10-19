@@ -1,0 +1,125 @@
+Artículo 2 No obstante lo dispuesto en el primer guión del artículo 1, se admitirá la aplicación de otros métodos de análisis, bajo la responsabilidad del director de laboratorio, a condición de que la exactitud y la precisión (repetibilidad y reproducibilidad) de estos métodos sean por lo menos equivalentes a las de los métodos de análisis de referencia correspondientes, que figuran en el anexo.
+Artículo 3 Cuando no haya establecidos métodos de análisis comunitarios de referencia para la detección y cuantificación de sustancias contenidas en una bebida espirituosa determinada, serán aplicables: a) métodos de análisis validados con arreglo a procedimientos internacionalmente reconocidos que se ajusten concretamente a los criterios establecidos en el anexo de la Directiva 85/591/CEE; b) métodos de análisis conformes a las normas recomendadas por la Organización Internacional de Normalización (ISO); c) métodos de análisis reconocidos por la asamblea general de la Oficina Internacional de la Viña y el Vino (OIV) y publicados por esa Oficina; o d) a falta de un método de los indicados en las letras a), b) y c), y en razón de su exactitud, repetibilidad y reproducibilidad: - un método de análisis admitido por el Estado miembro interesado, o - en caso necesario, cualquier otro método de análisis adecuado.
+Artículo 5 El presente Reglamento entrará en vigor el séptimo día siguiente al de su publicación en el Diario Oficial de las Comunidades Europeas.
+Será aplicable a partir del 1 de enero de 2001.
+Hecho en Bruselas, el 19 de diciembre de 2000.
+Por la Comisión Franz Fischler Miembro de la Comisión (1) DO L 160 de 12.6.1989, p. 1. (2) DO L 105 de 25.4.1990, p. 9. (3) DO L 270 de 7.10.1998, p. 9. (4) DO L 372 de 31.12.1985, p. 50.
+Referencias normativas ISO 3696:1987: Agua para fines analíticos - Especificaciones y métodos de ensayo. 3.
+Términos y definiciones 3.1.
+Temperatura de referencia La temperatura de referencia para la determinación del grado alcohólico volumétrico, densidad absoluta y densidad relativa de las bebidas espirituosas queda fijada en 20 °C.
+Nota 1: La expresión %quot%a t °C%quot% queda reservada para todas las determinaciones (de densidad absoluta o grado alcohólico volumétrico) realizadas a una temperatura distinta a la de referencia (20 °C). 3.2.
+Densidad absoluta La densidad absoluta (o masa volúmica) es la masa por unidad de volumen en vacío de una bebida espirituosa a 20 °C.
+Se expresa en kilogramos por metro cúbico y su símbolo es ρ20 o ρ20. 3.3.
+Densidad relativa La densidad relativa es la relación, expresada como número decimal, entre la densidad absoluta de la bebida espirituosa a 20 °C y la densidad absoluta del agua a la misma temperatura.
+Nota 2: Es posible obtener la densidad relativa a partir de la densidad absoluta ρ20 a 20 °C: %gt%REFERENCIA A UN GRÁFICO%gt% o %gt%REFERENCIA A UN GRÁFICO%gt%, donde 998,203 es la densidad absoluta del agua a 20 °C. 3.4.
+Los valores de referencia del grado alcohólico volumétrico (% vol) a 20 °C en función de la densidad absoluta a 20 °C de las mezclas hidroalcohólicas que deben utilizarse son los que figuran en la tabla internacional adoptada por la Organización Internacional de Metrología Legal en su recomendación no 22.
+La ecuación general que relaciona el grado alcohólico volumétrico y la densidad absoluta de las mezclas hidroalcohólicas a una temperatura determinada es la que figura en la página 40 del capítulo 3, %quot%Grado alcohólico volumétrico%quot% del anexo del Reglamento (CEE) no 2676/90 de la Comisión (DO L 272 de 3.10.1990, p. 1) o en el Manual de métodos de análisis de la OIV (1994), (p. 17).
+Fórmula de conversión: %gt%PIC FILE= %quot%L_2000333ES.002301.EPS%quot%%gt% donde GAM= grado alcohólico másico, ρ20 (alcohol)= 789,24 kg/m3 4.
+Reactivos y materiales 3.1.
+Gránulos reguladores de la ebullición. 3.2.
+Aparatos y equipo Aparatos de laboratorio habituales y, en particular, los siguientes: 4.1.
+Baño de agua que pueda mantenerse a una temperatura de 10 a 15 °C.
+Baño de agua que pueda mantenerse a una temperatura de 20 °C (+- 0,2 °C). 4.2.
+Matraces aforados de clase A, de 100 y 200 ml de capacidad, verificada con una precisión de +- 0,1 y 0,15 %, respectivamente. 4.3.
+Aparato de destilación: 4.3.1.
+El aparato de destilación descrito a modo de ejemplo (figura 1) se compone de los elementos siguientes: - matraz de fondo redondo de un litro, con esmerilado normalizado, - columna rectificadora de 20 cm de altura como mínimo (del tipo de Vigreux, por ejemplo), - tubo de conexión acodado provisto en su parte recta de un condensador de bordes rectos de unos 10 cm de largo (de tipo West), - refrigerante de serpentín de 40 cm de largo, - tubo alargado que permita conducir el destilado hasta el fondo del matraz aforado receptor, que contendrá una pequeña cantidad de agua.
+Nota: El aparato descrito más arriba está previsto para una muestra de al menos 200 ml.
+Comprobación del aparato de destilación El aparato empleado deberá reunir las condiciones siguientes: La destilación de 200 ml de una solución hidroalcohólica con una concentración conocida cercana al 50 % vol no deberá producir una pérdida de alcohol superior al 0,1 % vol. 6.2.
+Bebidas espirituosas con un grado alcohólico inferior al 50 % vol.
+Poner 200 ml de la bebida espirituosa en un matraz aforado.
+Introducir la muestra en el matraz de fondo redondo del aparato de destilación y aclarar tres veces el matraz aforado con aproximadamente 20 ml de agua destilada cada vez.
+Nota: Esta dilución con 60 ml es suficiente en el caso de las bebidas espirituosas que contengan menos de 250 g de extracto seco por litro.
+En caso contrario, para evitar las pirólisis, es preciso que el volumen de los líquidos de lavado sea como mínimo de 70 ml si el extracto seco es de 300 g/l, de 85 ml si el extracto seco es de 400 g/l y de 100 ml si el extracto seco es de 500 g/l (algunos licores o cremas de frutas).
+Poner 20 ml de agua destilada en el matraz aforado original de 200 ml que se utilizará para recoger el destilado.
+A continuación, colocar el matraz en un baño de agua fría (4.1) (entre 10 °C y 15 °C en el caso de las bebidas espirituosas anisadas).
+Bebidas espirituosas con un grado alcohólico superior al 50 % vol.
+Utilizar el agua suficiente para que el contenido del matraz sea aproximadamente de 230 ml.
+A continuación, colocar el matraz en un baño de agua fría (4.1) (entre 10 y 15 °C en el caso de las bebidas espirituosas anisadas).
+Reactivos y materiales Durante el análisis, salvo si se especifica lo contrario, deben utilizarse únicamente reactivos de grado analítico y agua de grado por lo menos 3, según se definen en la norma ISO 3696:1987.
+Solución de cloruro de sodio (2 % p/v) Para preparar un litro, pesar 20 g de cloruro de sodio y disolver con agua hasta llegar al volumen.
+Aparatos y equipo Aparatos de laboratorio habituales y, en particular, los siguientes: A.3.1.
+Balanza analítica con una sensibilidad de 0,1 mg.
+Este picnómetro incorpora un tubo lateral de 25 mm de longitud y 1 mm (como máximo) de diámetro interior, terminado en una parte cónica esmerilada.
+También pueden utilizarse, si se considera apropiado, los picnómetros descritos en la norma ISO 3507, como por ejemplo el de 50 ml.
+Un frasco tara del mismo volumen exterior que el picnómetro (con una aproximación inferior a 1 ml) y de masa igual a la del picnómetro lleno de un líquido de densidad absoluta 1,01 (solución de cloruro de sodio, A.2.1).
+Nota 1: El método para determinar las densidades absolutas en vacío de las bebidas espirituosas implica la utilización de una balanza de dos platos, un picnómetro y un frasco tara de idéntico volumen exterior a este último para contrarrestar el efecto del empuje del aire en cualquier momento.
+No obstante, también es posible emplear un picnómetro más pequeño, por ejemplo de 50 ml.
+Pesar el picnómetro limpio y seco (P).
+Pesar el picnómetro lleno de agua (P1).
+Pesar el frasco tara (T0).
+V20 °C debe conocerse con una precisión de 0,001 ml. - Masa del agua en el picnómetro a 20 °C: %gt%REFERENCIA A UN GRÁFICO%gt% donde 0,998203 es la densidad absoluta del agua a 20 °C.
+Equilibrar la balanza colocando en el plato donde se encuentre el picnómetro pesas hasta un total de p gramos.
+Pesar el picnómetro lleno de agua; p' es el peso en gramos con el que se consigue el equilibrio.
+V20 °C debe conocerse con una precisión de 0,001 ml. - Masa del agua en el picnómetro a 20 °C: %gt%REFERENCIA A UN GRÁFICO%gt% donde 0,998203 es la densidad absoluta del agua a 20 °C.
+Pesar el frasco tara, con lo que se obtiene el peso T1.
+Pesar el picnómetro con el destilado preparado (véase el apéndice I); P2 es su peso a t °C.
+Cálculo - %gt%REFERENCIA A UN GRÁFICO%gt% - Masa del picnómetro vacío en el momento de la medición = P - m + dT - Masa del líquido en el picnómetro a t °C = P2 - (P - m + dT) - Densidad absoluta a t °C en g/ml - %gt%PIC FILE= %quot%L_2000333ES.002801.EPS%quot%%gt% - Expresar la densidad absoluta a t °C en kilogramos por m3 multiplicando (ρt °C por 1000, con lo que se obtiene el valor ρt. - Pasar ρt a ρ20 con arreglo a la tabla de densidades absolutas ρT de las mezclas hidroalcohólicas [tabla II del anexo II del Manual de métodos de análisis de la OIV (1994), pp. 17-29].
+En la tabla, buscar, en la línea horizontal que corresponde a la temperatura entera T que sea inmediatamente inferior a t °C, la densidad absoluta más pequeña superior a ρt.
+Utilizar la diferencia tabular que figura por debajo de esa densidad absoluta para calcular la densidad absoluta ρt de la bebida espirituosa a la temperatura entera T. - Mediante la línea que corresponde a esa temperatura entera, calcular la diferencia entre la densidad absoluta ρ' de la tabla inmediatamente superior a ρt y la densidad absoluta calculada ρt.
+Resultado Utilizando la densidad absoluta ρ20, calcular el grado alcohólico volumétrico real mediante las tablas de grado alcohólico indicadas a continuación: La tabla que indica el valor del grado alcohólico volumétrico (% vol) a 20 °C en función de la densidad absoluta a 20 °C de las mezclas hidroalcohólicas es la tabla internacional adoptada por la Organización Internacional de Metrología en su recomendación no 22.
+Pesar el picnómetro con el destilado preparado (véase el apéndice I); p%quot% es su peso a t °C.
+Cálculo - Masa del líquido en el picnómetro a t °C = p + m - p%quot% - Densidad absoluta a t °C en g/ml %gt%PIC FILE= %quot%L_2000333ES.002802.EPS%quot%%gt% - Expresar la densidad absoluta a t °C en kilogramos por m3 y proceder a la corrección de la temperatura para calcular el grado alcohólico a 20 °C según lo indicado anteriormente para la balanza monoplato.
+Reactivos y materiales Durante el análisis, salvo si se especifica lo contrario, deben utilizarse únicamente reactivos de grado analítico y agua de grado por lo menos 3, según se definen en la norma ISO 3696:1987.
+Aparatos y equipo Aparatos de laboratorio habituales y, en particular, los siguientes: B.3.1.
+Nota 2: La regulación y el control precisos de la temperatura en la célula de medida son sumamente importantes, ya que un error de 0,1 °C puede producir una variación de densidad absoluta del orden de 0,1 kg/m3.
+Determinación de la densidad absoluta de la muestra B.4.2.1.
+Resultado Cuando se utilice la densidad absoluta ρ20, calcular el grado alcohólico volumétrico real mediante las tablas de grado alcohólico que se indican a continuación: La tabla que indica el valor del grado alcohólico volumétrico ( % vol) a 20 °C en función de la densidad absoluta a 20 ° C de las mezclas hidroalcohólicas es la tabla internacional adoptada por la Organización Internacional de Metrología en su recomendación no 22.
+Reactivos y materiales Durante el análisis, salvo si se especifica lo contrario, deben utilizarse únicamente reactivos de grado analítico y agua de grado por lo menos 3, según se definen en la norma ISO 3696:1987.
+Aparatos y equipo Aparatos de laboratorio habituales y, en particular, los siguientes: C.3.1.
+Balanza hidrostática monoplato con una sensibilidad de 1 mg.
+Flotador de un volumen mínimo de 20 ml, especialmente adaptado a la balanza, suspendido por un hilo de diámetro inferior o igual a 0,1 mm.
+La probeta deberá tener un diámetro interno superior en 6 mm, como mínimo, al del flotador.
+Termómetro (o sonda para medir la temperatura) graduado en grados y décimas de grado, de 10 a 40 °C, calibrado con una precisión de 0,05 °C.
+Nota 1: También puede utilizarse una balanza de dos platos; el principio se describe en el capítulo 1 sobre densidad absoluta y relativa (masa volúmica y densidad relativa) del anexo del Reglamento (CEE) no 2676/90 (p. 7).
+Control con una solución hidroalcohólica C.4.3.1.
+Llenar la probeta hasta la marca de nivel con una solución hidroalcohólica de título conocido a una temperatura comprendida entre 15 y 25 °C pero, preferentemente, de 20 °C.
+Anotar la temperatura si la densidad absoluta se mide a t °C (ρt).
+Pasar ρt a ρ20, con arreglo a la tabla de densidades absolutas ρT de las mezclas hidroalcohólicas [tabla II del anexo II del Manual de métodos de análisis de la OIV (1994), pp. 17-29].
+MÉTODO DE DETERMINACIÓN DEL EXTRACTO SECO TOTAL DE LAS BEBIDAS ESPIRITUOSAS POR GRAVIMETRÍA 1. Ámbito de aplicación El Reglamento (CEE) n° 1576/89 restringe la utilización de este método al aquavit, bebida cuyo extracto seco está limitado a 15 g/l. 2.
+Referencias normativas ISO 3696:1987: Agua para fines analíticos - especificaciones y métodos de ensayo. 3.
+Cápsula cilíndrica de evaporación de fondo plano, de 55 mm de diámetro. 5.2.
+Pipetear en una cápsula cilíndrica de evaporación de fondo plano de 55 mm de diámetro, previamente pesada, 25 ml de bebida espirituosa con menos de 15 g/l de materia seca.
+Terminar la desecación colocando la cápsula en una estufa a 105 °C + 3 °C durante dos horas.
+Cálculo La masa del residuo obtenido multiplicada por 40 es igual al extracto seco contenido en la bebida espirituosa, el cual debe expresarse en g/l, con una precisión de un decimal. 9.
+Resultados estadísticos del estudio interlaboratorios Los datos que se presentan a continuación se obtuvieron mediante un estudio internacional del método llevado a cabo con arreglo a procedimientos internacionalmente reconocidos [1] [2]. %gt%SITIO PARA UN CUADRO%gt% %gt%SITIO PARA UN CUADRO%gt% III.
+CONSIDERACIONES GENERALES 1.
+Referencias normativas ISO 3696:1987: Agua para fines analíticos - Especificaciones y métodos de ensayo. 3.
+Los congéneres volátiles se separan en una columna adecuada utilizando la programación de la temperatura y se detectan mediante un detector de ionización de llama (FID).
+Reactivos y materiales Salvo si se especifica lo contrario, deberán utilizarse únicamente reactivos de una pureza superior al 97 %, suministrados por un proveedor acreditado por la ISO, con certificado de pureza, libres de otros congéneres volátiles en la dilución de ensayo (extremo que podrá confirmarse mediante la inyección de un patrón de cada uno de los congéneres en la dilución de ensayo, en las condiciones cromatográficas indicadas en el punto 6.4), y agua de grado al menos 3, según se define en la norma ISO 3696.
+El acetal y el acetaldehído deberán almacenarse protegidos de la luz a una temperatura inferior a 5 °C; los demás reactivos podrán almacenarse a temperatura ambiente. 5.1.
+Metanol (CAS 67-56-1). 5.3.
+Acetato de etilo (CAS 141-78-6). 5.9.
+Acetaldehído (CAS 75-07-0). 5.12.
+Preparación y conservación de las soluciones patrón (procedimiento utilizado para el método validado) Todas las soluciones patrón deberán almacenarse a una temperatura inferior a 5 °C y renovarse cada mes.
+Las masas de los componentes y las soluciones deberán registrarse con una precisión de 0,1 mg. 5.14.1.
+Solución patrón - A Pipetear los componentes que se indican más adelante en un matraz aforado de 100 ml que contenga aproximadamente 60 ml de solución de etanol (5.13), para reducir al máximo la evaporación de los componentes, enrasar con solución de etanol (5.13) y mezclar cuidadosamente.
+Anotar el peso del matraz vacío y después de la adición de cada componente, así como el peso final total. %gt%SITIO PARA UN CUADRO%gt% Nota 1: Es preferible añadir el acetal y el acetaldehído en último lugar para reducir al máximo la pérdida de estas sustancias por evaporación. 5.14.2.
+Solución patrón - B Pipetear 3 ml de pentan-3-ol u otro patrón interno adecuado (5.5) en un matraz aforado de 100 ml que contenga aproximadamente 80 ml de solución de etanol (5.13), enrasar con solución de etanol (5.13) y mezclar cuidadosamente.
+Anotar el peso del matraz vacío y después de la adición de cada componente, así como el peso final total. 5.14.3.
+Solución patrón - C Pipetear 1 ml de solución A (5.14.1) y 1 ml de solución B (5.14.2) en un matraz aforado de 100 ml que contenga aproximadamente 80 ml de solución de etanol (5.13), enrasar con solución de etanol (5.13) y mezclar cuidadosamente.
+Anotar el peso del matraz vacío y después de la adición de cada componente, así como el peso final total. 5.14.4.
+Solución patrón - D Para mantener la continuidad analítica, preparar un patrón de control de calidad utilizando el patrón A ya preparado (5.14.1).
+Pipetear 1 ml de solución A (5.14.1) en un matraz aforado de 100 ml que contenga aproximadamente 80 ml de solución de etanol (5.13), enrasar con solución de etanol (5.13) y mezclar cuidadosamente.
+Anotar el peso del matraz vacío y después de la adición de cada componente, así como el peso final total. 5.14.5.
+Solución patrón - E Pipetear 10 ml de solución B (5.14.2) en un matraz aforado de 100 ml que contenga aproximadamente 80 ml de solución de etanol (5.13), enrasar con solución de etanol (5.13) y mezclar cuidadosamente.
+Anotar el peso del matraz vacío y después de la adición de cada componente, así como el peso final total. 5.14.6.
+Soluciones patrón utilizadas para comprobar la linealidad de la respuesta del detector de ionización de llama En una serie de matraces aforados de 100 ml que contengan aproximadamente 80 ml de etanol (5.13), pipetear 0, 0,1, 0,5, 1,0 y 2,0 ml de solución A (5.14.1) y 1 ml de solución B (5.14.2), enrasar con solución de etanol (5.13) y mezclar cuidadosamente.
+Anotar el peso de cada matraz vacío y después de la adición de cada componente, así como el peso final total. 5.14.7.
+Solución patrón de control de calidad (CC) Pipetear 9 ml de solución patrón D (5.14.4) y 1 ml de solución patrón E (5.14.5) en un matraz y mezclar cuidadosamente.
+Anotar el peso del matraz vacío y después de la adición de cada componente, así como el peso final total. 6.
+Preparación de la muestra 8.1.1.
+Añadir 1 ml de la solución patrón E (5.14.5) y anotar el peso (MPI). 8.1.4.
+Las muestras deberán almacenarse a una temperatura inferior a 5 °C antes de su análisis para reducir al máximo las pérdidas de sustancias volátiles. 8.2.
+Añadir 1 ml de la solución patrón E (5.14.5) y anotar el peso. 8.2.4.
+Las muestras deberán almacenarse a una temperatura inferior a 5 °C antes de su análisis para reducir al máximo las pérdidas de sustancias volátiles. 8.3.
+Deberá obtenerse una gráfica lineal, con un coeficiente de correlación de por lo menos 0,99. %gt%PIC FILE= %quot%L_2000333ES.004001.EPS%quot%%gt% 8.5.
+Determinación Inyectar la solución patrón C (5.14.3) y dos soluciones patrón de CC (5.14.7).
+Inyectar una solución patrón C (5.14.3) cada 5 muestras. 9.
+congénere= concentración de congénere en la solución C (5.14.3) Conc.
+PI= concentración de patrón interno en la solución C (5.14.3). 9.1.2.
+Análisis de las muestras Mediante la ecuación (2), calcular la concentración de cada uno de los congéneres en las muestras. %gt%PIC FILE= %quot%L_2000333ES.004003.EPS%quot%%gt% donde: MMUESTRA= peso de la muestra (8.1.2) MPI= del patrón interno (8.1.3) Conc.
+PI= concentración de patrón interno en la solución E (5.14.5) FR= factor de respuesta calculado mediante la ecuación (1). 9.1.3.
+Análisis de la solución patrón de control de calidad Mediante la ecuación (3), calcular el porcentaje de recuperación del valor objetivo para cada uno de los congéneres contenidos en los patrones de control de calidad (5.14.7). %gt%PIC FILE= %quot%L_2000333ES.004004.EPS%quot%%gt% La concentración del analito en el patrón de control de calidad se calcula mediante las ecuaciones (1) y (2). 9.2.
+Presentación final de los resultados Los resultados se convierten de g/g a g/hl de alcohol absoluto para las muestras mediante la ecuación (4): %gt%PIC FILE= %quot%L_2000333ES.004101.EPS%quot%%gt% donde ρ= densidad absoluta en Kg/m3.
+Garantía y control de calidad utilizados para el método validado Mediante la ecuación (2), calcular la concentración de cada congénere en las soluciones patrón de control de calidad preparadas con arreglo al procedimiento indicado en los puntos 8.1.1 a 8.1.4.
+Si los resultados analizados se sitúan en un margen del +- 10 % respecto a sus valores teóricos para cada congénere, puede considerarse válido el análisis.

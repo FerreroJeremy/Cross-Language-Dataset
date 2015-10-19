@@ -1,0 +1,3 @@
+Exogenous features are features that are not entirely derived from the (reference) corpus itself.
+They are computed from external data (in our case, our lexical resources).
+The lexical resources might be useful to discover new expressions: usually, expressions that have standard syntax like nominal compounds and are difficult to predict from the endogenous features.

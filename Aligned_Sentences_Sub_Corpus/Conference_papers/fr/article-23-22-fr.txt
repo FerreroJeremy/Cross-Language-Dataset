@@ -1,0 +1,4 @@
+Inférence et réconciliation dans un moteur d’élicitation Pour augmenter le nombre de relations dans le réseau lexical JDM, nous avons conçu un système d’élicitation 4 ayant deux principales composantes : (1) un moteur d’inférences et (2) un réconciliateur.
+Le moteur d’inférences propose des relations, tout comme un contributeur, qui vont être évaluées par la suite par un autre contributeur humain.
+Dans le cas d’invalidation d’une relation inférée, le réconciliateur est appelé pour essayer d’évaluer pourquoi la relation a été trouvée fausse.
+L’élicitation est ici le processus de formalisation de connaissances implicites de l’utilisateur en relations explicites dans le réseau lexical.

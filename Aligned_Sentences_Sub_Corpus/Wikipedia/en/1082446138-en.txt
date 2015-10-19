@@ -1,0 +1,1 @@
+for example convert the following to octal 75.8 solution:- 125/8^2='1' 125-((8^2)*1)=61 61/8^1='7' 61-((8^1)*7)='5' 125(base10)=175(base8)900/8^3='1'900-((8^3)*1)=388388/8^2='6'388-((8^2)*6)=44/8^1='0'4-((8^1)*0)=44/8^0='4'900(base10)=1604(base8)Method of consecutive multiplications by 8Is used to convert a decimal fraction to octal.

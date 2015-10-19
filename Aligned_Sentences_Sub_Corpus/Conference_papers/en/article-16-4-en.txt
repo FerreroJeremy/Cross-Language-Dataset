@@ -1,0 +1,3 @@
+From the beginning, a lot of different resources have been used towards that goal.
+Machine readable dictionaries appeared first and generated a lot of effort aiming at the extraction of semantic information, including lexical relations, or were used to define a semantic similarity between lexical items.
+Also pop- ular was distributional analysis, comparing words via their common contexts of use, or syntactic dependencies in order to define another kind of semantic similarity.

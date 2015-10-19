@@ -1,0 +1,1 @@
+For Booking, the ontology degrades the results (namely, the recall) with respect to the first baseline, since there is a weak overlap between the concepts in the ontology and those in this corpus.

@@ -1,0 +1,3 @@
+Les configurateurs ont montré leurs capacités à traiter des modèles objet complexes dans de nombreuses applications industrielles.
+Leur utilisation générale est de représenter la sémantique d’un domaine de connaissance fini.
+Nous décrivons ici des expérimentations conduites sous un point de vue radicalement différent, comme une réponse à la question : un configurateur peut il traiter à la fois la syntaxe et la sémantique d’un ensemble de phrases ayant trait à un certain domaine de connaissance ?

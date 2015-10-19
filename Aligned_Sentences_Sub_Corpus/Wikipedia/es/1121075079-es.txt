@@ -1,0 +1,9 @@
+[[Image:Complex zeta.jpg|right|thumb|300px|Función zeta de Riemann &zeta;(s'') en el plano complejo.
+Riemann observó que la función zeta puede extenderse de manera única por continuación analítica a una función meromorfa en todo el plano complejo con un único polo en ''s = 1.
+Ceros de la funciónde la función zeta de Riemanna lo largo de la recta crítica para valores de t comprendidos entre 0 y 34.
+Los cinco primeros ceros son claramente visibles, puesto que corresponden al paso de la espiral por el origen.]]El valor de la función zeta para los números pares negativos es 0 (viendo la ecuación funcional es evidente), por lo que son llamados ceros triviales.
+Si π(x) es la función contador de números primos, entonces:\log \zeta(s) = s \int_0^\infty \frac\,dxconvergente para para valores Re(s'')1.
+donde el producto es sobre todos los ceros no triviales ρ de ζ y la letra γ corresponde a la constante de Euler-Mascheroni.
+Sin embargo, &minus;1 sale fuera del dominio de convergencia de la serie de Dirichlet para la función zeta.
+En particular, 1+2+3+\cdots = -\frac (\Re) \!donde la notación \textstyle (\Re) indica suma de Ramanujan.
+Entre ellas se incluye:La función zeta de Hurwitz, definida como:\zeta(s,q) = \sum_^\infty (k+q)^ \!que coincide con la función zeta de Riemann cuando q=1 (Nótese que el límite inferior de la suma es 0 y no 1).El polilogaritmo, que viene dado por \mathrm_s(z) = \sum_^\infty \!

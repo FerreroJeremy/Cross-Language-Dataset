@@ -1,0 +1,4 @@
+Lexico-semantic networks such as WordNet have been criticized a lot on the nature of the senses they distinguish as well as on the way they define these senses.
+In this article, we present a possible solution to overcome these limits by defining the sense of words from the way they are used.
+More precisely, we propose to differentiate the senses of a word from a network of lexical cooccurrences built from a large corpus.
+This method was tested both for French and English and for English, was evaluated through a comparison with WordNet.

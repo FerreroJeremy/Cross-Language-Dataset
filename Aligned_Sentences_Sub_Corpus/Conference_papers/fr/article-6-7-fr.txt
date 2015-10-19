@@ -1,0 +1,2 @@
+(Frigui et al., 2007) propose CARD, un algorithme capable de partitionner des objets en prenant en compte de manière simultanée plusieurs matrices de dissimilarité et d’apprendre un poids pour chaque matrice de dissimilarité dans chaque cluster en fonction de sa pertinence.
+CARD est basé sur les algorithmes très connus des nuées dynamiques pour des données relationnelles RFCM (Hathaway et al., 1989) et FANNY (Kaufman et Rousseeuw, 1990).

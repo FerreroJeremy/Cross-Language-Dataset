@@ -1,0 +1,17 @@
+Acidifier par 11,00 ml d'HCL ( point 5.2.11 ) et doser l'iode en excès par une solution titrée de thiosulfate de sodium ( point 5.2.15 ) en présence d'empois d'amidon ( point 5.2.13 ) comme indicateur . // 1 ml de solution d'iode ( point 5.2.14 ) consommée correspond à ( 1 ) Selon la norme ISO 5725 . 5.2.19 .
+Formaldéhyde étalon : solution diluée // Réaliser une dilution au 1/100 de la solution mère dans la phase mobile ( point 5.2.16 ). 1 ml de cette solution contient environ 37 *g de formaldéhyde .
+Matériel courant de laboratoire 5.3.2 .
+Une pompe HPLC sans pulsations 5.3.3 .
+Une vanne d'injection munie d'une boucle de 10 *l 5.3.5 .
+Réacteur postcolonne comprenant les éléments suivants : // 1 ballon 3 tubulures de 1 l, // + 1 chauffe ballon de 1 l // + 2 colonnes Vigreux à 10 plateaux minimum ( réfrigérant à air ) // + tube inox ( pour échange thermique ) de 1,6 mm _ diamètre intérieur : 0,23 mm _ longueur : 400 mm // + tube Téflon de 1,6 mm _ diamètre intérieur : 0,30 mm _ longueur : 5 m ( tricotin ) ( voir appendice 1 ) // + 1 Té sans volume mort ( Valco ou équivalent ) // + 3 raccords Union sans volume mort // OU : un module postcolonne du type Applied Biosystems PCRS 520 ou équivalent muni d'un réacteur de 1 ml 5.3.6 .
+Membrane filtrante 0,45 * 5.3.7 .
+Enregistreur 5.3.14 .
+Agitateur vibrant ( type Vortex ou équivalent ) 5.4 .
+Mode opératoire 5.4.1 .
+Préparation des échantillons 5.4.2.1 .
+Par ailleurs, laver une cartouche ( poiont 5.3.7 ) avec 2 ml de méthanol ( point 5.2.7 ), puis la conditionner avec 5 ml d'eau ( point 5.2.1 ). // Faire passer 4 ml de la phase aqueuse de l'extrait à travers la cartouche conditionnée, éliminer les premiers 2 ml et récupérer la fraction suivante . 5.4.2.2 .
+Conditions chromatographiques // _ Débit de la phase mobile : 1 ml/mn, // _ débit du réactif : 0,5 ml/mn, // _ débit total en sortie du détecteur : 1,5 ml/mn, // _ volume injecté : 10 *l, // _ température d'élution : dans les séparations difficiles, la colonne est immergée dans un bain de glace fondante : attendre l'équilibrage des températures ( 15 à 20 mn ), // _ température réaction post-colonne : 100 *C, // _ détection : 420 nm . // NB : L'ensemble du système chromatographique et postcolonne doit être rincé à l'eau ( point 5.2.1 ) après utilisation .
+Calculs // Cas des émulsions ( point 5.4.2.1 ) // Teneur en formaldéhyde % ( m/m ): 1.2.3.4 // C 10-6 100 5 m = C 10-4 5 m 1.2 // *** *** ******* ** *********** ***** ****** ** *********** 1.2.3.4 // * // 10-6 100 m = C 10-4 m 1.2 // * * ** ***** ** ******* ** *********** ****** ******** * ** ************* ** *g/100 ml en formaldéhyde lue sur la courbe étalon ( point 5.4.1 ). 5.6 .
+Appendice 1 CONFECTION D'UN TRICOTIN ACCESSOIRES UTILISES POUR LA REALISATION DU %quot% TRICOTIN %quot% _ 1 bobine en bois : diamètre extérieur de 5 cm, au milieu de laquelle sera percé un trou de 1,5 cm .
+Quatre pointes en acier seront plantées de façon équidistante ( voir schéma de la bobine en fig . 1 et fig . 2 ).
+Laisser environ 10 cm de tube pour fermer la chaînette .

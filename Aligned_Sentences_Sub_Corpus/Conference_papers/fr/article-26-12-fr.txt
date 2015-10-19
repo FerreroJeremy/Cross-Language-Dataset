@@ -1,0 +1,4 @@
+Fonctionnellement, un trait peut être assimilé à une variable de CSP et une structure de trait peut être vue comme une assignation de valeurs à un agrégat de variables de trait.
+Une valeur de trait peut être une constante d’un domaine spécifique (par exemple, une énumération telle que {Singulier, Pluriel} ou un entier tel que {1(er), 2(nd), 3(i`eme)}).
+Une valeur de trait peut aussi être une (liste de, ensemble de) structure(s) de traits (comme Accord dans la figure 1).
+Ainsi, les domaines finis des variables CSP ne peuvent pas être utilisées pour modéliser les traits et une notion de relations, ou de variables ensemblistes doit être utilisé (comme dans [Mai98, Stu97, Duc99]).

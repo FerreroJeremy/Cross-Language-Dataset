@@ -1,0 +1,3 @@
+Cette structure élémentaire est une «"cellule"» dont le bord supérieur est une chaîne d'arcs positifs correspondant à la partie gauche de la règle, tandis que le bord inférieur est une chaîne d'arcs négatifs correspondant à la partie droite de la règle.
+Chaque arc positif doit s'unifier avec un arc négatif et vice-versa pour donner un arc noir.
+Les noeuds sont gris, c'est-à-dire qu'ils sont neutres et peuvent s'unifier entre eux.

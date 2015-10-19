@@ -1,0 +1,2 @@
+Bien que des sous-ensembles de règles permettent de bonnes prédictions, il est facile de montrer que des règles à forte confiance ou émergentes ne sont pas individuellement robustes.
+Dans la figure 1, nous comparons les valeurs de confiance (resp.

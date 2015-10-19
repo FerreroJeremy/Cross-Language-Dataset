@@ -1,0 +1,2 @@
+Nonetheless a situation may arise where a copy of an object needs to be created when a pointer to a derived object is passed as a pointer to a base object.
+The Embedded C++ standard was specified to deal with part of this, but it received criticism for leaving out useful parts of the language that incur no runtime penalty.What do you think of EC++?

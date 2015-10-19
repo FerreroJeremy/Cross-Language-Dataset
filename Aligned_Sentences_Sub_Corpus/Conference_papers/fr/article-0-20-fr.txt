@@ -1,0 +1,3 @@
+L’implémentation a été faite en considérant que les dimensions concernées résident en mémoire.
+Celles-ci sont représentées par des arbres stockant pour chaque membre la cardinalité de sa couverture au niveau le plus fin.
+Les logs utilisés proviennent de logs synthétiques sur la base de données exemple FoodMart fournie avec le moteur OLAP Mondrian.

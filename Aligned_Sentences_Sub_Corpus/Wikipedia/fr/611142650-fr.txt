@@ -1,0 +1,5 @@
+Son emploi n'est plus recommandé aujourd'hui, du fait de sa lenteur à l'exécution et de son espace de clés trop petit permettant une attaque systématique en un temps raisonnable.
+Encore plus étonnant, Lucifer, lui, résistait moins bien.FonctionnementL'algorithme DES transforme un bloc de 64 bits en un autre bloc de 64 bits.
+Cette clé de ronde intermédiaire est calculée à partir de la clé initiale de l'utilisateur (grâce à un réseau de tables de substitution et d'opérateurs XOR).
+Lors de chaque ronde, le bloc de 64 bits est découpé en deux blocs de 32 bits, et ces blocs sont échangés l'un avec l'autre selon un schéma de Feistel.
+L'intervention de la NSA a ramené la taille de clé à 56 bits.

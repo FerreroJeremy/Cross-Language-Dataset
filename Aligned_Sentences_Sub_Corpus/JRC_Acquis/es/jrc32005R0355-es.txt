@@ -1,0 +1,21 @@
+La nueva descripción de este método fue adoptada por la Oficina Internacional de la Viña y el Vino en su asamblea general de 2000. (2) La utilización de este método de medición puede permitir un control más simple y preciso del grado alcohólico volumétrico de los vinos. (3) El reconocimiento de la equivalencia de este método con los métodos descritos en el capítulo 3 del anexo del Reglamento (CEE) no 2676/90 de la Comisión [2] ha perdido su razón de ser y, por lo tanto, debe suprimirse el artículo 3, apartado 2.
+Artículo 2 El presente Reglamento entrará en vigor el séptimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea.
+Hecho en Bruselas, el 28 de febrero de 2005.
+Por la Comisión Mariann Fischer Boel Miembro de la Comisión [1] DO L 179 de 14.7.1999, p. 1.
+Reglamento modificado por el Acta de adhesión de 2003. [2] DO L 272 de 3.10.1990, p. 1.
+Método de medición 1.1.
+El grado alcohólico volumétrico se define en el punto 1 del presente capítulo. 1.2.
+De acuerdo con las disposiciones reglamentarias vigentes, la temperatura de ensayo se fija en 20 °C. 1.3.
+El método de destilación se describe en el punto 3 del presente capítulo.
+Entonces se calcula la densidad absoluta, que se relaciona con el período de oscilación mediante la fórmula siguiente: ρ =T2 × C4π2V - MV (1) ρ = densidad absoluta de la muestra T = período de vibración inducida M = masa del tubo vacío C = constante de recuperación V = volumen de la muestra vibrante Esta relación es del tipo ρ = A T2 – B (2), de manera que existe una relación lineal entre la densidad absoluta y el período elevado al cuadrado.
+Las constantes A y B son propias de cada oscilador y se calculan midiendo el período de fluidos con una densidad absoluta conocida. 1.4.
+Reactivos y productos 1.4.1.
+Se recomienda una diferencia de la densidad absoluta entre los fluidos de referencia superior a 0,01000 g/ml.
+Su densidad absoluta debe conocerse con una incertidumbre inferior a +/- 0,00005 g/ml, a una temperatura de 20,00 +/- 0,05 °C.
+Para la medición del GAV de los vinos mediante densímetro electrónico, los fluidos de referencia serán: - el aire seco (no contaminado), - agua de grado al menos 3, según se define en la norma ISO 3696:1987, - soluciones hidroalcóholicas con la densidad absoluta de referencia, - soluciones referidas a los patrones nacionales de viscosidad inferior a 2 mm2/s. 1.4.2.
+Productos de limpieza y secado - detergentes, ácidos, - disolventes orgánicos: etanol 96 % vol., acetona pura. 1.5.
+Control de la temperatura de la célula de medición El tubo de medición se colocará en una cámara termostática.
+La estabilidad de la temperatura deberá ser superior a +/- 0,02 °C.
+La temperatura de ensayo se fijará en 20 °C.
+En principio, esta calibración se llevará a cabo con aire seco (teniendo en cuenta la presión atmosférica) y agua muy pura (bidestilada o microfiltrada de resistividad muy alta %gt% 18 MΩ). 1.5.4.
+Si el aparato sólo indica el período, se calculará la densidad absoluta gracias a las constantes A y B (véase 1.3).

@@ -1,0 +1,3 @@
+L’inférence transitive pour is-a est la moins productive ce qui peut sembler surprenant en première analyse.
+En fait, la relation is-a est d’ors et déjà fortement renseignée dans le réseau lexical JDM, et ce faisant, relativement peu de nouvelles inférences peuvent être proposées.
+Le rôle sémantique d’agent (la relation agent-1) est de loin le type le plus productif, avec 30 fois plus de propositions que ce qui existe actuellement dans le réseau JDM.

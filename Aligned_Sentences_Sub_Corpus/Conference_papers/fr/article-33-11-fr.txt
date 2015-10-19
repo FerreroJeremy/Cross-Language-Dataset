@@ -1,0 +1,3 @@
+Nous utilisons les unigrammes et bigrammes d’étiquettes morphosyntaxiques dans le but d’apprendre des structures syntaxiques irrégulières souvent caractéristiques de présence de mots composés.
+Par exemple, la séquence préposition + adverbe associée à l’adverbe composé depuis peu est très inhabituelle.
+Nous avons aussi intégré des bigrammes mélangeant mots et étiquettes morphosyntaxiques.

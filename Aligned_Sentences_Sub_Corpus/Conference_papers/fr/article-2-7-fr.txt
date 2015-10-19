@@ -1,0 +1,3 @@
+Toutes les expérimentations ont été effectuées sur un système équipé de 16GB de mémoire centrale et d’un processeur cadencé à 3GHz.
+Les méthodes sont implémentées en étendant une implémentation Java de PrefixSPan décrite dans Fournier-Viger et al. (2008).
+Le temps d’exécution augmente presque linéairement avec la taille de la base de séquences, que nous faisons évoluer de 12400 à 99834 tuples (i.e., le jeu de données complet) 3.

@@ -1,0 +1,1 @@
+Last, we looked at the precision of each method assuming an \oracle" gives them the right number of candidates to consider for each target, a measure called R-precision in the information retrieval literature.

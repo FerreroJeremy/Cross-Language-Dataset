@@ -1,0 +1,2 @@
+When the configurator used is itself object-oriented [11], such relations are implemented using set variables.
+This relation between categories can be adequately modeled using a relation in the corresponding object model.

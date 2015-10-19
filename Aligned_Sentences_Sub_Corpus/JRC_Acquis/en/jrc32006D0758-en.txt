@@ -1,0 +1,169 @@
+The European arrest warrant replaces all previous instruments concerning extradition between the Member States, including the provisions of Title III of the Schengen Convention concerning extradition.
+Most newly issued alerts pursuant to Article 95 of the Schengen Convention (persons wanted for arrest for extradition) will be accompanied by an EAW.
+The specific checks and working procedures necessary before each of these cases within and between the Sirene bureaux should be introduced and adapted in accordance with the requirements of the European arrest warrant. (3) Council Decision 2005/211/JHA of 24 February 2005 concerning the introduction of some new functions for the Schengen Information System, including in the fight against terrorism [5] introduced certain new functions with respect to the current version of the Schengen Information System (SIS), in particular as regards the provision of access to certain types of data entered into the SIS and the recording and transmissions of personal data.
+For the purposes of matters falling within the scope of the EU Treaty, the Sirene Manual is replaced by the version in Annex 1 to this Decision. 2.
+References to the replaced Sirene Manual shall be construed as references to the version of the Sirene Manual in Annex 1 to this Decision and shall be read in accordance with the correlation table in Annex 2 to this Decision.
+Done at Brussels, 22 September 2006.
+For the Commission Franco Frattini Vice-President of the Commission [1] OJ L 64, 2.3.2004, p. 45. [2] OJ C 38, 17.2.2003, p. 1. [3] OJ L 239, 22.9.2000, p. 19. [4] Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States (OJ L 190, 18.7.2002, p. 1). [5] OJ L 68, 15.3.2005, p. 44. [6] OJ L 8, 14.1.2003, p. 34. [7] See page 1 of this Official Journal. [8] OJ L 131, 1.6.2000, p. 43. [9] OJ L 64, 7.3.2002, p. 20. [10] OJ L 176, 10.7.1999, p. 31. [11] OJ L 368, 15.12.2004, p. 26. -------------------------------------------------- ANNEX 1 Revised Sirene Manual [1] CONTENTS Introduction 1.
+THE SCHENGEN INFORMATION SYSTEM (SIS) AND NATIONAL SIRENES 1.1.
+Sirene Manual 1.4.
+Availability 1.4.2.
+Continuity 1.4.3.
+Security 1.4.4.
+Transliteration rules 1.4.7.
+Data quality 1.4.8.
+Knowledge 1.5.2.
+Technical infrastructure 1.6.1.
+GENERAL PROCEDURES 2.1.
+Multiple alerts (Article 107) 2.1.1.
+The exchange of information for multiple alerts 2.1.2.
+The exchange of information after a hit 2.2.1.
+Procedures for changing the original purpose 2.5.
+Rectification procedures 2.6.
+The exchange of information regarding the right to access or rectify data 2.6.2.
+Information on requests for access to alerts issued by other Member States 2.6.3.
+Information on access and rectification procedures 2.7.
+Misused identity 2.9.
+Sirpit (Sirene Picture Transfer) 2.9.1.
+Development and background of Sirpit (Sirene Picture Transfer) 2.9.2.
+Further use of the data exchanged, including archiving 2.9.3.
+Sirpit procedure 2.9.6.1.
+The discovering Sirene bureau makes the comparison 2.9.6.2.
+Police cooperation (Articles 39 to 46) 2.10.1.
+Title III. (Articles 39 and 46) 2.11.
+Overlapping roles of Sirene and Interpol 2.11.1.
+Priority of SIS alerts over Interpol alerts 2.11.2.
+Improvement of cooperation between the Sirene bureaux and the Interpol NCBs 2.12.
+Cooperation with Europol and Eurojust 2.13.
+A request for a flag to be added 2.14.4.
+Systematic request for a flag to be added to a Member State's nationals 3.
+Multiple alerts 3.3.1.
+Check for multiple alerts (Article 107) 3.3.2.
+Exchange of information 3.3.3.
+Entering an alias 3.4.
+Further information to establish a person's identity 3.4.4.
+A request for a flag to be added 3.5.4.
+Action by Sirene bureaux upon receipt of an Article 95 alert 3.7.
+The exchange of information after a hit 3.7.1.
+Misused identity 3.9.1.
+Gathering and communicating information on the person whose identity is misused 3.9.2.
+ALERTS PURSUANT TO ARTICLE 96 4.1.
+Alerts pursuant to Article 96 4.3.
+Entering an alias 4.4.
+Misused identity 4.4.1.
+Gathering and communicating information on a person whose identity is misused 4.5.
+ALERTS PURSUANT TO ARTICLE 97 5.1.
+Alerts pursuant to Article 97 5.2.
+A request for a flag to be added 5.3.
+ALERTS PURSUANT TO ARTICLE 98 6.1.
+Alerts pursuant to Article 98 6.2.
+Alerts pursuant to Article 99(2) 7.2.
+Entering an alias 7.3.
+A request for a flag to be added 7.5.
+ALERTS PURSUANT TO ARTICLE 100 8.1.
+Vehicle alerts pursuant to Article 100 8.1.1.
+This structure has been given the name "Sirene", which is an acronym of the definition of the structure in English: Supplementary Information REquest at the National Entries.
+Norway and Iceland also concluded a Cooperation Agreement with the Member States on 19 December 1996.
+A Council Decision was adopted on 12 May 1999 determining in conformity with the relevant provisions of the Treaty establishing the European Community and the Treaty on European Union, the legal basis for each of the provisions or decisions which constitute the Schengen acquis.
+Title IV focuses exclusively on the Schengen Information System.
+It shall be fully operational 24 hours a day.
+Availability for technical analysis, support and solutions shall also be provided 24 hours a day. 1.4.2.
+Security on the system The principles underlying the security of the system are set out in Article 118 of the Schengen Convention.
+GENERAL PROCEDURES The procedures described below are applicable to almost all of Articles 95 to 100, and the procedures specific for each article can be found in the description of the following article: 2.1.
+This calls for: - checks before entering an alert, in order to determine whether the subject is already in the SIS, - consultation with the other Member States, when the entry of an alert will cause multiple alerts that are incompatible. 2.1.1.
+Person | no | no | no | yes | no | no | no | X | X | X | Article 99 sp.
+The elements used for establishing whether two identities may be identical are detailed in Annex 6 of this manual.
+Each Member State may choose the procedure to be applied.
+When notifying the Party which issued the alert of a hit, the Article of the Schengen Convention, which applies to the hit, should be indicated in heading 090 of the G form.
+If the purpose of the alert is changed, the exchange of information should take place according to the following rules: (a) through its Sirene bureau, the discovering Member State shall explain to the Member State that issued the alert the grounds for its asking for the original objective to be changed (I form); (b) as soon as possible, the issuing Member State shall study whether this wish can be met and advise the discovering Member State, through its Sirene bureau, of its decision; (c) if need be, the Member State that issued the alert can grant authorisation subject to certain conditions on how the data is to be used. 2.4.1.
+If data is found to be legally or factually incorrect or inadmissible, then the exchange of information will take place according to the following rule: The Member State which establishes that data contains an error shall advise the issuing Member State via its Sirene bureau by using the J form. 2.5.1.
+Such access shall be in accordance with the national law of the country in which the request is made.
+The exchange of information regarding the right to access or rectify data If the national authorities are to be informed of a request to access or verify data, then the exchange of information will take place according to the following rules: The following procedure has been adopted: (a) each Sirene bureau must apply its national legislation on the right to access to this data.
+In both instances the C.SIS deletion message should be processed automatically by the N.SIS. 2.8.
+The Member State issuing the code 3 in the field of "category of identity" shall send the Q form at the same time as entering/modifying the alert into the SIS.
+Subject to the condition mentioned below, the photographs and fingerprints of the person whose identity is misused should also be on file at the Sirene bureau of the issuing Member State.
+The information in heading 052 (Date document was issued) is compulsory.
+Heading 083 (Particular information concerning the alert) should always indicate the contact service, which has further information on the alert.
+Sirpit (Sirene Picture Transfer) 2.9.1.
+Within the framework of police cooperation, the exchange of pictures and fingerprints may also be carried out in the cases provided for by Articles 39 and 46 of the Convention Implementing the Schengen Agreement, on condition that the Sirene bureaux also handle these cases. 2.9.2.
+Use of the Sirene L form The transmission (request for and result of a comparison) via Sirpit is announced by sending an L form through the usual channel used for all Sirene forms.
+In cases under Articles 39 and 46 of the Schengen Convention, the L form is replaced by an agreed form of announcement. 2.9.6.
+Articles 39 and 46 provide the authority for these exchanges which shall take place in accordance with the provisions of Title VI of the Convention. 2.10.1.
+Title III. (Articles 39 and 46) Title III of the Schengen Convention contains a number of additional police and judicial cooperation provisions.
+Improvement of cooperation between the Sirene bureaux and the Interpol NCBs Each Member State shall take all appropriate measures to provide for effective exchange of information at national level between its Sirene bureau and the NCBs. 2.12.
+Cooperation with Europol and Eurojust In order to streamline cooperation between Sirene bureaux, appropriate national procedures have to be established. 2.13.
+An alert for the wanted person shall be entered in the SIS to ensure that a request for provisional arrest is immediately enforceable (Article 64 in the Convention, Article 9(3) of the Framework Decision on EAW).
+Adding a flag At the request of another Member State to add a flag Articles 94(4), 95(3), 97 and 99(6) allows a requested Member State to refuse to carry out the prescribed procedure on its territory by requesting a flag be added to the mentioned Article 95, 97 or 99 alert.
+The exchange of information when adding a flag The Sirene bureaux shall exchange information so that Member States can assess the need for a flag.
+A flag may be added (or deleted) at any time under the terms of Article 94(4) on alerts pursuant to Article 95, Article 97 and Article 99 alerts.
+An alternative procedure exists for Article 95 alerts.
+Consulting the Member States with a view to adding a flag The following procedure has been adopted: (a) if a Member State requires a flag to be added, it should request the flag from the issuing Member State, mentioning the reason for the flag; (b) once information has been exchanged, the alert may need to be amended, deleted or the request may be withdrawn 2.14.3.
+A request for a flag to be added The following procedure has been adopted: (a) the requested Member State asks the Member State that issued an Article 95, 97 or 99 alert to add a flag.
+This request shall be made by using F form; (b) the Member State that issued the alert is obliged to add the requested flag immediately. 2.14.4.
+Systematic request for a flag to be added for a Member State's nationals The following procedure has been adopted: (a) a Member State may ask the Sirene bureau of the other Member State to add a flag as a matter of course to Article 95 alerts issued on its nationals; (b) any Member State wishing to do so shall send a written request to the Member State, which it would like to cooperate; (c) any Member State to whom such a request is addressed shall add a flag for the Member State in question immediately after the alert is issued; (d) this procedure shall continue to be binding until a written instruction is made for it to be cancelled.
+If the circumstances mentioned in Article 94(4) no longer exist, the Member State that requested the flag must ask as soon as possible for the flag to be revoked. 3.
+ALERTS PURSUANT TO ARTICLE 95 [15] The following steps have to be followed: - Member State checks prior to issuing the alert, - multiple alerts, - supplementary information to be sent to Member States, - at the request of another Member State add a flag, - action by Sirene bureau upon receipt of an Article 95 alert, - the exchange of information after a hit, - deletion of an alert, - misused identity. 3.1.
+Each Member State shall take appropriate technical or organisational measures to ensure that alerts pursuant to the second sentence of Article 95(2) are only entered into the SIS after the Sirene bureau of the Member State in question has been informed. 3.3.
+Multiple alerts 3.3.1.
+The order of priority for alerts is as follows: - arrest with a view to surrender or extradition (Article 95), - non-admission into Schengen States (Article 96), - placing under protection (Article 97), - discreet surveillance (Article 99), - specific checks (Article 99), - communicating whereabouts (Articles 97 and 98).
+The elements used for establishing whether two identities may be identical are detailed in Annex 6 of this manual.
+Further information to establish a person's identity The Sirene bureau of the issuing Member State may also, if necessary, provide further information, after consultation and/or at the request of another Member State, to help establish a person's identity.
+At the request of another Member State to add a flag Article 95(3) allows a requested Member State to refuse to carry out the prescribed procedure on its territory by requesting a flag to the Article 95 alert.
+The exchange of information when adding a flag The Sirene bureaux shall exchange information so that Member States can assess the need for a flag.
+A flag may be added (or deleted) at any time under the terms of Article 94(4).
+Consulting the Member States with a view to adding a flag The following procedure has been adopted: (a) if a Member State requires a flag to be added, it should request the flag from the issuing Member State, mentioning the reason for the flag; (b) once information has been exchanged, the alert may need to be amended, deleted or the request may be withdrawn. 3.5.3.
+A request for a flag to be added The following procedure has been adopted: (a) the requested Member State asks the Member State that issued an Article 95 alert to add a flag.
+This request shall be made by using an F form; (b) the Member State that issued the alert is obliged to add the requested flag immediately. 3.5.4.
+Systematic request for a flag to be added to a Member State's nationals The following procedure has been adopted: (a) a Member State may ask the Sirene bureaux of the other Member States to add a flag as a matter of course to Article 95 alerts issued on its nationals where permitted; (b) any Member State wishing to do so shall send a written request to the Member States, which it would like to cooperate; (c) any Member State(s) to whom such a request is addressed shall add a flag for the Member State in question immediately after the alert is issued; (d) this procedure shall continue to be binding until a written instruction is made for it to be cancelled.
+If the circumstances mentioned in Article 95(2) no longer exist, the Member State that requested the flag must ask as soon as possible for the flag to be revoked. 3.6.
+Action by Sirene bureaux upon receipt of an Article 95 alert When a Sirene bureau receives the A and M forms, the bureau or associated unit should, as soon as practicable, search all available sources to try and locate the subject.
+If the Article 95 alert is validated and the subject is located or arrested in the Member State, then the EAW and/or A and M forms should be forwarded to the authority of the Member State which executes the EAW.
+The exchange of information after a hit 3.7.1.
+When notifying the party, which issued the alert of a hit, the Article of the Schengen Convention, which applies to the hit, should be indicated in heading 090 of a G form.
+Appropriate measures have to be taken by every Member State in order to guarantee an efficient and effective exchange of complementary information by virtue of Articles 39 and 46. 3.7.3.
+Following a hit The end user may require the Sirene bureau to supply supplementary information to allow effective implementation of the procedures laid down in SIS tables 4, 10 or 16 as set out in Annex 4.
+This procedure has technical implications, as the alert then has to be processed.
+The information in heading 052 (Date document was issued) is compulsory.
+Heading 083 (Particular information concerning the alert) should always indicate the contact service, which has further information on the alert.
+ALERTS PURSUANT TO ARTICLE 96 [16] The following steps have to be followed: - Introduction - Check for multiple alerts, reference is made to General Procedures 2.1 - The exchange of information after a hit - Misused identity, reference is made to the General Procedures 2.8 - Sirpit procedure, reference is made to General Procedures 2.9 4.1.
+Introduction The exchange of information on third country nationals on whom an alert has been issued under Article 96 allows Member States to decide in the case of entry or visa application.
+Alerts pursuant to Article 96 Enter the alert into the SIS. 4.3.
+Entering an alias In order to avoid incompatible alerts of any category due to alias to be entered the concerned Member States should inform each other about this alias and transmit all relevant information about the real identity of the searched subject.
+Gathering and communicating information on a person whose identity is misused See point 2.8 on misused identity 4.5.
+Issuing residence permits or visas The following procedure has been adopted: (a) a requested Member State may inform the Member State which issued an alert pursuant to Article 96 of its having been matched.
+The Member State that issued the alert may then inform the other Member States if it thinks so fit; (b) if so requested, and whilst respecting national legislation, the Sirene bureaux of the Member States concerned may assist in transmitting the necessary information to the specialised services responsible for issuing residence permits and visas; (c) if the procedure foreseen under Article 25 of the Convention entails deleting an alert issued pursuant to Article 96 the Sirene bureaux shall, whilst respecting their national legislation, offer their support if so requested. 4.6.
+Any Member State that wishes to take up this option shall ask the other Member States in writing; (b) a requested Member State may take the initiative and inform the Member State issuing an alert pursuant to Article 96 that the alert has been matched, that the third country national has not been granted admission or has been expelled from Schengen territory; (c) if, on its territory, a Member State intercepts a person for whom an alert has been issued, the Member State issuing the alert may forward the information required to expel (return/deport) a third-country national.
+Depending on the needs of the discovering Member State and if available to the requested Member State, this information should include the following: - the type and reason of decision, - the authority issuing the decision, - the date of the decision, - the date of service, - the date of enforcement, - the date on which the decision expires or the length of validity.
+The exchange of information on third country nationals not to be granted admission If a third country national who falls under the scenario foreseen in Articles 5 or 25 of the Convention applies for a residence permit or visa the authority issuing the paper must apply specific rules.
+Adding a flag Articles 94(4), allow a requested Member State to refuse to carry out the prescribed procedure on its territory by requesting a flag be added to the alert in question.
+The exchange of information when adding a flag The Sirene bureaux shall exchange information so that Member States can assess the need for a flag.
+A flag may be added (or deleted) at any time under the terms of Article 94(4) on alerts pursuant to Article 95, Article 97 and Article 99 alerts.
+An alternative procedure exists for Article 95 alerts.
+Consulting the Member States with a view to adding a flag The following procedure has been adopted: (a) if a Member State requires a flag to be added, it should request the flag from the issuing Member State, mentioning the reason for the flag. (b) once information has been exchanged, the alert may need to be amended, deleted or the request may be withdrawn. 5.2.3.
+A request for a flag to be added The following procedure has been adopted: (a) the requested Member State asks the Member State that issued an Article 95, 97 or 99 alert to add a flag.
+This request shall be made by using an F form; (b) the Member State that issued the alert is obliged to add the requested flag immediately. 5.3.
+After a hit The end-user may require the Sirene bureau to supply supplementary information to allow effective implementation of the procedures laid down in SIS tables 4, 10 or 16 as set out in Annex 4.
+This procedure has technical implications, as the alert then has to be processed.
+The information transmitted is kept only as long as is strictly necessary and is used exclusively for the purposes of medical treatment given to the person concerned; (c) if operations after an alert is matched so require (such as if an offence is discovered or if there is a threat to law and order, if an object, vehicle or individual needs to be more clearly identified, etc.), the information transmitted as a complement to that stipulated under Title IV of the Schengen Convention, in particular regarding Articles 99 and 100, shall be transmitted by virtue of Articles 39 and 46 of the abovementioned Convention.
+Appropriate measures have to be taken by every Member State in order to guarantee an efficient and effective exchange of complementary information by virtue of Articles 39 and 46. 6.
+ALERTS PURSUANT TO ARTICLE 98 [18] 6.1.
+Alerts pursuant to Article 98 The following steps have to be followed/considered: - Check for multiple alerts, reference is made to General Procedures 2.1 - The exchange of information after a hit - Misused identity, reference is made to general procedures 2.8 - Sirpit procedure, reference is made to the General Procedures 2.9 - Enter the alert into the SIS 6.2.
+After a hit The end-user may require the Sirene bureau to supply supplementary information to allow effective implementation of the procedures laid down in SIS tables 4, 10 or 16 as set out in Annex 4.
+This procedure has technical implications, as the alert then has to be processed.
+Appropriate measures have to be taken by every Member State in order to guarantee an efficient and effective exchange of complementary information by virtue of Articles 39 and 46. 7.
+ALERTS PURSUANT TO ARTICLE 99 [19] The following steps have to be followed/considered: - Pre-check in order to guarantee the consultation process - Check for multiple alerts, reference is made to General Procedures 2.1 - At the request of another Member State add a Flag - The exchange of information after a hit - Sirpit procedure, reference is made to General Procedures 2.9 7.1.
+Entering an alias (a) In order to avoid incompatible alerts of any category due to alias to be entered the concerned Member States should inform each other about this alias and transmit all relevant information about the real identity of the searched subject.
+Adding a flag Article 99 allows a requested Member State to refuse to carry out the prescribed procedure on its territory by requesting a flag to the alert in question.
+The exchange of information when adding a flag The Sirene bureaux shall exchange information so that Member States can assess the need for a flag.
+A flag may be added (or deleted) at any time under the terms of Article 94(4) on alerts pursuant to Articles 95, 97 and 99 alerts.
+An alternative procedure exists for Article 95 alerts.
+Consulting the Member States with a view to adding a flag The following procedure has been adopted: (a) if a Member State requires a flag to be added, it should request the flag from the issuing Member State, mentioning the reason for the flag; (b) once information has been exchanged, the alert may need to be amended, deleted or the request may be withdrawn. 7.4.3.
+A request for a flag to be added The following procedure has been adopted: (a) the requested Member State asks the Member State that issued an Article 95, 97 or 99 alert to add a flag.
+This request shall be made by using an F form; (b) the Member State that issued the alert is obliged to add the requested flag immediately. 7.5.
+ALERTS PURSUANT TO ARTICLE 100 [20] The following steps have to be followed/considered: - Check for multiple alerts - The exchange of information after a hit - Sirpit procedure, reference is made to General Procedures 2.9 8.1.
+Vehicle alerts pursuant to Article 100 8.1.1.
+The identity description elements used for establishing whether two vehicle entries are identical are detailed in Annex 6 of this manual.
+The consultation procedures to be adopted by the Sirene bureaux for vehicles are the same as for persons. 8.1.2.
+Table of compatible alerts Priority by decreasing order of importance | Grounds for alert compatibility | Article 99 Discreet surveillance | Article 99 discrete surveillance | Article 99 Specific check | Article 99 specific check | Article 100 | Article 100 | 8.2.
+Appropriate measures have to be taken by every Member State in order to guarantee an efficient and effective exchange of complementary information by virtue of Articles 39 and 46.
+The Sirene bureaux shall send further information as quickly as possible via a P form, in response to a G form when a hit is made on an alert issued on a vehicle pursuant to Article 100 of the Schengen Convention. (NB: Given that the request is urgent and that it will therefore not be possible to collate all the information immediately, it is agreed that certain headings will be optional rather than obligatory, and that efforts will be made to collate the information relating to the main headings, e.g.: 041, 042, 043, 162, 164, 165, 166 and 167). 9.

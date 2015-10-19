@@ -1,0 +1,6 @@
+Etape 2 : Annotation des événements Un événement est un objet spécifique qui se produit à un instant spécifique et dans un en-droit bien déterminé.
+Notre objectif est d’identifier tous les événements présents dans un document.
+Nous marquons par une balise chaque événement détecté.
+Pour cela, un modèle de classification est construit automatiquement, il permet de prédire si une phrase contient un événement ou non.
+Nous avons utilisé, dans un premier temps, les attributs qui se rapportent aux événements tels qu’ils sont définis par Naughton et al. (2006).
+Ces attributs sont les suivants : Longueur de la phrase, Position de la phrase dans le document, Nbre de lettres capitales, Nbre de Stopwords, Nbre de noms de villes; Nbre de marques numériques.

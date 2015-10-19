@@ -1,0 +1,2 @@
+The MWER templates are instantiated at each position of the input sequence.
+We define a template T as follows:

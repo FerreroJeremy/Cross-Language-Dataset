@@ -1,0 +1,2 @@
+Enfin, les résultats sur les verbes sont similaires à ceux présentés ici pour les noms, avec cependant une meilleure précision à rang faible et un compromis sur la fréquence de coupure plus élevé, et ce, même si la précision oracle est globalement la même pour toutes les configurations.
+Combiner les deux méthodes améliore la précision de manière similaire à ce que nous observons sur les noms, avec une précision oracle qui varie cette fois entre 20% et 27%.

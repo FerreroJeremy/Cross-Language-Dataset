@@ -1,0 +1,2 @@
+Concepts are defined from a thesaurus (in our prototype applied to French, we have chosen [Larousse, 1992] where 873 concepts are identified)/.
+To be consistent with the thesaurus hypothesis, we consider that this set constitutes a generator space for the words and their meanings.

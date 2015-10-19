@@ -1,0 +1,3 @@
+La première ligne de code définit le patron de polysémie.
+Les trois lignes suivantes indiquent que les paires de lexies susceptibles d'instancier ce patron sont de type color pour L2 et fruit, gem ou metal pour L1.
+Enfin, la dernière ligne indique que la définition de L2 doit, pour être déclarée occurrence du patron, contenir la chaîne de caractères “color of” suivie de L1

@@ -1,0 +1,9 @@
+L'hypothèse de Riemann selon laquelle tous les zéros non triviaux de la fonction \zeta de Riemann sont de partie réelle égale à 1/2 renforce encore l'intérêt pour ces zéros.
+La théorie de la fonction \zeta de Riemann définit trois régions dans le plan complexe, la région de convergence \Re(s)1, la bande critique 0 \le \Re(s) \le 1, et la région \Re(s). À partir de la relation fonctionnelle, le module de la fonction est estimé dans chacune de ces régions.
+On a en effet (\Re(s) 0) \zeta(s)=\sum_^N\frac1+s\int_N^\inftydu + \frac-\frac12 N^ L'intégrale est O(t/\sigma N^\sigma) et le dernier terme se majore par O(N^).
+Pour l'avant-dernier terme on a \left|\frac\right|=\frac et il en résulte que lorsque N tend vers l'infini, ce terme prend des oscillations de plus en plus importantes si 0: la série de Dirichlet diverge.
+Ceci constitue l'hypothèse de Lindelöf, encore indémontrée.Les grandes conjecturesL'hypothèse de RiemannCette hypothèse reste pour l'instant non démontrée.
+Pour \sigma \ge 1, \nu(\sigma)=0.On avait sans l'hypothèse de Riemann la formule \frac=\sum_\frac1+\mathcal(\ln |t|).
+Cependant, la conjecture généralisée de Mertens, qui s'exprime sous la forme M(x) \le A\sqrt pour un certain A0 n'est pas réfutée.Une troisième formulation est la forme affaiblie: \int_1^xdu=\mathcal(\ln x).
+Cette conjecture est basée sur de nombreux résultats numériques, et fortement supportée par un théorème rigoureux de MontgomeryH.
+On pourra lire également : Philippe Biane ; La fonction zêta de Riemann et les probabilités, Journées X-UPS (2003), texte au format pdf.La relation fonctionnelle approchéeComme on a vu, il est possible de calculer la fonction \zeta dans la bande critique en utilisant une somme partielle de la série de Dirichlet.

@@ -1,0 +1,35 @@
+Les États membres peuvent dispenser de l'application du présent règlement les véhicules visés à l'article 13 paragraphe 1 du règlement (CEE) no 3820/85.
+Les États membres peuvent, après autorisation de la Commission, dispenser de l'application du présent règlement les véhicules affectés aux transports visés à l'article 13 paragraphe 2 du règlement (CEE) no 3820/85.
+Article 6 Les États membres attribuent au demandeur une marque d'homologation CEE conforme au modèle établi à l'annexe II pour chaque modèle d'appreil de contrôle ou de feuille d'enregistrement qu'ils homologuent en vertu de l'article 5.
+Article 10 Les États membres ne peuvent refuser l'immatriculation ou interdire la mise en circulation ou l'usage des véhicules équipés de l'appareil de contrôle pour des motifs inhérents à un tel équipement si l'appareil est muni de la marque d'homologation CEE visée à l'article 6 et de la plaquette d'installation visée à l'article 12.
+Article 11 Toute décision portant refus ou retrait d'homologation d'un modèle d'appareil de contrôle ou de feuille d'enregistrement, prise en vertu du présent règlement, est motivée de façon précise.
+CHAPITRE IV Dispositions d'utilisation Article 13 L'employeur et les conducteurs veillent au bon fonctionnement et à la bonne utilisation de l'appareil.
+Les États membres peuvent prévoir, dans le cadre des dispositions prévues à l'article 19, la faculté pour les autorités compétentes d'interdire l'usage du véhicule pour les cas où il n'est pas remédié à la panne ou au fonctionnement défectueux dans les conditions fixées ci-avant. 2.
+Il se prononce à la majorité qualifiée conformément à l'article 148 paragraphe 2 du traité CEE.
+Article 20 Le règlement (CEE) no 1463/70 est abrogé.
+Fait à Bruxelles, le 20 décembre 1985.
+KRIEPS (1) JO no C 100 du 12. 4. 1984, p. 3, et JO no C 223 du 3. 9. 1985, p. 5. (2) JO no C 122 du 20. 5. 1985, p. 168. (3) JO no C 104 du 25. 4. 1985, p. 4, et JO no C 303 du 25. 11. 1985, p. 29. (4) JO no L 164 du 27. 7. 1970, p. 1. (5) JO no L 334 du 24. 12. 1977, p. 11. (6) Voir p. 1 du présent Journal officiel.
+tr/km), soit en impulsions par kilomètre (k = . . .
+Le coefficient caractéristique est exprimé soit en tours par kilomètre (w = . . .
+tr/km), soit en impulsions par kilomètre (w = . . .
+La mesure de ces distances doit se faire dans les conditions normales d'essai (voir rubrique VI point 4 de la présente annexe) et est exprimée sous la forme « l = . . .
+des dispositifs indicateurs: - de la distance parcourue (compteur totalisateur), - de la vitesse (tachymètre), - de temps (horloge); 1.2.
+des dispositifs enregistreurs comprenant: - un enregistreur de la distance parcourue, - un enregistreur de la vitesse, - un ou des enregistreurs de temps répondant aux conditions fixées à la rubrique III point c) sous 4; 1.3.
+Mesurage de la distance parcourue Les distances parcourues peuvent être totalisées et enregistrées: - soit en marche avant et en marche arrière, - soit uniquement en marche avant.
+Le compteur totalisateur doit pouvoir indiquer jusqu'à 99 999,9 km au moins. 2.
+La valeur en vitesse de l'échelon (intervalle compris entre deux repères successifs) ne doit pas excéder 10 % de la vitesse maximale figurant en fin d'échelle. 2.2.
+La longueur de l'intervalle de la graduation correspondant à une différence de vitesse de 10 km/h ne doit pas être inférieure à 10 mm. 2.4.
+Sur un indicateur à aiguille, la distance entre l'aiguille et le cadran ne doit pas dépasser 3 mm. 3.
+Dans les appareils du type à bande, lorsque le dispositif d'avancement des feuilles est commandé par le mécanisme de l'horloge, la vitesse d'avancement rectiligne sera de 10 mm/h au moins. 1.4.
+Toute variation de 10 km/h de la vitesse doit être représentée, sur le diagramme, par une variation d'au moins 1,5 mm de la coordonnée correspondante. 4.
+L'appareil de contrôle doit être construit de manière telle que, moyennant la manoeuvre éventuelle d'un dispositif de commutation, soit possible l'enregistrement automatique et différencié de quatre groupes de temps tels qu'ils sont indiqués à l'article 15 du règlement. 4.2.
+Les caractéristiques des tracés, leurs positions relatives et, éventuellement, les signes prévus à l'article 15 du règlement doivent permettre de reconnaître clairement la nature des différents temps.
+Sur le cadran de l'appareil doivent figurer les inscriptions suivantes: - à proximité du nombre indiqué par le compteur totalisateur, l'unité de mesure des distances sous la forme de son symbole « km », - à proximité de l'échelle des vitesses, l'indication « km/h », - l'étendue de mesure du tachymètre, sous la forme « Vmin . . .
+Sur la plaque signalétique rendue solidaire de l'appareil doivent figurer les indications suivantes, qui doivent être visibles sur l'appareil installé: - nom et adresse du fabricant de l'appareil, - numéro de fabrication et année de construction, - marque d'homologation du modèle de l'appareil, - la constante de l'appareil sous forme « k = . . .
+En usage: a) distance parcourue: 4 % en plus ou en moins de la distance réelle, celle-ci étant au moins égale à 1 km; b) vitesse: 6 km/h en plus ou en moins par rapport à la vitesse réelle; c) temps: ± 2 mn par jour ou ± 10 mn par 7 jours. 4.
+Il doit, en outre, être possible d'inscrire sur les feuilles, sans les détériorer et sans empêcher la lisibilité des enregistrements, les indications mentionnées à l'article 15 paragraphe 5 du règlement.
+La zone réservée à l'enregistrement de la vitesse doit être subdivisée au moins de 20 en 20 km/h.
+La dernière ligne de cette zone doit coïncider avec la limite supérieure de l'étendue de mesure. 3.
+La plaquette doit porter au moins les mentions suivantes: - nom, adresse ou marque de l'installateur ou atelier agréé, - coefficient caractéristique du véhicule, sous la forme « w = . . .
+tr/km » « w = . . .
+imp/km », - circonférence effective des pneus des roues sous la forme « 1 = . . .

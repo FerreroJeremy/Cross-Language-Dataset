@@ -1,0 +1,2 @@
+In this example, a single constrained object model describes both the syntax and the underlying simple semantics.
+In both cases, we show that the configurator used for parsing can be exploited in a mixed analysis/generative fashion, and that object constraint propagation allows for solving the parsing problems in little or no search.

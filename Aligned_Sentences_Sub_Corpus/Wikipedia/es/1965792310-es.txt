@@ -1,0 +1,3 @@
+Por ejemplo, con un desplazamiento de 3, la A sería reemplazada por la D (situada 3 lugares a la derecha de la A ), la B sería reemplazada por la E, etcétera.
+Este método debe su nombre a Julio César, que lo usaba para comunicarse con sus generales.El cifrado César muchas veces es parte componente de sistemas más complejos de codificación, como el cifrado Vigenère, e incluso tiene aplicación en el sistema ROT13.
+David Kahn (1967) describe algunos ejemplos de comunicación secreta entre amantes que usaban este cifrado en el periódico The Times.

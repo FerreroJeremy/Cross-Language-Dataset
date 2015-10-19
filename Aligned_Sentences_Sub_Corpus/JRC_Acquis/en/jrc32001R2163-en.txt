@@ -1,0 +1,13 @@
+Member States shall use this format for the data concerning the 2002 reference year and subsequent years.
+Article 2 Member States shall transmit to the Commission (Eurostat) the data and metadata required by this Regulation in electronic form, in conformity with an interchange standard proposed by the Commission (Eurostat).
+Article 3 This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.
+Done at Brussels, 7 November 2001.
+For the Commission Pedro Solbes Mira Member of the Commission (1) OJ L 163, 6.6.1998, p. 1. (2) OJ L 326, 18.12.1999, p. 39. (3) OJ L 181, 28.6.1989, p. 47.
+DATA STRUCTURE The individual data records for each quarter, which are to be sent to Eurostat, shall consist of three linked data sets covering: A1 vehicle-related variables A2 journey-related variables A3 goods-related variables (in the basic transport operation).
+Figure 1 illustrates the structure of the data.
+The %quot%Methodological appendix%quot% in Annex A to Regulation (EC) No 1172/98 provides further information. 2.
+LIST OF FIELDS The following information is provided for each field: - field number: this identifies the position of the field in the record, - variable: this is either the reference to the variable in Regulation (EC) No 1172/98, or an internal identifier, - description: short description of the contents of the field, - coding: variables are to be coded according to Annexes A to G of Regulation (EC) No 1172/98.
+Further explanations and recommendations on coding may be provided by Eurostat in the reference manual for the implementation of Regulation (EC) No 1172/98, - field type: indicates whether field contains a numeric quantity or a text string, - except for variable A1.9, all numeric fields are to be provided as integers, - variable A1.9 shall have a comma (%quot%,%quot%) as the decimal separator, - optional variable: a flag for variables which are optional according to Annex A to Regulation (EC) No 1172/98, - maximum length: the maximum expected length of the data for this field.
+Additional information is provided in the reference manual for the implementation of Regulation (EC) No 1172/98 on statistics on the carriage of goods by road. 4.
+In order to permit the transmission of these data within the normal data structures described here, the variables A1.2, A1.4, A1.5 and A1.7 shall be transmitted as part of the A2 data set (journey-related variables). 5.
+Furthermore during this transitional period Eurostat shall also support the reception of data by post on diskettes or recordable compact disks (CD-R).

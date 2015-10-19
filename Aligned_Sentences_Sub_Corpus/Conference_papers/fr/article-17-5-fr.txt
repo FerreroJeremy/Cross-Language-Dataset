@@ -1,0 +1,3 @@
+Ces agents peuvent calculer la pertinence d’une relation sémantique entre deux acceptions en conjuguant diverses informations lexicales et les vecteurs conceptuels.
+Lorsqu’un taux de pertinence est au-dessus d’un certain seuil, ils peuvent matérialiser un lien sémantique qui peut être utilisé par d’autres agents en charge de la désambiguïsation ou du transfert lexical.
+Les agents vérifiant l’intégrité de la base cherchent les incohérences de la base et en avertissent les lexicographes le cas échéant.

@@ -1,0 +1,31 @@
+Article 2 Les États membres ne peuvent refuser la réception CEE ni la réception de portée nationale d'un véhicule pour des motifs concernant les émissions de polluants provenant du moteur diesel propulsant ledit véhicule, si celui-ci répond aux prescriptions figurant aux annexes I, II, III, IV et VI.
+Article 6 Les États membres sont destinataires de la présente directive.
+Le dispositif de démarrage à froid étant en service, le coefficient d'absorption lumineuse des gaz émis par le moteur en régime stabilisé, mesuré suivant la procédure prévue à l'annexe III, ne dépasse pas les limites prévues à l'annexe VI. 5.2.2.2.
+Pour chacun des six régimes de rotation auxquels il est effectué des mesures du coefficient d'obsorption lumineuse en application du point 2.1, il est procédé au calcul du flux nominal de gaz G exprimé en litres par seconde et défini par les formules suivantes: %gt%PIC FILE= %quot%T0004623%quot%%gt% V : cylindrée du moteur exprimée en litres n : régime de rotation exprimé en tours par minute. 4.2.
+L'essai est effectué sur le véhicule ou le moteur ayant subi l'essai en régimes stabilisés décrit à l'annexe III. 1.1.1.
+L'essai doit être effectué aussitôt que possible après la fin du parcours routier. 1.2.
+L'opération décrite au point 2.3 est répétée au moins six fois pour nettoyer le système d'échappement et procéder éventuellement au réglage des appareils.
+Le gaz à mesurer est contenu dans une enceinte dont la surface interne est non réfléchissante. 2.2.
+Généralités L'opacimètre doit être tel que, dans les conditions de fonctionnement en régimes stabilisés, la chambre de fumée soit remplie d'une fumée d'opacité uniforme. 3.2.
+Le récepteur est constitué par une cellule photo-électrique ayant une courbe de réponse spectrale semblable à la courbe photopique de l'oeil humain (maximum de réponse dans la bande de 550/570 nm, moins de 4 % de cette réponse maximum au-dessous de 430 nm et au-dessus de 680 nm). 3.4.2.
+Une vérification intermédiaire doit être effectuée en introduisant dans la chambre de fumée un filtre représentant un gaz dont le coefficient d'absorption connu k, mesuré comme il est dit au point 3.5.1, est compris entre 1,6 m-1 et 1,8 m-1.
+La pression des gaz d'échappement dans la chambre de fumée ne doit pas différer de celle de l'air ambiant de plus de 75 mm de colonne d'eau. 3.8.2.
+Les variations de pression du gaz à mesurer et de l'air de balayage ne doivent pas provoquer une variation du coefficient d'absorption de plus de 0,05 m-1 pour un gaz à mesurer correspondant à un coefficient d'absorption de 1,7 m-1. 3.8.3.
+L'opacimètre doit être muni de dispositifs appropriés pour la mesure de la pression dans la chambre de fumée. 3.8.4.
+Température du gaz à mesurer 3.9.1.
+En tout point de la chambre de fumée, la température du gaz au moment de la mesure doit se situer entre 70 ºC et une température maximale spécifiée par le fabricant de l'opacimètre, de telle sorte que les lectures dans cette gamme de températures ne varient pas de plus de 0,1 m-1 lorsque la chambre est remplie d'un gaz ayant un coefficient d'absorption de 1,7 m-1. 3.9.2.
+L'opacimètre doit être muni de dispositifs appropriés pour la mesure de la température dans la chambre de fumée. 4.
+La longueur effective du trajet des rayons lumineux est obtenue en comparant la lecture N sur l'opacimètre fonctionnant normalement avec la lecture No obtenue avec l'opacimètre modifié de telle sorte que le gaz d'essai remplisse une longueur Lo bien définie. 4.1.3.
+Les gaz d'essai doivent être des gaz d'échappement d'opacité constante ou des gaz absorbants ayant une densité du même ordre que celle des gaz d'échappement. 4.2.2.
+Si nécessaire, un vase d'expansion d'une capacité suffisante pour amortir les pulsations et de forme compacte peut être incorporé dans la canalisation de prélèvement, aussi près que possible de la sonde.
+Avec l'opacimètre fonctionnant normalement, la lecture de l'échelle linéaire est N et celle de la température moyenne des gaz exprimée en degrés Kelvin est T. 4.2.5.3.
+L'essai doit être répété avec au moins quatre gaz d'essai conduisant à des indications espacées régulièrement sur l'échelle linéaire de 20 à 80. 4.2.8.
+La contre-pression mesurée dans le tuyau d'échappement à l'entrée de la sonde ne doit pas dépasser 75 mm d'eau. 2.1.2.
+Pour réaliser cette condition, la sonde doit être placée le plus en aval possible du tuyau d'échappement ou, si nécessaire, sur un tuyau prolongateur, de telle sorte que, D étant le diamètre du tuyau d'échappement à la sortie, l'extrémité de la sonde soit située sur une partie rectiligne ayant une longueur d'au moins 6 D en amont du point de prélèvement et d'au moins 3 D en aval.
+Si nécessaire, un vase d'expansion de forme compacte et d'une capacité suffisante pour amortir les pulsations peut être incorporé dans la canalisation de prélèvement aussi près que possible de la sonde.
+Les tuyauteries entre la sonde, le dispositif de refroidissement, le vase d'expansion (si nécessaire) et l'opacimètre doivent être aussi courts que possible, tout en satisfaisant aux exigences de pression et de température prévues aux points 3.8 et 3.9 de l'annexe VII.
+Le rapport de la surface de la section de la sonde à celle du tuyau d'échappement doit être d'au moins 0,05.
+La contre-pression mesurée dans le tuyau d'échappement à l'entrée de la sonde ne doit pas dépasser 75 mm d'eau. 2.2.2.
+Pour réaliser cette condition, la sonde doit être placée le plus en aval possible du tuyau d'échappement ou, si nécessaire, sur un tuyau prolongateur, de telle sorte que, D étant le diamètre du tuyau d'échappement à la sortie, l'extrémité de la sonde soit située sur une partie rectiligne ayant une longueur d'au moins 6 D en amont du point de prélèvement et d'au moins 3 D en aval.
+Quelle que soit la méthode utilisée, la contre-pression mesurée dans le tuyau d'échappement à l'entrée de la sonde ne doit pas dépasser 75 mm d'eau. 2.2.4.
+Les tuyaux de raccordement à l'opacimètre doivent être aussi courts que possible.

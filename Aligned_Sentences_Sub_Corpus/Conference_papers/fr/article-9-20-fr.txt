@@ -1,0 +1,4 @@
+Rappelons qu'un arbre de dérivation pour une grammaire de réécriture hors-contexte est un arbre ordonné.
+Un arbre ordonné combine deux structures sur un même ensemble de noeud : une structure d'arbre proprement dite et une relation de précédence sur les noeuds de l'arbre.
+Ici la relation de précédence est représentée de manière explicite (un «"noeud"» de l'arbre précède un autre «"noeud"» si la cible du premier est la source du deuxième).
+En calculant la relation de précédence, les analyseurs syntaxiques (du type CKY par exemple) calculent en fait une structure de données comme celle que nous présentons ici, dont les noeuds sont les débuts et les fins des syntagmes.

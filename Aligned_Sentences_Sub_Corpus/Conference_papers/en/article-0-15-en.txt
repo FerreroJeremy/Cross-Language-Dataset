@@ -1,0 +1,3 @@
+In our context, these measures should be extended to take into account the cover relation used by the operators.
+For instance, in Example 5, the expression lca(q1[B q2) summarizes q1 and q2 by hfSodag;fS2-08g;fFrancegi, which specifies the query q = fSodagfS2-08g fFranceg.
+Looking at the references of q1;q2 and q, it can be seen that q is obtained by removing references fCoke;PepsigfJuly08g fParis;Marseille;North;Southg and adding the reference fSodagfS2-08gfFranceg.

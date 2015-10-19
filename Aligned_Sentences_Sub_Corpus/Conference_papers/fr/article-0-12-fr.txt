@@ -1,0 +1,7 @@
+Propriétés des opérateurs de QSL Nous donnons maintenant quelques propriétés simples et aisément démontrables vérifiées par les opérateurs de QSL.
+Certaines de ces propriétés, comme la distributivité de max ou la commutativité de max et lca sont utilisées dans l’implémentation de notre cadre.
+max et mostfreq sont idempotents : max(max(q)) = max(q) et mostfreq(mostfreq(q)) = mostfreq(q).
+max est distributif sur [B et sur nB : max(q1 [B q2) = max(max(q1) [B max(q2)) et max(q1 nB q2) = max(q1 nB max(q2)).
+C est associatif : q C (q1 C q2) = (q C q1) C q2 = q.
+max et lca commutent : max(lca(q)) = lca(max(q)) = lca(q).
+Finalement, mostfreq(lca(q)) = lca(q)

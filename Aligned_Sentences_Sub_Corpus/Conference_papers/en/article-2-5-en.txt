@@ -1,0 +1,2 @@
+Then the sequence database is constructed using the following principles: each review is a data sequence, each sentence is an itemset (i.e., the order of the words in a sentence is not considered), each word is an item.
+In such sequence database, a sequential pattern could be p = h(eat mushroom)(hospital)i, which means that frequently a sentence containing eat and mushroom and one of the following sentences containing hospital co-occur.

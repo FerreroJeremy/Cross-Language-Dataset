@@ -1,0 +1,2 @@
+Sin embargo, para cuestiones prácticas (como en modelos de sistemas físicos llevados a cabo en ordenadores de memoria finita), se requiere tomar ciertas consideraciones a la hora de implementar un A.C.
+Se considera que las células fuera de la lattice reflejan los valores de aquellas dentro de la lattice.

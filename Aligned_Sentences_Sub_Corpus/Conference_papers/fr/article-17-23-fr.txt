@@ -1,0 +1,1 @@
+La mesure d’antonymieMantiEval est la mesure en radians de l’angle entre la somme de A et B et la somme de AnticR(A;C) et AnticR(B;C).

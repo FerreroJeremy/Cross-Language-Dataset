@@ -1,0 +1,3 @@
+SyDoM est un système d’annotations sémantiques de pages Web.
+Il permet l’enrichissement de ces pages par le biais des connaissances pour pouvoir les re-trouver sans tenir compte de leur langue d’écriture.
+Cependant, SyDoM ne peut effectuer des recherches que sur des pages Web qu’il a annoté, c'est-à-dire qu’il est incapable d’interroger des pages Web quand les annotations ont été créés à l’aide de thésaurus différents.

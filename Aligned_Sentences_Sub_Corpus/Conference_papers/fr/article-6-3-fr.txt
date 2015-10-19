@@ -1,0 +1,3 @@
+Les deux techniques de classification les plus populaires sont les méthodes hiérarchiques et les méthodes de partitionnement.
+Le but des méthodes de partitionnement est d’obtenir une partition unique des données d’entrée en un nombre fixe de clusters.
+Beaucoup de ces méthodes recherchent une partition qui optimise (localement) une fonction-critère d’adéquation.

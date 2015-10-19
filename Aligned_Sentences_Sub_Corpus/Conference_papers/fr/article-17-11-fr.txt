@@ -1,0 +1,3 @@
+Distance angulaire Soit Sim(X; Y ) une des mesures de similarité entre deux vecteurs X et Y, souvent utilisée en recherche d’information (Morin, 1999).
+Sim(X; Y ) = cos( d X; Y ) = XY avec désignant le produit scalaire.
+Intuitivement, cette fonction constitue une évaluation de la proximité thématique et en pratique la mesure de l’angle entre les deux vecteurs.

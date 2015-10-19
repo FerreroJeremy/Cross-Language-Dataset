@@ -1,0 +1,10 @@
+Article 2 La liste des ports figurant à l'annexe II de la décision 98/385/CE est remplacée par la liste actualisée des ports codifiés et classés par pays et par zone côtière maritime telle qu'elle figure à l'annexe VII de la présente décision.
+Article 3 La décision 2000/363/CE est abrogée.
+Article 4 Les États membres sont destinataires de la présente décision.
+Fait à Bruxelles, le 4 mars 2005.
+Par la Commission Joaquín Almunia Membre de la Commission [1] JO L 320 du 30.12.1995, p. 25.
+Directive modifiée en dernier lieu par le règlement (CE) no 1882/2003 du Parlement européen et du Conseil (JO L 284 du 31.10.2003, p. 1). [2] JO L 174 du 18.6.1998, p. 1.
+Décision modifiée en dernier lieu par l'acte d'adhésion de 2003. [3] JO L 132 du 5.6.2000, p. 1. [4] JO L 181 du 28.6.1989, p. 47. -------------------------------------------------- ANNEXE I -------------------------------------------------- ANNEXE II -------------------------------------------------- ANNEXE III -------------------------------------------------- ANNEXE IV -------------------------------------------------- ANNEXE V -------------------------------------------------- ANNEXE VI -------------------------------------------------- ANNEXE VII LISTE EUROSTAT DE PORTS EUROPÉENS Description de la liste de ports Les ports statistiques et sous-ports sont classés par ordre alphabétique pour chaque État membre.
+Structure Intitulé de la colonne | Explication | CTRY | Pays (code type ISO alpha 2) | MCA | Zone côtière maritime dans laquelle le port est situé (annexe IV de la directive) | MODIFIC. | Modifié depuis la décision 2000/363/CE de la Commission | PORT NAME | Nom du port | LOCODE | Code (alphabétique) de la UN/LOCODE ou code (numérique) attribué temporairement par Eurostat aux ports sans LOCODE | NAT.
+GROUP | Pour un port qui n'est pas un port statistique, le groupe statistique national (nat.
+group) est le code du port statistique dans lequel ce port est inclus | STATISTICAL PORT | Port statistique | NATIONAL CODE | Code attribué au port statistique dans les statistiques nationales de l'État membre où il est situé | CTRY | MCA | MODIFIC. | PORT NAME | LOCODE | NAT.

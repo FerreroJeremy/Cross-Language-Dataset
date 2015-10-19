@@ -1,0 +1,4 @@
+HTML, an initialism of HyperText Markup Language, is the predominant markup language for Web pages.
+It describes 22 elements comprising the initial, relatively simple design of HTML.
+To make this translation requires the following steps:The language for an element should be specified with a lang attribute rather than the XHTML xml:lang attribute.
+Rather the X in XML stands for extensible and the W3C is modularizing the entire specification and opening it up to independent extensions.

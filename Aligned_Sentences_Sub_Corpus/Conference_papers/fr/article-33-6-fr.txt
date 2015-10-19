@@ -1,0 +1,5 @@
+Il existe de nombreuses ressources morphosyntaxiques en français incluant les mots composés.
+Nous avons exploité deux dictionnaires de langue générale : le DELA (Courtois, 2009 ; Courtois et al., 1997) et le Lefff (Sagot, 2010).
+Le DELA a été manuellement développé dans les années 80-90 par l’équipe de linguistes du LADL à Paris 7.
+Il est composé de 840 813 entrées lexicales, incluant 104 350 entrées composées (dont 91 030 noms).
+Les mots composés présents dans la ressource respectent, en général, les critères syntaxiques définis dans (Gross, 1986).

@@ -1,0 +1,3 @@
+Dans ce cadre, nous avons proposé une nouvelle mesure de similarité sémantique entre les événements.
+Nous signalons qu’il existe plusieurs mesures de similarités entre les docu-ments, telle que le Cosinus de Salton (1988), le Cosinus dans l’espace distributionnel et la distance de khi-deux (Lebart et Rajman, 2000).
+D’autres mesures, qui nous intéressent le RNTI - X - Approche d’annotation automatique des événements plus, portent sur la similarité entre les phrases, dont la plus récente est la mesure de Naugh-ton (2006).

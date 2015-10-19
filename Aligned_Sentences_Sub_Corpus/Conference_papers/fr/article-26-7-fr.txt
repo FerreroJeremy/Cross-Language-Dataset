@@ -1,0 +1,4 @@
+Nous présentons ici une application de la configuration au problème de l’analyse de langages, un travail qui a débuté avec [Est03].
+A cette fin et parceque nous visons à analyser des langages naturels, nous ne proposons pas de formulation ad hoc du problème mais une traduction systématique des grammaires de propriétés [Bla01] en problème de configuration.
+Pour montrer la validité de l’approche proposée, nous détaillons deux exemples : le premier est l’analyse de l’archétype des grammaires hors contexte anbn et le second est l’analyse d’un sous ensemble simple du langage naturel.
+La grammaire anbn est récursive, ainsi malgrès son apparente simplicité, elle présente une difficulté inhérente au langage naturel (les syntagmes nominaux sont récursifs).

@@ -1,0 +1,169 @@
+Dans les relations entre États membres, il remplace tous les instruments antérieurs relatifs à l'extradition, y compris les dispositions du titre III de la convention de Schengen ayant trait à cette matière.
+La plupart des nouveaux signalements effectués au titre de l'article 95 de la convention de Schengen (personnes recherchées pour arrestation aux fins d'extradition) seront désormais assortis d'un MAE.
+Il convient donc que les contrôles spécifiques et procédures de travail à appliquer au préalable par les bureaux Sirene, tant au niveau interne que dans le cadre d'une collaboration, soient intégrés et adaptés aux exigences du mandat d'arrêt européen. (3) La décision 2005/211/JAI du Conseil du 24 février 2005 concernant l'attribution de certaines fonctions nouvelles au système d'information Schengen, y compris dans le cadre de la lutte contre le terrorisme [5], a introduit de nouvelles fonctions dans la version actuelle du système d'information Schengen ("SIS"), en particulier en ce qui concerne la fourniture de l'accès à certains types de données entrées dans ce dernier ainsi que l'enregistrement et les transmissions de données à caractère personnel.
+Aux fins des matières qui relèvent du traité UE, le manuel Sirene est remplacé par la version figurant à l'annexe 1 de la présente décision. 2.
+Les références au manuel Sirene remplacé s'entendent comme faites à la version du manuel figurant à l'annexe 1 de la présente décision et doivent être lues conformément au tableau de correspondance joint à son annexe 2.
+Fait à Bruxelles, le 22 septembre 2006.
+Par la Commission Franco Frattini Vice-président [1] JO L 64 du 2.3.2004, p. 45. [2] JO C 38 du 17.2.2003, p. 1. [3] JO L 239 du 22.9.2000, p. 19. [4] Décision-cadre 2002/584/JAI du Conseil du 13 juin 2002 relative au mandat d'arrêt européen et aux procédures de remise entre États membres (JO L 190 du 18.7.2002, p. 1). [5] JO L 68 du 15.3.2005, p. 44. [6] JO L 8 du 14.1.2003, p. 34. [7] Voir page 1 du présent Journal officiel. [8] JO L 131 du 1.6.2000, p. 43. [9] JO L 64 du 7.3.2002, p. 20. [10] JO L 176 du 10.7.1999, p. 31. [11] JO L 368 du 15.12.2004, p. 26. -------------------------------------------------- ANNEXE 1 MANUEL SIRENE RÉVISÉ [1] TABLE DES MATIÈRES Introduction 1.
+LE SYSTÈME D'INFORMATION SCHENGEN (SIS) ET LES BUREAUX SIRENE NATIONAUX 1.1.
+Manuel Sirene 1.4.
+Disponibilité 1.4.2.
+Continuité 1.4.3.
+Sécurité 1.4.4.
+Règles de translittération 1.4.7.
+Qualité des données 1.4.8.
+Connaissances 1.5.2.
+Infrastructure technique 1.6.1.
+PROCÉDURES GÉNÉRALES 2.1.
+Signalements multiples (article 107) 2.1.1.
+Les échanges d'informations en cas de signalements multiples 2.1.2.
+Les échanges d'informations en cas de réponse positive 2.2.1.
+La mise en œuvre du changement de finalité 2.5.
+Procédure de rectification 2.6.
+Les échanges d'informations relatifs au droit d'accès et de rectification sur les données 2.6.2.
+L'information concernant les demandes d'accès aux signalements émanant d'autres États membres 2.6.3.
+L'information concernant les procédures d'accès et de rectification 2.7.
+L'usurpation d'identité 2.9.
+Le Sirpit (Sirene Picture Transfer) 2.9.1.
+Développement et origine du Sirpit (Sirene Picture Transfer) 2.9.2.
+Utilisation ultérieure des données échangées, archivage inclus 2.9.3.
+Procédure Sirpit 2.9.6.1.
+Le Sirene du repérage effectue la comparaison 2.9.6.2.
+La coopération policière (articles 39-46) 2.10.1.
+Titre III (articles 39 et 46) 2.11.
+La dualité des tâches Sirene et Interpol 2.11.1.
+Priorité des signalements SIS sur les signalements Interpol 2.11.2.
+Amélioration de la coopération entre les bureaux Sirene et les BCN Interpol 2.12.
+Coopération avec Europol et Eurojust 2.13.
+La demande d'apposition d'un indicateur de validité 2.14.4.
+La demande d'apposition systématique d'un indicateur de validité pour les nationaux d'un État membre 3.
+Signalements multiples 3.3.1.
+La vérification de l'existence de signalements multiples (article 107) 3.3.2.
+Les échanges d'informations 3.3.3.
+L'intégration d'un alias 3.4.
+Les autres informations utilisées pour établir l'identité d'une personne 3.4.4.
+La demande d'apposition d'un indicateur de validité 3.5.4.
+Mesures prises par les bureaux Sirene à la réception d'un signalement relevant de l'article 95 3.7.
+Les échanges d'informations en cas de réponse positive 3.7.1.
+L'usurpation d'identité 3.9.1.
+La collecte et la transmission d'informations sur la personne dont l'identité a été usurpée 3.9.2.
+SIGNALEMENTS RELEVANT DE L'ARTICLE 96 4.1.
+Les signalements relevant de l'article 96 4.3.
+L'intégration d'un alias 4.4.
+L'usurpation d'identité 4.4.1.
+La collecte et la transmission d'informations sur une personne dont l'identité a été usurpée 4.5.
+SIGNALEMENTS RELEVANT DE L'ARTICLE 97 5.1.
+Les signalements relevant de l'article 97 5.2.
+La demande d'apposition d'un indicateur de validité 5.3.
+SIGNALEMENTS RELEVANT DE L'ARTICLE 98 6.1.
+Les signalements relevant de l'article 98 6.2.
+Les signalements de l'article 99, paragraphe 2 7.2.
+L'intégration d'un alias 7.3.
+La demande d'apposition d'un indicateur de validité 7.5.
+SIGNALEMENTS RELEVANT DE L'ARTICLE 100 8.1.
+Signalements de véhicules conformément à l'article 100 8.1.1.
+Celle-ci a été baptisée "Sirene", sigle déduit de la définition donnée en anglais dans ce document: Supplementary Information REquest at the National Entries (en français : "Supplément d'Information Requis à l'Entrée NationalE").
+La Norvège et l'Islande ont également conclu un accord de coopération avec les États membres le 19 décembre 1996.
+Une décision du Conseil a été adoptée le 12 mai 1999 en vue de déterminer, conformément aux dispositions pertinentes du traité instituant la Communauté européenne et du traité sur l'Union européenne, la base juridique de chacune des dispositions ou décisions qui constituent l'acquis.
+Le titre IV est tout entier consacré au système d'information Schengen.
+Disponibilité Un bureau Sirene national est institué par chacun des États membres afin de mettre à la disposition des États membres appliquant la convention de Schengen un point de contact unique.
+La disponibilité d'analyses techniques, d'une assistance et de solutions sera également assurée 24 heures sur 24. 1.4.2.
+Sécurité du système Les principes qui régissent la sécurité du système sont énoncés à l'article 118 de la convention de Schengen.
+PROCÉDURES GÉNÉRALES Les procédures décrites ci-dessous s'appliquent à la quasi-totalité des articles 95 à 100, les procédures spécifiques à chaque article pouvant être trouvées dans la description de l'article suivant: 2.1.
+Cela a pour conséquence: - une vérification avant l'introduction d'un signalement, pour détecter si le même sujet n'existe pas déjà dans le SIS, - une consultation des autres États membres lorsque l'introduction d'un signalement aboutit à des signalements multiples incompatibles. 2.1.1.
+Au sein de l'article 99, les signalements aux fins de "surveillance discrète" sont incompatibles avec ceux effectués pour des "contrôles spécifiques".
+Les critères utilisés pour établir si deux identités peuvent être identiques sont précisés dans l'annexe 6 du présent manuel.
+Chaque État membre peut choisir la procédure à appliquer.
+Si une réponse positive est communiquée à la partie signalante, l'article de la convention de Schengen qui s'applique en cas de réponse positive est mentionné dans la rubrique 090 du formulaire G.
+En cas de changement de la finalité d'un signalement, l'échange de données doit se dérouler conformément aux règles suivantes: a) l'État membre auteur de la découverte, via son bureau Sirene, expose à l'État membre signalant les motifs qui le conduisent à demander ce changement de finalité (formulaire I); b) l'État membre signalant examine le plus rapidement possible s'il peut être satisfait à la demande et avise l'État membre auteur de la découverte de sa décision par l'intermédiaire de son bureau Sirene; c) le cas échéant, l'État membre signalant assortit son autorisation de conditions concernant l'utilisation des données. 2.4.1.
+En cas de découverte de données entachées d'erreur de droit ou de fait, l'échange d'informations se déroule conformément à la règle suivante: l'État membre qui constate une erreur dans une donnée en avise, via son bureau Sirene, l'État membre signalant au moyen du formulaire J. 2.5.1.
+Cet accès a lieu conformément au droit national du pays dans lequel la demande est introduite.
+Les échanges d'informations relatifs au droit d'accès et de rectification sur les données Si les autorités nationales doivent être informées d'une demande d'accès aux données ou de rectification les concernant, l'échange d'informations se déroule conformément aux règles suivantes: La procédure suivante est retenue: a) chaque bureau Sirene doit appliquer son droit national en ce qui concerne le droit d'accès à ces données.
+Dans les deux cas, le message de suppression du C-SIS doit être traité automatiquement au niveau du N-SIS. 2.8.
+L'État membre qui saisit le code 3 dans le champ "Catégorie d'identité" doit envoyer le formulaire Q au moment où il introduit/modifie le signalement dans le SIS.
+Les photographies et les empreintes digitales de la personne victime de l'usurpation d'identité doivent également figurer dans le dossier du bureau Sirene de l'État membre signalant, à la condition stipulée ci-dessous.
+Les informations de la rubrique 052 ("Date de délivrance du document") sont obligatoires.
+La rubrique 083 ("Informations particulières concernant le signalement") doit toujours contenir le nom du service détenteur d'informations complémentaires sur le signalement à contacter.
+Le Sirpit (Sirene Picture Transfer) 2.9.1.
+Dans le cadre de la coopération policière, l'échange de photographies et d'empreintes digitales est également possible dans les cas prévus aux articles 39 et 46 de la convention de Schengen, à condition que les bureaux Sirene soient eux aussi en charge de ces cas. 2.9.2.
+Utilisation du formulaire L Sirene La transmission (demande de comparaison et résultat) via le Sirpit est annoncée par l'envoi d'un formulaire L par la voie habituelle pour tous les formulaires Sirene.
+Dans les cas relevant des articles 39 et 46 de la convention de Schengen, le formulaire L est remplacé par un formulaire de notification convenu. 2.9.6.
+Les articles 39 et 46 autorisent ces échanges, lesquels doivent respecter les dispositions du titre VI de la convention d'application. 2.10.1.
+Titre III (articles 39 et 46) Le titre III de la convention de Schengen contient de nombreuses dispositions supplémentaires dans le domaine de la coopération policière et judicaire.
+Amélioration de la coopération entre les bureaux Sirene et les BCN Interpol Chaque État membre prend les mesures adéquates pour garantir l'échange d'informations au niveau national entre le bureau Sirene et le BCN. 2.12.
+Coopération avec Europol et Eurojust En vue de rationaliser la coopération entre les bureaux Sirene, des procédures adaptées doivent être mises en place au niveau national. 2.13.
+Le signalement de la personne recherchée sera introduit dans le SIS afin de garantir le caractère immédiatement exécutoire de toute demande d'arrestation provisoire (article 64 de la convention et article 9, paragraphe 3, de la décision-cadre relative au MAE).
+L'article 94, paragraphe 4, l'article 95, paragraphe 3, l'article 97 et l'article 99, paragraphe 6, offrent la possibilité à un État membre requis de refuser d'exécuter une conduite à tenir sur son territoire en demandant l'apposition d'un indicateur de validité dans un signalement relevant de l'article 95, 97 ou 99.
+Les échanges d'informations lors de l'apposition d'un indicateur de validité Les bureaux Sirene échangent des informations afin de permettre aux États membres d'apprécier la nécessité d'apposer un indicateur de validité.
+Un indicateur de validité peut être apposé (ou effacé) à tout moment dans les signalements relevant de l'article 94, paragraphe 4, et des articles 95, 97 et 99.
+Une conduite à tenir alternative est prévue pour les signalements relevant de l'article 95.
+La consultation des États membres en vue de l'apposition d'un indicateur de validité La procédure suivante est retenue: a) si un État membre souhaite apposer un indicateur de validité, il en fait la demande à l'État membre signalant, en précisant la raison; b) au terme de l'échange d'informations, le signalement devra éventuellement être modifié ou supprimé, ou la demande peut être retirée. 2.14.3.
+La demande d'apposition d'un indicateur de validité La procédure suivante est retenue: a) l'État membre requis demande à l'État membre signalant d'apposer un indicateur de validité dans un signalement relevant de l'article 95, 97 ou 99.
+Cette demande est introduite à l'aide du formulaire F; b) l'État membre signalant est tenu d'apposer immédiatement l'indicateur de validité demandé. 2.14.4.
+La demande d'apposition systématique d'un indicateur de validité pour les nationaux d'un État membre La procédure suivante est retenue: a) un État membre peut demander au bureau Sirene d'un autre État membre d'apposer systématiquement un indicateur de validité dans les signalements de l'article 95 concernant ses nationaux; b) tout État membre désireux de procéder de la sorte adresse une demande écrite à l'État membre avec lequel il souhaite coopérer; c) l'État membre qui reçoit la demande appose un indicateur de validité pour l'État membre en question immédiatement après avoir créé le signalement; d) cette procédure reste effective tant qu'elle n'a pas été annulée par une instruction écrite.
+Si les circonstances mentionnées à l'article 94, paragraphe 4, n'existent plus, l'État membre ayant demandé l'apposition de l'indicateur de validité doit demander sa suppression au plus tôt. 3.
+SIGNALEMENTS RELEVANT DE L'ARTICLE 95 [15] Les étapes suivantes doivent être respectées: - vérifications par l'État membre avant l'introduction du signalement, - vérification de l'absence de signalements multiples, - envoi d'informations complémentaires aux États membres, - apposition d'un indicateur de validité à la demande d'un autre État membre, - mesure prise par le bureau Sirene à la réception d'un signalement relevant de l'article 95, - échanges d'informations en cas de réponse positive, - suppression d'un signalement, - usurpation d'identité. 3.1.
+Chaque État membre prend des dispositions techniques ou organisationnelles pour garantir que les signalements relevant de l'article 95, paragraphe 2 (deuxième phrase), ne soient introduits dans le SIS qu'après information du bureau Sirene de l'État membre concerné. 3.3.
+Signalements multiples 3.3.1.
+L'ordre de priorité des signalements est le suivant: - arrestation aux fins d'extradition (article 95), - non-admission dans les États Schengen (article 96), - placement en sécurité (article 97), - surveillance discrète (article 99), - contrôle spécifique (article 99), - communication du lieu de séjour (articles 97 et 98).
+Les critères utilisés pour établir si deux identités peuvent être identiques sont précisés dans l'annexe 6 du présent manuel.
+Les autres informations utilisées pour établir l'identité d'une personne D'autres informations pourront être fournies par le bureau Sirene de l'État membre signalant, après consultation et/ou à la demande d'un autre État membre, si cela s'avère nécessaire pour établir l'identité d'une personne.
+Apposition d'un indicateur de validité à la demande d'un autre État membre L'article 95, paragraphe 3, offre la possibilité à un État membre requis de refuser d'exécuter une conduite à tenir sur son territoire en demandant l'apposition d'un indicateur de validité dans le signalement relevant de l'article 95.
+Les échanges d'informations lors de l'apposition d'un indicateur de validité Les bureaux Sirene échangent des informations afin de permettre aux États membres d'apprécier la nécessité d'apposer un indicateur de validité.
+Un indicateur de validité peut être apposé (ou effacé) à tout moment au titre de l'article 94, paragraphe 4.
+La consultation des États membres en vue de l'apposition d'un indicateur de validité La procédure suivante est retenue: a) si un État membre souhaite apposer un indicateur de validité, il en fait la demande à l'État membre signalant, en précisant la raison; b) au terme de l'échange d'informations, le signalement devra éventuellement être modifié ou supprimé, ou la demande peut être retirée. 3.5.3.
+La demande d'apposition d'un indicateur de validité La procédure suivante est retenue: a) l'État membre requis demande à l'État membre signalant d'apposer un indicateur de validité dans le signalement relevant de l'article 95.
+Cette demande est introduite à l'aide du formulaire F; b) l'État membre signalant est tenu d'apposer immédiatement l'indicateur de validité demandé. 3.5.4.
+La demande d'apposition systématique d'un indicateur de validité aux nationaux d'un État membre La procédure suivante est retenue: a) un État membre peut demander aux bureaux Sirene des autres États membres d'apposer systématiquement un indicateur de validité dans les signalements de l'article 95 concernant ses nationaux, lorsqu'une telle procédure est autorisée; b) tout État membre désireux de procéder de la sorte doit adresser une demande écrite aux État membres avec lesquels il souhaite coopérer; c) les États membres auxquels cette demande est adressée apposent un indicateur de validité pour l'État membre en question dès qu'un signalement est introduit; d) cette procédure reste effective tant qu'elle n'a pas été annulée par une instruction écrite.
+Si les circonstances mentionnées à l'article 94, paragraphe 4, n'existent plus, l'État membre ayant demandé l'apposition de l'indicateur de validité doit demander sa suppression au plus tôt. 3.6.
+Mesures prises par les bureaux Sirene à la réception d'un signalement relevant de l'article 95 Lorsqu'un bureau Sirene reçoit les formulaires A et M, il doit, lui ou l'unité associée, consulter dès que possible toutes les sources disponibles en vue d'essayer de localiser le sujet.
+Si le signalement de l'article 95 est validé et si le sujet est localisé ou arrêté dans un État membre, le MAE et/ou les formulaires A et M doivent être transmis à l'autorité de l'État membre responsable de l'exécution du mandat d'arrêt.
+Les échanges d'informations en cas de réponse positive 3.7.1.
+Si une réponse positive est communiquée à la partie signalante, l'article de la convention de Schengen qui s'applique en cas de réponse positive est mentionné dans la rubrique 090 du formulaire G.
+Chaque État membre doit prendre les mesures appropriées pour garantir le bon déroulement de cet échange d'informations complémentaires au titre des articles 39 et 46. 3.7.3.
+En cas de réponse positive L'utilisateur final peut alors demander au bureau Sirene des informations complémentaires afin de pouvoir mettre en œuvre, dans les meilleures conditions, les procédures prévues aux tableaux SIS 4, 10 ou 16, figurant à l'annexe 4.
+Cette procédure a des implications techniques puisqu'elle comporte la gestion du signalement.
+Les informations de la rubrique 052 (Date de délivrance du document) sont obligatoires.
+La rubrique 083 ("Informations particulières concernant le signalement") doit toujours contenir le nom du service détenteur d'informations complémentaires sur le signalement à contacter.
+SIGNALEMENTS RELEVANT DE L'ARTICLE 96 [16] Les étapes suivantes doivent être respectées: - introduction, - vérification de l'existence de signalements multiples, en référence au point 2.1 des procédures générales, - échanges d'informations en cas de réponse positive, - usurpation d'identité, en référence au point 2.8 des procédures générales, - procédure Sirpit, en référence au point 2.9 des procédures générales. 4.1.
+Introduction L'échange d'informations sur les ressortissants de pays tiers signalés au titre de l'article 96 permet aux États membres de prendre une décision en cas de demande d'admission ou de visa.
+Les signalements relevant de l'article 96 Le signalement doit être introduit dans le SIS. 4.3.
+L'intégration d'un alias En vue d'éviter les signalements incompatibles dans une catégorie quelconque, en raison d'un alias à intégrer, les États membres concernés doivent se tenir mutuellement informés de cet alias et échanger toutes les informations pertinentes concernant l'identité réelle du sujet recherché.
+La collecte et la transmission d'informations sur une personne dont l'identité a été usurpée Voir le point 2.8 consacré à l'usurpation d'identité. 4.5.
+La délivrance de titres de séjour et de visas La procédure suivante est retenue: a) toute découverte d'un signalement relevant de l'article 96 peut, à l'initiative d'un État membre requis, être portée à la connaissance de l'État membre signalant.
+Si celui-ci le juge opportun, il peut en aviser les autres États membres; b) s'ils sont sollicités, les bureaux Sirene des États membres concernés peuvent, dans le respect du droit national, prêter leur concours pour transmettre les informations nécessaires aux services spécialisés ayant en charge la délivrance des titres de séjour et les visas; c) si la procédure prévue à l'article 25 de la convention d'application entraîne la suppression d'un signalement fait au titre de l'article 96, les bureaux Sirene prêtent leur concours, dans le respect du droit national et pour autant qu'ils en soient sollicités. 4.6.
+L'État membre qui veut user de cette possibilité fera parvenir par écrit sa demande aux autres États membres; b) un État membre signalant peut, à l'initiative de l'État membre requis, être avisé de la découverte d'une réponse positive et de la non-admission, ou de l'éloignement, du territoire Schengen, d'un étranger signalé au titre de l'article 96; c) en cas de découverte d'une personne signalée sur le territoire national, l'État membre signalant transmet les informations nécessaires pour l'éloignement (renvoi et/ou expulsion) d'un étranger.
+Ces informations doivent contenir les éléments suivants, en fonction des besoins de l'État membre auteur de la découverte et des données à la disposition de l'État membre requis: - le type et le motif de la décision, - l'autorité qui a pris la décision, - la date de la décision, - la date de notification de la décision, - la date d'exécution de la décision, - la date d'échéance de la décision ou sa durée de validité.
+Les échanges d'informations en matière d'étrangers non admissibles Lorsqu'un étranger demande un titre de séjour ou un visa et qu'il se trouve dans les cas prévus aux articles 5 ou 25 de la convention d'application, des règles particulières doivent être appliquées par l'autorité qui délivre ce titre.
+Apposition d'un indicateur de validité L'article 94, paragraphe 4, offre la possibilité à un État membre requis de refuser d'exécuter une conduite à tenir sur son territoire en demandant l'apposition d'un indicateur de validité dans le signalement concerné.
+Les échanges d'informations lors de l'apposition d'un indicateur de validité Les bureaux Sirene échangent des informations afin de permettre aux États membres d'apprécier la nécessité d'apposer un indicateur de validité.
+Un indicateur de validité peut être apposé (ou effacé) à tout moment dans les signalements relevant de l'article 94, paragraphe 4, et des articles 95, 97 et 99.
+Une conduite à tenir alternative est prévue pour les signalements relevant de l'article 95.
+La consultation des États membres en vue de l'apposition d'un indicateur de validité La procédure suivante est retenue: a) si un État membre souhaite apposer un indicateur de validité, il en fait la demande à l'État membre signalant, en précisant la raison; b) au terme de l'échange d'informations, le signalement devra éventuellement être modifié ou supprimé, ou la demande peut être retirée. 5.2.3.
+La demande d'apposition d'un indicateur de validité La procédure suivante est retenue: a) l'État membre requis demande à l'État membre signalant d'apposer un indicateur de validité dans un signalement relevant de l'article 95, 97 ou 99.
+Cette demande est introduite à l'aide du formulaire F; b) l'État membre signalant est tenu d'apposer immédiatement l'indicateur de validité demandé. 5.3.
+En cas de réponse positive L'utilisateur final peut demander au bureau Sirene des informations complémentaires afin de pouvoir mettre en œuvre, dans les meilleures conditions, les procédures prévues aux tableaux SIS 4, 10 ou 16, figurant à l'annexe 4.
+Cette procédure a des implications techniques puisqu'elle comporte la gestion du signalement.
+c) Lorsque les opérations consécutives à la découverte d'un signalement l'exigent (découverte d'une infraction ou d'une menace à l'ordre et la sécurité publics, nécessité de préciser l'identification d'un objet, d'un véhicule ou d'une personne, etc.), les informations transmises en complément de celles prescrites par le titre IV de la convention de Schengen, en particulier pour les articles 99 et 100, le seront en vertu des articles 39 et 46 de ladite convention.
+Chaque État membre doit prendre les mesures appropriées pour garantir le bon déroulement de cet échange d'informations complémentaires au titre des articles 39 et 46. 6.
+SIGNALEMENTS RELEVANT DE L'ARTICLE 98 [18] 6.1.
+Les signalements relevant de l'article 98 Les étapes suivantes doivent être respectées/envisagées: - vérification de l'existence de signalements multiples, en référence au point 2.1 des procédures générales, - échanges d'informations en cas de réponse positive, - usurpation d'identité, en référence au point 2.8 des procédures générales, - procédure Sirpit, en référence au point 2.9 des procédures générales, - introduction du signalement dans le SIS. 6.2.
+En cas de réponse positive L'utilisateur final peut demander au bureau Sirene des informations complémentaires afin de pouvoir mettre en œuvre, dans les meilleures conditions, les procédures prévues aux tableaux SIS 4, 10 ou 16, figurant à l'annexe 4.
+Cette procédure a des implications techniques puisqu'elle comporte la gestion du signalement.
+Chaque État membre doit prendre les mesures appropriées pour garantir le bon déroulement de cet échange d'informations complémentaires au titre des articles 39 et 46. 7.
+SIGNALEMENTS RELEVANT DE L'ARTICLE 99 [19] Les étapes suivantes doivent être respectées/envisagées: - vérification préalable en vue de garantir le respect de la procédure de consultation, - vérification de l'existence de signalements multiples, en référence au point 2.1 des procédures générales, - apposition d'un indicateur de validité à la demande d'un autre État membre, - échanges d'informations en cas de réponse positive, - procédure Sirpit, en référence au point 2.9 des procédures générales. 7.1.
+L'intégration d'un alias a) En vue d'éviter les signalements incompatibles dans une catégorie quelconque, en raison d'un alias à intégrer, les États membres concernés doivent se tenir mutuellement informés de cet alias et échanger toutes les informations pertinentes concernant l'identité réelle du sujet recherché.
+Apposition d'un indicateur de validité L'article 99, paragraphe 3, offre la possibilité à un État membre requis de refuser d'exécuter une conduite à tenir sur son territoire en demandant l'apposition d'un indicateur de validité dans le signalement concerné.
+Les échanges d'informations lors de l'apposition d'un indicateur de validité Les bureaux Sirene échangent des informations afin de permettre aux États membres d'apprécier la nécessité d'apposer un indicateur de validité.
+Un indicateur de validité peut être apposé (ou effacé) à tout moment conformément à l'article 94, paragraphe 4, dans les signalements relevant des articles 95, 97 et 99.
+Une conduite à tenir alternative est prévue pour les signalements relevant de l'article 95.
+La consultation des États membres en vue de l'apposition d'un indicateur de validité La procédure suivante est retenue: a) si un État membre souhaite apposer un indicateur de validité, il en fait la demande à l'État membre signalant, en précisant la raison; b) au terme de l'échange d'informations, le signalement devra éventuellement être modifié ou supprimé, ou la demande peut être retirée. 7.4.3.
+La demande d'apposition d'un indicateur de validité La procédure suivante est retenue: a) l'État membre requis demande à l'État membre signalant d'apposer un indicateur de validité dans un signalement relevant de l'article 95, 97 ou 99.
+Cette demande est introduite à l'aide du formulaire F; b) l'État membre signalant est tenu d'apposer immédiatement l'indicateur de validité demandé. 7.5.
+SIGNALEMENTS RELEVANT DE L'ARTICLE 100 [20] Les étapes suivantes doivent être respectées/envisagées: - vérification de l'existence de signalements multiples, - échanges d'informations en cas de réponse positive, - procédure Sirpit, en référence au point 2.9 des procédures générales. 8.1.
+Signalements de véhicules conformément à l'article 100 8.1.1.
+Les critères techniques utilisés pour déterminer si deux véhicules sont identiques sont précisés dans l'annexe 6 du présent manuel.
+Les procédures de consultation à suivre par les bureaux Sirene pour les véhicules sont les mêmes que pour les personnes. 8.1.2.
+Tableau des signalements comptatibles Priorité par ordre décroissant d'importance | Bases de la compatibilité des signalements | Article 99 Surveillance discrète | Article 99 Surveillance discrète | Article 99 Contrôle spécifique | Article 99 Contrôle spécifique | Article 100 | Article 100 | 8.2.
+Chaque État membre doit prendre les mesures appropriées pour garantir le bon déroulement de cet échange d'informations complémentaires au titre des articles 39 et 46.
+Les bureaux Sirene transmettent le plus rapidement possible les "informations complémentaires" à l'aide d'un formulaire P, en réponse à un formulaire G concernant la découverte d'un véhicule signalé au titre de l'article 100. (NB: Étant donné qu'il s'agit d'une réponse urgente et qu'il ne sera donc pas possible de rassembler immédiatement toutes ces informations, il est convenu que certaines rubriques seront davantage facultatives qu'obligatoires et que l'on s'efforcera de réunir les informations relatives aux rubriques essentielles, par exemple: 041, 042, 043, 162, 164, 165, 166 et 167.) 9.

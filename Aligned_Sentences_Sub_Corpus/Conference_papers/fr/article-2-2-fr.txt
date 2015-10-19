@@ -1,0 +1,3 @@
+Motifs séquentiels traditionnels Les motifs séquentiels traditionnels, introduits dans Agrawal et Srikant (1995), peuvent être considérés comme une extension du concept d’itemsets fréquents de Agrawal et al. (1993) en considérant les estampilles temporelles associées aux items.
+La fouille de motifs séquentiels vise à extraire des ensembles d’items fréquemment associés au cours du temps.
+En considérant l’étude des achats dans une boutique, un motif séquentiel pourrait par exemple être : «40 % des clients achètent une télévision, puis plus tard achètent un lecteur DVD».

@@ -1,0 +1,5 @@
+The grammar G1 does not control the number of dependents of nodes.
+A grammar like G2 allows controlling the valence of each node, but it does not ensure that generated structures are trees, because two white nodes can unify and a node can have more than one governor.5 The grammar G3 solves the problem.
+In fact, G3 can be viewed as the superimposition of G1 and G2.
+Indeed, if P0 = {?,¦}, P1 = P0×P0 = {(?,?),(?,¦),(¦,?),(¦,¦)} is equivalent to {?,+,– ,¦}.
+The first polarity controls the tree structure as G1 does, while the second polarity controls the valence as G2 does.

@@ -1,0 +1,30 @@
+Artículo 2 Las normas detalladas sobre los procedimientos de transmisión de los datos, en aplicación del artículo 7 de la Directiva 95/57/CE, son las que se recogen en el anexo II.
+Artículo 3 Las exenciones que deben concederse a los Estados miembros, en aplicación del artículo 10 de la Directiva 95/57/CE, son las que se recogen en el anexo III.
+Hecho en Bruselas, el 9 de diciembre de 1998.
+Por la Comisión Yves-Thibault DE SILGUY Miembro de la Comisión (1) DO L 291 de 6. 12. 1995, p. 32.
+ESTADÍSTICAS DEL ALOJAMIENTO TURÍSTICO 1.1.
+La CPA es coherente con la NACE pero es más detallada.
+Este grupo también incluye las posadas, los establecimientos de cama y desayuno y el alojamiento en granjas. [Incluidos en NACE 55.23, Otros tipos de hospedaje n.c.o.p. (que incluye todos los demás establecimientos excepto hoteles, cámpings y albergues juveniles). 55.2 menciona por separado las pensiones y las granjas.
+Tipos de alojamiento Habitaciones alquiladas en casas particulares Definición: El alojamiento perteneciente a este grupo se diferencia de las casas de huéspedes por el hecho de que el turista comparte la vida de la familia que ocupa el alojamiento habitualmente y le paga un alquiler. [Incluido en NACE 55.23, Otros tipos de hospedaje n.c.o.p., que incluye todos los demás establecimientos excepto hoteles, cámpings y albergues juveniles.
+DEFINICIONES DE VARIABLES 1.2.1.
+Las pernoctaciones se calculan por país de residencia del cliente y por mes.
+Porcentaje neto de ocupación de las plazas Definición: El porcentaje neto de ocupación de las plazas durante un mes se obtiene dividiendo el total de estancias con pernoctación por el producto de las plazas ofertadas por el número de días en que las plazas están realmente disponibles para su uso (neto de los cierres de temporada y otros cierres temporales por decoración, orden policial, etc.) en el mismo grupo de establecimientos, y multiplicando el cociente por 100 para expresar el resultado como porcentaje.
+Fórmula: PNOP = (%gt%NUM%gt%P/%gt%DEN%gt%Gd) × 100 en la que P es el número de pernoctaciones registradas durante el mes/año y Gd es el número de plazas/día realmente disponibles para su uso durante el mes/año.
+Porcentaje bruto de ocupación de las plazas Definición: El porcentaje bruto de ocupación de las plazas durante un mes se obtiene dividiendo el número de pernoctaciones totales por el número de habitaciones ofertadas multiplicado por el número de días del mes correspondiente (denominados algunas veces plazas-noche) correspondientes al mismo grupo de establecimientos y multiplicando el cociente por 100 pura expresarlo en forma de porcentaje.
+Formula: PBOP = (%gt%NUM%gt%P/%gt%DEN%gt%Gp) × 100 en la que Gp es el número de plazas/día potenciales. 2.
+DEMANDA TURÍSTICA 2.1.
+DEFINICIONES DE VARIABLES 2.2.1.
+El destino principal está relacionado con el principal propósito del viaje y por tanto debe definirse como [i)], el lugar que el visitante considera como el destino principal.
+Definición de tipos de alojamiento turístico, véase el punto 1.1. 2.2.3.
+ANEXO II Normas detalladas de los procedimientos de transmisión de datos 1.
+Bélgica - C.1.1, C.1.2, C.1.3, C.1.4, prórroga en la transmisión de los datos trimestrales provisionales de 1997.
+Alemania - C.1.1, C.1.2, C.1.3, C.1.4: período de referencia 1996 en los datos anuales.
+España - A.1.2, B.1.2, B.2.1, B.1.3: recogida de datos incompleta de «Otros establecimientos de alojamiento colectivo», en 1996 y 1997 en los datos anuales y en 1997 en los datos mensuales.
+Francia - A.1.1: número de plazas en «Otros establecimientos de alojamiento colectivo» en los datos anuales de 1996-1997. - B.1.1, B.1.2, B.1.3, B.2.1: períodos de referencia 1996-1997 en los datos anuales y 1997 en los datos mensuales sobre las «Viviendas de vacaciones» y «Otro alojamiento colectivo».
+Irlanda - A.1.1, B.1.1, B.1.3, B.2.1, B.2.2: datos de los «Establecimientos de cama y desayuno» no registrados de 1996-1998 en los datos anuales y de 1997-1998 en los datos mensuales, - A.1.2, B.1.2, B.1.3, B.2.1: período de referencia 1997 en los datos mensuales y 1996-1997 en los datos anuales.
+Recogida de datos incompleta sobre «Otros establecimientos de alojamiento colectivo» en 1996-1998 en los datos anuales y 1997-1998 en los datos mensuales. - B.1.3: Desglose por país de residencia durante 1996-1998. - B.2.1, B.2.2: período de referencia 1997 en los datos mensuales. - C.1.1, C.1.2, C.1.3, C.1.4: período de referencia 1997 en los datos trimestrales y 1996-1997 en los datos anuales.
+Italia - B.1.1, B.1.2, B.1.3: retraso de seis meses en la transmisión de los datos anuales de 1996-1997. - B.2.1, B.2.2: retraso de seis meses en la transmisión de los datos mensuales de 1997. - C.1.1, C.1.2, C.1.3, C.1.4: retraso de doce meses en la transmisión de los datos anuales de 1996 y de los datos trimestrales de 1997.
+Luxemburgo - A.1.2: número de plazas de «Otros establecimientos de alojamiento colectivo» en 1996. - C.1.1, C.1.2, C.1.3, C.1.4: períodos de referencia 1996-1997 en los datos anuales.
+Austria - A.1.1, A.1.2: inclusión de las «Viviendas de vacaciones» en «Hoteles y establecimientos similares» durante 1996-1997 en los datos anuales. - B.1, B.2: inclusión de las «Viviendas de vacaciones» en «Hoteles y establecimientos similares» hasta octubre de 1997 en los datos mensuales y durante 1996-1997 en los datos anuales. - B.1.3: desglose por país de residencia durante 1996-1997. - C.1.1, C.1.2, C.1.3, C.1.4: períodos de referencia 1996-1997 en los datos anuales y 1997-1999 en los datos trimestrales.
+Portugal - A.1.2, B.1.2, B.2.1, B.1.3: período de referencia 1997 en los datos mensuales y 1996-1997 en los datos anuales de las «Viviendas de vacaciones».
+Suecia - B.1.3: períodos de referencia 1996-1997 en los datos anuales. - B.2.1: período de referencia 1997 en los datos mensuales. - C.1.1.1: período de referencia 1997 en los datos trimestrales y 1996 en los datos anuales. - C.1.3: período de referencia 1997 en los datos trimestrales y 1996 en los datos anuales.

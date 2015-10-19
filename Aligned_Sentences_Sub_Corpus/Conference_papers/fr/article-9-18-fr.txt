@@ -1,0 +1,3 @@
+Les cellules vont venir s'unifier les unes aux autres pour donner une structure finale qui représente la structure de dérivation d'une suite, la suite elle-même étant le bord inférieur de cette structure.
+Nous donnons ci-après la structure de dérivation de la suite Peter eats red beans avec une grammaire syntagmatique classique, que le lecteur reconstituera de lui-même.
+Dans une telle représentation, les arcs représentent des syntagmes et correspondent à des intervalles de découpage de la suite et les noeuds aux bornes de ces intervalles.

@@ -1,0 +1,3 @@
+In that case, the resulting query would ask for sales of Coke in regions North or South during July 2008 (i.e., query q2).
+A second alternative would be to summarize the queries with another query having for each dimension the members that cover all members present in the initial queries.
+The user interested in more details on the query could then query the log to find the queries that were indeed launched.

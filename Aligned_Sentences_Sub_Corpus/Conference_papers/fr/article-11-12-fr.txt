@@ -1,0 +1,3 @@
+Résultats Nous avons entraîné des classificateurs sur plusieurs combinaisons des pointages décrits dans la section 2.1.
+Leurs performances sont présentées dans la Table 1.
+La meilleure de nos configurations et le système de référence ont tous deux obtenus des résultats parfaits.

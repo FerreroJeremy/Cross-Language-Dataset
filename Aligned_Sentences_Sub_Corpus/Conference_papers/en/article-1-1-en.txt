@@ -1,0 +1,3 @@
+When Y is a class attribute we talk about classification rules.
+Classification rules seem to be favorable for classification tasks (if an object is described by attributes of X then it is probably of class c).
+Existing rule-based methods are known for their interpretable form and also to perform quite well in classification tasks.

@@ -1,0 +1,2 @@
+On notera le gain résultat de cette opération t(T) = (G, T \ {t}) - (G, T).
+Partant d’un arbre de fragmentation T initial, notre procédure d’optimisation de T consiste à supprimer le noeud interne t (si il existe) ayant le gain t(T) positif maximum (l’arbre T doit bien sur être mis à jour à chaque étape).

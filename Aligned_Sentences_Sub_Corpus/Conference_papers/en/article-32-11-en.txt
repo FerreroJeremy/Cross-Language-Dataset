@@ -1,0 +1,1 @@
+Since the list of terms associated to each concept in the ontology is small, this feature helps us to detect additional lexicalizations; the EDU contains (2) a disjunction or (3) a conjunction; scoping features that look if the NP is under the scope of (4) a negation, (5) a modal, or (6) a domain action verb (such as “to meet”, “to book” and “to reserve”).

@@ -1,0 +1,3 @@
+Cela libère beaucoup de place pour ajouter de nouvelles unités d'exécution.
+Le processeur se décompose en effet en plusieurs cellules.
+Dans notre cas, le Rpeak est noté par un couple de 32 et en virgule flottante.L'aspect négatif de cette approche est que celle-ci nécessite une fois et demi plus de mémoire qu'une approche normale de factorisation LU en .

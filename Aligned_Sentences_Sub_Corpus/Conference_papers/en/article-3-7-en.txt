@@ -1,0 +1,3 @@
+Certainly, the application context, the prior knowledge, the type of data and many other factors may help in the identification of the appropriate measure.
+For instance, if the objects to be compared are described by Boolean vectors, we can restrict to a class of measures specifically devoted.
+However, the number of measure’s candidates might remain quite large.

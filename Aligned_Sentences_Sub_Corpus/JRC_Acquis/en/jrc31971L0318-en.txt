@@ -1,0 +1,20 @@
+Volumetric meters: - meters with deformable walls; - meters with rotary pistons. 2.
+MORO 1 OJ No C 65, 5.6.1970, p. 30. 2 OJ No C 131, 29.10.1970, p. 7. 3 OJ No L 202, 6.9.1971, p. 1.
+Operating pressure The operating pressure of a gas meter is the difference between the pressure of the gas at the inlet of the meter and the atmospheric pressure. 3.2.
+Reference pressure The reference pressure pr of a gas meter is the gas pressure to which the indicated volume of gas is related.
+Pressure absorption The pressure absorption of a gas meter is the difference between the pressures measured at the inlet and outlet of the meter during the flow of a gas. 5.
+In cases in which the last drum is figured in decimal multiples of a cubic metre, the index plate must be marked with either: (a) one or more fixed zero's as appropriate after the last drum ; or (b) the indication %quot%× 10, × 100, × 1000 etc. %quot% in such a way that the reading is always made in cubic metres. 5.1.2.
+The value of the scale divisions must be in the form 1 × 10n, 2 × 10n, or 5 × 10n m3, n being a whole positive or negative number or zero. 5.2.3.3.
+In cases in which the division is of the form 1 × 10n or 2 × 10n m3, all the lines representing multiples of 5, and in the case of a division of the form 5 × 10n m3, all the lines representing multiples of 2, must be distinguished by a greater length. 5.2.4.
+Diameters of drums and dials The diameters of drums must be at least 16 millimetres.
+The diameter of the graduated scales mentioned in Chapter I B 5.2.2.
+Meters having a cyclic volume less than the value given in the table of item 2.1 of this Chapter may be approved provided that the model satisfies the requirements of the endurance test mentioned in this connection in item 7.2.5 of this Chapter. 3.
+For meters G 1 76 to G 6 inclusive the test element is manufactured as indicated in item 5.2.2 of Chapter I.
+For meters G 10 to G 650 inclusive the test element is: - either manufactured as in item 5.2.2 of Chapter I; - or is detachable. 4.2.
+For meters of which the test element is manufactured as in item 5.2.2 of Chapter I B, the typical deviation for a series of at least thirty successive measurements, carried out at a flow of the order of 0 71 Qmax, and under the same conditions, of a volume of air specified below must exceed the values in the following table: %gt%PIC FILE= %quot%T0038186%quot%%gt% 5.
+The maximum permissible errors, positive or negative, are given in the following table: %gt%PIC FILE= %quot%T0038187%quot%%gt% 5.1.2.
+Special provision For meters for which the operating pressure exceeds 0 71 MN/m2 (1 bar) the provisions of item 6.2 of this Chapter regarding the mechanical pressure absorption apply, but the total pressure absorption mentioned in item 6.1 of this Chapter of these meters is not taken into consideration. 7.
+A derogation from this provision may be allowed in that these sample meters be placed at the disposal of the competent authority at a later date.
+The duration of the endurance test for meters of which the cyclic volume is equal to or greater than the values mentioned in the Table of item 2.1 of this Chapter shall be: 7.2.4.1.
+For meters of which the cyclic volume is less than the values specified in the table of item 2.1 of this Chapter, the duration of the endurance test must be of a duration of 2000 hrs and must be carried out on a greater number of meters than that specified in item 7.1 of this Chapter, according to the description of the meter and its general characteristics. 7.2.6.
+Accuracy tests A meter is considered to satisfy the requirements concerning maximum permissible errors if these requirements are met at the following flow rates: (a) at a flow rate between Qmin and 2 Qmin; (b) at a flow rate of the order of 1/5 Qmax; (c) at a flow rate of Qmax; (d) at a flow rate 0 750 Qmax for meters which the operating pressure is greater than 0 71 MN/m2 (1 bar).

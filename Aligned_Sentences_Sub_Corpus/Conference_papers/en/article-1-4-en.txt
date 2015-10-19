@@ -1,0 +1,2 @@
+Even if subsets of extracted rules have shown to be quite effective for predictions, it can be easily shown that highly confident or emerging rules are not individually robust.
+In figure 1, we compare the confidence (resp.

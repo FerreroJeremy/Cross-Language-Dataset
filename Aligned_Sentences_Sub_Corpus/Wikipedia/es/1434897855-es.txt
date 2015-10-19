@@ -1,0 +1,2 @@
+Las dimensiones de una matriz siempre se dan con el número de filas primero y el número de columnas después.
+Sin embargo, la convención del inicio de los índices i'' y ''j en 1 no es universal: algunos lenguajes de programación comienzan en cero, en cuál caso se tiene 0 ≤ i'' ≤ ''m − 1 y 0 ≤ j'' ≤ ''n − 1.Una matriz con una sola columna o una sola fila se denomina a menudo vector, y se interpreta como un elemento del espacio euclídeo.

@@ -1,0 +1,2 @@
+Abstract In many application domains, the choice of a proximity measure affect directly the result of classification, comparison or the structuring of a set of objects.
+Indeed, according to the notion of equivalence, like the one based on pre-ordering, some of the proximity measures are more or less equivalent.

@@ -1,0 +1,3 @@
+Les propriétés face aux contraintes Les propriétés[Bla01] sont des contraintes portant sur les catégories et qui spécifient les règles de bonne formation syntaxique et les règles de cohésion de la phrase.
+Il y a sept sortes de propriétés : constitution, noyau, unicité, exigence, exclusion, linéarité et dépendance détaillées en section 2.2.
+Par exemple, la contrainte de linéarité (ou précédence) peut être implémentée en utilisant une relation d’ordre sur les entiers.

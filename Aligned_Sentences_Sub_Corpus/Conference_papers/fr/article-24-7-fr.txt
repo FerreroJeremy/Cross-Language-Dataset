@@ -1,0 +1,3 @@
+Evaluation des résultats A notre connaissance, il n’existe pas de gold standard pour ce type d’expérience.
+A titre indicatif, nous avons évalué manuellement les 2351 relations proposées par notre système.
+Nous estimons que 2140 d’entre elles sont correctes, ce qui donne une précision de 91,03%.

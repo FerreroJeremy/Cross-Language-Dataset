@@ -1,0 +1,22 @@
+Article 2 This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+Done at Brussels, 21 October 2003.
+For the Commission Pedro Solbes Mira Member of the Commission (1) OJ L 165, 3.7.2003, p. 1.
+In countries with a four-year panel using a sample of addresses or households, all household members aged 14 and over in the initial sample shall be sample persons.
+Household identification number 1.
+In the cross-sectional component, the household fixed identification number (ID) is a sequential number. 2.
+In the longitudinal component, the household identification number (ID) is composed of the household number and the split number.
+If the new household is at a new address, the household number and split number of the household of the sample person who now has the lowest person number in the %quot%household register%quot% shall be used. 2.2.
+Personal identification number 1.
+In the cross-sectional and longitudinal components, the personal identification number is composed of the household ID and the person number. 2.
+In the longitudinal component, the person number for any new person in the household shall be constructed by adding 1 to the highest person number used, for all the years of the survey and the household ID. 3.
+For the longitudinal component, the household ID shall be the household identification number of the household where the person first appears in the panel. 4.
+INFORMATION TO BE COLLECTED 1.
+The household respondent shall be chosen according to the following priorities: - Priority 1: the person responsible for the accommodation. - Priority 2: a household member aged 16 or over, who is best placed to give the information. 2.
+For the second and following waves of the longitudinal component of EU-SILC, the household respondent shall be chosen according to the following list of priorities: - Priority 1: the household respondent in the last wave. - Priority 2: a %quot%sample person%quot% aged 16 or over, giving priority to the person responsible for the accommodation or best placed to give the information. - Priority 3: a %quot%non-sample person%quot% aged 16 or over. 5.
+The proxy rate shall be kept as limited as possible for the income personal variables and for any variables required for at least one household member aged 16 or more. 5.
+In the cross-sectional component and in the first year of each panel constituting the longitudinal component, controlled substitutions may be allowed only where the response rate falls below 60 % and one of the following situations arises: - address non-contacted because it cannot be located or is inaccessible, - address contacted but interview not completed because the household refuses to cooperate, the entire household is temporarily away or the household is unable to respond.
+A household shall not be substituted by another non-sample household at the same address. 6.
+By way of exception to paragraph 1, if the income variables are collected from registers the interval between the end of the income reference period and the time of interview for current variables shall be limited to 12 months. 3.
+For the longitudinal component, the collection or compilation of data, for a given unit (household or person), between successive waves shall be kept as close as possible to 12 months. 7.
+IMPUTATION PROCEDURES 7.1.
+Methods which take into account the correlation structure (or other characteristics of the joint distribution of the variables) shall be preferable to the marginal or univariate approach. (1) See page 1 of this Official Journal. (2) See page 34 of this Official Journal.

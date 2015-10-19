@@ -1,0 +1,3 @@
+Analyse linguistique du corpus d’étude La réalisation d’un résumeur automatique nécessite au préalable une analyse linguistique du corpus.
+Le but essentiel de cette analyse est le repérage des unités linguistiques de surface qui représentent des marqueurs linguistiques déclencheurs de recherche ainsi leurs marqueurs de validation correspondants.
+Afin d’illustrer les particularités de notre domaine d’étude, nous allons présenter les différentes étapes de notre étude effectuée sur un corpus d’articles de presse.

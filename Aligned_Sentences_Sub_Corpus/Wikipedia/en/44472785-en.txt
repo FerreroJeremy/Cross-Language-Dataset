@@ -1,0 +1,3 @@
+In mathematics, an element x'' of a ring ''R is called nilpotent if there exists some positive integer n'' such that ''xn = 0.ExamplesThis definition can be applied in particular to square matrices.
+The matrix A = \begin0&1&0\\ 0&0&1\\ 0&0&0\end is nilpotent because A3 = 0.
+Quantum Grav. 17:3703-3714,2000 .See alsoIdempotenceCategory:Ring theory Category:Zeroca:Nilpotent de:Nilpotenz es:Nilpotente fr:Nilpotent it:Nilpotente he:איבר נילפוטנטי hu:Nilpotens elem nl:Nilpotent pl:Element nilpotentny pt:Nilpotente ru:Нильпотентный элемент th:นิรพล zh-yue:冪零元 zh:幂零元

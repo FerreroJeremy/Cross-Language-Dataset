@@ -1,0 +1,2 @@
+Conclusion et perspectives Nous avons présenté dans cet article une nouvelle méthode pour différencier et caractériser le sens des mots à partir d’un réseau de cooccurrences lexicales.
+Cette méthode applique un algorithme de classification non supervisé, l’algorithme SNN, aux cooccurrents des mots dont on veut différencier les sens en se fondant sur les relations que ces cooccurrents entretiennent dans le réseau.

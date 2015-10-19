@@ -1,0 +1,2 @@
+It’s easy to demonstrate that each preview step decreases the criterion J.
+The dynamic hard clustering algorithm with relevance weight for each dissimilarity matrix sets an initial partition and alternates three steps until convergence, when the criterion J(P,, g) reaches a stationary value repre- senting a local minimum.

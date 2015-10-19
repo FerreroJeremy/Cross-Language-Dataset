@@ -1,0 +1,4 @@
+L'Hypertext Markup Language, généralement abrégé HTML, est le format de données conçu pour représenter les pages web.
+Il est souvent utilisé conjointement avec des langages de programmation (JavaScript) et des formats de présentation (feuilles de style en cascade).
+Il en est de même de tous les éléments dits « vides » et « remplacés »au sens de CSS 2.1 qui explicite la notion d’« élément remplacé » restée implicite en HTML.
+L’en-tête HTML peut comporter le rappel de ce jeu de caractères, qui devrait être identique, sauf erreur de réglage.

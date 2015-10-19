@@ -1,0 +1,3 @@
+Las direcciones de almacenamiento locales de las SPE se expresan como palabras de 32 bits.
+El EIB incluye una unidad de asignación que funciona como un conjunto de semáforos.
+Generando unos 1,05 GFLOPS (Giga Floating Point Operations Per Second) medidos por vatio, con un rendimiento máximo de aproximadamente 460 GFLOPS, es una de las plataformas de computación más eficientes en consumo hasta el día de hoy.

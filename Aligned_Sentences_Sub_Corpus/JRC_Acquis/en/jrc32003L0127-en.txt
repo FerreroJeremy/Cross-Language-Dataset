@@ -1,0 +1,54 @@
+Article 3 This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+Article 4 This Directive is addressed to the Member States.
+Done at Brussels, 23 December 2003.
+For the Commission Loyola De Palacio Vice-President (1) OJ L 138, 1.6.1999, p. 57. (2) OJ L 46, 17.2.1997, p. 1. (3) OJ L 281, 23.11.1995, p. 31.
+ANNEX %quot%ANNEX I PART I OF THE REGISTRATION CERTIFICATE(1) I.
+The characteristics of the paper document version are specified in Chapter II and those of the smart card version in Chapter III.
+The overall dimensions of the Registration Certificate shall not be greater than an A4 format (210 Ă&#x2014; 297 mm) or a folder of A4 format.
+The first page of Part I of the Registration Certificate shall contain: - the name of the Member State issuing Part I of the Registration Certificate, - the distinguishing mark of the Member State issuing Part I of the Registration Certificate, namely: B Belgium DK Denmark D Germany GR Greece E Spain F France IRL Ireland I Italy L Luxembourg NL Netherlands A Austria P Portugal FIN Finland S Sweden UK United Kingdom, - the name of the competent authority, - the words %quot%Part I of the Registration Certificate%quot% or, if the certificate consists of one part only, the words %quot%Registration Certificate%quot%, printed in large type in the language or languages of the Member States issuing the Registration Certificate; they shall also appear, after a suitable space, in small type in the other languages of the European Community, - the words %quot%European Community%quot%, printed in the language or languages of the Member State issuing Part I of the Registration Certificate, - the number of the document.
+Printed on the front and back of the card shall be at least the data specified in Chapters II.4 and II.5; these data shall be legible with the eye (minimum character height: 6 points) and printed on as follows. (Examples of possible lay-outs are presented in Figure 1 at the end of this section.) A.
+The material used for Part I of the Registration Certificate shall be made secure against forgery by using at least three of the following techniques: - microprinting, - guilloche printing*, - iridescent printing, - laser engraving, - ultraviolet fluorescent ink, - inks with viewing angle - dependent colour*, - inks with temperature - dependent colour*, - custom holograms*, - variable laser images, - optical variable images.
+The data from the letters A and B is stored in two corresponding files with transparent structure (see ISO/IEC 7816-4).
+Thereby card verifiable certificates according to ISO/IEC 7816-8 are exchanged before the authentication process.
+These certificates are signed by the national competent authorities and contain an authorisation object (certificate holder authorisation) according to ISO/IEC 7816-9 in order to encode role specific authorisation to the card.
+Electronic signatures and the certificates shall be readable without restriction.
+The following simplifications are allowed: - NAD Byte: not used (NAD should be set to %quot%00%quot%), - S-Block ABORT: not used, - S-Block VPP state error: not used.
+The cards shall be capable of operating correctly in the humidity range 10 % to 90 %.
+The access requirements are described in Chapter III.2.
+Table 1 %gt%TABLE%gt% III.11.
+Data structure The stored certificates are in the X.509v3 format according ISO/IEC 9594-8.
+The value fields are coded as ASCII character as defined by ISO/IEC 8824-1, the values %quot%C0%quot%-%quot%FF%quot% are defined by ISO/IEC 8859-1 (Latin1 character set), ISO/IEC 8859-7 (Greek character set) or ISO/IEC 8859-5 (Cyrillic character set).
+Unless otherwise stated, the data objects listed in Table 2 are mandatory.
+Table 3 %gt%TABLE%gt% Structure and format of the data according Chapter II.7 are specified by the Member States.
+Application selection The application %quot%Vehicle Registration%quot% shall be selectable by a SELECT DF (by name, see ISO/IEC 7816-4) with its application identifier (AID).
+Reading data from files The files corresponding to Chapter II, Letters A, B and D, shall be selectable by SELECT (see ISO/IEC 7816-4) with the command parameters P1 set to %quot%02%quot%, P2 set to %quot%04%quot% and the command data field containing the file identifier (see Chapter X, Table 1).
+These files shall be readable with READ BINARY (see ISO/IEC 7816-4) with an absent command data field and Le set to the length of the expected data, using a short Le.
+ANNEX II PART II OF THE REGISTRATION CERTIFICATE(1) I.
+The characteristics of the paper document version are specified in Chapter II and those of the smart card version in Chapter III.
+Specifications of Part II of the registration certificate in paper format II.1.
+The overall dimensions of the registration certificate shall not be greater than an A4 format (210 Ă&#x2014; 297 mm) or a folder of A4 format.
+Part II of the Registration Certificate shall also contain the following data, preceded by the corresponding harmonised Community codes: (A) registration number (B) date of the first registration of the vehicle (D) vehicle: (D.1) make, (D.2) type, - variant (if available) - version (if available) (D.3) commercial description(s) (E) vehicle identification number (K) type-approval number (if available) II.6.
+Member States may include additional information in Part II of the registration certificate; in particular, they may add between brackets to the identification codes, as laid down under points II.5 and II.6, additional national codes.
+Specifications of Part II of the Registration Certificate in smart card format (Alternative to the specimen in paper format described in Chapter II) III.1.
+Printed on the front and back of the card shall be at least the data specified in Chapters II.4 and II.5; these data shall be legible with the eye (minimum character height: 6 points) and printed on as follows. (Examples of possible lay-outs are presented in Figure 2 at the end of this section) A.
+The material used for Part II of the registration certificate shall be made secure against forgery by using at least three of the following techniques: - microprinting, - guilloche printing*, - iridescent printing, - laser engraving, - ultraviolet fluorescent ink, - inks with viewing angle - dependent colour*, - inks with temperature - dependent colour*, - custom holograms*, - variable laser images, - optical variable images.
+The data from the Letters A and B is stored in two corresponding files with transparent structure (see ISO/IEC 7816-4).
+Thereby Card Verifiable certificates according to ISO/IEC 7816-8 are exchanged before the authentication process.
+These certificates are signed by the national competent authorities and contain an authorisation object (certificate holder authorisation) according to ISO/IEC 7816-9 in order to encode role specific authorisation to the card.
+The cards shall store the following data: - electronic signature of registration data related to Letter A, - electronic signature of registration data related to Letter B.
+Supply voltage, programming voltage The card shall work with Vcc = 3V (+/0.3V) or with Vcc = 5V (+/0.5V).
+This value shall be at least %quot%80h%quot% (=128 bytes).
+Protocol parameter selection The support of protocol parameter selection (PPS) according to ISO/IEC 7816-3 is mandatory.
+Transmission protocol T = 1 The support of chaining is mandatory.
+The following simplifications are allowed: - NAD Byte: not used (NAD should be set to %quot%00%quot%), - S-Block ABORT: not used, - S-Block VPP state error: not used.
+The cards shall be capable of operating correctly in the humidity range 10 % to 90 %.
+The access requirements are described in Chapter III.2.
+Table 4 %gt%TABLE%gt% III.11.
+Data structure The stored certificates are in the X.509v3 format according ISO/IEC 9594-8.
+The value fields are coded as ASCII character as defined by ISO/IEC 8824-1, the values %quot%C0%quot%-%quot%FF%quot% are defined by ISO/IEC 8859-1 (Latin1 character set) or ISO/IEC 8859-7 (Greek character set) or ISO/IEC 8859-5 (Cyrillic character set).
+Table 2 lists the Tags identifying the data objects corresponding to the registration data of Chapter II.4 and II.5 together with additional data from Chapter III.1.
+Unless otherwise stated, the data objects listed in Table 2 are mandatory.
+Table 6 %gt%TABLE%gt% Structure and format of the data according Chapter II.7 are specified by the Member States.
+Application selection The Application %quot%Vehicle Registration%quot% shall be selectable by a SELECT DF (by name, see ISO/IEC 7816-4) with its Application identifier (AID).
+Reading data from files The files corresponding to Chapter II, letters A, B and D, shall be selectable by SELECT (see ISO/IEC 7816-4) with the command parameters P1 set to %quot%02%quot%, P2 set to %quot%04%quot% and the command data field containing the file identifier (see Chapter X, Table 1).
+These files shall be readable with READ BINARY (see ISO/IEC 7816-4) with an absent command data field and Le set to the length of the expected data, using a short Le.

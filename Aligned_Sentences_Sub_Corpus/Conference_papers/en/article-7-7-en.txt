@@ -1,0 +1,3 @@
+The Preprocessing In the case study, the preprocessing consists in the application of some Natural Language Processing (NLP) tools to the rough text in order to segment it into sentences and annotate its entities.
+We noticed that the segmentation is often neglected by the annotation systems in spite of its importance compared to the annotation quality.
+We present, thereafter, the segmentation and the named entity recognition.

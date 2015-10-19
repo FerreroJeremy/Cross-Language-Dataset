@@ -1,0 +1,2 @@
+Estas definiciones pueden utilizarse sin tener en cuenta la implementación que se hará de ellos.En C++ los métodos de las clases abstractas se definen como funciones virtuales puras.
+No todos los operadores de C++ son factibles de sobrecargar, y, entre aquellos que pueden ser sobrecargados, se deben cumplir condiciones especiales.

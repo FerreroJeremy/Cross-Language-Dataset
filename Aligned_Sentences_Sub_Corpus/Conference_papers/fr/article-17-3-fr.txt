@@ -1,0 +1,3 @@
+Dans le cadre du projet Papillon, nous avons défini des stratégies pour peupler un dictionnaire pivot de liens interlingues (des acceptions) à partir d’une base vectorielle monolingue.
+L’architecture générale a été décrite dans (Sérasset and Mangeot, 2001) et (Mangeot, 2001).
+Un dictionnaire pivot (que nous nommerons aussi dictionnaire par acceptions) peut être utilisé avantageusement pour la désambiguïsation et le transfert lexical.

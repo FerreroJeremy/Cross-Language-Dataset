@@ -1,0 +1,1 @@
+Un transducteur séquentiel est un transducteur dans lequel tous les états sont finals, et où il est impossible d’avoir deux arcs sortant d’un même état ayant le même symbole d’entrée.

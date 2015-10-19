@@ -1,0 +1,58 @@
+Article 2 This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.
+Done at Brussels, 12 April 1999.
+For the Commission Franz FISCHLER Member of the Commission (1) OJ L 84, 27.3.1987, p. 1. (2) OJ L 210, 28.7.1998, p. 10. (3) OJ L 272, 3.10.1990, p. 1. (4) OJ L 117, 7.5.1997, p. 10.
+The oxaloacetate formed is split into pyruvate and carbon dioxide. %gt%REFERENCE TO A GRAPHIC%gt% The quantity of NADH formed is proportional to the concentration of D-malic acid and is measured at a wavelength of 334, 340 or 365 nm. 2.
+REAGENTS Test combination for approximately 30 determinations: (a) Bottle 1 with about 30 ml of solution consisting of Hepes buffer [N-(2-hydroxyethyl)piperazine-N'-2-ethanesulfonic acid] pH = 9,0 and stabilisers; (b) Bottle 2 with about 210 mg of NAD lyophilisate; (c) Three bottles 3 with D-MDH lyophilisate, about 8 U each.
+Use content of bottle 1 undiluted.
+Dissolve content of bottle 2 in 4 ml double-distilled water. 3.
+Dissolve content of one of bottles 3 in 0,6 ml double-distilled water.
+Stability of the solutions The content of bottle 1 is stable for at least one year if stored at +4 °C; solution 2 is stable for three weeks if stored at +4 °C, and for two months if stored at - 20 °C; solution 3 is stable for five days if stored at +4 °C. 3.
+Micropipettes for pipetting volumes in the range 0,01 to 2 ml. 4.
+The amount of D-malate in the cuvette should be between 2 and 50 μg.
+PROCEDURE With the spectrophotometer adjusted to a wavelength of 340 nm, determine the absorbance using the 1 cm cuvettes, either using air to set zero absorbance (no cuvette in the optical path) or using water.
+Add: %gt%TABLE%gt% Mix; wait until the reaction is completed (about 20 minutes) and measure the absorbances of the reference and test solutions (A2).
+Calculate the absorbance difference (A2 - A1) for the reference (ΔΑT) and test (ΔΑE) solutions.
+EXPRESSION OF THE RESULTS The general formula for calculating the concentration in mg/l is: %gt%REFERENCE TO A GRAPHIC%gt% where: V= volume of test solution in ml (2,95 ml) ν= volume of the sample in ml (0,1 ml) PM= molecular mass of the substance to be determined (for D-malic acid, PM = 134,09) d= optical path of the cuvette in cm (1 cm) ε= absorption coefficient of NADH: at 340 nm= 6,3 (1 mmol-1 cm-1) at 365 nm= 3,4 (1 mmol-1 cm-1) at 334 nm= 6,18 (1 mmol-1 cm-1).
+The D-malic acid concentration is given in milligrams per litre (mg/l), with no decimal places. 7.
+The values derived from the interlaboratory trial may not be applicable to ranges of analyte concentration and matrices other than those in Appendix B. 7.1.
+Repeatability The absolute difference between two individual results obtained on identical matter submitted to a trial by an operator using the same apparatus, within the shortest time interval, will not exceed repeatability value r in more than 5 % of cases.
+Reproducibility The absolute difference between two individual results obtained on identical matter submitted to a trial in two different laboratories will not exceed reproducibility value R in more than 5 % of cases.
+COMMENTS In view of the degree of accuracy of this method, values of D-malic acid below 50 mg/l should be confirmed if necessary by another analytical method using another measuring principle such as that of Przyborski et al. (Mitteilungen Klosterneuburg 43, 1993; 215-218. 1993).
+The wine sample in the cuvette should not exceed 0,1 ml, to avoid possible inhibition of enzymatic activity by polyphenols.
+With a normal reaction, absorbance reaches a constant value after a certain time, generally 10 to 20 minutes, depending on the speed of the specific enzymatic reaction.
+The substrate concentration is calculated on the basis of the difference in absorbance extrapolated at that time (Af - Ai).
+Water bath thermostatically controlled at 20 °C 2.4.
+Spectrophotometer allowing absorbance to be measured at wavelength of 590 nm 2.5.
+Glass cells or single-use cells with optical paths of 20 mm 3.
+Chloramine-T solution (C7H7ClNNa O2S, 3H2O) 3 % (m/v) 3.3.
+Solution of 1,3-dimethyl-barbituric acid: dissolve 3,658 g 1,3-dimethyl-barbituric acid (C6H8N2O3) in 15 ml pyridine and 3 ml hydrochloric acid (ρ20=1,19 g/ml) and add 50 ml distilled water 3.4.
+Potassium cyanide (KCN) 3.5.
+Potassium iodide (KI) solution at 10 % (m/v) 3.6.
+Silver nitrate solution (AgNO3), 0,1 M 4.
+Distillation Put 25 ml wine, 50 ml distilled water, 1 ml phosphoric acid (3.1) and a few glass beads into the 500-ml flask (2.2).
+Collect 30 to 35 ml of distillate (or around 45 ml liquid in total) in the calibrated flask.
+Measurement Put 25 ml distillate in a 50-ml conical flask with a ground glass stopper, add 1 ml chloramine-T solution (3.2) and seal with the stopper.
+After exactly 60 seconds add 3 ml of 1,3-dimethyl-barbituric acid solution (3.3), seal with stopper and leave for 10 minutes.
+Then measure absorbance against a control (25 ml distilled water instead of 25 ml distillate) at wavelength of 590 nm in cells with optical paths of 20 mm. 5.
+Argentometric titration of the potassium cyanide Dissolve around 0,2 g KCN (3.4), carefully measured, in 100 ml distilled water in a 300-ml calibrated flask.
+Standard curve 5.2.1.
+Preparation of standard solutions Having established the concentration of the KCN according to the procedure set out in 5.1, prepare a standard solution containing 30 ml/l hydrocyanic acid (30 ml HCN [cong ] 72,3 ml KCN).
+The solutions prepared contain 30 μg, 60 μg, 90 μg, 120 μg and 150 μg of hydrocyanic acid per litre respectively. 5.2.2.
+EXPRESSION OF RESULTS The hydrocyanic acid is expressed in micrograms per litre (μg/l) with no decimal places. 6.1.
+Repeatability (r) and reproducibility (R) White wine= r= 3,1 μg/l or approximately 6 %· xi R= 12 μg/l or approximately 25 %· xi Red wine= r= 6,4 μg/l or approximately 8 %· xi R= 23 μg/l or approximately 29 %· xi xi= average concentration of HCN in the wine xi= 48,4 μg/l for white wine xi= 80,5 μg/l for red wine.%quot% ANNEX III 44.
+Principle Propyl carbamate is added to a sample as an internal standard, the solution is diluted with water and placed in a 50 ml solid phase extraction column.
+Gas chromatogram/spectrometer (GC/MS) interface: transfer line 220 °C.
+Prepare 100 ng EC/ml of test sample (g).
+Analyse 5,00 ml of the test sample as described in D(a), E and F.
+To obtain the corrected calibration curve, prepare standard solutions as described in (f) by using 40 % ethanol instead of dichloromethane.
+Analyse 1 ml of the standard calibration solution as described in D, E and F.
+To each beaker, add l ml of internal standard PC solution C(e)(3) and water, to obtain a total volume of 40 ml (or 40 g).
+Rinse the beaker with 10 ml of water and transfer the rinsing water to the column.
+Rinse the flask with 1 ml of dichloromethane and transfer the rinsing liquid to the tube.
+Concentrate the sample to 1 ml under a weak nitrogen stream.
+GC/MS analysis (a) Calibration curve Inject 1 μl of each standard calibration solution C(f) into the GC/MS.
+Establish the concentration of EC (ng/ml) in the extract by using the internal standard calibration curve.
+These responses are features of the main fragments (M - C2H2)+ and (M - CH3)+ and molecular ion (M)+ respectively.
+The presence of EC is confirmed if the relative ratios of these ions are within 20 % of the ratios for an EC standard.
+The extract may need to be further concentrated in order to obtain a sufficient response for the m/z 89 ion.
+Performance of the method for the determination of ethyl carbamate EC in alcoholic beverages by GC/MS %gt%TABLE%gt% (1) For certain particularly rich wines, a 50 m capillary column may be desirable. (2) For certain particularly rich wines, a temperature programme of 2 °C/minute may be desirable.

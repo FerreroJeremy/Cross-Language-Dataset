@@ -1,0 +1,18 @@
+Article 2 Member States shall apply this format for the data concerning the 1996 reference year and subsequent years.
+Article 3 This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.
+Done at Brussels, 28 May 1999.
+For the Commission Yves-Thibault de SILGUY Member of the Commission (1) OJ L 14, 17.1.1997, p. 1. (2) OJ L 52, 21.2.1998, p. 1.
+ANNEX TECHNICAL FORMAT 1.
+In order to be precise about the nature of the data, it is necessary to distinguish the following special cases: - data equal to zero (coded "0"): real values of zero only, - confidential data (coded "x"): indicates data which the Member State does not transmit to Eurostat because the data is confidential, - missing data (coded "m"): this is data which is currently missing but the Member State intends to supply when available, - data not available: this is data which is not collected in a Member State.
+This is why it is important to distinguish data which is really missing by supplying a record (one per missing item) in which the data value is coded as "m", and data which is really equal to zero by supplying the corresponding records in which the data value is set to 0. 2.
+Measurement &gt;TABLE&gt; 3.6.
+Unit &gt;TABLE&gt; 3.7.
+Three variables are optional. &gt;TABLE&gt; 4.
+Examples of records Example 1 &gt;TABLE&gt; Belgium declares in the series 5A - annual enterprise statistics - for the reference year 1996, in NACE Rev.1 class 66.03: 95 non-life insurance enterprises.
+The data is non confidential and in List A. 5A; 1996; BE; 6603; NBR; UNIT; 11110; 2;;;; 95;;;; A Example 2 &gt;TABLE&gt; Denmark declares in the series 5B - annual enterprise statistics broken down by legal status - for the reference year 1996, in NACE Rev.1 class 66.01: 49 life insurance enterprises which are incorporated enterprises limited by shares.
+The data is non confidential and in List A. 5B; 1996; DK; 6601; NBR; UNIT; 11111; 1;;; LS01; 49;;;; A Example 3 &gt;TABLE&gt; Portugal declares in the series 5C - annual enterprise statistics broken down by country of residence of the parent enterprise - for the reference year 1996, in NACE Rev.1 class 66.01: 47 life insurance enterprises whose parent enterprises are situated in other countries.
+The data is non confidential and in list A. 5C; 1996; PT; 6601; NBR; UNIT; 11115; 1; RE02;;; 47;;;; A Example 4 &gt;TABLE&gt; Finland declares in the series 5D - annual enterprise statistics broken down by size classes - for the reference year 1996, in NACE Rev.1 class 66.03: 7 non-life insurance enterprises whose turnover is falling between EUR 251 and 500 million.
+The data is non confidential and in List A. 5D; 1996; FI; 6603; NBR; UNIT; 11112; 2; SC14;;; 7;;;; A Example 5 &gt;TABLE&gt; Spain declares in the series 5E - annual enterprise statistics broken down by product - for the reference year 1996, in NACE Rev.1 class 66.01: ESP 1410692 million of gross direct premiums written in non-linked insurance services by life insurance enterprises.
+This data is non confidential and in List A. 5F; 1996; CH; 6601; NC; MIO; 34311; 1;; 66021; NLD; 302;;;; A &gt;TABLE&gt; Spain declares in the series 5F - geographical breakdown of annual enterprise statistics - for the reference year 2000, in NACE Rev.1 class 66.04: ESP million missing data of gross reinsurance premiums accepted, written by specialist reinsurance enterprises in other Member States.
+This data is non confidential ans in List B. 5F; 2000; ES; 6604; NC; MIO; 34120; 4;;; OMS; M;;;; B 5.
+Upon written request Eurostat can provide Member States with electronic questionnaires using Microsoft Excel.

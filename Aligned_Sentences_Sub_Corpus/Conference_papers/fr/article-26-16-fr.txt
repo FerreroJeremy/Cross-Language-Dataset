@@ -1,0 +1,2 @@
+Lorsque le configurateur utilisé est lui-même orienté objet [Mai98], de telles relations sont implémentées par des variables ensemblistes.
+Cette relation entre catégories peut être adéquatement décrite en utilisant une relation dans le modèle objet correspondant.

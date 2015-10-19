@@ -1,0 +1,4 @@
+in [Le Bras et al., 2010], the authors suggest a new notion of robustness dependent on an interestingness measure µ and a threshold µmin.
+Starting from the observation that a rule can be characterized by a R3-vector of three values of its contingency table (e.g.
+the frequency of the body, the frequency of the target and the number of counterexamples; see figure 2), the authors define the robustness of rule p as the normalized Euclidean distance rob(p,µmin) = ||p -p*||2/v3 between p and a limit rule p* (i.e.
+a rule minimizing g(p') = ||p' -pmin||2 where pmin is such that µ(pmin) = µmin).

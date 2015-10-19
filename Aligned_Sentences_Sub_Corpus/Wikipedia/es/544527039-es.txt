@@ -1,0 +1,2 @@
+En química, Simplified Molecular Input Line Entry Specification (especificación de ingreso lineal molecular simplificado o SMILES es una especificación para describir sin ambigüedades la estructura de una molécula usando cadenas ASCII cortas.
+El benceno, la piridina y el furano pueden ser representados por las cadenas SMILES c1ccccc1, n1ccccc1 y o1cccc1, respectivamente.

@@ -1,0 +1,2 @@
+Acrobat puede configurarse para cerrar un documento PDF al recompilarlo con LaTeX.
+Estas operaciones pueden llevarse a cabo mediante llamadas Dynamic Data Exchange.Las instrucciones para configurar TeXnicCenter para trabajar con Adobe Acrobat Reader/Professional 7.x se encuentran en http://texnik.dante.de/cgi-bin/mainFAQ.cgi?file=gui/TeXnikCenter.

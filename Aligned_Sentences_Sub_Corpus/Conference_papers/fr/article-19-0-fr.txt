@@ -1,0 +1,4 @@
+Les réseaux lexico-sémantiques de type WordNet ont fait l’objet de nombreuses critiques concernant la nature des sens qu’ils distinguent ainsi que la façon dont ils caractérisent ces distinctions de sens.
+Cet article présente une solution possible à ces limites, solution consistant à définir les sens des mots à partir de leur usage.
+Plus précisément, il propose de différencier les sens d’un mot à partir d’un réseau de cooccurrences lexicales construit sur la base d’un large corpus.
+Cette méthode a été testée à la fois pour le français et pour l’anglais et a fait l’objet dans ce dernier cas d’une première évaluation par comparaison avec WordNet.

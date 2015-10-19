@@ -1,0 +1,9 @@
+L'obligation de notification à la Commission s'applique au moins aux produits mis en libre pratique dans les marchés et ports énumérés dans le tableau 3 de l'annexe. 3.
+Article 2 Le règlement (CE) n° 2211/94 est abrogé.
+Article 3 Le présent règlement entre en vigueur le 1er janvier 2003.
+Fait à Bruxelles, le 20 décembre 2002.
+Par la Commission Franz Fischler Membre de la Commission (1) JO L 17 du 21.2.2000, p. 22. (2) JO L 238 du 13.9.1994, p. 1. (3) JO L 340 du 31.12.1999, p. 51.
+Format du message 2.1.
+Le message se présente comme suit: %amp%lt; TTL %amp%gt;MK-IMPORT %amp%lt; RMS %amp%gt;C(3) %amp%lt; DSE %amp%gt;YYYYMMDD; %amp%lt; MTYP %amp%gt;C(19); %amp%lt; LOT %amp%gt;C(16); %amp%lt; MON %amp%gt;C(3); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); [...] 2.2.
+Format FIDES II Pour les administrations des États membres qui utilisent pleinement FIDES II, le format suivant sera utilisé: %amp%lt; FIDES2 %amp%gt; %amp%lt; HEAD %amp%gt; %amp%lt; REQUEST.NAME %amp%gt;MK-IMPORT %amp%lt; REQUEST.COUNTRY.ISO_A3 %amp%gt;C(3) %amp%lt; /HEAD %amp%gt; %amp%lt; BODY %amp%gt; %amp%lt; DSE %amp%gt;YYYYMMDD; %amp%lt; MTYP %amp%gt;C(19); %amp%lt; LOT %amp%gt;C(16); %amp%lt; MON %amp%gt;C(3); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); [...] %amp%lt; /BODY %amp%gt; %amp%lt; /FIDES2 3.
+Codes Tableau 1 Codes des États membres %gt%TABLE%gt% Tableau 2 Codes des monnaies %gt%TABLE%gt% Tableau 3 Ports d'entrée %gt%TABLE%gt%

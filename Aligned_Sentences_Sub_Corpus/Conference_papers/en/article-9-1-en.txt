@@ -1,0 +1,3 @@
+Introduction Our aim is to propose a generic formalism as simple as possible but powerful enough to write real grammars for natural language and to handle complex linguistic structures.
+The formalism we propose can strongly simulate most rule-based formalisms used in linguistics.1 Language utterances are both strongly structured and compositional and the structure of a complex utterance can be obtained by combining elementary structures associated to the elementary units of language.
+The most simple way to combine two structures A and B is unification, that is, to build a new structure C by partially superimposing A and B and identifying a part of the objects of A with those of B.

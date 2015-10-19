@@ -1,0 +1,2 @@
+Si une certaine pertinence est au-dessus d’un seuil, ils créent un lien sémantique qui peut être utilisé par d’autres agents chargés par exemple de la désambiguïsation ou du transfert lexical.
+Les agents vérifiant l’intégrité de la base cherchent les incohérences de la base et en avertissent les lexicographes le cas échéant.

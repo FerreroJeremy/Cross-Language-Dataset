@@ -1,0 +1,4 @@
+This work is at the interface of speech recognition and analysis to IF modules.
+More precisely, the speech recognition module was adapted to be able to deliver a chain partially or completely analyzed into IF.
+This was done by using a class-based statistical language model for which classes directly correspond to IF entries.
+Section 3 presents some preliminary experimental results obtained with this methodology while section 4 concludes this work.

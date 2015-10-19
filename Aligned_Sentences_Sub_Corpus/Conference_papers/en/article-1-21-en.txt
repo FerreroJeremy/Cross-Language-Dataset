@@ -1,0 +1,5 @@
+In [Siebes et al., 2006], the authors develop a MDL-based pattern mining approach.
+The authors look for itemsets that provides a good compression of the data.
+The link between probability and codes allow them to rewrite the code length of an item set I as -log(P(I)).
+In [van Leeuwen et al., 2006], an extension for classification purpose is suggested.
+The two main differences with the MODL approach are : (i) the use of the MODL hierarchical prior implies a different way of coding information ; (ii) in [van Leeuwen et al., 2006], authors look for a set of patterns to compress the data whereas our MODL criterion is defined for one rule.

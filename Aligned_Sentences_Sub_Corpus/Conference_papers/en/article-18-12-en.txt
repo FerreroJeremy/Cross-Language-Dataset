@@ -1,0 +1,4 @@
+With Extended WordNet, [7] proposes to disambiguate definitions of WordNet as a semi-automatic way.
+The idea is for each definition to annot each word with the number of the meaning used.
+One can then compare two synsets and evaluate their similarity.
+We will see that we use this information to manufacture the conceptual vectors of this experiment.

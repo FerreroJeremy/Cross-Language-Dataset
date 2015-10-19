@@ -1,0 +1,14 @@
+Artículo 2 Los contadores de agua fría que podrán llevar las marcas y signos CEE se describen en el Anexo de la presente Directiva .
+Artículo 5 Los destinatarios de la presente Directiva serán los Estados miembros .
+Caudal nominal : Q n El caudal nominal Q n es igual a la mitad del caudal máximo Q máx .
+Al caudal nominal Q n , el contador deberá poder funcionar en régimen normal de uso , es decir , de manera permanente e intermitente , sin sobrepasar los errores máximos tolerados . 1.5 .
+Errores máximos tolerados El error máximo tolerado en la zona inferior comprendida entre Q mín inclusive y Q t exclusive será de ± 5 % .
+El error máximo tolerado en la zona superior comprendida entre Q t inclusive y Q máx inclusive será de ± 2 % . 2.2 .
+El valor mínimo de esta presión será de 10 bares . 3.4 .
+Al lado de cada escala se indicarán las designaciones × 1 000 - × 100 - × 10 - × 1 - × 0,1 - × 0,01 - × 0,001 .
+El intervalo de comprobación deberá adoptar la forma 1 × 10n , 2 × 10n ó 5 × 10n .
+Inscripciones de identificación Todo contador llevará obligatoriamente , de manera visible e indeleble , agrupadas o distribuidas en la caja , el cuadrante del dispositivo indicador o la placa descriptiva , las indicaciones siguientes : a ) el nombre o la razón social del fabricante o su marca de fábrica ; b ) la clase metrológica y el caudal nominal Qn en metros cúbicos por hora ; c ) el año de fabricación y el número individual de fabricación ; d ) una o dos flechas que indiquen el sentido del flujo ; e ) el signo de aprobación CEE de modelo ; f ) la presión máxima de servicio en bares , si pudiere ser superior a 10 bares ; g ) la letra V o H cuando el contador sólo pueda funcionar correctamente en posición vertical ( V ) o en posición horizontal ( H ) . 4.2 .
+La incertidumbre máxima de precisión relativa de la instalación será del 5 % en la medición de la presión y del 2,5 % en la medición de la pérdida de presión .
+La variación relativa del valor de los caudales , durante cada prueba , no deberá sobrepasar el 2,5 % entre Q mín y Q t y el 5 % entre Q t y Q máx .
+Condiciones de la aprobación CEE de modelo Se aprobará el modelo de contador de agua : a ) cuando cumpla las prescripciones administrativas , técnicas y metrológicas de la Directiva y de su Anexo ; b ) cuando las pruebas 1 , 2 y 3 previstas en el número 5.2.4 dejen patente que el contador cumple las características metrológicas y tecnológicas de las partes II y III del presente Anexo , y c ) cuando , después de cada prueba del programa de desgaste acelerado : 1 .
+el contador registre un error máximo de ± 6 % entre Q mín y Q t y de ± 2,5 % entre Q t y Q máx .

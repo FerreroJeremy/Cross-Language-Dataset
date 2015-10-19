@@ -1,0 +1,2 @@
+Larry Wall wanted to give the language a short name with positive connotations; he claims that he considered (and rejected) every three- and four-letter word in the dictionary.
+The regular expression engine uses a backtracking algorithm, extending its capabilities from simple pattern matching to string capture and substitution.

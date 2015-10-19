@@ -1,0 +1,2 @@
+Afin de simuler la présence de bruit de classe dans les données breast-w, nous ajoutons de manière uniforme du bruit à l’attribut classe (changement de classe) en utilisant la fonction AddNoise de WEKA (Witten et Frank, 2005).
+Nous utilisons deux niveaux de bruit : moyen (20%) et fort (50%).

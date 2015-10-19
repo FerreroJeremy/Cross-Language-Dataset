@@ -1,0 +1,22 @@
+Artículo 2 El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea.
+Hecho en Bruselas, el 21 de octubre de 2003.
+Por la Comisión Pedro Solbes Mira Miembro de la Comisión (1) DO L 165 de 3.7.2003, p. 1.
+En países con un panel de cuatro años que utilice una muestra de direcciones u hogares, todos los miembros del hogar que tengan 14 años o más en la muestra inicial serán personas panel.
+Número de identificación del hogar 1.
+En el componente transversal, el número de identificación fijo del hogar (ID) es un número secuencial. 2.
+En el componente longitudinal, el número de identificación del hogar (ID) se compone del número del hogar y del número de rama.
+Si el nuevo hogar está en una nueva dirección, se utilizará el número del hogar y el número de rama del hogar de la persona de la muestra que tiene ahora el número personal más bajo en %quot%el registro de hogares%quot%. 2.2.
+Número de identificación personal 1.
+En los componentes transversal y longitudinal, el número de identificación personal se compone del ID del hogar y del número personal. 2.
+En el componente longitudinal, el número personal para cualquier nuevo miembro del hogar se obtendrá añadiendo un 1 al número personal más alto utilizado para todos los años de la encuesta y el ID del hogar. 3.
+Para el componente longitudinal, el ID del hogar será %quot%el número de identificación del hogar%quot% del hogar en el que la persona aparece por primera vez en el panel. 4.
+INFORMACIÓN RECOPILADA 1.
+El informante del hogar se elegirá de acuerdo con las siguientes prioridades: - Prioridad 1): la persona responsable de la vivienda. - Prioridad 2): un miembro del hogar de 16 años o más que sea el más apropiado para facilitar la información. 2.
+Para el segundo y siguientes ciclos del componente longitudinal de EU-SILC, se elegirá al informante del hogar de acuerdo con la siguiente lista de prioridades: - Prioridad 1): el informante en el ciclo anterior. - Prioridad 2): una %quot%persona panel%quot% de 16 años o más, dando prioridad a la persona responsable de la vivienda o que sea el más apropiado para facilitar la información. - Prioridad 3): una %quot%persona no panel%quot% de 16 años o más. 5.
+La tasa de entrevista a través de otro miembro del hogar (proxy) se mantendrá lo más baja posible para las variables de la renta personales y para toda variable requerida para al menos un miembro del hogar de 16 años o más. 5.
+En el componente transversal y durante el primer año de cada panel del componente longitudinal, se pueden permitir sustituciones controladas sólo cuando la tasa de respuesta no supere el 60 % y se presente una de las siguientes situaciones: - no se ha contactado la dirección porque no se puede localizar o es inaccesible, o - se ha contactado la dirección, pero no se ha realizado la entrevista porque el hogar no quiere colaborar, todo el hogar está temporalmente ausente, o el hogar no puede responder.
+No se sustituirá un hogar por otro que no forme parte de la muestra que resida en la misma dirección. 6.
+Sin perjuicio de lo dispuesto en el apartado 1, si las variables de renta se recopilan a partir de registros, el intervalo entre el final del período de referencia de la renta y el momento de la entrevista para las variables actuales se limitará a 12 meses. 3.
+Para el componente longitudinal, el intervalo entre la recopilación o elaboración de los datos para una determinada unidad (hogar o persona) se mantendrá lo más aproximado que sea posible a 12 meses entre un ciclo y el siguiente. 7.
+PROCEDIMIENTOS DE IMPUTACIÓN 7.1.
+Los métodos que tengan en cuenta la estructura de las correlaciones (u otras características de la distribución conjunta de las variables) serán preferibles al enfoque marginal o univariante. (1) Véase la página 1 del presente Diario Oficial. (2) Véase la página 34 del presente Diario Oficial.

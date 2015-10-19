@@ -1,0 +1,45 @@
+Article 4 This Directive is addressed to the Member States.
+Suspension travel %quot%Suspension travel%quot% means the vertical distance between the highest position and the position at a given moment of a point situated on the seat surface 200 mm in front of the seat reference point in the median longitudinal plane.%quot% Item 10 : The English version shall remain unchanged.
+Item 13 shall be deleted.
+Item 17 shall become Item 16 and shall be replaced by the following: %quot%16.
+Category A tractor %quot%Category A tractor%quot% means a tractor which can be assigned to a given vibration class by reason of similar design features.%quot% Items 17.1 and 17.2 shall become Items 16.1 and 16.2 respectively.
+Item 18 shall be deleted, together with its sub-items.
+Item 19 shall become Item 17 and shall be replaced by the following: %quot%17.
+Category B tractor %quot%Category B tractor%quot% means a tractor which cannot be assigned to a vibration class in Category A.%quot% Item 20 shall become Item 18 and its sub-items shall become sub-Items 18.1, 18.2, 18.3 and 18.4.
+The seat must be adjustable in the longitudinal direction over a minimum distance of: - 150 mm for tractors with a minimum rear-wheel track width of more than 1 150 mm, - 60 mm for tractors with a minimum rear-wheel track width of 1 150 mm or less.%quot% Item 2.4.2 : The English version only shall be replaced by the following: %quot%2.4.2.
+The seat must be adjustable in the vertical direction over a minimum distance of: - 60 mm for tractors with a minimum rear-wheel track width of more than 1 150 mm, - 30 mm for tractors with a minimum rear-wheel track width of 1 150 mm or less.%quot% Item 2.5.1 shall be replaced by the following: %quot%2.5.1.
+These calculations are not necessary in the case of seats that cannot be manually adjusted to the driver's mass.%quot% Item 2.5.1.2 : The second sentence shall be replaced by the following: %quot%The measuring error for the suspension travel shall not exceed ± 1 mm.%quot% Item 2.5.1.3 shall be replaced by the following: %quot%2.5.1.3.
+The load graduations at which the suspension travel is measured must not exceed 100 N ; at least eight measurement points must be plotted at approximately equal intervals in the suspension travel.
+The point taken as the maximum load should be either that at which no further suspension travel can be measured, or a load of 1 500 N.
+After each application or removal of the load, the suspension travel must be measured 200 mm in front of the seat reference point in the median longitudinal plane of the seat surface.
+In the case of seats with a mass adjustment scale, the characteristic curves representing the deflection of the suspension system are plotted at mass adjustments for drivers having a mass of 50 and 120 kg.
+Item 2.5.1.7 shall be replaced by the following: %quot%2.5.1.7.
+To determine the limits of the adjustment range as a function of the driver's mass, the vertical forces determined in accordance with Item 2.5.1.6 for points A and B (see Appendix 2 to this Annex) must be multiplied by the scale factor 0,13 kg/N%quot%.
+Determination of the vertical vibration characteristics%quot% Item 2.5.3.1.1 shall be replaced by the following: %quot%2.5.3.1.1.
+The set values to be used are either those specified in Appendices 4 and 5 to Annex II for the class of tractor in question or the double-integrated acceleration signals recorded at the seat attachment of a Category B tractor moving at a speed of 12 ± 0,5 km/h on a standard roadway as defined in Item 2.5.3.2.1.
+More values than the 700 laid down in Appendices 4 and 5 to Annex II may be used if these values were calculated, for example, with a cubic Spline function from the original 700 values.%quot% Item 2.5.3.1.3 shall be replaced by the following: %quot%2.5.3.1.3.
+If the platform is carried on an oscillating arm, the dimension R must be not less than 2 000 mm (see Appendix 6).
+The magnitude of the vibration ratio at frequencies between 0,5 and 5,0 Hz shall be within the range 1,00 ± 0,05, measured at intervals not exceeding 0,5 Hz.
+With regard to the roadway, the elevation is defined at intervals of 16 cm along each strip.
+The length of the standard roadway shall be 100 m.
+The measurements must begin as soon as the axis of the rear axle of the tractor is perpendicular to point D = 0 on the roadway, and end as soon as the axis of the front axle of the tractor is perpendicular to point D = 100 of the test roadway (see the table in Appendix 3 to this Annex).%quot% Item 2.5.3.2.2 shall be replaced by the following: %quot%2.5.3.2.2.
+Measurements shall be taken at a speed of 12 ± 0,5 km/h.
+The speed of 12 km/h must be reached after a run-up track has been traversed.
+Driver's mass The tests must be carried out with two drivers : one with a total mass of 59 ± 1 kg, of which not more than 5 kg may be carried in a weighting belt around the body ; the other with a mass of 98 ± 5 kg with a maximum mass of 8 kg in the weighting belt.%quot% Item 2.5.3.3.2 shall be replaced by the following: %quot%2.5.3.3.2.
+Position of the accelerometer To measure the vibrations transmitted to the driver, an accelerometer is fixed on a flat plate with a diameter of 250 ± 50 mm, the central part of which must be rigid up to a diameter of 75 mm and must include a rigid device to protect the accelerometer.
+To measure the vibrations at the seat attachment, an accelerometer must be fixed near to this attachment at a point not more than 100 mm from the median longitudinal plane of the tractor and not outside the vertical projection of the seat surface on the tractor.%quot% Item 2.5.3.3.3 : In the English version only, the symbol %quot%Hz%quot% shall be inserted after the figure %quot%80%quot% to indicate the unit of measurement.
+The last sentence shall read as follows: %quot%The inaccuracy of the entire system for measuring the rms value of the acceleration must not exceed ± 5 % of the measured value.%quot% Item 2.5.3.3.7.1 shall be replaced by the following: %quot%2.5.3.3.7.1.
+The ambient temperature during the vibration test must be measured and shown in the report.%quot% Item 2.5.4 shall be replaced by the following: %quot%2.5.4.
+Vibration test for tractor seats in accordance with their intended use%quot% Item 2.5.4.2 : In the German version only, %quot%Schwingungsprüfung%quot% shall be replaced by %quot%Prüfung auf dem Schwingungsprüfstand%quot%.
+Item 2.5.5 shall be replaced by the following: %quot%2.5.5.
+Procedure used for determining the weighted vibration acceleration of seats intended for Category A tractors%quot% Items 2.5.5.1 and 2.5.5.2 shall be deleted.
+For each of the two drivers referred to in Item 2.5.3.3.1, the weighted vibration acceleration must be measured at the seat over a period of 28 seconds.
+The measurement must begin at the set-value signal corresponding to t = 0 seconds and end at the set-value signal t = 28 seconds (see Appendices 4 and 5 to this Annex).
+The measured values must not deviate from the arithmetic mean by more than ± 5 %.
+Each complete sequence of set points must be reproduced in a time of 28 ± 0,5 sec.%quot% Item 2.5.5 shall be replaced by the following: %quot%2.5.6.
+The measured values must not deviate from the arithmetic mean by more than ± 10 %.%quot% Item 2.5.6.3 shall be replaced by the following: %quot%2.5.6.3.
+If a bench test is conducted, it must be carried out in association with a standard roadway test pursuant to the requirements of Items 2.5.3.1 and 2.5.3.3.%quot% Item 2.5.6.4 shall be replaced by the following: %gt%PIC FILE= %quot%T0023059%quot%%gt% After Item 2.5.6.4, the following new items shall be added: %quot%2.5.7.
+Instead of the set values specified in the second paragraph of Item 2.5.3.1.1 (see Appendices 4 and 5 to this Annex), sinusoidal oscillations of ± 15 mm amplitude with a frequency of 0,5 to 2 Hz are generated.
+The frequency range is to be run through with a constant rate of frequency change in not less than 60 seconds or at intervals no greater than 0,05 Hz with increasing frequency, and in an identical manner with decreasing frequency.
+Appendices 8 and 11 shall become Appendices 7 and 8 respectively.
+This provision is applicable only if the values specified for the depth and the width of the seat surface (i.e. 400 ± 50 mm and at least 450 mm respectively) cannot be adhered to on grounds relating to the tractor.%quot% Item 4 : In the French version only, %quot%Annex I%quot% shall be replaced by %quot%Annex V%quot%.

@@ -1,0 +1,4 @@
+building of the shared nearest neighbor graph: this step only consists in replacing, in the sparsified graph, the value of each edge by the number of direct neighbors shared by the two cooccurrents linked by this edge. 3.
+computation of the distribution of strong links among cooccurrents: as for the first step, this one is a kind of sparsification.
+This step is also a means for discarding the cooccurrents that have no relation with the other ones.
+The number of strong links of each cooccurrent is then computed.

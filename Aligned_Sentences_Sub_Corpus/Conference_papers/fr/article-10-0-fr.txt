@@ -1,0 +1,2 @@
+Résumé Cet article propose et évalue une méthode de traduction automatique de termes biomédicaux simples du français vers l’anglais et de l’anglais vers le français.
+Elle repose sur une technique d’apprentissage artificiel supervisée permettant d’inférer des transducteurs à partir d’exemples de couples de termes bilingues ; aucune autre ressource ou connaissance n’est requise.

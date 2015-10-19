@@ -1,0 +1,2 @@
+µ measures the difference between the conditional entropies of the null rule model (default rule) and a given rule p.
+The higher µ, the more interesting p is. µ may be seen as the number of bits saved when compressing the data using p instead of using p/0.

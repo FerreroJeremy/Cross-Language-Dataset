@@ -1,0 +1,3 @@
+Secondly, the nodes of the set s(t) do not longer correspond to a flat clustering of the subgraph Gt but are new parts of the flat clustering of the subgraph Gp(t).
+Looking at the previous example in Figure 1, after the deletion of the node 22, the nodes 221 and 222 are now direct successors of the node 2.
+Therefore, the number of edges leaving 221 and 222 increases because the edges between these clusters and the cluster 21 are added.

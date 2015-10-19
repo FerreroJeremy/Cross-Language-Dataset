@@ -1,0 +1,2 @@
+Vecteurs conceptuels Nous représentons les aspects thématiques des segments textuels (documents, paragraphes, syntagmes, etc) par des vecteurs conceptuels.
+En informatique, et de façon presque concurrente, c’est à partir de (Chauché, 90) que l’on a une formalisation de la projection de la notion, linguistique cette fois, de champ sémantique dans un espace vectoriel.

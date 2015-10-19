@@ -1,0 +1,1 @@
+This approach consists in selecting at each step the most obvious sense and then, to update the graph of cooccurrences by discarding the words that make up the new sense.

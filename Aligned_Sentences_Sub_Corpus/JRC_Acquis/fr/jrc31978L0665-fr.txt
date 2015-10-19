@@ -1,0 +1,13 @@
+Article 3 Les États membres sont destinataires de la présente directive.
+Toutefois, jusqu'au 1er octobre 1981, on applique, pour la réception portant sur les émissions de gaz polluants des véhicules de la catégorie M1 équipés de transmission automatique, les valeurs limites relatives aux émissions d'oxydes d'azote qui résultent de la multiplication par le facteur 1,25 des valeurs L3 figurant dans le tableau du point 3.2.1.1.4.
+Pour les véhicules de la catégorie M1 équipés de transmission automatique, qui ont fait l'objet d'une réception portant sur les émissions de gaz polluants avant le 1er octobre 1981, on applique les valeurs limites relatives aux émissions d'oxyde d'azote qui résultent de la multiplication par le facteur 1,25 des valeurs L3 figurant dans le tableau du point 5.1.1.1.
+Un condensateur réfrigérant sera placé entre le tuyau d'échappement du moteur et l'entrée du (des) sac(s), de telle sorte que la température des gaz, à la sortie du condensateur, ne tombe pas au-dessous de 5 ºC.
+Le frein est réglé de la manière suivante:» Les actuels points 4.1.2, 4.1.3 et 4.1.4 deviennent les points 4.1.2.1, 4.1.2.2 et 4.1.2.3.
+Au point 4.1.2.4 (nouveau), lire: «4.1.2.4.
+Le réglage du frein à partir d'essais routiers ne peut être effectué que si, entre la route et le local du banc dynamométrique, la pression barométrique ne s'écarte pas de plus de ± 15 mb que la température de l'air ne diffère pas de ± 8 ºC.» Au point 4.1.3 (nouveau), lire: «4.1.3.
+Si la méthode précédente n'est pas applicable, le banc est réglé de manière à absorber la puissance exercée par les roues motrices à une vitesse constante de 50 km/h d'après les données du tableau figurant au point 4.2.
+Régler le frein pour obtenir, à la vitesse du (des) rouleau(x) portée à 50 km/h, une puissance donnée dans la plage du tableau du point 4.2 de l'annexe III. 4.5.
+Amener le(s) rouleau(x) à la vitesse d'au moins 60 km/h. 4.7.
+Noter les temps nécessaires pour que la vitesse du (des) rouleau(x) passe de 55 km/h à 45 km/h. 4.9.
+Calculer la puissance Pa au moyen de la formule suivante: %gt%PIC FILE= %quot%T0013483%quot%%gt% où Pa = puissance effectivement absorbée par le dynamomètre en kW, M1 = inertie équivalente du rouleau moteur en kg, V1 = vitesse initiale en m/s (55 km/h = 15,28 m/s), V2 = vitesse finale en m/s (45 km/h = 12,50 m/s), t = temps qu'il faut au(x) rouleau(x) pour ralentir de 55 km/h à 45 km/h. 4.10.
+Répéter les procédures de 4.4 à 4.9 un nombre de fois suffisant pour couvrir la gamme des puissances qui figurent dans les annexes III et V. 4.11.

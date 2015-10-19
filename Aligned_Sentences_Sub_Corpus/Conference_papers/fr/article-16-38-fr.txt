@@ -1,0 +1,2 @@
+Moby La table 3 résume les résultats des deux approches pour les noms, en prenant cette fois-ci Moby pour référence.
+Nous observons que c’est bien le cas sur les noms : la précision de l’approche de Lin est systématiquement supérieure à celle des miroirs, avec presque 10 points de plus au rang 1 ; et ce, même si le rappel est légèrement en faveur de l’approche miroir.

@@ -1,0 +1,4 @@
+|death = |school_tradition = Analytic |main_interests = Logic&nbsp;(particularly modal)Philosophy of language |notable_ideas = Causal theory of referenceKripkenstein |influences = Gottlob Frege Bertrand RussellAlfred Tarski Ludwig Wittgenstein |influenced = Scott Soames Saul Aaron Kripke (born on November 13, 1940 in Bay Shore, New York) is an American philosopher and logician, now emeritus from Princeton.
+Similar arguments have been proposed by David Chalmers.Kripke delivered the John Locke lectures in philosophy at Oxford in 1973.
+Kripke showed how to do this recursively by starting from the set of expressions in a language which do not contain the truth predicate, defining a truth predicate over just that segment: this adds new sentences to the language, and truth is in turn defined for all of them.
+Such a fixed point can then be taken as the basic form of a natural language containing its own truth predicate.

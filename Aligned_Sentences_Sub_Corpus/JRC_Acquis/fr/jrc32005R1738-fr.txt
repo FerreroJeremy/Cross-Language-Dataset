@@ -1,0 +1,85 @@
+Article 2 Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.
+Fait à Bruxelles, le 21 octobre 2005.
+Par la Commission Joaquín Almunia Membre de la Commission [1] JO L 63 du 12.3.1999, p. 6.
+Règlement modifié par le règlement (CE) no 1882/2003 du Parlement européen et du Conseil (JO L 284 du 31.10.2003, p. 1). [2] JO L 229 du 9.9.2000, p. 3. [3] JO L 203 du 3.8.1999, p. 28. -------------------------------------------------- ANNEXE I LISTE DES VARIABLES 1.
+Informations relatives à l'unité locale dont dépendent les salariés de l'échantillon 1.1.
+Situation géographique de l'unité locale (NUTS-1) 1.2.
+Principale activité économique de l'unité locale (NACE rév. 1.1.) 1.4.
+Appartenance de l'unité locale à un groupe d'entreprises (facultatif) 2.
+Informations relatives aux caractéristiques de chaque salarié de l'échantillon pour le mois de référence 2.1.
+Profession [CITP-88 (COM)] 2.4.
+Part des heures normales de travail d'un salarié à temps complet 2.8.
+Citoyenneté (facultatif) 3.
+Nombre de semaines de l'année de référence auxquelles se rapportent les salaires bruts annuels 3.2.
+Nombre d'heures supplémentaires rémunérées pendant le mois de référence 3.3.
+Salaires bruts annuels pendant l'année de référence 4.1.1.
+Salaires bruts durant le mois de référence 4.2.1.
+Cotisations sociales obligatoires et impôts versés par l'employeur au nom du salarié (facultatif) 4.2.3.1.
+Salaires bruts horaires moyens pendant le mois de référence 5.
+Coefficient d'extrapolation 5.1.
+Coefficient d'extrapolation pour l'unité locale 5.2.
+Variables relatives aux salaires de l'enquête SES +++++ TIFF +++++ -------------------------------------------------- ANNEXE II DÉFINITION DES VARIABLES 1.
+Informations relatives à l'unité locale dont dépendent les salariés de l'échantillon L'élaboration des statistiques structurelles sur les salaires est fondée sur les unités locales et les entreprises telles que les définit le règlement (CEE) no 696/93 [1] et fournit des informations sur les salariés des entreprises de dix salariés et plus classées par taille et par activité principale.
+Ces statistiques couvrent toutes les activités définies aux sections C à K et M à O de la nomenclature générale des activités économiques dans les Communautés européennes (ci-après dénommée "NACE rév. 1.1") dans les entreprises comptant au moins dix salariés [2]. 1.1.
+Situation géographique de l'unité statistique (NUTS-1) La région dans laquelle est située l'unité locale doit être classée conformément à la nomenclature des unités territoriales statistiques (NUTS, niveau 1).
+Les codes de transmission des différentes catégories NUTS sont présentés dans un document d’application qui doit être diffusé par Eurostat. 1.2.
+Les codes de transmission des classes de taille énumérées ci-dessus sont présentés dans un document d’application qui doit être diffusé par Eurostat. 1.3.
+Principale activité économique de l'unité locale (NACE rév. 1.1) L'activité économique principale de l'unité locale doit être codée au niveau à deux chiffres de la NACE rév. 1.1 (niveau de la division).
+Les codes de transmission des différentes catégories de la NACE sont présentés dans un document d’application qui doit être diffusé par Eurostat. 1.4.
+Il sera présumé que les autorités publiques exercent une influence dominante (ou un contrôle) sur une entreprise lorsque ces autorités, directement ou indirectement: - détiennent la majeure partie du capital souscrit de l'entreprise (%gt% à 50 %), ou - disposent de la majorité des voix attachées aux parts émises par l'entreprise ou peuvent désigner plus de la moitié des membres des organes d'administration, de direction ou de contrôle de l'entreprise.
+Les codes de transmission des deux catégories de la variable 1.4 sont présentés dans un document d’application qui doit être diffusé par Eurostat. 1.5.
+Il convient de choisir une de ces catégories (réponse "oui") si elle concerne plus de 50 % des salariés de l'unité locale.
+Les codes de transmission des catégories de la variable 1.5 énumérées ci-dessus sont présentés dans un document d’application qui doit être diffusé par Eurostat. 1.6.
+Nombre de salariés de l'unité locale (facultatif) Cette variable correspond au dénombrement de tous les salariés durant le mois de référence (par exemple le 1er ou le 31 octobre) et couvre l'ensemble des salariés, y compris les apprentis, les stagiaires et les étudiants rémunérés. 1.7.
+Les codes de transmission pour ces deux catégories sont fixés par Eurostat dans un document d’application.
+Informations relatives aux caractéristiques de chaque salarié de l'échantillon pour le mois de référence Les salariés sont toutes les personnes qui, quelles que soient leur nationalité ou la durée pendant laquelle elles ont travaillé dans le pays, ont un contrat de travail direct avec l'entreprise ou l'unité locale (que l'accord soit formel ou informel) et reçoivent une rémunération, indépendamment de la nature du travail effectué, du nombre d'heures travaillées (à temps complet ou à temps partiel) et de la durée du contrat (déterminée ou indéterminée).
+Les salariés englobent les ouvriers et employés ainsi que le personnel d'encadrement des entreprises d'au moins dix salariés des secteurs privé et public relevant des activités économiques classées aux sections C à K et M à O de la NACE rév. 1.1. [3].
+Profession exercée pendant le mois de référence [CITP-88 (COM)] La profession doit être codée conformément à la classification internationale type des professions, dans sa version de 1988 [CITP-88 (COM)] au niveau à deux chiffres et, lorsque cela est possible, au niveau à trois chiffres.
+Les codes de transmission des catégories de la variable 2.3 sont fixés par Eurostat dans un document d’application. 2.4.
+En outre, les salariés qui occupent une position de "contrôle" n'appartiennent pas exclusivement au grand groupe 1 (membres de l'exécutif et des corps législatifs, cadres supérieurs de l'administration publique, dirigeants et cadres supérieurs d'entreprise) de la CITP-88 (COM).
+De nombreux salariés rattachés au groupe 2 (professions intellectuelles et scientifiques) et au groupe 3 (professions intermédiaires) peuvent avoir des responsabilités de contrôle.
+Les codes de transmission de ces deux catégories sont fixés par Eurostat dans un document d’application. 2.5.
+Niveau d'éducation et de formation le plus élevé atteint avec succès (CITE 97) Cette variable concerne le niveau d'enseignement général, professionnel ou supérieur atteint par le salarié selon la classification internationale type de l'éducation, version 1997 (CITE 97).
+Les codes de transmission des catégories de la variable 2.5 énumérées ci-dessus sont fixés par Eurostat dans un document d’application. 2.6.
+Un jour quelconque du mois retenu peut servir de date de référence (par exemple le 1er ou le 31 octobre).
+Les classes de taille pour la variable 2.6 ainsi que leurs codes de transmission sont fixés par Eurostat dans un document d’application. 2.7.
+Les codes de transmission des deux catégories de la variable 2.7 sont fixés par Eurostat dans un document d’application. 2.7.1.
+Part des heures normales de travail d'un salarié à temps complet Pour un salarié à temps complet, cette part est toujours de 100 %.
+Les codes de transmission de ces trois catégories de la variable 2.8 sont fixés par Eurostat dans un document d’application. 2.9.
+Les codes de transmission des trois catégories de la variable 2.9 sont fixés par Eurostat dans un document d’application. 3.
+Nombre de semaines de l'année de référence auxquelles se rapportent les salaires bruts annuels La variable 3.1 se rapporte à la durée de travail effectivement rémunérée pendant l'année et doit correspondre au salaire brut effectif de l'année (variable 4.1).
+S'il a été rémunéré sur six mois, il faut insérer "26" semaines. 3.2.
+Si on dispose par exemple de l'information selon laquelle 20 % du mois de référence pour un salarié est constitué d'absence(s) non rémunérée(s), la variable 3.2 doit être multipliée par le facteur de correction 1,25. 3.2.1.
+Nombre d'heures supplémentaires rémunérées pendant le mois de référence Les heures supplémentaires sont les heures travaillées au-delà de la durée mensuelle normale ou conventionnelle de travail.
+Par conséquent, la variable 3.2.1 doit concorder avec les rémunérations des heures supplémentaires durant le mois de référence (variable 4.2.1).
+L'application de la procédure d'ajustement à la variable 3.2 implique que l'opération d'extrapolation concerne également la variable 3.2.1, qui en est une composante.
+Si on sait par exemple que des absences non rémunérées ont représenté 20 % du mois de référence d'un salarié, la variable 3.2.1 doit être multipliée par le facteur de correction 1,25. 3.3.
+Pour cette raison, la variable 3.3 fait référence aux droits à congés annuels, plutôt qu'aux congés annuels effectivement pris.
+Ne sont pas considérés comme congés annuels: - les congés de maladie, - les congés de formation, - les congés spéciaux payés accordés pour des motifs personnels, - les congés supplémentaires octroyés au titre d'accords sur la réduction du temps de travail.
+Ainsi, si un salarié à temps complet a normalement droit à cinq semaines de congés annuels, cela correspond à vingt-cinq jours.
+En revanche, un droit à congés annuels de cinq semaines pour un salarié à temps partiel qui travaille à 60 % de la durée conventionnelle d'un temps plein (variable 2.7.1) équivaut à seulement quinze jours "complets" de congés. 3.4.
+Informations relatives aux salaires pour chaque salarié de l'échantillon Doivent être inclus pour les variables suivantes qui concernent les salaires annuels, mensuels et horaires, les salariés qui ont effectivement reçu une rémunération pendant le mois de référence.
+Le coefficient d'extrapolation pour les salariés (variable 5.2) doit s'appliquer strictement aux salariés de l'échantillon pour lesquels des estimations sérieuses de leurs salaires bruts mensuels peuvent être fournies. 4.1.
+Salaires bruts annuels pendant l'année de référence Les salaires bruts annuels couvrent les rémunérations en espèces et en nature payées pendant l'année de référence avant déduction des impôts et des cotisations de sécurité sociale payables par les salariés et retenus par l'employeur.
+Par ailleurs, les paiements en nature ne sont pas inclus dans les salaires mensuels.
+Si la variable 3.1 (nombre de semaines auxquelles se rapporte le salaire annuel) est inférieure à cinquante-deux semaines, elle est utilisée pour extrapoler la variable 4.1 et ses composantes. 4.1.1.
+Salaires bruts durant le mois de référence Cette variable représente la rémunération en espèces payée durant le mois de référence avant les déductions fiscales et les cotisations sociales à la charge des salariés et retenues par l'employeur.
+La variable 4.2 doit être en rapport avec le nombre d'heures payées par l'employeur durant le mois de référence (variable 3.2).
+Elle comprend les éléments suivants: - toutes les rémunérations relatives à la période considérée (même si elles sont versées en dehors du mois représentatif), y compris les rémunérations pour heures supplémentaires, les primes pour travail posté, les autres primes, les commissions, etc., - les rémunérations pour heures supplémentaires, pour travail en équipe, travail de nuit, travail de week-end, les commissions, etc., - les primes et indemnités versées régulièrement à l'occasion de chaque paie, même si leur montant varie d’un mois à l'autre, - les rémunérations pour les périodes d’absence et d’arrêt de travail entièrement payées par l’employeur, - les allocations familiales et autres prestations fixées par convention collective ou volontairement convenues au sein de l’entreprise, - les contributions au plan d'épargne d'entreprise.
+Il doit y avoir cohérence entre la variable 4.2.1 et la variable 3.2.1 (nombre d'heures supplémentaires payées pendant le mois de référence). 4.2.2.
+Cotisations sociales obligatoires et impôts versés par l'employeur au nom du salarié (facultatif) Cette variable se rapporte au montant total des cotisations sociales obligatoires et des impôts payés par l'employeur au nom du salarié aux autorités publiques pendant le mois de référence.
+Si le salaire mensuel est modifié à la suite d’absences non payées, la variable 4.2.3 (y compris les sous-composantes 4.2.3.1 et 4.2.3.2) doit être ajustée de manière à pouvoir en déduire les estimations pour le mois complet. 4.2.3.1.
+Il doit être cohérent avec le salaire brut horaire moyen obtenu en divisant le salaire brut pour le mois de référence (variable 4.2) par le nombre d'heures payées pendant la même période (variable 3.2). 5.
+Le coefficient d'extrapolation défini au point 5.1 doit permettre de tirer des conclusions sur la population de toutes les unités locales de la strate concernée à partir des données collectées sur les unités locales de l'échantillon.
+De la même façon, le coefficient d'extrapolation visé au point 5.2 permet d'obtenir, à partir des données recueillies sur les salariés de l'échantillon, des résultats sur la population de tous les salariés de la même strate.
+En général, lorsqu'il est décidé de retirer (pour quelque raison que ce soit) les micro-données concernant une entreprise particulière ou un salarié particulier, ou lorsque ces données ne sont pas disponibles, les coefficients d'extrapolation doivent être recalculés selon des méthodes appropriées, telles que l'étalonnage, afin de corriger les poids initiaux respectifs des unités locales et des salariés. 5.1.
+Coefficient d'extrapolation pour les salariés Le coefficient d'extrapolation pour les salariés est calculé pour chaque unité locale de l'échantillon.
+Lorsqu'il est nécessaire d'exclure des salariés pour lesquels on enregistre des périodes d'absence(s) non payée(s) pendant le mois de référence, le coefficient d'extrapolation 5.2 doit être révisé pour tenir compte de l'exclusion des salariés en question. [1] JO L 76 du 30.3.1993, p. 1.
+Règlement modifié en dernier lieu par le règlement (CE) no 1882/2003 du Parlement européen et du Conseil. [2] La couverture des activités de la section L de la NACE rév. 1.1 est facultative.
+La couverture des salariés des entreprises employant moins de dix personnes est également facultative. [3] La couverture des activités de la section L de la NACE rév. 1.1 est facultative.
+Variables Toutes les rubriques des enregistrements A et B doivent être entièrement remplies.
+Lorsque les informations ne sont pas disponibles pour une variable facultative, il convient d'insérer "OPT" pour les variables alphanumériques et "99999999" pour les variables numériques (le nombre de "neuf" correspond à la longueur du champ).
+Catégories de variables de l'enquête sur la structure des salaires (SES) Les variables de l'enquête sur la structure des salaires énumérées à l'annexe I sont soit de type qualitatif, soit de type quantitatif.
+Les catégories de variables qualitatives ainsi que les tranches pour les variables quantitatives SES sont définies par Eurostat dans un document de mise en œuvre.
+Contenu des enregistrements A et B Le contenu et la séquence des variables faisant partie des enregistrements A et B ainsi que les codes à utiliser sont précisés dans des documents séparés.
+Cependant, dans un souci de précision, les valeurs des variables 4.3, 5.1 et 5.2 doivent être indiquées jusqu'à la deuxième décimale.

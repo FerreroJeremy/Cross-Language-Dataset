@@ -1,0 +1,44 @@
+Por la Comisión Richard BURKE Miembro de la Comisión (1) DO n º L 262 de 27 . 9 . 1976 , p. 169 . (2) DO n º L 192 de 31 . 7 . 1979 , p. 35 .
+Estos productos han sido definidos en el artículo 2 de la Directiva 75/324/CEE del Consejo de 20 de mayo de 1975 (1) . 5.2 .
+Espuma : introducir previamente en el frasco de trasvase una cantidad conocida ( mediante pesada ) de metoxi-2-etanol ( de 5 a 10 g aproximadamente ) .
+Si la desgasificación provoca la formación de espuma , emplear un frasco de trasvase que contenga una cantidad exactamente pesada de 2-metoxi-etanol ( 5 a 10 g ) introducida mediante jeringa por mediación de la pieza de trasvase . - Terminar la eliminación cuantitativa de las sustancias volátiles agitando en un baño cuya temperatura se mantiene a 40 ° C por termostato .
+Fórmulas para el cálculo : R = ( r · m2 ) /m1 y Q = ( R · P ) /100 m1 = masa del producto trasvasado al frasco de trasvase , m2 = masa del residuo después de calentarlo a 40 ° C , r = porcentaje de la sustancia determinada en m² ( determinada por el método apropiado ) , R = porcentaje de la sustancia determinada en la totalidad del producto ; Q = cantidad total absoluta de la sustancia determinada en la totalidad del producto , P = masa neta del producto acondicionado total antes del comienzo de las manipulaciones . 5.4.2 .
+Solución tampón alcalina de referencia de pH 9 , 18a 25 ° C : solución 0,05 M de tetraborato de sodio . 4.2 .
+Si éste es igual o superior a 12 será necesario efectuar una determinación . 5 .
+Solución titulada de ácido clorhídrico 0,1 N 5.1.2 .
+Si el primer punto de inflexión se produce a un pH inferior a 7 , la muestra no contiene hidróxido de sodio o de potasio .
+La concentración de hidróxidos de sodio y/o de potasio en la muestra se expresa en porcentaje ( m/m ) de hidróxido de sodio mediante la fórmula : % de hidróxido de sodio 0,4 = V/M Puede suceder que , aunque haya indicaciones de la presencia de una cantidad bastante importante de hidróxidos de sodio y/o de potasio , la curva de titulación no presente un punto de inflexión definido .
+En este caso , conviene proceder a una nueva determinación en isopropanol . 5.2 .
+Embudos de separación , de 500 ml 5.2 .
+Vasos de precipitado de vidrio , de 50 y 600 ml 5.3 .
+Matraces para filtración en vacío , de 500 ml 5.7 .
+Termómetro graduado de 0 a 100 ° C 5.9 .
+Matraces cónicos , de 250 ml 6 .
+Pesar de 6 a 7 g de la muestra en un vaso de precipitado de vidrio de 50 ml , llevar el pH a 3 con ácido clorhídrico diluído ( 4.9 ) , trasvasar después la solución con ayuda de 100 ml de agua destilada a un embudo de separación .
+Verificar que la precipitación ha sido completa añadiendo algunas gotas de solución de cloruro de calcio ( 4.2 ) , dejar enfriar hasta temperatura ambiente , añadir agitando ( 5.10 ) 200 ml de etanol ( 4.3 ) y dejar reposar durante 30 minutos . 6.6 .
+Lavar el precipitado cinco veces con un poco de etanol ( 4.3 ) y de dietiléter ( 4.5 ) , disolver después el precipitado en 50 ml de ácido sulfúrico caliente (4.8 ) aspirando éste a través del crisol filtrante . 6.8 .
+CÁLCULO El contenido de la muestra , expresado en ácido oxálico , en porcentaje de masa , se calcula mediante la fórmula : % de ácido oxálico = ( A × 4,50179 × 100 ) / ( E × 1000 ) en la que : A = consumo de permanganato de potasio 0,1 N , medido en 6.8 , E = cantidad de muestra utilizada en 6.1 , en gramos , 4,50179 = coeficiente de conversión para el ácido oxálico 8 .
+OBJETO Y CAMPO DE APLICACIÓN Este método describe la determinación por cromatografía en fase gaseosa del cloroformo en las pastas dentífricas .
+Porapak Q o Chromosorb 101 o equivalente ( 80 a 100 mallas ) 4.2 .
+Balanza analítica 5.2 .
+Jeringa de inyección de 5 ó 10 microlitros , graduada a 1/10 5.4 .
+Matraces aforados de 10 y 50 ml 5.6 .
+Material de la columna : vidrio , en espiral Longitud : 150 cm Diámetro interno : 4 mm Diámetro externo : 6 mm 6.1.2 .
+Pesar , con una precisión de 10 mg , 6 o 7 g ( Mo ) de la pasta dentífrica tratada con arreglo al punto 6.2 , en un tubo con tapón rosca ( 5.6 ) y añadir algunas perlas de vidrio . 6.3.2 .
+Agitar durante media hora con un agitador mecánico , y centrifugar durante 15 minutos con el tubo cerrado , a una velocidad tal que se obtenga una separación neta de las fases .
+Determinar la superficie de los picos de acetonitrilo y de cloroformo en los cromatogramas obtenidos en 6.3.5 y calcular la respuesta relativa f s con ayuda de la fórmula : f s = ( As · Mi ) / ( Ms · Ai ) = ( As · 1/10 M ) / ( Ai · M1 ) en la cual fs = factor de respuesta relativo para el cloroformo , As = superficie del pico de cloroformo ( 6.3.5 ) Ai = superficie del pico de acetonitrilo ( 6.3.5 ) , Ms = cantidad de cloroformo en mg por 10 ml de solución utilizada en 6.3.5 ( = M1 ) , M1 = cantidad de acetonitrilo en mg por 10 ml de solución utilizada en 6.3.5 ( = 1/10 M ) .
+Calcular el contenido de cloroformo de la pasta dentífrica mediante la fórmula : % X = ( As · Mi ) / ( f s · M sx · Ai ) · 100 % = ( As · M ) / ( f s · Ai · M o · 100 ) en la cual : % X = contenido de cloroformo en porcentaje de la masa de pasta dentífrica , As = superficie del pico de cloroformo ( 6.3.4 ) , Ai = superficie del pico de acetonitrilo ( 6.3.4 ) , M sx = peso en mg de la muestra examinada en 6.3.1 ( = 1 000.Mo ) Mi = cantidad de acetonitrilo en mg por 10 ml de la solución obtenida en 6.3.2 ( 1/10 M ) .
+OBJETO Y CAMPO DE APLICACIÓN Este método describe la determinación del cinc presente en los productos cosméticos en forma de cloruro , sulfato , fenosulfato o combinaciones varias de estas sales de cinc . 2 .
+PRINCIPIO El cinc en solución precipita en medio ácido en forma de 2-metil-8-oxiquinoleato .
+Matraces para filtración de vacío , de 500 ml 5.7 .
+Termómetro graduado , de 0 a 100 ° C al menos 5.9 .
+Pesar de 5 a 10 g ( m ) de la muestra que vaya a examinarse , que deben contener de 50 a 100 mg aproximadamente de cinc , ponerlos en un vaso de 400 ml , añadir 50 ml de agua destilada y mezclar . 6.2 .
+Reactivo de Pauly Disolver calentando 4,5 g de ácido sulfanílico ( 4.8 ) en 45 ml de ácido clorhídrico concentrado ( 4.1 ) y diluir con agua hasta 500 ml .
+Enfriar 10 ml de esta solución en una cubeta de agua helada y añadir agitando 10 ml de una solución fría de nitrito de sodio ( 4.14 ) .
+Dejar reposar la mezcla durante 15 minutos a 0 ° C ( a esta temperatura , la solución es estable durante 1 a 3 días ) y añadir , inmediatamente antes de la pulverización ( 7.5 ) , 20 ml de la solución de carbonato de sodio ( 4.13 ) . 4.18 .
+Matraces esmerilados de fondo redondo , de 100 ml 5.2 .
+Matraces cónicos esmerilado , de 250 ml 5.4 .
+Termómetro graduado de 0 a 100 ° C 5.9 .
+Colocar la placa en una cubeta que contenga ya el disolvente de desarrollo ( 4.16 ) y esperar que el frente del disolvente haya alcanzado una línea situada a 15 cm de la línea de partida . 7.3 .
+Después de sacarla de la cubeta , secar la placa a 80 ° C hasta la evaporación total del ácido acético .
+Pesar 10 g de la muestra o del residuo ( 6 ) en un matraz de 100 ml de fondo redondo y , por medio de un evaporador rotatorio en vacío , concentrarlos casi en seco en un Baño María a 40 ° C . 8.2 .

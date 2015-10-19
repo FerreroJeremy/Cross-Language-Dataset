@@ -1,0 +1,7 @@
+Article 5 Les codes de transcription, sur support informatique ou multimédia, des données visées à l'article 4 de la directive 76/625/CEE doivent être conformes à la description figurant à l'annexe V de la présente décision.
+Article 6 Les États membres sont destinataires de la présente décision.
+Fait à Bruxelles, le 27 décembre 2001.
+Par la Commission Pedro Solbes Mira Membre de la Commission (1) JO L 218 du 11.8.1976, p. 10. (2) JO L 179 du 7.8.1972, p. 1.
+L'information enregistrée conformément aux caractéristiques visées à l'article 2 de la directive 76/625/CEE doit être communiquée à la Commission sur support informatique ou multimédia, selon les modalités suivantes. 2.
+Les données seront enregistrées selon le format TXT avec des enregistrements de longueur fixe (58 caractères). 4.
+Structure de l'enregistrement Chaque enregistrement se compose des 12 champs suivants: %gt%TABLE%gt% Les informations sont à enregistrer, cadrées à droite dans chaque champ.

@@ -1,0 +1,1 @@
+Mesure de cosinus (COS) Nous avons repris l’idée proposée par Nadeau et Foster (2004) et représenté un document par différents vecteurs où chaque dimension correspond à une unité lexicale et chaque coordonnée à la fréquence de cette unité dans le document.

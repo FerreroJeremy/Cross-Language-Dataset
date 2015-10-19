@@ -1,0 +1,2 @@
+For each considered word, the evaluation method tries to map one of its discovered senses with one of its synsets in WordNet by applying a specific similarity measure.
+They define a recall measure but only for ranking the results of a set of systems.

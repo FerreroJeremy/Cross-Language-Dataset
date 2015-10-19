@@ -1,0 +1,4 @@
+Expérimentation Nous avons appliqué notre méthode de découverte de sens aux deux réseaux de cooccurrences lexicales (LM : français ; LAT : anglais) que nous avons construits avec les valeurs de paramètres précisées dans les sections précédentes.
+Pour chaque réseau, nous avons testé l’utilisation initiale de cooccurrences d’ordre 1 (LM-1 et LAT-1) et d’ordre 2 (LM-2 et LAT-2).
+Pour l’anglais, la seconde modalité n’a été testée que sur le sous-ensemble des mots utilisés pour l’évaluation de la section 6 (LAT-2.no).
+Le tableau 1 synthétise les informations concernant les sens découverts dans les différentes configurations.

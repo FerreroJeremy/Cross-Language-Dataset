@@ -1,0 +1,6 @@
+Les deux derniers points de la définition étendent la définition classique des règles de classification.
+En effet, pour un attribut a, les valeurs 0 et 1 sont les deux identifiants possibles.
+Cette notion se rapproche des règles avec des négations d’attribut dans le corps (Antonie et Zaïane, 2004).
+Les règles MODL rejoignent aussi la notion de règles de distribution récemment introduite par Jorge et al. (2006).
+Le conséquent de telles règles est une distribution de probabilité sur l’ensemble des classes (au lieu d’être une classe unique).
+L’exemple suivant illustre ces deux points.

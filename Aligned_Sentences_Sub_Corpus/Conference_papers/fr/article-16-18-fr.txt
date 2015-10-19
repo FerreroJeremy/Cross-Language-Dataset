@@ -1,0 +1,3 @@
+I(w; rel;w0) est alors la spécificité d’une relation (w; rel;w0), définie comme l’information mutuelle entre les éléments du triplet (Lin, 1998).
+On note jjwjj la quantité d’information totale associée à w.
+La similarité entre deux lemmes w1 et w2 mesure alors à quel point ils partagent des contextes syntaxiques spécifiques, en utilisant la quantité d’information des contextes qu’ils partagent, normalisée par la quantité d’information totale qu’on peut leur associer séparément.

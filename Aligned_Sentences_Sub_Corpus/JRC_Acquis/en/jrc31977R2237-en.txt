@@ -1,0 +1,55 @@
+HAS ADOPTED THIS REGULATION: Article 1 The type of accountancy data to be given in a farm return shall be as laid down in Annex I.
+DAIRY COWS Female bovine animals which have calved (including those less than two years old) which are kept exclusively or principally for milk production for human consumption or processing as dairy products. 31.
+Female bovine animals which have calved (including those less than two years old) which are kept exclusively or principally for production of calves and whose milk is not used for human consumption or processing as dairy products; 2.
+heading 46 %quot%Other pigs%quot%). 45.
+heading 46 %quot%Other pigs%quot%). 46.
+OTHER PIGS Pigs of 20 kg live weight or more excluding breeding sows (cf.
+heading 44) and pigs for fattening (cf.
+The related grants and subsidies are not deducted from the total of these purchases, but are specified under heading 116 (see instructions regarding this heading).
+The related grants and subsidies are not included in the sales total, but are specified under heading 112 (see instructions regarding this heading).
+When the marketing costs, if any, are known they are not deducted from the sales total, but are given under heading 71 (%quot%Other specific livestock costs%quot%).
+Grants and subsidies related to costs are not deducted from the corresponding cost items but are entered under heading 114 (cf.
+Major repairs which increase the value of equipment, compared with its value before repairs, are not included under this heading (see also instructions on depreciation below). 62.
+The costs of young trees and bushes for a new plantation represent an investment and should appear either under heading 96 %quot%Permanent crops%quot% or under heading 100 %quot%Forest land%quot%.
+However the costs of young trees and bushes for a minor replanting operation are to be considered costs for the accounting year and are to be indicated under the present heading except for those relating to forests linked to the agricultural holding which are to be entered under heading 77 %quot%Specific forestry costs%quot%. 73.
+Labour costs, contract work and mechanization are not included ; these are shown under the appropriate cost headings. 78.
+Interest and financial charges paid Interest and financial charges on borrowed capital (loans) obtained for farm purposes (1).
+Agricultural land and farm buildings Total of headings 95 to 99 below.
+Headings 95, 97, 98 and 99 are to be completed where the relevant data are available in the accounts. 95.
+Total Total of headings 94, 100, 101 and 102.
+The following data should be indicated under each heading: Acquisition value (columns 1 and 2) The acquisition value should be stated where depreciation is determined on the basis of this value i.e.
+Where the costs of private cars used for farming purposes are divided between headings 61 (current upkeep of equipment) and 62 (fuels and lubricants), the farm business share of the value of the cars is included under deadstock.
+Purchases of minor items of machinery and equipment as well as of young trees and bushes for a minor replanting operation do not appear in these columns but are included in the costs for the accounting year (cf.
+heading 61 %quot%Current upkeep of machinery and equipment%quot%, heading 72 %quot%Seeds and seedlings purchased%quot%, heading 77 %quot%Specific forestry costs%quot%).
+The following rates of linear depreciation are given for guidance only. %gt%PIC FILE= %quot%T0011291%quot%%gt% Depreciation of machinery and equipment Machinery and equipment subject to depreciation is defined as that having a value when new greater than about 100 EUA (1).
+The depreciation of minor equipment of lower value should not be calculated ; purchases of such equipment are to be treated directly as costs for the accounting year (heading 61 %quot%Current upkeep of machinery and equipment%quot%).
+Major repairs which effectively increase the value of the machinery and equipment compared to their value before repair, are also included under this heading, either as an integral part of the machinery or equipment depreciation, which, as appropriate, will be adjusted to take account of the extended life (due to the repairs) of the item in question or by spreading the cost of the major repairs over several successive years.
+VAT on investments VAT paid during the accounting year on the purchase of capital goods (investments) (excluding non-deductible VAT in the case of holdings subject to the normal system during the transitional period) (1). 111.
+Grants and subsidies on animals and products Amount of the grants and subsidies for the animals and products listed under headings 51 to 58 and 120 to 311, including those received in the course of the accounting year but relating to earlier years. 113.
+Of which : details of the total for heading 112 according to categories of animals (headings 51 to 58) and products (headings 120 to 311) where relevant data are available in the accounts. 114.
+Of which : details of the total for heading 114 according to the type of costs (headings 59 to 92) where relevant data are available in the accounts. 116.
+Of which : details of the total for heading 116, according to categories of animals (headings 51 to 58) where relevant data are available in the accounts. 118.
+Total Sum of headings 112, 114 and 116. 119.
+Tobacco (excluding seed) 135.
+Other industrial crops (excluding seed) (1) 136.
+The total for sales of hay and/or grass coming from this area is to be given under this heading 148.
+Other arable crops not included in headings 120 to 147 149.
+The total for sales of hay and/or grass coming from this area is to be given under this heading 151.
+Receipts relating to previous accounting years : amounts received during the year relating to previous accounting years which were not included in the debtors of those accounting years (grants and subsidies relating to previous accounting years should be indicated under headings 112 to 119, or where appropriate 94 to 103 in the case of grants and subsidies in respect of investments) 181.
+Other olive products Details of heading 155: 285.
+Other viticultural products Details of heading 160: 292.
+Other processed products Details of heading 161: 299.
+Horticultural by-products 303.
+Vine by-products 305.
+Olive by-products 306.
+column 4), for example in the case of sales of products of marketable crops purchased as standing crops or coming from land rented for a period of less than one year and in the case of production obtained by processing purchased animal or crop products, code 1 should be entered in this column.
+When because of the conditions of sale actual production cannot be stated in quintals (column 5), for example in the case of sales of standing crops and of crops under contract, code 2 should be entered in this column for the crops under contract and code 3 in the other cases.
+Code 0 (not applicable) is entered when no data are missing.
+The area for each crop product is given in this column except in the case of by-products of crop products (headings 161 and 299 to 306) and processed products (headings 160, 283, 284, 288 to 291, 292 to 298).
+If this information is not available in the accounts of the holding, code 1 should be entered in column 3 %quot%Missing data%quot%.
+These quantities should be indicated in quintals (100 kg) except in the case of eggs, which are given in thousands.
+Nine tracks and 6 250, 1 600 or 800 BPI density. 2.
+Each datum is a word of 32 binary bits.
+The first bit on the left determines the sign: - it is zero for positive numbers ; in this case the succeeding 31 bits give the value in %quot%true%quot% binary notation, - it is one for negative numbers ; in this case the succeeding 31 bits give the value in %quot%twos complement%quot% notation.
+An agricultural holding is represented by a maximum of 1 377 data, of which: 487 are fixed field data (cf.
+All data relating to a holding are supplied on the same file, - either in one 1 377-word fixed-length record with at most 89 groups of variable data. - or in a maximum of five fixed-length records of 279 words completed in full, except the last one which as appropriate is filled with zeros, and with a maximum of 88 groups of variable data (see table below). 3.

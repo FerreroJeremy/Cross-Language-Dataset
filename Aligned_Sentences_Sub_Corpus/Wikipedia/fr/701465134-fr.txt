@@ -1,0 +1,2 @@
+Lorsqu'une méthode virtuelle est appelée, l'implémentation de la méthode exécutée est choisie en fonction du type réel de l'objet.
+Ce mot clé est placé devant la déclaration de la méthode.Le mot clé virtual, placé devant le prototype de la fonction, indique au compilateur que la fonction est susceptible d'être redéfinie dans une classe dérivée.

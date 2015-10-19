@@ -1,0 +1,5 @@
+Introduction Développer un réseau lexico-sémantique pour le TAL est l’un des enjeux majeurs du domaine.
+La plupart des ressources existantes ont été construites à la main, comme dans le cas de WordNet (Miller et al., 1990).
+Bien entendu, quelques outils sont généralement utilisés pour la vérification de la cohérence, mais cependant la tâche reste coûteuse en temps et en prix.
+Des approches entièrement automatisées sont généralement limitées à la co-occurrence des termes car l’extraction des relations sémantiques précises entre termes à partir d’un texte reste difficile.
+De nouvelles approches impliquant l’externalisation ouverte (crowdsourcing) émergent dans le TAL spécialement avec l’avènement de Amazon Mechanical Turk ou plus largement avec Wikipédia et le Wiktionnaire pour ne citer que les plus connus.

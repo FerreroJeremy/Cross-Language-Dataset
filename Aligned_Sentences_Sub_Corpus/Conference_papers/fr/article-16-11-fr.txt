@@ -1,0 +1,2 @@
+Approche miroir L’approche miroir est fondée sur l’hypothèse que des mots d’une langue E qui sont fréquemment alignés avec le même mot dans une autre langue F sont sémantiquement proches.
+Dans l’exemple de la figure 2, les mots français manger et consommer sont tous les deux alignés avec le mot anglais eat et sont donc candidats à l’appariement sémantique.

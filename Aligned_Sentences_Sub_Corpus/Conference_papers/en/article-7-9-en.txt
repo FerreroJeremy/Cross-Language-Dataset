@@ -1,0 +1,3 @@
+Our contribution is to put forward a new measure of similarity between events.
+Given the importance of similarity measurements in clustering, we noted that there are several of such measurements between documents including: Salton's cosinus [27], Khi- Deux distance [28], Cosine in distributional space [29].
+Other measurements, which are more interesting for us, are linked to the similarity between sentences, the latest of which is Naughton’s measurement [23].

@@ -1,0 +1,2 @@
+Construction de la matrice de similarité entre cooccurrents Les algorithmes de classification sont en général suffisamment paramétrables pour influer sur le nombre et l’étendue des classes formées.
+Mais cette adaptabilité est implicitement limitée par la mesure de similarité définie pour comparer les éléments à classer, d’où son importance.

@@ -1,0 +1,3 @@
+Mais surtout, le formalisme des GUP permet d'écrire séparément divers modules de la grammaire manipulant des structures différentes et de les coupler ensuite en un même formalisme, comme cela est par exemple fait en GUST (Kahane 2002).
+Les GUP fournissent ainsi une alternative aux formalismes d'unification basés sur les structures de traits en permettant une plus grande diversité des structures géométriques et un meilleur contrôle des ressources.
+Les propriétés computationnelles des GUP restent à étudier et notamment les restrictions qui permettent d'avoir une analyse en temps polynomial.

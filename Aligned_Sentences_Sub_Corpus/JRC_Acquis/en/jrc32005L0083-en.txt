@@ -1,0 +1,16 @@
+They shall apply those provisions from 1 October 2006.
+Article 3 This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+Article 4 This Directive is addressed to the Member States.
+Done at Brussels, 23 November 2005.
+For the Commission Günter Verheugen Vice-President [1] OJ L 42, 23.2.1970, p. 1.
+Directive as last amended by Commission Directive 2005/49/EC (OJ L 194, 26.7.2005, p. 12). [2] OJ L 152, 6.7.1972, p. 15.
+Point 3.1 of Annex VII is replaced by the following: "3.1.
+ESAs may comply with the requirements of any combination of the following test methods at the manufacturer's discretion provided that this results in the full frequency range specified in paragraph 3.1 of this Annex being covered. - Absorber Chamber test: according to ISO 11452-2: 2nd edition 2004 - TEM cell testing: according to ISO 11452-3: 2nd edition 2001 - Bulk current injection testing: according to ISO 11452-4: 3rd edition 2005 - Stripline testing: according to ISO 11452-5: 2nd edition 2002 - 800 mm Stripline: according to clause 4.5 of this Annex.
+Frequency range and general test conditions shall be based on ISO 11452-1: 3rd edition 2005." (b) Point 2.1 is replaced by the following: "2.1.
+The test conditions shall be according to ISO 11452-1: 3rd edition 2005". (c) Point 3.1 is replaced by the following: "3.1.
+Frequency range, dwell times Measurements shall be made in the 20 to 2000 MHz frequency range with frequency steps according to ISO 11452-1: 3rd edition 2005.
+The test signal modulation shall be: - AM, with 1 kHz modulation and 80 % modulation depth in the 20-800 MHz frequency range, - PM, t on 577 μs, period 4600 μs in the 800-2000 MHz frequency range, if not otherwise agreed between technical service and ESA manufacturer.
+The technical service shall perform the test at the intervals specified in ISO 11452-1: 3rd edition 2005 throughout the frequency range 20 to 2000 MHz.
+Alternatively, if the manufacturer provides measurement to data for the whole frequency band from a test laboratory accredited to the applicable parts of ISO 17025: 1st edition 1999 and recognised by the Approval Authority, the Technical Service may choose a reduced number of spot frequencies in the range, e.g. 27, 45, 65, 90, 120, 150, 190, 230, 280, 380, 450, 600, 750, 900, 1300, and 1800 MHz to confirm that the ESA meets the requirements of this Annex". (e) Point 4.1.2 is replaced by the following: "4.1.2.
+Test methodology The test shall be performed according to ISO 11452-3: 2nd edition 2001.
+Test methodology The test shall be performed according to ISO 11452-4: 3rd edition 2005 on a test bench.

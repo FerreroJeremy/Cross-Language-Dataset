@@ -1,0 +1,1 @@
+This filtering process also allowed us to identify some issues, in particular elisions in multiword forms, like afin de, afin d’, or contractions like face `a, face au or `a partir de, `a partir du, which will be processed in the segmentation step.

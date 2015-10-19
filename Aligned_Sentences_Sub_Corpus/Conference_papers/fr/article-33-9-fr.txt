@@ -1,0 +1,2 @@
+Les patrons pour l’annotation séquentielle sont instanciés à chaque position de la séquence en entrée.
+Nous définissons un patron T comme suit :

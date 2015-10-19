@@ -1,0 +1,3 @@
+The graph contains 1318 edges.
+The Oslom and Infomap algorithms detect big clusters at the top level (with over a hundred people).
+While these clusters can be easily separated from the rest of the network by removing a couple of edges, they are not densely connected.

@@ -1,0 +1,2 @@
+In the algorithm of (Ertöz et al., 2001), an element can be associated to a cluster when the strength of its link with one of the elements of this cluster is higher than a given threshold.
+This condition is stricter in our case as it concerns the average strength of the links between the unclassified cooccurrent and those of the cluster.

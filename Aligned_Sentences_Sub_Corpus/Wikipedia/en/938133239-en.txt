@@ -1,0 +1,1 @@
+D 2.0 may fix this by introducing an opIndexLvalue - like operator overload, and deprecating opIndexAssign.Division concerning the standard libraryThe standard library in D is called Phobos.

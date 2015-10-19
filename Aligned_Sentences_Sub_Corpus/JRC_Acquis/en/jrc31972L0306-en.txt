@@ -1,0 +1,31 @@
+Article 2 No Member State may refuse to grant a vehicle EEC type approval or national type approval on the ground that pollutants are emitted by the diesel engine which drives the vehicle, if the engine complies with Annexes I, II, III, IV and VI.
+Article 6 This Directive is addressed to the Member States.
+The light absorption coefficient of the gases emitted by the engine at steady speeds when measured by the method described in Annex III with the cold-start device operating is within the limits prescribed in Annex VI. 5.2.2.2.
+For each of the six engine speeds at which the absorption coefficient is measured pursuant to paragraph 2.1 above, the nominal gas flow G, expressed in litres per second, shall be calculated by means of the following formulae: %gt%PIC FILE= %quot%T0010772%quot%%gt% where: V is the cylinder capacity of the engine expressed in litres ; and n is the engine speed in revolutions per minute. 4.2.
+The test shall be carried out on the vehicle or engine which has undergone the test at steady speeds described in Annex III. 1.1.1.
+The test shall be carried out as soon as possible after completion of the road run. 1.2.
+The operation described in item 2.3 above shall be repeated not less than six times in order to clear the exhaust system and to allow for any necessary adjustment of the apparatus.
+The gas to be measured shall be confined in an enclosure having a non-reflecting internal surface. 2.2.
+General The design shall be such that under steady-speed operating conditions the smoke chamber is filled with smoke of uniform opacity. 3.2.
+The receiver shall consist of a photoelectric cell with a spectral response curve similar to the photopic curve of the human eye (maximum response in the range 550/570 nm ; less than 4 per cent of that maximum response below 430 nm and above 680 nm). 3.4.2.
+An intermediate check shall be carried our by placing in the smoke chamber a screen representing a gas whose known light-absorption coefficient k, measured as described in item 3.5.1, is between 1 76 m-1 and 1 78 m-1.
+The pressure of the exhaust gas in the smoke chamber shall not differ by more than 75 mm (water gauge) from the atmospheric pressure. 3.8.2.
+The variations in the pressure of the gas to be measured and of the scavenging air shall not cause the absorption coefficient to vary by more than 0 705 m-1 in the case of a gas having an absorption coefficient of 1 77 m-1. 3.8.3.
+The opacimeter shall be equipped with appropriate devices for measuring the pressure in the smoke chamber. 3.8.4.
+Temperature of the gas to be measured 3.9.1.
+At every point in the smoke chamber the gas temperature at the instant of measurement shall be between 70 ยบC and a maximum temperature, specified by the opacimeter manufacturer, such that the readings over this temperature range do not vary by more than 0 71 m-1 if the chamber is filled with a gas having an absorption coefficient of 1 77 m-1. 3.9.2.
+The opacimeter shall be equipped with appropriate devices for measuring the temperature in the smoke chamber. 4.
+The effective length of the light path is obtained by comparing the reading N of the opacimeter operating normally with the reading No obtained with the opacimeter modified so that the test gas fills a well defined length Lo. 4.1.3.
+The test gas shall be exhaust gas of constant opacity or a light-absorptive gas of a gravimetric density similar to that of the exhaust gas. 4.2.2.
+If necessary, an expansion tank of compact design and of sufficient capacity to damp the pulsations may be incorporated in the sampling line as near to the probe as possible.
+With the opacimeter operating normally, the reading on the linear scale of opacity is N and that of the mean gas temperature expressed in Kelvin degrees is T. 4.2.5.3.
+The test shall be repeated with at least four test gases giving readings evenly spaced between the 20 and 80 on the linear scale. 4.2.8.
+The back pressure measured in the exhaust pipe at the intake of the probe shall not exceed 75 mm (water gauge). 2.1.2.
+To achieve this, the probe shall be placed as far downstream in the exhaust pipe as possible, or, if necessary, in an extension pipe so that, if D is the diameter of the exhaust pipe at the outlet, the end of the probe is situated in a straight portion at least 6 D in length upstream of the sampling point and 3 D in length downstream.
+If necessary, an expansion tank of compact design and of sufficient capacity to damp the pulsations may be incorporated in the sampling line as near to the probe as possible.
+The connecting pipes between the probe, the cooling device, the expansion tank (if required) and the opacimeter shall be as short as possible while satisfying the pressure and temperature requirements described in Annex VII, items 3.8 and 3.9.
+The ratio of the cross-sectional area of the probe to that of the exhaust pipe shall not be less than 0 705.
+The back pressure measured in the exhaust pipe at the intake of the probe shall not exceed 75 mm (water gauge). 2.2.2.
+To achieve this, the probe shall be placed as far downstream in the exhaust pipe as possible or, if necessary, in an extension pipe so that, if D is the diameter of the exhaust pipe at the outlet, the end of the probe is situated in a straight portion at least 6 D in length upstream of the sampling point and 3 D in length downstream.
+Whichever method is used, the back pressure measured in the exhaust pipe at the intake of the probe shall not exceed 75 mm (water gauge). 2.2.4.
+The pipes connecting with the opacimeter shall be as short as possible.

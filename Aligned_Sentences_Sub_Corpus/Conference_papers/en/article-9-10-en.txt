@@ -1,0 +1,3 @@
+In the derivation process, elementary structures combine successively, each new elementary structure combining with at least one object of the previous result; this ensures that the derived structure is continuous.
+Polarities are only necessary to control the saturation and are not considered when the strong generative capacity of the grammar is estimated.
+Polarities belong to the declarative part of the grammar, but they rather play a role in the processing of the grammar.

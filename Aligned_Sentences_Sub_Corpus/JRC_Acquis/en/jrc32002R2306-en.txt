@@ -1,0 +1,9 @@
+The requirement to notify the Commission shall apply to at least the products released for free circulation at the markets and ports listed in Table 3 of the Annex. 3.
+Article 2 Regulation (EC) No 2211/94 is repealed.
+Article 3 This Regulation shall enter into force on 1 January 2003.
+Done at Brussels, 20 December 2002.
+For the Commission Franz Fischler Member of the Commission (1) OJ L 17, 21.2.2000, p. 22. (2) OJ L 238, 13.9.1994, p. 1. (3) OJ L 340, 31.12.1999, p. 51.
+Message format 2.1.
+It looks as follows: %amp%lt; TTL %amp%gt;MK-IMPORT %amp%lt; RMS %amp%gt;C(3) %amp%lt; DSE %amp%gt;YYYYMMDD; %amp%lt; MTYP %amp%gt;C(19); %amp%lt; LOT %amp%gt;C(16); %amp%lt; MON %amp%gt;C(3); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); ... 2.2.
+FIDES II format For Member State administrations making full use of FIDES II, the following format shall be used: %amp%lt; FIDES2 %amp%gt; %amp%lt; HEAD %amp%gt; %amp%lt; REQUEST.NAME %amp%gt;MK-IMPORT %amp%lt; REQUEST.COUNTRY.ISO_A3 %amp%gt;C(3) %amp%lt; /HEAD %amp%gt; %amp%lt; BODY %amp%gt; %amp%lt; DSE %amp%gt;YYYYMMDD; %amp%lt; MTYP %amp%gt;C(19); %amp%lt; LOT %amp%gt;C(16); %amp%lt; MON %amp%gt;C(3); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); %amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); ... %amp%lt; /BODY %amp%gt; %amp%lt; /FIDES2 %amp%gt; 3.
+Codes Table 1 Member State codes %gt%TABLE%gt% Table 2 Currency codes %gt%TABLE%gt% Table 3 Entry ports %gt%TABLE%gt%

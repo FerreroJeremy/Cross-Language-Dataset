@@ -1,0 +1,22 @@
+Article 2 Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.
+Fait à Bruxelles, le 21 octobre 2003.
+Par la Commission Pedro Solbes Mira Membre de la Commission (1) JO L 165 du 3.7.2003, p. 1.
+Dans les pays dotés d'un panel de quatre ans utilisant un échantillon d'adresses ou de ménages, tous les membres des ménages âgés de 14 ans ou plus figurant dans l'échantillon initial font partie des individus panels.
+Numéro d'identification du ménage 1.
+Dans la composante transversale, le numéro d'identification fixe du ménage (ID) est un nombre séquentiel. 2.
+Dans la composante longitudinale, le numéro d'identification du ménage (ID) se compose du numéro du ménage et du numéro d'éclatement.
+Si le nouveau ménage se trouve à une nouvelle adresse, il lui est attribué le numéro de ménage et le numéro d'éclatement du ménage de l'individu panel qui possède à présent le numéro personnel le plus bas dans le %quot%registre des ménages%quot%. 2.2.
+Numéro d'identification personnel 1.
+Dans les composantes transversale et longitudinale, le numéro d'identification personnel se compose de l'ID du ménage et du numéro personnel. 2.
+Dans la composante longitudinale, le numéro personnel à attribuer à tout nouveau membre du ménage s'obtient en ajoutant 1 au numéro personnel le plus élevé utilisé pour toutes les années de l'enquête et l'ID du ménage. 3.
+Dans la composante longitudinale, l'ID du ménage est le %quot%numéro d'identification du ménage%quot% du ménage où la personne apparaît pour la première fois dans le panel. 4.
+INFORMATIONS À COLLECTER 1.
+Le répondant est choisi sur la base des priorités suivantes: - priorité 1: la personne responsable du logement, - priorité 2: le membre du ménage âgé de 16 ans ou plus qui est le mieux placé pour donner les informations. 2.
+Pour la deuxième vague et les vagues suivantes de la composante longitudinale des statistiques EU-SILC, le répondant est choisi sur la base de la liste suivante de priorités: - priorité 1: le répondant de la vague précédente, - priorité 2: un individu panel âgé de 16 ans ou plus, priorité étant à accorder à la personne responsable du logement ou la mieux placée pour donner les informations, - priorité 3: un individu non membre du panel âgé de 16 ans ou plus. 5.
+Le taux de substitution est maintenu à un niveau aussi bas que possible pour les variables personnelles relatives au revenu ainsi que pour toute variable requise pour au moins un membre du ménage âgé de 16 ans ou plus. 5.
+Dans la composante transversale et durant la première année de chaque panel dans la composante longitudinale, les substitutions contrôlées ne peuvent être autorisées que si le taux de réponse tombe sous la barre des 60 % et si l'une des situations suivantes se présente: - adresse non contactée parce qu'elle n'a pas pu être localisée ou est inaccessible, - adresse contactée, mais entrevue non réalisée parce que le ménage refuse de coopérer, que tout le ménage est temporairement absent ou que le ménage est incapable de répondre.
+Un ménage ne peut pas être remplacé par un autre ménage non membre du panel résidant à la même adresse. 6.
+Par dérogation au paragraphe 1, si les variables de revenu sont collectées à partir de registres, l'intervalle entre la fin de la période de référence du revenu et la date de l'entrevue pour les variables courantes est limité à douze mois. 3.
+Pour la composante longitudinale, la durée de la collecte ou du calcul des données pour une unité déterminée (ménage ou individu), entre deux vagues consécutives, est maintenue aussi proche que possible de douze mois. 7.
+PROCÉDURES D'IMPUTATION 7.1.
+Les méthodes qui tiennent compte de la structure des corrélations (ou d'autres caractéristiques de la distribution conjointe des variables) sont préférables à l'approche marginale ou unidimensionnelle. (1) Voir page 1 du présent Journal officiel. (2) Voir page 34 du présent Journal officiel.

@@ -1,0 +1,3 @@
+En matemática, un elemento x'' de un anillo ''R se dice que es nilpotente si existe algún entero positivo n'' tal que ''xn = 0.EjemplosEsta definición puede ser aplicada en particular a matrices cuadradas.
+La matriz A = \begin0&1&0\\ 0&0&1\\ 0&0&0\end es nilpotente porque A³ = 0.
+Quantum Grav. 17:3703-3714,2000.categoría:teoría de anillosca:Nilpotent de:Nilpotenz en:Nilpotent fr:Nilpotent he:איבר נילפוטנטי hu:Nilpotens elem it:Nilpotente nl:Nilpotent pl:Element nilpotentny pt:Nilpotente ru:Нильпотентный элемент th:นิรพล zh:幂零元 zh-yue:冪零元

@@ -1,0 +1,5 @@
+Pour Réservations, nous obtenons une F-mesure de 64,8 %, i.e.
+plus de 10 % au dessus du classifieur simplifié.
+Pour la troisième évaluation, les résultats ne montrent pas d’amélioration par rapport aux baselines.
+C’est probablement dû à l’influence de l’ontologie qui adapte mieux les vecteurs de support au corpus d’entrainement (Verbmobil), les rendant moins pertinents pour le corpus de test.
+En désactivant les deux traits basés sur l’ontologie, nous obtenons 50,2 % de précision, 62,9 % de rappel et 55,8 % de F-mesure, soit une amélioration par rapport aux baselines.

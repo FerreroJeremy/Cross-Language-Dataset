@@ -1,0 +1,35 @@
+Los Estados miembros podrán dispensar de la aplicación del presente Reglamento a los vehículos contemplados en el apartado 1 del artículo 13 del Reglamento ( CEE ) n º 3820/85 .
+Los Estados miembros , previa autorización de la Comisión , podrán dispensar de la aplicación del presente Reglamento a los vehículos destinados a los transportes contemplados en el apartado 2 del artículo 13 del Reglamento ( CEE ) n º 3820/85 .
+Artículo 6 Los Estados miembros asignarán al solicitante una marca de homologación CEE que se ajuste al modelo establecido en el Anexo II para cada modelo de aparato de control o de hoja de registro que homologuen en virtud del artículo 5 .
+Artículo 10 Si el aparato llevare la marca de homologación CEE prevista en el artículo 6 y la placa de instalación mencionada en el artículo 12 , los Estados miembros no podrán denegar la matriculación ni prohibir la puesta en circulación o el uso de los vehículos equipados con el aparato de control por motivos inherentes a tal equipamiento .
+Artículo 11 Cada decisión por la que se deniegue o retire la homologación de un modelo de aparato de control o de hoja de registro adoptada en virtud del presente Reglamento , deberá estar precisamente motivada .
+CAPÍTULO IV Disposiciones relativas a la utilización Artículo 13 El empresario y los conductores deberán velar por el buen funcionamiento y la correcta utilización del aparato .
+Los Estados miembros podrán prever , en el marco de las disposiciones previstas en el artículo 19 , la concesión a las autoridades competentes de la facultad de prohibir el uso de los vehículos en caso de que no se repare la avería o el funcionamiento defectuoso en las condiciones anteriormente establecidas . 2 .
+Se pronunciará por mayoría cualificada , con arreglo al apartado 2 del artículo 148 del Tratado CEE .
+Artículo 20 Queda derogado el Reglamento ( CEE ) n º 1463/70 .
+Hecho en Bruselas , el 20 de diciembre de 1985 .
+KRIEPS (1) DO n º C 100 de 12 . 4 . 1984 , p. 3 y DO n º C 223 de 3 . 9 . 1985 , p. 5 . (2) DO n º C 122 de 20 . 5 . 1985 , p. 168 . (3) DO n º C 104 de 25 . 4 . 1985 , p. 4 y DO n º C 303 de 25 . 11 . 1985 , p. 29 . (4) DO n º L 164 de 27 . 7 . 1970 , p. 1 . (5) DO n º L 334 de 24 . 12 . 1977 , p. 1 . (6) DO n º L 370 de 31 . 12 . 1985 , p. 1 .
+r/km ) , bien en impulsos por kilómetro ( k = ...
+El coeficiente característico se expresa , bien en revoluciones por kilómetro ( w = ...
+r/km ) , bien en impulsos por kilómetro ( w = ...
+La medida de dichas distancias deberá hacerse en condiciones normales de prueba ( véase punto 4 de la sección VI del presente Anexo ) y se expresará en la forma « 1 = ...
+dispositivos indicadores : - de la distancia recorrida ( contador totalizador ) , - de la velocidad ( cuentarrevoluciones ) , - de tiempo ( reloj ) ; 1.2 .
+dispositivos de registro que incluyan : - un registrador de la distancia recorrida , - un registrador de la velocidad , - un registrador de tiempo o varios que se ajusten a las condiciones establecidas en el punto 4 de la letra c ) de la sección III ; 1.3 .
+Medida de la distancia recorrida Las distancias recorridas podrán sumarse y registrarse : - bien en marcha adelante y en marcha atrás , - bien únicamente en marcha adelante .
+El contador totalizador deberá poder indicar hasta 99 999,9 km por lo menos . 2 .
+El valor en velocidad del grado ( intervalo comprendido entre dos marcas consecutivas ) no deberá exceder del 10 % de la velocidad máxima que figure en la escala . 2.2 .
+La longitud del intervalo de la graduación correspondiente a una diferencia de velocidad de 10 km/h no deberá ser inferior a 10 mm . 2.4 .
+En un indicador con aguja , la distancia entre la aguja y la esfera no deberá ser superior a 3 mm . 3 .
+En los aparatos de banda , cuando el mecanismo de avance de las hojas esté accionado por el mecanismo del reloj , la velocidad de avance rectilíneo será de 10 mm/h por lo menos . 1.4 .
+Toda variación de 10 km/h de la velocidad debe estar representada en el diagrama por una variación de 1,5 mm por lo menos de la coordenada correspondiente . 4 .
+El aparato de control deberá estar fabricado de modo que , mediante un dispositivo de conmutación , sea posible el registro automático y diferenciado de cuatro bloques de tiempos , tal como se indica en el artículo 15 del Reglamento . 4.2 .
+Las características de los trazos , sus posiciones relativas y , en su caso , los signos previstos en el artículo 15 del Reglamento deberán permitir reconocer claramente los distintos tiempos .
+En la esfera del aparato deberán figurar las menciones siguientes : - al lado del número indicado por el contador totalizador , la unidad de medida de las distancias , con su símbolo « km » , - al lado de la escala de velocidad , la indicación « km/h » , - el margen de medida del cuentarrevoluciones con la indicación « Vmin ...
+En la placa descriptiva acoplada al aparato , deberán figurar las indicaciones siguientes , que deberán ser visibles en el aparato instalado : - nombre y apellidos y domicilio del fabricante del aparato , - número de fabricación y año de construcción , - marca de homologación del modelo del aparato , - la constante del aparato , en la forma « k = ...
+En la utilización : a ) distancia recorrida : ± 4 % de la distancia real , siendo ésta por lo menos igual a 1 km ; b ) velocidad : ± 6 km/h , con relación a la velocidad real ; c ) tiempo : ± 2 mm por día , o ± 10 mm por período de 7 días . 4 .
+Además , deberá ser posible inscribir en las hojas , sin deteriorarlas ni impedir la lectura de los registros , las indicaciones mencionadas en el apartado 5 del artículo 15 del Reglamento .
+La zona reservada para el registro de la velocidad deberá estar subdividida de 20 en 20 km/h por lo menos .
+La última línea de dicha zona deberá coincidir con el límite superior del margen de medida . 3 .
+La placa deberá llevar , por lo menos , las indicaciones siguientes : - nombre y apellidos , dirección o marca del instalador o taller autorizado , - coeficiente característico del vehículo , en la forma « w = ...
+r/km » « w = ...
+imp/km » , - circunferencia efectiva de los neumáticos de las ruedas , en la forma « l = ...

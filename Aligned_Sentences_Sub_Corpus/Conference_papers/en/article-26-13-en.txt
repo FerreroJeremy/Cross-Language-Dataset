@@ -1,0 +1,3 @@
+Constraints Properties[3] are constraints that apply to categories, and specify syntax well formedness rules and phrase cohesion rules.
+There are seven kinds of properties : constituency, heads, unicity, requirement, exclusion, linearity and dependency detailed in section 2.2.
+For instance, linearity (or precedence) can be implemented using an order relation among integers.

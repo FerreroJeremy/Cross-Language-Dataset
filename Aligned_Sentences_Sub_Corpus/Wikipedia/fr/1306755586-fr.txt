@@ -1,0 +1,1 @@
+| environnement = Multiplate-forme | type = Serveur d'application | licence = GNU LGPL | site web = www.jboss.com/products/platforms/application ou labs.jboss.com/jbossas JBoss Application Server est un serveur d'applications J2EE Libre entièrement écrit en Java, publié sous licence GNU LGPL.

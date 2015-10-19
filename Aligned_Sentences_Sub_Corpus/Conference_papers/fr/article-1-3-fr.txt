@@ -1,0 +1,3 @@
+Le même dilemme persiste pour le seuillage de mesures d’intérêt telles que la confiance (i.e.
+En effet, des seuils élevés de confiance (ou de taux d’accroissement) génèrent un petit nombre de règles de classification presque pures qui sont rares (voire erronées si combinées avec un seuil de fréquence bas) alors que des seuils bas génèrent beaucoup de règles avec un intérêt limité.
+Ainsi, trouver un compromis entre seuil de fréquence et mesure d’intérêt n’est pas trivial.

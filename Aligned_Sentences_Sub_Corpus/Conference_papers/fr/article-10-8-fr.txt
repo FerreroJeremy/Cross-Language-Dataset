@@ -1,0 +1,3 @@
+La figure 1 présente un transducteur sous-séquentiel simple avec les notations habituelles des automates.
+Il représente la fonction de traduction qui fait correspondre un mot d’entrée vide à la séquence de sortie D, a(bc)n à A(BC)nE et a(bc)nb à A(BC)nBF.
+En revanche, un mot comme abca n’est pas reconnu, et donc non traduit par ce transducteur.

@@ -1,0 +1,2 @@
+The y-axis corresponds to the normalized mutual information between the compared clusterings.
+We compare the real micro-communities to the clustering given by N2(T) and F(T) (orange and red curves respectively) and the real macro-communities to the clustering given by N1(T) (blue curves).

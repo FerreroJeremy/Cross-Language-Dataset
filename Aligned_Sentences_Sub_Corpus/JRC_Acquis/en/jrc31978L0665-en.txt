@@ -1,0 +1,13 @@
+Article 3 This Directive is addressed to the Member States.
+However, until 1 October 1981, for type-approval in respect of emissions of vehicles of category M1 equipped with automatic transmissions, the limits L3 for nitrogen-oxide emissions given in the table in point 3.2.1.1.4 shall be multiplied by the factor 1 725.
+For vehicles of category M1 equipped with automatic transmissions which have been granted type-approval in respect of emissions before 1 October 1981, the limits L3 for nitrogen-oxide emissions given in the table in point 5.1.1.1 of this Directive shall be multiplied by the factor 1 725.
+A cooling condenser shall be installed between the tail pipe and the inlet valve to the bag or bags, so that the temperature of the gases at the condenser outlet is not reduced below 5 ºC.
+The brake is adjusted in the following way:%quot% The existing points 4.1.2, 4.1.3 and 4.1.4 become points 4.1.2.1, 4.1.2.2 and 4.1.2.3.
+Point 4.1.2.4 (new) to read: %quot%4.1.2.4.
+The brake can only be adjusted on the basis of road tests if the conditions of air pressure and temperature, on the road and at the location of the dynamometer bench, do not differ by more than ± 15 mbar and ± 8 ºC.%quot% Point 4.1.3 (new) to read: %quot%4.1.3.
+If the preceding method is not applicable, the bench is regulated in order to absorb the power exerted by the driving wheels at a constant speed of 50 km/h in accordance with the provisions of the table in point 4.2.
+Bring the roller(s) to a speed of 50 km/h and apply a suitable power to the dynamometer in accordance with the table in point 4.2 of Annex III. 4.5.
+Bring the roller(s) to a speed of at least 60 km/h. 4.7.
+Note the times taken for the speed of the roller(s) to decrease from 55 to 45 km/h. 4.9.
+The power Pa is to be calculated using the formula: %gt%PIC FILE= %quot%T0013477%quot%%gt% where: Pa = power absorbed by the dynamometer in kW, M1 = equivalent inertia of the driven roller in kg, V1 = initial speed in m/s (55 km/h = 15 728 m/s), V2 = final speed in m/s (45 km/h = 12 750 m/s), t = time needed by the roller(s) to slow down from 55 to 45 km/h. 4.10.
+Repeat operations 4.4 to 4.9 a sufficient number of times to cover the range of powers set out in Annexes III and V. 4.11.

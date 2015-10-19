@@ -1,0 +1,3 @@
+Generalizations of Bézier curves to higher dimensions are called Bézier surfaces, of which the Bézier triangle is a special case.Bézier curves were widely publicized in 1962 by the French engineer Pierre Bézier, who used them to design automobile bodies.
+The polygon formed by connecting the Bézier points with lines, starting with P'''0 and finishing with '''Pn'', is called the ''Bézier polygon (or control polygon).
+The numerator is a weighted Bernstein-form Bézier curve and the denominator is a weighted sum of Bernstein polynomials.Given n'' + 1 control points '''P'i, the rational Bézier curve can be described by:\mathbf(t) = \frac^n b_(t) \mathbf_w_i ^n b_(t) w_i or simply\mathbf(t) = \frac^n t^i (1-t)^\mathbf_w_i ^n t^i (1-t)^w_i .

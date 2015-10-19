@@ -1,0 +1,6 @@
+where s is the most specific synset that subsumes s1 and s2 in the WordNet hierarchy and P(s) represents the probability of the synset s estimated from a reference corpus, in this case the SemCor corpus.
+We used the implementation of this measure provided by the Perl module WordNet ::Similarity v0.06 (Patwardhan and Pedersen, 2003).
+The similarity between a sense and a synset is more precisely defined as the average value of the similarity values between the words that characterize the sense, or a subset of them, and the synset.
+The similarity between a word and a synset is equal to the highest similarity value among those between the synset and the synsets to which the word belongs to.
+A sense is mapped to the synset that is the most similar to it, providing that the similarity between them is higher than a fixed threshold (equal to 0.25 as in (Pantel and Lin, 2002)).
+Finally, the precision for a word is given by the proportion of its senses that match one of its synsets.

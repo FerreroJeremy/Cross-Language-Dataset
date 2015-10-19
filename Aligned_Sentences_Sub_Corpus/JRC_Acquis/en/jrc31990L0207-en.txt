@@ -1,0 +1,17 @@
+Formaldehyde standard : stock solution // Pour 10 g of formaldehyde ( 5.2.9 ) into a 1 000 ml volumetric flask and make up to 1 000 ml with water . // Determine the strength of this solution as follows : // Remove 5,00 ml; add 25,00 ml of the standard iodine solution ( 5.2.14 ) and 10,00 ml of the sodium hydroxide solution ( 5.2.10 ). // Allow to stand for five minutes . // Acidify with 11,00 ml of HCl ( 5.2.11 ) and titrate the excess standard iodine solution with standard sodium thiosulphate solution ( 5.2.15 ), using starch solution ( 5.2.13 ) as indicator . // 1 ml of iodine solution ( 5.2.14 ) is equivalent to 1,5 mg ( 1 ) ISO 5725 . 5.2.19 .
+Formaldehyde standard : diluted solution // Dilute the stock solution to 1/100th of its initial strength in the mobile phase ( 5.2.16 ). // 1 ml of this solution contrains about 37 mg formaldehyde . // Calculate the exact content . 5.3 .
+Standard laboratory apparatus; 5.3.2 .
+HPLC pump, pulsation-free; 5.3.3 .
+Injection valve with a 10 *l loop; 5.3.5 .
+Post-column reactor with the following components : // + one 1-litre three-neck flask, // + one 1-litre flask heater, // + two Vigreux columns with a minimum of 10 plates, two air-cooled, // + stainless steel tube ( for heat exchange ) 1,6 mm _ internal diameter 0,23 mm, length = 400 mm, // + Teflon tube 1,6 mm _ internal diameter 0,30 mm, length 5 m ( French knitting ) see Appendix 1 ), // + one T-piece without any dead volume ( Valco or equivalent ), // + three unions without any dead volume // Or : one post-column module Applied Biosystems PCRS 520 or equivalent fitted with a 1-ml reactor; 5.3.6 .
+Membrane filter, pore size 0,45 *m; 5.3.7 .
+Recorder; 5.3.14 .
+Vibrating stirrer ( vortex or equivalent ). 5.4 .
+Procedure 5.4.1 .
+Preparation of the samples 5.4.2.1 .
+Meanwhile, wash a cartridge ( 5.3.7 ) with 2 ml methanol ( 5.2.7 ), then condition with 5 ml water ( 5.2.1 ). // Pass 4 ml of the aqueous phase of the extract through the conditioned cartridge, discard the first 2 ml and recover the following fraction . 5.4.2.2 .
+Chromatographic conditions // _ Flowrate of the mobile phase : 1 ml/min, // _ Reagent flowrate : 0,5 ml/min, // _ Total flowrate at the detector outlet : 1,5 ml/min, // _ Injected volume : 10 *l, // _ Elution temperature : In the case of difficult separations, immerse the column in a bath of melting ice : wait for the temperature to stabilize ( 15-20 min ), // _ Temperature of post-column reaction : 100 *C, // _ Detection : 420 nm . // NB : The entire chromatographic system and post-column must be flushed out with water after use ( 5.2.1 ).
+Calculation // Emulsions : ( 5.4.2.1 ): // Formaldehyde content in % ( m/m ): 1.2.3.4 // C 10-6 100 5 m = C 10-4 5 m 1.2 // ******* ******** ** **** **** *** ******* ******* 1.2.3.4 // * // 10-6 100 m = C 10-4 m 1.2 // ***** * **** ** *** ****** ******** ** * * ************ ************* ** *g/100 ml read off from the calibration curve ( 5.4.1 ). 5.6 .
+Appendix 1 INTRUCTION FOR %quot%FRENCH KNITTING%quot% ACCESSORIES REQUIRED _ One wooden bobbin : external diameter 5 cm with a hole of 1,5 cm diameter made through the centre .
+Insert four steel nails ( as shown in Figures 1 and 2 ).
+Leave around 10 cm of tube to close the chain .

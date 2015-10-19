@@ -1,0 +1,21 @@
+The International Vine and Wine Office (OIV) adopted the new description of this method at its General Assembly in 2000. (2) Use of this measurement method can constitute a simpler and more accurate means of checking the alcoholic strength by volume of wines. (3) There is no longer any need to recognise the equivalence of this method with the methods described in Chapter 3 of the Annex to Commission Regulation (EEC) No 2676/90 [2], and Article 3(2) of that Regulation should therefore be deleted.
+Article 2 This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Union.
+Done at Brussels, 28 February 2005.
+For the Commission Mariann Fischer Boel Member of the Commission [1] OJ L 179, 14.7.1999, p. 1.
+Regulation as amended by the 2003 Act of Accession. [2] OJ L 272, 3.10.1990, p. 1.
+Method of measurement 1.1.
+Alcoholic strength by volume is defined in paragraph 1 of this chapter. 1.2.
+For the purposes of the regulatory provisions in force, the trial temperature is set at 20 °C. 1.3.
+The distilling method is described in paragraph 3 of this Chapter.
+The density can then be calculated – it is linked to the period of oscillation by the following formula: ρ =T2 × C4π2V - MV (1) ρ = density of the sample T = period of vibration induced M = mass of the empty tube C = spring constant V = volume of the sample in vibration This link takes the form ρ = A T2 – B (2); hence there is a linear relationship between the density and the period squared.
+The constants A and B are specific to each oscillator and are estimated by measuring the period of fluids of known density. 1.4.
+Reagents and products 1.4.1.
+A difference in the density of the reference fluids greater than 0,01000 g/ml is recommended.
+Their density must be known with a degree of uncertainty below +/- 0,00005 g/ml, at a temperature of 20,00 °C +/- 0,05 °C.
+To measure the alcoholic strength by volume using an electronic densimeter, the reference fluids are: - dry air (unpolluted), - water of at least grade 3 as defined by ISO 3696:1987 should be used, - hydroalcoholic solutions of reference density, - solutions linked to national viscosity standards below 2 mm2/s. 1.4.2.
+Cleaning and drying products - detergents, acids, - organic solvents: ethanol 96 % vol., pure acetone. 1.5.
+Controlling the temperature in the measuring cell The measuring tube is placed in a thermostatic chamber.
+The temperature stability must be +/- 0,02 °C or better.
+The trial temperature is set at 20 °C.
+In principle, calibration is carried out using dry air (taking into account atmospheric pressure) and extremely pure water (twice distilled and/or micro-filtered with extremely high resistivity &gt; 18 MΩ). 1.5.4.
+If the apparatus only gives the period, the density should be calculated using the constants A and B (see 1.3).

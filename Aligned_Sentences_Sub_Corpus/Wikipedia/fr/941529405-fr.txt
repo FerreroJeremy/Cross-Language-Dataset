@@ -1,0 +1,2 @@
+Cette solution offre des performances équivalentes à celles de PHP, voire de servlets Java.Perl a un statut de logiciel libre, distribué sous double licence : artistique et GPL.
+Le projet de compilation en bytecode commencé lors de Perl 5.005 par Malcom Beattie n'a jamais totalement abouti, n'a jamais été vraiment fonctionnel, et sera donc probablement retiré de Perl 5.10.

@@ -1,0 +1,2 @@
+Notre intuition est que le procédé de construction d’un arbre de parsage est similaire à une activité de configuration (en effet, de nouvelles constructions sont introduites pour grouper les mots au sein de catégories adéquates comme le syntagme verbal ou le syntagme nominal et ces constructions sont liées par des relations).
+Parmis les bénéfices potentiels se trouve le fait que nous pourrons prévoir la sémantique exacte pour des langages portant sur un domaine de connaissance défini et aussi qu’une étroite collaboration entre la syntaxe et la sémantique pourra être obtenue.

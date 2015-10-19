@@ -1,0 +1,2 @@
+Pour chaque UD, nous avons demandé à deux annotateurs d’identifier comment les options sont exprimées et ensuite d’indiquer comment les préférences sur ces options sont liées entre elles en utilisant les opérateurs spécifiques not, &, or et ->?.
+Nous donnons ci-dessous un exemple de comment certains segments sont annotés. < o >_i indique que o est l’option numéro i dans le segment, et le symbole // est utilisé pour séparer les deux niveaux d’annotation.

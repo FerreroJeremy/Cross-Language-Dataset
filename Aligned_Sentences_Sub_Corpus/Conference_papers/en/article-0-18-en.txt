@@ -1,0 +1,5 @@
+SummarizeLog Algorithm SummarizeLog algorithm is a greedy algorithm successively summarizing the queries of a log using QSL operators until a given length a for the summary is reached.
+The QSL expression used is that maximizing h f -measure while changing the log.
+Two strategies are defined for the choice of the expression.
+The second strategy checks for each pair of consecutive queries what is the QSL binary operation maximizing h f -measure and applies this operation.
+Then the strategy looks for on this result, the unary operation maximizing h f -measure (strategy 2).

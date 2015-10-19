@@ -1,0 +1,2 @@
+Le Simplified Molecular Input Line Entry Specification ou SMILES est un langage symbolique de description de la structure des molécules chimiques sous forme de courtes chaînes de caractères ASCII.
+Par exemple, la représentation SMILES de l'eau est O, celle de l'éthanol est CCO.Liaisons : La liaison simple est implicite et n'est pas représentée.

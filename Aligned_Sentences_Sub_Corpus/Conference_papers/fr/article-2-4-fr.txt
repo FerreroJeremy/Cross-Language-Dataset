@@ -1,0 +1,3 @@
+Les expérimentations ont été menées sur environ 100000 commentaires d’utilisateurs sur des produits du site amazon.com, avec l’objectif d’étudier le vocabulaire utilisé en fonction du type de commentaire.
+Les commentaires, en anglais, ont été lemmatisés 1 et grammaticalement filtrés afin de supprimer les termes jugés inintéressants, en utilisant l’outil tree tagger de Schmid (1994).
+Nous avons conservé les verbes (mis à part les verbes modaux et le verbe «être »), les noms, les adjectifs et les adverbes.

@@ -1,0 +1,2 @@
+µ est la différence entre les entropies conditionnelles de la règle par défaut et d’une règle p.
+Plus µ est grand plus p est intéressante. µ peut aussi être vu comme le nombre de bits sauvegardés lorsqu’on compresse les données en utilisant p au lieu de pØ.

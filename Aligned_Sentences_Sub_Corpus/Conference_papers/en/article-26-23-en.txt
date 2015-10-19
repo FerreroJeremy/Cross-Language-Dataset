@@ -1,0 +1,4 @@
+Table 4 illustrates several possible sessions with the parser.
+In this table, the system states are described as triples )words, syntax, semantic* ("?" denotes an unknown object, and "+" an unknown word), and the system behaviour is denoted using input state ,- output state rules.
+The first two lines correspond to pure analysis use cases.
+The other two lines in table 4 illustrate generative or hybrid uses of the the program.

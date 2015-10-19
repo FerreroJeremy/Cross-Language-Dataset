@@ -1,0 +1,1 @@
+To overcome this difficulty, we also tested a measure that relies not only on first order cooccurrences but also on second order cooccurrences, which are known to be “less sparse and more robust” than first order ones (Schütze, 1998).

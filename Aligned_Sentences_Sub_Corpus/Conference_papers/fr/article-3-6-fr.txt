@@ -1,0 +1,4 @@
+Une mesure de proximité peut être définie de manière intuitive, par exemple, comme le fait Lin (1998) et selon les hypothèses retenues ou les axiomes requis, cela débouche sur des mesures ayant des propriétés diverses et variées.
+Le terme proximité recouvre des significations telles que la similarité, la ressemblance, la dissimilarité, la dissemblance, etc.
+On trouve dans la littérature des dizaines de mesures différentes, notamment si on prend en compte la diversité des types de données (binaires, quantitatifs, qualitatifs, flou...).
+Dès lors, le choix de la mesure de proximité reste posé.

@@ -1,0 +1,2 @@
+The dimensions of a matrix are always given with the number of rows first, then the number of columns.
+Texts which use any such language extensively frequently follow that convention, so we have 0&nbsp;≤&nbsp;i''&nbsp;≤&nbsp;''m-1 and 0&nbsp;≤&nbsp;j''&nbsp;≤&nbsp;''n-1.A matrix where one of the dimensions equals one is often called a vector, and interpreted as an element of real coordinate space.

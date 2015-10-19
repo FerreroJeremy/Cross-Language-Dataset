@@ -1,0 +1,3 @@
+La décomposition hiérarchique obtenue par l’algorithme de Blondel et al. (2008) sans optimisation donne des résultats semblables.
+Une visualisation est disponible en figure 3.
+Les niveaux N1(T) et N2(T) y sont dessinés à l’aide d’enveloppes concaves bleues et grises respectivement.

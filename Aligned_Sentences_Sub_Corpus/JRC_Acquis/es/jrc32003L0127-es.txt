@@ -1,0 +1,54 @@
+Artículo 3 La presente Directiva entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea.
+Artículo 4 Los destinatarios de la presente Directiva serán los Estados miembros.
+Hecho en Bruselas, el 23 de diciembre de 2003.
+Por la Comisión Loyola De Palacio Vicepresidente (1) DO L 138 de 1.6.1999, p. 57. (2) DO L 46 de 17.2.1997, p. 1. (3) DO L 281 de 23.11.1995, p. 31.
+ANEXO %quot%ANEXO I PARTE I DEL PERMISO DE CIRCULACIÓN(1) I.
+Las características de la versión en papel se describen en el capítulo II y las de la versión de tarjeta inteligente en el capítulo III.
+Las dimensiones totales del permiso de circulación no excederán de las del formato A4 (210 × 297 mm) o las de una carpeta de formato A4.
+La primera página de la parte I del permiso de circulación incluirá: - el nombre del Estado miembro expedidor de la parte I del permiso de circulación, - el signo distintivo del Estado miembro expedidor de la parte I del permiso de circulación, a saber: B Bélgica DK Dinamarca D Alemania GR Grecia E España F Francia IRL Irlanda I Italia L Luxemburgo NL Países Bajos A Austria P Portugal FIN Finlandia S Suecia UK Reino Unido - el nombre de la autoridad competente, - las palabras %quot%Permiso de circulación (Parte I)%quot% o las palabras %quot%Permiso de circulación%quot% en caso de que el permiso se componga de una sola parte, impresas en caracteres grandes en la lengua o lenguas del Estado miembro expedidor del permiso de circulación; dichas palabras figurarán también en caracteres pequeños, después de un espacio adecuado, en las demás lenguas de la Comunidad Europea, - las palabras %quot%Comunidad Europea%quot% impresas en la lengua o lenguas del Estado miembro expedidor de la parte I del permiso de circulación, - el número del documento.
+En el anverso y en el reverso de la tarjeta aparecerán impresos al menos los datos recogidos en los puntos II.4 y II.5: los datos serán legibles a simple vista (altura mínima por carácter: 6 puntos) e impresos como se detalla a continuación (véanse en la figura 1 al final de la presente sección ejemplos de posibles formas de presentación.) A.
+Se garantizará la seguridad frente a falsificaciones del material utilizado para la parte I del permiso de circulación utilizando al menos tres de las siguientes técnicas: - microimpresión, - fondo labrado de seguridad*, - impresión iridiscente, - grabado por láser, - tinta fluorescente ultravioleta, - tintas cuyo color depende del ángulo de visión*, - tintas cuyo color depende de la temperatura*, - hologramas específicos*, - imágenes variables por láser, - imágenes ópticas variables.
+Los datos que figuran en las secciones A y B se almacenarán en dos ficheros correspondientes con estructura transparente (véase ISO/IEC 7816-4).
+De ese modo, antes del proceso de autentificación se intercambiarán certificados verificables por tarjeta con arreglo a ISO/IEC 7816-8.
+Los certificados son firmados por las autoridades nacionales competentes y contienen un objeto de autorización (autorización del titular del certificado) conforme a ISO/IEC 7816-9 con el fin de codificar una autorización específica de función para la tarjeta.
+Las firmas electrónicas y los certificados podrán leerse sin restricciones.
+Las siguientes simplificaciones están permitidas: - NAD Byte: no se utiliza (la dirección NAD deberá configurarse a %quot%00%quot%), - S-Block ABORT: no se utiliza, - S-Block VPP estado de error: no se utiliza.
+Las tarjetas deberán poder funcionar correctamente en el intervalo de humedad comprendido entre el 10 % y el 90 %.
+Las condiciones de acceso se describen en el punto III.2.
+Cuadro 1 %gt%SITIO PARA UN CUADRO%gt% III.11.
+Estructura de los datos Los certificados almacenados serán de formato X.509v3 con arreglo a ISO/IEC 9594-8.
+Los campos de valor se codificarán como carácter ASCII según la definición de ISO/IEC 8824-1, los valores %quot%C0%quot%-%quot%FF%quot% se definen en ISO/IEC 8859-1 (conjuntos de caracteres Latín1), ISO/IEC 8859-7 (conjunto de caracteres griego) o ISO/IEC 8859-5 (conjuntos de caracteres cirílico).
+De no señalarse lo contrario, los objetos de datos enumerados en el cuadro 2 son obligatorios.
+Cuadro 3 %gt%SITIO PARA UN CUADRO%gt% La estructura y formato de los datos con arreglo al punto II.7 serán fijados por los Estados miembros.
+Selección de la aplicación La aplicación %quot%Matriculación del vehículo%quot% podrá seleccionarse a través del mando SELECT DF (por nombre, véase ISO/IEC 7816-4) con su identificador de aplicación (AID).
+Lectura de datos de los ficheros Los ficheros correspondientes a las secciones A, B y D del capítulo II, podrán seleccionarse a través del mando SELECT (véase ISO/IEC 7816-4) con el parámetro del mando P1 situado en %quot%02%quot%, el parámetro P2 situado en %quot%04%quot% y el campo de datos del mando con el identificador de (véase el capítulo X, cuadro 1).
+Los ficheros podrán leerse mediante el comando READ BINARY (véase ISO/IEC 7816-4) con un campo de datos de mando ausente y Le configurado para to la longitud de los datos previstos, utilizando un valor de Le corto.
+ANEXO II PARTE II DEL PERMISO DE CIRCULACIÓN(1) I.
+Las características de la versión en papel se describen en el capítulo II y las de la versión de tarjeta inteligente en el capítulo III.
+Especificaciones de la Parte II del permiso de circulación (formato en papel) II.1.
+Las dimensiones totales del permiso de circulación no excederán de las del formato A4 (210 × 297 mm) o las de una carpeta de formato A4.
+La parte II del permiso de circulación incluirá también los datos siguientes, precedidos de los códigos comunitarios armonizados correspondientes: (A) número de matrícula (B) fecha de la primera matriculación del vehículo (D) vehículo: (D.1) marca, (D.2) tipo: - variante (si procede), - versión (si procede), (D.3) denominación(es) comercial(es) (E) número de identificación del vehículo (K) número de homologación CE, si procede: II.6.
+Los Estados miembros podrán incluir información adicional en la Parte II del permiso de circulación; en particular, podrán añadir, entre paréntesis, a los códigos de identificación previstos en los puntos II.5 y II.6, códigos nacionales complementarios.
+Especificaciones de la Parte II del permiso de circulación (formato de tarjeta inteligente) (Optativo en lugar del modelo en papel descrito en el capítulo II) III.1.
+En el anverso y en el reverso de la tarjeta aparecerán impresos al menos los datos previstos en los puntos II.4 y II.5; los datos serán legibles a simple vista (altura mínima por carácter: 6 puntos) e impresos como se detalla a continuación (en la figura 2 al final de la presente sección se presentan ejemplos de posibles formas de presentación).
+Se garantizará la seguridad frente a falsificaciones del material utilizado para la parte II del permiso de circulación utilizando al menos tres de las siguientes técnicas: - microimpresión, - fondo labrado de seguridad*, - impresión iridiscente, - grabado por láser, - tinta fluorescente ultravioleta, - tintas cuyo color depende del ángulo de visión*, - tintas cuyo color depende de la temperatura*, - hologramas específicos*, - imágenes variables por láser, - imágenes ópticas variables.
+Los datos que figuran en las secciones A y B se almacenarán en dos ficheros correspondientes con estructura transparente (véase ISO/IEC 7816-4).
+De ese modo, antes del proceso de autentificación se intercambiarán certificados verificables por tarjeta con arreglo a ISO/IEC 7816-8.
+Los certificados son firmados por las autoridades nacionales competentes y contienen un objeto de autorización (autorización del titular del certificado) conforme a ISO/IEC 7816-9 con el fin de codificar una autorización específica de función para la tarjeta.
+Las tarjetas almacenarán los siguientes datos: - firma electrónica de los datos de matriculación relativos a la sección A, - firma electrónica de los datos de matriculación relativos a la sección B, Para la verificación de estas firmas electrónicas la tarjeta almacenará: - certificados de la autoridad expedidora por los que se calculan las firmas sobre los datos de las secciones A y B.
+Tensión de alimentación, Tensión de programación La tarjeta debe funcionar con Vcc = 3V (+/- 0.3V) o con Vcc = 5V (+/- 0.5V).
+Este valor deberá ser al menos %quot%80h%quot% (= 128 bytes).
+Selección de parámetros de protocolo El soporte de la selección de los parámetros de protocolo (PPS) con arreglo a ISO/IEC 7816-3 es obligatorio.
+Protocolo de transmisión T = 1 El soporte de encadenado es obligatorio.
+Las siguientes simplificaciones están permitidas: - NAD Byte: no se utiliza (la dirección NAD deberá configurarse a %quot%00%quot%), - S-Block ABORT: no se utiliza, - S-Block VPP estado de error: no se utiliza.
+Las tarjetas deberán poder funcionar correctamente en el intervalo de humedad comprendido entre el 10 % y el 90 %.
+Las condiciones de acceso se describen en el punto III.2.
+Cuadro 1 %gt%SITIO PARA UN CUADRO%gt% III.11.
+Estructura de los datos Los certificados almacenados serán de formato X.509v3 con arreglo a ISO/IEC 9594-8.
+Los campos de valor se codificarán como carácter ASCII según la definición de ISO/IEC 8824-1, los valores %quot%C0%quot%-%quot%FF%quot% se definen en ISO/IEC 8859-1 (conjuntos de caracteres Latín1), ISO/IEC 8859-7 (conjunto de caracteres Griego) o ISO/IEC 8859-5 (conjuntos de caracteres Cirílico).
+El cuadro 2 enumera las etiquetas por las que se identifican los objetos de datos correspondientes a los datos de matriculación de los puntos II.4 y II.5 junto con los datos complementarios del punto III.1.
+De no señalarse lo contrario, los objetos de datos enumerados en el cuadro 2 son obligatorios.
+Cuadro 3 %gt%SITIO PARA UN CUADRO%gt% La estructura y formato de los datos con arreglo al punto II.7 serán fijados por los Estados miembros.
+Selección de la aplicación La aplicación %quot%Matriculación del vehículo%quot% podrá seleccionarse a través del mando SELECT DF (por nombre, véase ISO/IEC 7816-4) con su identificador de aplicación (AID).
+Lectura de datos de los ficheros Los ficheros correspondientes a las secciones A, B y D del capítulo II, podrán seleccionarse a través del mando SELECT (véase ISO/IEC 7816-4) con el parámetro del mando P1 situado en %quot%02%quot%, el parámetro P2 situado en %quot%04%quot% y el campo de datos del mando con el identificador de (véase el capítulo III. 10, cuadro 1).
+Los ficheros podrán leerse mediante el comando READ BINARY (véase ISO/IEC 7816-4) con un campo de datos de mando ausente y Le configurado para toda la longitud de los datos previstos, utilizando un valor de Le corto.

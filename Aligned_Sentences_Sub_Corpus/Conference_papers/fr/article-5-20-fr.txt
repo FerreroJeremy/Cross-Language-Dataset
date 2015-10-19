@@ -1,0 +1,3 @@
+Il comprend 515 auteurs (sommets) et 1318 relations.
+Les algorithmes Oslom et Infomap identifient au premier niveau des sous-graphes de grande taille (une centaine d’individus).
+Bien que facilement séparables du reste du réseau, ces sousgraphes ne sont pas très denses, ils comportent notamment beaucoup de composantes biconnexes.

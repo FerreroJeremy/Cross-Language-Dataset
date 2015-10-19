@@ -1,0 +1,3 @@
+Filtrage logique Bien sûr, le schéma ci-dessus est très naïf, spécialement si nous tenons compte de la ressource que nous traitons.
+En effet, B est possiblement un terme polysémique et des méthodes pour bloquer les inférences certainement fausses peuvent et doivent être conçues.
+Si le terme B relié à la première et la deuxième relation a deux sens distincts, alors probablement l’inférence est fausse.

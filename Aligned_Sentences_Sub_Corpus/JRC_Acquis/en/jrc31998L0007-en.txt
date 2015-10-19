@@ -1,0 +1,22 @@
+Directive as last amended by Directive 97/55/EC (OJ L 280, 23.10.1997, p. 18).`; (e) Annex II shall be replaced by the text of Annex I attached hereto; (f) Annex III shall be replaced by the text of Annex II attached hereto.
+Article 3 This Directive is addressed to the Member States.
+Done at Brussels, 16 February 1998.
+GIL-ROBLES For the Council The President J.
+CUNNINGHAM (1) OJ C 235, 13.8.1996, p. 8 and OJ C 137, 3.5.1997, p. 9. (2) OJ C 30, 30.1.1997, p. 94. (3) Opinion of the European Parliament of 20 February 1997 (OJ C 85, 17.3.1997, p. 108), Council Common Position of 7 July 1997 (OJ C 284, 19.9.1997, p. 1) and Decision of the European Parliament of 19 November 1997.
+Council Decision of 18 December 1997. (4) OJ L 42, 12.2.1987, p. 48.
+Directive as amended by Directive 90/88/EEC (OJ L 61, 10.3.1990, p. 14).
+A year is presumed to have 365 days or 365,25 days or (for leap years) 366 days, 52 weeks or 12 equal months.
+CALCULATION OF THE ANNUAL PERCENTAGE RATE OF CHARGE ON A CALENDAR BASIS (1 YEAR = 365 DAYS (OR 366 DAYS FOR LEAP YEARS)) First example Sum loaned: S = ECU 1 000 on 1 January 1994.
+It is repaid in a single payment of ECU 1 200 made on 1 July 1995 i.e. 1 ½ years or 546 (= 365 + 181) days after the date of the loan.
+The equation becomes: %gt%TABLE%gt% or: %gt%TABLE%gt% This amount will be rounded to 13 % (or 12,96 % if an accuracy of two decimal places is preferred).
+Second example The sum loaned is S = ECU 1 000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1 200, as in the first example, is again made on 1 July 1995.
+The equation becomes: %gt%TABLE%gt% or: %gt%TABLE%gt% This amount will be rounded to 16,9 %.
+The equation becomes: %gt%TABLE%gt% It is solved by algebra and produces i = 0,1306623 rounded to 13,1 % (or 13,07 % if an accuracy of two decimal places is preferred).
+Fourth example The sum loaned is S = ECU 1 000, on 1 January 1994, and the amounts to be paid by the borrower are: %gt%TABLE%gt% The equation becomes: %gt%TABLE%gt% This equation allows i to be calculated by successive approximations, which can be programmed on a pocket calculator.
+The result is i = 0,13226 rounded to 13,2 % (or 13,23 % if an accuracy of two decimal places is preferred).
+CALCULATION OF THE ANNUAL PERCENTAGE RATE OF CHARGE ON THE BASIS OF A STANDARD YEAR (1 YEAR = 365 DAYS OR 365,25 DAYS, 52 WEEKS, OR 12 EQUAL MONTHS) First example Sum loaned: S = ECU 1 000.
+It is repaid in a single payment of ECU 1 200 made in 1,5 years (i.e. 1,5 × 365 = 547,5 days, 1,5 × 365,25 = 547,875 days, 1,5 × 366 = 549 days, 1,5 × 12 = 18 months, or 1,5 × 52 = 78 weeks) after the date of the loan.
+The equation becomes: %gt%TABLE%gt% or: %gt%TABLE%gt% This amount will be rounded to 12,9 % (or 12,92 % if an accuracy of two decimal places is preferred).
+The equation becomes: %gt%TABLE%gt% or: %gt%TABLE%gt% This amount will be rounded to 16,9 % (or 16,85 % if an accuracy of two decimal places is preferred).
+The equation becomes: %gt%TABLE%gt% It is solved by algebra and produces i = 0,13066 which will be rounded to 13,1 % (or 13,07 % if an accuracy of two decimal places is preferred).
+The result is i = 0,13185 which will be rounded to 13,2 % (or 13,19 % if an accuracy of two decimal places is preferred).`

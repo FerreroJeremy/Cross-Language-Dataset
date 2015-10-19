@@ -1,0 +1,4 @@
+Dans le même temps, une évolution récente de la programmation par contrainte vers les problèmes de configuration a favorisé le développement de configurateurs efficaces avec de potentielles applications en IA [Mai98, SNTS01].
+Un outil tel que JConfigurator [Mai98] repose entièrement sur des ensembles contraints de variables, tout comme l’implémentation des grammaires de dépendance dans [Duc99].
+Dans cet article, le parsage est vu comme une tache de configuration.
+Il est important de noter que l’implémentation de Mozart en langage OZ repose sur des contraintes de traits qui possèdent une application immédiate à l’analyse du langage naturel [VBD+03], ce qui de plus, accentue l’idée de mélanger ces concepts.

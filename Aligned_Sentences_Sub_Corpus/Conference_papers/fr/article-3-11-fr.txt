@@ -1,0 +1,2 @@
+Equivalence topologique L’équivalence topologique repose en fait sur la notion de graphe topologique que l’on désigne également sous le nom de graphe de voisinage.
+L’idée de base est en fait assez simple : deux mesures de proximité sont équivalentes si les graphes topologiques induits sur l’ensemble des objets restent identiques.

@@ -1,0 +1,22 @@
+Directiva cuya última modificación la constituye la Directiva 97/55/CE (DO L 290 de 23.10.1997, p. 18.»; e) el anexo II se sustituirá por el texto del anexo I adjunto; f) el anexo III se sustituirá por el texto del anexo II adjunto.
+Artículo 3 Los destinatarios de la presente Directiva serán los Estados miembros.
+Hecho en Bruselas, el 16 de febrero de 1998.
+GIL-ROBLES Por el Consejo El Presidente J.
+CUNNINGHAM (1) DO C 235 de 13.8.1996, p. 8 y DO C 137 de 3.5.1997, p. 9. (2) DO C 30 de 30.1.1997, p. 94. (3) Dictamen del Parlamento Europeo de 20 de febrero de 1997 (DO C 85 de 17.3.1997, p. 108), Posición común del Consejo de 7 de julio de 1997 (DO C 284 de 19.9.1997, p. 1) y Decisión del Parlamento Europeo de 19 de noviembre de 1997.
+Decisión del Consejo de 18 de diciembre de 1997. (4) DO L 42 de 12.2.1987, p. 48.
+Directiva modificada por la Directiva 90/88/CEE (DO L 61 de 10.3.1990, p. 14).
+Se partirá de la base de que un año tiene 365 ó 365,25 días o (en el caso de los años bisiestos) 366 días, 52 semanas o 12 meses de igual duración.
+CÁLCULO DEL PORCENTAJE ANUAL DE CARGAS FINANCIERAS BASADO EN EL CALENDARIO [1 AÑO = 365 DÍAS (O 366 DÍAS PARA LOS AÑOS BISIESTOS)] Primer ejemplo Suma prestada: S = 1 000 ecus el 1 de enero de 1994.
+Se devuelve en un pago único de 1 200 ecus efectuado el 1 de julio de 1995, es decir, 1,5 años o 546 (= 365 + 181) días después de la fecha del préstamo.
+La ecuación será la siguiente: %gt%SITIO PARA UN CUADRO%gt% o: %gt%SITIO PARA UN CUADRO%gt% Esta cantidad se redondeará a 13 % (o a 12,96 % si se prefiere una precisión de dos cifras decimales).
+Segundo ejemplo La suma prestada es S = 1 000 ecus, pero el acreedor retiene 50 ecus en concepto de gastos administrativos, de modo que el préstamo es en realidad de 950 ecus; el pago de 1 200 ecus, como en el primer ejemplo, se efectúa también el 1 de julio de 1995.
+La ecuación será la siguiente: %gt%SITIO PARA UN CUADRO%gt% o: %gt%SITIO PARA UN CUADRO%gt% Esta cantidad se redondeará a 16,9 %.
+La ecuación será la siguiente: %gt%SITIO PARA UN CUADRO%gt% Se efectúa el cálculo algebraico y se obtiene i = 0,1306623, redondeado a 13,1 % (o a 13,07 % si se prefiere una precisión de dos cifras decimales).
+Cuarto ejemplo La suma prestada es S = 1 000 ecus, el 1 de enero de 1994, y los importes que deberá devolver el deudor son: %gt%SITIO PARA UN CUADRO%gt% La ecuación será la siguiente: %gt%SITIO PARA UN CUADRO%gt% Esta ecuación permite calcular i mediante aproximaciones sucesivas, que pueden programarse en una calculadora de bolsillo.
+El resultado es i = 0,13226, redondeado a 13,2 % (o a 13,23 % si se prefiere una precisión de dos cifras decimales).
+CÁLCULO DEL PORCENTAJE ANUAL DE CARGAS FINANCIERAS SOBRE LA BASE DE UN AÑO NORMALIZADO (1 AÑO = 365 DÍAS O 365,25 DÍAS, 52 SEMANAS, O 12 MESES IGUALES) Primer ejemplo Suma prestada: S = 1 000 ecus.
+Se devuelve en un pago único de 1 200 ecus efectuado 1,5 años (es decir, 1,5 × 365 = 547,5 días, 1,5 × 365,25 = 547,875 días, 1,5 × 366 = 549 días, 1,5 × 12 = 18 meses, o 1,5 × 52 = 78 semanas) después de la fecha del préstamo.
+La ecuación será la siguiente: %gt%SITIO PARA UN CUADRO%gt% o: %gt%SITIO PARA UN CUADRO%gt% Esta cantidad se redondeará a 12,9 % (o a 12,92 % si se prefiere una precisión de dos cifras decimales).
+La ecuación será la siguiente: %gt%SITIO PARA UN CUADRO%gt% o: %gt%SITIO PARA UN CUADRO%gt% Esta cantidad se redondeará a 16,9 % (o a 16,85 % si se prefiere una precisión de dos cifras decimales).
+La ecuación será la siguiente: %gt%SITIO PARA UN CUADRO%gt% Se efectúa el cálculo algebraico y se obtiene i = 0,13066, redondeado a 13,1 % (o a 13,07 % si se prefiere una precisión de dos cifras decimales).
+El resultado es i = 0,13185, redondeado a 13,2 % (o a 13,19 % si se prefiere una precisión de dos cifras decimales).».

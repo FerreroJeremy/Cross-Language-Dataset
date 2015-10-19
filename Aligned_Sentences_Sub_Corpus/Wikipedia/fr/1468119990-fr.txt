@@ -1,0 +1,19 @@
+Contrairement aux éditeurs de texte modernes, TECO traitait la saisie, l'édition et l'affichage du document comme des modes séparés, tel que vi le fit plus tard.
+Ce comportement est similaire à celui du programme ed, toujours utilisé de nos jours.En 1972 (ou 1974), Richard Stallman visite le Stanford AI Lab et voit l'éditeur E''.
+Un programme de mise en forme de texte utilisé sur ITS a été plus tard appelé BOLIO par Dave Moon, qui fréquentait le marchand.
+Toutefois, Stallman n'aimait pas ces crèmes glacées, et ne les connaissait même pas quand il a choisi le nom « Emacs ».Stallman réalise alors le danger d'une trop grande personnalisation possible et des forks de facto.
+Multics Emacs est écrit en Maclisp, un dialecte de langage de programmation Lisp.
+Il est écrit en langage C et a la particularité d'utiliser un langage, Mocklisp, dont la syntaxe est inspirée de Lisp, comme langage pour les extensions.
+La version 13, le première distribuée publiquement, a été publiée le ).Tout comme Gosling Emacs, GNU Emacs fonctionne sur UNIX ; toutefois, GNU Emacs possède bien plus de fonctionnalités, particulièrement un environnement Lisp complet comme langage d'extension.
+C'est l'éditeur utilisé par Linus Torvalds.MG (éditeur), d'abord appelé MicroGNUEmacs, une ramification de MicroEMACS prévue pour ressembler davantage à GNU Emacs.
+Elle est maintenant installée par défaut sur OpenBSD.JOVE (Jonathan's Own Version of Emacs), une version non programmable d'Emacs pour les systèmes UNIX et assimilés, écrite par Jonathan Payne.Freemacs, une version DOS avec un langage d'extension basé sur une pile, le tout dans la limite de 64 Ko de mémoire vive.FonctionnalitésLa suite de cet article concerne principalement GNU Emacs et XEmacs, les deux variantes d'Emacs les plus largement utilisées actuellement.
+La première est l'extension customize, qui permet à l'utilisateur de fixer la valeur des variables communes de personnalisation, telles que le jeu de couleurs de l'interface graphique.
+Par exemple, l'utilisateur peut trouver la documentation à propos d'une séquence de touches en tapant simplement C-h k (qui exécute la commande describe-key) suivie de la séquence.
+Une copie (électronique) de GNU Emacs Manual, écrit par Richard Stallman, est incluse avec Emacs et peut être consultée avec le navigateur interne Info.
+Deux autres manuels, Emacs Lisp Reference Manual de Bill Lewis, Richard Stallman et Dan Laliberte, et Programming in Emacs Lisp de Robert Chassell sont aussi inclus.
+En plus de leur version électronique, tous ces manuels sont disponibles sous la forme de livres, publiés par la Free Software Foundation.Emacs propose également un tutoriel intégré.
+Quand Emacs est démarré sans fichier à éditer, il affiche des instructions pour effectuer des tâches d'édition simple et pour invoquer le tutoriel.InternationalisationEmacs permet l'édition de textes écrits dans différentes langues.
+Emacs est capable d'effectuer la vérification orthographique pour de nombreuses langues en faisant appel à des programmes externes, tel que ispell.
+Les manuels de XEmacs, dérivés des manuels de GNU Emacs, ont hérité de la même licence.
+Toutefois, la documentation recommande de démarrer Emacs sans indiquer de fichier, pour éviter la mauvaise habitude de lancer des emacs distincts pour chaque fichier édité.
+Cette technique, permettant d'accéder à plus de commandes qu'il n'y a de touches sur le clavier, a été popularisée par Emacs, qui l'a repris de TECMAC, l'un des jeux de macros qui précéda légèrement Emacs.

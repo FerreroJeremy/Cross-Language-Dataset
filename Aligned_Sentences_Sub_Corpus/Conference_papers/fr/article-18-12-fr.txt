@@ -1,0 +1,4 @@
+Avec eXtended WordNet, (Harabagiu et al., 1999) propose de désambiguïser l’ensemble des définitions de WordNet de façon semi-automatique.
+L’idée est, pour chaque définition, de dire quel est le sens utilisé pour chacun des termes.
+On peut ensuite comparer deux synsets et évaluer leur similarité.
+Nous verrons que nous utilisons ces informations pour fabriquer les vecteurs conceptuels de cette expérience.

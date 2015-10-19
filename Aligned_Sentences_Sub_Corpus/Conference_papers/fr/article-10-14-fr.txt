@@ -1,0 +1,2 @@
+les paires d’entraînement et de test sont issues de la moitié supérieure de la liste ; exp. 2.
+les paires d’entraînement sont issues de la moitié supérieure de la liste et celles de test de toute la liste.

@@ -1,0 +1,3 @@
+Annotation du discours Notre objectif est d’analyser comment les préférences sont linguistiquement exprimées dans des segments de dialogues.
+Deux étapes sont nécessaires : (i) identifier l’ensemble O des options (des termes) sur lesquelles portent les préférences d’un agent, (ii) identifier les éventuelles dépendances entre les éléments de O en utilisant un ensemble d’opérateurs spécifiques, c’est-à-dire identifier les préférences de l’agent parmi les options énoncées.
+Par exemple, dans Rencontrons nous lundi ou mardi, nous avons O = {lundi, mardi} où les options sont linguistiquement reliées par la conjonction ou qui signifie que l’agent est prêt à réaliser une de ces options, les préférant de manière égale.

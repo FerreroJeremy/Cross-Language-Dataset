@@ -1,0 +1,2 @@
+Pour une dimension Di, nous considérons que les membres sont arrangés selon une hiérarchie <i et nous notons m <i m0 (ou m < m0 lu m0 couvre m) le fait que le membre m0 est un ancêtre de m dans cette hiérarchie.
+Soit un tel cube, une référence de cellule (ou cellule par abus) est un n-uplet hm1; :::;mni où mi est un membre de la dimension Di; 8i 2 [1; n].

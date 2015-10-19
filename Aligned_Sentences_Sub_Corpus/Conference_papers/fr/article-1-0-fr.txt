@@ -1,0 +1,3 @@
+Introduction Les règles d’association (Agrawal et al., 1993) font certainement partie des motifs les plus étudiés en fouille de données.
+Dans les données binaires, une règle d’association est une expression de la forme p : X ?
+Intuitivement, la sémantique de p est : “lorsqu’on a observé les attributs de X, alors souvent on a observé aussi les attributs de Y ”.

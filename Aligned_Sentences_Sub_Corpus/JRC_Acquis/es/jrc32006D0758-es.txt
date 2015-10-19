@@ -1,0 +1,169 @@
+La orden de detención europea sustituye a todos los instrumentos anteriores en materia de extradición entre Estados miembros, incluidas las disposiciones del título III del Convenio de Schengen sobre extradición.
+La mayoría de las descripciones más recientes correspondientes al artículo 95 del Convenio de Schengen ("personas buscadas para su detención a efectos de extradición") irán acompañadas de una orden de detención europea.
+Por lo tanto, será preciso integrar y adaptar a las exigencias de la orden de detención europea los controles específicos y los procedimientos de trabajo que deben seguir los servicios Sirene, tanto a nivel interno, como en el marco de su colaboración. (3) La Decisión 2005/211/JAI del Consejo, de 24 de febrero de 2005, relativa a la introducción de nuevas funciones para el Sistema de Información de Schengen, inclusive en materia de lucha contra el terrorismo [5], introdujo una serie de nuevas funciones con respecto a la versión actual del Sistema de Información de Schengen ("SIS") relativas al acceso a determinado tipo de datos y a la grabación y transmisión de datos personales.
+Por lo que se refiere a los asuntos regulados por el Tratado CE, se sustituye el Manual Sirene por la versión que se recoge en el anexo 1 de la presente Decisión. 2.
+Las referencias al Manual Sirene que se sustituye se interpretarán como referencias a la versión del Manual Sirene que se recoge en el anexo 1 de la presente Decisión y se interpretarán de conformidad con el cuadro de correspondencias del anexo 2 de la presente Decisión.
+Hecho en Bruselas, el 22 de septiembre de 2006.
+Por la Comisión Franco Frattini Vicepresidente [1] DO L 64 de 2.3.2004, p. 45. [2] DO C 38 de 17.2.2003, p. 1. [3] DO L 239 de 22.9.2000, p. 19. [4] Decisión marco 2002/584/JAI del Consejo, de 13 de junio de 2002, relativa a la orden de detención europea y a los procedimientos de entrega entre Estados miembros (DO L 190 de 18.7.2002, p. 1). [5] DO L 68 de 15.3.2005, p. 44. [6] DO L 8 de 14.1.2003, p. 34. [7] Véase la página 1 del presente Diario Oficial. [8] DO L 131 de 1.6.2000, p. 43. [9] DO L 64 de 7.3.2002, p. 20. [10] DO L 176 de 10.7.1999, p. 31. [11] DO L 368 de 15.12.2004, p. 26. -------------------------------------------------- ANEXO 1 MANUAL SIRENE REVISADO [1] ÍNDICE Introducción 1.
+EL SISTEMA DE INFORMACIÓN DE SCHENGEN (SIS) Y LOS SERVICIOS NACIONALES SIRENE 1.1.
+Manual Sirene 1.4.
+Disponibilidad 1.4.2.
+Continuidad 1.4.3.
+Protección 1.4.4.
+Normas de transliteración 1.4.7.
+Calidad de los datos 1.4.8.
+Conocimientos 1.5.2.
+Infraestructura técnica 1.6.1.
+PROCEDIMIENTOS GENERALES 2.1.
+Descripciones múltiples (artículo 107) 2.1.1.
+Intercambio de información en caso de descripción múltiple 2.1.2.
+Intercambio de información en caso de respuesta positiva 2.2.1.
+Procedimientos para modificar la finalidad original 2.5.
+Procedimiento de rectificación 2.6.
+Intercambio de información sobre el derecho de acceso y de rectificación de datos 2.6.2.
+Información sobre solicitudes de acceso a descripciones introducidas por otros Estados miembros 2.6.3.
+Información sobre los procedimientos de acceso y rectificación 2.7.
+Usurpación de identidad 2.9.
+Sirpit (Transferencia de Imágenes en la red Sirene) 2.9.1.
+Desarrollo y origen de Sirpit (transferencia de imágenes en la red Sirene) 2.9.2.
+Uso posterior de los datos intercambiados, archivado incluido 2.9.3.
+Procedimiento Sirpit 2.9.6.1.
+El Sirene localizador efectuará la comparación del modo siguiente 2.9.6.2.
+Cooperación policial (artículos 39 a 46) 2.10.1.
+Título III (artículos 39 y 46) 2.11.
+Duplicidad de funciones de Sirene e Interpol 2.11.1.
+Prioridad de las descripciones del SIS sobre las de Interpol 2.11.2.
+Mejora en materia de cooperación entre los Sirene y las Oficinas Centrales Nacionales (OCN) de Interpol 2.12.
+Cooperación con Europol y Eurojust 2.13.
+Solicitud de introducción de una indicación de validez 2.14.4.
+Introducción sistemática de una indicación de validez en las descripciones de ciudadanos de determinados Estados miembros 3.
+Descripciones múltiples 3.3.1.
+Comprobación de la existencia de descripciones múltiples (artículo 107) 3.3.2.
+Intercambio de información 3.3.3.
+Introducción de un alias 3.4.
+Información complementaria para averiguar la identidad de una persona 3.4.4.
+Solicitud de introducción de una indicación de validez 3.5.4.
+Actuación de los Sirene al recibir una descripción correspondiente al artículo 95 3.7.
+Intercambio de información en caso de respuesta positiva 3.7.1.
+Usurpación de identidad 3.9.1.
+Acopio y transmisión de información sobre la persona cuya identidad haya sido usurpada 3.9.2.
+DESCRIPCIONES CORRESPONDIENTES AL ARTÍCULO 96 4.1.
+Descripciones correspondientes al artículo 96 4.3.
+Introducción de un alias 4.4.
+Usurpación de identidad 4.4.1.
+Acopio y transmisión de información sobre la persona cuya identidad haya sido usurpada 4.5.
+DESCRIPCIONES CORRESPONDIENTES AL ARTÍCULO 97 5.1.
+Descripciones correspondientes al artículo 97 5.2.
+Solicitud de introducción de una indicación de validez 5.3.
+DESCRIPCIONES CORRESPONDIENTES AL ARTÍCULO 98 6.1.
+Descripciones correspondientes al artículo 98 6.2.
+Descripciones correspondientes al artículo 99, apartado 2 7.2.
+Introducción de un alias 7.3.
+Solicitud de introducción de una indicación de validez 7.5.
+DESCRIPCIONES CORRESPONDIENTES AL ARTÍCULO 100 8.1.
+Descripciones de vehículos robados correspondientes al artículo 100 8.1.1.
+Dicha estructura recibió el nombre de "Sirene", siglas de su denominación en inglés: Supplementary Information REquest at the National Entry ("Solicitud de información complementaria al puesto fronterizo de entrada").
+Noruega e Islandia concluyeron asimismo un acuerdo de cooperación con los Estados miembros signatarios de Schengen el 19 de diciembre de 1996.
+El 12 de mayo de 1999 se aprobó una Decisión del Consejo, por la que se especificaba, de conformidad con las disposiciones pertinentes del Tratado constitutivo de la Comunidad Europea y del Tratado de la Unión Europea, el fundamento jurídico de cada una de las disposiciones o decisiones que constituyen el acervo de Schengen.
+Su título IV está íntegramente dedicado al Sistema de Información de Schengen.
+Disponibilidad Cada uno de los Estados miembros creará un servicio nacional Sirene con el fin de poner a disposición de los demás Estados miembros signatarios del Convenio de Schengen un punto de contacto único, que deberá estar operativo las 24 horas del día.
+También se deberá poder tener acceso las 24 horas del día al asesoramiento técnico, al apoyo y a la búsqueda de soluciones. 1.4.2.
+Seguridad del sistema Los principios subyacentes a la seguridad del sistema son los establecidos en el artículo 118 del Convenio de Schengen.
+PROCEDIMIENTOS GENERALES A continuación figuran los procedimientos de carácter general aplicables a casi todos los artículos del 95 al 100, así como los procedimientos específicos de cada uno de dichos artículos. 2.1.
+Todo ello requerirá: - controles previos a la introducción de una descripción para determinar si el sujeto ya aparece en el SIS, - consulta a los demás Estados miembros cuando la entrada de una descripción pueda causar una duplicidad de descripciones idénticas. 2.1.1.
+Las descripciones por "vigilancia discreta" correspondientes al artículo 99 serán incompatibles con las de "control específico".
+En el anexo 6 del presente Manual figuran los criterios utilizados para decidir si dos identidades son idénticas o no.
+Cada Estado miembro podrá elegir el procedimiento a seguir.
+En caso de notificación de una respuesta positiva al Estado informador, en la rúbrica 090 del impreso G se mencionará el artículo del Convenio de Schengen aplicable a la respuesta positiva.
+Si se modifica la finalidad de la descripción, el intercambio de información se ajustará al procedimiento siguiente: a) a través de su Sirene el Estado miembro autor de la localización expondrá al Estado miembro informador los motivos por los que solicita la modificación de la finalidad original de la descripción (impreso I); b) el Estado miembro informador estudiará sin demora la posibilidad de modificar la finalidad de la descripción y comunicará su decisión al Estado miembro autor de la localización a través de su Sirene; c) si fuera necesario, el Estado miembro informador podría condicionar su autorización al cumplimiento de una serie de requisitos en materia de utilización de los datos. 2.4.1.
+Si resulta que de hecho o de derecho los datos son incorrectos o inadmisibles, el intercambio de información tendrá lugar del siguiente modo: El Estado miembro que detecte un error en los datos lo notificará al Estado miembro informador a través de su Sirene haciendo uso del impreso J. 2.5.1.
+El acceso a los datos se efectuará con arreglo al ordenamiento jurídico del país en el que se presente la solicitud.
+Intercambio de información sobre el derecho de acceso y de rectificación de datos Cuando haya que informar a las autoridades nacionales de una solicitud de acceso o comprobación de los datos, el intercambio de información tendrá lugar con arreglo a las normas siguientes: Se adoptará el siguiente procedimiento: a) cada una de las oficinas Sirene aplicará la legislación nacional vigente sobre derecho de acceso a ese tipo de datos.
+En ambos casos el mensaje del C.SIS sobre la supresión de la descripción será tramitado automáticamente por el N.SIS. 2.8.
+El Estado miembro que introduzca el código "3" en la rúbrica "Categoría de identidad" remitirá el impreso Q al tiempo que introduce o modifica la descripción en el SIS.
+A condición de que se respete lo que se indica a continuación, las fotografías y huellas dactilares de la persona cuya identidad haya sido usurpada también deberán figurar en el fichero del Sirene del Estado miembro informador.
+La información de la rúbrica 052 (Fecha de expedición del documento) será obligatoria.
+En la rúbrica 083 (Información específica sobre la descripción) se indicará el servicio de contacto, que dispondrá de más información sobre la descripción.
+Sirpit (Transferencia de Imágenes en la red Sirene) 2.9.1.
+También se podrán intercambiar fotografías y huellas dactilares en el marco en materia de cooperación policial en los casos previstos por los artículos 39 y 46 del Convenio de aplicación del Acuerdo de Schengen, a condición de que esos expedientes también pasen por las manos de los Sirene. 2.9.2.
+Uso del impreso L La transmisión (solicitud y resultado de una comparación) a través de Sirpit se notificará enviando un impreso L a través del cauce habitual utilizado con todos los impresos Sirene.
+De conformidad con los artículos 39 y 46 del Convenio de Schengen, el impreso L se sustituirá por el impreso de notificación que de común acuerdo se decida. 2.9.6.
+Los artículos 39 y 46 autorizan tales intercambios, que se efectuarán con arreglo a lo dispuesto en el título VI del Convenio. 2.10.1.
+Título III (artículos 39 y 46) El título III del Convenio de Schengen contiene varias disposiciones complementarias en materia de cooperación policial y judicial.
+Mejora en materia de cooperación entre los Sirene y las Oficinas Centrales Nacionales (OCN) de Interpol Corresponderá a cada Estado miembro tomar las medidas que considere oportunas para garantizar la efectividad del intercambio de información a nivel nacional entre su Sirene y las Oficinas Centrales Nacionales (OCN) de Interpol. 2.12.
+Cooperación con Europol y Eurojust Para potenciar la cooperación entre los Sirene, habrá que crear los procedimientos pertinentes a escala nacional. 2.13.
+Se deberán introducir en el SIS todas las descripciones de personas objeto de una orden de búsqueda con el fin de garantizar que las solicitudes de detención preventiva puedan ser inmediatamente ejecutables (artículo 64 del Convenio y artículo 9, apartado 3, de la Decisión marco sobre la orden de detención europea).
+Introducción de una indicación de validez Indicación de validez solicitada por otro Estado miembro Los artículos 94, apartado 4, 95, apartado 3, 97 y 99, apartado 6, ofrecen al Estado miembro requerido la posibilidad de negarse a llevar a cabo en su territorio el procedimiento prescrito solicitando que se añada una indicación de validez a las descripciones correspondientes a los artículos 95, 97 o 99.
+Intercambio de información cuando se introduzca una indicación de validez Los Sirene se intercambiarán la información pertinente para que los Estados miembros puedan evaluar la necesidad de añadir una indicación de validez a una descripción.
+De conformidad con el artículo 94, apartado 4, en cualquier momento se podrá añadir una indicación de validez "permanente" a una descripción correspondiente a los artículos 95, 97 y 99 o bien o suprimirla.
+Para las descripciones correspondientes al artículo 95 existe un procedimiento alternativo.
+Consulta a los Estados miembros para añadir una indicación de validez Se adoptará el siguiente procedimiento: a) si un Estado miembro desea añadir una indicación de validez, lo solicitará al Estado miembro informador exponiéndole los motivos para ello; b) una vez intercambiada la información, habrá que considerar la posibilidad de que haya que modificar o suprimir la descripción o bien de que se acabe retirando la solicitud. 2.14.3.
+Solicitud de introducción de una indicación de validez Se adoptará el siguiente procedimiento: a) el Estado miembro requerido solicitará al Estado miembro informador que haya introducido una descripción con arreglo a los artículos 95, 97 o 99 que añada una indicación de validez.
+La solicitud se cursará mediante el impreso F; b) el Estado miembro informador estará obligado a añadir inmediatamente la indicación de validez solicitada. 2.14.4.
+Introducción sistemática de una indicación de validez en las descripciones de ciudadanos de determinados Estados miembros Se adoptará el siguiente procedimiento: a) todo Estado miembro podrá solicitarle al Sirene de otro Estado miembro que añada sistemáticamente una indicación de validez a las descripciones de sus ciudadanos introducidas con arreglo al artículo 95; b) para ello, enviará una solicitud por escrito al Estado miembro con el que desee colaborar; c) todo Estado miembro que reciba una solicitud en este sentido añadirá una indicación de validez cada vez que introduzca en el sistema la descripción de un ciudadano del Estado miembro solicitante; d) este procedimiento será obligatorio en tanto en cuanto no se impartan instrucciones por escrito para anularlo.
+Si dejan de darse las circunstancias mencionadas en el artículo 94, apartado 4, el Estado miembro que haya solicitado la indicación de validez solicitará a la mayor brevedad su supresión. 3.
+DESCRIPCIONES CORRESPONDIENTES AL ARTÍCULO 95 [15] Se seguirán los siguientes pasos: - comprobación por parte del Estado miembro previa a la introducción de una descripción, - descripciones múltiples, - envío de información complementaria a los Estados miembros, - introducción de una indicación de validez a solicitud de otro Estado miembro, - actuación del Sirene al recibir una descripción del artículo 95, - intercambio de información en caso de respuesta positiva, - supresión de una descripción, - usurpación de identidad. 3.1.
+Todos los Estados miembros tomarán las medidas técnicas u organizativas pertinentes para garantizar que únicamente se introduzcan en el SIS las descripciones correspondientes al artículo 95, apartado 2, segunda frase, tras haber informado al respecto al Sirene del Estado miembro interesado. 3.3.
+Descripciones múltiples 3.3.1.
+El orden de prioridad de las descripciones será el siguiente: - detención a efectos de entrega o extradición (artículo 95), - no admisión en los Estados Schengen (artículo 96), - protección y custodia (artículo 97), - vigilancia discreta (artículo 99), - control específico (artículo 99), - comunicación del domicilio o lugar de residencia (artículos 97 y 98).
+En el anexo 6 del presente Manual figuran los criterios utilizados para decidir si dos identidades son idénticas o no.
+Información complementaria para averiguar la identidad de una persona El Sirene del Estado miembro informador también podrá en caso de necesidad facilitar más información previa consulta y/o solicitud de otro Estado miembro para ayudar a comprobar la identidad de una persona.
+Indicación de validez solicitada por otro Estado miembro El artículo 95, apartado 3, ofrece al Estado miembro requerido la posibilidad de negarse a llevar a cabo en su territorio el procedimiento prescrito solicitando que se añada una indicación de validez a las descripciones correspondientes al artículo 95.
+Intercambio de información cuando se introduzca una indicación de validez Los Sirene se intercambiarán la información pertinente para que los Estados miembros puedan evaluar la necesidad de añadir una indicación de validez a una descripción.
+De conformidad con el artículo 94, apartado 4, en cualquier momento se podrá añadir o suprimir una indicación.
+Consulta a los Estados miembros para añadir una indicación de validez Se adoptará el siguiente procedimiento: a) si un Estado miembro desea añadir una indicación de validez, lo solicitará al Estado miembro informador exponiéndole los motivos para ello; b) una vez intercambiada la información, habrá que considerar la posibilidad de que haya que modificar o suprimir la descripción o bien de que se acabe retirando la solicitud. 3.5.3.
+Solicitud de introducción de una indicación de validez Se adoptará el siguiente procedimiento: a) el Estado miembro requerido solicitará al Estado miembro informador que haya introducido una descripción con arreglo al artículo 95 que añada una indicación de validez.
+La solicitud se cursará mediante el impreso F; b) el Estado miembro informador estará obligado a añadir inmediatamente la indicación de validez solicitada. 3.5.4.
+Introducción sistemática de una indicación de validez en las descripciones de ciudadanos de determinados Estados miembros Se adoptará el siguiente procedimiento: a) todo Estado miembro podrá solicitar al Sirene de otro Estado miembro que añada sistemáticamente una indicación de validez a las descripciones de sus ciudadanos introducidas con arreglo al artículo 95; b) para ello, enviará una solicitud por escrito al Estado miembro con el que desea colaborar; c) todo Estado miembro que reciba una solicitud en este sentido añadirá una indicación de validez cada vez que introduzca en el sistema una descripción de un ciudadano del Estado miembro solicitante; d) este procedimiento será obligatorio en tanto en cuanto no se impartan instrucciones por escrito para anularlo.
+Si dejan de darse las circunstancias mencionadas en el artículo 94, apartado 4, el Estado miembro que haya solicitado la indicación de validez solicitará a la mayor brevedad su supresión. 3.6.
+Actuación de los Sirene al recibir una descripción correspondiente al artículo 95 Cuando un Sirene reciba los impresos A y M, el servicio o unidad asociada investigará a la mayor brevedad todas las fuentes disponibles para intentar localizar al sujeto.
+Si se da por buena la descripción correspondiente al artículo 95 y se localiza y detiene al sujeto en el Estado miembro, se enviarán los impresos A y M y la orden de detención europea a la autoridad del Estado miembro responsable de la ejecución de dicha orden de detención.
+Intercambio de información en caso de respuesta positiva 3.7.1.
+En caso de notificación de una respuesta positiva al Estado informador, en la rúbrica 090 del impreso G se mencionará el artículo del Convenio de Schengen que se aplique a la respuesta positiva.
+Todos los Estados miembros tomarán las medidas necesarias que garanticen el óptimo intercambio de información complementaria de acuerdo con los artículos 39 y 46. 3.7.3.
+Seguimiento de una respuesta positiva El usuario final podrá solicitar más información al Sirene con el fin de iniciar de modo eficaz los procedimientos que se recogen en los cuadros 4, 10 o 16 del SIS, que figuran en el anexo 4.
+Ello tendrá implicaciones técnicas porque obligará a tramitar la descripción.
+La información de la rúbrica 052 (Fecha de expedición del documento) será obligatoria.
+En la rúbrica 083 (Información específica sobre la descripción) se indicará el servicio de contacto, que dispondrá de más información sobre la descripción.
+DESCRIPCIONES CORRESPONDIENTES AL ARTÍCULO 96 [16] Se seguirán los siguientes pasos: - introducción, - comprobación de la existencia de descripciones múltiples (véase el punto 2.1 de los Procedimientos Generales), - intercambio de información en caso de respuesta positiva, - usurpación de identidad (véase el punto 2.8 de los Procedimientos Generales), - procedimiento Sirpit (véase el punto 2.9 de los Procedimientos Generales). 4.1.
+Introducción El intercambio de información sobre los extranjeros incluidos en el SIS con arreglo al artículo 96 permitirá a los Estados miembros tomar una decisión sobre su solicitud de admisión o de visado.
+Descripciones correspondientes al artículo 96 Se introducirá la descripción en el SIS. 4.3.
+Introducción de un alias Para evitar que la introducción de un alias permita la ocurrencia de varias descripciones incompatibles entre sí, los Estados miembros interesados se informarán mutuamente al respecto y se transmitirán toda la información pertinente sobre la verdadera identidad del sujeto buscado.
+Acopio y transmisión de información sobre la persona cuya identidad haya sido usurpada Véase el punto 2.8 sobre la usurpación de identidad. 4.5.
+Expedición de permisos de residencia o visados Se adoptará el siguiente procedimiento: a) todo Estado miembro requerido podrá notificar una respuesta positiva al Estado miembro informador que haya introducido una descripción correspondiente al 96.
+En tal caso, el Estado miembro que haya introducido la descripción podrá comunicarlo a los demás Estados miembros si le parece oportuno; b) si así lo solicitan y siempre y cuando respeten la legislación nacional, los Sirene de los Estados miembros interesados podrán colaborar en la transmisión de la necesaria información a los servicios especializados responsables de la expedición de permisos de residencia y visados; c) si el procedimiento establecido en el artículo 25 del Convenio de aplicación entraña la supresión de una descripción correspondiente al artículo 96, los Sirene ofrecerán su colaboración si así se les solicita siempre y cuando respeten la legislación nacional. 4.6.
+El Estado miembro que desee hacer uso de esta posibilidad lo solicitará por escrito a los demás Estados miembros; b) todo Estado miembro requerido podrá tomar la iniciativa e informar al Estado miembro informador de cualquier respuesta positiva, de la no admisión o de la expulsión del territorio Schengen de un extranjero objeto de una descripción correspondiente al artículo 96; c) en caso de que un Estado miembro localice en su territorio nacional a un extranjero objeto de una descripción, el Estado miembro informador remitirá toda la información que pudiera resultar necesaria para su expulsión (devolución/deportación).
+En función de las necesidades del Estado miembro localizador y siempre que el Estado miembro requerido disponga de ellos, dicha información deberá incluir los siguientes elementos: - tipo y motivo de la decisión, - autoridad que haya adoptado la decisión, - fecha de la decisión, - fecha de la notificación de la decisión, - fecha de la ejecución de la decisión, - fecha de caducidad de la decisión o período de validez.
+Intercambio de información sobre ciudadanos extranjeros cuya admisión haya sido denegada Cuando un ciudadano extranjero que se halle en los casos previstos en los artículos 5 o 25 del Convenio solicite un permiso de residencia o un visado, la autoridad expedidora del permiso aplicará una serie de normas específicas.
+Introducción de una indicación de validez El artículo 94, apartado 4, ofrece al Estado miembro requerido la posibilidad de negarse a llevar a cabo en su territorio el procedimiento prescrito solicitando que se añada una indicación de validez a la descripción en cuestión.
+Intercambio de información cuando se introduzca una indicación de validez Los Sirene se intercambiarán la información pertinente para que los Estados miembros puedan evaluar la necesidad de añadir una indicación de validez a una descripción.
+De conformidad con el artículo 94, apartado 4, en cualquier momento se podrá añadir una indicación de validez "permanente" a una descripción correspondiente a los artículos 95, 97 y 99 o bien o suprimirla.
+Para las descripciones correspondientes al artículo 95 existe un procedimiento alternativo.
+Consulta a los Estados miembros para añadir una indicación de validez Se adoptará el siguiente procedimiento: a) si un Estado miembro desea añadir una indicación de validez, lo solicitará al Estado miembro informador exponiéndole los motivos para ello; b) una vez intercambiada la información, habrá que considerar la posibilidad de que haya que modificar o suprimir la descripción o bien de que se acabe retirando la solicitud. 5.2.3.
+Solicitud de introducción de una indicación de validez Se adoptará el siguiente procedimiento: a) el Estado miembro requerido solicitará al Estado miembro informador que haya introducido una descripción con arreglo a los artículos 95, 97 o 99 que añada una indicación de validez.
+La solicitud se cursará mediante el impreso F; b) el Estado miembro informador estará obligado a añadir inmediatamente la indicación de validez solicitada. 5.3.
+Intercambio de información en caso de respuesta positiva El usuario final podrá solicitar más información al Sirene con el fin de iniciar de modo eficaz los procedimientos que se recogen en los cuadros 4, 10 o 16 del SIS, que figuran en el anexo 4.
+Ello tendrá implicaciones técnicas porque obligará a tramitar la descripción.
+La información transmitida solo se conservará durante el tiempo estrictamente necesario y se utilizará exclusivamente en el marco del tratamiento médico de la persona interesada; c) cuando las operaciones subsiguientes a la localización de una descripción lo hagan necesario (detección de un delito, amenaza para el orden y la seguridad públicos, necesidad de mejorar la identificación de un objeto, vehículo o persona, etc.), la información transmitida como complemento a la prescrita por el título IV del Convenio de Schengen y, en particular, por los artículos 99 y 100, lo será en virtud de los artículos 39 y 46 de dicho Convenio.
+Todos los Estados miembros tomarán las medidas necesarias que garanticen el óptimo intercambio de información complementaria de acuerdo con los artículos 39 y 46. 6.
+DESCRIPCIONES CORRESPONDIENTES AL ARTÍCULO 98 [18] 6.1.
+Descripciones correspondientes al artículo 98 Se seguirán los siguientes pasos: - comprobación de la existencia de descripciones múltiples (véase el punto 2.1 de los Procedimientos Generales), - intercambio de información en caso de respuesta positiva, - usurpación de identidad (véase el punto 2.8 de los Procedimientos Generales), - procedimiento Sirpit (véase el punto 2.9 de los Procedimientos Generales), - se introducirá la descripción en el SIS. 6.2.
+Intercambio de información en caso de respuesta positiva El usuario final podrá solicitar más información al Sirene con el fin de iniciar de modo eficaz los procedimientos que se recogen en los cuadros 4, 10 o 16 del SIS, que figuran en el anexo 4.
+Ello tendrá implicaciones técnicas porque obligará a tramitar la descripción.
+Todos los Estados miembros tomarán las medidas necesarias que garanticen el óptimo intercambio de información complementaria de acuerdo con los artículos 39 y 46. 7.
+DESCRIPCIONES CORRESPONDIENTES AL ARTÍCULO 99 [19] Se seguirán los siguientes pasos: - control previo que garantice el procedimiento de consulta, - comprobación de la existencia de descripciones múltiples (véase el punto 2.1 de los Procedimientos Generales), - introducción de una indicación de validez a solicitud de otro Estado miembro, - intercambio de información en caso de respuesta positiva, - procedimiento Sirpit (véase el punto 2.9 de los Procedimientos Generales). 7.1.
+Introducción de un alias a) Para evitar que la introducción de un alias permita la ocurrencia de varias descripciones incompatibles entre sí, los Estados miembros interesados se informarán mutuamente al respecto y se transmitirán toda la información pertinente sobre la verdadera identidad del sujeto buscado.
+Introducción de una indicación de validez El artículo 99 ofrece al Estado miembro requerido la posibilidad de negarse a llevar a cabo en su territorio el procedimiento prescrito solicitando que se añada una indicación de validez a la descripción.
+Intercambio de información cuando se introduzca una indicación de validez Los Sirene se intercambiarán la información pertinente para que los Estados miembros puedan evaluar la necesidad de añadir una indicación de validez a una descripción.
+De conformidad con el artículo 94, apartado 4, en cualquier momento se podrá añadir una indicación de validez "permanente" a una descripción correspondiente a los artículos 95, 97 y 99 o bien o suprimirla.
+Para las descripciones correspondientes al artículo 95 existe un procedimiento alternativo.
+Consulta a los Estados miembros para añadir una indicación de validez Se adoptará el siguiente procedimiento: a) si un Estado miembro desea añadir una indicación de validez, lo solicitará al Estado miembro informador exponiéndole los motivos para ello; b) una vez intercambiada la información, habrá que considerar la posibilidad de que haya que modificar o suprimir la descripción o bien de que se acabe retirando la solicitud. 7.4.3.
+Solicitud de introducción de una indicación de validez Se adoptará el siguiente procedimiento: a) el Estado miembro requerido solicitará al Estado miembro informador que haya introducido una descripción con arreglo a los artículos 95, 97 o 99 que añada una indicación de validez.
+La solicitud se cursará mediante el impreso F; b) el Estado miembro informador estará obligado a añadir inmediatamente la indicación de validez solicitada. 7.5.
+DESCRIPCIONES CORRESPONDIENTES AL ARTÍCULO 100 [20] Se seguirán los siguientes pasos: - comprobación de la existencia de descripciones múltiples, - intercambio de información en caso de respuesta positiva, - procedimiento Sirpit (véase el punto 2.9 de los Procedimientos Generales). 8.1.
+Descripciones de vehículos robados correspondientes al artículo 100 8.1.1.
+Los criterios técnicos en virtud de los cuales dos descripciones podrían referirse al mismo vehículo se precisan en el anexo 6 del presente Manual.
+El procedimiento de consulta de los Sirene en el caso de un vehículo es el mismo que en el caso de las personas. 8.1.2.
+Cuadro de descripciones compatibles Prioridad por orden decreciente de importancia | Motivos de la compatibilidad de las descripciones | Artículo 99 Vigilancia discreta | Artículo 99 Vigilancia discreta | Artículo 99 Control específico | Artículo 99 Control específico | Artículo 100 | Artículo 100 | 8.2.
+Todos los Estados miembros tomarán las medidas necesarias que garanticen el óptimo intercambio de información complementaria de acuerdo con los artículos 39 y 46.
+En respuesta al impreso G sobre la localización de un vehículo descrito con arreglo al artículo 100 del Convenio de Schengen, los Sirene enviarán a la mayor brevedad la "información complementaria" en un impreso P. (Nota: Dado que se tratará de una respuesta urgente y que por ello no será posible en un primer momento reunir toda esa información, conviene que las rúbricas por rellenar no tengan carácter obligatorio, sino potestativo, y que se procure cumplimentar los más elementales, como, por ejemplo, 041, 042, 043, 162, 164, 165, 166 y 167.) 9.

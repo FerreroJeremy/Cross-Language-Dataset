@@ -1,0 +1,2 @@
+A partir de chaque cluster généré par la troisième étape, nous annotons l’article par les principaux événements qu’il contient.
+Nous utilisons une heuristique qui est : La phrase ayant les attributs maximaux est la meilleure pour annoter l’article.

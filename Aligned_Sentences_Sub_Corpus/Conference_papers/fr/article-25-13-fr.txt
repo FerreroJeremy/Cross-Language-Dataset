@@ -1,0 +1,3 @@
+Comparaison de taux d’erreur Premièrement, dans le but de vérifier que ces changements dans le modèle de langage, permettant une analyse partielle en IF, ne dégradent pas la performance intrinsèque du système de reconnaissance initial, nous avons comparé le taux d’erreur du système initial avec celui de notre nouveau système.
+Le taux d’erreur de mots (Word Error Rate -WER) du système initial qui utilise des classes construites manuellement est de 31.9% alors que le taux d’erreur du système utilisant le nouveau modèle, après avoir reconstitué les mots français à partir de la classe IF, est 32.9%.
+Ainsi, nous pouvons constater que le nouveau modèle n’impose pas une dégradation très importante de la performance du système initial.

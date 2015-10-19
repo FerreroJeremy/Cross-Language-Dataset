@@ -1,0 +1,1 @@
+Bien qu’il y ait quelques travaux (voir Vermobil [1] ou SLT [2]) qui proposent une utilisation intelligente des ressources communes entres module de RAP et module d’analyse, à notre connaissance, très peu de travaux expérimentaux proposent d’introduire des informations sémantiques directement dans un module de RAP pour une meilleure intégration du système complet.

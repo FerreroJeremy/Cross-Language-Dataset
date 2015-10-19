@@ -1,0 +1,3 @@
+Introduction Among the main data mining tasks, pattern mining has been extensively studied.
+Association rules [Agrawal et al., 1993] are one of the most popular patterns.
+Intuitively, the rule p means that “when attributes of X are observed, then attributes of Y are often observed”.

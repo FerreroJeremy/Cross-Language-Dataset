@@ -1,0 +1,4 @@
+La classe Phrase est en relation avec la liste de "mots" la composant : instances de la super classe Mot.
+La liste de mots est implémentée en utilisant un attribut supplémentaire suivant réflexif sur la classeMot.
+La classe Phrase est liée avec la classe Semantique et avec la classe S (chaque phrase est en relation avec à la fois sa syntaxe et sa représentation sémantique).
+Les propriétés de linéarité sont traduites via des contraintes additionnelles :

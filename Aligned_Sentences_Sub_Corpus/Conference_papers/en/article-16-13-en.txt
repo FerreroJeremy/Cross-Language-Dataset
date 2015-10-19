@@ -1,0 +1,1 @@
+Then, we trained in both directions (English-to-French and French-to-English) statistical translation models, running the Giza++ toolkit in its standard setting.

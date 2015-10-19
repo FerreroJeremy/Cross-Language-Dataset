@@ -1,0 +1,3 @@
+A hierarchical clustering appears when some of these communities are recursively divided into subgroups.
+For example, the subgraph labelled 2 is divided into two subgraphs 21 and 22.
+The nesting between groups of vertices at different levels makes trees an efficient way to model hierarchical clusterings.

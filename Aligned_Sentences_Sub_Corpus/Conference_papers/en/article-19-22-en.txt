@@ -1,0 +1,3 @@
+Using this kind of networks for evaluating the word senses that we find is of course criticizable as our aim is to overcome their insufficiencies.
+Nevertheless, as these networks are carefully controlled, such an evaluation provides at least a first judgment about the reliability of the discovered senses.
+As a consequence, our evaluation was done only for English, and more precisely with WordNet 1.7.

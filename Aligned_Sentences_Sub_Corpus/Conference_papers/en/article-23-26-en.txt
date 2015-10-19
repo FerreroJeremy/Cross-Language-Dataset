@@ -1,0 +1,3 @@
+The purpose is to access the production of the inference engine along with the blocking and filtering.
+Then from the set of supposedly valid inferred relations, we took a random sample of 300 propositions for each relation type and undertook the validation / reconciliation process.
+The experiment conducted is for evaluation purpose only, as actually the system is running iteratively along with contributors and games.

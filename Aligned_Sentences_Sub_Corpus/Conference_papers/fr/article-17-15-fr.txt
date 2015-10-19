@@ -1,0 +1,4 @@
+Si nous matérialisons toutes les relations, nous nous heurtons au problème de l’explosion des liens.
+Il s’agit, non seulement, d’un problème matériel (taille en mémoire) mais aussi d’un problème qui met en avant la question de l’interêt des liens : leur pouvoir de discrimination est inversement proportionnel à leur nombre.
+Par exemple, toutes les acceptions de noms seraient liées à un terme général comme ,objet concret- pour un lien hypéronymique.
+Pour éviter ce problème, et afin de pouvoir comparer deux liens, nous utilisons des relations sémantiques valuées.

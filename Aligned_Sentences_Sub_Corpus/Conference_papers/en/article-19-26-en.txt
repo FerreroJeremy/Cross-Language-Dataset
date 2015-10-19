@@ -1,0 +1,2 @@
+This does not mean that the selected words are not interesting for describing the senses of the target word but more probably that the semantic relations that they share with the target word are different from hyperonymy.
+Moreover, their initial corpus is much larger (around 144 millions words) than ours and they make use of more elaborated tools, such as a syntactic analyzer.

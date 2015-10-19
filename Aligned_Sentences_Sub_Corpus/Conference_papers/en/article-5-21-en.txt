@@ -1,0 +1,3 @@
+The results obtained using the algorithm of [2] without our method provides similar results.
+A visualization of the results is given in Figure 3.
+The clusterings N1(T) and N2(T) are drawn using blue and grey concave hulls respectively.

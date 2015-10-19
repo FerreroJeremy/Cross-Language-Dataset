@@ -1,0 +1,2 @@
+Une matrice pour laquelle le nombre m'' de lignes est égal au nombre ''n de colonnes sera dite matrice carrée de taille n''.
+On définit alors le produit, considéré comme un scalaire ou une matrice de dimension ''(1,1) : LC = \beginx_1&\dots&x_n\end\beginy_1\\\vdots\\ y_n\end=\sum_ x_iy_iOn remarque la condition de compatibilité sur les tailles des matrices (égalité du nombre de colonnes de la première avec le nombre de lignes de la deuxième).
