@@ -1,0 +1,1 @@
+Evaluating a hierarchical community structure To identify a community structure in a network, quality measures are often used in order to compare different flat clusterings of a graph. A quality measure F is a function having as domain the set of all flat clusterings and as range a real interval.

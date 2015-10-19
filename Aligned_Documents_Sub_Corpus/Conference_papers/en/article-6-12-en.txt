@@ -1,0 +1,1 @@
+Application: document data base categorization To illustrate the usefulness of the proposed clustering algorithm, we use it to categorize a document data base. The document data base is a collection of reports produced by every Inria (The French National Institute for Research in Computer Science and Control) research team in 2007.

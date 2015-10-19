@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document00858</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>5255</sourceTextOffset>
+<sourceTextLength>264</sourceTextLength>
+<sourceTextContent> No faltó quien hablase en voz baja de sutiles venenos traídos de América
+y alguien recordó, en plena tertulia, que los Portinaris descendían de Cesar Borgia. Al fallecer
+el Prelado y abrirse su testamento, se supo que había legado todos sus bienes a Don Fabricio.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document02807</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>215603</suspiciousTextOffset>
+<suspiciousTextLength>273</suspiciousTextLength>
+<suspiciousTextContent> There were those who spoke quietly of subtle poisons brought from America
+and someone pointed out, at full chat, the Portinaris descended from Cesar Borgia. Upon the death
+of the bishop and opened his will, it was learned he had bequeathed
+all his property to Don Fabrizio</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

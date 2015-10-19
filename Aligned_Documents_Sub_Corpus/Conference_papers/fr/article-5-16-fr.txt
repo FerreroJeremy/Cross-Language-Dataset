@@ -1,0 +1,1 @@
+Pour valider notre méthode, nous utilisons le benchmark LFR proposé par Lancichinetti et Radicchi (2008) et étendu au cas multi-niveaux par la suite (Lancichinetti et al. (2011)). Plusieurs travaux sur la fragmentation hiérarchique de réseaux utilisent cette méthode pour évaluer la qualité des algorithmes (voir par exemple Rosvall et Bergstrom (2011)).

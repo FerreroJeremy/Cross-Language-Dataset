@@ -1,0 +1,1 @@
+Turney and Littman evaluated the effectiveness of their technique by comparing the predicted orientation of words with that defined in the General Inquirer Lexicon (Stone et al., 1966), which contains a list of 3596 English words labelled as positive or negative. Calculated on the basis of a corpus of ten million words, PR-LSA labels 65% of the words correctly.

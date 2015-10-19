@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01770</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>157667</sourceTextOffset>
+<sourceTextLength>269</sourceTextLength>
+<sourceTextContent>
+Benvenuto Cellini se hubiera enorgullecido de cincelar en oro una creación semejante. Los árabes
+que bordaron la Alhambra habrían declarado también que sus mejores templetes y camarines no
+excedían en finura, suntuosidad é idealismo á tal maravilla del arte cristiano.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05531</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>243924</suspiciousTextOffset>
+<suspiciousTextLength>239</suspiciousTextLength>
+<suspiciousTextContent> Benvenuto
+Cellini had been chiseled in gold pride in such a creation. Arabs bordering the Alhambra have also
+stated that their best templates and no dressing exceeded in fineness, sumptuousness and ideals
+to such a marvel of Christian art</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

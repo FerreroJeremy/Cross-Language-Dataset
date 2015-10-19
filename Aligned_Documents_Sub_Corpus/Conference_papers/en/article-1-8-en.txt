@@ -1,0 +1,1 @@
+Standard Classification Rule Model. A MODL rule (also called standard classifi- cation rule model (SCRM)) is defined by: • the constituent attributes of the rule body • for each attribute of the rule body, the value (0 or 1) that belongs to the body • the distribution of classes inside and outside of the body

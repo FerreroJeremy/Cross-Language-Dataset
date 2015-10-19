@@ -1,0 +1,1 @@
+Polarized Tree Descriptions The structures associated with words by the lexicon are Polarized Tree Descriptions (PTDs). They represent fragments of parse trees. The nodes of these structures are labelled with a category and a polarity. IGs use 4 polarities, P = {?,?,=,~}, namely positive, negative, neutral and virtual.

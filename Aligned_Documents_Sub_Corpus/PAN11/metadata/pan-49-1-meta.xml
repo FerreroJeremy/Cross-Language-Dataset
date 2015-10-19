@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10574</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>26249</sourceTextOffset>
+<sourceTextLength>227</sourceTextLength>
+<sourceTextContent> Sabes que soy tu amigo.
+
+--¡Mi amigo! exclamó el joven con sonrisa irónica. Creía que lo eras, pero me he desengañado
+que eres mi peor enemigo.
+
+--¿Qué fecha tiene su desengaño?
+
+--La misma del flaco servicio que me has hecho. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document01943</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>17079</suspiciousTextOffset>
+<suspiciousTextLength>220</suspiciousTextLength>
+<suspiciousTextContent> You know I'm your friend.
+
+- My friend! cried the young man with an
+ironic smile.
+
+I thought you were, but I am disappointed you're my worst enemy.
+
+- What date is your disappointment?
+
+- It's disservice you did to me.
+</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

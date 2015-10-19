@@ -1,0 +1,1 @@
+Second, it is noticeable that filtering out less frequent candidates benefits the mirror approach much more than the distributional one. It might be a consequence of having a smaller corpus to start with, in which rarer words have less reliable alignment probabilities.

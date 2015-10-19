@@ -1,0 +1,1 @@
+Les noeuds polarisés sont étiquetés par une catégorie et une polarité. Un ensemble de noeuds est saturé (resp. superposable) si tous ses éléments ont la même catégorie et si le multi-ensemble induit par leur polarité est saturé (resp. superposable).

@@ -1,0 +1,1 @@
+Unleashing the inference engine We applied the inference engine on around 20000 randomly selected terms having at least one hypernymand thus produced 1484209 inferences (77089 more were blocked). The threshold for filtering was set to a weight of 25 (that is to say only inferences with a weight equal to or above 25 have been considered).

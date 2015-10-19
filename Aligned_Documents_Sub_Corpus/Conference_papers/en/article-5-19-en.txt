@@ -1,0 +1,1 @@
+Real world examples We now present some results of our method when applied to real world networks. We compare our resulting hierarchical clustering to the hierarchical clusterings produced by the Oslom[10] and Infomap[15] algorithms. Note that these algorithms are also nondeterministic.

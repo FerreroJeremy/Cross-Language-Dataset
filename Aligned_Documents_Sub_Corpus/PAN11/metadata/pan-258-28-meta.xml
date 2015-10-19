@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05994</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>346661</sourceTextOffset>
+<sourceTextLength>25093</sourceTextLength>
+<sourceTextContent>
+
+[165.] Parece que se ha excogitado la mencionada distincion por no verse en la precision de
+admitir la divisibilidad infinita en los cuerpos naturales. Reflexionando sobre este punto
+se echa de ver que habiendo la dificultad con respecto á los cuerpos matemáticos, el misterio
+filosófico subsiste por entero. Este misterio se cifra en que no se puede señalar un límite
+á la division, mientras hay algo extenso; y en que, si para señalar este límite se llega á
+puntos simples, entonces no hay medio para reconstituir la extension. Por manera que la dificultad
+surge de la misma naturaleza de las cosas extensas, ya sean concebidas, ya realizadas; y el
+órden real no puede menos de resentirse de todos los inconvenientes del ideal. Si con puntos
+inextensos no se puede constituir la extension pensada, tampoco se podrá constituir la extension
+verdadera; y si la extension pensada no es susceptible de límites en su division hasta llegar
+á puntos simples, lo propio sucederá con la verdadera: naciendo estos inconvenientes de la
+misma esencia de la extension, son inseparables de ella.
+
+CAPÍTULO XXIII.
+
+LOS PUNTOS INEXTENSOS.
+
+[166.] Contra la existencia de los puntos inextensos militan dos razones poderosas: primera,
+el que se los ha de suponer en número infinito, pues no parece posible de otro modo, el llegar
+á lo simple, partiendo de lo extenso; segunda, que aun suponiéndolos en número infinito, son
+incapaces de dar por resultado la extension. Estas dos razones son tan poderosas que hacen
+excusables todas las cavilaciones en sentido contrario; pues por mas extrañas que parezcan,
+dejan de serlo cuando se las compara con la extrañeza de que con lo simple se haya de formar
+lo extenso, y que en una porcion cualquiera de materia haya de haber un número infinito de partes.
+
+[167.] No parece que se pueda llegar á puntos inextensos sino pasando por una division infinita:
+lo inextenso es cero en el órden de la extension; y en una progresion geométrica decreciente
+no se llega á cero, sino continuándola hasta lo infinito. Lo que nos dice el cálculo matemático,
+nos lo hace sensible la imaginacion. Donde quiera que hay dos partes unidas, hay una cara por
+la cual se tocan, y otra en lo exterior que no está en contacto. Separando la interior de la
+exterior, nos encontramos con dos nuevas caras: una en contacto y otra nó. Continuando la division,
+nos sucederá siempre lo mismo: luego para llegar á lo inextenso, hemos de pasar por una serie
+infinita: lo que en otros términos equivale á decir que no llegarémos jamás. Por manera que
+para continuar la division hasta lo infinito nos vemos precisados á suponer partes infinitas,
+y por tanto, la existencia de un número infinito actual. Desde el momento que suponemos existente
+este número infinito, parece que se nos convierte en finito, pues que vemos ya un término á
+la division; y sobre todo vemos números mayores que él. Supongamos que este número infinito
+de partes se encuentra en una pulgada cúbica: yo digo que hay números mayores que este supuesto
+infinito: por ejemplo, el de un pié cúbico que contendrá 1728 veces el llamado infinito contenido
+en la pulgada cúbica.
+
+Así resulta que la opinion de los puntos inextensos, queriendo evitar la division infinita,
+viene á caer en ella; como sus adversarios proponiéndose huir de los puntos inextensos, parece
+que al fin llegan á reconocer su existencia. La imaginacion se pierde, y el entendimiento se
+confunde.
+
+[168.] La otra dificultad no es menos inextricable: supongamos que hemos llegado á los puntos
+inextensos, ¿cómo reconstituimos la extension? Lo inextenso no tiene dimensiones; luego por
+mas que se sumen puntos inextensos no formaremos ninguna extension. Imaginémenos que se reunen
+dos puntos: como ni uno ni otro ocupan ningun lugar, tampoco lo llenarán ambos juntos. No puede
+decirse que se compenetren, pues no hay penetracion cuando no hay extension; lo que se debe
+decir es que siendo todos cero en el órden de la extension, su suma, por grande que sea el
+número de los sumandos, no llegará á formar nada extenso.
+
+[169.] Aquí ocurre una dificultad: es cierto que una suma de ceros solo da por resultado cero;
+pero es cosa admitida entre los matemáticos, que ciertas expresiones iguales á cero, pueden
+dar por producto una cantidad finita, si se las multiplica por otra infinita.
+
+0+0+0+0+Nx0=0; pero si tenemos: (0/M)=0; y multiplicamos la expresion por (M/0)=infinito resultará
+(0/M)x(M/0)=(0xM)/(Mx0)=(0/0) que puede ser igual á una cantidad finita cualquiera, que expresaremos
+por A. Así se demuestra aun con los solos principios del álgebra elementar; y pasando á la
+sublime, tenemos (dz/dx)=(0/0)=B; expresando B el coeficiente diferencial, que puede ser un
+valor finito. ¿Estas doctrinas matemáticas pueden servir para explicar la generacion de lo
+extenso, partiendo de puntos inextensos? creo que nó.
+
+Desde luego salta á los ojos, que no siendo la multiplicacion mas que una adicion abreviada,
+si una adicion infinita de ceros, no puede dar mas que cero; tampoco podrá resultar otra cosa
+de la multiplicacion, aunque sea infinito el otro factor. ¿Por qué pues los resultados matemáticos
+nos dicen lo contrario? No es verdad que haya semejante contradiccion; solo es aparente. En
+la multiplicacion de lo infinitésimo por lo infinito, se puede obtener por producto una cantidad
+finita, porque lo infinitésimo no se considera como un verdadero cero, sino como una cantidad
+menor que todas las imaginables, pero que todavía es algo. Desde el momento que se faltase
+á esta condicion, todas las operaciones serian absurdas, pues versarian sobre un puro nada.
+¿Diremos por esto que las expresiones (dz/dx)=(0/0) sean tan solo aproximativas? nó; porque
+expresan la relacion del límite del decremento, de la cual se verifica que es igual á B, solo
+cuando las diferenciales son iguales á cero; pero como el geómetra no considera mas que el
+límite en sí mismo, salta por todos los intervalos del decremento, y se coloca desde luego
+en el punto donde está la verdadera exactitud. ¿Por qué pues se opera sobre estas cantidades?
+porque las operaciones son una especie de lenguaje algebráico, que marcan el camino que se
+ha seguido en los cálculos, y recuerdan el enlace del límite con la cantidad á que se refiere.
+
+[170.] De la unidad, que no es número, resulta el número. ¿Por qué de los puntos sin extension
+no puede resultar la CAPÍTULO? La disparidad es grande. En lo inextenso, como tal, no entra
+mas que la idea negativa de la extension; pero en la unidad, si bien está negado el número,
+la negacion no constituye su naturaleza, nadie ha definido jamás á la unidad «la negacion del
+número» y todos definimos lo inextenso «lo que no tiene extension.» La unidad es un ser cualquiera
+tomado en general, no considerando en él, division; el número es un conjunto de unidades; luego
+en la idea de número entra la de unidad, de un ser indiviso; no siendo mas el número que la
+repeticion de esta unidad. Todo número se resuelve en la unidad; por lo mismo que es número,
+la contiene de una manera determinada: lo extenso no puede resolverse en lo inextenso, sino
+procediendo hasta lo infinito, ó haciéndose la descomposicion de alguna manera que nosotros
+no alcanzamos.
+
+CAPÍTULO XXIV.
+
+UNA CONJETURA SOBRE LA NOCION TRASCENDENTAL DE LA EXTENSION.
+
+[171.] Los argumentos que militan tanto en pro como en contra de los puntos inextensos, y de
+la infinita divisibilidad de la materia, parecen todos concluyentes: de suerte que el entendimiento
+como que recela haberse encontrado con demostraciones contradictorias. Cree descubrir absurdos
+en la divisibilidad infinita; absurdos, si le señala límites, absurdos, si niega los puntos
+inextensos, absurdos, si los admite. Cuando ataca la opinion contraria se siente invencible;
+pero su fuerza se convierte en profunda debilidad, tan pronto como quiere establecer y defender
+la propia. Y sin embargo la razon no puede contradecirse: dos demostraciones contradictorias
+serian la contradiccion de la razon misma y equivaldrian á su ruina completa; la contradiccion
+pues no existe ni puede existir, sino en la apariencia. ¿Pero dónde está el nudo? ¿cómo se
+desata? ¿quién puede lisonjearse de conseguirlo? La excesiva confianza en este punto seria
+un seguro indicio de que no se comprende el estado de la cuestion: y la vanidad quedaria castigada,
+resultando convencida de ignorante. Con estas salvedades, permítaseme emitir algunas observaciones
+sobre esta cuestion misteriosa.
+
+[172.] Me inclino á creer que en las investigaciones sobre los primeros elementos de la materia,
+se padece una equivocacion que imposibilita para llegar al resultado. Se busca si la extension
+puede resultar de puntos inextensos; y el método que se emplea consiste en imaginarlos aproximados,
+y ver si con ellos puede llenarse alguna parte del espacio. Esto en mi juicio, equivale á querer
+que la negacion corresponda á la afirmacion. El punto inextenso nada nos representa determinado,
+sino la negacion de la extension; cuando le exigimos pues que junto con otros ocupe el espacio,
+le exigimos que siendo inextenso sea extenso. Parece que hay aquí un juego de la imaginacion
+que nos hace presuponer la extension, en el mismo acto en que pretendemos asistir á su generacion
+primitiva. El espacio, tal como le concebimos, es una verdadera extension; y segun llevo manifestado,
+es la idea de la extension en toda su generalidad: fingir pues que lo inextenso ha de llenar
+el espacio, es exigir á la no extension que se convierta en extension. Es verdad que esto es
+lo que precisamente se pide, y que por lo mismo aquí está todo el punto de la dificultad; pero
+la equivocacion parece consistir en que esta dificultad se la quiere resolver por el simple
+método de yuxtaposicion, y que por consiguiente se exige de los puntos inextensos una cosa
+evidentemente contradictoria.
+
+[173.] Para saber cómo se engendra la extension, seria necesario poderse despojar de todas
+las representaciones sensibles, de todas las ideas, que mas ó menos estén afectadas por el
+fenómeno; y poder trasladarse á la contemplacion de la misma realidad con ojo tan simple, con
+mirada tan penetrante, como un espíritu puro; seria necesario que todas las ideas geométricas
+pudiesen despojarse de las formas fenomenales, ó sea de todas las representaciones de la imaginacion;
+y ofrecerse al entendimiento depuradas de todo lo que las mezcla con el órden sensible; seria
+necesario saber hasta qué punto la extension, la continuidad real, está acorde con la fenomenal;
+esto es, eliminar del objeto percibido todo lo que tiene relacion con el sujeto que le percibe.
+
+[174.] Ya vimos que en la extension se encontraban dos cosas: multiplicidad y continuidad;
+tocante á la primera, no se ofrece ninguna dificultad en que resulte de los puntos inextensos:
+con tal que haya varias unidades, resulta el número, sean aquellas simples ó compuestas. El
+secreto está en la continuidad, en eso que la intuicion sensible nos presenta tan claro como
+la base de las representaciones de la imaginacion; y que sin embargo enreda al entendimiento
+con lazos inextricables. Quizás podria decirse que la continuidad, prescindiendo de la representacion
+sensible y considerada únicamente en el órden trascendental, esto es en su realidad, tal como
+puede ofrecerse á un espíritu puro, no es mas que la relacion constante de muchos seres, los
+cuales son de tal naturaleza que pueden producir en el ser sensitivo el fenómeno que llamamos
+representacion, y ser percibidos en esa intuicion que es como su recipente y que se llama representacion
+del espacio.
+
+Con esta hipótesis la extension en el mundo externo es real, no solo como un principio de causalidad
+de nuestras impresiones, sino como un objeto sometido á las relaciones necesarias que nosotros
+concebimos.
+
+[175.] Pero entonces, se preguntará, ¿el mundo externo es tal como nosotros lo imaginamos?
+á esto conviene responder observando que con arreglo á lo que se ha dicho al tratar de las
+sensaciones, es menester despojarle de lo que estas tienen de subjetivo, y que por una inocente
+ilusion, convertimos en objetivo; y que en cuanto á la extension, existe efectivamente fuera
+de nosotros, independiente de nuestras sensaciones, pero que considerada en sí misma, no tiene
+nada de lo que estas le atribuyen, sino lo que percibe el entendimiento puro, sin la mezcla
+de ninguna representacion sensible.
+
+[176.] No parece que hay ningun inconveniente en admitir esta teoría, que á un tiempo afirma
+la realidad del mundo corpóreo y disipa las dificultades del mas acendrado idealismo. Para
+presentar en pocas palabras mi opinion diré: que la extension en sí misma, el universo todo
+en sí mismo, es tal como Dios lo conoce; y en el conocimiento de Dios no se mezcla ninguna
+de estas representaciones sensibles de que anda siempre acompañada nuestra flaca percepcion.
+En tal caso, lo que resta de positivo en la extension es la multiplicidad con cierto órden
+constante. La continuidad en sí no es mas que este órden; y en cuanto representada sensiblemente
+en nosotros, es un fenómeno puramente subjetivo que no afecta á la realidad.
+
+[177.] Hasta se puede señalar una razon por que se nos haya dado la intuicion sensible. Nuestra
+alma está unida á un cuerpo organizado, es decir á un conjunto de seres ligados con relacion
+constante entre sí, y con los demás cuerpos del universo. Para que la armonía no se quebrantase
+y el alma que presidia la organizacion pudiese ejercer sus funciones de la manera conveniente,
+era necesario que tuviese una representacion continua de ese conjunto de relaciones del cuerpo
+propio y de los extraños. Esta representacion debia ser simultánea, é independiente de las
+combinaciones intelectuales; pues que sin esto no era posible el ejercicio de las facultades
+animales, con la prontitud y perseverancia que exige la satisfaccion de las necesidades de
+la vida. Por esta razon se habrá dado á todos los seres sensibles, aun á los destituidos de
+razon, esa intuicion de la extension ó del espacio, que viene á ser en el viviente como un
+campo sin límites, donde se retratan las diferentes partes del universo.
+
+CAPÍTULO XXV.
+
+ARMONÍA DEL ÓRDEN REAL, FENOMENAL, É IDEAL.
+
+[178.] En el mundo externo podemos considerar dos naturalezas: una real, otra fenomenal; la
+primera es propia, absoluta: la segunda, es relativa al ser que percibe el fenómeno: por la
+primera, el mundo es; por la segunda, aparece.
+
+Un ser intelectual puro conoce lo que el mundo es; un ser sensible experimenta lo que aparece.
+En nosotros mismos podemos notar esta dualidad: en cuanto sensibles, experimentamos el fenómeno:
+en cuanto inteligentes, ya que no conozcamos la realidad, nos esforzamos en columbrarla por
+medio de raciocinios y conjeturas.
+
+[179.] El mundo externo en su naturaleza real, prescindiendo absolutamente de la fenomenal,
+no es una ilusion. Su existencia nos es conocida no solo por los fenómenos, sino tambien por
+los principios del entendimiento puro, superiores á todo lo individual y contingente. Dichos
+principios, apoyados un los datos de la experiencia, esto es, en las sensaciones cuya existencia
+nos atestigua el sentido íntimo, nos aseguran de que la objetividad de las sensaciones, ó sea
+la realidad de un mundo externo, es una verdad.
+
+[180.] Esta distincion entre lo esencial y lo accidental, y entre lo absoluto y lo relativo,
+era conocida en las escuelas. La extension no era considerada como la esencia de los cuerpos,
+sino como un accidente; las relaciones de los cuerpos con nuestros sentidos, no se fundaban
+inmediatamente en la esencia, sino en los accidentes. La esencia de los cuerpos, la constituian
+la materia y la forma substancial unidas: la materia recibiendo la forma, y la forma actuando
+la materia. Ni la materia ni la forma substancial eran inmediatamente perceptibles para el
+sentido, pues que esta percepcion necesitaba la determinacion de la figura y otros accidentes,
+distintos de la esencia del cuerpo.
+
+Así es que distinguian los escolásticos objetos sensibles de tres clases: propio, comun y por
+accidente: proprium, commune, et per accidens. El propio es el que se ofrece inmediatamente
+al sentido, y no es percibido sino por uno solo: el color, el sonido, el olor, y el sabor.
+El comun, es el que es percibido por varios sentidos, como la figura, la cual es objeto de
+la vista y del tacto. El accidental, ó per accidens, es el que no es percibido directamente
+por ningun sentido, que está oculto bajo las calidades sensibles, y se nos descubre por medio
+de estas: como las substancias. Lo sensible per accidens, está enlazado con las calidades sensibles;
+pero estas no lo ofrecen al entendimiento como una imágen el original, sino como un signo la
+cosa significada. De aquí es que á lo sensible per accidens, no se le suponian las emisiones
+de especies para reducir al acto á la facultad sensitiva: era mas bien inteligible que sensible.
+
+[181.] En el universo corpóreo, considerado en su esencia, no hay necesidad de suponer nada
+que sea semejante á la representacion sensible, pero sí es necesario suponer una correspondencia
+entre el objeto y la idea; de otro modo seria menester admitir, que las verdades geométricas
+pueden ser desmentidas por la experiencia.
+
+[182.] Aunque la extension no sea mas que un órden de seres de que nosotros no podemos formar
+perfecto concepto, por no sernos dable depurar las ideas de toda forma sensible, este órden
+ha de corresponder á nuestras ideas, y aun á nuestras representaciones sensibles, en cuanto
+es necesario para comprobar la verdad de las ideas. Es evidente que el órden fenomenal, aunque
+distinto del real, está sin embargo ligado con él y depende del mismo, por leyes constantes:
+si suponemos que no hay un paralelismo entre la realidad y el fenómeno, y que en aquella no
+hay todas las condiciones necesarias para satisfacer las exigencias de este, no habrá ninguna
+razon porque los fenómenos estén sometidos á leyes constantes, y no suframos en nuestra experiencia
+perturbaciones continuas. No suponiendo una correspondencia fija y constante entre la realidad
+y la apariencia, el mundo para nosotros se convierte en un caos; y se nos hace imposible toda
+experiencia constantemente ordenada.
+
+[183.] Desenvolvamos la observacion que precede. Una de las proposiciones elementales de la
+geometría dice: los ángulos opuestos al vértice son iguales. Para demostrar su verdad, necesito
+la intuicion interna de dos líneas que se cortan prolongándose por ambos lados; pero la proposicion
+geométrica no se ciñe á ninguna de aquellas intuiciones particulares, sino que se extiende
+á todas las imaginables, sin ningun límite en su número, sin ninguna determinacion en cuanto
+á la medida de los ángulos, ni á la longitud de las líneas, ni á su posicion en el espacio.
+Hé aquí la idea pura, abarcando infinitos casos; cuando la intuicion sensible no representa
+mas que uno solo, si se trata de un mismo tiempo, y varios aisladamente, si se trata de representaciones
+sucesivas. El entendimiento no se limita á afirmar esta relacion entre las ideas, sino que
+aplica lo mismo á la realidad, y dice: donde quiera que se realicen las condiciones de este
+órden ideal, se verificará en el real lo mismo que estoy viendo en mis ideas; y si estas condiciones
+no se realizan con toda exactitud, en proporcion de esta se verificará mas ó menos la relacion
+expresada: cuanto mas delicadas sean las líneas reales que se corten, cuanto mas se aproximen
+á la perfeccion en cuanto á ser rectas, tanto mas aproximadamente se verificará la relacion
+de la igualdad de los ángulos. Este convencimiento se funda en el principio de contradiccion,
+el cual resultaria falso si la proposicion no se verificase; y se halla confirmado por la experiencia,
+en cuanto esta puede alcanzar de algun modo las condiciones puestas en el órden ideal.
+
+[184.] Ahora bien: en la realidad ¿qué es lo que corresponde á dicha proposicion? una línea
+existente ó real, será un órden de seres; dos líneas que se corten serán dos órdenes de seres,
+con una relacion determinada; el ángulo será el resultado de esta relacion, ó mejor la relacion
+misma; y la igualdad del ángulo opuesto será la correspondencia de estas relaciones en razon
+de igualdad, por la continuacion del mismo órden en otro sentido. Este conjunto de relaciones
+entre los órdenes de los seres, y la correspondencia de estos órdenes entre sí, será lo que
+corresponde en la realidad á la idea geométrica pura, ó bien á la idea separada de toda representacion
+sensible. Con tal que las relaciones de la idea tengan sus objetos correspondientes en las
+relaciones de la realidad, la geometría existe no solo en el órden ideal sino tambien en el
+real. Como el fenómeno, ó sea la representacion sensible, está sometido á las mismas condiciones
+que la idea, habiendo tambien en el órden de los fenómenos ciertas relaciones en la misma razon
+que en la idea y en el hecho, tendremos acordes la idea, el fenómeno y la realidad, y explicado
+por qué el órden intelectual se confirma con la experiencia, y esta á su vez recibe con toda
+seguridad la direccion de aquel.
+
+[185.] Esta armonía ha de tener una causa; es menester buscar un principio donde se pueda encontrar
+la razon suficiente de ese acuerdo admirable entre cosas tan distintas: y aquí surgen nuevos
+problemas que por una parte abruman el entendimiento y por otra lo ensanchan y le alientan,
+con el grandioso espectáculo que ofrecen á su vista, y el campo inmenso que le brindan á recorrer.
+
+CAPÍTULO XXVI.
+
+CARÁCTER DE LAS RELACIONES DEL ÓRDEN REAL CON EL FENOMENAL.
+
+[186.] El acuerdo de la idea, del fenómeno y de la realidad, ¿es necesario, esto es, fundado
+en la esencia de las cosas, ó ha sido establecido libremente por la voluntad del Criador?
+
+Si el mundo no tuviese mas realidad que la expresada por la representacion sensible, si las
+apariencias contuviesen una copia exacta de la esencia íntima de las cosas, seria menester
+decir que este acuerdo es inalterable, que las cosas no son mas que lo que parecen; y que en
+el supuesto que existan, han de ser tales como parecen, y esto por absoluta necesidad; pues
+que ninguna cosa puede estar en contradiccion con su nocion constitutiva. Lo que ahora es extenso,
+seria por necesidad extenso; y no podria menos de serlo del mismo modo que nos lo parece, y
+bajo las mismas condiciones: la relacion de los cuerpos entre sí estaria necesariamente sujeta
+á las mismas leyes fenomenales: todo lo que fuera apartarse de este órden seria una contradiccion,
+que no cae ni bajo el poder de la omnipotencia.
+
+[187.] Los cuerpos se nos presentan en la intuicion sensible con magnitudes determinadas, y
+estas en cierta relacion fija, que nosotros calculamos, comparándola con una extension inmóvil,
+cual nos figuramos el espacio. Por la magnitud ocupan los cuerpos cierto lugar, tambien determinado,
+aunque mudable con el movimiento. Por la relacion de las magnitudes, ocupan mayor ó menor lugar,
+y se excluyen recíprocamente de uno mismo: esta exclusion la llamamos impenetrabilidad. La
+cuestion que aquí se ofrece es la siguiente: la determinacion de las magnitudes, y la relacion
+de ellas con respecto á la ocupacion de lugares, ¿son cosas absolutamente necesarias de manera
+que su alteracion envuelva contradiccion? nó.
+
+[188.] La relacion al lugar, considerando á este como una porcion del espacio puro, no significa
+nada; pues ya hemos visto que este espacio no es mas que una simple abstraccion de nuestro
+entendimiento, y que en sí mismo no tiene ninguna realidad: es nada. Luego la relacion á él,
+será tambien nada, á causa de que la relacion es nula, cuando falta el término á que se ordena.
+Luego todas las relaciones de los cuerpos á los lugares, no pueden ser otra cosa que las relaciones
+de los cuerpos entre sí.
+
+[189.] Este es el principal punto de vista en las presentes cuestiones; el entendimiento se
+confunde, cuando comienza por suponer al espacio una naturaleza absoluta, con relaciones necesarias
+con todos los cuerpos. Recuérdese la doctrina de los capítulos (XII, XIII, XIV y XV) donde
+se explica cómo se engendra en nosotros la idea del espacio, qué objeto le corresponde en la
+realidad y de qué manera; y se echará de ver que esas relaciones absolutas y esenciales, que
+creemos descubrir entre los cuerpos y una capacidad vacía y real, son ilusiones de nuestra
+imaginacion, efecto de que no depuramos bastante el órden ideal, de que no le separamos de
+las impresiones sensibles. En estas cuestiones, no se puede entender nada, ni aun el sentido
+de ellas, si no se hace un esfuerzo por lograr esta separacion, en cuanto es posible á nuestra
+naturaleza. Si esto se consigue, las cuestiones que voy á examinar en los capítulos siguientes,
+parecerán muy filosóficas; y su resolucion, si nó verdadera, al menos verosímil; pero si se
+confunden cosas tan distintas como son el órden intelectual puro, y el sensible, dichas cuestiones
+parecerán absurdas. Es inadmisible el idealismo que destruye el mundo real; pero no lo es menos
+el empirismo que aniquila el órden ideal; si no pudiéramos elevarnos sobre las representaciones
+sensibles, debiéramos renunciar á la filosofía, dejando el pensar, y limitándonos á sentir.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document09333</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>391165</suspiciousTextOffset>
+<suspiciousTextLength>22748</suspiciousTextLength>
+<suspiciousTextContent> 
+
+[165.] Seems to have excogitating the aforementioned distinction not seen in the precision of
+admit infinite divisibility in natural bodies. Reflecting on this point is easy to see that
+having the difficulty with regard to mathematical bodies, mystery Subsisting entirely philosophical.
+This mystery is estimated that there may be a limit point to the division, while there is rather
+extensive, and that if to signal this limit is reached simple points, then there is no way
+to reconstitute the extension. For so the difficulty arises from the very nature of things large,
+whether conceived and realized, and real order can not but suffer all the disadvantages of
+the ideal. If dotted unextended no extension can be conceived, can not be the extension true,
+and if the extension is not thought likely to limit its division until to simple points, what will
+happen to own the real: these disadvantages of being born very essence of extension, are inseparable
+from it.
+
+CHAPTER XXIII.
+
+POINTS unextended.
+
+[166.] Against the existence of unextended points militate two powerful reasons: first, which
+must involve the infinite in number, it does not seem possible otherwise, arriving to the
+simple, based on the length, and second, that even if infinite in number, are unable to result
+in the extension. These two reasons are so powerful that they excusable all musings to the contrary,
+because no matter how strange they may seem, cease to be when compared
+with the strangeness that is so simple form the extended, and that
+any portion of matter is to be an infinite number of parts.
+
+[167.] Does not seem possible to arrive at unextended points but going through an infinite division:
+unextended it is zero in the order of the extension, and a decreasing geometric progression do
+not get to zero but continuing it to infinity. What that tells us the mathematical calculation
+makes us sensitive imagination. Wherever there are two parts together, there is a face which are touching,
+and one on the outside that is not in contact. Separating internal outside, we find two new faces,
+one contact and another not. Following the division, same thing happen to us, then to come
+to the unextended, we have to go through a series infinite: in other words what to say that never
+comes. By way to continue the division to infinity we are compelled to assume infinite parts, and
+therefore, the existence of an infinite number today. From the moment we assume existing this
+infinite number, it seems to us becomes finite, as we see and an end to the division, and above
+all we see larger numbers than him. Suppose that the infinite number parts are in a cubic inch:
+I say the numbers are larger than this course infinity: for example, a cubic foot contains 1728 times
+the so-called infinite content in the cubic inch.
+
+It follows that the opinion of unextended points, wanting to avoid the infinite division, is
+to fall into it; and their opponents flee proposing unextended point
+seems at last come to recognize its existence.
+
+The imagination is lost, and the understanding is confused.
+
+[168.] The other difficulty is no less intractable, suppose that we have come to the points unextended,
+how can we reconstitute the extension? Unextended it is dimensionless, then by more join points
+unextended form no extension. Imaginémenos who meet two points as neither occupy any place,
+any more than fill the two together. Can not said to interpenetrate, as there is no penetration
+when there is no extension, what should be say is that being all
+zero in the order of extension, their sum, however large the number
+of addends, it will not be anything extensive.
+
+[169.] Here occurs a difficulty: it is true that only a sum of zero
+results in zero; but it is something accepted among mathematicians,
+that certain expressions equal to zero, can product taken for a finite
+amount, if multiplied by the other infinite.
+
+0 +0 +0 +0 + Nx0 = 0, but if we: (0 / M) = 0, and multiply the expression by (M / 0) = infinity
+result (0 / M) x (M / 0) = (0xM) / (Mx0) = (0 / 0) which can be equal either to a finite amount,
+which will express by A. This demonstrates even with single elementary principles of algebra,
+and passing to the sublime, we have (dz / dx) = (0 / 0) = B, expressing
+the differential coefficient B, which can be a finite value.
+
+"These doctrines mathematics can help explain the generation of long, starting from unextended
+points? I think not.
+
+Since then jumps to the eyes, not being the multiplication rather than an addition abbreviated
+if an infinite addition of zeros can not give more than zero, nor can be otherwise the multiplication,
+but the other factor is infinite. Why then the mathematical results tell us otherwise? It is
+true that there is such a contradiction, it is only apparent. In the propagation of infinitesimal
+by the infinite product can be obtained by a number finite, because the infinitesimal is not
+considered as a true zero, but a number less than every imaginable, but it's still something.
+From the moment you are missing to this condition, all operations would be absurd, because nothing
+would be on a cigar. Shall we say by this that the expressions (dz / dx) = (0 / 0) are only
+approximate? No, because express the relation of the limit of decreasing, which verifies that
+it is equal to B, only when the differentials are equal to zero, but as the geometer does not
+consider more than the limit itself jumps all the intervals of decrease, and placed course
+at the point where the real accuracy.
+
+Why then operates on these amounts? because the operations are a kind of algebraic language that
+mark the path that has followed in the calculations, and recall the bond limit to the amount
+to which it relates.
+
+[170.] In the unit, not a number, is the number. Why no extension points can not be the Chapter? The
+disparity is large. In unextended, as such, does not enter rather than the negative perception
+of the extension, but the unit, while it denied the number, denial is not their nature, nobody
+has ever defined the unit to "the negation of number 'and all the unextended define "what has
+not extension." Unity is a be any taken in general, not considering it, division, and the number
+is a set of units, then the idea of ??entering the unit number of an undivided being, not being
+but the number that repetition of this unit.
+
+Every number is fixed in the unit, through what is number it is contained
+in a particular way: the length can not be resolved in unextended,
+but proceeding to infinity, or making the decomposition in a way that
+we not reached.
+
+CHAPTER XXIV.
+
+A GUESS ON THE TRANSCENDENTAL NOTION OF THE EXTENSION.
+
+[171.] Arguments militating both for and against unextended points, and the infinite divisibility
+of matter, they all seem conclusive: so that the understanding as they have encountered suspicious
+shows contradictory. Cree find absurd in infinite divisibility, absurd, if he says limits, absurd,
+denies the points unextended, absurd, if supported. When attacking the contrary opinion feel
+invincible; but their strength becomes profound weakness, as soon as you establish and defend
+own. Yet the reason can not contradict: two contradictory demonstrations would be the contradiction
+of reason itself and would be to their utter ruin, the contradiction since there can not exist, but
+in appearance. But where is the knot?
+
+How unleashed? Who can get flatter? Heavy reliance on this point would a sure sign of a lack of
+understanding the state of the question, and vanity would stay punished resulting convinced ignorant.
+With these caveats, let me give some comments about this mysterious question.
+
+[172.] I am inclined to believe that research on the first elements of matter you have a mistake
+it impossible to reach the result. If the extension is sought Points can be unextended, and the
+method used is to imagine approximate and see if they can fill some of the space. This in my
+view, be equivalent to denial that correspond to the statement. Unextended point is given us nothing,
+but the denial of the extension, when we require it to deal with other space require you to be unextended
+is extensive. There seems to be here a game of imagination makes us assume the extension, in
+the very act that is intended to assist his generation primitive. The space, as you see it,
+is a true extension, and second I said, is the idea of ??the extension in full generality: they
+pretend it has to fill unextended space, is to require the extension not to become extension.
+It is true that this is precisely what is requested, and that, therefore, here's the whole
+point of the difficulty, but The mistake seems to be that this difficulty
+is the want to solve by the simple juxtaposition method, and therefore
+it requires something unextended points obviously contradictory.
+
+[173.] To find out about the regeneration of the extension, it would need to be able to remove
+all sensible representations of all the ideas that are more or less affected by phenomenon, and
+to move to the contemplation of the same reality as simple eye with look as sharp as a pure spirit, it
+would be necessary that all geometric ideas forms could shed phenomenal, I mean of all representations
+of the imagination; and offer the refined understanding of everything that mixes with the sensible
+order, would need to know to what extent the extension, the real
+continuity, is in line with the phenomenal that is, the perceived
+object delete everything that is related to the subject that perceives.
+
+[174.]
+
+We saw that in the course were two things: variety and continuity; respect to the first, we
+make no difficulty arising from the unextended points: provided there are multiple units, is the
+number, are those simple or compound. The secret is in continuity, in that it presents sensible
+intuition as clear as the basis of the representations of the imagination, and yet the understanding
+entangled with inextricable ties. Perhaps you could say that continuity, regardless of representation
+sensible and considered only in the transcendent order that is in reality as can be offered to a pure
+spirit, is nothing more than the constant ratio of many beings, which are of such nature that
+may occur in the sensitive being the phenomenon called representation, and be perceived in that
+intuition which is like your recipent and is called representation space.
+
+With this scenario, the extension in the external world is real, not
+just as a principle of causality of our impressions, but as an object
+subjected to the necessary relationships we conceive.
+
+[175.] But then, you ask, does the external world is as we imagine?
+should respond to this by noting that according to what has been said
+when dealing with sensations, it is necessary to deprive him of what
+these are subjective, and that an innocent illusion, became a target
+and that, as to the extension, there was actually of us, regardless
+of our feelings, but, considered in itself, has no nothing that this
+attribute, but what they perceive the pure understanding, without
+mixing any sensible representation.
+
+[176.] There appears to be no objection to support this theory, which states at once reality of
+the corporeal world and dispel the difficulties of the most unalloyed idealism. To present in
+a few words my opinion I will say that the extension itself, the whole universe in itself, is
+known as God, and in the knowledge of God does not mix any of these representations sensitive
+who is always accompanied by our weak perception.
+
+In this case, the remainder of the extension is positive in a certain order multiplicity constant.
+The continuity itself is nothing more than this order, and as significantly represented in
+us, is a purely subjective that does not affect reality.
+
+[177.] Until you can point to a reason that we have been given sensible intuition. Our soul is
+linked to an organized body, ie a set of beings associated with relationship consistent among
+themselves and with other bodies in the universe. For harmony is not broken and the soul who presided
+over the organization to exercise his functions as appropriate, needed
+it to have a continuous representation of the whole body relations
+themselves and to strangers.
+
+This representation should be simultaneous, and independent of intellectual combinations: for without
+this was not possible to exercise the powers animals, with the promptness and perseverance that
+requires the satisfaction of needs life. For this reason we will be given to all sentient beings,
+even the short of reason, the intuition of the extension or space, which is to be in the living
+as a limitless field where portray different parts of the universe.
+
+CHAPTER XXV.
+
+ORDER HARMONY REAL, GREAT, and ideals.
+
+[178.] In the external world we can consider two kinds: one real,
+another phenomenal, the One is its own absolute: the second is relative
+to the being who perceives the phenomenon by First, the world is,
+for the second, appears.
+
+A pure intellectual being knows what the world is a being that appears sensible experience.
+In ourselves we can see this duality as sensitive, we experience the phenomenon: as smart as
+we know the reality, we strive to descry by through reasoning and
+conjecture.
+
+[179.] The external world in its real nature, quite apart from the phenomenal is not an illusion.
+Their existence is known to us not only the phenomena but also for
+the principles of pure understanding, superior to all individual and
+contingent.
+
+These principles, data supported an experience, that is, sensations whose existence we witness
+the inner sense, we ensure that the objectivity of sensation, or the reality of an external
+world, is true.
+
+[180.] The distinction between essential and accidental, and between the absolute and relative
+was known at school.
+
+The extension was not considered as the essence of bodies, but as an accident, the relations
+of the body with our senses, were not supported immediately in essence, but in accidents. The
+essence of bodies, constituted matter and substantial form together: the material receiving
+the form, and acting as matter. Neither the matter nor the substantial form were immediately obvious
+to the sense, this perception needed for the determination of the figure and other accidents
+than the essence of the body.
+
+So sensitive objects scholastics distinguished three classes: own,
+common and accident: proprium, commune, et per accidens.
+
+Itself is offered immediately to sense, and is not seen but one: the color, sound, smell, and
+taste. The common, is perceived by various senses, as the figure, which is the subject of sight
+and touch. The accidental, or per accidens, is not directly perceived by any sense, which
+is hidden under the sensible qualities, and we discover through of these, such as substances.
+Per accidens sensible, is linked with the sensible qualities; but these do not offer an understanding
+as the original image, but as a sign the thing signified. Here is that the sensible per accidens,
+no emission was supposed species to reduce the act to the faculties of sensation: it was rather sensible
+intelligible.
+
+[181.] In the corporeal universe, considered in its essence, there
+is no need to assume anything which is similar to the sensible representation,
+but it is necessary to assume a correspondence between the object
+and the idea, otherwise it would be necessary to admit that geometrical
+truths can be refuted by experience.
+
+[182.] Although the extension is not more than an order of beings that we can not be perfect
+concept, not possible to debug Serna any form sensible ideas, this
+order must correspond to our ideas, and even to our sensible representations,
+as necessary to verify the truth of ideas.
+
+It is evident that the phenomenal order, although other than real, is nevertheless bound by it
+and depends on it, by law constant: if we assume that there is a parallel between reality and
+the phenomenon, and in that no There are all necessary conditions to meet the demands of this,
+there is no reason why the phenomena are subject to constant laws, and not suffer in our experience
+continuous disturbances. Not assuming a fixed and constant correspondence between reality and
+appearance, the world we are thrown into chaos, and we find it impossible any constantly experience
+orderly.
+
+[183.] Unwrap the preceding observation. One of the elementary propositions geometry says the vertex
+opposite angles are equal. To demonstrate its truth, I need internal intuition of two intersecting
+lines extending from both sides, but the proposition geometry is
+not limited to any particular those intuitions, but extends to all
+the imaginable, with no limit on their number, without any determination
+as to measure angles or to the length of the lines, nor to their position
+in space.
+
+Behold the pure idea, encompassing countless cases, where no sensible intuition is more than
+one, if it is a time, and several isolation, in the case of representations succession. The understanding
+is not confined to state this relationship between ideas, but the same applies to reality, and says
+wherever they perform the conditions of this ideal order, be verified in the same real I'm
+seeing in my ideas, and if these conditions not performed accurately, in proportion of this
+will be checked more or less the relationship expressed: the more delicate than the actual
+lines are cut, the closer to perfection, as to be straight, much more about the relationship
+be verified equal angles. This belief is based on the principle of contradiction, which would be distorted
+if the motion is verified, and is confirmed by experience, as it can somehow reach the conditions
+stipulated in the order ideal.
+
+[184.] Now, in reality what is it that corresponds to that proposition? line real or existing,
+will be an order of beings, two intersecting lines are two orders of beings, with a particular
+relationship, the angle will be the result of this relationship, or rather the relationship
+same, and equal opposite angle is the correspondence of these relations on account equality,
+for the continuation of the same order in another way. This set of relationships between the orders of
+beings, and the correspondence of these orders to each other, is
+what in reality corresponds to the pure geometrical idea, or rather
+to the whole idea of ??separate representation sensitive.
+
+As long as the relations of the idea have their corresponding objects in the relations of reality,
+the geometry exists not only in the ideal order but also in the real. As the phenomenon, or is
+the sensible representation, is subject to the same conditions the idea, having also in the order
+of phenomena in certain relations the same reason that the idea and in fact, will line the idea
+and reality of the phenomenon, and explained why the intellectual order is confirmed by the experience,
+and this in turn receives all the address of that security.
+
+[185.] This harmony must have a cause, it is necessary to find a principle which can be found
+sufficient reason for this remarkable agreement among so many different things, and here there
+are new problems that overwhelm some other understanding and widen it and encourage him, with the
+magnificent spectacle before their eyes, and the vast field that give to go.
+
+CHAPTER XXVI.
+
+NATURE OF THE REAL ORDER RELATIONS WITH THE GREAT.
+
+[186.] The agreement of the idea of ??the phenomenon and reality, is it necessary, that is founded
+the essence of things, or has been set free by the will of the Creator?
+
+If the world had no more true than that expressed by the sensible
+representation, if appearances included a carbon copy of the inner
+essence of things, would need say that this agreement is unchangeable,
+that things are nothing more than what they seem, and that assuming
+they exist, must be such as they seem, and this of absolute necessity,
+because that nothing can be in contradiction with its notion of incorporation.
+
+What is now extensive, would necessarily be large, and can not fail to be the same way that it
+seems to us, and under the same conditions: the relation of bodies
+to each other would be necessarily subject to the same laws phenomenal:
+all that was to depart from this order would be a contradiction, that
+does not fall under the power or omnipotence.
+
+[187.] The bodies appear to us in sensible intuition with amounts determined and are in some
+fixed ratio, which we calculated and compared with a stationary extension, which we imagine
+space. Due to the magnitude bodies occupy a certain place, also determined but changeable with movement.
+On the relation of magnitudes, occupy greater or lesser place, and self-mutually exclusive:
+we call this exclusion impenetrability. The question offered here is the following: the determination
+of magnitudes, and the relationship of them with respect to the occupation of places, are things that
+are absolutely necessary so alteration wrap your contradiction? not.
+
+[188.] The relationship at all, considering this as a portion of pure space, does not mean nothing, for
+we have already seen that this space is not more than a mere abstraction of our understanding, and
+that in itself has no reality, is nothing. Then the relationship to him, is also nothing on
+account of the relationship is zero when the term needed to be ordered. Then all the relations
+of bodies to the places, can not be anything but relations bodies together.
+
+[189.] This is the main point of view on these issues, the understanding is confused when it starts
+by assuming the space an absolute nature, necessary relationships with all bodies. Remember
+the doctrine of the chapters (XII, XIII, XIV and XV) where explains how to engender in us the
+idea of ??space, which object corresponds to the reality and how, and they will see that these
+relations absolute and essential, we find among the bodies and an empty capacity and real, are illusions
+of our imagination, an effect that we treat not quite the ideal order,
+that does not separate from sense impressions.
+
+In these questions, you can not understand anything, not even the sense of them, if not make
+an effort to achieve this separation, as far as possible to our nature. If this is achieved, the issues
+I shall discuss in subsequent chapters, seem very philosophical, and its resolution, if not
+true, at least plausible, but if confuse things as different as are the purely intellectual
+order, and sensitive issues such seem absurd. It is unacceptable idealism that destroys the
+real world, but it is nevertheless empiricism that annihilates the ideal order, if we could
+not rise above representations sensitive, we should renounce the philosophy, leaving the thinking,
+and limiting ourselves to feel.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

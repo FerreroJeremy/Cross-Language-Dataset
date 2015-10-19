@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07405</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>1009</sourceTextOffset>
+<sourceTextLength>230</sourceTextLength>
+<sourceTextContent> Qué momento
+tan solemne aquel, de recogimiento para el alma del viajero, de esperanza profunda y de temor
+supremo!
+
+Al dejar la playa arenosa donde quiebra sus hondas el majestuoso Magdalena, creía separarme
+de un inmenso tesoro. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document01875</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>2508</suspiciousTextOffset>
+<suspiciousTextLength>183</suspiciousTextLength>
+<suspiciousTextContent> What hour is the
+rest for that solemn, weary traveler's soul, deep thoughts reign.
+
+Leaving the sandy beach, where his thoughts are of an immense treasure and the majestic Magdalena.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

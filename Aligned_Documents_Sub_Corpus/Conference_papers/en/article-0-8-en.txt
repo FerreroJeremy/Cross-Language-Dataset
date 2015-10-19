@@ -1,0 +1,1 @@
+These examples show the need for flexibility in how the summary is computed. This is why in our approach we propose that summaries can be specified declaratively with a query manipulation language called QSL. QSL expressions are used to combine several queries into a query that summarises them.

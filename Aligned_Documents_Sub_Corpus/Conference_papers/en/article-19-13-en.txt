@@ -1,0 +1,1 @@
+4. identification of the sense seeds and filtering of noise: the sense seeds and the cooccurrents to discard are determined by comparing their number of strong links with a fixed threshold.

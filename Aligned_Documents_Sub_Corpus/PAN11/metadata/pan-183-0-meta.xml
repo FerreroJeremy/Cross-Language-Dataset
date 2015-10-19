@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04335</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>64505</sourceTextOffset>
+<sourceTextLength>227</sourceTextLength>
+<sourceTextContent> He hecho algunos viages, y he visto otros
+mortales muy inferiores a nosotros, y otros que nos son muy superiores; mas ningunos he visto
+que no tengan mas deseos que verdaderas necesidades, y mas necesidades que satisfacciones.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document06528</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>1</suspiciousTextOffset>
+<suspiciousTextLength>244</suspiciousTextLength>
+<suspiciousTextContent> I have made a number of voyages, and I have seen
+others considerably inferior to us mortals, and others very much superior, but I have never encounter
+any whose desires exceeded their genuine needs, and whose satisfactions
+exceeded their needs</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

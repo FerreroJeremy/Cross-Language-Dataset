@@ -1,0 +1,1 @@
+In spite of its simplicity, the PUG formalism is powerful enough to elegantly simulate most of the rulebased formalisms used in formal linguistics and NLP. This sheds new light on these formalisms and allows us to bring to the fore the exact nature of the structures they handle and to extract some procedural mechanisms hidden by the formalism.

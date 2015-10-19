@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02429</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>11222</sourceTextOffset>
+<sourceTextLength>271</sourceTextLength>
+<sourceTextContent>
+¡Cómo atisba la menor telaraña y hace al punto que la deshollinen, cuando no la deshollina
+ella misma! ¡Cómo limpia el polvo de todos los muebles! ¡Con qué esmero alza en el armario
+o guarda en el arca o en la cómoda la limpia ropa de mesa y cama, sahumada con alhucema! </sourceTextContent>
+<suspiciousIDDoc>suspicious-document09090</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>16710</suspiciousTextOffset>
+<suspiciousTextLength>304</suspiciousTextLength>
+<suspiciousTextContent> I
+have noticed that the maid has not swept away a cobweb in the corner. Since she can't seem to
+follow my instructions I show her how. I also have to demonstrate how to dust everything. Then,
+in the closet, we find clean and comfortable bed and table linen
+from which comes the smell of lavender perfume</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

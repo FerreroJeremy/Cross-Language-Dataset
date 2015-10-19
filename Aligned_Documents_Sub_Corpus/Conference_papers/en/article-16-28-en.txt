@@ -1,0 +1,1 @@
+MAP computes the precision at each point where a relevant term appears in a list of candidates; MRR is the average of the inverses of the ranks of the first relevant term in a list.

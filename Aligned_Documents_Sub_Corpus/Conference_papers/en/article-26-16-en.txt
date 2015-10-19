@@ -1,0 +1,1 @@
+When the configurator used is itself object-oriented [11], such relations are implemented using set variables. For instance, a noun phrase may have a noun as its head2. This relation between categories can be adequately modeled using a relation in the corresponding object model.

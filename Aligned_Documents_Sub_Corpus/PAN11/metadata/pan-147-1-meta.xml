@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08084</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>17382</sourceTextOffset>
+<sourceTextLength>229</sourceTextLength>
+<sourceTextContent>
+
+Ilanos, illanos, lanos, lanaos, malanao son nombres que se dan á ciertos habitantes piratas
+de la costa de Mindanao. Son diferentes formas de composición del rádical lanao ó lanun nombre
+geográfico de una parte de aquella isla.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05390</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>2432</suspiciousTextOffset>
+<suspiciousTextLength>199</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Ilan, Illanes, Lanos, Lanaos and Malanao are some of the names given to certain pirates who inhabit the
+coast of Mindanao. The names denote different types wool, or lanun,
+indigenous to the island</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,1 @@
+For evaluating the resemblance between proximity measures, we compare neighborhood graphs and quantify their similarity. At first, we will define precisely what is a topological graph and how to build it. Then, we propose a proximity measure between topological graphs used to compare proximity measures in the section below.

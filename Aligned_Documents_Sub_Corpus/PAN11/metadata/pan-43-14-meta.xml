@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01929</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>6603</sourceTextOffset>
+<sourceTextLength>535</sourceTextLength>
+<sourceTextContent>
+
+Doña Inés, bastante enojada, replicó todavía:
+
+--Abreme. ¿Tendré que arrepentirme de haberme fiado de ti? ¿Qué burlas son estas?
+
+--Perdóname, perdóname--dijo Juanita con voz suplicante y dulce--. Tú eres mí madrina, mi protectora
+y yo no quiero ni debo burlarme de ti. No dudes que conviene lo que hago. Cállate, por Dios.
+Ten paciencia. Mira y observa sin hablar. Cállate. Oigo ruido. Nuestro hombre ha entrado en
+casa. Ya sube por la escalera. ¡Chitón! Si él sospecha que hay alguien aquí, darás un escándalo
+y harás una tontería.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document01572</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>164277</suspiciousTextOffset>
+<suspiciousTextLength>494</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Doña Inés, quite angry, replied yet:
+
+- Abreme. Will I regret you trust me? What mockery is this?
+
+- Forgive me, forgive me - Juanita said with a pleading voice and sweet -. You are my godmother,
+my protector and I do not want nor should I tease you. No doubt that it is what I do. Shut up,
+by God. Be patient. Look and see without speaking. Shut up. I hear
+noise. Our man has entered home. And climb the ladder. Hush! If he
+suspects that someone here will give a scandal and make a nonsense</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

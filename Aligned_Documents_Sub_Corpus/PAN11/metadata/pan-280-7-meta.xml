@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03144</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>14740</sourceTextOffset>
+<sourceTextLength>251</sourceTextLength>
+<sourceTextContent> Una parcialidad tiene su habitacion en la parte mas septentrional del rio, y
+su cacique principal se llama Quatí. La otra suele estar con mas frecuencia en la parte austral,
+en la cercania de la Asumpcion. El cacique principal de esta se llama Ipará.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document10110</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>78525</suspiciousTextOffset>
+<suspiciousTextLength>233</suspiciousTextLength>
+<suspiciousTextContent> A bias has a room in the northernmost part of the river, and its principal chief
+called Quatí. The other is usually more frequently in the southern part, in the proximity of the
+Assumption. The principal chief of this is called Ipar</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

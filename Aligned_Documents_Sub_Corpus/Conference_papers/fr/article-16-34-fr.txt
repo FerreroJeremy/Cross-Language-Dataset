@@ -1,0 +1,1 @@
+Deuxièmement, il apparaît clairement que filtrer les candidats les moins fréquents est beaucoup plus payant pour l’approche miroir 13. C’est sans doute la conséquence d’un corpus de départ plus petit, pour lequel les occurrences rares de mots peu fréquents entraînent des probabilités d’alignement peu fiables.

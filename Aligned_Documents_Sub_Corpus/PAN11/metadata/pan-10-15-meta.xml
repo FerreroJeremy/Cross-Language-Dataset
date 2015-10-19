@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01620</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>3000</sourceTextOffset>
+<sourceTextLength>470</sourceTextLength>
+<sourceTextContent>
+
+Pues no señor; usted se empeña en que el negocio sea más raro y más difícil de explicar, y
+usted dispone que la boda se celebre a escape a fin de que no sobrevenga el fenómeno de la
+aparición de una criatura humana perfecta y mucho menos que sietemesina.
+
+En vista de cuanto va sucediendo y usted relatando, no pocas personas acusan a usted de sobrado
+pesimista y de que pinta con los más negros colores la inmoralidad y los vicios de la alta
+sociedad a que pertenece.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document00376</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>363570</suspiciousTextOffset>
+<suspiciousTextLength>428</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Well, no sir, you insist that the business is rarer and more difficult to explain, and you
+have the wedding take place to escape so that there occurs the phenomenon of emergence of
+a perfect human being, much less premature.
+
+In view of what is happening and you are telling, not a few people accuse you of leftover pessimistic
+and painting with the darkest colors immorality and vices of the
+high society to which it belongs</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,1 @@
+For instance, they assumed the availability of a bitext in order to train a translation model that they used for aligning sentences at the word level. Our approach would be more suited for corpora where we know a priori that many documents are parallel.

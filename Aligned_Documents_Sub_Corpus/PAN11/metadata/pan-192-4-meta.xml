@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document09574</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>414071</sourceTextOffset>
+<sourceTextLength>259</sourceTextLength>
+<sourceTextContent>
+
+Los aceros se cruzaron.
+
+Gonzalo paraba los golpes con maestría, acechando el instante. Ramiro, a su vez, desplegaba
+una esgrima aparatosa y soldadesca, con molinetes fantásticos, y su boca, entreabierta por
+el ansia homicida, dejaba rebrillar la dentadura.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document06893</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>24697</suspiciousTextOffset>
+<suspiciousTextLength>277</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Steel weapons crossed, Gonzalo masterfully halted the blows, lying
+in wait for the moment.
+
+Ramiro, in turn, deployed showy, military style fencing with fantastic twirls the sword above his
+head and his mouth, slightly open yearning for murder displayed his glittering
+teeth</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

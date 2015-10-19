@@ -1,0 +1,1 @@
+Dans ce papier, nous proposons que les résumés soient exprimés de manière flexible et déclarative via un langage de manipulation de requêtes appelé QSL. Les expressions définies avec cette algèbre permettent de résumer plusieurs requêtes en les combinant sous la forme d’une seule requête.

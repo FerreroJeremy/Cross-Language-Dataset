@@ -1,0 +1,1 @@
+Word n-grams. We use word unigrams and bigrams in order to capture multiwords present in the training section and to extract lexical cues to discover new MWEs. For instance, the bigram coup de is often the prefix of compounds such as coup de pied (kick), coup de foudre (love at first sight), coup de main (help).

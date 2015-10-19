@@ -1,0 +1,1 @@
+The phenomenon detection is done by examination of the neighbourhood of a conceptual vector. If among the N first neighbors, the density of words with no correlation with the target word is important then an action of separation must be undertaken.

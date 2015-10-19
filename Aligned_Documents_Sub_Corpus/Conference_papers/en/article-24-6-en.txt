@@ -1,0 +1,1 @@
+This generalization needs to be refined. Indeed, results of the generalization are good with some pattern, but bad with patterns constrained by types that are too general, like entity, artefact, abstraction, . . . : the lack of constraints on the iclusion of L1 in the definition of L2 leads to the multiplication of candidates that do not belong to regular polysemy classes.

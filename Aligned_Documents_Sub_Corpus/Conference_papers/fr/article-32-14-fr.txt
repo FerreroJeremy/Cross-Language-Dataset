@@ -1,0 +1,1 @@
+Cette dernière évaluation, plutôt inhabituelle, est supposée aider à déterminer si notre méthode permet l’entrainement sur un corpus plus grand et disponible et le test sur un corpus plus petit et parfois d’un domaine différent. Pour toutes ces évaluations, nous utilisons le logiciel SVM-light (http ://svmlight.joachims.org).

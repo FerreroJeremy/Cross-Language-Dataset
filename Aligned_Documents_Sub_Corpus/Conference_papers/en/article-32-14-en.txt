@@ -1,0 +1,1 @@
+The latter, rather unusual, test configuration is supposed to help determine whether our method allows for training on a larger, already available annotated corpus and testing on smaller one, sometimes from a different domain. For all setups, we used the SVM-light software package.

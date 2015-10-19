@@ -1,0 +1,1 @@
+Descriptions d’arbre polarisées La structure fondamentale des GI est la description d’arbre polarisée (DAP) qui représente un fragment d’arbre d’analyse. Elle contient des noeuds polarisés, c’est-à-dire décorés de polarités. Les GI distinguent 4 polarités P = {?,?,=,~}, respectivement positive, négative, neutre et virtuelle.

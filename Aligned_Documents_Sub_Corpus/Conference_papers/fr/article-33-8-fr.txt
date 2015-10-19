@@ -1,0 +1,1 @@
+Les deux modèles décrits dans la section 4 nécessitent des traits dédiés aux mots composés. Dans le but de rendre ces modèles comparables, nous avons mis en place deux jeux comparables de patrons de traits : l’un adapté à l’annotation séquentielle et l’autre adapté au réordonnancement.

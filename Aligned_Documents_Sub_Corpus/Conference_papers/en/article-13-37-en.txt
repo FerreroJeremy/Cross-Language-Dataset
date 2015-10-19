@@ -1,0 +1,1 @@
+For the time being, we limited the semantic information in the lexicon to loc (locative) and deloc (source), but we intend to extend those categories to those used in DICOVALENCE (time, quantity, manner).

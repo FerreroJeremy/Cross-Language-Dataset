@@ -1,0 +1,1 @@
+A la fin de la dérivation, la structure doit être un arbre et tous les noeuds doivent être reconstitués : pour cela nous introduisons la règle suivante, qui présente un lien de dominance positif reliant un noeud à lui même et qui en s'unifiant avec un lien de dominance négatif assurera la saturation de celui-ci et forcera l'unification de ses deux extrémités.

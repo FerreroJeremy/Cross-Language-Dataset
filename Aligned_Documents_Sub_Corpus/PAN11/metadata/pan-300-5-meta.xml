@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04679</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>9565</sourceTextOffset>
+<sourceTextLength>523</sourceTextLength>
+<sourceTextContent> Sea que el pueblo español haya sido calumniado
+en eso de la intolerancia política; sea que la vida constitucional le haya mejorado mucho;
+sea, en fin, que los periodistas constituyan donde quiera una raza aparte, lo cierto es que
+en España he hallado entre los escritores una singular cordialidad en las relaciones personales.
+En los cafés, los teatros, etc., se ve fraternizar á los hombres (los jóvenes sobre todo) que
+se hacen la guerra mas cruda por medio de la prensa y en todos los terrenos ardientes de la
+política.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document10998</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>32591</suspiciousTextOffset>
+<suspiciousTextLength>459</suspiciousTextLength>
+<suspiciousTextContent> Whether the Spanish people have been maligned in
+that of political intolerance, whether a constitutional life has improved greatly; is, in
+short, that journalists everywhere constitute a separate race, the truth is that in Spain between
+the writers have found a unique warmth in personal relationships. In the cafes, theaters, etc..,
+Is fellowship to men (especially young people) that make war more crude through the press and
+all the burning fields policy.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

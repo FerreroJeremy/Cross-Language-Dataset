@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01021</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>181177</sourceTextOffset>
+<sourceTextLength>272</sourceTextLength>
+<sourceTextContent> La oscuridad le
+cegó. En cuanto dio algunos pasos sintió un golpe en la espalda y oyó una voz ronca que decía
+al mismo tiempo:
+
+--¡Muere, infame!
+
+Se heló en sus venas la sangre y dio un salto hacia atrás. Entre las sombras espesas pudo distinguir
+un bulto más negro aún. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document00224</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>2942</suspiciousTextOffset>
+<suspiciousTextLength>258</suspiciousTextLength>
+<suspiciousTextContent> He was blinded by the
+darkness. He felt a breeze and took a few steps back, at the same
+time that he heard a gruff voice say "Die, infamous!"
+
+His blood froze in his veins and he took another step backwards.
+
+In the shadows, he could see a large, dark mass.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

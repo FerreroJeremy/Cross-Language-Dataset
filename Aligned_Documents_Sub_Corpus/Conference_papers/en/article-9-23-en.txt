@@ -1,0 +1,1 @@
+At the end of the derivation, the structure must be a tree and all nodes must be reconstructed: this is why we introduce the next rule, which presents a positive dominance link linking a node to itself and which will force two seminodes to unify by neutralizing the dominance link between them.

@@ -1,0 +1,1 @@
+- the Moby thesaurus3 which provides not only synonyms but more loosely related terms. This resource is much richer and less strict than WordNet, as each target has an average of about 80 related terms. To estimate the frequencies of the words considered, we used data provided by the freely available Wacky corpus.

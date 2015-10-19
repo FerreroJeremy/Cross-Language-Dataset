@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02112</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>23631</sourceTextOffset>
+<sourceTextLength>266</sourceTextLength>
+<sourceTextContent> Mosotro no son casá por le iglese. Elle e carretiller, que vende
+agua, y yo vende carne, mantec, güeve, frute, tóo que pué.
+
+--¿Cómo se llama Vd.?
+
+--Me ñama Ginoveve Santa Crú. Mi marío e Tribusio Polanca. Elle tien uno sijo ñamao Malanga
+que ha sacao mala cabesa. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document03105</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>6037</suspiciousTextOffset>
+<suspiciousTextLength>281</suspiciousTextLength>
+<suspiciousTextContent> We are not married through the church. He sells things on a cart,
+sells water, and I sell meat, lard, guavas, fruit, anything I can.
+
+What
+is your name?
+
+My name is Ginovese Santa Cru.
+
+My husband is Tribusio Polanca.
+
+He has one child named Malanga who turned out to be difficult</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

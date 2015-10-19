@@ -1,0 +1,1 @@
+Technically, the only difficult part is to decide how to represent semantic classes of prepositions like LOC. Here, we chose to define the whole set of argument prepositions as well as all the semantic classes (noted in uppercase) as possible atomic values for the prep feature.

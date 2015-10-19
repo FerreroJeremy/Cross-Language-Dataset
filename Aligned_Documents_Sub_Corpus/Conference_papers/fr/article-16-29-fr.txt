@@ -1,0 +1,1 @@
+Enfin, nous avons également calculé la précision de chaque approche en faisant l’hypothèse d’un “oracle” qui indique le nombre exact de candidats à proposer pour chaque mot cible (il s’agit dans notre cas du nombre de mots reliés dans la référence). Cette mesure est semblable à ce que l’on appelle la R-précision.

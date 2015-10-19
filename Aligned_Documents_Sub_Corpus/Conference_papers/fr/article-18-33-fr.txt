@@ -1,0 +1,1 @@
+Pour un noeud donné, on peut ainsi calculer un vecteur déplacement qui va l’éloigner des noeuds dont il se trouve trop près. Les noeuds ne se rapprochant pas par voisinage thématique (lors de la première phase du calcul) mais se trouvant proches “par accident” finissent ainsi naturellement par se séparer.

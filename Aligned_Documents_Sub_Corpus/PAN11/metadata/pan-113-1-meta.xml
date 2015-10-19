@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document00013</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>62006</sourceTextOffset>
+<sourceTextLength>248</sourceTextLength>
+<sourceTextContent> De modo que a un pueblo que tiene 300 indios de trabajo se le puede regular de consumo
+2.000 reses al año.
+
+Asimismo, todas las menestras que recogen se consumen en dar de comer a los muchachos y muchachas,
+y en suplir a algunos para que siembren.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document04345</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>749</suspiciousTextOffset>
+<suspiciousTextLength>190</suspiciousTextLength>
+<suspiciousTextContent> So that a people which has 300 Indians can work regular consumption 2,000 cattle a year.
+
+Similarly
+all that collect beans are consumed to feed the boys and girls and
+supply some to plant.
+</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

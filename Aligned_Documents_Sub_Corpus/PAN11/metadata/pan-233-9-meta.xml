@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07899</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>136151</sourceTextOffset>
+<sourceTextLength>231</sourceTextLength>
+<sourceTextContent>
+
+En virtud de la doctrina de la expiación del pecado por el sufrimiento, y en repudio de las
+costumbres paganas, el desaseo fue erigido en virtud religiosa, y más tarde Mahoma estableció
+las abluciones como una práctica religiosa.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document08482</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>37445</suspiciousTextOffset>
+<suspiciousTextLength>218</suspiciousTextLength>
+<suspiciousTextContent> 
+
+In accordance with the doctrine of the atonement of sin through suffering, and rejection of pagan
+customs, the dirt has been built on religious basis, and later established
+bathrooms Muhammad as a religious practice</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

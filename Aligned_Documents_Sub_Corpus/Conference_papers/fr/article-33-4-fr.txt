@@ -1,0 +1,1 @@
+Le corpus arboré de Paris 7 4 [FTB] (Abeillé et al., 2003) est un corpus annoté en constituants syntaxiques. Il est composé d’articles provenant du journal Le Monde. Nous avons utilisé la version la plus récente, celle de juin 2010. Elle comporte 15 917 phrases et 473 904 mots graphiques, et utilise 13 catégories syntaxiques pour identifier les constituants.

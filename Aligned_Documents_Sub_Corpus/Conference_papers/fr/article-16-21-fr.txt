@@ -1,0 +1,1 @@
+Nous avons considéré lors de l’évaluation les seuls items communs à la référence et au lexique de la ressource utilisée pour le développement d’une mesure de similarité. Par exemple, WordNet contient des synonymes qui ne sont pas présents dans les Hansards que nous avons mis à profit pour développer l’approche miroir : ils sont simplement écartés de notre évaluation.

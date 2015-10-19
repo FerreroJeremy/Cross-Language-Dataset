@@ -1,0 +1,1 @@
+These reports are written in English. The sources are LaTeX documents, and are automatically translated into XML, then to HTML to be published on the Web. In the rest of the paper we implicitly refer to the XML version of the Activity Report. The logical structure of the RA is defined by an XML DTD with a few mandatory sections and some optional parts.

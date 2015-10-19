@@ -1,0 +1,1 @@
+When a given pertinence score is above a threshold they create a semantic link which can be walked through by other agents in charge of WSD ot lexical transfert. Base integrity agents walk throw the acceptions, look for incoherences in the base and emit warning toward lexicographs when needed.

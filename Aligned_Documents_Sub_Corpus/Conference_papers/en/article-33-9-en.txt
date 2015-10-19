@@ -1,0 +1,1 @@
+The MWER templates are instantiated at each position of the input sequence. The reranker templates are instantiated only for the nodes of the candidate parse tree, which are leaves dominated by a MWE node (i.e. the node has a MWE ancestor). We define a template T as follows:

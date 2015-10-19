@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07850</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>20297</sourceTextOffset>
+<sourceTextLength>235</sourceTextLength>
+<sourceTextContent>
+
+Fatigada y triste, en medio de la senda por donde se volvía al castillo, Poldy se sentó, al
+pie de un olmo, en un asiento rústico, y en lo más frondoso, intrincado y bonito del parque.
+Un arroyuelo cristalino corría cerca murmurando. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document08838</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>227870</suspiciousTextOffset>
+<suspiciousTextLength>212</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Tired and sad, in the middle of the path where the castle was returned, Poldy sat at foot of
+an elm, in a rustic seat, and the most lush, intricate and beautiful the park. A crystal stream
+ran close whispering</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,1 @@
+In this paper, we suggest a Bayesian criterion which allows us to mark out the extracted rules that are robust. Our approach benefits from the MODL framework [Boullé, 2006], provides a parameter-free criterion and does not need any wise thresholding.

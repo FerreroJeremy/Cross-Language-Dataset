@@ -1,0 +1,1 @@
+Ces candidats ordonnés sont alors évalués au regard d’une ressource de référence (WordNet ou Moby), soit en gardant les n-meilleurs candidats, soit en gardant ceux dont le score de similarité dépasse un certain seuil (voir les détails plus loin).

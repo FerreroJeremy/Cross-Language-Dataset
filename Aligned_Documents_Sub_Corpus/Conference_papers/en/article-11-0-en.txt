@@ -1,0 +1,1 @@
+Abstract Parallel corpora are playing a crucial role in multilingual natural language processing. Unfortunately, the availability of such a resource is the bottleneck in most applications of interest. Mining the web for such a resource is viable solution that comes at a price : it is not always easy to identify parallel documents among the crawled material.

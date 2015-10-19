@@ -1,0 +1,1 @@
+Properties of the summaries We first note that by construction, the summary S of a log L defines a partition of the log. Indeed, each query of S is defined by a QSL expression that involves a distinct subsequence of queries in L.

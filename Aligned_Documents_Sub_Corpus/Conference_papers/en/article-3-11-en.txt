@@ -1,0 +1,1 @@
+Topological equivalence The topological equivalence is in fact based on the concept of topological graph that use the neighborhood graph. The basic idea is quite simple: two proximity measures are equivalent if the topological graph induced on the set of objects is the same.

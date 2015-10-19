@@ -1,0 +1,1 @@
+Comme WordNet répertorie peu de synonymes, les précisions à faible rang (1 et 5) sont les plus pertinentes, ainsi que la R-précision : les autres sont nécessairement très basses. Les autres mesures sont données à des fins de comparaison car elles sont plus pertinentes pour la référence Moby. Ceci étant noté, la table 2 amène plusieurs commentaires.

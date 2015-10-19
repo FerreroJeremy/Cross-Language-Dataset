@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document00858</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>7061</sourceTextOffset>
+<sourceTextLength>229</sourceTextLength>
+<sourceTextContent>
+
+Llegó el Príncipe a su palacio con las primeras sombras de la noche. Al ascender la escalera
+de honor, sintió un desmayo y hubiera caído al suelo, si no se apoyara en el pedestal de una
+estatua, que decoraba el primer descanso. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document02807</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>214330</suspiciousTextOffset>
+<suspiciousTextLength>217</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Prince came to his palace with the first shadows of night. While climbing the stairs of honor,
+he felt faint and had fallen to the ground, if not supported on the pedestal of a statue that
+decorated the first break</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

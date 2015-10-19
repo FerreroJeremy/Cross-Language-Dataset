@@ -1,0 +1,1 @@
+Règles à level positif. Dans les graphiques de la figure 6, nous reportons les valeurs en apprentissage et en test de µ, d’une mesure basée sur l’entropie de classe : µ(p) = N × (Ent(pØ) - Ent(p))

@@ -1,0 +1,1 @@
+In order to determine the number of clusters, we used the approach de- scribed by Da Silva (2009), which consists on the choice of the peaks on the graph of the “second order differences” of the clustering criterion (equation (1)): J(K-1) + J(K+1) - 2J(K), K = 2, . . . , 14. According to this approach, we fixed the number of clusters in 4 and 9.

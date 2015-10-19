@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document09874</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>108871</sourceTextOffset>
+<sourceTextLength>245</sourceTextLength>
+<sourceTextContent> Hay restauranes económicos,
+donde le sirven a usted por poco dinero buenos platos. Verdad es que en propinas, que allí
+llaman pour boire, se gasta más de la cuenta; pero créame usted, las da uno con gusto por verse
+tratado con tanta amabilidad. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document10379</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>184214</suspiciousTextOffset>
+<suspiciousTextLength>225</suspiciousTextLength>
+<suspiciousTextContent> There Restaurane economic where
+you serve good food for little money. It is true that in tips, that there call pour boire,
+spends more than necessary, but believe me, gives them a taste to be seen with treated with kindness.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

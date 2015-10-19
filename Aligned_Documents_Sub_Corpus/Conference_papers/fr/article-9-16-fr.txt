@@ -1,0 +1,1 @@
+Avec les mêmes principes, on peut construire une grammaire de dépendance générant les arbres de dépendance syntaxique d'un fragmet de langue. La grammaire G4, directement inspirée de Nasr 1995, propose un fragment de grammaire pour l'anglais permettant de générer l'arbre syntaxique de Peter eats red beans.

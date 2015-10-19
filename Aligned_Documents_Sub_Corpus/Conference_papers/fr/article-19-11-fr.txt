@@ -1,0 +1,1 @@
+L’algorithme SNN, considéré dans le contexte de la découverte de sens, se décompose plus précisément comme suit : 1. « éclaircissement » du graphe de similarité : pour chaque cooccurrent, seules les arêtes en direction des k (k = 15 en l’occurrence) plus proches cooccurrents sont conservées.

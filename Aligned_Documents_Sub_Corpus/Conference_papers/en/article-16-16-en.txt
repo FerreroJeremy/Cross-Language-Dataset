@@ -1,0 +1,1 @@
+Lin used a dependency- based syntactic parser to count occurrences of (head lemma,relation,dep. lemma), where relation is a syntactic dependency relation. Each lemma is thus associated with counts for a set F of features (rel,other lemma), either as head of a relation with another lemma or as dependent.

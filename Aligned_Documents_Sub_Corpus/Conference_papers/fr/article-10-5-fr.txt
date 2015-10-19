@@ -1,0 +1,1 @@
+Les transducteurs sont des machines à états finis que l’on peut voir comme des graphes dans lesquels un symbole d’entrée et une séquence de sortie sont associés à chaque arc. Un transducteur a un état initial et un ou plusieurs états finals. Intuitivement, un transducteur est donc un automate auquel on associe des séquences de sortie aux symboles d’entrée sur les arcs.

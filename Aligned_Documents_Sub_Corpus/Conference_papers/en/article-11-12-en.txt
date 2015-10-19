@@ -1,0 +1,1 @@
+Results We trained classifiers on various combinations of the scores we described in section 2.1. The performances of each classifier are reported in Table 1. The different configurations all performed almost equally on recall, but  can be distinguished on their precision figure.

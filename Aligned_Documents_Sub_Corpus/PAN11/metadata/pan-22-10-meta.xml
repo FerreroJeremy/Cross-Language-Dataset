@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04101</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>1105</sourceTextOffset>
+<sourceTextLength>263</sourceTextLength>
+<sourceTextContent>
+
+Personajes, pues, por el estilo de FAUSTO, como en nuestra España, v. gr., Don Juan Tenorio
+y Lisardo el Estudiante, están llamados a ser joyas preciosas de todas las literaturas, y a
+inspirar los mejores dramas, óperas, novelas y poemas, que pueden componerse. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document00804</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>112972</suspiciousTextOffset>
+<suspiciousTextLength>227</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Characters, then, like that of Faust, as in our Spain v. gr., Don Juan Tenorio Student and Lisa,
+are called to be precious jewels of all literatures, and inspire the best dramas, operas, novels
+and poems that can be composed</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

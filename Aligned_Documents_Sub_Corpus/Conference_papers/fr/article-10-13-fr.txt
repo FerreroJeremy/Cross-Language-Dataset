@@ -1,0 +1,1 @@
+Pour se focaliser sur les termes qui sont morphologiquement proches, la similarité formelle de chaque paire a été évaluée à l’aide d’une distance d’édition normalisée par la longueur des mots. Les paires sont classées dans une liste selon ce score en ordre décroissant de similarité :

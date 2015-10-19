@@ -1,0 +1,1 @@
+These discriminative models integrate features dedicated to compounds, some of theme being computed from external lexical resources. We show that the pregrouping strategy largely overtakes current state-of-the-art results, while the reranking strategy is somewhat deceiving. All the experiments conducted in this paper open new interesting research directions.

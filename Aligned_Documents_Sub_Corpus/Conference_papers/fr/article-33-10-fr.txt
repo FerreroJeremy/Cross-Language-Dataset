@@ -1,0 +1,1 @@
+n-grammes de mots. Nous utilisons les bigrammes et unigrammes de mots pour apprendre les mots composés présents dans le corpus d’entraînement et pour extraire des indices lexicaux afin d’en découvrir de nouveaux. Par exemple, le bigramme coup de est souvent le préfixe d’unités polylexicales comme coup de pied, coup de foudre, coup de main, etc.

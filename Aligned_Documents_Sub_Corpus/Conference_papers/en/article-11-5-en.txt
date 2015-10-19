@@ -1,0 +1,1 @@
+In sections 3 and 4 we evaluate our approaches on two tasks: a controlled one on a part of the europarl corpus, as well as a real task we faced when developing an English- Spanish concordancer.We then show that some of the approaches we investigated are very effective at identifying parallel texts and that their use for seeding a translation engine is also fruitful.

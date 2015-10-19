@@ -1,0 +1,1 @@
+This algorithm particularly fits our problem as it automatically determines the number of clusters, in our case the number of senses of a word, and does not take into account the elements that are not representative of the clusters it builds. This last point is especially important for our application as there is a lot of “noise” among the cooccurrents of a word.

@@ -1,0 +1,1 @@
+We considered two reference databases in this work: - the WordNet lexical database,1 provided through the NLTK package API. WordNet provides a reference for the following lexical relations: synonyms, antonyms, hypernyms, hyponyms, holonyms, meronyms. Each lemma present in WordNet has on average 5-6 synonyms, or 8-10 related terms if all lexical relations are taken together.

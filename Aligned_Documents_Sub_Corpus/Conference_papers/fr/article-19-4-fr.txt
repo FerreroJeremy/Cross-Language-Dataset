@@ -1,0 +1,1 @@
+Cette méthode présente l’avantage de déterminer automatiquement le nombre de classes, c’est-à-dire le nombre de sens dans le cas présent, et de laisser de côté les éléments les moins représentatifs des classes formées. Ce dernier point est particulièrement utile pour cette application compte tenu du taux important de « bruit » parmi les cooccurrents d’un mot.

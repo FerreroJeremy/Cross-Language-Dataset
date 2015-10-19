@@ -1,0 +1,1 @@
+The first line of code defines the polysemy pattern. The three following lines indicate that the pair of lexical units that are likely to be applied this pattern are of types color for L1 and fruit, gem or metal for L2. The last line says that the definition of L2 must include the string colorOf to be detected as an occurrence of this pattern.

@@ -1,0 +1,1 @@
+Abstract—Traditional sequential patterns do not take into account additional contextual information since patterns extracted from data are usually general. By considering the fact that a pattern is associated with one specific context the decision expert can then adapt his strategy considering the type of customers.

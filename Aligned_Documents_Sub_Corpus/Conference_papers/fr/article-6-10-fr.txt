@@ -1,0 +1,1 @@
+Un algorithme de partitionnement prenant en compte plusieurs matrices de dissimilarité Dans cette section nous introduisons une extension de l’algorithme des nuées dynamiques pour des données relationelles (De Carvalho et al., 2008) qui permet de partitionner en ensemA. ble d’objets et prenant en compte une description utilisant plusieurs matrices de dissimilarité.

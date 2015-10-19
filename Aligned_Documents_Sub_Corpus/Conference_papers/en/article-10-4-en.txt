@@ -1,0 +1,1 @@
+Sub-sequential transducers The transducers inferred with ostia and used here to translate biomedical terms are an extension of the classical transducers called sub-sequential transducers. We give readers a basic background of these sub-sequential transducers; for formal definitions, please refer to (Oncina et al., 1993).

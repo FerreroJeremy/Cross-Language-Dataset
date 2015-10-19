@@ -1,0 +1,1 @@
+More precisely, the SNN algorithm is applied to the discovering of the senses of a target word as follows: 1. sparsification of the similarity graph: for each cooccurrent of the target word, only the links towards the k (k=15 in our experiments) most similar other cooccurrents are kept.

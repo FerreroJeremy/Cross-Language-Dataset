@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05089</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>441093</sourceTextOffset>
+<sourceTextLength>239</sourceTextLength>
+<sourceTextContent>
+Luego le vió correr, balanceando sus formas abultadas y reteniendo sus velos, que el viento
+marítimo parecía querer arrebatarle.
+
+Transcurrieron varios días de trabajo, de cansancio y de hambre, sin que el coloso recibiese
+nuevas visitas. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document03139</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>1021</suspiciousTextOffset>
+<suspiciousTextLength>216</suspiciousTextLength>
+<suspiciousTextContent> Then
+he saw him running, swinging his bulky form. They didn't want to reveal themselves from the
+sea wind's veil.
+
+After several days of work, they would be tired and hungry, but would
+receive many additional visits</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

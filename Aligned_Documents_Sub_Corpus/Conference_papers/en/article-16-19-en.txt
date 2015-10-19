@@ -1,0 +1,1 @@
+Experiments and results Following the protocol introduced above, we evaluated the outputs of lexical sim- ilarities based on the n-best candidates, varying n, or based on varying similarity thresholds, both for the distribution-based approach and the mirror approach.

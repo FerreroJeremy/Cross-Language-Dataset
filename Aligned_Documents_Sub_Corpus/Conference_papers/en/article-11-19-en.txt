@@ -1,0 +1,1 @@
+Evaluation Protocol We devised an evaluation protocol different from the one we discussed in section 3.2. We now want to measure the usefulness of our approach for a real task, namely statistical machine translation (SMT).

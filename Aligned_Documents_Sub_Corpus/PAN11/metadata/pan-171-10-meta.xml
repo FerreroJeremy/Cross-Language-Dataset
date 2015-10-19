@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07899</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>91745</sourceTextOffset>
+<sourceTextLength>261</sourceTextLength>
+<sourceTextContent>
+
+Desde que los hombres creyeron en el cielo y el infierno, escapar al infierno y ganar el cielo
+era la gran cuestión, y la infelicidad era el medio porque estaba dicho que los últimos serían
+los primeros y los primeros serían los últimos en el reino del Señor.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document06029</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>286965</suspiciousTextOffset>
+<suspiciousTextLength>225</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Since the men believed in heaven and hell, to escape hell and gain heaven was the big question,
+and unhappiness was the way it was said that the last shall be the first and the first would be
+the last in the kingdom of God</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

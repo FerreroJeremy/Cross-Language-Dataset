@@ -1,0 +1,1 @@
+In order to validate our method we use the LFR-benchmark[9] extended to hierarchical clustering[10]. This benchmark is used in order to evaluate the effectiveness of clustering algorithms (see [15] for example).

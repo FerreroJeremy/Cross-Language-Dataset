@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05189</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>90429</sourceTextOffset>
+<sourceTextLength>249</sourceTextLength>
+<sourceTextContent> El general, observándolo, dijo a Pinedo:
+
+--Mire usted al duque, qué animado se ha puesto. De fijo le está haciendo el amor a Pepa.
+
+--No--respondió gravemente el empleado--. A lo que está haciendo el amor ahora es al negocio
+de las minas de Riosa.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document03249</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>3906</suspiciousTextOffset>
+<suspiciousTextLength>220</suspiciousTextLength>
+<suspiciousTextContent> The general, watching, Pinedo said:
+
+- Look at the Duke, which has been encouraged. Of fixed he is making love to Pepa.
+- No - seriously answered the employee -. What we're making love
+now is the business of river mines</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

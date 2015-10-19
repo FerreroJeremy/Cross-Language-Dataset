@@ -1,0 +1,1 @@
+To validate our approach, we develop the AnnotEv system AnnotEv includes the four following modules: • Module 1: The segmentation and the recognition of the named entities • Module 2: events annotation. • Module 3: clustering. • Module 4: automatic summary.

@@ -1,0 +1,1 @@
+The removal of a node t 2 T results in several modifications in the multilevel quality measure computation. First, the weights of all nodes in the subtree Tt are greater because the depth of the clusters this subtree contains are now smaller in T.

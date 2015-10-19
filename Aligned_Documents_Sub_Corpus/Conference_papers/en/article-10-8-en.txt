@@ -1,0 +1,1 @@
+Figure 1 presents a simple sub-sequential transducer with the usual notations of the automata. It represents the transduction function that translates ² (the empty word) into D, a(bc)n into A(BC)nE and a(bc)nb into A(BC)nBF. A word like abca is not accepted and thus not translated by this transducer.

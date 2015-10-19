@@ -1,0 +1,1 @@
+Categories and constraint programming Categories are feature structures. A feature structure is a set of (attribute, value) pairs used to label a linguistic unit, as figure 1 illustrates, where Book is a noun, at the singular, 3rd pers. This definition is recursive : a feature value can be another feature structure, or a set of features.

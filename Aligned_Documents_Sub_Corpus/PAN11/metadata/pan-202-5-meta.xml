@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08830</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>7042</sourceTextOffset>
+<sourceTextLength>230</sourceTextLength>
+<sourceTextContent>
+
+Ramona, hija del prestamista usurero don Felipe, que ha llegado a ser muy rico, se educa en
+un excelente y aristocrático colegio de señoritas, donde, sobre su buen fondo natural, pone
+la educación los más delicados sentimientos. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document07431</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>36429</suspiciousTextOffset>
+<suspiciousTextLength>142</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Ramona is the daughter of a wealthy loan shark. Due to her father's reputation, she is able to attend
+an elite, aristocratic girl's school.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

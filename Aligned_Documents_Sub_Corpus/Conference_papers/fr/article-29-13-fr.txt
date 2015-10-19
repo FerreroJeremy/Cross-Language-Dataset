@@ -1,0 +1,1 @@
+1. Sélection de paires de versions d’articles. 2. Normalisation du texte (segmentation, suppression du « wikitexte », etc.). 3. Alignement des modifications par une recherche de plus longues sous-séquences communes. 4. Filtrage des modifications retenues (séquences initiales de 7 mots ou plus) et extraction du contexte avant et après modification (paragraphe englobant).

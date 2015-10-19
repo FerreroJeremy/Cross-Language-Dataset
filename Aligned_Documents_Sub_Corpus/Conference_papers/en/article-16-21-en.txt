@@ -1,0 +1,1 @@
+We considered for evaluation only the items that were common to the reference and the lexicon covered by the resources used. For instances some syn- onyms from WordNet have no occurrences in the Hansard or in Lin's database and this can be seen as a preprocessing filter of rare items.

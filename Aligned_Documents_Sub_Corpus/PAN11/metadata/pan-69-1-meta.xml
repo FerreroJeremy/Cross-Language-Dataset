@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02429</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>5049</sourceTextOffset>
+<sourceTextLength>242</sourceTextLength>
+<sourceTextContent>
+
+El lector me perdonará que hable casi como profano en esta materia trascendente.
+
+Yo creo que, sin desestimar la cocina francesa, que hoy priva y prevalece en el mundo, hay
+restos y como raíces en la de Córdoba, que no deben menospreciarse. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document02996</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>3683</suspiciousTextOffset>
+<suspiciousTextLength>215</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Reader please forgive my profaneness to speak upon this important
+matter.
+
+I believe that, the roots of French cuisine have come to flourish from
+the private world in Cordoba, and it should not be underestimated.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

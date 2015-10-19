@@ -1,0 +1,1 @@
+In this step, we find out these frequent IFs and regroup them into classes corresponding to IF semantic entries (example of these classes are dialog acts like acknowledge, affirm, negate …). Figure 2 shows how these frequent IF components selection was achieved automatically.

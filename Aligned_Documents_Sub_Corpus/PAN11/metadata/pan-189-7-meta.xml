@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document06464</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>101637</sourceTextOffset>
+<sourceTextLength>226</sourceTextLength>
+<sourceTextContent> No, señor, respondia el pescador;
+lo que sé, es que ni la reyna ni Zadig me han pagado mis requesones, que me han robado á mi
+muger, y que estoy desesperado. Yo espero, dixo Zadig, que no habeis de perder todo vuestro
+dinero. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document06700</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>84419</suspiciousTextOffset>
+<suspiciousTextLength>205</suspiciousTextLength>
+<suspiciousTextContent> No, sir, "replied the fisherman; I
+know, is that neither the queen nor Zadig has paid me my curds that I have stolen my wife,
+and I'm desperate. I hope, 'said Zadig, that you have not lost all your money.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

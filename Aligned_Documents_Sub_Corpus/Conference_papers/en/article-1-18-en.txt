@@ -1,0 +1,1 @@
+Patterns with positive level. In figures 7 and 8, we report the train and test values of a class-entropy-based measure µ (defined below) for the extracted rules p: µ(p) = N ×(Ent(p/0)-Ent(p))

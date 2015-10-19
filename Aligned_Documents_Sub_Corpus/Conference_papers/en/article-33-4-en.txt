@@ -1,0 +1,1 @@
+The French Treebank2 [FTB] (Abeill´e et al., 2003) is a syntactically annotated corpus made up of journalistic articles from Le Monde newspaper. We used the latest edition of the corpus (June 2010) that we preprocessed with the Stanford Parser preprocessing tools (Green et al., 2011). It contains 473,904 tokens and 15,917 sentences.

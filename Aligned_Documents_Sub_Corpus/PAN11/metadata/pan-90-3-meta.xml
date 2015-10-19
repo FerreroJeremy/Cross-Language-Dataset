@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05979</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>356519</sourceTextOffset>
+<sourceTextLength>234</sourceTextLength>
+<sourceTextContent> Ya había tirado sus líneas
+para el caso próximo de la elección de diputados.
+
+Trampeta, con actividad vertiginosa, hacía la cama al candidato del gobierno. Muy a menudo
+iba a la capital de provincia, a conferenciar con el gobernador. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document03719</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>19727</suspiciousTextOffset>
+<suspiciousTextLength>226</suspiciousTextLength>
+<suspiciousTextContent> He had already drawn their lines
+for the next event of the election of deputies.
+
+Trampeta with dizzying activity, the bed was the government candidate.
+Very often going to the provincial capital, to confer with the governor.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

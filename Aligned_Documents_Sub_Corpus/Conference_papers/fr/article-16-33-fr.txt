@@ -1,0 +1,1 @@
+Premièrement, nous observons que la précision de l’approche miroir au rang 1 culmine à 22% alors que le rappel plafonne à un peu plus de 60% : un bien meilleur résultat combiné que l’approche distributionnelle que nous avons testée (moins de 18% de précision au rang 1 et moins de 37% de rappel).

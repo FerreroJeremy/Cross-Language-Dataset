@@ -1,0 +1,1 @@
+We denote as Dt (T) = F(G,T \ {t})-F(G,T) the quality variation due to this modification. Given an initial clustering tree T, our optimization procedure can be defined as the iterative suppression of an internal node t (if it exists) maximizing Dt (T) with Dt (T) > 0.

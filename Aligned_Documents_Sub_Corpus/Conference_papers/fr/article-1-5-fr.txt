@@ -1,0 +1,1 @@
+Nous voyons clairement que les valeurs de ces mesures sont instables entre phase d’apprentissage et test. Ainsi, une “bonne” règle selon ces mesures peut se révéler “mauvaise” en test. Ces mesures ne permettent donc pas d’identifier les règles robustes.

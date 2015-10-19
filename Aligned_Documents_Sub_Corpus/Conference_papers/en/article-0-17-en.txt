@@ -1,0 +1,1 @@
+Automatic summarization of a query log In this section, we present an algorithm for summarizing a log, based on QSL and our quality measure h f -measure. The main idea is that a summary of a log is also a log.We also present the properties of the summaries constructed with the algorithm.

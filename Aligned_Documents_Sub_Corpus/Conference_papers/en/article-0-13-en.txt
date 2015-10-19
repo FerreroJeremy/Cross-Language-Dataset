@@ -1,0 +1,1 @@
+Assessing the quality of a summary In this section, we present the measure used to evaluate the quality of summaries.We begin with an intuitive presentation, then give the formal definition and we finally give the properties of the QSL operators w.r.t. this measure.

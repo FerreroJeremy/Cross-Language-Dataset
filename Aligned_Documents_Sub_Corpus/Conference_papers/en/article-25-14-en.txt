@@ -1,0 +1,1 @@
+Statistics On Early If Analysis During ASR The 216 test speaker turns were made up of 915 words. Among these 915 words, 35% were directly analyzed into IF early in the ASR module. If we look at the speaker turns, 125 turns among 216 (58%) were directly analyzed into IF early in the ASR module.

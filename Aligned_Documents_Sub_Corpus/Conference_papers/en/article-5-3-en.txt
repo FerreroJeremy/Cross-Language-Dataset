@@ -1,0 +1,1 @@
+Other algorithms directly lead to workable hierarchies[10, 15]. Blondel et al.[2] introduced a flat clustering procedure that relies on the construction of a hierarchy of clusters. The identification of a hierarchy is not the final objective of the algorithm although many clues suggest that this hierarchy is meaningful to analyse the structure of the studied network.

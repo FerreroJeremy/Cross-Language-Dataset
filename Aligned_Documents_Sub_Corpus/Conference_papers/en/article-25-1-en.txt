@@ -1,0 +1,1 @@
+The methodology consists in introducing semantic information by using a class-based statistical language model for which classes directly correspond to IF entries. With this new Language Model, the ASR module can analyze into IF an important amount of dialogue data: 35% dialogue words; 58% speaker turns.

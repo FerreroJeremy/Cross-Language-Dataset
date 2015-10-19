@@ -1,0 +1,1 @@
+For instance, the verb eat has the features (has-subj,man), (has-obj,fries), (has-obj,pie), etc. Let c be the function giving the number of occurrences of a triplet (w; rel;w0) and let V be the vocabulary :

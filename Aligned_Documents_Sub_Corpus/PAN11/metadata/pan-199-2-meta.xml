@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04501</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>158908</sourceTextOffset>
+<sourceTextLength>233</sourceTextLength>
+<sourceTextContent> El golpe le había destrozado la nariz, y un hilillo de sangre teñía
+la blanca pasta. Pero Tono no se fijaba en ello, revolviéndose como un loco entre los brazos
+de sus compañeros y pidiendo a gritos que le soltasen. En eso pensaban. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document07267</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>5582</suspiciousTextOffset>
+<suspiciousTextLength>214</suspiciousTextLength>
+<suspiciousTextContent> The blow broke his nose. And a trickle of blood from his broken nose stained
+the white pulp. He peered like a madman. He rolled his arms and screamed for him to let go.
+In this thought, the tone is not fixed in it</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,1 @@
+Par exemple, le verbe eat est caractérisé par un ensemble de traits F(eat) contenant (has_subj,man), (has_obj,fries), (has_obj,pie), etc qui correspondent aux contextes syntaxiques de eat. Appelons c la fonction de comptage d’occurrence d’un triplet (w; rel;w0) et V l’ensemble du vocabulaire, on pose :

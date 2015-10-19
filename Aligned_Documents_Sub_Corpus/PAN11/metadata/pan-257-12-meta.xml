@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05595</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>1771</sourceTextOffset>
+<sourceTextLength>262</sourceTextLength>
+<sourceTextContent> La comarca comprendida entre el Bidasoa y Bayona ó el Adour,
+era la Gascuña propiamente dicha, tan célebre en Francia por las fanfarronadas y astucias de
+sus habitantes, cuyo tipo han personificado Dumas y Maquet en su famoso D'Artagnan de los Tres
+Mosqueteros.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document09332</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>348920</suspiciousTextOffset>
+<suspiciousTextLength>230</suspiciousTextLength>
+<suspiciousTextContent> The region between the Bidasoa and Bayonne or the Adour, Gascony
+itself was so famous in France for the bluff and cunning of its inhabitants, whose type Dumas
+and Maquet have embodied in his famous D'Artagnan of Three Musketeers.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

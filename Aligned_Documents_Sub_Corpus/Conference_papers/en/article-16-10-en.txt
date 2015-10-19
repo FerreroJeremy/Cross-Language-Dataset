@@ -1,0 +1,1 @@
+These ranked candidates are then evaluated with respect to a reference for different lexical relations, either keeping n-best candidates or candi- dates above a given threshold.

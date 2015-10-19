@@ -1,0 +1,1 @@
+Application to modularity maximization In this section, we present the algorithm of Blondel et al.[2] which produces a hierarchical clustering of a graph. We then illustrate the fact that the hierarchies produced may contain some irrelevant groups. These observations justify the use of our method.

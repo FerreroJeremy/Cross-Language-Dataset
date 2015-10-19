@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04335</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>492</sourceTextOffset>
+<sourceTextLength>240</sourceTextLength>
+<sourceTextContent> Vete a este pueblo, examinalo todo;
+me daras cuenta, y por tu informe determinare si he de castigar o exterminar la ciudad. Yo,
+senor, respondio humildemente Babuco, ni he estado nunca en Persia, ni conozco en todo aquel
+imperio a ninguno. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document01408</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>985990</suspiciousTextOffset>
+<suspiciousTextLength>228</suspiciousTextLength>
+<suspiciousTextContent> Go to this people, examine them all;
+I will notice, and your report may determine whether I have to punish or destroy the city.
+I Sir, Babuca humbly replied, nor have I ever been in Persia, nor do I know all that Empire
+to none</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

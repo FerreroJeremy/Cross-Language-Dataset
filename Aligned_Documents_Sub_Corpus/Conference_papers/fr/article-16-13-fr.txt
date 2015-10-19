@@ -1,0 +1,1 @@
+Nous avons lemmatisé les phrases anglaises et françaises du corpus à l’aide de TreeTager avant d’entraîner dans les deux directions (anglais!français et français!anglais) des modèles IBM 4 à l’aide de Giza++ utilisé dans sa configuration par défaut.

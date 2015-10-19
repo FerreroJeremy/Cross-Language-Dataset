@@ -1,0 +1,1 @@
+Calcul du modèle de langage Après avoir obtenu la liste des classes sémantiques, comme illustré dans la figure 2, nous nous en servons en combinaison avec les données de l’apprentissage du modèle de langage afin de construire notre nouveau modèle « sémantique ». Ce processus est illustré dans la figure 3.

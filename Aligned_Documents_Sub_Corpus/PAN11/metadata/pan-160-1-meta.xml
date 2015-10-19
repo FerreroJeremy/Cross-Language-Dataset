@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document06663</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>1735</sourceTextOffset>
+<sourceTextLength>269</sourceTextLength>
+<sourceTextContent> ¿He de salir del paso repitiendo en mala prosa lo que
+ya dijeron en todas las lenguas vivas y muertas, con número y melodía, los poetas buenos y
+medianos, desde Hesiodo hasta Gracian y desde Virgilio a D. Gregorio de Salas? Yo no quiero
+hacer un centón tan deplorable. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05704</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>5641</suspiciousTextOffset>
+<suspiciousTextLength>207</suspiciousTextLength>
+<suspiciousTextContent> Should I get by with repeating the bad prose, which is said
+in all the living and dead languages, with verse and harmony of good and mediocre poets from
+Hesiodo to Gracian and Virgil to D. Gregorio de Salas</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

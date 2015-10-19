@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01241</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>15352</sourceTextOffset>
+<sourceTextLength>227</sourceTextLength>
+<sourceTextContent> Si lo son, todo se ve claro. Si no lo son, podrán escribirse mil y mil comentos,
+y cada comentador imaginar que el poeta quiso decir esto, aquello, lo de más allá, y aun cosas
+que al pobre poeta no se le ocurrieron en la vida.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document09955</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>93029</suspiciousTextOffset>
+<suspiciousTextLength>225</suspiciousTextLength>
+<suspiciousTextContent> If so, everything looks clear. If not, can write thousands and thousands commented,
+and every commentator imagine that the poet wanted to say this, that, beyond it, and even things
+that the poor poet was not occurred in life</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

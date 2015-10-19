@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03472</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>6835</sourceTextOffset>
+<sourceTextLength>540</sourceTextLength>
+<sourceTextContent> Blois cuenta apénas unos 14,000 habitantes, pero es un centro fabril notable,
+y su producción agrícola es muy considerable, sobre todo en excelentes vinos ordinarios y afamados
+vinagres.
+
+Eran las seis de tarde cuando el tren tocaba en la estacion de Orleans (la Aurelia de los Romanos),
+hermosa y antigua ciudad de 42,000 habitantes, situada en el centro de una inmensa llanura
+sobre la márgen derecha del mísmo Loira. Es la capital del departamento del Loiret, que ocupa
+casi el centro del territorio frances y numera 330,000 habitantes. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05355</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>2741</suspiciousTextOffset>
+<suspiciousTextLength>543</suspiciousTextLength>
+<suspiciousTextContent> Blois has only about 14.000 inhabitants, but is a significant manufacturing center,
+and agricultural production is considerable, especially in ordinary and famous fine wines vinegars.
+
+It
+was six o'clock in the afternoon when the train station playing in
+the Orleans (the Aurelia of the Romans) beautiful old city of 42.000
+inhabitants, situated in the center of a vast plain on the right bank
+of the Loire.
+
+It is the capital of the Loiret department, which occupies almost the center of the French territory
+and numbers 330.000 inhabitants.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

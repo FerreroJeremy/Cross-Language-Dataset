@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02429</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>10740</sourceTextOffset>
+<sourceTextLength>482</sourceTextLength>
+<sourceTextContent>
+Los versos en que Schiller encomia a sus paisanas, pudieran con más razón aplicarse a las mías.
+No es la alemana la que describe el gran poeta: es la madre de familia de mi provincia o de
+mi lugar:
+
+      Ella en el reino aquél prudente manda;
+    Reprime al hijo y a la niña instruye,
+    Nunca para su mano laboriosa,
+    Cuyo ordenado tino
+    En rico aumento del caudal refluye.
+
+¡Cómo se afana! ¡Cómo desde el amanecer va del granero a la bodega, y de la bodega a la despensa!
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document09090</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>14766</suspiciousTextOffset>
+<suspiciousTextLength>443</suspiciousTextLength>
+<suspiciousTextContent> The
+verses in which Schiller praised his countrywomen, could a fortiori apply to mine. German is not
+that described by the great poet is the mother of my province or my place
+
+      Him in the kingdom that sends prudent;
+    Restrain the child and the child instructed,
+    Never for laborious hand, Whose
+    ordered tino In rich
+    flow increased reflows.
+
+How is busy! How from the dawn of the barn is the winery, and cellar
+to the pantry</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

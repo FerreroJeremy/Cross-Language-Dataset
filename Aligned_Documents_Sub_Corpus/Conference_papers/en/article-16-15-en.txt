@@ -1,0 +1,1 @@
+Distributional Similarity The distributional similarity we used is taken straight from the work of Lin (1998), as we believe it represents well this kind of approach. Also, a thesaurus computed by Lin is freely available, which eases reproducibility.

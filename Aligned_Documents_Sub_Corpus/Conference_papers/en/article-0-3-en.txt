@@ -1,0 +1,1 @@
+This paper is organized as follows. Next section motivates the approach with a toy example. The QSL query language which is at the core of our framework is presented in Section 3. Section 4 describes the quality measure based on precision and recall, that is used to assess the summaries expressed in QSL.

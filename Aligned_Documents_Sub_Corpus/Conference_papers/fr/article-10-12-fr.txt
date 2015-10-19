@@ -1,0 +1,1 @@
+Parmi toutes les entrées, nous ne retenons que celles qui sont des mots simples à la fois en français et en anglais, ne contenant pas de majuscules (pour éviter les noms propres) et d’une longueur minimale de 8 lettres. Ce sont ainsi environ 12 000 paires de termes français-anglais qui sont obtenues des 35 000 entrées du dictionnaire.

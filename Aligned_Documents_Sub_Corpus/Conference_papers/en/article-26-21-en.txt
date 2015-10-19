@@ -1,0 +1,1 @@
+Semantics The semantics one can bind to a valid sentence of the language anbn is obviously the number n of as and bs that can be counted. To this end, the model class Semantic has an integer attribute n. The number S.Semantic.n denotes the number of As in an S.

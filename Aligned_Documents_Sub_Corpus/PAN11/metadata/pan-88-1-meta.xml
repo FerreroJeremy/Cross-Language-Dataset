@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05828</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>308805</sourceTextOffset>
+<sourceTextLength>460</sourceTextLength>
+<sourceTextContent>
+
+Entonces llamó a Rafaela y le dijo:
+
+--Oye, Rafaela: he mudado de opinión. Tus razones me han convencido. Esta noche recibiré al
+señor don Andrés. Ya está avisado, y creo que no faltará. Estáte a la mira tú; ábrele, si es
+posible, antes que llame, y dile que suba a la sala alta, donde yo le aguardo. Tú no subirás
+ni acudirás, suceda lo que suceda. Hasta que no vuelva mi madre ha de parecer como si no hubiese
+nadie en esta casa, sino yo y el señor Andrés. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document03685</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>2705</suspiciousTextOffset>
+<suspiciousTextLength>446</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Then called Rafaela and said to him:-Hey, Rafaela: I have moved from
+view.
+
+Your reasons have convinced me. Tonight I get to Mr don Andrés. Already warned, and I think
+that it will not lack. Back to the sights you; Open, if possible, rather than call, and tell him
+to go to the high room, where I will look. You not subirás nor attend, whatever happens. So again
+my mother has to seem as if there was no one in this House, but I and
+Mr Andre</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

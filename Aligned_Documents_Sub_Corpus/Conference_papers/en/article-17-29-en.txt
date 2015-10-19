@@ -1,0 +1,1 @@
+Base integrity agents walk throw the acceptions and look for incoherences in the base and emit warning toward lexicographs when neened. We have shown how non-specialist agents (which are in charge of lexical transfert or word sense desambiguation) can evaluate non-materialised links from materialised ones.

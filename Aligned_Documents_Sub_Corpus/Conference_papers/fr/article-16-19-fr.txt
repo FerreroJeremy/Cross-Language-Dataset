@@ -1,0 +1,1 @@
+Expériences En suivant le protocole décrit plus haut, nous avons évalué la sortie des deux similarités (miroir et distributionnelle) en considérant soit les n-meilleurs candidats de chaque approche, soit en considérant ceux dont le score de similarité dépasse un seuil donné (que nous faisons varier).

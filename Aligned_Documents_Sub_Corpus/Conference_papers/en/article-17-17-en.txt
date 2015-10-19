@@ -1,0 +1,1 @@
+If the value is strictly 0 then we consider that the relation doesn't apply between these two terms. We can view this value as the probability that the relation exists.

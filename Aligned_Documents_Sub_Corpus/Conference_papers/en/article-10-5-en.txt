@@ -1,0 +1,1 @@
+Transducers are finite-state machines that can be seen as graphs in which an input symbol and an output string are associated to each edge and having one initial state I and one or more final states.

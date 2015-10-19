@@ -1,0 +1,1 @@
+Abstract PrepLex is a lexicon of French prepositions which provides all the information needed for parsing. It was built by comparing and merging several authoritative lexical sources. This lexicon also shows the prepositions or classes of prepositions that appear in verbs subcategorization frames.

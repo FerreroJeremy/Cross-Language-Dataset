@@ -1,0 +1,1 @@
+In all three test configurations, the feature testing for the presence of an NP at least two times in a dialogue yields consistent improvements over all other features. This is somehow expected, since NP frequency provides topicality information, and it makes sense that preferences tend to be expressed on the main topic of a discourse.

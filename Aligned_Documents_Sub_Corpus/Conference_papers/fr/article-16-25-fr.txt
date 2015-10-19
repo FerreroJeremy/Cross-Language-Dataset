@@ -1,0 +1,1 @@
+Ce filtre élimine des noms courants comme thing ou way, des verbes comme have, be ou come, ainsi que des mots sur-représentés dans les Hansards (ex. : house). Au final, nous avons combiné les listes candidates produites par les deux approches en prenant l’intersection des deux listes. D’autres schémas de combinaison seront étudiés dans des travaux ultérieurs.

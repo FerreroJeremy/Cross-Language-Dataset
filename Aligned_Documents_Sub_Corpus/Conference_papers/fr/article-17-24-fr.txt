@@ -1,0 +1,1 @@
+La mesure d’antonymie est une pseudo-distance. Elle vérifie les propriétés de réflexivité, symétrie et inégalité triangulaire uniquement dans le sous ensemble des items qui n’ont pas d’antonymes. Dans le cas général, elle ne vérifie pas la réflexivité. Les composantes des vecteurs conceptuels sont positives et nous avons la propriété Distanti 2 [0; 2 ].

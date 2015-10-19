@@ -1,0 +1,1 @@
+Proximité entre graphes topologiques Pour fixer les idées, considérons deux mesures de proximité ui et uj prises parmi celles que nous avons recensées en annexe tableau 1. Prenons par exemple, la distance euclidienne uE(x; y) et la distance de Mahalanobis uMah(x; y), et soient DE(E × E) et DMah(E × E) les tableaux des distances associés.

@@ -1,0 +1,1 @@
+As the WordNet reference has few synonyms, one should focus on precisions at low ranks (1 and 5) as well as the oracle, R-precision: all others are bound to be quite low. The other cutoffs make more sense for the evaluation with respect to Moby, and are here for comparison. This being noted, table 4 calls for several comments.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08118</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>6516</sourceTextOffset>
+<sourceTextLength>266</sourceTextLength>
+<sourceTextContent> Otro elemento se reitera igualmente en sus novelas:
+el amor, difícil, entre el varón bastante maduro y la mujer todavía en agraz.
+
+Entre las páginas más felices de Valera figuran las que título La cordobesa, descripción y
+análisis precioso de la mujer de su tierra. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document08838</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>229206</suspiciousTextOffset>
+<suspiciousTextLength>247</suspiciousTextLength>
+<suspiciousTextContent> Another element is also reiterated in his novels: love,
+difficult, between men and women are mature enough to still unripe.
+
+Among the happiest of Valera pages are those that title The Cordoba,
+description and analysis beautiful women of his land</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,1 @@
+In order to do so, we evaluate our approaches according to precision and recall12 at different points in the n-best list or at different threshold values. We also compute typical information retrieval measures to estimate the relevance of the ranking: mean average precision (MAP), mean reciprocal rank (MRR).

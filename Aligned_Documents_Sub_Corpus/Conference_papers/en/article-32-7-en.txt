@@ -1,0 +1,1 @@
+Finally, some EDUs express dependencies among preferences. For example, in the sentence “What about Monday, in the afternoon?”, there are two preferences: one for the day Monday, and, given the Monday preference, one for the time afternoon, at least for one syntactic reading of the utterance.

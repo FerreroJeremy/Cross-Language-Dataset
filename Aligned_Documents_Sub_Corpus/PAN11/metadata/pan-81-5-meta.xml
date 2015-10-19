@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document09574</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>277771</sourceTextOffset>
+<sourceTextLength>243</sourceTextLength>
+<sourceTextContent>
+
+Una vez en la calle, la hija de don Alonso apoyose contra el respaldo de la silla para contrarrestar
+el vaivén, y, al lento paso de los silleteros, cruzó entre la muchedumbre, tiesa y vistosa
+como una imagen, la boca pía, los ojos recoletos.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document03295</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>233585</suspiciousTextOffset>
+<suspiciousTextLength>224</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Once in the street, the daughter of Don Alonso apoyose against the back of the chair to counteract swaying,
+and the slow pace of silleteros, crossed into the crowd, stiff and showy as an image, pious
+mouth, eyes Recoletos</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

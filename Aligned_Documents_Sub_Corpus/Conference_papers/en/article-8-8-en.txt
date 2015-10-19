@@ -1,0 +1,1 @@
+Conclusion We presented a parsing algorithm for IGs. Although we used a simplified version without polarized feature structures, adding a unification mechanism shouldn’t be an issue.

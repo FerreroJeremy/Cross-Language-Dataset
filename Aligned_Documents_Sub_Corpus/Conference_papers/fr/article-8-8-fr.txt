@@ -1,0 +1,1 @@
+Conclusion Nous avons présenté un algorithme d’analyse pour les GI. Bien que nous ayons utilisé une version sans structure de traits, nous pensons qu’il n’y a aucune difficulté majeure à y ajouter un mécanisme d’unification.

@@ -1,0 +1,1 @@
+Une décomposition hiérarchique apparaît lorsque certaines de ces classes sont à leur tour découpées en sous-classes. C’est le cas dans cet exemple où le sous-graphe annoté 2 est divisé en deux sous-graphes 21 et 22. Cette imbrication fait de l’arbre une représentation naturelle pour les fragmentations hiérarchiques.

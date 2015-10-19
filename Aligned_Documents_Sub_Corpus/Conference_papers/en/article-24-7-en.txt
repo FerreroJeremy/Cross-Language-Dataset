@@ -1,0 +1,1 @@
+Evaluation of the automatic process As far as we know, there is no gold standard for this kind of experiment. We manually evaluated the 2351 occurrences of regular polysemy relations proposed by our system. We estimate that 2140 are correct, that is a precision of 91,03%.

@@ -1,0 +1,1 @@
+Évaluation de la qualité multi-échelle Dans le domaine de la détection de communautés, les mesures de qualité sont souvent utilisées pour comparer plusieurs décompositions simples d’un graphe. Une mesure de qualité peut être vue comme une fonction partant de l’espace des fragmentations possibles d’un ensemble V et allant dans un intervalle réel.

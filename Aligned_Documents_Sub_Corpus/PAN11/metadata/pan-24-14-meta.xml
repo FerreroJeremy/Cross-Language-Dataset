@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05828</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>30388</sourceTextOffset>
+<sourceTextLength>234</sourceTextLength>
+<sourceTextContent> No sé cuándo volverá. Estando yo sola no me atrevo a abrir a usted
+la puerta y a dejarle entrar. La gente murmura ya contra nosotros, y murmurará mil veces más
+si yo tal cosa hiciera. Váyase usted, pues, y perdóneme que no le reciba.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document00878</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>346565</suspiciousTextOffset>
+<suspiciousTextLength>225</suspiciousTextLength>
+<suspiciousTextContent> I do not know when to return. Being myself I dare not open to you the
+door and let him inside. People whisper, and against us, and whisper a thousand times if I do
+such a thing. Go away then, and forgive me for not receiving</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

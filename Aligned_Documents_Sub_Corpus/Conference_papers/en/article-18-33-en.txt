@@ -1,0 +1,1 @@
+For a given node, one can thus calculate a vector displacement which will move away it from nodes to which it is too near. Nodes not bringing closer by thematic neighbourhood (at the time of the first phase of calculation cf. section 4.1) but being close ” accidently” end thus naturally up separating.

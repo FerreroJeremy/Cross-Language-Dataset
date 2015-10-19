@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03144</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>34719</sourceTextOffset>
+<sourceTextLength>274</sourceTextLength>
+<sourceTextContent> El alferez tiene en la canoa para defensa del sol
+y de la lluvia su carroza muy buena con cortinas y asientos. Los soldados llevan tambien en
+medio de la canoa su toldo acomodado para su resguardo. Los remeros van á la proa y á la popa,
+y uno con la pala sirve de timonero.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document10110</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>78000</suspiciousTextOffset>
+<suspiciousTextLength>254</suspiciousTextLength>
+<suspiciousTextContent> The ensign is in the canoe for sun protection and rain
+His chariot very good with curtains and seats. The soldiers are also in canoe through the canopy
+off for safekeeping. The rowers are to the fore and aft, and one with the blade serves as a helmsman.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

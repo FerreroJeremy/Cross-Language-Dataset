@@ -1,0 +1,1 @@
+Sachant qu’un mot fréquent a plus de chance d’être polysémique qu’un autre, nous souhaitions prendre en considération dans notre évaluation l’influence de la fréquence des mots cibles étudiés. Nous filtrons à cet effet les candidats dont la fréquence (telle que calculée à l’aide de Wacky) est inférieure à un seuil donné, pour un ensemble de ces valeurs seuils.

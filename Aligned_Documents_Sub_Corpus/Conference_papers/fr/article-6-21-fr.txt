@@ -1,0 +1,1 @@
+Résultats Notre algorithme de classification a été appliqué simultanément sur les 4 tables de données relationnelles (“presentation”, “foundation”, “dissemination” et “bibliography”) pour obtenir une partition en K ? {1, . . . , 15}. Pour un nombre de cluster donné K, l’algorithme est déroulé 100 fois et le meilleur résultat vis à vis du critère d’adéquation est selectionné.

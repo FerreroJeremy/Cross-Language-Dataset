@@ -1,0 +1,1 @@
+An input sequence E is said to be accepted if there exists a path of edges from I to a final state such that the concatenation of the input symbols of these edges gives E. The transduction, or translation of an input sequence E corresponds to the concatenation of the output strings associated to the edges used to accept E.

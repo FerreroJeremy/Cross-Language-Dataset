@@ -1,0 +1,1 @@
+Building of the similarity matrix between cooccurrents The number and the extent of the clusters built by a clustering algorithm generally depend on a set of parameters that can be tuned in one way or another. But this possibility is implicitly limited by the similarity measure used for comparing the elements to cluster.

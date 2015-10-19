@@ -1,0 +1,1 @@
+L’approche qu’ils ont proposée est analogue à la nôtre: ils entraînent un classificateur pour identifier les paires de phrases en relation de traduction. Notre approche serait plus adaptée pour les corpus où nous savons à priori qu’ils contiennent plusieurs documents parallèles.

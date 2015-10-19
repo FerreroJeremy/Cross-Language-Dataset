@@ -1,0 +1,1 @@
+A Dynamic Clustering Algorithm Based on Multiple Dissimilarity Matrices In this section, we introduce an extension of the dynamic clustering algorithm for relational data (De Carvalho et al (2008)) which is able to partition ob- jects taking simultaneously into account their relational descriptions given by multiple dissimilaritity matrices.

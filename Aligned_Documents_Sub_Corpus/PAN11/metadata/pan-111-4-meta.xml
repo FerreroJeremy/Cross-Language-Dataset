@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02869</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>460</sourceTextOffset>
+<sourceTextLength>244</sourceTextLength>
+<sourceTextContent>
+
+Julita se echó a reír, ruborizada.
+
+En torno de la plaza, donde llegaron en seguida, se agitaba la multitud, pugnando por entrar;
+los coches que allí se juntaban producían disturbios y motines, que los guardias no eran suficientes
+a reprimir. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document04286</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>88041</suspiciousTextOffset>
+<suspiciousTextLength>286</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Julia blushed as she laughed all around the plaza.
+
+They had arrived at once, the crowd stirred, they were struggling with whether they should have came or not.
+Cars started to gather, while riots started and disturbances were
+made. There were to little guards to suppress this issue</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

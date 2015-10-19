@@ -1,0 +1,1 @@
+Last, the results on verbs are quite similar to those for nouns, with a better precision at low ranks, and at higher frequency cutoffs, even though the oracle evaluation is roughly the same for all configurations. Again, filtering one method with the other yields better results, with oracle precision between 20% and 27%, similarly to what is observed on nouns.

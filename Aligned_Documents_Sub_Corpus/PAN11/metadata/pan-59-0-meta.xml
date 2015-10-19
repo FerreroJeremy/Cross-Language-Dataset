@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02451</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>88728</sourceTextOffset>
+<sourceTextLength>273</sourceTextLength>
+<sourceTextContent>
+
+Sabida la nueva por Inca Yupanqui, mandó á los tres sus buenos amigos y á los demás caciques
+y señores que en su córte y servicio habian venido, que luego juntasen la gente de guerra y
+la sacasen á cierto campo, cada uno con sus armas, é que los contasen todos uno á uno. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document02441</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>383</suspiciousTextOffset>
+<suspiciousTextLength>271</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Known by the new Inca Yupanqui, ordered three good friends and to the chiefs and gentlemen in
+his court and had been service, which then together the people of war and the right to bring
+forth out of the field, each with their weapons, and that included
+all one by one</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

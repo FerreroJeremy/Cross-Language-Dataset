@@ -1,0 +1,1 @@
+Pour déterminer le nombre de clusters, nous utilisons l’approche décrite par (Da Silva, 2009), qui consiste à choisir les pics sur le graphe des “différences de second ordre” du critère de classification (équation (1)) : J(K-1) + J(K+1) - 2J(K), K = 2, . . . , 14. En suivant cette approche, nous avons fixé le nombre de clusters à 4 et 9.

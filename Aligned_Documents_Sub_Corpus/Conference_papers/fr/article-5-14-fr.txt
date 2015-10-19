@@ -1,0 +1,1 @@
+Application à la maximisation multi-échelle de la modularité Nous présentons dans cette section l’algorithme de Blondel et al. (2008) qui produit une décomposition hiérarchique de graphe. Nous verrons en particulier que cette dernière peut comporter des biais de construction que notre méthode permet de corriger.

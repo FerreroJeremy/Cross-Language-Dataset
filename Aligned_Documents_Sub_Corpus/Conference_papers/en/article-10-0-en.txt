@@ -1,0 +1,1 @@
+Abstract This paper presents and evaluates a method to automatically translate simple terms from French into English and English into French in the biomedical domain. It relies on a machine-learning technique that infers transducers from examples of bilingual pairs of terms; no additional resources or knowledge is needed.

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08331</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>99510</sourceTextOffset>
+<sourceTextLength>241</sourceTextLength>
+<sourceTextContent>
+
+  La bellísima estacion del camino de hierro de Estrasburgo, de la
+  cual he hecho ya mencion, fué mi punto de partida.
+
+  Como desde Bayona á Burdeos, tomé asiento de primera clase en el
+  tren del correo, que sale á las ocho de la noche. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document10653</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>21044</suspiciousTextOffset>
+<suspiciousTextLength>225</suspiciousTextLength>
+<suspiciousTextContent> 
+
+  The beautiful railroad station of Strasbourg, the which I have already
+  mentioned, was my starting point.
+
+  
+  As from Bayonne to Bordeaux, took a seat in first class mail train,
+leaving at eight o'clock in the evening</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

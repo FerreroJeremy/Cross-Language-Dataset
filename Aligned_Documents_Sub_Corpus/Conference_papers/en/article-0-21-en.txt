@@ -1,0 +1,1 @@
+Summarization of structured data has attracted a lot of attention in various domain, covering web server log [20] pattern mining (see e.g., [13] that includes a brief survey), sequences of event [14], database instance [16], multidimensional data stream [15], database workloads [4] and datacubes [12].

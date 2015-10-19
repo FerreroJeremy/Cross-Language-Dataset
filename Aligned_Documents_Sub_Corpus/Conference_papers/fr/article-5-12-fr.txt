@@ -1,0 +1,1 @@
+La suppression d’un noeud t de l’arbre T conduit à plusieurs changements dans le calcul de la mesure multi-niveaux. Premièrement, le poids des descendants directs de t devient plus important puisqu’ils interviennent désormais à un niveau hiérarchique plus bas.

@@ -1,0 +1,1 @@
+Dans cet article, nous présentons un algorithme proche de celui décrit par (Earley, 1970) pour l’analyse des grammaires hors-contexte. Nous introduisons notre algorithme en utilisant une méthode standard de ce domaine : l’analyse déductive (Shieber et al., 1995).

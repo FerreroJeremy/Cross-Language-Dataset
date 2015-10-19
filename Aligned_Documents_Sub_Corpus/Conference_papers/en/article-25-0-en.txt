@@ -1,0 +1,1 @@
+Abstract—This paper relates a methodology to include some semantic information early in the statistical language model for Automatic Speech Recognition (ASR). This work is done in the framework of a global speech-to-speech translation project. An Interchange Format (IF) based approach, representing the meaning of phrases independently of languages, is adopted.

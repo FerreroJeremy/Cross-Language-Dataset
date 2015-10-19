@@ -1,0 +1,1 @@
+Finally, Zanzotto and Pennacchiotti (2010) use Wikipedia's revision history to extract a large set of textual entailment pairs and apply semi-supervised machine learning methods to make the extracted dataset homogeneous to the existing ones.

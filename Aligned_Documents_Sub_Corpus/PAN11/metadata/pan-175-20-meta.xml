@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document09469</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>0</sourceTextOffset>
+<sourceTextLength>237</sourceTextLength>
+<sourceTextContent>--No gusto de que te vayas, contestó ella. Mucho temo que te suceda algo terrible: pero vete,
+pues así lo deseas y no se puede evitar. Toma, con todo, esta caja, y cuida mucho de no abrirla.
+Si la abres, no lograrás nunca volver a verme.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document06175</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>618277</suspiciousTextOffset>
+<suspiciousTextLength>231</suspiciousTextLength>
+<suspiciousTextContent> - Not like you go, "she said. I fear something terrible happens to you: but go, because they want
+and can not be avoided. Take, however, this box, and very careful not to open it. If you open it,
+will never be able to see me again</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

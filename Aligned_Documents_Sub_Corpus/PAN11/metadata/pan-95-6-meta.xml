@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03634</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>0</sourceTextOffset>
+<sourceTextLength>247</sourceTextLength>
+<sourceTextContent>Gonzalo no dejó la casa de su suegro, quien al cabo de cinco o seis días del desafío, tomó
+de llevar a Ventura al convento de Ocaña. Pero su vida fué triste, sombría por demás. Negábase,
+a pesar de las instancias de Pablo, a salir de caza o paseo. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document03907</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>127673</suspiciousTextOffset>
+<suspiciousTextLength>237</suspiciousTextLength>
+<suspiciousTextContent> Gonzalo did not leave the house of his father, who after five or six days of the challenge,
+took Ventura carrying the convent of Ocaña. But his life was sad, grim for others. Denied it, despite
+the request of Paul, to go hunting or ride</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

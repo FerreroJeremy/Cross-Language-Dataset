@@ -1,0 +1,1 @@
+SO-LSA The technique proposed by Turney and Littman (2003) tries to infer semantic orientation from semantic association in a corpus. It is based on the semantic proximity between a target word and fourteen benchmarks: seven with positive valence and seven with negative valence

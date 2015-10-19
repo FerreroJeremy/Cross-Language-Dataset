@@ -1,0 +1,1 @@
+Sémantique La sémantique associée à une phrase valide du langage anbn est évidement le nombre n de a et b contenus dans la phrase. A cette fin, la classe "Semantique" du modèle possède un attribut entier n. Le nombre S.Semantique.n représente le nombre de A dans un S.

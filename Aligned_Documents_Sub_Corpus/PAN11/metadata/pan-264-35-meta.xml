@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document06464</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>60845</sourceTextOffset>
+<sourceTextLength>234</sourceTextLength>
+<sourceTextContent> Comunicó Setoc el negocio con Zadig de quien habia hecho su consejero.
+¿Qué condicion tiene vuestro deudor? le dixo Zadig. La condicion de un bribon, replicó Setoc.
+Lo que yo pregunto es si es vivo ó flemático, imprudente ó discreto. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document09591</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>777803</suspiciousTextOffset>
+<suspiciousTextLength>231</suspiciousTextLength>
+<suspiciousTextContent> Setoc informed business with Zadig's who had become his counselor. What
+condition is your debtor? Zadig said to him. The condition of a scoundrel, "replied Setoc. What
+I wonder is whether I live or phlegmatic, reckless or discrete</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

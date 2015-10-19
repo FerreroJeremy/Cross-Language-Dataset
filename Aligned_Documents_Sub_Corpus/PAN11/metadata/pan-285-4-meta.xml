@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document09773</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>321004</sourceTextOffset>
+<sourceTextLength>251</sourceTextLength>
+<sourceTextContent> Al cabo vino a convertirse en risa algo burlona.
+
+«Es curioso--pensó don Acisclo--. ¿Con qué chistes se descolgará ahora su papá, a los doce
+o trece años de muerto, para que ella se ría tan fuera de sazón?».
+
+En esto, doña Luz acabó de leer la carta. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document10210</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>14753</suspiciousTextOffset>
+<suspiciousTextLength>231</suspiciousTextLength>
+<suspiciousTextContent> His voice became laced with mocking laughter.
+
+"It's funny- thought Don Acisclo.
+
+What will be lifted now with his father twelve or thirteen years dead,
+and she so far out of season."
+
+In this, Dona Luz finished
+reading the letter</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

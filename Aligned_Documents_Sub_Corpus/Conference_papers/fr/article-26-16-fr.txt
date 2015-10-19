@@ -1,0 +1,1 @@
+Lorsque le configurateur utilisé est lui-même orienté objet [Mai98], de telles relations sont implémentées par des variables ensemblistes. Par exemple, un syntagme nominal peut avoir comme noyau4 un nom. Cette relation entre catégories peut être adéquatement décrite en utilisant une relation dans le modèle objet correspondant.

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07786</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>28436</sourceTextOffset>
+<sourceTextLength>233</sourceTextLength>
+<sourceTextContent> Como los ciudadanos saben
+que el poder reside en sus manos, en su opinion, la prensa tiene la mas notable actividad y
+variedad para servir todos los intereses, y las juntas y sociedades de todo género son muy
+numerosas y frecuentes. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document03330</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>25574</suspiciousTextOffset>
+<suspiciousTextLength>219</suspiciousTextLength>
+<suspiciousTextContent> Citizens know that the power
+rests in their hands, and in his opinion, the press has the most noteworthy activity and range
+to serve all his interests. Boards and corporations of all kinds
+are too numerous and frequent</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

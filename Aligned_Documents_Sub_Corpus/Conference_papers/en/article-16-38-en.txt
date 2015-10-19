@@ -1,0 +1,1 @@
+Moby Table 5 shows the results for nouns with respect to the related terms in the Moby thesaurus. We expected that this reference would be closer to what is recovered by a distributional similarity, and that is indeed the case for nouns: Lin's precision is superior across the board, even by 10 points at rank 1. However, both methods are comparable on verbs.

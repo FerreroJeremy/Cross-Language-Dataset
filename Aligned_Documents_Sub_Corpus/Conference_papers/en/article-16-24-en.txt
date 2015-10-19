@@ -1,0 +1,1 @@
+Additionally, we took out a list of the most common items in the candidates of the target sets. We arbitrarily removed those terms that appear in more than 25% of the candidate lists (this threshold could be tuned on a development set in further experimentations).

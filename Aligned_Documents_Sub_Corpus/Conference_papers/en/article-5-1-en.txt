@@ -1,0 +1,1 @@
+A central task of network analysis is the detection of a community structure[3]. Many graph clustering algorithms have been developed to fulfill this task (see [6] for a survey). These methods often rely on the maximization of a quality measure like modularity[12].

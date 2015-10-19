@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document06070</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>1221</sourceTextOffset>
+<sourceTextLength>227</sourceTextLength>
+<sourceTextContent> Me ha enfermado de la vista, de las piernas, de la cabeza, de los riñones,
+de todo menos del estómago. Privándome de recursos, dispone que yo digiera como un buitre.
+
+--Lo mismo hace conmigo. Pero yo no lo llevo a mal, señora. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document08120</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>296757</suspiciousTextOffset>
+<suspiciousTextLength>181</suspiciousTextLength>
+<suspiciousTextContent> I was sick of sight, legs, head, kidney, everything except the stomach. Deprived
+of resources, I have to digest like a vulture.
+
+- So does me. But I'll take it the wrong way, ma'am</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

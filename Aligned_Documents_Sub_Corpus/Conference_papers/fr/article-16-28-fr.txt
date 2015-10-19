@@ -1,0 +1,1 @@
+MAP calcule la précision en chaque point de la liste où un candidat pertinent est identifié ; MRR est calculé comme la moyenne de l’inverse des rangs du premier terme pertinent dans la liste.

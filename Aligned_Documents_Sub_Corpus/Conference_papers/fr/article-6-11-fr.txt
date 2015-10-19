@@ -1,0 +1,1 @@
+Il est facile de montrer que chacune de ces trois étapes fait décroître le critère J. L’algorithme des nuées dynamiques avec pondération de la pertinence de chacune des matrices de dissimilarité démarre avec une partition initiale et alterne trois étapes jusqu’à convergence, quand le critère J(P,, g) atteint une valeur stationnaire qui représente un minimum local.

@@ -1,0 +1,1 @@
+The number of semantic classes obtained by this automatic process is important, but taking into account the frequency of occurrence and the size (i.e. the number of variants for a same class) of these classes, only 41 classes are finally retained.

@@ -1,0 +1,1 @@
+The Curse of Parameters. The choice of parameter values is crucial but not trivial. The dilemma is well-known: a high frequency threshold may lead to less rules, but also lesser coverage rate and less discriminating power. A low frequency threshold may lead to a huge amount of rules, among which some rules (with low frequency) may be spurious.

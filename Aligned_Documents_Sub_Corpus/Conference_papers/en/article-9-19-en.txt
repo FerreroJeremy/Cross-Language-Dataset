@@ -1,0 +1,1 @@
+For a context-free rewriting system, the grammar generates the derivation tree, which can be represented in a more traditional way by adding the branches of the tree (giving us a 2-graph).

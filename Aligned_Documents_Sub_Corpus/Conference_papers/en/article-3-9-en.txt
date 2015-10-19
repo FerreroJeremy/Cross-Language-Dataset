@@ -1,0 +1,1 @@
+Equivalence in preordonnance: let n objects x,y, z... of Rp and any two proximity measures ui and u j on these objects. If for any quadruple (x,y, z, t), ui(x,y) ui(z, t) uj(x,y) uj(z, t) then, the two measures ui and u j are considered equivalent.

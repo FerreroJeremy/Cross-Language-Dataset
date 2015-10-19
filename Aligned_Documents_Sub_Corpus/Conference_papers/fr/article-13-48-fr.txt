@@ -1,0 +1,1 @@
+La mise en place d’une base de donnée contenant ce lexique est en cours 3. Cela devrait permettre de faciliter la maintenance du lexique, mais aussi d’enrichir les données pour chaque entrée, notamment avec des exemples d’usage ou des traits sémantiques plus variés (loc, deloc, mais aussi tim, man, qty). Nous envisageons d’y ajouter des informations de fréquence sur corpus.

@@ -1,0 +1,1 @@
+Standard Classification Rule Model. Une règle MODL (SCRM pour standard classification rule model) est définie de manière unique par : – les attributs du corps de la règle – pour chaque attribut du corps, la valeur (0 ou 1) qui fait partie du corps – la distribution des classes , dans le corps et hors du corps

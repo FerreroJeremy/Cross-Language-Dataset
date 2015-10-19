@@ -1,0 +1,1 @@
+Results The clustering algorithm has been performed simultaneously on these 4 rela- tional data tables (“presentation”, “foundation”, “dissemination” and “bib- liography”) in order to obtain a partition in K ? {1, . . . , 15}. For a fixed number of clusters K, the clustering algorithm is run 100 times and the best result according to the adequacy criterion is selected.

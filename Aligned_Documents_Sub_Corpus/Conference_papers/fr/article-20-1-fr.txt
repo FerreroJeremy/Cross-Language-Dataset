@@ -1,0 +1,1 @@
+Turney et Littman ont évalué l’efficacité de leur technique en comparant l’orientation prédite à celle définie dans le General Inquirer Lexicon (Stone et al., 1966) qui contient une liste de 3596 mots étiquetés comme positifs ou négatifs. Calculée sur la base de corpus de 10 000 000 de mots, SO-ASL étiquette correctement 65 % des mots.

@@ -1,0 +1,1 @@
+Propriétés des résumés Notons tout d’abord qu’un résumé S d’un log L définit une partition de L. Par construction, chaque requête de S est définie par une expression QSL impliquant une sous-séquence distincte de requêtes de L.

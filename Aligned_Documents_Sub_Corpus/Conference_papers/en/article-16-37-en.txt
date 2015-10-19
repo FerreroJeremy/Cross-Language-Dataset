@@ -1,0 +1,1 @@
+Also, it is noteworthy that Lin's approach is close to the mirror approach on nouns: R-prec=13% and P1=23% for both when f>1; the latter fares better on verbs: R-prec=16 for Lin, 18 for mirror translation, and then the gap widens with higher f-values to reach 17 vs. 21 for f>20000; P1 goes from 41 to 33 for Lin, and from 37 to 34 for mirror translation.

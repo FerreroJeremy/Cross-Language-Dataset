@@ -1,0 +1,1 @@
+The WiCoPaCo corpus1 aims at collecting instances of such local modifications from Wikipedia's revision history, which is available as dumps with numerous metadata for most versions of Wikipedia, using an approach which is mostly languageindependent. The construction of the corpus comprises four main steps

@@ -1,0 +1,1 @@
+The train/dev/test split is the same as in (Green et al., 2011): 1,235 sentences for test, 1,235 for development and 13,347 for training.

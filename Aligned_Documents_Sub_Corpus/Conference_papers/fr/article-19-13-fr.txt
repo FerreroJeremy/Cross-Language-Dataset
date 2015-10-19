@@ -1,0 +1,1 @@
+4. détermination des germes de sens et élimination du bruit : les germes de sens et les cooccurrents laissés de côté sont déterminés par simple comparaison de leur nombre de liens forts par rapport à un seuil.

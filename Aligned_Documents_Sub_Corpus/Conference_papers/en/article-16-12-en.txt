@@ -1,0 +1,1 @@
+For the translation mirror based approach, we used a French-English bitext of 8.3 millions pairs of phrases in translation relation coming from the Canadian Hansards (transcripts of parliamentary debates). This bitext is used by the bilin- gual concordancer TSRali and was kindly made available to us by the main- tainers of the application.

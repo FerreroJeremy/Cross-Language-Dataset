@@ -1,0 +1,1 @@
+Quand un joueur A commence une partie, une consigne concernant le type de la relation lexicale (synonymie, antonymie, domaine, etc.) est affichée, ainsi qu’un terme cible T choisi dans le réseau lexical. Ce joueur A a un temps limité pour saisir des termes qui, selon lui, correspondent au terme T et à la relation lexicale qu’indique la consigne.

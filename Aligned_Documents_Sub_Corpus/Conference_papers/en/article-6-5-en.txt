@@ -1,0 +1,1 @@
+This paper gives a clustering algorithm that is able to partition objects taking simultaneously into account their relational descriptions given by mul- tiple dissimilaritity matrices. The main idea is to obtain a collaborative role of the different dissimilarity matrices (Pedrycz (2002)) in order to obtain a final consensus partition (Leclerc and Cucumel (1987)).

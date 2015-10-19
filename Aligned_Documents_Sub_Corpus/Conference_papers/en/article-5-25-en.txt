@@ -1,0 +1,1 @@
+The results of our method are a good compromise. The first level (see Figure 4(a)) contains relatively large clusters. The second level (see Figure 4(b)) is similar to the clustering provided by the Infomap algorithm.

@@ -1,0 +1,1 @@
+La détection de ce phénomène se fait par scrutation du voisinage d’un vecteur conceptuel. Si parmi ses n premiers voisins, la densité de mots n’ayant rien à voir avec le mot étudié est importante alors une action de séparation doit être entreprise.

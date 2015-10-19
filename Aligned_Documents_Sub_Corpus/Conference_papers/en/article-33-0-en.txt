@@ -1,0 +1,1 @@
+ABSTRACT. We propose two discriminative strategies to integrate compound word recognition in a parsing context: (i) compound pregrouping with Conditional Random Fields before parsing, (ii) reranking parses with a maximum entropy model after parsing.

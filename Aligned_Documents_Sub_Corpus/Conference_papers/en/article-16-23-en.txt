@@ -1,0 +1,1 @@
+We wanted to evaluate the role played by this factor and we took this into account in our evaluations by adding a varying frequency threshold on the candidates considered. For a set of values ci, we filtered out candidates with frequencies less than ci in a reference corpus (the Wacky corpus, mentioned above).

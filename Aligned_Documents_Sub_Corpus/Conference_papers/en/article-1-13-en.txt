@@ -1,0 +1,1 @@
+We use AClike prototype [Boulicaut et al., 2003] to mine frequent-confident classification rules: in fact, AClike mines g-frequent d-free itemsets that are bodies of rules p with con f (p, r) = 1-d/g. We also use consepminer prototype [Dong and Li, 1999, Zhang et al., 2000] to mine g-frequent r-emerging patterns.

@@ -1,0 +1,1 @@
+Annotation manuelle Nous avons conçu un schéma d’annotation basé sur la typologie décrite précédemment. L’objectif de cette annotation est d’évaluer le degré de complexité de l’identification manuelle des paraphrases dans les modifications locales. L’annotation est guidée par notre application cible qui est l’identification automatique des paraphrases dans WICOPACO.

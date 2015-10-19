@@ -1,0 +1,1 @@
+2. every common prefix of the output sequences is moved up from the leaves towards the root of the tree (Figure 3). 3. last, starting from the root, every possible pair of states of the transducer is considered and is merged if the resulting transducer does not contradict the training data (Figures 4 and 5). When no further merge can be done, the algorithm ends.
