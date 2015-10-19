@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03634</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>18901</sourceTextOffset>
+<sourceTextLength>243</sourceTextLength>
+<sourceTextContent>
+
+Dejáronlas al fin solas. Rezaron largo rato de rodillas. Cuando terminaron su rezo, Cecilia
+rogó a la monja que fuese a la cocina a dar orden para que se le hiciese te, porque estaba
+desfallecida.
+
+En cuanto la monja salió, alzóse vivamente. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document10176</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>37020</suspiciousTextOffset>
+<suspiciousTextLength>245</suspiciousTextLength>
+<suspiciousTextContent> 
+
+They left him alone at last. They prayed on their knees for a long time. When they finished
+their prayer, Cecilia asked the nun who went to the kitchen to give orders so that you do
+him, because he was faint.
+
+As the nun left, alzose strongly</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10369</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>1786</sourceTextOffset>
+<sourceTextLength>266</sourceTextLength>
+<sourceTextContent> Los que quieran aprender algo, de sobra tienen libros a que acudir.
+Para saber de religión lean los Nombres de Cristo, para saber de moral, lean la Guía de pecadores,
+y para saber de filosofía, la que está publicando el Padre Urraburu en muchos y muy gruesos tomos.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document04696</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>735380</suspiciousTextOffset>
+<suspiciousTextLength>239</suspiciousTextLength>
+<suspiciousTextContent> Those who want to learn something, have plenty of books to go. To find
+religion read the names of Christ, to know moral, read the Guide sinners and to know philosophy, which
+is publishing the Father Urraburu in many and very thick volumes</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

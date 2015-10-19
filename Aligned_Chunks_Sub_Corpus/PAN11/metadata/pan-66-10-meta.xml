@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02220</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>1310</sourceTextOffset>
+<sourceTextLength>237</sourceTextLength>
+<sourceTextContent> Ni el hambre
+ni el frío eran capaces de acabar en una noche sola con una vida tan dura de roer como la de
+Pepazos. Nadie lo dudó, y la caravana emprendió la subida de los montes sin atender otra cosa
+que a pisar en firme y ganar tiempo. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document02807</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>211557</suspiciousTextOffset>
+<suspiciousTextLength>227</suspiciousTextLength>
+<suspiciousTextContent> Neither hunger
+or cold were able to finish in one night alone with a life so hard to crack as the Pepazo. No
+one doubted, and the caravan began the ascent of the mountains caring for nothing else that a
+firm step and save time</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

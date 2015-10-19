@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04647</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>24802</sourceTextOffset>
+<sourceTextLength>246</sourceTextLength>
+<sourceTextContent> Lo que Poldy no acertaba a determinar era si el pájaro estaba casado o soltero.
+Poldy le veía siempre solo y como no entendía su lenguaje, no le preguntaba si era casado,
+como en España solemos preguntar a los loros, que responden a la pregunta.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05931</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>287687</suspiciousTextOffset>
+<suspiciousTextLength>244</suspiciousTextLength>
+<suspiciousTextContent> What Poldy not manage to determine was whether the bird was married or single. Poldy
+he was always seen as just did not understand their language, not asked if he was married,
+and in Spain we often ask the parrot, which respond to the question</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

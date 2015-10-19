@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04501</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>187199</sourceTextOffset>
+<sourceTextLength>268</sourceTextLength>
+<sourceTextContent> Eran perros furiosos
+persiguiéndose, con la sed de la pasión nunca extinguida. ¡Ah, la grandísima perdida! Ella
+y la madre le abrasaban las entrañas con sus bebidas.
+
+Bien se veía en Pepet, cada vez más flaco, más amarillo, más pequeño, como un cirio que se
+derretía.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document07267</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>5797</suspiciousTextOffset>
+<suspiciousTextLength>226</suspiciousTextLength>
+<suspiciousTextContent> Angry dogs were chasing each other,
+never quenched the thirst of passion. Ah, big loss! She and her mother blazed her courage with
+their drinks.
+
+Everyone could see Pepet becoming thinner, more yellow, less as a melted
+candle</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

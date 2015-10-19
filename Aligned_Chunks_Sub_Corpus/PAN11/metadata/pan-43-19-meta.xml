@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05583</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>214391</sourceTextOffset>
+<sourceTextLength>249</sourceTextLength>
+<sourceTextContent> La imagen de su hermano, que a veces
+le parecía un buen hombre a veces un hipócrita ambicioso, no se apartaba de su mente, sobreexcitada
+por el desvelo. Ya pensaba ablandarle con sus sentimientos fraternales, ya confundirle con
+las amenazas de Rey. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document01572</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>185073</suspiciousTextOffset>
+<suspiciousTextLength>222</suspiciousTextLength>
+<suspiciousTextContent> The image of his brother, who sometimes
+It seemed a good man a hypocrite sometimes ambitious, never left his mind, overexcited by sleeplessness.
+Thought and soften their fraternal feelings, and mixed up with King threats.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

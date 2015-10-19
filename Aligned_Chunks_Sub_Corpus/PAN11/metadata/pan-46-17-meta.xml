@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02192</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>2720</sourceTextOffset>
+<sourceTextLength>491</sourceTextLength>
+<sourceTextContent>
+
+EUMORFO.--Salvo el merecido respeto, te declararé entonces que tú propio te condenas.
+
+PROCLO.--¿De qué suerte?
+
+EUMORFO.--Porque mostrándote ahora tontísimo con toda tu filosofía, debiste de ser tonto en
+tu vida precientífica: tonto de nacimiento.
+
+PROCLO.--¿Y qué prueba he dado yo de esa tontería superlativa de que me acusas?
+
+EUMORFO.--La prueba es tu amor sublime por Asclepigenia.
+
+PROCLO.--¿Qué sabes tú de eso?
+
+EUMORFO.--Conozco a Asclepigenia muy a fondo.
+
+PROCLO.--Te alucinas. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document01829</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>549937</suspiciousTextOffset>
+<suspiciousTextLength>489</suspiciousTextLength>
+<suspiciousTextContent> 
+
+EUMORFO .-- Except due respect, I will tell you then you will own convictions.
+
+PROCLEAN .-- What luck?
+
+EUMORFO .-- For now showing tontísimo with all your philosophy, you
+should have to be foolish in your pre-scientific life: born fool.
+
+PROCLEAN .-- What I have given proof that silly superlative you accuse
+me?
+
+EUMORFO .-- The test is your love Asclepigenia sublime.
+
+PROCLEAN
+.-- What do you know that?
+
+.-- EUMORFO Asclepigenia know very thoroughly.
+
+PROCLEAN
+.-- You hallucinate</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

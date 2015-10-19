@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04113</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>30144</sourceTextOffset>
+<sourceTextLength>273</sourceTextLength>
+<sourceTextContent> Don José estuvo haciendo con la cabeza signos
+de asentimiento mientras habló Pepe.
+
+--Tienes razón en todo, hijo mío; don Tadeo quiso hacer un bien y nos fastidió. Porque, la
+verdad, quien es de la Iglesia, sólo es de ella. Hay días en que me parece que no tengo tal hijo.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document09139</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>277309</suspiciousTextOffset>
+<suspiciousTextLength>258</suspiciousTextLength>
+<suspiciousTextContent> Don Jose was making signs with his head Pepe assent
+as he spoke.
+
+- You're right about everything, my son, Don Tadeo wanted to do well
+and we screwed up. Because, Indeed, who is from the Church, only her.
+There are days when I do not think I have such a son</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

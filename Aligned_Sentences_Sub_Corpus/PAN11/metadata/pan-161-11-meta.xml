@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08331</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>22943</sourceTextOffset>
+<sourceTextLength>232</sourceTextLength>
+<sourceTextContent> Sus moradores, lo mismo que los aragoneses, reflejan
+  en sus expresivos rostros la honradez y franqueza.
+
+  El pais todo está cuidadosamente cultivado: en los picos de las
+  montañas ha plantado la vid la mano laboriosa del vasco.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05707</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>482754</suspiciousTextOffset>
+<suspiciousTextLength>213</suspiciousTextLength>
+<suspiciousTextContent> Its inhabitants, as well as the Aragonese, reflect in
+  their expressive faces honesty and frankness.
+
+  
+  The whole country is carefully cultivated: the peaks mountain vines
+planted by the Basque laborious hand</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

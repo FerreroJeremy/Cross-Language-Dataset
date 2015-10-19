@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07405</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>4887</sourceTextOffset>
+<sourceTextLength>261</sourceTextLength>
+<sourceTextContent>
+
+La ciudad de Honda es el límite ó centro de dos regiones enteramente distintas: hácia el sur
+y el oriente las admirables comarcas del alto Magdalena; hácia el norte las soledades infinitas,
+los desiertos ardientes y la monótona uniformidad del bajo Magdalena. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document07720</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>543974</suspiciousTextOffset>
+<suspiciousTextLength>246</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Honda City is the limit or focus of two entirely different regions: south and eastern regions
+of the upper Magdalena admirable, towards the north, the endless wilderness, the burning deserts
+and the monotonous uniformity of the lower Magdalena</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

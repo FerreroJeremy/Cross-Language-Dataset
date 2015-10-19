@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03857</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>132739</sourceTextOffset>
+<sourceTextLength>245</sourceTextLength>
+<sourceTextContent> Por muy simpáticos, heroicos
+o virtuosos que sean algunos personajes, siempre se trasluce en ellos algo, y a veces mucho,
+de insano y desequilibrado. El príncipe Don Carlos y el rey don Sebastián se parecen en esto,
+como buenos primos hermanos. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document03217</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>8104</suspiciousTextOffset>
+<suspiciousTextLength>201</suspiciousTextLength>
+<suspiciousTextContent> No matter how sympathetic, heroic,
+or virtuous one is of character; some unhealthy and unbalanced qualities always shine through. Prince
+Don Carlos, and King Don Sebastian look at this as well related</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

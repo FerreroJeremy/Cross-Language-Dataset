@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07766</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>675199</sourceTextOffset>
+<sourceTextLength>233</sourceTextLength>
+<sourceTextContent>
+
+En tiempo normal, lo habría mantenido á distancia. El millonario era partidario del orden.
+Abominaba de los revolucionarios, con el miedo instintivo de todos los ricos que han creado
+su fortuna y recuerdan la modestia de su origen. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document00430</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>149370</suspiciousTextOffset>
+<suspiciousTextLength>226</suspiciousTextLength>
+<suspiciousTextContent> 
+
+In normal times, he was kept at a distance. The millionaire was in favor of order. Detested
+the revolutionaries, with the instinctive fear of all the rich who have created his fortune
+and remember the modesty of its origins</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

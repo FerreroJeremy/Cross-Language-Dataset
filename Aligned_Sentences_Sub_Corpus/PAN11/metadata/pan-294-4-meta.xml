@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08504</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>0</sourceTextOffset>
+<sourceTextLength>235</sourceTextLength>
+<sourceTextContent>La hermosa canción, que canta Margarita mientras que está hilando en su cuarto, deja ver en
+seguida el estado de su alma; muestra que se halla poseída, completamente dominada por su galán
+amigo, y que no tiene más voluntad que la suya. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document10755</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>21615</suspiciousTextOffset>
+<suspiciousTextLength>220</suspiciousTextLength>
+<suspiciousTextContent> Margarita sings the beautiful song. In his room his head is spinning, following his soul, showing
+that he is completely owned and completely overtaken by her friendship and love. He thinks he has
+no will but Margarita's</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

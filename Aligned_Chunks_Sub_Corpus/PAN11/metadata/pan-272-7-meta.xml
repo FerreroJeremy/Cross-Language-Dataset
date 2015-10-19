@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04841</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>45735</sourceTextOffset>
+<sourceTextLength>233</sourceTextLength>
+<sourceTextContent>
+
+En el medio tiempo la chica, siguiendo por la calle adelante salió a la plazuela de Santa Catalina,
+cuyo terraplén, que corre por todo el frente, subió a saltos, y luego bajó a la calle del Aguacate
+por una escalera de mampostería. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document09851</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>274760</suspiciousTextOffset>
+<suspiciousTextLength>221</suspiciousTextLength>
+<suspiciousTextContent> 
+
+In the meantime the girl, following in the street below came to the square of Santa Catalina, whose
+embankment, which runs across the front, went up by leaps, and then fell to the street Avocado by
+a concrete staircase</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

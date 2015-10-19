@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07190</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>66130</sourceTextOffset>
+<sourceTextLength>234</sourceTextLength>
+<sourceTextContent> La primera linea de los
+republicanos estaba mandada por Urdaneta, mientras el Libertador, Ribas, Marino y otros jefes
+operaban en la segunda. La fuerza total ascendia a unos 5.200 hombres; el enemigo presentaba
+en linea mas de 6.000. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document04814</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>35041</suspiciousTextOffset>
+<suspiciousTextLength>216</suspiciousTextLength>
+<suspiciousTextContent> The first line of Urdaneta
+was commanded by Republicans, while the Liberator, Ribas, Marino and other heads operating in
+the second. The total force amounted to about 5,200 men, the enemy had more than 6,000 online.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

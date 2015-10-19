@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04313</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>16980</sourceTextOffset>
+<sourceTextLength>273</sourceTextLength>
+<sourceTextContent> Un minuto para cualquiera de ellos es mucho más que un año para cualquiera de
+nosotros. Sus poetas componen versos desesperados y desengañados a los quince minutos de nacer,
+y sus sabios inventan los más profundos y alambicados sistemas de filosofía a los treinta minutos.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document10280</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>8348</suspiciousTextOffset>
+<suspiciousTextLength>186</suspiciousTextLength>
+<suspiciousTextContent> A minute to them was much more than a year would be to us. Poets wrote tragic verses
+a quarter hour after they were born, and sophisticated philosophies arose a quarter hour after that.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document00011</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>247025</sourceTextOffset>
+<sourceTextLength>241</sourceTextLength>
+<sourceTextContent> El humilde canton es sinembargo superior á otros diez cantones en cuanto á la extension
+territorial, pues mide una superficie de 1,092 kilómetros cuadrados, teniendo en su mayor longitud
+(de S. á N.) 25 kilómetros, y en su mayor anchura 43. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05924</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>10638</suspiciousTextOffset>
+<suspiciousTextLength>228</suspiciousTextLength>
+<suspiciousTextContent> The humble HOWEVER canton is superior to another ten cantons, as to the extension territorial,
+measuring an area of ??1.092 square kilometers, taking in the extra length (From south to north) 25
+miles, and its greatest width 43</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

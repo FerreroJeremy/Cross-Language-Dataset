@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07650</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>46389</sourceTextOffset>
+<sourceTextLength>260</sourceTextLength>
+<sourceTextContent>
+
+A todo vecino se obligará á que tenga un huerto provisto de hortaliza, y tambien à que anualmente
+plante un número de árboles frutales, y de utilidad pública para edificios; ademas del que
+el pueblo haga en comun, una vez al año, en el paraje que se designe.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document10203</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>11071</suspiciousTextOffset>
+<suspiciousTextLength>209</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Every neighbor is obligated to provide a vegetable garden and also, to anually plant a number of fruit
+trees and of public utility buildings, which the town has in common, once a year in the appointed
+place</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08118</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>10946</sourceTextOffset>
+<sourceTextLength>238</sourceTextLength>
+<sourceTextContent> Esta rica, aunque pequeña población
+de Andalucía, estaba muy floreciente entonces, porque sus fértiles viñedos, que aún no había
+destruido la filoxera, producían exquisitos vinos, que iban a venderse a Jerez para convenirse
+en jerezanos.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document02965</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>216956</suspiciousTextOffset>
+<suspiciousTextLength>205</suspiciousTextLength>
+<suspiciousTextContent> This rich, but small population Andalusia,
+was flourishing then, because its fertile vineyards, which had not yet phylloxera destroyed,
+producing exquisite wines to be sold to Jerez to be agreed in Jerez.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05744</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>150725</sourceTextOffset>
+<sourceTextLength>230</sourceTextLength>
+<sourceTextContent>
+
+En un recodo que hace la calle:
+
+Al palacio de cristal.
+
+Más arriba:
+
+Al palacio de cristal.--Vestidos para hombres y niños.
+
+Más abajo, en un cuadro de hoja de lata ó de metal dorado:
+
+Vestidos para hombres y trajes para niños. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document03978</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>52198</suspiciousTextOffset>
+<suspiciousTextLength>201</suspiciousTextLength>
+<suspiciousTextContent> 
+
+At a bend that makes the street:
+
+The crystal palace.
+
+Above:
+
+The crystal palace .-- Clothing for men and children.
+
+Below, in a
+tin box of metal or gold:
+
+Clothing for men and dresses for children</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

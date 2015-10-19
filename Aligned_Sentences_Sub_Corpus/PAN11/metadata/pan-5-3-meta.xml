@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01021</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>2276</sourceTextOffset>
+<sourceTextLength>263</sourceTextLength>
+<sourceTextContent> Los
+vecinos en lo interior de sus moradas distinguían, por el estrépito de las ruedas y el chasquido
+de las herraduras, a cuál de los magnates mencionados pertenecía. Eran, en suma, tres instituciones
+venerandas que los hijos de la ciudad sabían amar y respetar. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document00224</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>3476</suspiciousTextOffset>
+<suspiciousTextLength>238</suspiciousTextLength>
+<suspiciousTextContent> Inside their homes,
+the neighbors were able to distinguish the magnates by the racket of the wheels and the click of the horseshoes.
+There were, in sum, three venerable institutions that the children of the city knew to love and respect.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02453</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>6355</sourceTextOffset>
+<sourceTextLength>260</sourceTextLength>
+<sourceTextContent> Señorita ha prohibido que ponga los pies en
+esta casa.
+
+--¿Cómo es que yo no sé nada de eso? ¿Quién te ha ido con semejante cuento?
+
+--No ha sido cuento, niña Adelita. Dolores me refirió una conversación que Señorita tuvo con
+el amo sobre mí...
+
+--¿Ya lo ves? </sourceTextContent>
+<suspiciousIDDoc>suspicious-document07899</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>31571</suspiciousTextOffset>
+<suspiciousTextLength>250</suspiciousTextLength>
+<suspiciousTextContent> She has banned you from setting foot in this house. -How come I didn't
+know about that?
+
+Who would tell you such a story? - That was no story, Adelita girl.
+
+Dolores told me about a conversation she had with Miss the master
+about me... -Do you see?
+</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

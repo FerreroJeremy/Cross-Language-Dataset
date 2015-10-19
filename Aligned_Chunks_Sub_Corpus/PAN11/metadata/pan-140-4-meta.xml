@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01690</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>10048</sourceTextOffset>
+<sourceTextLength>243</sourceTextLength>
+<sourceTextContent>
+
+EUMORFO.--Eso mismo repito yo. ¿Cómo no te hundes en el centro de la tierra?
+
+CREMATURGO.--¡Inicua! Nos estabas engañando a todos.
+
+EUMORFO.--Esto pasa de castaño oscuro. ¡Tres al mismo tiempo!
+
+CREMATURGO.--¿Qué puedes alegar en tu defensa?
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05253</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>82819</suspiciousTextOffset>
+<suspiciousTextLength>250</suspiciousTextLength>
+<suspiciousTextContent> 
+
+EUMORFO .-- That same repeat myself. How could you sink into the center
+of the earth?
+
+Inicua .-- CREMATURGO! We were fooling everyone.
+
+EUMORFO .-- This
+goes from dark brown. Three at the same time!
+
+CREMATURGO .-- What
+can you claim for yourself</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

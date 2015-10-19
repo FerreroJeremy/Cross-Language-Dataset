@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10107</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>3384</sourceTextOffset>
+<sourceTextLength>233</sourceTextLength>
+<sourceTextContent> Usted me ofende de palabra, porque está lejos de mí. Si estuviera yo ahí,
+se moriría usted de miedo al verme, porque estoy hecha una fierecita...
+
+¡Hola, hola! Me desafía usted, me cita y me emplaza para que vaya a su casa al punto. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05034</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>2886</suspiciousTextOffset>
+<suspiciousTextLength>206</suspiciousTextLength>
+<suspiciousTextContent> You offend me by word, because it is far from me. If I were there afraid you
+would die to see me, because I made a fierecita ...
+
+Hello, hello! I challenge you quoted me and summons me to go home
+the point</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

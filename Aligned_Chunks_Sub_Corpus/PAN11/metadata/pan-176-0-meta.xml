@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05194</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>23811</sourceTextOffset>
+<sourceTextLength>249</sourceTextLength>
+<sourceTextContent> Los árboles, las montañas, los arroyos, el valle
+cubierto de su verde tapiz brillan indecisos bajo la tenue claridad del crepúsculo.
+
+El conde pone de nuevo su caballo al galope y desciende velozmente por el flanco de la colina
+que oculta a Lancia. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document06219</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>4429</suspiciousTextOffset>
+<suspiciousTextLength>211</suspiciousTextLength>
+<suspiciousTextContent> The trees, mountains, streams, and valley covered the
+undecided green carpet in the dim glow of the sunset light.The count
+put his horse in his back and galloped swiftly in the hillside where
+Lancia is hiding.
+</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

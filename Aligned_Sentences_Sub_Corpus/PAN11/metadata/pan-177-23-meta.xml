@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05554</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>292403</sourceTextOffset>
+<sourceTextLength>242</sourceTextLength>
+<sourceTextContent>
+
+[40] Jusepe Martínez. Dialogos practicables del arte de la pintura. 188.
+
+[42] Cruzada Villaamil y don Pedro de Madrazo, dicen que el primero de ambos retratos es el
+que esta hoy en la Galería Pitti de Florencia. Beruete lo considera copia.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document06253</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>304347</suspiciousTextOffset>
+<suspiciousTextLength>235</suspiciousTextLength>
+<suspiciousTextContent> 
+
+[40] Jusepe Martínez. Practical dialogue of the art of painting. 188.
+
+[42] Cross-Villamil and Don Pedro de Madrazo, say the first of the
+two portraits is the which is now at the Pitti Gallery in Florence.
+Beruete considered copying</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

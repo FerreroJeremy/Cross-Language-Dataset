@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04679</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>10088</sourceTextOffset>
+<sourceTextLength>268</sourceTextLength>
+<sourceTextContent>
+
+El tiempo nos faltaba absolutamente para visitar las maravillas artísticas de la Casa del Labrador,
+de los jardines privados y de todo lo que hay admirable en ese museo de verdura, de piedra,
+de mármoles, de aguas saltadoras y de flores, que se llama el "Real sitio" </sourceTextContent>
+<suspiciousIDDoc>suspicious-document10998</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>1</suspiciousTextOffset>
+<suspiciousTextLength>223</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Completely lacked the time to visit us the artistic wonders of the Casa del Labrador, private gardens
+and all that is admirable in that museum of vegetables, stone marbles, jumping water and flowers,
+is called "Real Site</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03857</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>91602</sourceTextOffset>
+<sourceTextLength>225</sourceTextLength>
+<sourceTextContent> Pero este mismo Horacio, que da a la poesía tan singulares alabanzas,
+nos cita la rara afirmación de Demócrito sosteniendo que es menester ser loco para ser poeta,
+y que es expulsado de Helicon quien está en su cabal juicio.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document03217</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>10002</suspiciousTextOffset>
+<suspiciousTextLength>184</suspiciousTextLength>
+<suspiciousTextContent> Horace gives us unique poetry and rarely cites the statement made by Democritus,
+which claims that one must be crazy to be a poet. Horace, in his right mind, is expelled from Helicon.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

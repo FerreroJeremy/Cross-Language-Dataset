@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03750</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>125861</sourceTextOffset>
+<sourceTextLength>262</sourceTextLength>
+<sourceTextContent> Para fortificar la memoria solía copiar las poesías que más la agradaban:
+versos de Patri, de Aleardi, de Manzoni, de Shelley, de Byron, y ese día, recitando el papa
+una poesía de Víctor Hugo, copiada de un periódico, no la recordó bien y fue a buscar su libro.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05419</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>115650</suspiciousTextOffset>
+<suspiciousTextLength>242</suspiciousTextLength>
+<suspiciousTextContent> To strengthen the memory used to copy the poems he liked more: Patri verses
+of Aleardi, Manzoni, Shelley, Byron, and that day, the pope reciting a poem by Victor Hugo,
+copied from a newspaper, not the well-remembered and went to get
+his book</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

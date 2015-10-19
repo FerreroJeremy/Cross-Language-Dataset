@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document09732</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>5766</sourceTextOffset>
+<sourceTextLength>233</sourceTextLength>
+<sourceTextContent> Tan bien le fue al indino en aquel empeño,
+que acabada la feria trasladó el tenducho al pueblo y le abrió en un cobertizo que improvisó
+junto a la iglesia. A creerle por su palabra, él no era traficante por necesidad, sino por
+lujo. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document07514</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>1787</suspiciousTextOffset>
+<suspiciousTextLength>216</suspiciousTextLength>
+<suspiciousTextContent> So good was the indino in that endeavor, which
+had just moved the tenducho fair to the people and opened in a makeshift shed next to the church.
+To believe by his word, he was a drug dealer by necessity, but luxury.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

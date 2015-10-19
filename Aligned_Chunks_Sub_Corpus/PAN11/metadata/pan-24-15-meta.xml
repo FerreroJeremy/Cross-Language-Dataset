@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01476</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>1720</sourceTextOffset>
+<sourceTextLength>489</sourceTextLength>
+<sourceTextContent>
+
+La abadía era muy rica y famosa: rica por los fertilísimos valles que en sus contornos los
+monjes habían desmontado, cultivándolos con esmero y recogiendo en ellos abundantes cosechas;
+y famosa, porque era como casa de educación, donde muchos mozos de toda Francia y de la España
+que permanecía cristiana acudían a instruirse en armas y en letras. Entre los monjes había
+sabios filósofos y teólogos y no pocos que habían militado con gloria en sus mocedades antes
+de retirarse del mundo. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document00878</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>347491</suspiciousTextOffset>
+<suspiciousTextLength>461</suspiciousTextLength>
+<suspiciousTextContent> 
+
+The abbey was very rich and famous, rich valleys of the Fertiliser in outline the monks had
+cleared, cultivated with care and collecting them abundant harvests; and famous, it was about
+home education, where many young men from all over France and Spain Christian who remained came
+to be instructed in arms and letters. Among the monks had wise philosophers and theologians
+and not a few who had fought with glory in his youth before withdraw from the world.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

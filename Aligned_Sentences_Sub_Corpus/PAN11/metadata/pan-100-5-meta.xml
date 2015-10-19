@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10856</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>6871</sourceTextOffset>
+<sourceTextLength>251</sourceTextLength>
+<sourceTextContent> La señora llegó a eso
+de la una, un poco sofocada. «Muy malita la pobre»--dijo adelantándose a su marido, que ya
+tenía la boca abierta para preguntarlo por la hermana de Cucúrbitas. Y se encerró en el Camón
+para quitarse el velo y cambiar de vestido. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document04060</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>6752</suspiciousTextOffset>
+<suspiciousTextLength>244</suspiciousTextLength>
+<suspiciousTextContent> The woman came to that
+of one, a little breathless. "Very sick poor" - said ahead of her husband, already His mouth
+was open for questions by the sister of Cucurbits. And he locked himself in the Camon to remove
+the veil and change of clothing</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02328</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>87762</sourceTextOffset>
+<sourceTextLength>262</sourceTextLength>
+<sourceTextContent> De allí fuimos á otro pueblo, cuyos indios huyeron al vernos, y nos dejaron abundancia
+de comida, que nos detuvo dos dias: á las seis leguas llegamos á los indios Tobas, que se habian
+huido, y estaban bien prevenidos de comida; son tambien sugetos á los Mbayás.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05188</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>3002</suspiciousTextOffset>
+<suspiciousTextLength>286</suspiciousTextLength>
+<suspiciousTextContent> We went from there to the next village. The Indians there fled when they saw us approach and so
+we were left with ample food and stopped there for two days.
+After a further six miles we came to the Toba Indians (also subjects
+of the Mbayas) who were aware of the food and had also fled</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

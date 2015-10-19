@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01321</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>35323</sourceTextOffset>
+<sourceTextLength>244</sourceTextLength>
+<sourceTextContent>
+Además, podían engañarle en esto las ilusiones de muchachos; y de todas suertes, su padre tenía
+mucha razón en sacarle de allí para darle una ocupación que, cuando menos, había de ilustrarle
+el entendimiento y ponerle en contacto con el mundo. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document08120</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>297402</suspiciousTextOffset>
+<suspiciousTextLength>221</suspiciousTextLength>
+<suspiciousTextContent> Furthermore,
+it could fool you into illusions of boys, and of all kinds, his father had quite right to get in
+there to give an occupation that, at least, was to enlighten understanding and put you in touch
+with the world</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

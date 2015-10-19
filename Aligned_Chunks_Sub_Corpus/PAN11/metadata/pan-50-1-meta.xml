@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10412</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>9858</sourceTextOffset>
+<sourceTextLength>237</sourceTextLength>
+<sourceTextContent> ¿No he de apetesé encontrarme otra ves en medio de aquella selva vírgene, bajo un
+sielo siempre asul, y bebé el agua del coco y comé la piña y el plátano y la guayaba?
+
+Hablaba de carrera y sin detenerse cual si le hubiesen dado cuerda.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document01949</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>9302</suspiciousTextOffset>
+<suspiciousTextLength>194</suspiciousTextLength>
+<suspiciousTextContent> "Will I not find myself seen in the midst of virgin forests, always under the sky, with foods
+like pineapple, banana, coconut water, and guava?"
+
+He talked non-stop like this in a racing manner</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05089</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>416847</sourceTextOffset>
+<sourceTextLength>225</sourceTextLength>
+<sourceTextContent> Además, los hombres
+que preparaban su comida dormían en torno de él.
+
+Eran esclavos todos ellos, gente innoble y de mala catadura. Muchos habían sido perseguidos
+por la policía y habitado los establecimientos penitenciarios. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document04062</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>6918</suspiciousTextOffset>
+<suspiciousTextLength>173</suspiciousTextLength>
+<suspiciousTextContent> Men worked at preparing
+the food, while all around them others slept.
+
+These were the poor, the slaves; many of them were persecuted by
+the police and the other authorities</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

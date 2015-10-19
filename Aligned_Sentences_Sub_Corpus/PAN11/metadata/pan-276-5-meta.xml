@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01261</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>153245</sourceTextOffset>
+<sourceTextLength>236</sourceTextLength>
+<sourceTextContent> Otra vez se miraron a la cara los convidados,
+y crecio el asombro. Arrimandose luego el tercer criado a otro extrangero, le dixo: Senor,
+creame Vuestra Magestad, que no se debe detener mas aqui; yo voy a disponerlo todo, y desaparecio.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document09955</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>91809</suspiciousTextOffset>
+<suspiciousTextLength>240</suspiciousTextLength>
+<suspiciousTextContent> Again he looked at his face the guests, and raised
+the wonder. Then the third servant leaning against another foreigner, said to him: Lord, believe
+me Your Majesty, you should not stop here anymore, I'll arrange everything,
+and disappeared</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

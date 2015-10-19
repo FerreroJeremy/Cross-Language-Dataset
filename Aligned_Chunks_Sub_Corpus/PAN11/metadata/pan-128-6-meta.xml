@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05994</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>126671</sourceTextOffset>
+<sourceTextLength>729</sourceTextLength>
+<sourceTextContent>
+
+[80.] Es probable, que si permaneciendo fijo el ojo, pudiéramos abrir y cerrar los párpados,
+ya nos formaríamos idea de que el objeto visto está fuera de nosotros; de suerte que con solo
+este movimiento, tendríamos ya un punto de comparacion, por la sucesion de desaparecer y reproducirse
+alternativamente la sensacion del objeto con la interposicion ó no interposicion de un obstáculo.
+Entonces naceria ya por necesidad la idea de una distancia poca ó mucha; y como esta seria
+en direccion perpendicular al plano del objeto visto, tendríamos idea del sólido.
+
+Afortunadamente la naturaleza ha sido mas benéfica para nosotros, y no hemos de limitarnos
+á un supuesto que tanto escatima los medios de adquirir ideas de las cosas. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document04914</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>35283</suspiciousTextOffset>
+<suspiciousTextLength>394</suspiciousTextLength>
+<suspiciousTextContent> 
+
+It's likely that we clink blink and see the object before us. By blinking, we give ourselves a
+point of reference, and also replicate the look of the object by using the position of everything
+around us. From this, we understand distance, and are able to determine distance relative to the plane
+of where the object is positioned. Luckily, it is not necessary that we conform to these ideas.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

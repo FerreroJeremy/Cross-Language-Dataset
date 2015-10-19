@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05089</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>309728</sourceTextOffset>
+<sourceTextLength>273</sourceTextLength>
+<sourceTextContent> Ya tengo el permiso del gobierno. Aprovecharemos
+la gran fiesta de los rayos negros.
+
+Y fué explicando á Gillespie sus gestiones para conseguir esta autorización y el motivo de
+que el gobierno hubiese fijado para dos días después la visita del Hombre-Montaña á la capital.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document04062</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>6203</suspiciousTextOffset>
+<suspiciousTextLength>260</suspiciousTextLength>
+<suspiciousTextContent> And I have permission from the government. Take advantage
+the great feast of black rays.
+
+And Gillespie was explaining to his efforts to obtain such approval
+and the reason the government had set for two days after the visit
+of the man-mountain to the capital</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

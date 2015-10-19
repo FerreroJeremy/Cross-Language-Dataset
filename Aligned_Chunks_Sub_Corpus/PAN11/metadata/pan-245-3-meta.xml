@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document00011</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>119293</sourceTextOffset>
+<sourceTextLength>247</sourceTextLength>
+<sourceTextContent> Allí vive un pobre viejo, cuyo dialecto aleman incomprensible
+equivale á la mudez; pero sus gestos son expresivos. Su vida consiste en hacerle á cada curioso
+la misma explicacion, presentarle un viejo registro para que firme y recibir la propina.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document08895</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>88370</suspiciousTextOffset>
+<suspiciousTextLength>231</suspiciousTextLength>
+<suspiciousTextContent> There lives an old man, whose dialect incomprehensible German equivalent
+to the silence, but his gestures are expressive. His life is to give to every curious the same
+explanation, presenting an old log to sign and receive the tip</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

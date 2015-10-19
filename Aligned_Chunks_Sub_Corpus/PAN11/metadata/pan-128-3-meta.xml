@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10897</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>202228</sourceTextOffset>
+<sourceTextLength>259</sourceTextLength>
+<sourceTextContent> Proseguía Apolonio, sin dignarse, por su parte, mirar a
+Novillo:
+
+--He pintado en un poema alegórico la exacta posición de estos amores disparatados, horribles
+y delincuentes. Delincuentes, sí, delincuentes, porque.... Pero tente, lengua liviana y maldecida.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document04914</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>27706</suspiciousTextOffset>
+<suspiciousTextLength>211</suspiciousTextLength>
+<suspiciousTextContent> Apollo went without deigning while Novillo painted an old poem the
+same way, of love's crazy, horrible, and criminal nature.
+
+Criminal,
+yes criminal because, nonetheless Stand with its light and cursed
+tongue
+
+</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

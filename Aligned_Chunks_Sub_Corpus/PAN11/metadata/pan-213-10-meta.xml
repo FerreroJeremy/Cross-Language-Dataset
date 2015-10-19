@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03857</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>192348</sourceTextOffset>
+<sourceTextLength>261</sourceTextLength>
+<sourceTextContent> ¿Qué
+novísimo arte exquisito y profundo es ese que no se ha descubierto sino a fines del siglo XIX
+en Francia, en Suecia o en Rusia? ¿De suerte que Bourget, Ibsen y Tolstoï emplean un arte más
+exquisito y profundo que los autores del Quijote y de La Celestina? </sourceTextContent>
+<suspiciousIDDoc>suspicious-document07775</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>136666</suspiciousTextOffset>
+<suspiciousTextLength>257</suspiciousTextLength>
+<suspiciousTextContent> What brand
+new fine art and profound is that it has not been discovered until the late nineteenth century
+in France, Sweden or Russia? "So that Bourget, Ibsen and Tolstoy used more art exquisite and
+profound than the authors of Don Quixote and La Celestina</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

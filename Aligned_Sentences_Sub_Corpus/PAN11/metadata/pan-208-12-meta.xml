@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02128</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>627121</sourceTextOffset>
+<sourceTextLength>236</sourceTextLength>
+<sourceTextContent> La enferma fantasía de Clara creyó reconocer en aquellas voces un horrible
+y áspero trío de las Porreñas, que volaban, envueltas en espantosas nubes, dando al viento
+las voces de su impertinencia, de su amargo despecho y de su envidia. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document07664</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>112715</suspiciousTextOffset>
+<suspiciousTextLength>211</suspiciousTextLength>
+<suspiciousTextContent> The patient thought he recognized Clara fantasy in those horrible voices and
+rough trio of Porrenos, flying, wrapped in terrible clouds, giving the wind the voices of
+his impertinence, his bitter spite and envy</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

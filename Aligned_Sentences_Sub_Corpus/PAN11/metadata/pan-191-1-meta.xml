@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03280</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>8822</sourceTextOffset>
+<sourceTextLength>273</sourceTextLength>
+<sourceTextContent>
+
+"Éste -decía yo- es pobre y nadie da lo que no tiene. Mas el avariento ciego y el malaventurado
+mezquino clérigo que, con dárselo Dios a ambos, al uno de mano besada y al otro de lengua suelta,
+me mataban de hambre, aquéllos es justo desamar y aquéste de haber mancilla."
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document06870</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>10462</suspiciousTextOffset>
+<suspiciousTextLength>247</suspiciousTextLength>
+<suspiciousTextContent> 
+
+"This," I said is poor and no one gives what he has not. But the blind and the wretched miser petty
+cleric who, with God give to both the one hand and kissed another loose tongue, starved me, those
+are just having aquesta unlove and undefiled. </suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10578</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>126744</sourceTextOffset>
+<sourceTextLength>269</sourceTextLength>
+<sourceTextContent>
+
+La obscuridad de aquella noche era espantosa. No parecía sino que la naturaleza tomaba su parte
+de complicidad en el crimen.
+
+Entreabrióse el postigo de la casa, y por él salió cautelosamente Fortunato, llevando al hombro,
+cosido en una manta, el cadáver de Aquilino. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document01408</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>614274</suspiciousTextOffset>
+<suspiciousTextLength>247</suspiciousTextLength>
+<suspiciousTextContent> 
+
+The darkness of night was awful. It seemed as if nature took its part of complicity in the crime.
+
+Entreabrióse
+the shutters of the house, and he went cautiously Fortunato, carrying
+over his shoulder, sewn into a blanket, the body of Aquilino.
+</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

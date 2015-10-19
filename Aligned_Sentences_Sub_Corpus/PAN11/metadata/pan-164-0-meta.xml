@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document09087</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>463893</sourceTextOffset>
+<sourceTextLength>226</sourceTextLength>
+<sourceTextContent> Los que llegamos a cierta altura
+somos como los santos que están en las fachadas de las iglesias. De abajo, causan admiración
+por su hermosura; vistos de cerca, producen horror por la fealdad de la piedra roída por el
+tiempo. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05906</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>3296</suspiciousTextOffset>
+<suspiciousTextLength>175</suspiciousTextLength>
+<suspiciousTextContent> We reach a certain height we are like
+saints in the church facades. Below, are admired for their beauty, viewed closely, a horror
+by the ugliness of the stone gnawed by time.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

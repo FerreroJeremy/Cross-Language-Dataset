@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10370</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>387435</sourceTextOffset>
+<sourceTextLength>239</sourceTextLength>
+<sourceTextContent> A propuesta de la enferma, arrendaron una casita en los arrabales de la población,
+para esperar allí la primavera que llegó tarde aquel año, y la convalecencia de la señora de
+Ponce que no vino jamás.
+
+No obstante, era paciente y dichosa. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document09914</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>97450</suspiciousTextOffset>
+<suspiciousTextLength>209</suspiciousTextLength>
+<suspiciousTextContent> A proposal for the sick, rented a house in the suburbs of the population, there to await
+the spring came late this year, and the lady's convalescent Ponce did not come ever.
+
+However, he was patient and happy</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

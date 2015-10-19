@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02128</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>49192</sourceTextOffset>
+<sourceTextLength>229</sourceTextLength>
+<sourceTextContent> Tratamos de los que alborotan aquí.
+
+--Pues le aseguro á usted, señor don Elías de mi alma, que con lo que me ha dado, no tengo
+ni para la correa del zapato del orador más malo de este club.
+
+--Le digo á usted que basta con eso. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document07664</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>112927</suspiciousTextOffset>
+<suspiciousTextLength>176</suspiciousTextLength>
+<suspiciousTextContent> We tried that rampage here.
+
+- Well, I assure you, Don Elias of my soul, that what has given me,
+I have or strap shoe worst speaker of this club.
+
+- I say to you that
+enough.
+</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

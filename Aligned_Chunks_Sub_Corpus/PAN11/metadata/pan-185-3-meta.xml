@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07599</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>3325</sourceTextOffset>
+<sourceTextLength>249</sourceTextLength>
+<sourceTextContent>
+
+En Octubre de aquel año, cansado Agustín de la tediosa vida que en Madrid hacía, marchó a Burdeos,
+donde tenía algunos negocios. Pero inopinadamente volvió sin explicar el motivo de su pronto
+regreso. Tan sólo dijo a Bringas: «Allí me aburría más. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document06596</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>36953</suspiciousTextOffset>
+<suspiciousTextLength>241</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Augustine had grown tired of his tedious life in Madrid and so in October that year he went to Bordeaux
+where he had business to attend to.
+He returned from Bordeaux unexpectedly early and when asked simply
+stated "there I was bored more"</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

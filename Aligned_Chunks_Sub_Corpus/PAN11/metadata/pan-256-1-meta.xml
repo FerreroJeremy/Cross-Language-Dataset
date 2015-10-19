@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04313</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>18008</sourceTextOffset>
+<sourceTextLength>239</sourceTextLength>
+<sourceTextContent>
+
+La hermosura de mis silfos es tal, que si lográsemos fabricar un microscopio bastante poderoso
+para llegar a verlos, envidiaríamos a los varones y nos enamoraríamos desesperadamente de las
+hembras.
+
+Están muy adelantados en civilización. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document09313</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>1952</suspiciousTextOffset>
+<suspiciousTextLength>201</suspiciousTextLength>
+<suspiciousTextContent> 
+
+The beauty of my sylph is such that if we could make a very powerful microscope to get to see them,
+men envy and we desperately fall in love with the females.
+
+They are very advanced in civilization</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

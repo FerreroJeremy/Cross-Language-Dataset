@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08749</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>224510</sourceTextOffset>
+<sourceTextLength>274</sourceTextLength>
+<sourceTextContent> Mira tú, yo no me
+fiaría mucho... Pues sí, puedes estar aquí todo el día; comerás con nosotros, lo poco que haya.
+Después te irás tú a tu alcázar, y nosotros nos quedaremos en nuestra choza. A buen seguro
+que os molestemos... ¡Mira que haciendo yo ahora la mamá contigo...! </sourceTextContent>
+<suspiciousIDDoc>suspicious-document06314</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>1990</suspiciousTextOffset>
+<suspiciousTextLength>202</suspiciousTextLength>
+<suspiciousTextContent> You see, I wouldn't trust
+a lot... Yes, you can be here all day, then you can go to your castle and we will stay here in
+our hut. Surely that will bother you... See what I'm doing with you now?... Mom!</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

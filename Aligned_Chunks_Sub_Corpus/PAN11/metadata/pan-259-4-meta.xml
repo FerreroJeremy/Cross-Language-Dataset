@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01454</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>0</sourceTextOffset>
+<sourceTextLength>260</sourceTextLength>
+<sourceTextContent>Contra un achaque tan inveterado no sé qué remedio pueda haber. El arte de producir oro, la
+Crisopeya, se ha perdido por completo, y ya no tenemos más arte o ciencia en que cifrar nuestras
+esperanzas, a ver si nos saca del atolladero, que la Economía Política. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document09392</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>204920</suspiciousTextOffset>
+<suspiciousTextLength>235</suspiciousTextLength>
+<suspiciousTextContent> Against a pretext so inveterate do not know what remedy may be. The art of producing gold, Crisopeya
+has been completely lost, and we have no more art or science that put our hope, to see if we removed
+the hook, that political economy</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

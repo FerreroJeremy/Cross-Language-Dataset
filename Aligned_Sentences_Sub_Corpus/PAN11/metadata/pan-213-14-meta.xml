@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03857</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>165667</sourceTextOffset>
+<sourceTextLength>258</sourceTextLength>
+<sourceTextContent> Los volátiles
+engordaban luego que era un contento y yo me complacía en comerlos; pero el espectáculo previo,
+causa de la gordura, me afligía bastante. Todavía al pensar en aquello, suelo exclamar con
+el poeta:
+
+    Labitur ex oculis nunc quoque gutta meis.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document07775</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>142060</suspiciousTextOffset>
+<suspiciousTextLength>210</suspiciousTextLength>
+<suspiciousTextContent> Volatile fattened
+then I was a happy and I loved to eat, but the pre-show, Because of the fat, I grieved enough.
+Still thinking of that, ground exclaiming the poet
+
+    Labitur gutta ex oculis meis quoque nunc</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

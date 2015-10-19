@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02591</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>13698</sourceTextOffset>
+<sourceTextLength>253</sourceTextLength>
+<sourceTextContent>
+
+¡Leer! ¡escribir! No sabía el pobre señor que cuando un hombre da en hallar tedioso el curso
+de las horas, no puede dedicarse a nada que le distraiga, porque necesita todo el tiempo para
+aburrirse, por mandato de una ley de la pícara condición humana.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document10203</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>12051</suspiciousTextOffset>
+<suspiciousTextLength>260</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Read! Write! The poor man did not know that when a man gives hours of tedious lectures, that it
+distracts one from being able to be attentive, because it gives one all the necessary time to be bored,
+as mandated by the mischievous law of the human condition</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10900</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>312233</sourceTextOffset>
+<sourceTextLength>252</sourceTextLength>
+<sourceTextContent>
+Los Arupurés, habiendo oído el descarado atrevimiento de aquellos malvados, aunque no tenían
+noticia alguna de los misterios que se obraron en aquel Sagrado leño, llevaron mal aquella
+injuria, y aprobaron el castigo que de ellos había tomado el cielo.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document04505</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>212004</suspiciousTextOffset>
+<suspiciousTextLength>224</suspiciousTextLength>
+<suspiciousTextContent> The
+Arupurés, having heard the brazen audacity of those evil, though they had any news of the mysteries
+that were wrought in that sacred wood, brought badly that injury, and passed the punishment
+that they had taken the sky</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

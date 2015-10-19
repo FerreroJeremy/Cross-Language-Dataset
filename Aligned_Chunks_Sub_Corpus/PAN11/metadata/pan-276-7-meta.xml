@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01261</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>140208</sourceTextOffset>
+<sourceTextLength>256</sourceTextLength>
+<sourceTextContent>
+Sea lo que fuere, dixo Candido, un consuelo tengo, y es que a veces encuentra uno gentes que
+creia no encontrar nunca; y muy bien, podra suceder que despues de haber topado a mi carnero
+encarnado y a Paquita, me halle un dia de manos a boca con Cunegunda. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document09955</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>92802</suspiciousTextOffset>
+<suspiciousTextLength>226</suspiciousTextLength>
+<suspiciousTextContent> Whatever
+it is, "said Candide, a consolation I have, and sometimes finds a people who thought never find,
+and very well may happen that after having met my ram embodied and Paquita, find me one day
+face to face with Cunegonde</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

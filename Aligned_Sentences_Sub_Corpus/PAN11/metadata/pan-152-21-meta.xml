@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05828</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>119528</sourceTextOffset>
+<sourceTextLength>251</sourceTextLength>
+<sourceTextContent>
+Desde que murió tu padre en la guerra contra los carlistas, yo no escribo sino las cuentas.
+
+--Con buena o con mala letra, es menester que tú escribas la carta; yo te la iré dictando.
+
+--Hoy todavía no. ¿Es acaso puñalada de pícaro? ¿Quién nos corre? </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05450</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>178986</suspiciousTextOffset>
+<suspiciousTextLength>232</suspiciousTextLength>
+<suspiciousTextContent> Since
+your father died in the war against the Carlist, but I do not write the bills.
+
+- With good or bad handwriting, it is necessary that you write the
+letter, I will dictate the go.
+
+- Today, yet. Is it rogue dagger?
+Who will run</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

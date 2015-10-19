@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document07651</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>25255</sourceTextOffset>
+<sourceTextLength>230</sourceTextLength>
+<sourceTextContent> Yo las encontraré.»
+
+Justificado así el trabajo que en discurrir iba a tomarse, el Condesito discurrió lo que en
+resumen vamos a exponer.
+
+Las desconocidas eran sevillanas. No podían ser malagueñas, como presumió aquel ignorante.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document03157</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>10781</suspiciousTextOffset>
+<suspiciousTextLength>195</suspiciousTextLength>
+<suspiciousTextContent> "I will find them."
+
+He justified the work that was ongoing in Condesito, and the way the work
+would be carried out. The Seville was unknown.
+
+The ignorant could assume that they would be Malaga</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

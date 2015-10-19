@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05089</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>79508</sourceTextOffset>
+<sourceTextLength>451</sourceTextLength>
+<sourceTextContent>
+
+Gillespie necesitó mostrar su mal humor con palabras ofensivas.
+
+--¿Y qué navíos son esos?... ¿Cómo unos barquitos iguales á juguetes, con sólo la fuerza de
+sus velas, van á poder remolcar mi bote, dentro del cual cabe amontonada toda esa escuadra
+del Sol Naciente?...
+
+--Gentleman--dijo la profesora con sequedad--, nuestros buques no tienen velas; eso fué en
+tiempos remotos. Nuestros navíos navegan á voluntad sobre el agua y por debajo del agua. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05670</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>8509</suspiciousTextOffset>
+<suspiciousTextLength>394</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Gillespie needed to show his temper with offensive words.
+
+"What ships are those? How about being equivalent to toy boats. With only the strength of their candles
+they will be able to tow my boat, in which all can be stacked against
+the squad of the Rising Sun."
+
+"Gentlemen",
+the teacher said dryly ; "our ships with sails was in ancient times.
+Our ships will sail on water and under water.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

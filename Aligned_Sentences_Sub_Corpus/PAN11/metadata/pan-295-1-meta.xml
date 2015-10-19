@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10162</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>10085</sourceTextOffset>
+<sourceTextLength>234</sourceTextLength>
+<sourceTextContent> ¿Era abnegación? ¿Era arranque patriótico? Le declaré
+mi asombro, y me dijo:
+
+--Desde que vino usted a Tablanca, está empeñado en ver visiones a ese propósito. Lo sé por
+algo que usted me ha dicho y otro poco que ha dejado traslucir. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document10792</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>3457</suspiciousTextOffset>
+<suspiciousTextLength>250</suspiciousTextLength>
+<suspiciousTextContent> Was it denial? Was it burgeoning patriotism? I declared my amazement,
+and said "Since you came to Tablanca, I have be committed to seeing
+visions to that purpose.
+
+I know what you have told me, and I know that another has left little
+to support it."</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

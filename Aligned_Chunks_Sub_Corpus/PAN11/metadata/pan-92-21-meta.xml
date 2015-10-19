@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04101</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>6355</sourceTextOffset>
+<sourceTextLength>243</sourceTextLength>
+<sourceTextContent>
+
+En el jardín de Marta se ven y se hablan Fausto y Margarita. Margarita queda ya cautiva, herida
+en el corazón, inflamada por un afecto irresistible e inextinguible.
+
+Sigue a esto un bellísimo soliloquio de Fausto en un bosque. Fausto vacila. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document03762</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>177795</suspiciousTextOffset>
+<suspiciousTextLength>243</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Martha in the garden look and speak Faust and Marguerite. Margarita is now captive, wounded in the
+heart, fired by an irresistible and inexhaustible affection.
+
+This is followed by a beautiful soliloquy of Faust in a forest. Faust
+hesitates</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

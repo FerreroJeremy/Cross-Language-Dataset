@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04668</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>10526</sourceTextOffset>
+<sourceTextLength>263</sourceTextLength>
+<sourceTextContent> La oscuridad creció rápidamente, y ya no le
+permitió ni ver la naranja, ni orientarse, ni dar con el camino para volverse atrás.
+
+Iba pues, vagando a la ventura, afligidísima y muerta de hambre y cansancio, cuando columbró
+no muy lejos unas brillantes lucecitas. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document08120</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>297160</suspiciousTextOffset>
+<suspiciousTextLength>241</suspiciousTextLength>
+<suspiciousTextContent> The darkness grew rapidly, and is no longer allowed
+even see the orange, or directed, or find his way to back out.
+
+He was then wandering aimlessly, much troubled and dying of hunger
+and fatigue, as discerned not far from some bright lights</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

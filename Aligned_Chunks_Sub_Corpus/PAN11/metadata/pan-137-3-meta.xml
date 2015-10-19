@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02328</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>104103</sourceTextOffset>
+<sourceTextLength>256</sourceTextLength>
+<sourceTextContent> Pero el capitan y los demas soldados despreciaron nuestro dictámen, y
+manteniendo el suyo, prosiguieron la marcha: y llegado á media legua de los Carcokies, ya se
+habian plantado á la falda de un monte, cerca de un bosque, para escapar si los venciésemos.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05188</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>3763</suspiciousTextOffset>
+<suspiciousTextLength>243</suspiciousTextLength>
+<suspiciousTextContent> However, the captain as well as his army disdained our thoughts on this and
+kept marching so as to come within a half league of Carcokies. They camped close to a forest
+at the base of a hill so as to be able to get away if the venciesemos....</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

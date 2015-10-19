@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02813</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>259197</sourceTextOffset>
+<sourceTextLength>262</sourceTextLength>
+<sourceTextContent>
+Los 240 números anuales de la =Colección Universal= constituirán una copiosa y elegida biblioteca
+de unos 100 tomos.
+
+La =Colección Universal= admite suscripciones por un trimestre, un semestre y un año. Para
+los suscriptores, el precio del número será de 0,25.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document01281</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>117385</suspiciousTextOffset>
+<suspiciousTextLength>243</suspiciousTextLength>
+<suspiciousTextContent> The
+240 annual issues of the Universal Library = = constitute an abundant and chosen library about 100
+volumes.
+
+The Universal Library = = support subscriptions for a quarter, half
+and one year. To subscribers, the price of the number is 0.25</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

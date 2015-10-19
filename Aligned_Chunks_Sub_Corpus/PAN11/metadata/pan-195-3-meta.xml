@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02813</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>134744</sourceTextOffset>
+<sourceTextLength>274</sourceTextLength>
+<sourceTextContent> Algunos, que
+eran de crecida estatura y traídos del interior de Africa, y que iban ataviados de sus capellares,
+marlotas y turbantes, podrían equivocarse por sus carillas revejidas, sus ojuelos hundidos
+y otros accidentes, con algunos de los viejos dignatarios de la corte.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document07193</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>12901</suspiciousTextOffset>
+<suspiciousTextLength>244</suspiciousTextLength>
+<suspiciousTextContent> Some, height and
+flood were brought from the interior of Africa, and they were dressed in their Capellaro, Marlotes
+and turbans, would err on your veneers revejidas, bright eyes sunken and other accidents,
+some of the old officers of the court</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

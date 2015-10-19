@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03472</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>47440</sourceTextOffset>
+<sourceTextLength>249</sourceTextLength>
+<sourceTextContent>
+
+Pero hoy es un pueblo tosco, de educacion áspera, cuyo pulimento no vendrá sino despues de
+que la sociedad entera haya entrado en una ancha via de libertad, de movimiento y progreso.
+El lenguaje es muy escabroso en todas las clases de la sociedad. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05355</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>142</suspiciousTextOffset>
+<suspiciousTextLength>225</suspiciousTextLength>
+<suspiciousTextContent> 
+
+But today is a people coarse, rough education, whose polish will not come until after the whole
+society has entered into a broad way of freedom of movement and progress. The language is very
+rough on all classes of society</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

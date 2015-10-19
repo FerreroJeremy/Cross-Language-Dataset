@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04679</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>19702</sourceTextOffset>
+<sourceTextLength>275</sourceTextLength>
+<sourceTextContent> Este, mas generoso que
+el hombre, se retira y busca á otro enemigo; rara vez se ceba en una víctima. Ademas, al caer
+un picador todos los toreros acuden á salvarle, y el caido es levantado como una estatua, porque
+sus piernas, entablilladas como están, no tienen movimiento. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document10282</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>5113</suspiciousTextOffset>
+<suspiciousTextLength>248</suspiciousTextLength>
+<suspiciousTextContent> This, more generous than
+men, withdraws and finds another enemy; rarely preys on a victim. Also, all the bullfighters
+comes to save the falling picador, and he is lifted and dropped like a statue, because his legs
+are splinted and they cannot move</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

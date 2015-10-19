@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03472</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>1826</sourceTextOffset>
+<sourceTextLength>235</sourceTextLength>
+<sourceTextContent>
+La primera, que es la capital, cuenta unas 30,000 almas, situada en una vasta llanura, en medio
+de los rios Loira y Cher y á la márgen izquierda del primero. Es una ciudad muy antigua y notabilísima
+en la historia política de Francia. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05355</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>931</suspiciousTextOffset>
+<suspiciousTextLength>236</suspiciousTextLength>
+<suspiciousTextContent> The
+first, which is the capital, has about 30,000 souls, located in a vast plain in the middle of the
+rivers Loire and Cher and to the left bank of the former. It is a very ancient and very remarkable in
+the political history of France</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

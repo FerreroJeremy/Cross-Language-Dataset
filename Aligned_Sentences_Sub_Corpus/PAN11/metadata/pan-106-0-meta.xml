@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01622</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>356643</sourceTextOffset>
+<sourceTextLength>500</sourceTextLength>
+<sourceTextContent>
+
+Yo eché a correr como un loco, en plena noche, llevando como un jirón del corazón de Magdalena
+aquel manojillo de flores en que había ella puesto sus labios e impreso mordeduras que yo saboreaba
+como besos. Caminaba al azar, ebrio de alegría, repitiéndome una frase que me deslumbraba como
+la luz de un sol naciente. No me preocupaba ni de la hora ni de las calles. Después de haberme
+extraviado diez veces en el barrio de París que conocía mejor llegué a los muelles. No encontré
+en ellos a nadie.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document04163</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>1</suspiciousTextOffset>
+<suspiciousTextLength>430</suspiciousTextLength>
+<suspiciousTextContent> 
+
+I started running like crazy, at night, taking a rag from the heart of Magdalena manojillo of flowers
+that had her lips and printed as I savored bites like kisses. Walking at random, drunk with joy, repeating
+a phrase that dazzled me as the light of a rising sun. I was not concerned nor the time or the
+streets. After having lost ten times in the neighborhood of Paris who knew better got to the docks.
+I found them to anyone.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

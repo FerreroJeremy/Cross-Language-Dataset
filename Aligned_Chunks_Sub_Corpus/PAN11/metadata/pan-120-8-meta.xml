@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document06740</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>1085</sourceTextOffset>
+<sourceTextLength>239</sourceTextLength>
+<sourceTextContent>
+
+Ocúrrele pasar a la habitación vecina. Es su alcoba. ¡Soberbio y como encantado tálamo! Hay
+también un sofá cómodo y ancho. No bien da cuatro pasos en aquella pieza, advierte en su interior
+como una pena, como una descomposición general. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document04591</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>128137</suspiciousTextOffset>
+<suspiciousTextLength>210</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Ocúrrele move to the next room. Is your bedroom. Proud and happy as thalamus! There also a comfortable
+sofa and wide. As soon gives four steps in that room, inside warns as a penalty, as a general breakdown.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

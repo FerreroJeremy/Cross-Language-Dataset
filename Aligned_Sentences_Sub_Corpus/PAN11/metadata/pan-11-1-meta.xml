@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01338</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>216341</sourceTextOffset>
+<sourceTextLength>251</sourceTextLength>
+<sourceTextContent>
+
+Después me abrazó, y todavía me dijo antes de moverme yo hacia la puerta de salida, volviéndose
+él hacia la solana:
+
+--Mira, hombre; hasta la ira de Dios parece que se ha calmado también: ya no llueve tanto ni
+truena ni rebomba el viento como antes.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document00410</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>7030</suspiciousTextOffset>
+<suspiciousTextLength>191</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Then I hugged her and moved towards the exit in the laundry room,
+she spoke: - Look man; God's wrath has calmed: the rain has lessened
+and the thunder no longer shakes the wind as before.
+</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

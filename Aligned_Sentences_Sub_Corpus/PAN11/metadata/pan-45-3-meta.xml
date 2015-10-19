@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02419</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>27878</sourceTextOffset>
+<sourceTextLength>249</sourceTextLength>
+<sourceTextContent> Y todo esto, sin contar con el fraude, con la burla, con lo que vulgarmente se
+llama primada. Por cuentecillas de vidrio de colores, por clavos y otras baratijas, tomaban
+los compañeros del capitán Cook cuanto había de bueno y exquisito en Otahiti. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document01657</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>111229</suspiciousTextOffset>
+<suspiciousTextLength>205</suspiciousTextLength>
+<suspiciousTextContent> And all this without the fraud, with the mockery, with what is commonly called the
+premium. By colored glass beads, nails and other trinkets, taking mates as Captain Cook was
+good and exquisite in Otahiti</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05757</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>6274</sourceTextOffset>
+<sourceTextLength>262</sourceTextLength>
+<sourceTextContent> Su gran torso de atleta, se
+movía convulsivamente sobre el lecho, incorporándose unas veces, otras dejándose caer, mientras
+las manos temblorosas y crispadas se ocupaban instintivamente en tirar de la ropa, que a impulso
+de sus bruscas sacudidas se le marchaba.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document03917</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>4747</suspiciousTextOffset>
+<suspiciousTextLength>211</suspiciousTextLength>
+<suspiciousTextContent> His great, muscular chest heaved on
+the bed, hitching sometimes, dropping other. His trembling hands clenched instinctively, taking care to pull
+at the clothes, an impulse now that their sudden shock was ebbing</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

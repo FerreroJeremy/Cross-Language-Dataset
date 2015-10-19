@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document06096</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>222207</sourceTextOffset>
+<sourceTextLength>243</sourceTextLength>
+<sourceTextContent>
+Así, aquel germen de pasión y de inteligencia, guardado en un huevo, se reconocía con vida,
+se reconocía con fuerza, y empezaba a dar picotazos en su cárcel, anhelando respirar fuera
+de ella otros aires y calentarse con calores más enérgicos. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document03155</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>6776</suspiciousTextOffset>
+<suspiciousTextLength>199</suspiciousTextLength>
+<suspiciousTextContent> So,
+that germ of passion, kept in an egg, was recognized with life, recognized with power, and began
+to peck at his prison, yearning to breathe out of her and heat up with more energetic hot
+flashes</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08503</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>416213</sourceTextOffset>
+<sourceTextLength>259</sourceTextLength>
+<sourceTextContent>
+
+La poblacion dé la mision de Magdalena ascendia, en 1820, á dos mil ciento y ocho almas, en
+1832, á dos mil setecientas ochenta y una; por manera que en el espacio de once años el acrecimiento
+de ella habia sido solamente de seicientas setenta y tres almas.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document07058</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>23830</suspiciousTextOffset>
+<suspiciousTextLength>234</suspiciousTextLength>
+<suspiciousTextContent> 
+
+The population of the mission for Magdalena amounted in 1820 to 2100 and eight souls, 1832,
+to two thousand seven hundred eighty-one, for so in the space of eleven years the increase it had been
+only six hundred souls seventy-three</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

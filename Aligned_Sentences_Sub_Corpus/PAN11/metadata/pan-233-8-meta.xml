@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02453</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>3196</sourceTextOffset>
+<sourceTextLength>265</sourceTextLength>
+<sourceTextContent> Mire, ahí vienen
+las carretas con las últimas cañas pa probar la máquina... Allá lejos se ve el boyero en su
+mula, y más lejos entoavía, por la otra guardarraya, veo ahora a don Liborio. El cañaveral
+me tapa sus perros y yo no pueo decir si va solo o con la gente. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document08482</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>36468</suspiciousTextOffset>
+<suspiciousTextLength>280</suspiciousTextLength>
+<suspiciousTextContent> Look, her come the carts
+with the latest rods with which to test the machine!... But look yonder, see the herdsmen
+with their mules? And further still, on the other avenue, now I see Don Liborio. With my
+cane I cover their dogs, and I cannot say if they are alone, or with
+people</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

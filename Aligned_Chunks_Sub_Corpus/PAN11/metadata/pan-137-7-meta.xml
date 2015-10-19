@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02328</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>40164</sourceTextOffset>
+<sourceTextLength>261</sourceTextLength>
+<sourceTextContent>
+
+Juan de Oyolas llega á la tierra de los Naperús y Samocosis, y es muerto á la vuelta con todos
+los cristianos.
+
+Partido Juan de Oyolas con los 300 españoles y 300 indios, llegó á los Naperús, amigos y aliados
+de los Payaguás, que se mantenian de caza y pesca. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05188</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>13704</suspiciousTextOffset>
+<suspiciousTextLength>260</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Juan Oyola came to Naperus and Samocosis, and is now dead, with his
+back turned to the Christians.
+
+Juan's
+group of men, 300 Spanish and 300 indigenous folks, came to Naperus
+aligned and friendly with the Payagua. Here, they stayed in order
+to hunt and fish</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05171</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>0</sourceTextOffset>
+<sourceTextLength>481</sourceTextLength>
+<sourceTextContent>Los patios, en Córdoba y en otras ciudades de la provincia, son como los de Sevilla, cercados
+de columnas de mármol, enlosados y con fuentes y flores. En los lugares más pequeños no suelen
+ser tan ricos ni tan regulares y arquitectónicos; pero las flores y las plantas están cuidadas
+con más amor, con verdadero mimo. La señora, en la primavera y en las tardes y noches de verano,
+suele estar cosiendo o de tertulia en el patio, cuyos muros se ven cubiertos de un tapiz de
+verdura. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document11070</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>170955</suspiciousTextOffset>
+<suspiciousTextLength>434</suspiciousTextLength>
+<suspiciousTextContent> The patios in Cordoba and other cities of the province, are like those of Seville, surrounded
+marble columns, pavements and fountains and flowers. In the smaller places are often be so rich
+or so regular and architectural, but the flowers and plants are kept more love, with real care.
+The lady, in the spring and the summer evenings, usually sewing or gathering in the courtyard, whose
+walls are covered with a carpet of vegetables.</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

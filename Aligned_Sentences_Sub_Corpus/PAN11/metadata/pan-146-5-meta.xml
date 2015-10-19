@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02474</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>6808</sourceTextOffset>
+<sourceTextLength>254</sourceTextLength>
+<sourceTextContent> La decoración representaba unas cavernas del infierno, aunque
+no era imposible que alguien creyese que se trataba de la bodega de un barco. El acto comenzaba
+por un preludio de la orquesta, dignamente dirigida por el señor Anselmo, ebanista de la villa.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05379</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>27159</suspiciousTextOffset>
+<suspiciousTextLength>219</suspiciousTextLength>
+<suspiciousTextContent> The decor represented caverns of hell, but it was not impossible
+that someone believed that it was the hold of a ship. The event began a prelude to the orchestra,
+led by Mr dignity Anselmo, a carpenter from the village</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

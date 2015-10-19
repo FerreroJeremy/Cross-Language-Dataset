@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05450</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>314113</sourceTextOffset>
+<sourceTextLength>493</sourceTextLength>
+<sourceTextContent>
+Tan embebecido iba Miguel en sus pensamientos, los cuales le mortificaban más de lo que nunca
+imaginara, que al pasar por la calle del Príncipe no vio dos bultos echados en la acera hasta
+que tropezó con ellos. Eran dos niños, el menor de los cuales dormía o descansaba con la cabeza
+apoyada en las rodillas del mayor. El frío era intenso. Miguel observó a la luz del farol la
+extremada palidez de ambos, sobre todo del más pequeño.
+
+--Oyes, chico, ¿cómo tienes aquí a este niño medio helado? </sourceTextContent>
+<suspiciousIDDoc>suspicious-document04993</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>33624</suspiciousTextOffset>
+<suspiciousTextLength>460</suspiciousTextLength>
+<suspiciousTextContent> Miguel
+was so astounded in their thoughts, which mortified him more than ever imagined, which passes
+through the Prince's street was not thrown two bags at the curb until encountered with them.
+There were two children, the youngest of whom slept or rested his head resting on the knees of
+the elderly. The cold was intense. Miguel looked at the lantern light extreme pallor of both,
+especially the youngest.
+
+- Listen, boy, how this child got here half frozen</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

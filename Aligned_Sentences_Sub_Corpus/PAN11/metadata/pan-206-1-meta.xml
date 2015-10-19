@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01763</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>13974</sourceTextOffset>
+<sourceTextLength>497</sourceTextLength>
+<sourceTextContent>
+
+No quiero, pues, alterar la verdad de mi historia e ir contra esta ley del progreso humano,
+convirtiendo en un monstruo al Conde de Alhedín. Atengámonos a la verdad.
+
+El Condesito, según he declarado ya, era un excelente chico, ligero, amigo de divertirse, muy
+tentado de la risa, pero mejor que el pan.
+
+Su madre, la Condesa viuda, le idolatraba y le había mimado siempre; pero los mimos, lejos
+de pervertir las buenas naturalezas, las hacen mejores y más dulces; convierten la hiel en almíbar.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document07621</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>89482</suspiciousTextOffset>
+<suspiciousTextLength>451</suspiciousTextLength>
+<suspiciousTextContent> 
+
+I would not, therefore, alter the truth of my story and go against this law of human progress
+becoming a monster Alhedín Count. Let's stick to the truth.
+
+The Condesito, as I said already, was a great guy, light, fun friend,
+very tempted to laugh, but better than bread.
+
+His mother, the Dowager Countess, idolized him and pampered him forever,
+but the pampering, far to pervert the good natures, make them better
+and sweeter the gall to make syrup</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

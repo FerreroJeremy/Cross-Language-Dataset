@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01021</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>205216</sourceTextOffset>
+<sourceTextLength>243</sourceTextLength>
+<sourceTextContent> Le vieron entrar en casa de Estrada-Rosa y hasta oyeron el ruido del picaporte.
+Nada más. Inmediatamente se abrieron de par en par los balcones del café y se llenaron. Los
+que no tenían sitio se encaramaron en sillas detrás de sus compañeros. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document04763</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>79760</suspiciousTextOffset>
+<suspiciousTextLength>217</suspiciousTextLength>
+<suspiciousTextContent> They saw him enter the house of Estrada-Rosa and even heard the sound of the latch.
+Nothing more. Immediately opened wide balconies and filled coffee. The that there was no room
+clambered on chairs behind their peers</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

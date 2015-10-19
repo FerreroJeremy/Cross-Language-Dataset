@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document09422</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>6752</sourceTextOffset>
+<sourceTextLength>229</sourceTextLength>
+<sourceTextContent>
+
+Más de dos años vivió Beatriz, de viuda, con el más profundo y sincero duelo en el alma.
+
+Se retiró al lugar de su nacimiento, donde hizo vida ejemplar y propia de una santa.
+
+A la memoria de don Braulio rendía verdadero culto.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05670</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>1</suspiciousTextOffset>
+<suspiciousTextLength>218</suspiciousTextLength>
+<suspiciousTextContent> 
+
+He stayed with the widow Beatrice for a couple of years, feeling his sadness.
+Then he retired to the place he was born, and his life was befitting
+that of a saint, rendering sincere worship in Don Braulio's memory.
+</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05450</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>100470</sourceTextOffset>
+<sourceTextLength>270</sourceTextLength>
+<sourceTextContent> «Terminado el examen de conciencia--dijo
+una vez don Juan--el niño se prosternará ante una imagen de Jesús crucificado (el cura tendió
+la vista en torno, y no viendo ninguna, dijo cambiando de tono:)--A ver, Miguel, ve al oratorio
+y trae el crucifijo grande de madera.» </sourceTextContent>
+<suspiciousIDDoc>suspicious-document04993</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>34213</suspiciousTextOffset>
+<suspiciousTextLength>262</suspiciousTextLength>
+<suspiciousTextContent> "After the examination of conscience - said
+Once Don Juan - the child praying before an image of Jesus crucified (the priest tended the view
+around, and seeing none, he said, changing his tone:) - So, Michael, go to chapel and brings the
+large wooden crucifix. </suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

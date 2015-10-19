@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04101</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>2141</sourceTextOffset>
+<sourceTextLength>240</sourceTextLength>
+<sourceTextContent> Del mismo modo debe mucho
+Fausto a Goethe y Goethe a Fausto. No es extraño que Goethe se apoderase de él en su primera
+juventud, y no le dejase durante más de 50 años, hasta cumplir 82. ¿Cuánto no escribió Goethe
+en este medio siglo largo? </sourceTextContent>
+<suspiciousIDDoc>suspicious-document10618</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>30883</suspiciousTextOffset>
+<suspiciousTextLength>204</suspiciousTextLength>
+<suspiciousTextContent> Similarly owes much Goethe's
+Faust Goethe and Faust. No wonder Goethe seize him in his first youth, and not leave him for
+over 50 years, until age 82. What Goethe did not write in this half century long?</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

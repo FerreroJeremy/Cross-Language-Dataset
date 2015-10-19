@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03857</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>71877</sourceTextOffset>
+<sourceTextLength>248</sourceTextLength>
+<sourceTextContent>
+
+Es menester que aparezca el super-hombre. Cuantos obstáculos se opongan a su aparición deben
+ser destruidos. Nada de piedad, nada de conmiseración. Tales sentimientos son mera y vil flaqueza
+indigna del grande hombre, del super-hombre en ciernes. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document07775</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>141837</suspiciousTextOffset>
+<suspiciousTextLength>222</suspiciousTextLength>
+<suspiciousTextContent> 
+
+It is necessary to display the super-man. Every obstacle that hampers their emergence must be
+destroyed. No pity, no pity. Such sentiments are pure and vile weakness unworthy of the great man,
+the superman in the making</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

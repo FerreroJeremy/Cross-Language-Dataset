@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document01097</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>24349</sourceTextOffset>
+<sourceTextLength>233</sourceTextLength>
+<sourceTextContent>
+En el teatro, el general se viene a nuestro palco y está con nosotras un entreacto y un acto
+entero y a veces hasta dos entreactos. Dice una chuscada; eso sí, limpia siempre y sin olorcillo
+de cuartel, y mamá se destornilla de risa. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document06528</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>116521</suspiciousTextOffset>
+<suspiciousTextLength>221</suspiciousTextLength>
+<suspiciousTextContent> He
+has a habit of coming to our box when in the theater and stays for one act and perhaps the intermission
+before and after. He behaves pleasantly while there and is not offensive in his person and causes
+Mother to laugh</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

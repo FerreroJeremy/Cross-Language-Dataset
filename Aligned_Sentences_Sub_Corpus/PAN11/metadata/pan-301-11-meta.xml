@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document03857</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>107455</sourceTextOffset>
+<sourceTextLength>272</sourceTextLength>
+<sourceTextContent> ¿Quién puede deleitarse al
+ver en realidad al alguien que se arroja por un balcón desde un quinto piso y se hace una tortilla,
+o a gentes que se dan de puñaladas, que toman veneno o que se mueren de hambre, de miseria,
+de tisis o de otras enfermedades contagiosas y feas? </sourceTextContent>
+<suspiciousIDDoc>suspicious-document11016</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>511913</suspiciousTextOffset>
+<suspiciousTextLength>226</suspiciousTextLength>
+<suspiciousTextContent> Who can enjoy the to actually
+see someone who throws a fifth floor balcony and made an omelet, or people who give of stabbings, to
+take poison or die of hunger, poverty, of tuberculosis or other contagious illnesses and ugly?</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08173</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>10024</sourceTextOffset>
+<sourceTextLength>263</sourceTextLength>
+<sourceTextContent>
+
+Detrás de don Recaredo llegaron de un golpe, por haberse juntado unos en el camino y todos
+a la puerta de la casona, hasta cinco pudientes, más o menos ligados a ella por parentesco
+lejano o amistad antigua, de las orillas del Nansa, aguas arriba y aguas abajo.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document10629</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>57361</suspiciousTextOffset>
+<suspiciousTextLength>239</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Recaredo Don came back at once, for having put together a few on the road and all at the door
+of the house, up to five wealthy, more or less bound to her by blood distant or ancient friendship,
+Nansa the banks of upstream and downstream</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

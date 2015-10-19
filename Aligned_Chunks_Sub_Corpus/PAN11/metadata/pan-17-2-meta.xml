@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document04647</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>4961</sourceTextOffset>
+<sourceTextLength>274</sourceTextLength>
+<sourceTextContent> Sencilla y elegantemente vestida, llevaba
+en la airosa cabeza un gracioso sombrero de paja de Italia y pendiente del brazo izquierdo
+un ligero canastillo de mimbre. Aquel día no eran la meditación y la contemplación de las bellezas
+naturales el único propósito de su paseo. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document00559</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>9858</suspiciousTextOffset>
+<suspiciousTextLength>237</suspiciousTextLength>
+<suspiciousTextContent> Simple and elegantly dressed; wearing a Italian straw
+hat on a graceful head and in the slope of the left arm a small wicker basket. The day was not
+for meditiation and contemplation of the natural beauty but for the
+purpose of the trip</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

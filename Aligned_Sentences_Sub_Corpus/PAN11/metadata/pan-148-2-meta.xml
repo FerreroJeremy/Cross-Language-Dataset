@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10460</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>16699</sourceTextOffset>
+<sourceTextLength>269</sourceTextLength>
+<sourceTextContent>
+
+Don Mateo, anciano decrépito, no sólo estropeado por los años, sino por multitud de achaques
+adquiridos con una vida harto disipada, era la alegría de la villa de Sarrió. Ninguna fiesta,
+ningún regocijo público o privado se efectuaba en el pueblo sin su intervención. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document05406</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>59970</suspiciousTextOffset>
+<suspiciousTextLength>256</suspiciousTextLength>
+<suspiciousTextContent> 
+
+Don Mateo, decrepit old man, not only spoiled by the years, but by a multitude of ailments acquired
+a life of dissipation sick, was the joy of the town of Sarrió. No party any private or public
+rejoicing in the village was done without your intervention</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

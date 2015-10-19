@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document08331</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>63451</sourceTextOffset>
+<sourceTextLength>274</sourceTextLength>
+<sourceTextContent> Su arquitectura elegante es gótica, sin
+  mezcla de escuelas, y cautiva y sorprende su belleza. En las
+  bóvedas subterráneas del templo reposan en tumbas de mármol
+  todos los que fueron monarcas de la Francia.
+
+  Los mercados de Paris son tambien dignos de ser vistos[5].
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document10653</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>20725</suspiciousTextOffset>
+<suspiciousTextLength>234</suspiciousTextLength>
+<suspiciousTextContent> Gothic architecture is elegant without mixed
+  schools, and captivates and amazes its beauty. In underground
+  vaults of the temple are buried in marble tombs all who were
+  kings of France.
+
+  Paris markets are also worth seeing [5]</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

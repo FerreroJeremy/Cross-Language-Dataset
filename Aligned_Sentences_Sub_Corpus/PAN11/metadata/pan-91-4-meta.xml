@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document10311</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>992</sourceTextOffset>
+<sourceTextLength>231</sourceTextLength>
+<sourceTextContent> Esto, en primer
+lugar. En segundo lugar, pretendía que se prestara a servir de conducto por medio del cual
+seña Josefa, o en su defecto la nieta, recibiera una pensión mensual de veinte y cinco duros
+y medio por tiempo indefinido.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document03721</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>14282</suspiciousTextOffset>
+<suspiciousTextLength>213</suspiciousTextLength>
+<suspiciousTextContent> THIS WAS THE FIRST
+PLACE. IN THE SECOND PLACE, SUPPORT WAS INTENDED TO SERVE AS A CONDUIT THROUGH WHICH JOSEFA
+MAY SIGN OR ELSE THE GRANDDAUGHTER WILL RECIEVE A MONTHLY PENSION
+OF TWENTY FIVE DOLLARS INDEFINITELY</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

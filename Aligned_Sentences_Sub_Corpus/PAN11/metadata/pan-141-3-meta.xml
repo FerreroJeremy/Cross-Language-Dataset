@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document02112</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>20685</sourceTextOffset>
+<sourceTextLength>234</sourceTextLength>
+<sourceTextContent> ¿Qué ha perdió?
+
+--Mi marido, contestó de plano María de Regla.
+
+Lo inopinado de la pregunta no la dio tiempo a ocultar aquello que más fijo tenía en el pensamiento.
+
+--¡Su marío! replicó asombrada la carnicera. Pué échatelo a buscá.
+</sourceTextContent>
+<suspiciousIDDoc>suspicious-document05270</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>17976</suspiciousTextOffset>
+<suspiciousTextLength>227</suspiciousTextLength>
+<suspiciousTextContent> What has been lost?
+
+My husband, replied Mariá de Regla flatly.
+
+The suddenness of the question had given no time to disguise her
+thoughts.
+
+"Your Mario", the butcher said unbelievingly. Have you
+thrown yourself into a search</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>true</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>

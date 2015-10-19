@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<sourceIDDoc>source-document05515</sourceIDDoc>
+<sourceTextLanguage>es</sourceTextLanguage>
+<sourceTextOffset>289885</sourceTextOffset>
+<sourceTextLength>248</sourceTextLength>
+<sourceTextContent>
+El Rey tiene gran empeño en estas nupcias, y la Reina dice que quiere ser madrina del bodorrio.
+Ahora es ella. La dama está fuera de sí, y el hidalguillo se rompe la cabeza para inventar
+un ardid cualquiera que le saque de tan espantoso laberinto. </sourceTextContent>
+<suspiciousIDDoc>suspicious-document08066</suspiciousIDDoc>
+<suspiciousTextLanguage>en</suspiciousTextLanguage>
+<suspiciousTextOffset>148247</suspiciousTextOffset>
+<suspiciousTextLength>232</suspiciousTextLength>
+<suspiciousTextContent> The
+King has a great commitment to this wedding, and the Queen says she wants to be godmother of bodorrio.
+Now she is. The lady is beside himself, and agonizes hidalguillo to invent a trick anyone
+so frightening you out of the maze</suspiciousTextContent>
+<equivalentType>translation</equivalentType>
+<manualObfuscation>false</manualObfuscation>
+<automaticNoise>false</automaticNoise>
+</info>
