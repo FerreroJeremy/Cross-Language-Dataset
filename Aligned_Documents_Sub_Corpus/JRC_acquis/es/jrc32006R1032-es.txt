@@ -1,0 +1,433 @@
+Reglamento (CE) n o 1032/2006 de la Comisi%oacute%n, de 6 de julio de 2006 , por el que se establecen requisitos para los sistemas autom%aacute%ticos de intercambio de datos de vuelo a efectos de notificaci%oacute%n, coordinaci%oacute%n y transferencia de vuelos entre dependencias de control del tr%aacute%nsito a%eacute%reo (Texto pertinente a efectos del EEE) 
+Reglamento (CE) no 1032/2006 de la Comisión 
+de 6 de julio de 2006 
+por el que se establecen requisitos para los sistemas automáticos de intercambio de datos de vuelo a efectos de notificación, coordinación y transferencia de vuelos entre dependencias de control del tránsito aéreo 
+(Texto pertinente a efectos del EEE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) no 552/2004 del Parlamento Europeo y del Consejo, de 10 de marzo de 2004, relativo a la interoperabilidad de la red europea de gestión del tránsito aéreo (Reglamento de interoperabilidad) [1], y, en particular, su artículo 3, apartado 1, 
+Visto el Reglamento (CE) no 549/2004 del Parlamento Europeo y del Consejo, de 10 de marzo de 2004, por el que se fĳa el marco para la creación del cielo único europeo (Reglamento marco) [2], y, en particular, su artículo 8, apartado 2, 
+Considerando lo siguiente: 
+(1) La gestión del tránsito aéreo requiere mecanismos seguros y eficientes para la notificación, coordinación y transferencia de vuelos entre dependencias de control del tránsito aéreo. La disponibilidad de esos mecanismos en la red europea de gestión del tránsito aéreo requiere el intercambio automático de los datos de vuelo entre los correspondientes sistemas de tratamiento de datos de vuelo. El examen de la situación actual en la Comunidad ha puesto de manifiesto que, en determinados Estados miembros, esos mecanismos no han alcanzado aún un nivel satisfactorio y requieren nuevas mejoras. Por consiguiente, es necesario establecer requisitos para los sistemas de tratamiento de datos de vuelo en lo que se refiere a la interoperabilidad, las prestaciones y la calidad de servicio de sus funciones de intercambio de datos de vuelo. 
+(2) Se ha otorgado mandato a la Organización Europea para la Seguridad de la Navegación Aérea (Eurocontrol) con arreglo al artículo 8, apartado 1, del Reglamento (CE) no 549/2004 a fin de que elabore requisitos para los sistemas automáticos de intercambio de datos de vuelo a efectos de notificación, coordinación y transferencia de vuelos. El presente Reglamento se basa en el informe del 31 de marzo de 2005, resultante de dicho mandato. 
+(3) La norma de Eurocontrol para el intercambio de datos en línea se adjuntó al Reglamento (CE) no 2082/2000 de la Comisión, de 6 de septiembre de 2000, por el que se adoptan normas de Eurocontrol y se modifica la Directiva 97/15/CE, por el que se adoptan normas de Eurocontrol y se modifica la Directiva 93/65/CEE [3], por lo que su uso es obligatorio en la Comunidad en caso de contratación de nuevos sistemas de tratamiento de datos de vuelo. Dado que el Reglamento (CE) no 2082/2000 se derogó con efecto a partir del 20 de octubre de 2005, es necesario actualizar la legislación comunitaria, para garantizar la coherencia de las disposiciones reglamentarias pertinentes. 
+(4) El presente Reglamento no debe abarcar las operaciones y entrenamiento militares a que se refiere el artículo 1, apartado 2, del Reglamento (CE) no 549/2004. 
+(5) Los Estados miembros se comprometieron, en una Declaración sobre aspectos militares relacionados con el cielo único europeo [4], a cooperar entre sí, teniendo en cuenta las exigencias militares nacionales, a fin de que el concepto de utilización flexible del espacio aéreo se aplique plenamente y de manera uniforme en todos los Estados miembros por parte de todos los usuarios del espacio aéreo. 
+(6) La aplicación del concepto de utilización flexible del espacio aéreo, definida en el artículo 2, apartado 22, del Reglamento (CE) no 549/2004, requiere el establecimiento de sistemas para un pronto intercambio de los datos de vuelo entre dependencias de control del tránsito aéreo y dependencias militares de control. 
+(7) Los procesos automatizados de notificación y coordinación inicial deben ser aplicados por los centros de control de área para proporcionar información de vuelo coherente a las dependencias de transferencia y recepción y para apoyar la coordinación de las transferencias de vuelo previstas. Se trata de parte de los requisitos que establece el Reglamento (CE) no 2082/2000, por lo que deberían aplicarse cuando entre en vigor el presente Reglamento. 
+(8) La información de vuelo transmitida durante el proceso de coordinación inicial debe mantenerse actualizada. Por consiguiente, los procesos automatizados deben aplicarse de forma progresiva, para permitir la revisión de la información relacionada con vuelos que hayan estado sujetos previamente a un proceso de coordinación inicial o a la anulación de la coordinación cuando el vuelo deje de afectar a la dependencia receptora. 
+(9) Las dependencias de control del tránsito aéreo distintas de los centros de control de área podrían sacar provecho de la aplicación de procesos automatizados a efectos de notificación, coordinación inicial, revisión de la coordinación y anulación de la coordinación de vuelos. Si eligen esta opción, la necesidad de interoperabilidad de la red europea de gestión del tránsito aéreo (en lo sucesivo, EATMN) supondrá la aplicación de los mismos requisitos que se aplican a los centros de control de área. 
+(10) El pronto intercambio de datos de vuelo entre las dependencias de servicios de tránsito aéreo y las dependencias militares de control debe basarse en la aplicación progresiva de procesos automatizados. Un primer paso sería la introducción de la transmisión de datos de vuelo básico entre esas dependencias civiles y militares, junto con la posibilidad de actualizarlos según proceda. 
+(11) Se han identificado procesos automatizados adicionales que podrían reforzar la coordinación entre las dependencias de control del tránsito aéreo o entre las dependencias de servicios de tránsito aéreo y las dependencias militares de control. Si se deciden aplicar estos procesos automatizados adicionales, la necesidad de interoperabilidad de la EATMN requiere que se apliquen requisitos armonizados a estos procesos. 
+(12) La aplicación del presente Reglamento debe permitir que se avance en su desarrollo para alcanzar niveles más altos de interoperabilidad. 
+(13) Con vistas a mantener o incrementar los actuales niveles de seguridad de las operaciones, los Estados miembros deben garantizar la realización por las partes a quien corresponda de una evaluación de la seguridad que incluya la determinación de la situación peligrosa y el análisis y mitigación de riesgos. La aplicación armonizada de estos procesos a los sistemas amparados por este Reglamento requiere que se determinen requisitos específicos de seguridad para todos los requisitos obligatorios de interoperabilidad, prestaciones y calidad del servicio. 
+(14) De conformidad con el artículo 3, apartado 3, letra d), del Reglamento (CE) no 552/2004, las medidas de ejecución en materia de interoperabilidad deben describir los procedimientos específicos de evaluación de la conformidad que deberán utilizarse para evaluar la conformidad o la idoneidad para el uso de componentes así como la verificación de los sistemas. 
+(15) De conformidad con el artículo 10, apartados 1 y 2, del Reglamento (CE) no 552/2004, las fechas de aplicación de las disposiciones transitorias podrán especificarse en las correspondientes medidas de ejecución en materia de interoperabilidad. 
+(16) Debe concederse a los fabricantes y a los proveedores de servicios de navegación aérea un plazo para desarrollar nuevos componentes y sistemas conformes a los nuevos requisitos técnicos. 
+(17) Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité del cielo único establecido por el artículo 5 del Reglamento (CE) no 549/2004. 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+Objetivo y ámbito de aplicación 
+1. El presente Reglamento establece los requisitos para el intercambio automático de datos de vuelo a efectos de notificación, coordinación y transferencia de vuelos entre dependencias de control del tránsito aéreo y para la coordinación civil-militar. 
+2. El presente Reglamento se aplicará a: 
+a) los sistemas de tratamiento de datos de vuelo al servicio de las dependencias de control del tránsito aéreo que prestan sus servicios al tránsito aéreo general; 
+b) los sistemas de intercambio de datos de vuelo que apoyen los procedimientos de coordinación entre dependencias de servicios de tránsito aéreo y dependencias militares de control. 
+3. No obstante, el presente Reglamento no se aplicará al intercambio de datos de vuelo entre las dependencias de control del tránsito aéreo que utilicen los sistemas de tratamiento de datos de vuelo definidos en el apartado 2 y para los cuales los datos de vuelo cubiertos por el presente Reglamento se sincronicen por medio de un sistema común. 
+Artículo 2 
+Definiciones 
+1. A efectos del presente Reglamento, se aplicarán las definiciones establecidas por el Reglamento (CE) no 549/2004. 
+2. Además de las definiciones contempladas en el apartado 1, se aplicarán las definiciones siguientes: 
+1) "notificación", la transmisión de datos realizada por la dependencia de transferencia para actualizar el sistema en la dependencia receptora como preparación de la coordinación; 
+2) "coordinación", la coordinación entre dependencias de control del tránsito aéreo del paso previsto de vuelos por el límite común, con el fin de garantizar la seguridad de los vuelos; 
+3) "dependencia de control del tránsito aéreo" (denominado en lo sucesivo "dependencia ATC"), según las circunstancias, centro de control de área, dependencia de control de aproximación o torre de control de un aeródromo; 
+4) "coordinación civil-militar", la coordinación entre las partes civiles y militares con capacidad de decisión y de marcar pautas de actuación; 
+5) "sistema de tratamiento de datos de vuelo", la parte de un sistema de servicios de tránsito aéreo que recibe, procesa automáticamente y distribuye a, los puestos de trabajo de las dependencias de control de tránsito aéreo, los datos del plan de vuelo y los mensajes asociados; 
+6) "dependencia de servicios de tránsito aéreo" (denominado en lo sucesivo "dependencia ATS"), la dependencia, civil o militar, responsable de prestar servicios de tránsito aéreo; 
+7) "dependencia militar de control", cualquier dependencia militar fija o móvil encargada de las operaciones de tránsito aéreo o de otras actividades que, por su naturaleza, puedan requerir la reserva o restricción del espacio aéreo; 
+8) "dependencia de transferencia", la dependencia de control del tránsito aéreo en proceso de transferir la responsabilidad de prestar el servicio de control del tránsito aéreo a una aeronave a la siguiente dependencia ATC en la ruta de vuelo; 
+9) "dependencia receptora", la dependencia de control del tránsito aéreo que recibe los datos; 
+10) "límite", un plano lateral o vertical que delimita el espacio aéreo en el que una dependencia ATC presta servicios de tránsito aéreo; 
+11) "centro de control de área" (denominado en lo sucesivo "ACC"), una dependencia creada para prestar un servicio de control del tránsito aéreo a vuelos controlados en las áreas de control bajo su responsabilidad; 
+12) "puesto de trabajo", el material y el equipo técnico con que un miembro del personal dedicado a los servicios de tránsito aéreo realiza las tareas correspondientes a su trabajo; 
+13) "plan de vuelo", la información especificada y proporcionada a las dependencias de servicios de tránsito aéreo en relación con un vuelo o un tramo de vuelo previsto para una aeronave; 
+14) "aviso", un mensaje visualizado en un puesto de trabajo cuando ha fallado el proceso de coordinación automático; 
+15) "datos estimados", el punto de coordinación, el tiempo estimado de una aeronave y el nivel de vuelo previsto de la aeronave en el punto de coordinación; 
+16) "radar secundario de vigilancia" (denominado en lo sucesivo "SSR"), un sistema de radar de vigilancia que usa transmisores o receptores y transpondedores; 
+17) "carta de acuerdo", un acuerdo entre dos dependencias ATC adyacentes en el que se especifica cómo deberán coordinarse sus responsabilidades ATC respectivas; 
+18) "punto de transferencia de control", un punto en el itinerario de vuelo de una aeronave en que la responsabilidad de prestar servicios de tránsito aéreo a la aeronave se transfiere de una dependencia ATC a la siguiente; 
+19) "datos de coordinación", los datos de interés para el personal operativo en relación con el proceso de notificación, coordinación y transferencia de vuelos y con el proceso de coordinación civil-militar; 
+20) "nivel de vuelo de transferencia", el nivel de vuelo acordado durante la coordinación si se encuentra en el nivel de vuelo, o el nivel de vuelo autorizado al que se dirige si asciende o desciende en los alrededores del punto de coordinación; 
+21) "dependencia receptora", la dependencia de control del tránsito aéreo que vaya a tomar el control de una aeronave; 
+22) "punto de coordinación" (denominado en lo sucesivo "COP"), un punto en el límite o adyacente al límite utilizado por las dependencias ATC y mencionado en los procesos de coordinación; 
+23) "dependencia notificada", la dependencia ATC que ha recibido la notificación; 
+24) "correlación", el proceso que consiste en relacionar datos del plan de vuelo con la traza radar del mismo vuelo; 
+25) "transferencia", la autorización por el controlador que transfiere la aeronave al controlador de la dependencia receptora para que emita instrucciones de control a la aeronave previas a su paso por el punto de transferencia de control; 
+26) "disponibilidad", el grado en que un sistema o componentes está operativo y accesible cuando se requiere su utilización; 
+27) "fiabilidad", la probabilidad de que las instalaciones de tierra funcionen dentro de las tolerancias especificadas. 
+Artículo 3 
+Requisitos de interoperabilidad y prestaciones 
+1. Los proveedores de servicios de navegación aérea garantizarán que los sistemas a que se refiere el artículo 1, apartado 2, letra a), y los ACC en servicio cumplan los requisitos de interoperabilidad y prestaciones que se especifican en el anexo I, partes A y B. 
+2. Los proveedores de servicios de navegación aérea que hayan especificado en su carta de acuerdo que aplicarán los procesos de notificación, coordinación inicial, revisión de la coordinación, anulación de la coordinación, datos básicos de vuelo o cambio de los datos básicos de vuelo entre las dependencias ATC distintas de las dependencias ACC, garantizarán que los sistemas a que se refiere el artículo 1, apartado 2, letra a), cumplan los requisitos de interoperabilidad y prestaciones que se especifican en el anexo I, partes A y B. 
+3. Los proveedores de servicios de navegación aérea que hayan especificado en su carta de acuerdo que aplicarán los procesos de notificación y coordinación previos a la salida, de cambio de frecuencia o de aceptación manual de comunicaciones, garantizarán que los sistemas a que se refiere el artículo 1, apartado 2, letra a), cumplan los requisitos de interoperabilidad y prestaciones que se especifican en el anexo I, partes A y C. 
+4. Los Estados miembros garantizarán que los sistemas a que se refiere el artículo 1, apartado 2, letra b), cumplan los requisitos de interoperabilidad y prestaciones que se especifican en el anexo I, partes A y B, en lo que se refiere a los procesos de datos básicos de vuelo y cambio de datos básicos de vuelo. 
+5. Cuando las dependencias de servicios de tránsito aéreo y las dependencias militares de control hayan aplicado entre sus sistemas a que se refiere el artículo 1, apartado 2, letra b), los procesos de notificación de intención de paso, solicitud de autorización de paso, contrapropuesta de paso o cancelación de paso, los Estados miembros garantizarán que estos sistemas cumplan los requisitos de interoperabilidad y prestaciones que se especifican en el anexo I, partes A y C. 
+Artículo 4 
+Requisitos de calidad del servicio 
+1. Los proveedores de servicios de navegación aérea garantizarán que los sistemas a que se refiere el artículo 1, apartado 2, letra a), cumplan los requisitos de calidad del servicio que se especifican en el anexo II. 
+2. Los Estados miembros garantizarán que los sistemas a que se refiere el artículo 1, apartado 2, letra b), cumplan los requisitos de calidad del servicio que se especifican en el anexo II. 
+Artículo 5 
+Procedimientos asociados 
+1. Para un vuelo sujeto a coordinación inicial, las condiciones de transferencia acordadas para un vuelo serán vinculantes a nivel operativo para ambas dependencias ATC, salvo que la coordinación sea anulada o revisada. 
+2. Para un vuelo sujeto a revisión de coordinación, las condiciones de transferencia acordadas para un vuelo serán vinculantes a nivel operativo para ambas dependencias ATC, salvo que la coordinación sea anulada o se vuelvan a revisar las condiciones. 
+3. En caso de que no se confirme que se han llevado a término los procesos de revisión de la coordinación o de anulación de la coordinación con arreglo a los requisitos aplicables sobre calidad del servicio, la dependencia de transferencia iniciará la coordinación verbal. 
+Artículo 6 
+Requisitos de seguridad 
+Para mantener o aumentar los niveles de seguridad existentes, los Estados miembros tomarán las medidas necesarias para garantizar que, antes de introducir cualquier modificación de los sistemas automáticos de intercambio de datos de vuelo contemplados en el presente Reglamento o antes de la introducción de nuevos sistemas semejantes, las partes a quien corresponda realicen una evaluación de la seguridad, que incluya la determinación de la situación peligrosa y el análisis y mitigación de riesgos. 
+Durante esa evaluación de la seguridad, se tendrán en cuenta, como mínimo, los requisitos de seguridad que se especifican en el anexo III. 
+Artículo 7 
+Conformidad o idoneidad para el uso de los componentes 
+Antes de emitir una declaración CE de conformidad o idoneidad para el uso contemplada en el artículo 5 del Reglamento (CE) no 552/2004, los fabricantes de componentes de los sistemas a que se refiere el artículo 1, apartado 2, letras a) y b), evaluarán la conformidad o idoneidad para el uso de estos componentes con arreglo a los requisitos que se establecen en el anexo IV, parte A. 
+Artículo 8 
+Verificación de los sistemas 
+1. Los proveedores de servicios de navegación aérea que puedan demostrar que cumplen los requisitos que especifica el anexo V realizarán una verificación de los sistemas a que se refiere el artículo 1, apartado 2, letra a), con arreglo a los requisitos que se establecen en el anexo IV, parte B. 
+2. Los proveedores de servicios de navegación aérea que no puedan demostrar que cumplen los requisitos que especifica el anexo V subcontratarán a un organismo notificado la verificación de los sistemas a que se refiere el artículo 1, apartado 2, letra a). Dicha verificación se realizará con arreglo a los requisitos que se establecen en el anexo IV, parte C. 
+3. Los Estados miembros garantizarán que la verificación de los sistemas a que se refiere el artículo 1, apartado 2, letra b), demuestre la conformidad de estos sistemas con los requisitos de interoperabilidad, prestaciones, calidad del servicio y seguridad del presente Reglamento. 
+Artículo 9 
+Cumplimiento 
+Los Estados miembros adoptarán las medidas necesarias para garantizar el cumplimiento del presente Reglamento. 
+Artículo 10 
+Disposiciones transitorias 
+1. Las disposiciones transitorias previstas en el artículo 10, apartado 1, del Reglamento (CE) no 552/2004 se aplicarán a los sistemas de la Red europea de gestión del tránsito aéreo (en lo sucesivo, EATMN) contemplados en el artículo 1, apartado 2, a partir de la entrada en vigor del presente Reglamento para los procesos de notificación y coordinación inicial. 
+Se aplicarán a los sistemas de la EATM a partir del 1 de enero de 2009 para los procesos de revisión de coordinación, anulación de coordinación, datos básicos de vuelo y cambio de los datos básicos de vuelo. 
+2. Las disposiciones transitorias previstas en el artículo 10, apartado 2, del Reglamento (CE) no 552/2004 se aplicarán a los sistemas contemplados en el artículo 1, apartado 2, a partir del 31 de diciembre de 2012. 
+Artículo 11 
+Entrada en vigor 
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea. 
+Se aplicará a partir del 1 de enero de 2009 a todos los EATMN contemplados en el artículo 1, apartado 2, para los procesos de revisión de coordinación, anulación de coordinación, datos de vuelo básico y cambio de los datos de vuelo básico. 
+Se aplicará a partir del 31 de diciembre de 2012 a todos los EATMN contemplados en el artículo 1, apartado 2, que estén en funcionamiento en esa fecha. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 6 de julio de 2006. 
+Por la Comisión 
+Jacques Barrot 
+Vicepresidente 
+[1] DO L 96 de 31.3.2004, p. 26. 
+[2] DO L 96 de 31.3.2004, p. 1. 
+[3] DO L 254 de 9.10.2000, p. 1. 
+[4] DO L 96 de 31.3.2004, p. 9. 
+-------------------------------------------------- 
+ANEXO I 
+Requisitos de interoperabilidad y prestaciones 
+(contemplados en el artículo 3) 
+PARTE A: REQUISITOS GENERALES 
+1. REQUISITOS DEL SISTEMA 
+1.1. El sistema facilitará toda la información necesaria para la presentación, el tratamiento y la conservación de la información del sistema intercambiada en los procesos especificados. 
+1.2. El sistema podrá recibir, almacenar, tratar, extraer, presentar para visualización y transmitir automáticamente la información de vuelo pertinente para los procesos de notificación, coordinación y transferencia y de coordinación civil-militar. 
+1.3. El sistema emitirá un aviso cuando se detecten fallos o anomalías en la instalación de intercambio de información. 
+1.4. El sistema será capaz de dar avisos acerca del intercambio de información del sistema a los puestos de trabajo pertinentes. 
+1.5. El sistema proporcionará al personal ATC los medios para modificar la información de vuelo pertinente para estos procesos. 
+1.6. El sistema será capaz de proporcionar al personal ATC información del estado de los procesos pertinentes de intercambio de información del sistema. 
+2. REGISTRO DE LOS DATOS RELACIONADOS CON EL INTERCAMBIO DE INFORMACIÓN DEL SISTEMA 
+2.1. Los datos relacionados con el intercambio de información del sistema deberán ser registrados por el proveedor de servicios de navegación aérea de un modo que permita la recuperación y visualización de los datos registrados. 
+PARTE B: REQUISITOS PARA LOS PROCESOS OBLIGATORIOS RESPALDADOS POR INTERCAMBIOS DE INFORMACIÓN DEL SISTEMA 
+1. NOTIFICACIÓN 
+1.1. Información de vuelo afectada 
+1.1.1. La información relacionada con el proceso de notificación incluirá como mínimo lo siguiente: 
+- identificación de la aeronave, 
+- modo y código SSR (si está disponible), 
+- aeródromo de salida, 
+- datos estimados, 
+- aeródromo de destino, 
+- número y tipo de aeronave, 
+- tipo de vuelo, 
+- capacidad y estado de los equipos. 
+1.1.2. El contenido de la información sobre "capacidad y estado de los equipos" incluirá como mínimo, la capacidad para la separación vertical mínima reducida (denominada en lo sucesivo RVSM) y la capacidad para 8,33 KHz. 
+1.1.3. La información sobre "capacidad y estado de los equipos" podrá incluir otros elementos, con arreglo a las cartas de acuerdo. 
+1.2. Normas de aplicación 
+1.2.1. El proceso de notificación se aplicará al menos una vez para cada vuelo que tenga previsto cruzar el límite, salvo que el vuelo esté sujeto a un proceso de notificación y coordinación previas a la salida. 
+1.2.2. Los criterios de selección para la notificación por cruce de límites de los vuelos se ajustarán a lo establecido en las cartas de acuerdo. 
+1.2.3. Si la finalización del proceso de notificación no puede realizarse en un tiempo acordado bilateralmente antes del proceso de coordinación inicial, se integrará al proceso de coordinación inicial. 
+1.2.4. Si se realiza, el proceso de notificación precederá al proceso de coordinación inicial. 
+1.2.5. El proceso de notificación se repetirá cada vez que se produzca un cambio en uno de los siguientes datos antes del proceso de coordinación inicial: 
+- COP, 
+- código SSR previsto en el punto de transferencia de control, 
+- aeródromo de destino, 
+- tipo de aeronave, 
+- capacidad y estado de los equipos. 
+1.2.6. Si se observa una discrepancia entre los datos transmitidos y los datos correspondientes en el sistema receptor (o si no se dispone de información alguna) que dé lugar a la necesidad de adoptar medidas correctoras al recibir los siguientes datos de coordinación inicial, la discrepancia se comunicará al puesto de trabajo adecuado para su resolución. 
+1.3. Criterios temporales para el inicio del proceso de notificación 
+1.3.1. El proceso de notificación se iniciará un número de minutos antes del tiempo estimado en el COP. 
+1.3.2. Los parámetros de notificación se incluirán en las cartas de acuerdo entre las dependencias ATC interesadas. 
+1.3.3. Los parámetros de notificación podrán definirse por separado para cada uno de los puntos de coordinación. 
+2. COORDINACIÓN INICIAL 
+2.1. Información de vuelo afectada 
+2.1.1. La información relacionada con el proceso de coordinación inicial incluirá como mínimo lo siguiente: 
+- identificación de la aeronave, 
+- modo y código SSR, 
+- aeródromo de salida, 
+- datos estimados, 
+- aeródromo de destino, 
+- número y tipo de aeronave, 
+- tipo de vuelo, 
+- capacidad y estado de los equipos. 
+2.1.2. El contenido de la información sobre "capacidad y estado de los equipos" incluirá como mínimo la capacidad para RVSM y la capacidad para 8,33 KHz. 
+2.1.3. La información sobre "capacidad y estado de los equipos" podrá incluir otros elementos, decididos bilateralmente en las cartas de acuerdo. 
+2.2. Normas de aplicación 
+2.2.1. El proceso de coordinación inicial se realizará con todos los vuelos que tengan previsto cruzar los límites. 
+2.2.2. Los criterios de selección para la coordinación inicial de los vuelos que vayan a cruzar los límites se establecerán con arreglo a las cartas de acuerdo. 
+2.2.3. Salvo que se haya iniciado manualmente, el proceso de coordinación inicial se iniciará automáticamente en: 
+- un período de tiempo acordado bilateralmente antes de la hora estimada en el punto de coordinación, o 
+- la hora a la que el vuelo se encuentra a una distancia acordada bilateralmente del punto de coordinación, 
+con arreglo a las cartas de acuerdo. 
+2.2.4. El proceso de coordinación inicial para un vuelo solo se realizará una vez, salvo que se inicie la anulación del proceso de coordinación. 
+2.2.5. Tras la anulación del proceso de coordinación, el proceso de coordinación inicial podrá volver a iniciarse con la misma dependencia. 
+2.2.6. La finalización del proceso de coordinación inicial, incluida la confirmación de la dependencia receptora, se comunicará a la dependencia de transferencia: se considerará entonces que el vuelo está "coordinado". 
+2.2.7. Si la finalización del proceso de coordinación inicial no se confirma con arreglo a los requisitos sobre calidad del servicio aplicable, se enviará un aviso al puesto de trabajo responsable de la coordinación del vuelo dentro de la dependencia de transferencia. 
+2.2.8. La información sobre la coordinación inicial estará a disposición del puesto de trabajo adecuado en la dependencia receptora. 
+3. REVISIÓN DE LA COORDINACIÓN 
+3.1. Información de vuelo afectada 
+3.1.1. La revisión del proceso de coordinación garantizará la asociación con el vuelo previamente coordinado. 
+3.1.2. La revisión de la coordinación proporcionará la siguiente información de vuelo si se han producido cambios: 
+- modo y código SSR, 
+- hora y nivel de vuelo estimados, 
+- capacidad y estado de los equipos. 
+3.1.3. Si así se decide bilateralmente, los datos de la revisión de la coordinación proporcionará la siguiente información si se ha producido algún cambio: 
+- punto de coordinación, 
+- ruta. 
+3.2. Normas de aplicación 
+3.2.1. La revisión del proceso de coordinación podrá realizarse una o varias veces con la dependencia en que esté siendo coordinado el vuelo. 
+3.2.2. La revisión del proceso de coordinación se producirá si: 
+- el tiempo estimado en el punto de coordinación difiere del indicado previamente en más de un valor acordado bilateralmente, 
+- los niveles de transferencia, el código SSR o la capacidad y estado de los equipos es distinto del indicado previamente. 
+3.2.3. Si así se decide bilateralmente, la revisión del proceso de coordinación se producirá cuando se produzca algún cambio en lo siguiente: 
+- punto de coordinación; 
+- ruta. 
+3.2.4. La finalización de la revisión del proceso de coordinación, incluida la confirmación de la dependencia receptora, se comunicará a la dependencia de transferencia. 
+3.2.5. Si la finalización de la revisión del proceso de coordinación no se confirma con arreglo a los requisitos sobre calidad del servicio aplicable, se enviará un aviso al puesto de trabajo responsable de la coordinación del vuelo dentro de la dependencia de transferencia. 
+3.2.6. La revisión del proceso de coordinación se producirá inmediatamente tras la introducción o actualización de los datos pertinentes. 
+3.2.7. La revisión del proceso de coordinación se suspenderá cuando el vuelo se encuentre a una hora/distancia acordada bilateralmente del punto de transferencia de control con arreglo a las cartas de acuerdo. 
+3.2.8. La información sobre la revisión del proceso de coordinación se pondrá a disposición del puesto de trabajo adecuada en la dependencia receptora. 
+4. ANULACIÓN DE LA COORDINACIÓN 
+4.1. Información de vuelo afectada 
+4.1.1. La anulación del proceso de coordinación garantizará la asociación con el proceso anterior de notificación o coordinación que esté siendo anulado. 
+4.2. Normas de aplicación 
+4.2.1. La anulación del proceso de coordinación se realizará con una dependencia para un vuelo coordinado cuando: 
+- la dependencia deje de ser la dependencia siguiente en una secuencia de coordinación, 
+- se anule el plan de vuelo en la dependencia transmisora y la coordinación deje de ser pertinente, 
+- la información sobre la anulación de coordinación se reciba de la dependencia anterior en relación con el vuelo. 
+4.2.2. La anulación del proceso de coordinación podrá producirse en una dependencia para un vuelo notificado cuando: 
+- la dependencia deje de ser la dependencia siguiente en una secuencia de coordinación, 
+- se anule el plan de vuelo en la dependencia transmisora y la coordinación deje de ser pertinente, 
+- se reciba una anulación de la coordinación de la dependencia anterior en relación con el vuelo, 
+- el vuelo se retrase en ruta y no pueda determinarse automáticamente una estimación revisada. 
+4.2.3. La finalización de la anulación del proceso de coordinación, incluida la confirmación de la dependencia receptora, se comunicará a la dependencia de transferencia. 
+4.2.4. Si la finalización de la anulación del proceso de coordinación no se confirma con arreglo a los requisitos sobre calidad del servicio aplicable, se enviará un aviso al puesto de trabajo responsable de la coordinación del vuelo dentro de la dependencia de transferencia. 
+4.2.5. La anulación de la información de coordinación se pondrá a disposición del puesto de trabajo adecuado en la dependencia notificada o en la dependencia en que se haya anulado la coordinación. 
+5. DATOS DE VUELO BÁSICOS 
+5.1. Información de vuelo afectada 
+5.1.1. La información relacionada con el proceso de datos de vuelo básicos proporcionará como mínimo lo siguiente: 
+- identificación de la aeronave, 
+- modo y código SSR. 
+5.1.2. Cualquier información adicional proporcionada en el proceso de datos de vuelo básicos estará sujeta a un acuerdo bilateral. 
+5.2. Normas de aplicación 
+5.2.1. El proceso de datos de vuelo básicos se realizará automáticamente en cada vuelo el que sea aplicable. 
+5.2.2. Los criterios de selección para los datos de vuelo básicos se establecerán con arreglo a las cartas de acuerdo. 
+5.2.3. La finalización del proceso de datos de vuelo básicos, incluida la confirmación de la dependencia receptora, se comunicará a la dependencia de transferencia. 
+5.2.4. Si la finalización del proceso de datos de vuelo básicos no se confirma con arreglo a los requisitos sobre calidad del servicio aplicable, se enviará un aviso al puesto de trabajo responsable de la coordinación del vuelo dentro de la dependencia de transferencia. 
+6. CAMBIOS EN LOS DATOS DE VUELO BÁSICOS 
+6.1. Información de vuelo afectada 
+6.1.1. El cambio en el proceso de datos de vuelo básicos garantizará una asociación con el vuelo sujeto previamente al proceso de datos de vuelo básico. 
+6.1.2. Cualquier otra información relacionada con el cambio del proceso de datos de vuelo básicos y los criterios asociados para su presentación estará sujeta a un acuerdo bilateral. 
+6.2. Normas de aplicación 
+6.2.1. Solo se producirá un cambio en el proceso de datos de vuelo básicos para un vuelo que haya sido notificado previamente mediante un proceso de datos de vuelo básicos. 
+6.2.2. Un cambio en el proceso de datos de vuelo básicos se iniciará automáticamente con arreglo a los criterios acordados bilateralmente. 
+6.2.3. La finalización del cambio en el proceso de datos de vuelo básico, incluida la confirmación de la dependencia receptora, se comunicará a la dependencia de transferencia. 
+6.2.4. Si el cambio en el proceso de datos de vuelo básico no se confirma con arreglo a los requisitos sobre calidad del servicio aplicable, se enviará un aviso al puesto de trabajo dentro de la dependencia de transferencia. 
+6.2.5. La información sobre el cambio de datos de vuelo básico se pondrá a disposición del puesto de trabajo adecuado en la dependencia receptora. 
+PARTE C: REQUISITOS PARA LOS PROCESOS OPTATIVOS RESPALDADOS POR INTERCAMBIOS DE INFORMACIÓN DEL SISTEMA 
+1. NOTIFICACIÓN PREVIA A LA SALIDA Y COORDINACIÓN 
+1.1. Información de vuelo afectada 
+1.1.1. La información relacionada con el proceso de notificación previa a la salida y coordinación incluirá como mínimo lo siguiente: 
+- identificación de la aeronave, 
+- modo y código SSR (si está disponible), 
+- aeródromo de salida, 
+- hora estimada de despegue o datos estimados, según se haya acordado bilateralmente, 
+- aeródromo de destino, 
+- número y tipo de aeronave. 
+1.1.2. La información relacionada con el proceso de notificación previa a la salida y coordinación de una dependencia de control de un área de control Terminal (TMA) o de un ACC contendrá lo siguiente: 
+- tipo de vuelo, 
+- capacidad y estado de los equipos. 
+1.1.3. El contenido de la información sobre "capacidad y estado de los equipos" incluirá como mínimo la capacidad para RVSM y la capacidad para 8,33 KHz. 
+1.1.4. La información sobre "capacidad y estado de los equipos" podrá incluir otros elementos, decididos bilateralmente en las cartas de acuerdo. 
+1.2. Normas de aplicación 
+1.2.1. El proceso de notificación previa a la salida y de coordinación se realizará una o varias veces para cada vuelo que tenga previsto cruzar los límites si el tiempo de vuelo desde la salida hasta el punto de coordinación no es suficiente para realizar los procesos de coordinación inicial o notificación. 
+1.2.2. Los criterios de selección para la notificación previa a la salida y coordinación de los vuelos en el cruce de los límites se ajustarán a lo establecido en las cartas de acuerdo. 
+1.2.3. El proceso de notificación previa a la salida y coordinación se repetirá cada vez que se produzca un cambio en cualquiera de los datos relacionados con el proceso anterior de notificación previa a la salida y coordinación que se haya realizado antes de la salida. 
+1.2.4. La finalización del proceso de notificación previa a la salida y coordinación, incluida la confirmación de la dependencia receptora, se comunicará a la dependencia de transferencia. 
+1.2.5. Si la finalización del proceso de notificación previa a la salida y coordinación no se confirma con arreglo a los requisitos aplicables sobre calidad del servicio, se enviará un aviso al puesto de trabajo responsable de la notificación/coordinación del vuelo dentro de la dependencia de transferencia. 
+1.2.6. La información relacionada con la notificación previa a la salida y la coordinación se pondrá a disposición del puesto de trabajo adecuado en la dependencia notificada. 
+2. CAMBIO DE FRECUENCIA 
+2.1. Información de vuelo afectada 
+2.1.1. La información relacionada con el proceso de cambio de frecuencia incluirá como mínimo: 
+- la identificación de la aeronave. 
+2.1.2. La información relacionada con el proceso de cambio de frecuencia incluirá alguno de los siguientes datos, si se dispone de ellos: 
+- indicación de transferencia, 
+- nivel de vuelo autorizado, 
+- rumbo asignado o ruta directa autorizada, 
+- velocidad asignada, 
+- velocidad de ascenso/descenso asignada. 
+2.1.3. Si así se ha acordado bilateralmente, los datos sobre el cambio de frecuencia incluirán lo siguiente: 
+- posición actual en la ruta, 
+- frecuencia indicada. 
+2.2. Normas de aplicación 
+2.2.1. El proceso de cambio de frecuencia será iniciado manualmente por el controlador de transferencia. 
+2.2.2. La finalización del proceso de cambio de frecuencia, incluida la confirmación de la dependencia receptora, se comunicará a la dependencia de transferencia ATC. 
+2.2.3. Si la finalización del proceso de cambio de frecuencia no se confirma con arreglo a los requisitos aplicables sobre calidad del servicio, se enviará un aviso al puesto de trabajo adecuado de la dependencia de transferencia ATC. 
+2.2.4. La información sobre el cambio de frecuencia se pondrá sin demora a disposición del controlador receptor. 
+3. ACEPTACIÓN MANUAL DE COMUNICACIONES 
+3.1. Información de vuelo afectada 
+3.1.1. La información relacionada con el proceso de aceptación manual de las comunicaciones incluirá como mínimo la identificación de la aeronave. 
+3.2. Normas de aplicación 
+3.2.1. El proceso de aceptación manual de las comunicaciones será iniciado por la dependencia receptora cuando se establezca la comunicación. 
+3.2.2. La finalización del proceso de aceptación manual de las comunicaciones, incluida la confirmación del puesto de transferencia, se comunicará a la dependencia receptora ATC. 
+3.2.3. Si la finalización del proceso de aceptación manual de las comunicaciones no se confirma con arreglo a los requisitos aplicables sobre calidad del servicio, se enviará un aviso al puesto de trabajo adecuado de la dependencia receptora ATC. 
+3.2.4. La información sobre la aceptación manual de las comunicaciones se presentará de inmediato al controlador de la dependencia de transferencia. 
+4. NOTIFICACIÓN DE INTENCIÓN DE PASO 
+4.1. Información de vuelo afectada 
+4.1.1. La información relacionada con el proceso de notificación de intención de paso incluirá como mínimo: 
+- la identificación de la aeronave, 
+- modo y código SSR, 
+- número y tipo de aeronave, 
+- referencia del sector responsable, 
+- ruta de paso, incluidas las horas y niveles de vuelo estimados para cada punto de la ruta. 
+4.2. Normas de aplicación 
+4.2.1. El proceso de notificación de intención de paso será iniciado manualmente por el controlador, o automáticamente tal como se describe en las cartas de acuerdo. 
+4.2.2. La finalización del proceso de notificación de intención de paso, incluida la confirmación de la dependencia notificada, se comunicará a la dependencia notificadora. 
+4.2.3. Si la finalización del proceso de notificación de intención de paso no se confirma con arreglo a los requisitos aplicables sobre calidad del servicio, se enviará un aviso a la dependencia notificadora. 
+4.2.4. La información sobre la notificación de intención de paso se pondrá a disposición del puesto de trabajo adecuado en la dependencia notificadora. 
+5. SOLICITUD DE AUTORIZACIÓN DE PASO 
+5.1. Información de vuelo afectada 
+5.1.1. La información relacionada con el proceso de solicitud de autorización de paso incluirá como mínimo lo siguiente: 
+- identificación de la aeronave, 
+- modo y código SSR, 
+- número y tipo de aeronave, 
+- referencia del sector responsable, 
+- ruta de paso, incluidas las horas y niveles de vuelo estimados para cada punto de la ruta. 
+5.1.2. Si así se ha acordado bilateralmente, la solicitud de autorización de paso incluirá información sobre la capacidad y estado de los equipos. 
+5.1.3. El contenido de la información sobre "capacidad y estado de los equipos" incluirá como mínimo la capacidad para RVSM. 
+5.1.4. La información sobre "capacidad y estado de los equipos" podrá incluir otros elementos que hayan sido objeto de un acuerdo bilateral. 
+5.2. Normas de aplicación 
+5.2.1. La solicitud de autorización de paso será iniciada a discreción del controlador, con arreglo a las condiciones especificadas en las cartas de acuerdo. 
+5.2.2. La finalización del proceso de solicitud de autorización de paso, incluida la confirmación de la dependencia que reciba la solicitud, se comunicará a la dependencia solicitante. 
+5.2.3. Si la finalización del proceso de solicitud de autorización de paso no se confirma con arreglo a los requisitos aplicables sobre calidad del servicio, se enviará un aviso al puesto de trabajo adecuado de la dependencia solicitante. 
+5.2.4. La información sobre la solicitud de autorización de paso se pondrá a disposición del puesto de trabajo adecuado en la dependencia que reciba la solicitud. 
+5.3. Respuesta operativa 
+5.3.1. Se contestará al proceso de solicitud de autorización de paso con: 
+- una aceptación de los detalles de paso por la ruta/el espacio aéreo propuesto, o 
+- una contrapropuesta que incluya detalles de paso por la ruta/el espacio aéreo distintos, tal como se especifica a continuación en el punto 6, o 
+- un rechazo de los detalles de paso por la ruta/el espacio aéreo propuestos. 
+5.3.2. Si no se recibe una respuesta operativa en el plazo acordado bilateralmente, se enviará un aviso al puesto de trabajo adecuado de la dependencia solicitante. 
+6. NUEVA PROPUESTA DE PASO 
+6.1. Información de vuelo afectada 
+6.1.1. El proceso de nueva propuesta de paso garantizará una asociación con el vuelo sujeto previamente a coordinación. 
+6.1.2. La información relacionada con el proceso de nueva propuesta de paso incluirá como mínimo lo siguiente: 
+- identificación de la aeronave, 
+- ruta de paso, incluidas las horas y niveles de vuelo estimados para cada punto de la ruta. 
+6.2. Normas de aplicación 
+6.2.1. La nueva propuesta incluirá un nuevo nivel de vuelo y/o ruta. 
+6.2.2. La finalización del proceso de nueva propuesta de paso, incluida la confirmación de la dependencia solicitante inicial, se comunicará a la dependencia que emite la nueva propuesta. 
+6.2.3. Si la finalización del proceso de nueva propuesta de paso no se confirma con arreglo a los requisitos aplicables sobre calidad del servicio, se enviará un aviso al puesto de trabajo adecuado de la dependencia que emite la nueva propuesta. 
+6.2.4. La información sobre la nueva propuesta de paso se pondrá a disposición del puesto de trabajo adecuado en la dependencia solicitante inicial. 
+6.3. Respuesta operativa 
+6.3.1. La confirmación de que se ha llevado a término el tratamiento de la información sobre la nueva propuesta de paso en la dependencia solicitante inicial dará lugar a una respuesta operativa de la dependencia solicitante inicial. 
+6.3.2. La respuesta operativa a una nueva propuesta de paso será la aceptación o el rechazo, según proceda. 
+6.3.3. Si no se recibe una respuesta operativa en el plazo acordado bilateralmente, se enviará un aviso al puesto de trabajo adecuado de la dependencia que emite la nueva propuesta. 
+7. CANCELACIÓN DE PASO 
+7.1. Información de vuelo afectada 
+7.1.1. El proceso de cancelación de paso garantizará la asociación con el proceso previo de notificación o coordinación cancelado. 
+7.2. Normas de aplicación 
+7.2.1. El proceso de cancelación de paso será iniciado por la dependencia responsable del vuelo cuando se dé alguna de las siguientes circunstancias: 
+- el vuelo notificado previamente por un proceso de datos de vuelo básico ya no va a entrar en el espacio aéreo de la dependencia notificada o deja de tener interés para la dependencia notificada, 
+- el paso no se ejecutará en la ruta mencionada en la información sobre la notificación de paso, 
+- el paso no se ejecutará con arreglo a las condiciones negociadas o acordadas tras un diálogo para atravesar un espacio aéreo. 
+7.2.2. El proceso de cancelación de paso se pondrá en marcha automática o manualmente por iniciativa de un controlador con arreglo a las cartas de acuerdo. 
+7.2.3. La finalización del proceso de cancelación de paso, incluida la confirmación del puesto notificado/solicitante, se comunicará a la dependencia canceladora. 
+7.2.4. Si el proceso de cancelación de paso no se confirma con arreglo a los requisitos aplicables sobre calidad del servicio, se enviará un aviso al puesto de trabajo adecuado de la dependencia canceladora. 
+7.2.5. La información sobre la cancelación de paso se pondrá a disposición del puesto de trabajo adecuado en la dependencia notificada/solicitante. 
+-------------------------------------------------- 
+ANEXO II 
+Requisitos sobre calidad del servicio 
+(contemplados en el artículo 4) 
+1. Disponibilidad, fiabilidad, seguridad e integridad de los datos 
+1.1. Las instalaciones de intercambio de información del sistema estarán disponibles durante las horas de funcionamiento de la dependencia. 
+1.2. Cualquier período de desconexión programado deberá ser acordado bilateralmente entre las dos dependencias involucradas. 
+1.3. La fiabilidad de los enlaces de intercambio de información del sistema deberá ser al menos del 99,86 %. 
+1.4. Se garantizará la integridad y la seguridad de la información intercambiada por medio de las instalaciones de intercambio de información del sistema, al nivel adecuado de conformidad con las prácticas reconocidas. 
+2. Tiempo del proceso 
+2.1. El tiempo del proceso será el intervalo entre el inicio del proceso y el momento en que la dependencia iniciadora disponga de la confirmación exigida. 
+2.2. El tiempo del proceso no incluirá las respuestas operativas (cuando se exijan). 
+2.3. El tiempo máximo del proceso antes de que se produzca un aviso se acordará bilateralmente. 
+-------------------------------------------------- 
+ANEXO III 
+Requisitos de seguridad 
+(contemplados en el artículo 6) 
+1. La implementación de intercambios de información del sistema y los enlaces para comunicaciones de voz tierra-tierra excluirán, en la medida de lo factible, la posibilidad de fallos simultáneos. 
+2. Los requisitos de interoperabilidad y prestaciones mencionados en los puntos 3.2.4, 3.2.5, 4.2.3, 4.2.4, 5.2.3, 5.2.4, 6.2.3 y 6.2.4 del anexo I, parte B, también se considerarán requisitos de seguridad. 
+3. Para la revisión de los procesos de coordinación, anulación de la coordinación, datos de vuelo básicos y cambio de los datos de vuelo básicos, los requisitos de calidad del servicio mencionados en el anexo II también se considerarán requisitos de seguridad. 
+-------------------------------------------------- 
+ANEXO IV 
+PARTE A: REQUISITOS PARA LA EVALUACIÓN DE LA CONFORMIDAD O IDONEIDAD PARA EL USO DE LOS COMPONENTES CONTEMPLADOS EN EL ARTÍCULO 7 
+1. Las actividades de verificación demostrarán la conformidad de los componentes con los requisitos de interoperabilidad, prestaciones, calidad del servicio y seguridad del presente Reglamento o su idoneidad para el uso durante su funcionamiento en el entorno experimental. 
+2. El fabricante llevará a cabo las actividades de evaluación de la conformidad y deberá, en particular: 
+- determinar el entorno experimental adecuado, 
+- comprobar que el plan de ensayos describe los componentes en el entorno experimental, 
+- comprobar que el plan de ensayos cubre plenamente los requisitos aplicables, 
+- garantizar la coherencia y la calidad de la documentación técnica y del plan de ensayos, 
+- planificar todo lo referente a la organización de los ensayos, el personal, la instalación y la plataforma de los ensayos, 
+- realizar las inspecciones y los ensayos tal como se indica en el plan de ensayos, 
+- redactar el informe con los resultados de las inspecciones y ensayos. 
+3. El fabricante garantizará que los componentes utilizados para los intercambios de información en los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar e integrados en el entorno experimental cumplen los requisitos de interoperabilidad y prestaciones, calidad del servicio y seguridad del presente Reglamento. 
+4. Tras la verificación de la conformidad o idoneidad para el uso, el fabricante expedirá, bajo su responsabilidad, la declaración CE de conformidad o idoneidad para el uso, especificando, en particular, los requisitos del presente Reglamento que cumplen los componentes, así como las condiciones de uso asociadas, con arreglo al anexo III, punto 3, del Reglamento de interoperabilidad. 
+PARTE B: REQUISITOS PARA LA VERIFICACIÓN DE LOS SISTEMAS CONTEMPLADOS EN EL ARTÍCULO 8, APARTADO 1 
+1. La verificación de sistemas demostrará la conformidad de dichos sistemas con los requisitos de interoperabilidad y prestaciones, calidad del servicio y seguridad del presente Reglamento en un entorno simulado que refleje el contexto operativo de estos sistemas. 
+2. La verificación de los sistemas utilizados para los intercambios de información relacionados con los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar se realizarán con arreglo a las prácticas de ensayo adecuadas y reconocidas. 
+3. Los instrumentos de ensayo utilizados para la verificación de los sistemas empleados para los intercambios de información relacionados con los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar dispondrán de funcionalidades adecuadas. 
+4. La verificación de los sistemas utilizados para los intercambios de información relacionados con los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar dará lugar a la presentación de los elementos del expediente técnico que requiere el anexo IV, punto 3, del Reglamento de interoperabilidad, así como los siguientes elementos: 
+- una descripción de la aplicación, 
+- un informe de las inspecciones y ensayos efectuados antes de la entrada en funcionamiento del sistema. 
+5. El proveedor de servicios de navegación aérea llevará a cabo las actividades de verificación y deberá, en particular: 
+- determinar el entorno técnico y operativo simulado adecuado que refleje el entorno operativo, 
+- comprobar que el plan de ensayo describe la integración de los intercambios de información relacionados con los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar en el sistema ensayado, en un entorno técnico y operativo simulado, 
+- comprobar que el plan de ensayo cubre plenamente los requisitos de interoperabilidad y prestaciones, calidad del servicio y seguridad del presente Reglamento, 
+- garantizar la coherencia y la calidad de la documentación técnica y del plan de ensayos, 
+- planificar todo lo referente a la organización de los ensayos, el personal, la instalación y la configuración de los ensayos, 
+- realizar las inspecciones y los ensayos tal como se indica en el plan de ensayos, 
+- redactar el informe con los resultados de las inspecciones y ensayos. 
+6. El proveedor de servicios de navegación aérea garantizará que la aplicación de los sistemas de intercambios de información relacionados con los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar integrados con otros sistemas que funcionen en un entorno operativo simulado cumplen los requisitos de interoperabilidad y prestaciones, calidad del servicio y seguridad del presente Reglamento. 
+7. Tras la verificación del cumplimiento, los proveedores de servicios de navegación aérea expedirán la declaración CE de verificación del sistema y la presentarán a la autoridad nacional de supervisión, junto con el expediente técnico, tal como establece el artículo 6 del Reglamento de interoperabilidad. 
+PARTE C: REQUISITOS PARA LA VERIFICACIÓN DE LOS SISTEMAS CONTEMPLADOS EN EL ARTÍCULO 8, APARTADO 2 
+1. La verificación de sistemas demostrará la conformidad de esos sistemas con los requisitos de interoperabilidad y prestaciones, calidad del servicio y seguridad del presente Reglamento en un entorno simulado que refleje el contexto operativo de esos sistemas. 
+2. La verificación de los sistemas utilizados para los intercambios de información relacionados con los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar se realizarán con arreglo a las prácticas de ensayo adecuadas y reconocidas. 
+3. Los instrumentos de ensayo utilizados para la verificación de los sistemas empleados para los intercambios de información relacionados con los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar dispondrán de funcionalidades adecuadas. 
+4. La verificación de los sistemas utilizados para los intercambios de información relacionados con los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar dará lugar a la presentación de los elementos del expediente técnico que requiere el anexo IV, punto 3, del Reglamento de interoperabilidad, así como los siguientes elementos: 
+- descripción de la implementación, 
+- informe de las inspecciones y ensayos efectuados antes de la entrada en funcionamiento del sistema. 
+5. El proveedor de servicios de navegación aérea determinará el entorno técnico y operativo simulado adecuado que refleje el entorno operativo y encargará a un organismo notificado las actividades de verificación. 
+6. El organismo notificado llevará a cabo las actividades de verificación y deberá, en particular: 
+- comprobar que el plan de ensayos describe la integración de los intercambios de información relacionado con los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar en el sistema ensayado, en un entorno técnico y operativo simulado, 
+- comprobar que el plan de ensayos cubre plenamente los requisitos de interoperabilidad y prestaciones, calidad del servicio y seguridad del presente Reglamento, 
+- garantizar la coherencia y la calidad de la documentación técnica y del plan de ensayos, 
+- planificar todo lo referente a la organización de los ensayos, el personal, la instalación y la configuración de los ensayos, 
+- realizar las inspecciones y los ensayos tal como se indica en el plan de ensayos, 
+- redactar el informe con los resultados de las inspecciones y ensayos. 
+7. El organismo notificado garantizará que la implementación de los sistemas de intercambios de información relacionados con los procesos de notificación, coordinación y transferencia de vuelos y el proceso de coordinación civil-militar integrados con otros sistemas que funcionen en un entorno operativo simulado cumplen los requisitos de interoperabilidad y prestaciones, calidad del servicio y seguridad del presente Reglamento. 
+8. Tras finalizar las actividades de verificación, el organismo notificado expedirá el certificado de conformidad correspondiente, en relación con las tareas que ha realizado. 
+9. A continuación, los proveedores de servicios de navegación aérea expedirán la declaración CE de verificación del sistema y la presentarán a la autoridad nacional de supervisión, junto con el expediente técnico, tal como establece el artículo 6 del Reglamento de interoperabilidad. 
+-------------------------------------------------- 
+ANEXO V 
+Condiciones contempladas en el artículo 8 
+1. El proveedor de servicios de navegación aérea deberá establecer en su organización métodos de elaboración de informes que garanticen y demuestren su imparcialidad e independencia de juicio respecto de las actividades de verificación. 
+2. El proveedor de servicios de navegación aérea deberá garantizar que el personal involucrado en los procesos de verificación desempeñe las comprobaciones con la máxima profesionalidad y la mayor competencia técnica posible y deberá estar libre de presiones e incentivos, especialmente de tipo económico, que puedan influir en sus dictámenes o en los resultados de las comprobaciones, especialmente de las presiones o incentivos de personas o grupos de personas afectados por los resultados de dichas comprobaciones. 
+3. El proveedor de servicios de navegación aérea deberá garantizar que el personal involucrado en procesos de verificación pueda acceder al equipo que le permita efectuar adecuadamente las comprobaciones necesarias. 
+4. El proveedor de servicios de navegación aérea deberá garantizar que el personal involucrado en los procesos de verificación tenga una sólida formación profesional y técnica, un conocimiento satisfactorio de los requisitos que suponen sus tareas de certificación y una experiencia adecuada de esas, así como la capacidad necesaria para elaborar declaraciones, informes y documentos que demuestren la realización de las comprobaciones. 
+5. El proveedor de servicios de navegación aérea deberá garantizar que el personal involucrado en los procesos de verificación pueda desempeñar sus comprobaciones con imparcialidad. Su remuneración no dependerá del número de comprobaciones efectuado, ni de sus resultados. 
+-------------------------------------------------- 

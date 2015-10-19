@@ -1,0 +1,150 @@
+Directive 89/336/CEE du Conseil du 3 mai 1989 concernant le rapprochement des législations des États membres relatives à la compatibilité électromagnétique 
+***** 
+DIRECTIVE DU CONSEIL 
+du 3 mai 1989 
+concernant le rapprochement des législations des États membres relatives à la comptabilité électromagnétique 
+(89/336/CEE) 
+LE CONSEIL DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté économique européenne, et notamment son article 100 A, 
+vu la proposition de la Commission (1), 
+en coopération avec le Parlement européen (2), 
+vu l'avis du Comité économique et social (3), 
+considérant qu'il importe d'arrêter les mesures destinées à établir progressivement le marché intérieur au cours d'une période expirant le 31 décembre 1992; que le marché intérieur comporte un espace sans frontières intérieures dans lequel la libre circulation des marchandises, des personnes, des services et des capitaux est assurée; 
+considérant qu'il incombe aux États membres d'assurer aux radiocommunications ainsi qu'aux dispositifs, appareils ou systèmes dont le fonctionnement risque d'être dérangé par des perturbations électromagnétiques produits par des appareils électriques et électroniques une protection suffisante contre les troubles engendrés par ces perturbations; 
+considérant qu'il incombe également aux États membres de veiller à la protection des réseaux de distribution d'énergie électrique contre les perturbations électromagnétiques qui peuvent les affecter ainsi que, par voie de conséquence, des équipements alimentés par ces réseaux; 
+considérant que la directive 86/361/CEE du Conseil, du 24 juillet 1986, concernant la première étape de la reconnaissance mutuelle des agréments d'équipements terminaux de télécommunications (4), vise notamment les signaux émis par ces équipements lorsque leur fonctionnement est normal ainsi que la protection contre tout dommage des réseaux publics de télécommunications; qu'il reste, par conséquent, à assurer une protection suffisante de ces réseaux, y compris des appareils qui y sont raccordés, contre les dérangements momentanés provoqués par les signaux de nature accidentelle susceptibles d'être émis par ces appareils; 
+considérant que, dans certains États membres, des dispositions impératives déterminent en particulier les niveaux admissibles des perturbations électromagnétiques que ces appareils sont susceptibles de provoquer et leur degré d'immunité contre ces mêmes signaux; que ces dispositions impératives ne conduisent pas nécessairement à des niveaux de protection différents d'un État membre à l'autre mais, en raison de leur disparité, entravent les échangent à l'intérieur de la Communauté; 
+considérant que les dispositions nationales qui assurent cette protection doivent être harmonisées pour garantir la libre circulation des appareils électriques et électroniques, sans que les niveaux existants et justifiés de protection dans les États membres soient abaissés; 
+considérant que, dans son état actuel, le droit communautaire prévoit que, par dérogation à l'une des règles fondamentales de la Communauté que constitue la libre circulation des marchandises, les obstacles à la circulation intracommunautaire, résultant de disparités des dispositions nationales relatives à la commercialisation des produits, doivent être acceptés dans la mesure où ces 
+dispositions peuvent être reconnues comme nécessaires pour satisfaire à des exigences impératives; que, dès lors, l'harmonisation législative dans le cas présent doit se limiter aux seules dispositions nécessaires pour satisfaire aux exigences de protection en matière de compatibilité électromagnétique; que ces exigences doivent remplacer les dispositions nationales en la matière; 
+considérant dès lors que la présente directive ne définit que les exigences de protection en matière de compatibilité électromagnétique; que, pour faciliter la preuve de la conformité à ces exigences, il est important de disposer de normes harmonisées sur le plan européen concernant la compatibilité électromagnétique, normes dont le respect assure aux produits une présomption de conformité aux exigences de protection; que ces normes harmonisées sur le plan européen sont élaborées par des organismes privés et doivent conserver leur statut de textes non obligatoires; que, à cette fin, le comité européen de normalisation électrotechnique (Cenelec) est reconnu comme étant l'organisme compétent dans le domaine de la présente directive pour adopter les normes harmonisées, conformément aux orientations générales pour la coopération entre la Commission et le comité européen de normalisation (CEN) et le Cenelec, signées le 13 novembre 1984; que, au sens de la présente directive, une norme harmonisée est une spécification technique (norme européenne ou document d'harmonisation) adoptée par le Cenelec sur mandat de la Commission, conformément à la directive 83/189/CEE du Conseil, du 28 mars 1983, prévoyant une procédure d'information dans le domaine des normes et réglementations techniques (1), modifiée en dernier lieu par la directive 88/182/CEE (2), ainsi qu'en vertu des orientations générales susvisées; 
+considérant que, en attendant l'adoption de normes harmonisées au sens de la présente directive, il convient de faciliter la libre circulation des marchandises par l'acceptation, à titre transitoire, sur le plan communautaire d'appareils conformes aux normes nationales retenues conformément à une procédure de contrôle communautaire assurant que ces normes nationales répondent aux exigences de protection de la présente directive; 
+considérant que la déclaration CE de conformité concernant l'appareil constitue une présomption de sa conformité avec la présente directive; que cette déclaration doit se présenter sous la forme la plus simple possible; 
+considérant que, pour les appareils couverts par la directive 86/361/CEE, afin d'obtenir une protection efficace en matière de compatibilité électromagnétique, le respect des dispositions de la présente directive doit, cependant, être attesté par des marques ou certificats de conformité délivrés par des organismes notifiés par les États membres; que, pour faciliter la reconnaissance mutuelle des marques et certificats délivrés par ces organismes, il convient d'harmoniser les critères à prendre en considération pour les désigner; 
+considérant qu'il pourrait néanmoins arriver que des appareils gênent les radiocommunications et les réseaux de télécommunication; qu'il convient donc de prévoir une procédure destinée à pallier ce danger; 
+considérant que la présente directive s'applique aux appareils et matériels visés par les directives 76/889/CEE (1) et 76/890/CEE (4), qui concernent le rapprochement des législations des États membres relatives respectivement aux perturbations radioélectriques produits par les appareils électrodomestiques, outils portatifs et appareils similaires et à l'antiparasitage de luminaires avec démarreur pour éclairage à fluorescence; qu'il convient donc d'abroger lesdites directives, 
+A ARRÊTÉ LA PRÉSENTE DIRECTIVE: 
+Article premier 
+Au sens de la présente directive, on entend par: 
+1) « appareils », tous les appareils électriques et électroniques, ainsi que les équipements et installations qui contiennent des composants électriques et/ou électroniques; 
+2) « perturbations électromagnétiques », les phénomènes électromagnétiques susceptibles de créer des troubles de fonctionnement d'un dispositif, d'un appareil ou d'un système. Une perturbation électromagnétique peut être un bruit électromagnétique, un signal non désiré ou une modification du milieu de propagation lui-même; 
+3) « immunité », l'aptitude d'un dispositif, d'un appareil ou d'un système à fonctionner sans dégradation de qualité en présence d'une perturbation électromagnétique; 
+4) « compatibilité électromagnétique », l'aptitude d'un dispositif, d'un appareil ou d'un système à fonctionner dans son environnement électromagnétique de façon satisfaisante et sans produire lui-même des perturbations électromagnétiques intolérables pour tout ce qui se trouve dans cet environnement; 
+5) « organisme compétent », un organisme répondant aux critères énumérés à l'annexe II et reconnu comme tel; 
+6) « attestation CE de type », le document par lequel un organisme notifié conformément à l'article 10 paragraphe 6 certifie que le type d'appareil examiné répond aux dispositions de la présente directive qui le concernent. 
+Article 2 
+1. La présente directive s'applique aux appareils susceptibles de créer des perturbations électromagnétiques ou dont le fonctionnement est susceptible d'être affecté par ces perturbations. 
+Elle fixe les exigences de protection en la matière ainsi que les modalités de contrôle qui s'y rapportent. 
+2. Dans la mesure où des exigences de protection spécifiées dans la présente directive sont harmonisées, pour certains appareils, par des directives spécifiques, la présente directive ne s'applique pas ou cesse de s'appliquer, pour ces appareils et pour ces exigences de protection, dès l'entrée en vigueur de ces directives spécifiques. 
+3. Les équipements radio utilisés par les radioamateurs au sens de la définition no 53 de l'article 1er du « règlement radio », qui fait partie de la convention internationale des télécommunications, sont exclus du champ d'application de la présente directive, sauf si l'équipement est disponible dans le commerce. 
+Article 3 
+Les États membres prennent toutes les dispositions utiles pour que les appareils visés à l'article 2 ne puissent être mis sur le marché ou en service que s'ils répondent aux exigences édictées par la présente directive, lorsqu'ils sont installés et entretenus convenablement et utilisés conformément à leur destination. 
+Article 4 
+Les appareils visés à l'article 2 doivent être construits de telle sorte que: 
+a) les perturbations électromagnétiques générées soient limitées à un niveau permettant aux appareils de radio et de télécommunication et aux autres appareils de fonctionner conformément à leur destination; 
+b) les appareils aient un niveau adéquat d'immunité intrinsèque contre les perturbations électromagnétiques, leur permettant de fonctionner conformément à leur destination. 
+Les principales exigences en matière de protection figurent à l'annexe III. 
+Article 5 
+Les États membres ne font obstacle, pour des motifs concernant la compatibilité électromagnétique, ni à la mise sur le marché ni à la mise en service sur leur territoire des appareils visés par la présente directive qui satisfont à ses dispositions. 
+Article 6 
+1. Les dispositions de la présente directive ne font pas obstacle à l'application dans un État membre des mesures spéciales suivantes: 
+a) les mesures concernant la mise en service et l'utilisation de l'appareil prises pour un site particulier afin de remédier à un problème de compatibilité électromagnétique existant ou prévisible; 
+b) les mesures concernant l'installation de l'appareil prises pour protéger les réseaux de télécommunications publics ou les stations réceptrices ou émettrices utilisées pour des raisons de sécurité. 
+2. Sans préjudice de la directive 83/189/CEE, les États membres informent la Commission et les autres États membres des mesures spéciales prises en vertu du paragraphe 1. 
+3. Les mesures spéciales qui ont été reconnues comme justifiées font, de la part de la Commission, l'objet d'une information approppriée dans le Journal officiel des Communautés européennes. 
+Article 7 
+1. Les États membres présument conformes aux exigences de protection visées à l'article 4 les appareils qui sont conformes: 
+a) aux normes nationales les concernant, transposant les normes harmonisées dont les références ont fait l'objet d'une publication au Journal officiel des Communautés européennes. Les États membres publient les références de ces normes nationales; 
+b) ou aux normes nationales les concernant visées au paragraphe 2 dans la mesure où, dans les domaines couverts par de telles normes, des normes harmonisées n'existent pas. 
+2. Les États membres communiquent à la Commission le texte de leurs normes nationales visées au paragraphe 1 point b) qu'ils estiment satisfaire aux exigences de protection visées à l'article 4. La Commission communique ce texte immédiatement aux autres États membres. Selon la procédure prévue à l'article 8 paragraphe 2, elle notifie aux États membres celles desdites normes qui bénéficient de la présomption de conformité aux exigences de protection visées à l'article 4. 
+Les États membres publient les références de ces normes. La Commission les publie également au Journal officiel des Communautés européennes. 
+3. Les États membres acceptent que les appareils pour lesquels le fabricant n'a pas appliqué, ou n'a appliqué qu'en partie, les normes visées au paragraphe 1, ou en l'absence de normes, soient présumés conformes aux exigences de protection visées à l'article 4 lorsque leur conformité avec ces exigences est attestée par le moyen d'attestation prévu à l'article 10 paragraphe 2. 
+Article 8 
+1. Lorsqu'un État membre ou la Commission estime que les normes harmonisées visées à l'article 7 paragraphe 1 point a) ne satisfont pas entièrement aux exigences visées à l'article 4, l'État membre concerné ou la Commission saisit le comité permanent institué par la directive 83/189/CEE, ci-après dénommé « comité », en exposant ses raisons. Le comité émet un avis d'urgence. 
+Au vu de l'avis du comité, la Commission notifie au plus tôt aux États membres si les normes concernées doivent être retirées ou non des publications visées à l'article 7 paragraphe 1 point a), dans leur totalité ou en partie. 2. Après réception de la communication visée à l'article 7 paragraphe 2, la Commission consulte le comité. Au vu de l'avis de celui-ci, la Commission notifie au plus tôt aux États membres si la norme nationale en cause doit ou non bénéficier de la présomption de conformité et, dans l'affirmative, faire dès lors l'objet d'une publication nationale de référence. 
+Si la Commission ou un État membre estime qu'une norme nationale ne remplit plus les conditions nécessaires pour être présumée conforme aux exigences de protection visées à l'article 4, la Commission consulte le comité, qui donne son avis sans délai. Au vu de l'avis de celui-ci, elle notifie au plus tôt aux États membres si la norme en cause doit encore ou ne doit plus bénéficier de la présomption de conformité et, dans ce dernier cas, être retirée dans sa totalité ou en partie, des publications visées à l'article 7 paragraphe 2. 
+Article 9 
+1. Lorsqu'un État membre constate qu'un appareil accompagné de l'un des moyens d'attestation prévus à l'article 10 ne répond pas aux exigences de protection visées à l'article 4, il prend toutes les mesures utiles pour retirer du marché l'appareil en cause, en interdire la mise sur le marché ou en restreindre la libre circulation. 
+L'État membre concerné informe immédiatement la Commission de cette mesure et indique les raisons de sa décision et, en particulier, si la non-conformité résulte: 
+a) du non-respect des exigences visées à l'article 4, lorsque l'appareil ne correspond pas aux normes visées à l'article 7 paragraphe 1; 
+b) d'une mauvaise application des normes visées à l'article 7 paragraphe 1; 
+c) d'une lacune des normes visées à l'article 7 paragraphe 1 elles-mêmes. 
+2. La Commission consulte les parties concernées dans les plus brefs délais. Lorsqu'elle constate, après cette consultation, que l'action est justifiée, elle en informe immédiatement l'État membre qui a pris l'initiative ainsi que les autres États membres. 
+Lorsque la décision visée au paragraphe 1 est motivée par une lacune des normes, la Commission, après consultation des participants, saisit le comité dans un délai de deux mois si l'État membre ayant pris les mesures entend les maintenir, et elle entame les procédures visées à l'article 8. 
+3. Lorsque l'appareil non conforme est accompagné de l'un des moyens d'attestation visés à l'article 10, l'État membre compétent prend à l'encontre de l'auteur de l'attestation les mesures appropriées et en informe la Commission et les autres États membres. 
+4. La Commission s'assure que les États membres sont tenus informés du déroulement et des résultats de cette procédure. 
+Article 10 
+1. Dans le cas d'appareils pour lesquels le fabricant a appliqué les normes visées à l'article 7 paragraphe 1, la conformité des appareils avec les dispositions de la présente directive est attestée par une déclaration CE de conformité, délivrée par le fabricant ou son mandataire établi dans la Communauté. Cette déclaration doit être tenue à la disposition de l'autorité compétente pendant dix ans suivant la mise sur le marché des appareils. 
+En outre, le fabricant, ou son mandataire établi dans la Communauté, appose la marque CE de conformité sur l'appareil, à défaut sur l'emballage, sur sa notice d'emploi ou sur son bon de garantie. 
+Lorsque ni le fabricant ni son mandataire ne sont établis dans la Communauté, l'obligation susmentionnée de tenir à disposition la déclaration CE de conformité incombe à toute personne qui met l'appareil sur le marché communautaire. 
+Les dispositions relatives à la déclaration CE et à la marque CE figurent à l'annexe I. 
+2. Dans le cas d'appareils pour lesquels le fabricant n'a pas appliqué ou n'a appliqué qu'en partie les normes visées à l'article 7 paragraphe 1, ou en l'absence de normes, le fabricant, ou son mandataire établi dans la Communauté, tient à la disposition des autorités compétentes concernées, dès la mise sur le marché, un dossier technique de construction. Ce dossier doit donner une de description de l'appareil, exposer les modalités mises en oeuvre pour assurer la conformité de l'appareil avec les exigences de protection visés à l'article 4 et comprendre un rapport technique ou un certificat, l'un ou l'autre ayant été obtenu d'un organisme compétent. 
+Le dossier doit être tenu à la disposition des autorités compétentes pendant dix ans suivant la mise sur le marché des appareils. 
+Lorsque ni le fabricant ni son mandataire ne sont établis dans la Communauté, cette obligation de tenir à disposition le dossier technique incombe à toute personne qui met l'appareil sur le marché communautaire. 
+La conformité des appareils avec celui décrit dans le dossier technique est attestée conformément à la procédure prévue au paragraphe 1. 
+Les États membres présument, sous réserve des dispositions du présent paragraphe, que ces appareils sont conformes aux exigences de protection visées à l'article 4. 3. Pour autant que les normes visées à l'article 7 paragraphe 1 n'existent pas encore, et sans préjudice des dispositions du paragraphe 2 du présent article, les appareils concernés peuvent continuer d'être soumis à titre transitoire, jusqu'au 31 décembre 1992 au plus tard, aux régimes nationaux en vigueur à la date d'adoption de la présente directive, sous réserve de la compatibilité de ces régimes avec les dispositions du traité. 
+4. La conformité des appareils visés par l'article 2 paragraphe 2 de la directive 86/361/CEE avec les dispositions de la présente directive est attestée conformément à la procédure prévue au paragraphe 1, après que le fabricant, ou son mandataire établi dans la Communauté, a obtenu une attestation CE de type concernant ces appareils, délivrée par l'un des organismes notifiés visés au paragraphe 6 du présent article. 
+5. La conformité des appareils conçus pour l'émission des radiocommunications, telles que définies dans la convention de l'union internationale des télécommunications, avec les dispositions de la présente directive est attestée conformément à la procédure prévue au paragraphe 1, après que le fabricant, ou son mandataire établi dans la Communauté, a obtenu une attestation CE de type concernant ces appareils, délivrée par l'un des organismes notifiées visés au paragraphe 6. 
+Cette disposition ne s'applique pas aux appareils mentionnés ci-dessus lorsqu'ils sont conçus et destinés exclusivement à des radioamateurs au sens de l'article 2 paragraphe 2. 
+6. Chaque État membre notifie, à la Commission et aux autres États membres, les autorités compétentes visées dans le présent article et les organismes chargés de délivrer les attestations CE de type, visés aux paragraphes 4 et 5 la Commission publie, pour information, au Journal officiel des Communautés européennes, la liste de ces autorités et organismes et en assure la mise à jour. 
+La notification précise si ces organismes sont compétents pour tous les appareils couverts par la présente directive ou si leur responsabilité se borne à certains domaines spécifiques. 
+Les États membres appliquent les critères énumérés à l'annexe II pour l'évaluation des organismes à notifier. 
+Les organismes qui satisfont aux critères d'évaluation fixés par les normes harmonisées concernées sont présumés répondre aux critères susvisés. 
+Un État membre qui a notifié un organisme doit retirer son agrément s'il constate que cet organisme ne satisfait plus aux critères énumérés à l'annexe II. Il en informe immédiatement la Commission et les autres États membres. 
+Article 11 
+Les directives 76/889/CEE et 76/890/CEE sont abrogées à partir du 1er janvier 1992. 
+Article 12 
+1. Les États membres adoptent et publient, avant le 1er juillet 1991, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive. Ils en informent la Commission. 
+Ils appliquent ces dispositions à partir du 1er janvier 1992. 
+2. Les États membres communiquent à la Commission le texte des dispositions de droit interne qu'ils adoptent dans le domaine régi par la présente directive. 
+Article 13 
+Les États membres sont destinataires de la présente directive. 
+Fait à Bruxelles, le 3 mai 1989. 
+Par le Conseil 
+Le président 
+P. SOLBES 
+(1) JO no C 322 du 2. 12. 1987, p. 4. 
+(2) JO no 262 du 10. 10. 4988, p. 82, et JO no C 69 du 20. 3. 1989, p. 72. 
+(3) JO no C 134 du 24. 5. 1988, p. 2. 
+(4) JO no L 217 du 5. 8. 1986, p. 21. 
+(1) JO no L 109 du 26. 4. 1983, p. 8. 
+(2) JO no L 81 du 26. 3. 1988, p. 75. 
+(3) JO no L 336 du 4. 12. 1976, p. 1. 
+(4) JO no L 336 du 4. 12. 1976, p. 22. 
+ANNEXE I 
+1. Déclaration CE de conformité 
+La déclaration CE de conformité doit comprendre les éléments suivants: 
+- description de l'appareil ou des appareils visé(s), 
+- référence des spécifications par rapport auxquelles la conformité est déclarée et, le cas échéant, mesures internes mises en oeuvre pour assurer la conformité des appareils avec les dispositions de la directive, 
+- identification du signataire ayant reçu pouvoir pour engager le fabricant ou son mandataire, 
+- le cas échéant, référence de l'attestation CE de type délivrée par un organisme notifié. 
+2. Marque CE de conformité 
+- La marque CE de conformité est composée du sigle « CE », figurant ci-dessous, et du millésime de l'année au cours de laquelle la marque a été apposée. 
+- Le cas échéant, cette marque doit être complétée par le sigle distinctif de l'organisme notifié ayant délivré l'attestation CE de type. 
+- Lorsque des appareils font l'objet d'autres directives prévoyant la marque CE de conformité, l'application de la marque CE indique également la conformité avec les exigences concernées de ces autres directives. 
+ANNEXE II 
+Critères pour l'évaluation des organismes à notifier 
+Les organismes désignés par les États membres doivent remplir les conditions minimales suivantes: 
+1) disponibilité en personnel ainsi qu'en moyens et équipements nécessaires; 
+2) compétence technique et intégrité professionnelle du personnel; 
+3) indépendance, quant à l'exécution des essais, à l'élaboration des rapports, à la délivrance des attestations et à la réalisation de la surveillance, prévues par la directive, des cadres et du personnel technique par rapport à tous les milieux, groupements ou personnes, directement ou indirectement intéressés au domaine du produit concerné; 
+4) respect du secret professionnel par le personnel; 
+5) souscription d'une assurance de responsabilité civile à moins que cette responsabilité ne soit couverte par l'État sur la base du droit national. 
+Les conditions visées aux points 1 et 2 sont périodiquement vérifiées par les autorités compétentes des États membres. 
+ANNEXE III 
+Liste illustrant les principales exigences en matière de protection 
+Le niveau maximal des perturbations électromagnétiques générées par les appareils doit être tel qu'il ne gêne pas l'utilisation notamment des appareils suivants: 
+a) récepteurs de radio et de télévision privés; 
+b) équipements industriels; 
+c) équipements radio mobiles; 
+d) équipements radio mobiles et radiotéléphoniques commerciaux; 
+e) appareils médicaux et scientifiques; 
+f) équipements des technologies de l'information; 
+g) appareils ménagers et équipements électroniques ménagers; 
+h) appareils radio pour l'aéronautique et la marine; 
+i) équipements éducatifs électroniques; 
+j) réseaux et appareils de télécommunications; 
+k) émetteurs de radio et de télédiffusion; 
+l) éclairage et lampes fluorescentes. 
+Les appareils, et notamment ceux visés aux points a) à l), devraient être construits de manière à avoir un niveau adéquat d'immunité électromagnétique dans un environnement normal de compatibilité électromagnétique là où les appareils sont destinés à fonctionner, de façon à pouvoir être utilisés sans gêne compte tenu des niveaux de la perturbation générée par les appareils satisfaisant aux normes fixées à l'article 7. 
+Les informations nécessaires pour permettre une utilisation conforme à la destination de l'appareil doivent figurer dans une notice qui accompagne l'appareil. 

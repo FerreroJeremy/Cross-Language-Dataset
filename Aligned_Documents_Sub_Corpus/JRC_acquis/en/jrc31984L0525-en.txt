@@ -1,0 +1,241 @@
+Council Directive 84/525/EEC of 17 September 1984 on the approximation of the laws of the Member States relating to seamless, steel gas cylinders 
+COUNCIL DIRECTIVE of 17 September 1984 on the approximation of the laws of the Member States relating to seamless, steel gas cylinders (84/525/EEC) 
+THE COUNCIL OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof, 
+Having regard to the proposal from the Commission, 
+Having regard to the opinion of the European Parliament (1), 
+Having regard to the opinion of the Economic and Social Committee (2), 
+Whereas in the Member States the construction of gas cylinders and the relevant controls are subject to mandatory provisions varying from one Member State to another and consequently hinder the trade in such vessels ; whereas it is therefore necessary to approximate these provisions; 
+Whereas Council Directive 76/767/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to common provisions for pressure vessels and methods of inspecting them (3), as amended by the Act of Accession of 1979, lays down in particular the procedures of EEC pattern approval and verification for these vessels ; whereas, according to that Directive, it is advisable to lay down the technical requirements to be complied with by EEC-type seamless, steel gas cylinders with a capacity of 0,5 to 150 litres in order to be importable, commercialized and used without restraint after having undergone inspection and bearing accordingly a mark and a symbol, 
+HAS ADOPTED THIS DIRECTIVE: 
+Article 1 
+1. This Directive shall apply to the steel pressure-resistant shells of seamless cylinders, i.e. formed from a single piece, capable of being refilled and transported, with a capacity of between 0,5 and 150 litres inclusive and designed to contain compressed, liquefied or dissolved gases. These gas cylinders are hereinafter referred to as %quot%cylinders%quot%. 
+2. This Directive shall not apply to cylinders made of austenitic steel or to cylinders to which metal is added when the base is being sealed. 
+3. This Directive shall apply irrespective of the number of outlets the cylinder has (one or two). (1) OJ No C 2, 9.1.1974, p. 64. (2) OJ No C 101, 23.11.1973, p. 25. (3) OJ No L 262, 27.9.1976, p. 153. 
+Article 2 
+For the purposes of this Directive, %quot%EEC-type cylinder%quot% shall mean any cylinder designed and manufactured in such a way that it satisfies the requirements of this Directive and of Directive 76/767/EEC. 
+Article 3 
+No Member State may, on grounds relating to the construction or inspection of a cylinder within the meaning of Directive 76/767/EEC and this Directive, refuse, prohibit or restrict the marketing and placing in service of an EEC-type cylinder. 
+Article 4 
+All EEC-type cylinders shall be subject to EEC pattern approval. 
+All EEC-type cylinders shall be subject to EEC verification with the exception of cylinders with a hydraulic test pressure of 120 bars or less and with a capacity of not more than one litre. 
+Article 5 
+Any amendments necessary to adapt sections 2.1.3, 2.1.4, 2.3, 3.1.1.1, 3.4, 3.5, 3.6, 3.7, 4, 5 and 6 of Annex I and the other Annexes to this Directive to technical progress shall be adopted in accordance with the procedure laid down in Article 20 of Directive 76/767/EEC. 
+Article 6 
+The procedure laid down in Article 17 of Directive 76/767/EEC may apply to section 2.2 of Annex I to this Directive. 
+Article 7 
+1. Member States shall bring into force the laws, regulations and administrative provisions needed in order to comply with this Directive within 18 months of its notification (1) and shall forthwith inform the Commission thereof. 
+2. Member States shall ensure that the texts of the provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. 
+Article 8 
+This Directive is addressed to the Member States. 
+Done at Brussels, 17 September 1984. 
+For the Council 
+The President 
+P. BARRY (1) This Directive has been notified to the Member States on 26 September 1984. 
+ANNEX I 
+1. DEFINITIONS OF, AND SYMBOLS FOR, THE TERMS USED IN THIS ANNEX 1.1. YIELD STRESS 
+For the purposes of this Directive, the yield stress values used in the calculation of the parts subjected to pressure shall be as follows: - when a steel does not display a lower and an upper yield point, the minimum value of the conventional yield point Rp 0,2 is to be taken; 
+- when a steel displays a lower and an upper yield point, the value to be taken is: - ReL, 
+- ReH × 0,92, or 
+- Rp 0,2. 
+1.2. BURSTING PRESSURE 
+For the purposes of this Directive, %quot%bursting pressure%quot% means the pressure at plastic instability, i.e. the maximum pressure obtained during a pressure bursting test. 
+1.3. SYMBOLS 
+The symbols used in this Annex have the following meanings: 
+Ph = hydraulic test pressure, in bars; 
+Pr = cylinder bursting pressure measured during the bursting test, in bars; 
+Prt = calculated minimum theoretical bursting pressure, in bars; 
+Re = value of the yield stress taken into account in accordance with 1.1 for the purpose of determining the value of R used in calculating the parts subjected to pressure, in N/mm2; 
+ReL = minimum value of the lower yield point, guaranteed by the cylinder manufacturer, in N/mm2; 
+ReH = minimum value of the upper yield point, guaranteed by the cylinder manufacturer, in N/mm2; 
+Rp 0,2 = conventional yield point 0,2 %, guaranteed by the manufacturer, in N/mm2; 
+The conventional yield point is the value of the stress which gives rise to a non-proportional elongation equal to 0,2 % of the original gauge length. 
+Rm = minimum value of the tensile strength guaranteed by the cylinder manufacturer, in N/mm2; 
+a = calculated minimum thickness of the cylindrical shell wall, in mm; 
+D = nominal outside diameter of the cylinder, in mm; 
+d = mandrel diameter for bend tests, in mm; 
+Rmt = actual tensile strength, in N/mm2. 
+1.4. NORMALIZATION 
+The term %quot%normalization%quot% is used in this Directive as defined in paragraph 68 of EURONORM 52-83. 
+Normalization may be followed by tempering at a uniform temperature below the lowest transformation point (Ac1) of the steel. 
+1.5. QUENCHING AND TEMPERING 
+The term %quot%quenching and tempering%quot% relates to the heat treatment to which a completed cylinder is subjected, during which the cylinder is heated to a uniform temperature above the upper transformation point (Ac3) of the steel. The cylinder is then cooled at a rate not exceeding 80 % of that obtained by cooling in water at 20 °C and subsequently tempered at a uniform temperature below the lowest transformation point (Ac1) of the steel. 
+The heat treatment must be such that it does not cause cracks in the cylinder. The cylinders must not be quenched in water without additives. 
+2. TECHNICAL REQUIREMENTS 2.1. STEELS USED 2.1.1. A steel shall be defined according to its method of manufacture, its chemical composition and the heat treatment to which the finished cylinder is subjected, and its mechanical characteristics. The manufacturer shall give the corresponding information, taking account of the requirements listed below. Any change in such information shall be deemed to correspond to a change in the type of steel for the purposes of EEC pattern approval. (a) Method of manufacture 
+The method of manufacture shall be defined by reference to the process used (for example open-hearth furnace, oxygen converter, electric furnace) and the killing method used. 
+(b) Chemical composition 
+The chemical composition must show at least: - the maximum sulphur and phosphorous content in all cases, 
+- the carbon, manganese and silicon content in all cases, 
+- the nickel, chromium, molybdenum and vanadium content when such substances are deliberately introduced as alloying elements. 
+The carbon, manganese, silicon and, where appropriate, nickel, chromium, molybdenum and vanadium content must be given with tolerances such that the differences between the maximum and minimum values for each cast do not exceed: - carbon: - 0,06 % when the maximum content is less than 0,30 %, 
+- 0,07 % when the maximum content is 0,30 % or more; 
+- manganese and silicon: - 0,30 %; 
+- chromium: - 0,30 % when the maximum content is less than 1,5 %, 
+- 0,50 % when the maximum content is 1,5 % or more; 
+- nickel: - 0,40 %; 
+- molybdenum: - 0,15 %; 
+- vanadium: - 0,10 %. 
+(c) Heat treatment 
+The heat treatment shall be defined in terms of the temperature, the length of time held at the temperature and the nature of the cooling fluid used for each stage of the treatment (normalization, whether or not followed by tempering, or quenching and tempering). 
+The austenitization temperature before quenching or normalization must be fixed with a margin of 35 °C either way. 
+The same applies to the tempering temperature. 
+2.1.2. Conditions to be fulfilled 
+The steel used must be killed steel and resistant to ageing. The whole of the finished cylinder must be subjected to heat treatment which may be either normalization, whether or not followed by tempering, or quenching followed by tempering. The sulphur and phosphorus contents obtained for the cast sample should each be not more that 0,035 % and must not in total exceed 0,06 %. The sulphur and phosphorus contents obtained for the product must each be not more than 0,04 % and must not in total exceed 0,07 %. 
+2.1.3. A steel within the meaning of 2.1.1 may not be used by a manufacturer unless it is accepted by a Member State for the manufacture of seamless cylinders. Each Member State shall supply any other Member State on request with a list of the materials used on its territory for the manufacture of the cylinders covered by this Directive. 
+2.1.4. There must be an opportunity of making independent analyses, in particular for the purposes of checking that the sulphur and phosphorus contents correspond to the requirements of 2.1.2. These analyses must be carried out on either specimens taken from the semi-finished product as supplied to the cylinder manufacturer by the steelmaker or the finished cylinders. 
+When it is decided to take a specimen from a cylinder, it is permissible for the specimen to be taken from one of the cylinders previously chosen for the mechanical tests specified in 3.1 or for the pressure bursting test specified in 3.2. 
+2.2. CALCULATIONS FOR THE PRESSURE PARTS 2.2.1. The minimum wall thickness shall be at least equal to the greatest value given by the following: %gt%PIC FILE= %quot%T0026216%quot%%gt% 
+where R is the smaller of the following two values: (1) Re; 
+(2) 0,75 7Rm, for normalized or normalized and tempered cylinders, 0,85 7Rm, for quenched and tempered cylinders. %gt%PIC FILE= %quot%T0026217%quot%%gt% 
+2.2.2. If a convex end is obtained by forging from tube, the wall thickness measured at the centre of the shaped end shall be at least 1,5a. 
+2.2.3. The thickness of the concave base of cylinders must not be less than 2a within the diameter on which the cylinder stands. 
+2.2.4. In order to ensure satisfactory stress distribution, the thickness of the cylinder walls must increase progressively in the transition section between the cylindrical wall and the base. 
+2.3. CONSTRUCTION AND WORKMANSHIP 2.3.1. The thickness of each cylinder shall be checked and the condition of its internal and external surfaces inspected by the manufacturer in order to verify that: - the wall thickness is at no point less than that specified on the drawing, 
+- the internal and external surfaces of the cylinder are free from defects which would adversely affect the operating safety of the cylinder. 
+2.3.2. The cut-of-roundness of the cylindrical shell must be limited to such a value that the difference between the maximum and minimum outside diameters in the same cross-section is not more than 1,5 % of the average of those diameters. 
+The maximum deviation of the cylindrical part of the shell from a straight line shall not exceed 3 mm per metre length. 
+2.3.3. Cylinder footrings, where provided, must be sufficiently strong and be manufactured from a material which, with regard to corrosion, is compatible with the type of steel of which the cylinder is made. The shape of the footring must give the cylinder an adequate degree of stability. Footrings must not allow water to accumulate or permit ingress of water between the ring and the cylinder. 
+3. TESTS 3.1. MECHANICAL TESTS 3.1.1. General requirements 3.1.1.1. Except where otherwise specified by this Directive, the mechanical tests shall be carried out in accordance with the following EURONORMS: 
+EURONORM 2-80 : tensile test for steel; 
+EURONORM 3-79 : Brinell hardness test; 
+EURONORM 6-55 : bend test for steel; 
+EURONORM 11-80 : tensile test for steel sheet and strip less than 3 mm thick; 
+EURONORM 12-55 : bend test for steel sheet and strip less than 3 mm thick; 
+EURONORM 45-63 : impact test on a notched test-piece resting on two supports. 
+3.1.1.2. All mechanical tests for checking the quality of the material used in cylinders shall be carried out on test-pieces taken from the finished cylinders. 
+3.1.2. Types of test and test criteria 
+Every test cylinder must undergo one tensile test in a longitudinal direction, four bend tests in a circumferential direction and, if the wall thickness makes it possible to take test-pieces at least 5 mm wide, three impact tests. The impact test-pieces shall be taken in a transverse direction ; however, if the thickness and/or diameter of the cylinder prevents a test specimen of at least 5 mm wide from being taken in a transverse direction, the impact test-pieces shall be taken in a longitudinal direction. 3.1.2.1. Tensile test 3.1.2.1.1. The test-piece shall be in accordance with the provisions: - of chapter 4 of EURONORM 2-80, where it is 3 mm thick or more, 
+- of chapter 4 of EURONORM 11-80, where it is less than 3 mm thick. In this case, the gauge width and length of the test-piece shall be 12,5 and 50 mm respectively, irrespective of the thickness of the test-piece. 
+3.1.2.1.2. The two faces of the test-piece corresponding to the internal and external walls of the cylinder must not be machined. 
+3.1.2.1.3. The elongation, expressed as a percentage, must not be less than: %gt%PIC FILE= %quot%T0026218%quot%%gt% 
+Moreover, the elongation must in no case be less than: - 14 %, where the test is carried out in accordance with EURONORM 2-80, 
+- 11 %, where the test is carried out in accordance with EURONORM 11-80. 
+3.1.2.1.4. The value obtained for tensile strength must not be less than Rm. 
+The yield stress to be determined during the tensile test shall be that used in accordance with 1.1 for the cylinder calculation. The upper yield point must be determined from the load/elongation diagram or by any other equally precise method. 
+The value obtained for the yield stress must not be less than ReH, ReL or Rp 0,2, as the case may be. 
+3.1.2.2. Bend test 3.1.2.2.1. The bend test shall be carried out on test-pieces obtained by cutting a ring 25 mm wide into two parts of equal length, each of which may be machined only on the edges. The two faces of each test-piece which correspond to the internal and external walls of the cylinder may not be machined. 
+3.1.2.2.2. The bend test must be carried out using a mandrel of diameter d and two cylinders separated by a distance of d + 3a. 
+During the test the inside face of the ring must remain against the mandrel. 
+3.1.2.2.3. The test-piece must not crack when bent inwards round a mandrel until the inside edges are no farther apart than the diameter of a mandrel (see diagram in Annex III). 
+3.1.2.2.4. The ratio (n) between the diameter of the mandrel and the thickness of the test-piece must not exceed the values given in the following table: %gt%PIC FILE= %quot%T0026219%quot%%gt% 
+3.1.2.3. Impact tests 3.1.2.3.1. The impact test shall be carried out on test-pieces of the EURONORM 45-63 type. 
+All impact strength measurements shall be carried out at - 20 °C. 
+The notch shall be perpendicular to the faces of the cylinder wall. 
+The test-pieces used for the impact test may not be straightened and must be machined on the six faces, but only to the extent necessary to achieve flat surfaces. 
+3.1.2.3.2. The average impact strength value obtained from three impact tests in a longitudinal or transverse direction and each of the individual values obtained from the tests may not be less than the corresponding value, expressed in J/cm2, indicated in the following table: %gt%PIC FILE= %quot%T0026220%quot%%gt% 
+3.2. HYDRAULIC PRESSURE BURSTING TEST 3.2.1. Test conditions 
+Cylinders subjected to this test must bear the markings as specified in section 6. 3.2.1.1. The hydraulic pressure bursting test must be carried put in thwo successive stages, using a test-rig which allows pressure in the cylinder to be increased at an even rate until the cylinder bursts and the curve of pressure variation against time to be recorded. The test must be carried out at room temperature. 
+3.2.1.2. During the first stage, the increase in pressure shall be constant up to the level at which plastic deformation starts. This rate must not exceed 5 bars/sec. 
+From the start of plastic deformation (second phase), delivery from the pump must not be more than twice as much as it was in the first phase and must be maintained constant until the cylinder bursts. 
+3.2.2. Interpretation of test 3.2.2.1. The interpretation of the pressure bursting test shall involve: - examination of the pressure/time curve to determine the bursting pressure, 
+- examination of the tear and of the shape of its edges, 
+- verification, in the case of cylinders with a concave base, that the base of the cylinder has not been reversed. 
+3.2.2.2. The measured bursting pressure (Pr) shall be greater than the value given by: %gt%PIC FILE= %quot%T0026221%quot%%gt% 
+3.2.2.3. The bursting test must not cause fragmentation of the cylinder. 
+3.2.2.4. The main tear must not be of the brittle type, i.e. the edges of the fracture must not be radial but be sloping in relation to a diametral plane and must display a contraction. 
+A fracture shall be acceptable only if it meets the following conditions: 1. In the case of cylinders the thickness %quot%a%quot% of which does not exceed 7,5 mm: (a) the greater part of the fracture must be unmistakably longitudinal; 
+(b) the fracture must be without multiple branches; 
+(c) the fracture must not have a circumferential development of more than 90° on either side of its main part; 
+(d) the fracture must not extend into those parts of the cylinder which are more than 1,5 times thicker than the maximum thickness measured halfway up the cylinder; 
+(e) in the case of cylinders with convex bases, the fracture must not reach the centre of the cylinder base. 
+However, it is permissible for condition (d) not to be met: (a) in the case of a conical head or convex base where the fracture does not extend into parts of the cylinder having a diameter less than 0,75 times the nominal external diameter of the cylinder; 
+(b) in the case of a concave base, where the distance between the furthermost point of the fracture and the base-plane of the cylinder exceeds 5 times the thickness %quot%a%quot%; 
+2. In the case of cylinders the thickness %quot%a%quot% of which exceeds 7,5 mm, the greater part of the fracture must be unmistakably longitudinal. 
+3.2.2.5. The tear shall not reveal any obvious defect in the metal. 
+3.3. PRESSURE CYCLING TEST 3.3.1. Cylinders subjected to this test must bear the markings specified in section 6. 
+3.3.2. The pressure cycling test shall be carried out on two cylinders which are guaranteed by the manufacturer to be reasonably representative of the minimum values specified in the design using a non-corrosive fluid. 
+3.3.3. This test shall be cyclical. The maximum cyclic pressure shall be equal to either the pressure Ph or two-thirds thereof. 
+The lower cyclic pressure must not exceed 10 % of the upper cyclic pressure. 
+The minimum number of cycles and the maximum test frequency are shown in the following table: %gt%PIC FILE= %quot%T0026222%quot%%gt% 
+The temperature measured on the outer wall of the cylinder must not exceed 50 °C during the test. 
+The test shall be considered satisfactory if the cylinder attains the required number of cycles without developing a leak. 
+3.4. HYDRAULIC TEST 3.4.1. The water pressure in the cylinder must increase at an even rate until the pressure Ph is reached. 
+3.4.2. The cylinder must remain under the pressure Ph long enough to make it possible to establish that the pressure shows no tendency to fall and that there are no leaks. 
+3.4.3. After the test the cylinder must show no permanent deformation. 
+3.4.4. Any tested cylinder which does not fulfil the test requirements shall be rejected. 
+3.5. CHECK ON THE CONSISTENCY OF A CYLINDER 
+This test involves checking that any two points on the metal of the external surface of the cylinder do not differ in hardness by more than 25 HB. The check must be carried out on two transverse sections of the cylinder near the head and the base, at four evenly spaced points. 
+3.6. CHECK ON THE CONSISTENCY OF A BATCH 
+This test, which is carried out by the manufacturer, involves checking by means of a hardness test or some other appropriate means that no error has been made in the choice of the original material (sheet metal, billet, tubing) or in carrying out the heat treatment. However, in the case of normalized but non-tempered cylinders, the test need not be carried out on each cylinder. 
+3.7. CHECK ON BASES 
+A meridian section shall be made in the base of the cylinder and one of the surfaces thus obtained polished for examination under a magnification of between 5 and 10. 
+The cylinder must be regarded as defective if the presence of fissures is detected. It is also to be regarded as defective if the dimensions of any pores or inclusions present reach values considered to pose a threat to safety. 
+4. EEC PATTERN APPROVAL 
+The EEC pattern approval referred to in Article 4 of the Directive may also be issued for families of cylinders. 
+%quot%Family of cylinders%quot% means cylinders from the same factory which differ only in their length, but within the following limits: - the minimum length must not be less than 3 times the diameter of the cylinder; 
+- the maximum length must not be more than 1,5 times the length of the tested cylinder. 
+4.1. The applicant for EEC pattern approval shall, for each family of cylinders, submit the documentation necessary for the checks prescribed below and make available to the Member State a batch of 50 cylinders from which the number of cylinders required for the tests referred to in the same paragraph will be taken, together with any additional information required by the Member State. The applicant must indicate the type and duration of heat treatment and the temperatures. He must obtain and provide cast analysis certificates for steel supplied for cylinder manufacture. 
+4.2. In the course of the EEC pattern approval process, the Member State shall: 4.2.1. verify that: - the calculations specified in 2.2 are correct, 
+- the thickness of the walls on two cylinders meets the requirements of 2.2, the measurements being taken on three transverse sections and over the whole circumference of the longitudinal sections of the base and head, 
+- the conditions specified in 2.1 and 2.3.3 are fulfilled, 
+- the requirements of 2.3.2 are complied with for all cylinders selected by the Member State, 
+- the internal and external surfaces of the cylinders are free of any defect which may make them unsafe. 
+4.2.2. carry out the following tests on the cylinders selected: - the tests specified in 3.1, on two cylinders ; however, where the length of the cylinder is 1 500 mm or more, the tensile test in a longitudinal direction and the bend tests shall be carried out on test-pieces taken from the upper and lower regions of the shell, 
+- the test specified in 3.2, on two cylinders, 
+- the test specified in 3.3, on two cylinders, 
+- the test specified in 3.5, on one cylinder, 
+- the test specified in 3.7, on all the sample cylinders. 
+4.3. If the results of the checks are satisfactory, the Member State shall issue the EEC pattern approval certificate in accordance with the model contained in Annex IV. 
+5. EEC VERIFICATION 5.1. FOR THE PURPOSE OF EEC VERIFICATION, THE CYLINDER MANUFACTURER SHALL: 5.1.1. provide the inspection body with the EEC pattern approval certificate; 
+5.1.2. provide the inspection body with certificates stating the cast analyses of the steel supplied for the construction of the cylinders; 
+5.1.3 have a means of identifying the cast of steel from which each cylinder was made; 
+5.1.4. provide the inspection body with the documents relating to heat treatment, necessary to certify that the cylinders provided by him are in either the normalized or the quenched and tempered condition, and state the treatment applied; 
+5.1.5. provide the inspection body with a list of the cylinders, stating the numbers and inscriptions as required in section 6. 
+5.2. DURING EEC VERIFICATION 5.2.1. The inspection body shall: - ascertain that the EEC pattern approval certificate has been obtained and that the cylinders conform to it, 
+- check the documents which give data concerning the materials, 
+- check whether the technical requirements set out in section 2 have been met, and in particular check by an external, and if possible internal, visual examination of the cylinders whether the construction and the checks carried out by the manufacturer in accordance with 2.3.1 are satisfactory ; the visual examination shall cover at least 10 % of the cylinders submitted, 
+- carry out the tests specified in 3.1 and 3.2, 
+- check whether the information supplied by the manufacturer in the list referred to in 5.1.5 is correct ; this shall be done by means of a random check, 
+- assess the result of the checks on the consistency of the batch carried out by the manufacturer in accordance with 3.6. 
+If the results of the checks are satisfactory, the inspection body shall issue an EEC verification certificate conforming to the model contained in Annex V. 
+5.2.2. For the two types of test prescribed in 3.1 and 3.2, two cylinders shall be taken at random from each batch of 202 cylinders or part thereof that have been made from the same cast and have undergone the specified heat treatment in identical circumstances. 
+One of the cylinders shall be subjected to the tests specified in 3.1 (mechanical tests) and the other to the test specified in 3.2 (bursting test). If it is shown that a test has been wrongly carried out or that a measuring error has been made, the test must be repeated. 
+If one or more tests prove even partially unsatisfactory, the cause must be investigated by the inspection body. 5.2.2.1. If the failure is not due to the heat treatment, the batch shall be rejected. 
+5.2.2.2. If the failure is due to the heat treatment, the manufacturer may subject all the cylinders in the batch to re-heat treatment. 
+Following re-heat treatment: - the manufacturer shall carry out the check provided for in 3.6, 
+- the inspection body shall carry out all the tests provided for in the first and second paragraphs of 5.2.2. 
+If the cylinders are not subject to re-heat treatment or if the results of the check and tests carried out following re-heat treatment do not satisfy the requirements of this Directive, the batch shall be rejected. 
+5.2.3. The selection of specimens and all the tests shall be carried out in the presence and under the supervision of a representative of the inspection body. 
+5.2.4. After all the specified tests have been carried out, all the cylinders in the batch shall be subjected to the hydraulic test specified in 3.4 in the presence and under the supervision of a representative of the inspection body. 
+5.3. EXEMPTION FROM EEC VERIFICATION 
+In the case of the cylinders exempted from EEC verification pursuant to Article 4 of this Directive, all the test and inspection operations prescribed in 5.2 shall be carried out by the manufacturer on his own responsibility. 
+The manufacturer shall provide the inspection body with all the documents and the test and inspection reports. 
+6. MARKS AND INSCRIPTIONS 
+The marks and inscriptions specified in this section shall be stamped visibly, legibly and indelibly on the shoulder of the cylinder. 
+In the case of cylinders with a capacity of not more than 15 litres the marks and inscriptions may be stamped on either the shoulder or another sufficiently thick part of the cylinder. 
+A diagram showing examples of the marks and inscriptions is given in Annex II. 6.1. STAMPING OF MARKS 
+By way of derogation from the requirements of section 3 of Annex I to Directive 76/767/EEC, the manufacturer shall stamp the EEC pattern approval mark in the following order: - for the cylinders subject to EEC pattern approval and EEC verification pursuant to Article 4 of this Directive: %gt%PIC FILE= %quot%T0026223%quot%%gt% 
+- for the cylinders exempted from EEC verification pursuant to Article 4 of this Directive: %gt%PIC FILE= %quot%T0026224%quot%%gt% 
+By way of derogation from the requirements of section 3 of Annex II to Directive 76/767/EEC, the inspection body shall affix the EEC verification mark in the following order: %gt%PIC FILE= %quot%T0026225%quot%%gt% %gt%PIC FILE= %quot%T0026226%quot%%gt% 
+6.2. CONSTRUCTION INSCRIPTIONS 
+The manufacturer shall stamp the following construction inscriptions: 6.2.1. as regards the steel: - a number indicating the value of R in N/mm2 on which the calculation was based, 
+- the symbol N (cylinder in the normalized condition or normalized and tempered) or the symbol T (cylinder in the quenched and tempered condition); 
+6.2.2. as regards the hydraulic test: 
+the value of the test pressure in bars followed by the symbol %quot%bar%quot%; 
+6.2.3. as regards the type of cylinder: 
+the mass of the cylinder, including all integral parts but excluding valve, in kilograms, and the minimum capacity in litres as guaranteed by the manufacturer of the cylinder; 
+the figures for mass and capacity must be given to one decimal place. This value is to be rounded down for the capacity and up for the mass; 
+6.2.4. as regards the origin: 
+the capital letter(s) indicating the country of origin followed by the manufacturer's mark and the serial number. 
+ANNEX II 
+%gt%PIC FILE= %quot%T0026227%quot%%gt% 
+ANNEX III Illustration of bend test 
+%gt%PIC FILE= %quot%T0026228%quot%%gt% 
+ANNEX IV 
+%gt%PIC FILE= %quot%T0026229%quot%%gt% 
+TECHNICAL ANNEX TO EEC APPROVAL CERTIFICATE 
+1. Results of EEC examination of the pattern with a view to EEC approval. 
+2. Information on the main features of the pattern, in particular: - longitudinal cross-section of the type of cylinder which has received pattern approval, showing: - the nominal external diameter, D, 
+- the minimum thickness of the cylinder wall, a, 
+- the minimum thickness of the base and the head, 
+- the minimum and maximum length(s), Lmin, Lmax; 
+- the capacity or capacities, Vmin, Vmax; 
+- the pressure, Ph; 
+- the name of the manufacturer/No of the drawing and date; 
+- name of the type of cylinder; 
+- the steel in accordance with section 2.1 (type/chemical composition/method of manufacture/heat treatment/guaranteed mechanical characteristics (tensile strength - yield point)). 
+ANNEX V MODEL 
+EEC VERIFICATION CERTIFICATE 
+Application of Council Directive 84/525/EEC of 17 September 1984. 
+%gt%PIC FILE= %quot%T0026231%quot%%gt% 
+%gt%PIC FILE= %quot%T0026232%quot%%gt% 

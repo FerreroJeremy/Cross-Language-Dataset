@@ -1,0 +1,82 @@
+Reglamento (CE) n° 1638/2001 de la Comisión, de 24 de julio de 2001, por el que se modifica el Reglamento (CE) n° 2597/95 del Consejo sobre presentación de estadísticas de capturas nominales por los Estados miembros que faenen en determinadas zonas distintas de las del Atlántico Norte 
+Reglamento (CE) n° 1638/2001 de la Comisión 
+de 24 de julio de 2001 
+por el que se modifica el Reglamento (CE) n° 2597/95 del Consejo sobre presentación de estadísticas de capturas nominales por los Estados miembros que faenen en determinadas zonas distintas de las del Atlántico Norte 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) n° 2597/95 del Consejo, de 23 de octubre de 1995, sobre presentación de estadísticas de capturas nominales por los Estados miembros que faenen en determinadas zonas distintas de las del Atlántico Norte(1) y, en particular, el apartado 5 de su artículo 2 y su artículo 4, 
+Considerando lo siguiente: 
+(1) La novena reunión de la Conferencia de las Partes de la Convención sobre el Comercio Internacional de Especies Amenazadas (CITES), celebrada en 1994, solicitó la vigilancia de los datos sobre captura y comercio de especies marinas elasmobranquias (tiburones, escualos y rayas) por la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO) y las Agencias regionales de pesca. 
+(2) La FAO, en colaboración con las Agencias regionales de pesca, ha elaborado una lista de especies de eslasmobranquios sobre las que se deberán recoger estadísticas relativas a las capturas en el sistema de cuestionarios STATLANT. 
+(3) El artículo 4 del Reglamento (CE) n° 2597/95 establece que los Estados miembros, previo acuerdo de Eurostat, podrán transmitir datos en una forma diferente o en un soporte distinto del descrito en el anexo 5 del Reglamento. 
+(4) Varios Estados miembros han solicitado transmitir datos en una forma diferente o en un soporte distinto del especificado en el anexo 5 del Reglamento (CE) n° 2597/95 (equivalente a los citados cuestionarios STATLANT). 
+(5) Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité permanente de estadística agrícola creado por la Decisión 72/279/CEE del Consejo(2). 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+El anexo I del presente Reglamento sustituirá al anexo 4 del Reglamento (CE) n° 2597/95. 
+Artículo 2 
+Los Estados miembros podrán presentar datos según el formato descrito en el anexo II del presente Reglamento. 
+Artículo 3 
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de las Comunidades Europeas. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 24 de julio de 2001. 
+Por la Comisión 
+Pedro Solbes Mira 
+Miembro de la Comisión 
+(1) DO L 270 de 13.11.1995, p. 1. 
+(2) DO L 179 de 7.8.1972, p. 1. 
+ANEXO I 
+LISTA DE LAS ESPECIES SOBRE LAS QUE DEBERÁ INFORMARSE EN CADA UNO DE LOS CALADEROS PRlNCIPALES 
+Las especies que se enumeran a continuación son aquellas sobre cuyas capturas se ha informado en las estadísticas oficiales. Los Estados miembros deberán suministrar datos por cada una de las especies identificadas cuando sea posible. Cuando no se puedan identificar especies individuales, los datos deberán agregarse y se suministrarán en la unidad que represente el mayor nivel posible de detalle. 
+Nota: 
+%quot%n.c.o.p.%quot% = no consignado en otra partida. 
+Atlántico centro oriental (Caladero principal 34) 
+%gt%SITIO PARA UN CUADRO%gt% 
+Mediterráneo y Mar Negro (Caladero principal 37) 
+%gt%SITIO PARA UN CUADRO%gt% 
+Atlántico Sudoccidental (Caladero principal 41) 
+%gt%SITIO PARA UN CUADRO%gt% 
+Atlántico Sudoriental (Caladero principal 47) 
+%gt%SITIO PARA UN CUADRO%gt% 
+Océano Indico Occidental (Caladero principal 51) 
+%gt%SITIO PARA UN CUADRO%gt% 
+ANEXO II 
+FORMATO DE PRESENTACIÓN EN SOPORTES MAGNÉTICOS DE LOS DATOS DE CAPTURAS NOMINALES EN ZONAS DISTINTAS DE LAS DEL ATLÁNTICO NORTE 
+A. FORMATO DE CODIFICACIÓN 
+Los datos se deben presentar como registros de longitud variable con un signo de dos puntos (:) entre los campos del registro. En cada registro se incluirán los siguientes campos: 
+%gt%SITIO PARA UN CUADRO%gt% 
+a) Las capturas se registrarán en toneladas métricas, redondeadas a la tonelada más próxima, del equivalente del peso en vivo de los desembarques. 
+b) Las cantidades inferiores a media unidad de registrarán como %quot%-1%quot%. 
+c) Códigos de países: 
+Austria AUT 
+Bélgica BEL 
+Dinamarca DNK 
+Finlandia FIN 
+Francia FRA 
+Alemania DEU 
+Grecia GRC 
+Irlanda IRL 
+Italia ITA 
+Luxemburgo LUX 
+Países Bajos NLD 
+Portugal PRT 
+España ESP 
+Suecia SWE 
+Reino Unido GBR 
+Islandia ISL 
+Noruega NOR 
+Bulgaria BGR 
+Chipre CYP 
+República Checa CZE 
+Estonia EST 
+Hungría HUN 
+Letonia LVA 
+Lituania LTU 
+Malta MLT 
+Polonia POL 
+Rumanía ROM 
+República Eslovaca SVK 
+Eslovenia SVN 
+Turquía TUR 
+B. MÉTODO DE TRANSMISIÓN DE DATOS A LA COMISIÓN EUROPEA 
+En la medida de de lo posible, los datos se transmitirán en formato electrónico (por ejemplo, como fichero adjunto por correo electrónico). Si no es posible, se aceptará la presentación de un archivo en un disquete de 3,5%quot% HD. 

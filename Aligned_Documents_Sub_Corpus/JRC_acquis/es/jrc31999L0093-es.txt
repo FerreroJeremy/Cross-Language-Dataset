@@ -1,0 +1,210 @@
+Directiva 1999/93/CE del Parlamento Europeo y del Consejo, de 13 de diciembre de 1999, por la que se establece un marco comunitario para la firma electrónica 
+DIRECTIVA 1999/93/CE DEL PARLAMENTO EUROPEO Y DEL CONSEJO 
+de 13 de diciembre de 1999 
+por la que se establece un marco comunitario para la firma electrónica 
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA, 
+Visto el Tratado constitutivo de la Comunidad Europea y, en particular, el apartado 2 de su artículo 47 y sus artículos 55 y 95, 
+Vista la propuesta de la Comisión(1), 
+Visto el dictamen del Comité Económico y Social(2), 
+Visto el dictamen del Comité de las Regiones(3), 
+De conformidad con el procedimiento establecido en el artículo 251 del Tratado(4), 
+Considerando lo siguiente: 
+(1) El 16 de abril de 1997, la Comisión presentó al Parlamento Europeo, al Consejo, al Comité Económico y Social y al Comité de las Regiones la comunicación %quot%Iniciativa europea de comercio electrónico%quot%. 
+(2) El 8 de octubre de 1997, la Comisión presentó al Parlamento Europeo, al Consejo, al Comité Económico y Social y al Comité de las Regiones la comunicación %quot%El Fomento de la seguridad y la confianza en la comunicación electrónica: hacia un marco europeo para la firma digital y el cifrado%quot%. 
+(3) El 1 de diciembre de 1997, el Consejo invitó a la Comisión a que presentara lo antes posible una propuesta de directiva del Parlamento Europeo y del Consejo sobre la firma digital. 
+(4) La comunicación y el comercio electrónicos requieren firmas electrónicas y servicios conexos de autenticación de datos. La heterogeneidad normativa en materia de reconocimiento legal de la firma electrónica y acreditación de los proveedores de servicios de certificación entre los Estados miembros puede entorpecer gravemente el uso de las comunicaciones electrónicas y el comercio electrónico. Por otro lado, un marco claro comunitario sobre las condiciones aplicables a la firma electrónica aumentará la confianza en las nuevas tecnologías y la aceptación general de las mismas. La legislación de los Estados miembros en este ámbito no debería obstaculizar la libre circulación de bienes y servicios en el mercado interior. 
+(5) Es preciso promover la interoperabilidad de los productos de firma electrónica; de conformidad con el artículo 14 del Tratado, el mercado interior implica un espacio sin fronteras interiores en el que está garantizada la libre circulación de mercancías. Deben satisfacerse los requisitos esenciales específicos de los productos de firma electrónica a fin de garantizar la libre circulación en el mercado interior y fomentar la confianza en la firma electrónica, sin perjuicio de lo dispuesto en el Reglamento (CE) n° 3381/94 del Consejo, de 19 de diciembre de 1994, por el que se establece un régimen comunitario de control de las exportaciones de productos de doble uso(5) y en la Decisión 94/942/PESC del Consejo, de 19 de diciembre de 1994, relativa a la Acción común adoptada por el Consejo referente al control de las exportaciones de productos de doble uso(6). 
+(6) La presente Directiva no armoniza la prestación de servicios por lo que respecta a la confidencialidad de la información cuando sean objeto de disposiciones nacionales en materia de orden público y seguridad pública. 
+(7) El mercado interior garantiza también la libre circulación de personas, por lo cual es cada vez más frecuente que los ciudadanos y residentes de la Unión Europea tengan que tratar con autoridades de Estados miembros distintos de aquél en el que residen. La disponibilidad de la comunicación electrónica puede ser de gran utilidad a este respecto. 
+(8) Los rápidos avances tecnológicos y la dimensión mundial de Internet hacen necesario un planteamiento abierto a diferentes tecnologías y servicios de autenticación electrónica de datos. 
+(9) La firma electrónica se utilizará en muy diversas circunstancias y aplicaciones, dando lugar a una gran variedad de nuevos servicios y productos relacionados con ella o que la utilicen. La definición de dichos productos y servicios no debe limitarse a la expedición y gestión de certificados, sino incluir también cualesquiera otros servicios o productos que utilicen firmas electrónicas o se sirvan de ellas, como los servicios de registro, los servicios de estampación de fecha y hora, los servicios de guías de usuarios, los de cálculo o asesoría relacionados con la firma electrónica. 
+(10) El mercado interior permite a los proveedores de servicios de certificación llevar a cabo sus actividades transfronterizas para acrecentar su competitividad y, de ese modo, ofrecer a los consumidores y a las empresas nuevas posibilidades de intercambiar información y comerciar electrónicamente de una forma segura, con independencia de las fronteras. Con objeto de estimular la prestación de servicios de certificación en toda la Comunidad a través de redes abiertas, los proveedores de servicios de certificación deben tener libertad para prestar sus servicios sin autorización previa. La autorización previa implica no sólo el permiso que ha de obtener el proveedor de servicios de certificación interesado en virtud de una decisión de las autoridades nacionales antes de que se le permita prestar sus servicios de certificación, sino también cualesquiera otras medidas que tengan ese mismo efecto. 
+(11) Los sistemas voluntarios de acreditación destinados a un nivel reforzado de prestación de servicios pueden aportar a los proveedores de servicios de certificación un marco apropiado para aproximarse a los niveles de confianza, seguridad y calidad exigidos por un mercado en evolución. Dichos sistemas deben fomentar la adopción de las mejores prácticas por parte de los proveedores de servicios de certificación; debe darse a los proveedores de servicios de certificación libertad para adherirse a dichos sistemas de acreditación y disfrutar de sus ventajas. 
+(12) Los servicios de certificación pueden ser prestados tanto por entidades públicas como por personas físicas o jurídicas cuando así se establezca de acuerdo con el Derecho nacional. Los Estados miembros no deben prohibir a los proveedores de servicios de certificación operar al margen de los sistemas de acreditación voluntaria; ha de velarse por que los sistemas de acreditación no supongan mengua de la competencia en el ámbito de los servicios de certificación. 
+(13) Los Estados miembros pueden decidir cómo llevar a cabo la supervisión del cumplimiento de lo dispuesto en la presente Directiva. La presente Directiva no excluye el establecimiento de sistemas de supervisión basados en el sector privado. La presente Directiva no obliga a los proveedores de servicios de certificación a solicitar ser supervisados con arreglo a cualquier sistema de acreditación aplicable. 
+(14) Es importante alcanzar un equilibrio entre las necesidades de los consumidores y las de las empresas. 
+(15) El anexo III abarca los requisitos de los dispositivos seguros de creación de firmas electrónicas para garantizar la funcionalidad de las firmas electrónicas avanzadas; no abarca la totalidad del sistema en cuyo entorno operan dichos dispositivos. El funcionamiento del mercado interior exige que la Comisión y los Estados miembros actúen con celeridad para hacer posible la designación de los organismos encargados de evaluar la conformidad de los dispositivos seguros de firma con el anexo III. Con objeto de subvenir a las necesidades del mercado, la evaluación de la conformidad ha de producirse oportunamente y ser eficaz. 
+(16) La presente Directiva contribuye al uso y al reconocimiento legal de la firma electrónica en la Comunidad; no se precisa un marco reglamentario para las firmas electrónicas utilizadas exclusivamente dentro de sistemas basados en acuerdos voluntarios de Derecho privado celebrados entre un número determinado de participantes. En la medida en que lo permita la legislación nacional, ha de respetarse la libertad de las partes para concertar de común acuerdo las condiciones en que aceptarán las firmas electrónicas; no se debe privar a las firmas electrónicas utilizadas en estos sistemas de eficacia jurídica ni de su carácter de prueba en los procedimientos judiciales. 
+(17) La presente Directiva no pretende armonizar las legislaciones nacionales sobre contratos, en particular por lo que respecta al perfeccionamiento y eficacia de los mismos, ni tampoco otras formalidades de naturaleza no contractual relativas a la firma; por dicho motivo, las disposiciones sobre los efectos legales de la firma electrónica deberán entenderse sin perjuicio de los requisitos de forma establecidos por las legislaciones nacionales en materia de celebración de contratos, ni para las normas que determinan el lugar en que se considera celebrado un contrato. 
+(18) El almacenamiento y la copia de los datos de creación de la firma pueden poner en peligro la validez jurídica de la firma electrónica. 
+(19) La firma electrónica se utilizará en el sector público en el marco de las administraciones nacionales y comunitaria y en la comunicación entre dichas administraciones y entre éstas y los ciudadanos y agentes económicos, por ejemplo en la contratación pública, la fiscalidad, la seguridad social, la atención sanitaria y el sistema judicial. 
+(20) Unos criterios armonizados en relación con la eficacia jurídica de la firma electrónica mantendrán un marco jurídico coherente en toda la Comunidad. Las legislaciones nacionales establecen requisitos divergentes con respecto a la validez jurídica de las firmas manuscritas; se pueden utilizar certificados para confirmar la identidad de la persona que firma electrónicamente; las firmas electrónicas avanzadas basadas en un certificado reconocido pretenden lograr un mayor nivel de seguridad. Las firmas electrónicas avanzadas relacionadas con un certificado reconocido y creadas mediante un dispositivo seguro de creación de firma únicamente pueden considerarse jurídicamente equivalentes a las firmas manuscritas si se cumplen los requisitos aplicables a las firmas manuscritas. 
+(21) Para contribuir a la aceptación general de los métodos de autenticación electrónica, debe garantizarse la admisibilidad de la firma electrónica como prueba en procedimientos judiciales en todos los Estados miembros. El reconocimiento legal de la firma electrónica debe basarse en criterios objetivos y no estar supeditado a la autorización del proveedor de servicios de certificación de que se trate; la legislación nacional rige la determinación de los ámbitos jurídicos en los que pueden usarse los documentos electrónicos y de la firma electrónica. La presente Directiva se entiende sin perjuicio de la facultad de los tribunales nacionales para dictar resoluciones acerca de la conformidad con los requisitos de la presente Directiva y no afecta a las normas nacionales en lo que se refiere a la libertad de la valoración judicial de las pruebas. 
+(22) Los proveedores de servicios de certificación al público están sujetos a la normativa nacional en materia de responsabilidad. 
+(23) El desarrollo del comercio electrónico internacional requiere acuerdos transfronterizos que implican a terceros países; para garantizar la interoperabilidad a nivel mundial, podría ser beneficioso celebrar acuerdos con terceros países sobre normas multilaterales en materia de reconocimiento mutuo de servicios de certificación. 
+(24) Para incrementar la confianza de los usuarios en la comunicación y el comercio electrónicos, los proveedores de servicios de certificación deben observar la normativa sobre protección de datos y el respeto de la intimidad. 
+(25) Las disposiciones relativas al uso de seudónimos en los certificados no deben impedir a los Estados miembros exigir la identificación de las personas de conformidad con el Derecho comunitario o nacional. 
+(26) Habida cuenta de que las medidas necesarias para la ejecución de la presente Directiva son medidas de gestión con arreglo al artículo 2 de la Decisión 1999/468/CE del Consejo, de 28 de junio de 1999, por la que se establecen los procedimientos para el ejercicio de las competencias de ejecución atribuidas a la Comisión(7), dichas medidas deben ser aprobadas con arreglo al procedimiento de gestión previsto en el artículo 4 de la citada Decisión. 
+(27) Transcurridos dos años desde su aplicación, la Comisión procederá a una revisión de la presente Directiva a fin de cerciorarse de que los avances tecnológicos y los cambios del entorno jurídico no han creado obstáculos al logro de los objetivos formulados en la presente Directiva. La Comisión debe estudiar la incidencia de ámbitos técnicos afines y presentar un informe al respecto al Parlamento Europeo y al Consejo. 
+(28) De conformidad con los principios de subsidiariedad y proporcionalidad recogidos en el artículo 5 del Tratado, el objetivo de crear un marco jurídico armonizado para la prestación del servicio de firma electrónica y de servicios conexos no puede ser alcanzado de manera suficiente por los Estados miembros y, por consiguiente, puede lograrse mejor a nivel comunitario. La presente Directiva no excede de lo necesario para lograr dicho objetivo, 
+HAN ADOPTADO LA PRESENTE DIRECTIVA: 
+Artículo 1 
+Ámbito de aplicación 
+La presente Directiva tiene por finalidad facilitar el uso de la firma electrónica y contribuir a su reconocimiento jurídico. La presente Directiva crea un marco jurídico para la firma electrónica y para determinados servicios de certificación con el fin de garantizar el correcto funcionamiento del mercado interior. 
+La presente Directiva no regula otros aspectos relacionados con la celebración y validez de los contratos u otras obligaciones legales cuando existan requisitos de forma establecidos en las legislaciones nacionales o comunitaria, ni afectan a las normas y límites, contenidos en las legislaciones nacionales o comunitaria, que rigen el uso de documentos. 
+Artículo 2 
+Definiciones 
+A efectos de la presente Directiva, se entenderá por: 
+1) %quot%firma electrónica%quot%: los datos en forma electrónica anejos a otros datos electrónicos o asociados de manera lógica con ellos, utilizados como medio de autenticación; 
+2) %quot%firma electrónica avanzada%quot%: la firma electrónica que cumple los requisitos siguientes: 
+a) estar vinculada al firmante de manera única; 
+b) permitir la identificación del firmante; 
+c) haber sido creada utilizando medios que el firmante puede mantener bajo su exclusivo control; 
+d) estar vinculada a los datos a que se refiere de modo que cualquier cambio ulterior de los mismos sea detectable; 
+3) %quot%firmante%quot%: la persona que está en posesión de un dispositivo de creación de firma y que actúa en su propio nombre o en el de la entidad o persona física o jurídica a la que representa; 
+4) %quot%datos de creación de firma%quot%: los datos únicos, tales como códigos o claves criptográficas privadas, que el firmante utiliza para crear la firma electrónica; 
+5) %quot%dispositivo de creación de firma%quot%: un programa informático configurado o un aparato informático configurado que sirve para aplicar los datos de creación de firma; 
+6) %quot%dispositivo seguro de creación de firma%quot%: un dispositivo de creación de firma que cumple los requisitos enumerados en el anexo III; 
+7) %quot%datos de verificación de firma%quot%: los datos, tales como códigos o claves criptográficas públicas, que se utilizan para verificar la firma electrónica; 
+8) %quot%dispositivo de verificación de firma%quot%: un programa informático configurado o un aparato informático configurado, que sirve para aplicar los datos de verificación de firma; 
+9) %quot%certificado%quot%: la certificación electrónica que vincula unos datos de verificación de firma a una persona y confirma la identidad de ésta; 
+10) %quot%certificado reconocido%quot%: el certificado que cumple los requisitos establecidos en el anexo I y es suministrado por un proveedor de servicios de certificación que cumple los requisitos establecidos en el anexo II; 
+11) %quot%proveedor de servicios de certificación%quot%: la entidad o persona física o jurídica que expide certificados o presta otros servicios en relación con la firma electrónica; 
+12) %quot%producto de firma electrónica%quot%: el programa informático o el material informático, o sus componentes específicos, que se destinan a ser utilizados por el proveedor de servicios de certificación para la prestación de servicios de firma electrónica o que se destinan a ser utilizados para la creación o la verificación de firmas electrónicas; 
+13) %quot%acreditación voluntaria%quot%: todo permiso que establezca derechos y obligaciones específicas para la prestación de servicios de certificación, que se concedería, a petición del proveedor de servicios de certificación interesado, por el organismo público o privado encargado del establecimiento y supervisión del cumplimiento de dichos derechos y obligaciones, cuando el proveedor de servicios de certificación no esté habilitado para ejercer los derechos derivados del permiso hasta que haya recaído la decisión positiva de dicho organismo. 
+Artículo 3 
+Acceso al mercado 
+1. Los Estados miembros no condicionarán la prestación de servicios de certificación a la obtención de autorización previa. 
+2. Sin perjuicio de lo dispuesto en el apartado 1, los Estados miembros podrán establecer o mantener sistemas voluntarios de acreditación destinados a mejorar los niveles de provisión de servicios de certificación. Todas las condiciones relativas a tales sistemas deberán ser objetivas, transparentes, proporcionadas y no discriminatorias. Los Estados miembros no podrán limitar el número de proveedores de servicios de certificación acreditados amparándose en la presente Directiva. 
+3. Los Estados miembros velarán por que se establezca un sistema adecuado que permita la supervisión de los proveedores de servicios de certificación establecidos en su territorio que expiden al público certificados reconocidos. 
+4. La conformidad de los dispositivos seguros de creación de firma con los requisitos fijados en el anexo III será determinada por los organismos públicos o privados pertinentes, designados por los Estados miembros. La Comisión, con arreglo al procedimiento del artículo 9, establecerá criterios para que los Estados miembros determinen si procede designar un determinado organismo. 
+La conformidad con los requisitos del anexo III establecida por dichos organismos será reconocida por todos los Estados miembros. 
+5. La Comisión, con arreglo al procedimiento del artículo 9, podrá determinar, y publicar en el Diario Oficial de las Comunidades Europeas, los números de referencia de las normas que gocen de reconocimiento general para productos de firma electrónica. Los Estados miembros presumirán que los productos de firma electrónica que se ajusten a dichas normas son conformes con lo prescrito en la letra f) del anexo II y en el anexo III de la presente Directiva. 
+6. Los Estados miembros y la Comisión cooperarán para promover el desarrollo y la utilización de los dispositivos de creación de firma, a la luz de las recomendaciones para la verificación segura de firma que figuran en el anexo IV y en interés del consumidor. 
+7. Los Estados miembros podrán supeditar el uso de la firma electrónica en el sector público a posibles prescripciones adicionales. Tales prescripciones serán objetivas, transparentes, proporcionadas y no discriminatorias, y sólo podrán hacer referencia a las características específicas de la aplicación de que se trate. Estas prescripciones no deberán obstaculizar los servicios transfronterizos al ciudadano. 
+Artículo 4 
+Principios del mercado interior 
+1. Los Estados miembros aplicarán las disposiciones nacionales que adopten en cumplimiento de la presente Directiva a los proveedores de servicios de certificación establecidos en su territorio y a los servicios prestados por ellos. Los Estados miembros no podrán restringir la prestación de servicios de certificación en los ámbitos regulados por la presente Directiva que procedan de otro Estado miembro. 
+2. Los Estados miembros velarán por que los productos de firma electrónica que se ajusten a lo dispuesto en la presente Directiva puedan circular libremente en el mercado interior. 
+Artículo 5 
+Efectos jurídicos de la firma electrónica 
+1. Los Estados miembros procurarán que la firma electrónica avanzada basada en un certificado reconocido y creada por un dispositivo seguro de creación de firma: 
+a) satisfaga el requisito jurídico de una firma en relación con los datos en forma electrónica del mismo modo que una firma manuscrita satisface dichos requisitos en relación con los datos en papel; y 
+b) sea admisible como prueba en procedimientos judiciales. 
+2. Los Estados miembros velarán por que no se niegue eficacia jurídica, ni la admisibilidad como prueba en procedimientos judiciales, a la firma electrónica por el mero hecho de que: 
+- ésta se presente en forma electrónica, o 
+- no se base en un certificado reconocido, o 
+- no se base en un certificado expedido por un proveedor de servicios de certificación acreditado, o 
+- no esté creada por un dispositivo seguro de creación de firma. 
+Artículo 6 
+Responsabilidad 
+1. Los Estados miembros garantizarán, como mínimo, que el proveedor de servicios de certificación que expida al público un certificado presentado como certificado reconocido o que garantice al público tal certificado, será responsable por el perjuicio causado a cualquier entidad o persona física o jurídica que confíe razonablemente en el certificado por lo que respecta a: 
+a) la veracidad, en el momento de su expedición, de toda la información contenida en el certificado reconocido y la inclusión en el certificado de toda la información prescrita para los certificados reconocidos; 
+b) la garantía de que, en el momento de la expedición del certificado, obraban en poder del firmante identificado en el certificado reconocido los datos de creación de firma correspondientes a los datos de verificación de firma que constan o se identifican en el certificado; 
+c) la garantía de que los datos de creación y de verificación de firma pueden utilizarse complementariamente, en caso de que el proveedor de servicios de certificación genere ambos; 
+salvo que el proveedor de servicios de certificación demuestre que no ha actuado con negligencia. 
+2. Los Estados miembros garantizarán como mínimo que el proveedor de servicios de certificación que haya expedido al público un certificado presentado como certificado reconocido será responsable por el perjuicio causado a cualquier entidad o persona física o jurídica que confíe razonablemente en dicho certificado por no haber registrado la revocación del certificado, salvo que el proveedor de servicios de certificación pruebe que no ha actuado con negligencia. 
+3. Los Estados miembros velarán por que el proveedor de servicios de certificación pueda consignar en un certificado reconocido límites en cuanto a sus posibles usos, siempre y cuando los límites sean reconocibles para terceros. El proveedor de servicios de certificación no deberá responder de los daños y perjuicios causados por el uso de un certificado reconocido que exceda de los límites indicados en el mismo. 
+4. Los Estados miembros velarán por que el proveedor de servicios de certificación pueda consignar en el certificado reconocido un valor límite de las transacciones que puedan realizarse con el mismo, siempre y cuando los límites sean reconocibles para terceros. 
+El proveedor de servicios de certificación no será responsable por los perjuicios que pudieran derivarse de la superación de este límite máximo. 
+5. Las disposiciones de los apartados 1 a 4 se aplicarán sin perjuicio de la Directiva 93/13/CEE, del Consejo, de 5 de abril de 1993, sobre las cláusulas abusivas en los contratos celebrados con consumidores(8). 
+Artículo 7 
+Aspectos internacionales 
+1. Los Estados miembros velarán por que los certificados expedidos al público como certificados reconocidos por un proveedor de servicios de certificación establecido en un tercer país, sean reconocidos como jurídicamente equivalentes a los expedidos por un proveedor de servicios de certificación establecido en la Comunidad si se cumple alguna de las condiciones siguientes: 
+a) que el proveedor de servicios de certificación cumpla los requisitos establecidos en la presente Directiva y haya sido acreditado en el marco de un sistema voluntario de acreditación establecido en un Estado miembro; 
+b) que un proveedor de servicios de certificación establecido en la Comunidad, que cumpla las prescripciones de la presente Directiva, avale el certificado; 
+c) que el certificado o el proveedor de servicios de certificación estén reconocidos en virtud de un acuerdo bilateral o multilateral entre la Comunidad y terceros países u organizaciones internacionales. 
+2. Para facilitar tanto la prestación de servicios transfronterizos de certificación con terceros países como el reconocimiento legal de las firmas electrónicas avanzadas originarias de estos últimos, la Comisión presentará, en su caso, propuestas para lograr el efectivo establecimiento de normas y acuerdos internacionales aplicables a los servicios de certificación. En particular, y en caso necesario, solicitará al Consejo mandatos para la negociación de acuerdos bilaterales y multilaterales con terceros países y organizaciones internacionales. El Consejo se pronunciará por mayoría cualificada. 
+3. Cuando la Comisión sea informada de cualquier dificultad encontrada por las empresas comunitarias en relación con el acceso al mercado en terceros países, podrá, en caso necesario, presentar propuestas al Consejo para obtener un mandato adecuado para la negociación de derechos comparables para las empresas comunitarias en dichos terceros países. El Consejo se pronunciará por mayoría cualificada. 
+Las medidas tomadas en virtud del presente apartado se entenderán sin perjuicio de las obligaciones de la Comunidad y de los Estados miembros con arreglo a los acuerdos internacionales pertinentes. 
+Artículo 8 
+Protección de datos 
+1. Los Estados miembros velarán por que los proveedores de servicios de certificación y los organismos nacionales competentes en materia de acreditación y supervisión cumplan los requisitos establecidos en la Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos(9). 
+2. Los Estados miembros velarán por que los proveedores de servicios de certificación que expidan al público certificados únicamente puedan recabar datos personales directamente del titular de los datos o previo consentimiento explícito de éste, y sólo en la medida necesaria para la expedición y el mantenimiento del certificado. Los datos no podrán obtenerse o tratarse con fines distintos sin el consentimiento explícito de su titular. 
+3. Sin perjuicio de los efectos jurídicos concedidos a los seudónimos con arreglo al Derecho nacional, los Estados miembros no impedirán al proveedor de servicios de certificación que consigne en el certificado un seudónimo del firmante en lugar de su verdadero nombre. 
+Artículo 9 
+Comité 
+1. La Comisión estará asistida por el Comité de firma electrónica (denominado en lo sucesivo %quot%el Comité%quot%), compuesto por representantes de los Estados miembros y presidido por el representante de la Comisión. 
+2. En los casos en que se haga referencia al presente apartado, se aplicará el procedimiento de gestión previsto en el artículo 4 de la Decisión 1999/468/CE observando lo dispuesto en el artículo 8 de la misma. 
+El plazo previsto en el apartado 3 del artículo 4 de la Decisión 1999/468/CE será de tres meses. 
+3. El Comité aprobará su Reglamento interno. 
+Artículo 10 
+Funciones del Comité 
+El Comité procederá a la clarificación de los requisitos establecidos en los anexos, los criterios a que se refiere el apartado 4 del artículo 3 y las normas para los productos de firma electrónica que gocen de reconocimiento general establecidas y publicadas con arreglo a lo dispuesto en el apartado 5 del artículo 3, conforme al procedimiento establecido en el apartado 2 del artículo 9. 
+Artículo 11 
+Notificación 
+1. Los Estados miembros interesados notificarán a la Comisión y a los demás Estados miembros lo siguiente: 
+a) información sobre los sistemas voluntarios de acreditación de ámbito nacional, incluidos cualesquiera requisitos adicionales con arreglo al apartado 7 del artículo 3; 
+b) el nombre y dirección de los organismos nacionales competentes en materia de acreditación y supervisión, así como de los organismos a que se refiere el apartado 4 del artículo 3; y 
+c) el nombre y dirección de todos los proveedores nacionales de servicios de certificación acreditados. 
+2. Toda la información facilitada en virtud del apartado 1 y cualquier modificación de su contenido serán notificadas por los Estados miembros a la mayor brevedad. 
+Artículo 12 
+Revisión 
+1. La Comisión procederá al examen de la aplicación de la presente Directiva y presentará el oportuno informe al Parlamento Europeo y al Consejo a más tardar el 19 de julio de 2003. 
+2. Dicho examen permitirá, entre otras cosas, determinar si conviene modificar el ámbito de aplicación de la presente Directiva en vista de la evolución tecnológica y comercial y deI contexto jurídico. El informe incluirá, en particular, una valoración de los aspectos de armonización, basada en la experiencia adquirida. El informe irá acompañado, en su caso, de propuestas legislativas. 
+Artículo 13 
+Aplicación 
+1. Los Estados miembros pondrán en vigor las disposiciones legales, reglamentarias y administrativas necesarias para dar cumplimiento a lo establecido en la presente Directiva antes del 19 de julio de 2001. Informarán inmediatamente de ello a la Comisión. 
+Cuando los Estados miembros adopten dichas disposiciones, éstas harán referencia a la presente Directiva o irán acompañadas de dicha referencia en su publicación oficial. Los Estados miembros establecerán las modalidades de la mencionada referencia. 
+2. Los Estados miembros comunicarán a la Comisión el texto de las principales disposiciones de Derecho interno que adopten en el ámbito regulado por la presente Directiva. 
+Artículo 14 
+Entrada en vigor 
+La presente Directiva entrará en vigor el día de su publicación en el Diario Oficial de las Comunidades Europeas. 
+Artículo 15 
+Destinatarios 
+Los destinatarios de la presente Directiva serán los Estados miembros. 
+Hecho en Bruselas, el 13 de diciembre de 1999. 
+Por el Parlamento Europeo 
+La Presidenta 
+N. FONTAINE 
+Por el Consejo 
+El Presidente 
+S. HASSI 
+(1) DO C 325 de 23.10.1998, p. 5. 
+(2) DO C 40 de 15.2.1999, p. 29. 
+(3) DO C 93 de 6.4.1999, p. 33. 
+(4) Dictamen del Parlamento Europeo de 13 de enero de 1999 (DO C 104 de 14.4.1999, p. 49), Posición común del Consejo de 28 de junio de 1999 (DO C 243 de 27.8.1999, p. 83) y Decisión del Parlamento Europeo de 27 de octubre de 1999 (no publicada aún en el Diario Oficial), Decisión del Consejo de 30 de noviembre de 1999. 
+(5) DO L 367 de 31.12.1994, p. 1; Reglamento modificado por el Reglamento (CE) n° 837/95 (DO L 90 de 21.4.1995, p. 1). 
+(6) DO L 367 de 31.12.1994, p. 8; Decisión cuya última modificación la constituye la Decisión 1999/193/CE (DO L 73 de 19.3.1999, p. 1). 
+(7) DO L 184 de 17.7.1999, p. 23. 
+(8) DO L 95 de 21.4.1993, p. 29. 
+(9) DO L 281 de 23.11.1995, p. 31. 
+ANEXO I 
+Requisitos de los certificados reconocidos 
+Los certificados reconocidos habrán de contener: 
+a) la indicación de que el certificado se expide como certificado reconocido; 
+b) la identificación del proveedor de servicios de certificación y el Estado en que está establecido; 
+c) el nombre y los apellidos del firmante o un seudónimo que conste como tal; 
+d) un atributo específico del firmante, en caso de que fuera significativo en función de la finalidad del certificado; 
+e) los datos de verificación de firma que correspondan a los datos de creación de firma bajo control del firmante; 
+f) una indicación relativa al comienzo y fin del período de validez del certificado; 
+g) el código indentificativo del certificado; 
+h) la firma electrónica avanzada del proveedor de servicios de certificación que expide el certificado; 
+i) los límites de uso del certificado, si procede; y 
+j) los límites del valor de las transacciones para las que puede utilizarse el certificado, si procede. 
+ANEXO II 
+Requisitos de los proveedores de servicios de certificación que expiden certificados reconocidos 
+Los proveedores de servicios de certificación deberán: 
+a) demostrar la fiabilidad necesaria para prestar servicios de certificación; 
+b) garantizar la utilización de un servicio rápido y seguro de guía de usuarios y de un servicio de revocación seguro e inmediato; 
+c) garantizar que pueda determinarse con precisión la fecha y la hora en que se expidió o revocó un certificado; 
+d) comprobar debidamente, de conformidad con el Derecho nacional, la identidad y, si procede, cualesquiera atributos específicos de la persona a la que se expide un certificado reconocido; 
+e) emplear personal que tenga los conocimientos especializados, la experiencia y las cualificaciones necesarias correspondientes a los servicios prestados, en particular: competencia en materia de gestión, conocimientos técnicos en el ámbito de la firma electrónica y familiaridad con los procedimientos de seguridad adecuados; deben poner asimismo en práctica los procedimientos administrativos y de gestión adecuados y conformes a normas reconocidas; 
+f) utilizar sistemas y productos fiables que estén protegidos contra toda alteración y que garanticen la seguridad técnica y criptográfica de los procedimientos con que trabajan; 
+g) tomar medidas contra la falsificación de certificados y, en caso de que el proveedor de servicios de certificación genere datos de creación de firma, garantizar la confidencialidad durante el proceso de generación de dichos datos; 
+h) disponer de recursos económicos suficientes para operar de conformidad con lo dispuesto en la presente Directiva, en particular para afrontar el riesgo de responsabilidad por daños y perjuicios, por ejemplo contratando un seguro apropiado; 
+i) registrar toda la información pertinente relativa a un certificado reconocido durante un período de tiempo adecuado, en particular para aportar pruebas de certificación en procedimientos judiciales. Esta actividad de registro podrá realizarse por medios electrónicos; 
+j) no almacenar ni copiar los datos de creación de firma de la persona a la que el proveedor de servicios de certificación ha prestado servicios de gestión de claves; 
+k) antes de entrar en una relación contractual con una persona que solicite un certificado para apoyar a partir del mismo su firma electrónica, informar a dicha persona utilizando un medio de comunicación no perecedero de las condiciones precisas de utilización del certificado, incluidos los posibles límites de la utilización del certificado, la existencia de un sistema voluntario de acreditación y los procedimientos de reclamación y solución de litigios. Dicha información deberá hacerse por escrito, pudiendo transmitirse electrónicamente, y deberá estar redactada en un lenguaje fácilmente comprensible. Las partes pertinentes de dicha información estarán también disponibles a instancias de terceros afectados por el certificado; 
+l) utilizar sistemas fiables para almacenar certificados de forma verificable, de modo que: 
+- sólo personas autorizadas puedan hacer anotaciones y modificaciones, 
+- pueda comprobarse la autenticidad de la información, 
+- los certificados estén a disposición del público para su consulta sólo en los casos en los que se haya obtenido el consentimiento del titular del certificado, y 
+- el agente pueda detectar todos los cambios técnicos que pongan en entredicho los requisitos de seguridad mencionados. 
+ANEXO III 
+Requisitos de los dispositivos seguros de creación de firma electrónica 
+1. Los dispositivos seguros de creación de firma garantizarán como mínimo, por medios técnicos y de procedimiento adecuados, que: 
+a) los datos utilizados para la generación de firma sólo pueden producirse una vez en la práctica y se garantiza razonablemente su secreto; 
+b) existe la seguridad razonable de que los datos utilizados para la generación de firma no pueden ser hallados por deducción y la firma está protegida contra la falsificación mediante la tecnología existente en la actualidad; 
+c) los datos utilizados para la generación de firma pueden ser protegidos de forma fiable por el firmante legítimo contra su utilización por otros. 
+2. Los dispositivos seguros de creación de firma no alterarán los datos que deben firmarse ni impedirán que dichos datos se muestren al firmante antes del proceso de firma. 
+ANEXO IV 
+Recomendaciones para la verificación segura de firma 
+Durante el proceso de verificación de firma, deberá garantizarse, con suficiente certeza, que: 
+a) los datos utilizados para verificar la firma corresponden a los datos mostrados al verificador; 
+b) la firma se verifica de forma fiable y el resultado de esa verificación figura correctamente; 
+c) el verificador puede, en caso necesario, establecer de forma fiable el contenido de los datos firmados; 
+d) se verifican de forma fiable la autenticidad y la validez del certificado exigido al verificarse la firma; 
+e) figuran correctamente el resultado de la verificación y la identidad del firmante; 
+f) consta claramente la utilización de un seudónimo; y 
+g) puede detectarse cualquier cambio pertinente relativo a la seguridad. 

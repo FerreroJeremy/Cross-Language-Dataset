@@ -1,0 +1,363 @@
+Reglamento (CE) n° 28/2004 de la Comisión, de 5 de enero de 2004, por el que se aplica el Reglamento (CE) n° 1177/2003 del Parlamento Europeo y del Consejo relativo a las estadísticas comunitarias sobre la renta y las condiciones de vida (EU-SILC) en lo que se refiere a la descripción detallada de los informes de calidad intermedio y final 
+Reglamento (CE) no 28/2004 de la Comisión 
+de 5 de enero de 2004 
+por el que se aplica el Reglamento (CE) n° 1177/2003 del Parlamento Europeo y del Consejo relativo a las estadísticas comunitarias sobre la renta y las condiciones de vida (EU-SILC) en lo que se refiere a la descripción detallada de los informes de calidad intermedio y final 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) n° 1177/2003 del Parlamento Europeo y del Consejo, de 16 de junio de 2003, relativo a las estadísticas comunitarias sobre la renta y las condiciones de vida (EU-SILC)(1), y, en particular, la letra b) del apartado 2 de su artículo 15, 
+Considerando lo siguiente: 
+(1) El Reglamento (CE) n° 1177/2003 creó un marco común para la producción sistemática de estadísticas comunitarias sobre la renta y las condiciones de vida, que incluyan datos transversales y longitudinales comparables y actualizados sobre la renta y el nivel y composición de la pobreza y la exclusión social a nivel nacional y europeo. 
+(2) Con arreglo a la letra b) del apartado 2 del artículo 15 del Reglamento (CE) n° 1177/2003, se precisan medidas de ejecución para determinar la descripción detallada del informe intermedio de calidad (relativo a los indicadores comunes transversales de la Unión Europea basado en la componente transversal de EU-SILC) y la descripción detallada del informe final de calidad, centrado en la precisión interna (que incluirá las componentes transversal y longitudinal). 
+(3) Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité del programa estadístico. 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+Las definiciones que se aplicarán en los informes de calidad intermedio y final de las estadísticas comunitarias sobre la renta y las condiciones de vida (EU-SILC) serán las que establece el anexo I. 
+Artículo 2 
+Los criterios de evaluación de la calidad y la descripción detallada del informe intermedio de calidad, que deben elaborar los Estados miembros, relativo a los indicadores transversales comunes de la Unión Europea basados en la componente transversal de EU-SILC serán los que establece el anexo II. 
+Artículo 3 
+Los criterios de evaluación de la calidad y la descripción detallada del informe final de calidad, que deben elaborar los Estados miembros, relativo a las componentes transversal y longitudinal de EU-SILC centrados en la precisión interna serán los que establece el anexo III. 
+Artículo 4 
+El contenido de los informes comparativos de calidad intermedio y final, que debe elaborar la Comisión (Eurostat), será el que establece el anexo IV. 
+Artículo 5 
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 5 de enero de 2004. 
+Por la Comisión 
+Pedro Solbes Mira 
+Miembro de la Comisión 
+(1) DO L 165 de 3.7.2003, p. 1. 
+ANEXO I 
+DEFINICIONES 
+a) %quot%Sustitución%quot%: reemplazamiento de las unidades originales seleccionadas en la muestra por otras unidades, ya sea porque las primeras no facilitan los datos requeridos, porque su dirección no se ha localizado o es inaccesible, o porque el hogar se niega a cooperar, se encuentra temporalmente fuera de su domicilio o es incapaz de responder. 
+b) %quot%Imputación%quot%: estimación posible (pero artificial) de valores de sustitución en vez de los valores que faltan. 
+c) %quot%Renta disponible equivalente%quot%: ingreso total disponible del hogar dividido por su %quot%tamaño equivalente%quot%. 
+d) %quot%Tamaño equivalente%quot%: se basa en la escala modificada de la OCDE (que da una ponderación de 1,0 al primer adulto, de 0,5 a las demás personas de 14 años o más que viven en el hogar y de 0,3 a cada menor de 14 años). 
+e) %quot%Marco de muestreo%quot%: población de unidades de entre las que se selecciona la muestra. 
+f) %quot%Precisión%quot%: proximidad de los cálculos o estimaciones a los valores exactos o verdaderos. 
+g) %quot%Errores de muestreo%quot%: variabilidad debida al sistema aleatorio por utilizar una muestra en vez de un censo. 
+h) %quot%Errores ajenos al muestreo%quot%: errores que suceden en todas las fases de la recogida de datos y el proceso de producción. 
+Los errores ajenos al muestreo son sobre todo de cuatro tipos: 
+- %quot%errores de cobertura%quot%: debidos a diferencias entre la población objetivo y el marco de muestreo. Incluyen errores de cobertura excesiva, de falta de cobertura y de clasificación errónea: 
+- %quot%cobertura excesiva%quot%: cuando hay unidades erróneamente clasificadas que de verdad no pertenecen a la población objetivo, o unidades que realmente no existen, 
+- %quot%falta de cobertura%quot%: cuando hay unidades que no figuran en el marco de muestreo, 
+- %quot%clasificación errónea%quot%: cuando hay unidades de la población objetivo mal clasificadas, 
+- %quot%errores de medición%quot%: los que ocurren al recoger los datos. Proceden de diversas fuentes, como el instrumento de la encuesta, el sistema de información, el entrevistador y el modo de recogida, 
+- %quot%errores de tratamiento%quot%: errores en procesos posteriores a la recogida de datos, como los de su introducción, manipulación, edición y ponderación, 
+- %quot%errores de falta de respuesta%quot%: los debidos a una tentativa infructuosa de obtener la información deseada de una unidad seleccionada. Hay dos tipos principales de errores de falta de respuesta: 
+- %quot%falta de respuesta de la unidad%quot%: ausencia de información de toda la unidad (hogar o persona) seleccionada de la muestra, 
+- %quot%falta de respuesta sobre el asunto%quot%: situación en la que una unidad de la muestra ha podido ser entrevistada pero de la que no se ha obtenido toda la información requerida. 
+i) %quot%Pertinencia%quot%: grado en el que la estadística satisface las necesidades actuales y potenciales de los usuarios. Se refiere a si se elaboran todas las estadísticas que son necesarias y a la medida en que los conceptos utilizados (definiciones, clasificaciones, etc.) reflejan las necesidades de los usuarios. 
+j) %quot%Exactitud y puntualidad%quot%: 
+- la exactitud de la información refleja el tiempo transcurrido entre el acontecimiento o fenómeno que el dato describe y el momento en el que dicho dato es accesible, 
+- la puntualidad es el lapso entre la fecha límite en la que deberían haberse entregado los datos y la fecha real de su entrega a Eurostat; por ejemplo, con referencia a las fechas anunciadas en algunos calendarios oficiales establecidos por reglamentos o acordados previamente entre las partes. 
+k) %quot%Accesibilidad y claridad%quot%: 
+- la accesibilidad afecta a las condiciones físicas en las que los usuarios pueden obtener los datos: dónde buscarlos, cómo solicitarlos, tiempo de entrega, tarifación clara, buenas condiciones de comercialización (derechos de autor, etc.), disponibilidad de micro y macrodatos, formatos diversos (impresos, archivos, CD-ROM, Internet), etc., 
+- la claridad se refiere al entorno de información que se recibe con los datos, si estos van acompañados con metadatos adecuados, ilustraciones como gráficos y mapas, si también está disponible la información sobre su calidad (incluidas las restricciones a su utilización) y en que medida los institutos nacionales de estadística ofrecen más asistencia. 
+ANEXO II 
+Criterios de evaluación de la calidad y descripción del informe intermedio de la calidad, que deben elaborar los Estados miembros 
+1. INDICADORES TRANSVERSALES COMUNES DE LA UNIÓN EUROPEA 
+1.1. Indicadores transversales comunes de la Unión Europea basados en la componente transversal de EU-SILC 
+Los Estados miembros deberán facilitar los indicadores transversales comunes de la Unión Europea basados en la muestra transversal del año n que figurará en el informe anual de primavera del año (n + 2) al Consejo Europeo. 
+Los indicadores transversales comunes de la Unión Europea son los adoptados por el Consejo en el contexto del método abierto de coordinación; pueden derivarse del instrumento EU-SILC. 
+1.2. Otros indicadores 
+1.2.1. Renta disponible equivalente 
+1.2.2. Falta de ajuste de la diferencia de retribución entre mujeres y hombres 
+Los Estados miembros que calculen el indicador sobre la falta de ajuste de la diferencia de retribución entre mujeres y hombres con arreglo a EU-SILC deberán facilitar dicho indicador. 
+2. PRECISIÓN 
+2.1. Diseño muestral 
+Deberá facilitarse la información siguiente: 
+2.1.1. Tipo de diseño muestral (estratificado, multifásico, agrupado) 
+2.1.2. Unidades de muestreo (una fase, dos fases) 
+2.1.3. Criterios de estratificación y subestratificación 
+2.1.4. Tamaño de la muestra y criterios de asignación 
+2.1.5. Sistemas de selección de la muestra 
+2.1.6. Distribución diacrónica de la muestra 
+2.1.7. Renovación de la muestra: grupos rotatorios 
+2.1.8. Ponderaciones 
+2.1.8.1. Factor del diseño 
+2.1.8.2. Ajustes por falta de respuesta 
+2.1.8.3. Ajustes a los datos externos (nivel, variables utilizadas y fuentes) 
+2.1.8.4. Ponderación transversal final 
+2.1.9. Sustituciones 
+Los Estados miembros que aplican la sustitución en casos de falta de respuesta de las unidades deberán facilitar la información siguiente: 
+2.1.9.1. Método de selección de los sustitutos 
+2.1.9.2. Características principales de las unidades sustituidas en comparación con las originales, por regiones (NUTS 2) si los datos están disponibles 
+2.1.9.3. Desglose de las unidades sustituidas por registro de direcciones de contacto (DB120), resultado del cuestionario del hogar (DB130) y aceptación de la entrevista por el hogar (DB135) de las unidades originales 
+2.2. Errores de muestreo 
+2.2.1. Error típico y tamaño efectivo de la muestra 
+Se facilitará la información siguiente: 
+- tamaño efectivo de la muestra para los indicadores transversales comunes de la Unión Europea basados en la componente transversal de EU-SILC, para la renta disponible equivalente y la falta de ajuste de la diferencia de retribución entre mujeres y hombres (en su caso), 
+- errores típicos en los indicadores transversales comunes de la Unión Europea basados en la componente transversal de EU-SILC, para la renta disponible equivalente y la falta de ajuste de la diferencia de retribución entre mujeres y hombres (en su caso). 
+2.3. Errores ajenos al muestreo 
+2.3.1. Marco del muestreo y errores de cobertura 
+Deberá facilitarse una descripción del marco del muestreo (con información sobre el procedimiento utilizado para actualizar el marco, la frecuencia y las repeticiones) y una descripción de los principales problemas de cobertura (clasificación errónea, falta de cobertura y cobertura excesiva), si están disponibles. 
+Los Estados miembros que utilicen un diseño rotatorio solo deberán facilitar información sobre el marco del muestreo para las nuevas muestras. 
+2.3.2. Errores de medición y de tratamiento 
+2.3.2.1. Errores de medición 
+Deberá facilitarse la información siguiente: 
+- descripción de las diferentes fuentes de errores de medición que puedan hallarse en la encuesta, 
+- descripción del modo de elaborar el cuestionario, utilización de un laboratorio cognitivo (en su caso), ensayo de campo del cuestionario, efecto de su diseño, contenido y redacción, 
+- información sobre la intensidad y eficacia de la formación de entrevistadores: número de días del curso, ensayo de las competencias antes de iniciar el trabajo de campo (índice de éxitos, etc.), 
+- información sobre estudios, como segundas entrevistas, estudios de validación o experimentos sobre muestras fragmentadas, en su caso, 
+- resultados de modelos: por ejemplo, para evaluar el impacto de utilizar el año financiero en lugar del año civil, en su caso. 
+2.3.2.2. Errores de tratamiento 
+Deberá facilitarse la información siguiente: 
+- descripción de los controles de entrada de datos, de los controles de codificación y del sistema de corrección de datos. Principales errores hallados en el proceso posterior a la recogida de los datos, 
+- índice de fracasos en la corrección de las variables de renta. 
+2.3.3. Errores de falta de respuesta 
+Deberá facilitarse la información siguiente: 
+2.3.3.1. Tamaño de la muestra lograda 
+- número de hogares que han aceptado la entrevista para la base de datos. Desglose de los grupos de rotación (en su caso) y total, 
+- número de personas de 16 años o más en hogares que han aceptado la entrevista para la base de datos, que han completado su entrevista personal. Desglose de los grupos de rotación (en su caso) y total, 
+- número de entrevistados seleccionados (en su caso) en hogares que han aceptado la entrevista para la base de datos, que han completado su entrevista personal. Desglose de los grupos de rotación (en su caso) y total. 
+2.3.3.2. Falta de respuesta de las unidades 
+Los Estados miembros que utilicen un diseño rotatorio deberán facilitar información sobre la falta de respuesta de las unidades para las nuevas muestras con arreglo a las fórmulas que se describirán a continuación. 
+Para el total de la muestra, la falta de respuesta de las unidades se calculará por la eliminación, del numerador y el denominador de las fórmulas que se describen a continuación, de aquellas unidades ausentes con arreglo a las normas de seguimiento. 
+- Los índices de falta de respuesta de los hogares (NRh) se calcularán con arreglo a la fórmula siguiente: 
+NRh = [1-(Ra * Rh)] * 100 
+en la que: 
+%gt%REFERENCIA A UN GRÁFICO%gt% 
+Ra es el índice de contacto en las direcciones 
+%gt%REFERENCIA A UN GRÁFICO%gt% 
+Rh es la proporción de entrevistas completas en los hogares aceptadas para la base de datos 
+DB120 es el registro de las direcciones de contacto 
+DB130 es el resultado del cuestionario del hogar 
+DB135 es el resultado de la aceptación de la entrevista por el hogar 
+Los Estados miembros que hayan realizado sustituciones en caso de falta de respuesta de las unidades calcularán los índices de falta de respuesta antes y después de las sustituciones. 
+- Los índices de falta de respuesta individual (NRp) se calcularán con arreglo a la fórmula siguiente: 
+NRp = [1-(Rp)] * 100 
+en la que: 
+%gt%REFERENCIA A UN GRÁFICO%gt% 
+Rp es la proporción de entrevistas personales completadas en los hogares aceptados para la base de datos 
+RB245 es la situación del entrevistado 
+RB250 es el carácter de los datos 
+- El índice global de falta de respuesta individual (*NRp) se calculará con arreglo a la fórmula siguiente: 
+*NRp = [1-(Ra * Rh*Rp)] * 100 
+Los Estados miembros que hayan realizado sustituciones en caso de falta de respuesta en las unidades calcularán los índices de falta de respuesta antes y después de las sustituciones. 
+Los Estados miembros que seleccionaron una muestra de personas en vez de una muestra de hogares (direcciones) calcularán los índices de falta de respuesta individual para el %quot%entrevistado seleccionado%quot% (RB245 = 2) para todas las personas de 16 años o más (RB245 = 2+3) y para el entrevistado no seleccionado (RB245 = 3). 
+2.3.3.3. Desglose de hogares (unidades originales) por %quot%registro de direcciones de contacto%quot% (DB120), por %quot%resultado del cuestionario del hogar%quot% (DB130) y por %quot%aceptación de la entrevista por el hogar%quot% (DB135), para cada grupo rotatorio (en su caso) y para el total. 
+2.3.3.4. Desglose de las unidades sustituidas (en su caso) por %quot%registro de direcciones de contacto%quot% (DB120), por %quot%resultado del cuestionario del hogar%quot% (DB130) y por %quot%aceptación de la entrevista por el hogar%quot% (DB135), para cada grupo rotatorio (en su caso) y para el total. 
+2.3.3.5. Falta de respuesta sobre el asunto 
+Para las variables de renta se facilitará la información siguiente: 
+- porcentajes de hogares (por componentes de la renta recogidas o recopiladas en el hogar)/personas (por componentes de la renta recogidas o recopiladas individualmente) que hayan recibido una cantidad para cada componente de la renta, 
+- porcentaje de valores que faltan para cada componente de la renta recogida o recopilada en el hogar/individualmente, 
+- porcentaje de información parcial para cada componente de la renta recogida o recopilada en el hogar/individualmente. 
+%gt%PIC FILE= %quot%L_2004005ES.004701.TIF%quot%%gt% 
+2.3.3.6. El total de faltas de respuesta sobre el asunto y el número de observaciones en la muestra a escala de la unidad se refieren a los indicadores transversales comunes de la Unión Europea basados en la componente transversal de EU-SILC para la renta disponible equivalente y para la diferencia no ajustada de retribución entre mujeres y hombres (en su caso). 
+2.4. Modo de recogida de datos 
+Los Estados miembros que utilicen una muestra de direcciones/hogares deberán facilitar el desglose de los miembros del hogar de 16 años o más por %quot%carácter de los datos%quot% (RB250) y por %quot%tipo de entrevista%quot% (RB260), para cada grupo rotatorio (en su caso) y para el total. 
+Los Estados miembros que utilicen una muestra de personas deberán facilitar el desglose de los %quot%entrevistados seleccionados%quot%, el de los miembros del hogar de 16 años o más y el de los %quot%entrevistados no seleccionados%quot% por %quot%carácter de los datos%quot% (RB250) y por %quot%tipo de entrevista%quot% (RB260), para cada grupo rotatorio (en su caso) y para el total. 
+2.5. Duración de la entrevista 
+Deberá facilitarse la duración media de la entrevista por hogar. 
+La duración media de la entrevista por hogar se calculará como la suma de la duración de todas las entrevistas a los hogares, más la suma de la duración de todas las entrevistas individuales, dividida por el número de cuestionarios de hogares completados y aceptados para la base de datos. 
+3. COMPARABILIDAD 
+3.1. Conceptos y definiciones fundamentales 
+Se facilitarán los conceptos nacionales utilizados, las diferencias entre los conceptos nacionales y los conceptos normalizados de EU-SILC y una evaluación, si está disponible, de las consecuencias de dichas diferencias, para los sectores siguientes: 
+- población de referencia, 
+- definición de hogar privado, 
+- calidad de miembro del hogar, 
+- período(s) de referencia para la renta utilizado(s), 
+- período para los impuestos sobre la renta y las cotizaciones a la seguridad social, 
+- período de referencia para los impuestos sobre la renta, 
+- desfase entre el periodo de referencia para la renta y las variables actuales, 
+- duración total de la recogida de datos de la muestra, 
+- información básica sobre la situación de actividad durante el periodo de referencia para la renta. 
+3.2. Componentes de la renta 
+3.2.1. Se facilitarán las diferencias entre las definiciones nacionales y las definiciones normalizadas de EU-SILC, y una evaluación, si está disponible, de las consecuencias de dichas diferencias, para las variables objetivo siguientes: 
+- renta bruta total del hogar, 
+- renta total disponible del hogar, 
+- renta total disponible del hogar, sin subsidios distintos de los de vejez y supervivencia, 
+- renta total disponible del hogar, sin subsidios de vejez y supervivencia, 
+- renta imputada(1), 
+- renta procedente del alquiler de una propiedad o terreno, 
+- subsidios familiares, 
+- subsidios contra la exclusión social no clasificados en otra parte, 
+- subsidios para la vivienda, 
+- transferencias periódicas monetarias recibidas entre hogares, 
+- intereses, dividendos, beneficios de las inversiones de capital en empresas no constituidas en sociedades, 
+- intereses pagados sobre amortizaciones(2), 
+- renta recibida por menores de 16 años, 
+- impuestos sobre la renta, 
+- transferencias periódicas monetarias abonadas entre hogares, 
+- impuesto sobre la renta y cotizaciones a la seguridad social, 
+- reembolsos/ingresos por ajustes fiscales, 
+- renta monetaria o cuasimonetaria del asalariado, 
+- renta no monetaria del asalariado(3), 
+- cotizaciones a la seguridad social de los empresarios(4), 
+- ganancias o pérdidas monetarias del trabajo por cuenta propia (incluidos derechos), 
+- valor de los bienes producidos para el consumo propio(5), 
+- subsidio de desempleo, 
+- subsidio de vejez, 
+- subsidio de supervivencia, 
+- subsidio de enfermedad, 
+- subsidio de discapacidad, 
+- subsidio escolar, 
+- ingresos mensuales brutos de los asalariados(6). 
+3.2.2. Fuente o procedimiento utilizado para la recogida de las variables de renta 
+3.2.3. Forma en la que se han obtenido las variables de renta a escala de componente (por ejemplo: brutas, netas de impuestos sobre la renta en el origen y de cotizaciones sociales, netas de impuestos sobre la renta en el origen, netas de cotizaciones sociales) 
+3.2.4. Método utilizado para obtener variables objetivo de la renta en la forma requerida (es decir, como valores brutos) 
+4. COHERENCIA 
+4.1. Comparación de variables objetivo de la renta y del número de personas que percibe ingresos de cada %quot%componente de la renta%quot% con fuentes externas 
+Se facilitará una comparación con fuentes externas para todas las variables objetivo de la renta y el número de personas que perciben ingresos de cada %quot%componente de la renta%quot%, cuando los Estados miembros afectados consideren que estos datos externos son suficientemente fiables. 
+(1) Obligatorio a partir de 2007. 
+(2) Obligatorio a partir de 2007. 
+(3) Esta variable (excepto para los vehículos de empresa) sólo se recogerá a partir de 2007. 
+(4) Esta variable sólo se registrará a partir de 2007 si los estudios de viabilidad muestran que es posible. 
+(5) Obligatorio a partir de 2007. 
+(6) Obligatorio sólo para los Estados miembros que no tienen más fuente que EU-SILC para calcular la diferencia de retribución entre mujeres y hombres. 
+ANEXO III 
+Criterios de evaluación de la calidad y descripción del informe final de la calidad, que deben elaborar los Estados miembros 
+1. INDICADORES LONGITUDINALES COMUNES DE LA UNIÓN EUROPEA BASADOS EN LA COMPONENTE LONGITUDINAL DE EU-SILC 
+Los Estados miembros facilitarán indicadores longitudinales comunes de la Unión Europea, basados en la muestra longitudinal de EU-SILC. 
+Los indicadores longitudinales comunes de la Unión Europea son aquellos indicadores adoptados por el Consejo en el contexto del método abierto de coordinación que pueden derivarse del instrumento EU-SILC. 
+2. PRECISIÓN 
+2.1. Diseño muestral 
+Para el primer ciclo de la componente longitudinal de EU-SILC deberá facilitarse la información siguiente: 
+2.1.1. Tipo de diseño muestral (estratificado, multifásico, agrupado) 
+2.1.2. Unidades de muestreo (una fase, dos fases) 
+2.1.3. Criterios de estratificación y subestratificación 
+2.1.4. Tamaño de la muestra y criterios de asignación 
+2.1.5. Sistemas de selección de la muestra 
+2.1.6. Distribución diacrónica de la muestra 
+2.1.7. Renovación de la muestra: grupos rotatorios 
+2.1.8. Ponderaciones 
+2.1.8.1. Factor del diseño 
+2.1.8.2. Ajustes por falta de respuesta 
+2.1.8.3. Ajuste a los datos externos (nivel, variables utilizadas y fuentes) 
+2.1.8.4. Ponderación longitudinal final 
+Para el segundo y siguientes ciclos de la componente longitudinal de EU-SILC deberá facilitarse la información siguiente: 
+2.1.8.5. Ajustes por falta de respuesta 
+2.1.8.6. Ajustes a los datos externos (nivel, variables utilizadas y fuentes) 
+2.1.8.7. Ponderación longitudinal final 
+2.1.8.8. Ponderación transversal final del hogar 
+Para el primer ciclo de la componente longitudinal de EU-SILC, los Estados miembros deberán facilitar la información siguiente cuando se haya recurrido a sustituciones en caso de falta de respuesta de una unidad. 
+2.1.9. Sustituciones 
+2.1.9.1. Método de selección de los sustitutos 
+2.1.9.2. Características principales de las unidades sustituidas en comparación con las originales, por regiones (NUTS 2) si los datos están disponibles 
+2.1.9.3. Desglose de las unidades sustituidas por registro de direcciones de contacto (DB120), resultado del cuestionario del hogar (DB130) y aceptación de la entrevista por el hogar (DB135) de las unidades originales 
+2.2. Errores de muestreo 
+Para la componente transversal de EU-SILC y para cada ciclo de la componente longitudinal de EU-SILC deberá facilitarse la información siguiente: 
+- la media, el total de observaciones (antes y después de la imputación) y los errores típicos para los siguientes componentes de la renta: 
+%gt%PIC FILE= %quot%L_2004005ES.005101.TIF%quot%%gt% 
+- media, número de observaciones (antes y después de las imputaciones) y error típico para la renta disponible equivalente desglosados por género, grupo de edad y tamaño del hogar: 
+%gt%PIC FILE= %quot%L_2004005ES.005102.TIF%quot%%gt% 
+2.3. Errores ajenos al muestreo 
+2.3.1. Marco de muestreo y errores de cobertura 
+Para el primer ciclo de la componente longitudinal de EU-SILC deberá facilitarse la información sobre el marco de muestreo y los errores de cobertura, tal como se definen en el punto 2.3.1 del anexo II del presente Reglamento. 
+2.3.2. Errores de medición y tratamiento 
+Para cada ciclo de la componente longitudinal de EU-SILC deberá facilitarse la información sobre los errores de medición y tratamiento, tal como se definen en el punto 2.3.2 del anexo II del presente Reglamento. 
+2.3.3. Errores de falta de respuesta 
+2.3.3.1. Tamaño de la muestra lograda 
+Para cada ciclo de la componente longitudinal de EU-SILC deberá facilitarse la información siguiente: 
+- número de hogares que han aceptado ser entrevistados para la base de datos, 
+- número de personas de 16 años o más, número de personas panel y número de corresidentes, que sean miembros del hogar que ha aceptado la entrevista para la base de datos, y que hayan completado su entrevista personal. 
+2.3.3.2. Falta de respuesta de las unidades 
+Para el primer ciclo de la componente longitudinal de EU-SILC deberá facilitarse la información siguiente: 
+- los índices de falta de respuesta de los hogares (NRh), tal como se definen en el punto 2.3.3.2. del anexo II del presente Reglamento, 
+- los índices de falta de respuesta individual (NRp), tal como se definen en el punto 2.3.3.2 del anexo II del presente Reglamento, 
+- El índice global de falta de respuesta individual (*NRp), tal como se define en el punto 2.3.3.2 del anexo II del presente Reglamento. 
+Para el segundo y siguientes ciclos de la componente longitudinal de EU-SILC deberá facilitarse la información siguiente: 
+- Índice de respuesta de los hogares 
+- Índice de respuesta por ciclo 
+Porcentaje de hogares a los que se ha logrado entrevistar (DB135 = 1) llegados al ciclo t (del ciclo t-1) o recién creados a añadidos durante el ciclo t, salvo los que no pertenecen a la población objetivo (con arreglo a las normas de seguimiento) o los que no existen. 
+- Índice de seguimiento longitudinal 
+Porcentaje de hogares que han llegado al ciclo t+1 para el seguimiento respecto a los hogares llegados al ciclo t desde el ciclo t-1, salvo los que no pertenecen a la población objetivo (con arreglo a las normas de seguimiento) o los que no existen. 
+- Índice de seguimiento 
+Número de hogares que han llegado del ciclo t al ciclo t+1 en comparación con el número de hogares que llegaron al ciclo t desde el ciclo t-1 para el seguimiento. 
+- Índice del tamaño de la muestra lograda 
+Índice del número de hogares aceptados para la base de datos (DB135 = 1) en el ciclo t respecto al número de hogares aceptados para la base de datos (DB135 = 1) en el ciclo t-1. 
+- Índice de respuesta individual 
+- Índice de respuesta por ciclo 
+Porcentaje de personas panel que han podido ser entrevistadas (RB250 = 11, 12, 13) respecto a las que llegaron al ciclo t (desde el ciclo t-1) o las nuevamente creadas o añadidas durante el ciclo t, salvo las que no pertenecen a la población objetivo (con arreglo a las normas de seguimiento). 
+Porcentaje de corresidentes seleccionados en el ciclo 1 que han podido ser entrevistados (RB = 11, 12, 13) respecto a los que han llegado al ciclo t (desde el ciclo t-1). 
+- Índice de seguimiento longitudinal 
+Porcentaje de personas panel que han podido ser entrevistadas (RB250 = 11, 12, 13) en el ciclo t respecto a todas las personas panel seleccionadas, salvo las fallecidas o consideradas no elegibles (fuera de la población objetivo), desglose por causas de falta de respuesta. 
+- Proporción del tamaño de la muestra lograda 
+Proporción del número de entrevistas personales completadas (RB250 = 11, 12, 13) en el ciclo t respecto al número de entrevistas personales completadas en el ciclo t-1. 
+Esta proporción se definirá para las personas panel y para todas las personas, incluidas personas fuera del panel y corresidentes de 16 años o más seleccionados en el primer ciclo. 
+- Índice de respuestas de las personas fuera del panel 
+Proporción del número de entrevistas personales completadas (RB250 = 11, 12, 13) a personas fuera del panel de 16 años o más en el ciclo t respecto a todas las personas fuera del panel de 16 años o más que figuraban en los hogares aceptados para la base de datos (DB135 = 1) en el ciclo t o que figuraban en las entrevistas a los hogares realizadas más recientemente en los hogares que llegaron desde el ciclo t-1 al ciclo t para el seguimiento, pero que no pudieron entrevistarse en el ciclo t. 
+2.3.3.3. Desglose de los hogares por situación del hogar (DB110), por registro de direcciones de contacto (DB120), por resultado del cuestionario del hogar (DB130) y por aceptación de la entrevista por el hogar (DB135) 
+Para cada ciclo de la componente longitudinal de EU-SILC deberá facilitarse el desglose de los hogares por situación del hogar, registro de direcciones de contacto, resultado del cuestionario del hogar y aceptación de la entrevista por el hogar. 
+2.3.3.4. Desglose de las personas por calidad de miembro (RB110) 
+Para el segundo y siguientes ciclos de la componente longitudinal de EU-SILC deberá facilitarse el desglose de las personas por calidad de miembro. 
+2.3.3.5. Falta de respuesta sobre el asunto 
+Para las variables de la renta se facilitará la información siguiente para cada ciclo del componente longitudinal de EU-SILC: 
+- porcentajes de hogares (por componentes de la renta recogidas o recopiladas en el hogar)/personas (por componentes de la renta recogidas o recopiladas individualmente) que hayan recibido una cantidad para cada componente de la renta, 
+- porcentaje de valores que faltan para cada componente de la renta recogida o recopilada en el hogar/individualmente, 
+- porcentaje de información parcial para cada componente de la renta recogida o recopilada en el hogar/individualmente. 
+2.4. Modo de recogida de datos 
+Para cada ciclo de la componente longitudinal de EU-SILC se facilitará el desglose de los miembros del hogar de 16 años y más por %quot%carácter de los datos%quot% (RB250) y %quot%tipo de entrevista%quot% (RB260) para cada persona panel, para los corresidentes y para el total. 
+2.5. Procedimiento de imputación 
+Para la componente transversal de EU-SILC y para cada ciclo de la componente longitudinal de EU-SILC se facilitará una descripción del procedimiento de imputación utilizado para la falta de respuesta sobre el asunto (cuando este difiera del método de Eurostat), las variables imputadas y el porcentaje de imputación sobre el total de observaciones por variable objetivo. 
+2.6. Alquiler imputado 
+Para la componente transversal de EU-SILC y para cada ciclo de la componente longitudinal de EU-SILC se facilitará una descripción del método utilizado para calcular el alquiler imputado cuando este difiera del método de Eurostat. 
+2.7. Vehículos de la empresa 
+Para la componente transversal de EU-SILC y para cada ciclo de la componente longitudinal de EU-SILC se facilitará una descripción del método utilizado para imputar un valor a la utilización de un %quot%vehículo de la empresa%quot% con fines privados. 
+3. COMPARABILIDAD 
+3.1. Conceptos y definiciones fundamentales 
+Para el primer ciclo de la componente longitudinal de EU-SILC se facilitará la información sobre los conceptos y definiciones fundamentales (descritas en el punto 3.1 del anexo II del presente Reglamento), las diferencias entre las definiciones nacionales y las definiciones normalizadas de EU-SILC, y una evaluación, en su caso, de las consecuencias de las diferencias mencionadas. 
+Para el segundo ciclo y los siguientes se comunicará cualquier modificación de los conceptos y definiciones fundamentales con respecto al primer ciclo. 
+3.2. Componentes de la renta 
+3.2.1. Diferencias entre las definiciones nacionales y las definiciones normalizadas de EU-SILC y una evaluación (en su caso) de las consecuencias de las diferencias mencionadas 
+Para el primer ciclo de la componente longitudinal de EU-SILC se facilitará la información sobre las componentes de la renta descritas en el punto 3.2.1 del anexo II del presente Reglamento (salvo los %quot%ingresos mensuales brutos de los asalariados%quot%). 
+Para el segundo ciclo y los siguientes se comunicará cualquier modificación de la definición de las componentes de la renta con respecto al primer ciclo. 
+3.2.2. Fuente o procedimiento utilizado para la recogida de las variables de la renta 
+Para el primer ciclo de la componente longitudinal de EU-SILC se indicará la fuente o el procedimiento utilizado para la recogida de las variables de la renta. 
+Para el segundo ciclo y los siguientes se comunicará cualquier modificación en la fuente o el procedimiento utilizado para la recogida de las variables de la renta. 
+3.2.3. Forma en la que se han obtenido las variables de la renta a escala de componente 
+Para el primer ciclo de la componente longitudinal de EU-SILC se indicará la forma en la que se han obtenido las variables de la renta a escala de componente (por ejemplo: brutas, netas de impuestos sobre la renta en la fuente y de cotizaciones sociales, netas de impuestos sobre la renta en la fuente, netas de cotizaciones sociales). 
+Para el segundo ciclo y los siguientes se comunicará cualquier modificación de la forma en la que se han obtenido las variables de la renta a escala de componente. 
+3.2.4. Método utilizado para obtener las variables objetivo de la renta en la forma requerida (es decir, como valores brutos) 
+Para el primer ciclo de la componente longitudinal de EU-SILC se facilitará el método utilizado para obtener las variables objetivo de la renta en la forma requerida (es decir, como valores brutos). 
+Para el segundo ciclo y los siguientes se comunicará cualquier modificación en la fuente o el procedimiento utilizado para la recogida de las variables de la renta. 
+3.3. Normas de seguimiento 
+Para la componente longitudinal de EU-SILC se indicarán las diferencias entre las normas de seguimiento nacionales y las normas de seguimiento estándar de EU-SILC. 
+4. COHERENCIA 
+4.1. Comparación con fuentes externas de las variables objetivo de la renta y del número de personas que ha percibido ingresos para cada %quot%componente de la renta%quot% 
+Para cada ciclo de la componente longitudinal de EU-SILC se facilitará una comparación con fuentes externas de las variables objetivo de la renta y del número de personas que han percibido ingresos para cada %quot%componente de la renta%quot%, cuando los Estados miembros afectados consideren suficientemente fiables estos datos externos. 
+ANEXO IV 
+Contenido de los informes comparativos de calidad intermedio y final, que debe elaborar la Comisión (Eurostat) 
+INFORME COMPARATIVO INTERMEDIO DE CALIDAD 
+Basado en los informes intermedios de calidad suministrados por los Estados miembros, la Comisión (Eurostat) elaborará un informe comparativo intermedio de calidad que incluirá los criterios de calidad siguientes: 
+1. Precisión 
+1.1. Diseño muestral 
+1.2. Errores de muestreo 
+1.2.1. Valor estimado, coeficiente de variación, intervalo de confianza del 95 % y tamaño efectivo de la muestra para los indicadores transversales comunes de la Unión Europea basados en la componente transversal de EU-SILC, para la renta disponible equivalente y para la diferencia de remuneración entre mujeres y hombres (en su caso) 
+1.3. Errores ajenos al muestreo 
+1.4. Modo de recogida de los datos 
+1.5. Duración de la entrevista 
+2. Comparabilidad 
+2.1. Conceptos y definiciones fundamentales 
+2.2. Componentes de la renta 
+3. Coherencia 
+INFORME FINAL COMPARATIVO DE CALIDAD 
+Basado en los informes finales de calidad suministrados por los Estados miembros, la Comisión (Eurostat) elaborará un informe comparativo final de calidad que incluirá los criterios de calidad siguientes: 
+1. Pertinencia 
+- Descripción y clasificación de los usuarios 
+- Descripción de la diversidad de las necesidades de los usuarios (por clases de usuarios) 
+2. Precisión 
+2.1. Diseño muestral 
+2.2. Errores de muestreo 
+Para la componente transversal de EU-SILC y para cada ciclo de la componente longitudinal de EU-SILC se facilitará la información siguiente: 
+- la media, el total de observaciones (antes y después de la imputación), el coeficiente de variación y el intervalo de confianza del 95 % para las componentes de la renta, 
+- la media, el total de observaciones (antes y después de la imputación), el coeficiente de variación y el intervalo de confianza del 95 % para la renta disponible equivalente, desglosado por género, grupos de edad y tamaño del hogar 
+2.3. Errores ajenos al muestreo 
+2.4. Modo de recogida de datos 
+2.5. Procedimiento de imputación 
+2.6. Alquiler imputado 
+2.7. Vehículos de la empresa 
+3. Exactitud y puntualidad 
+- Exactitud media de los datos 
+- Frecuencia de los datos y antigüedad media de los datos 
+- Porcentaje de demora en la entrega de datos, basado en las fechas de difusión previstas con arreglo al Reglamento marco EU-SILC 
+- Plazo medio de la falta de puntualidad de los datos entregados (en semanas) 
+- Motivos de la demora en la entrega 
+4. Accesibilidad y claridad 
+- Descripción de las condiciones de acceso a los datos (medios, soporte, condiciones de comercialización, restricciones, confidencialidad, etc.) 
+- Descripción de las condiciones de publicación de los datos 
+5. Comparabilidad 
+5.1. Conceptos y definiciones fundamentales 
+5.2. Componentes de la renta 
+5.3. Normas de seguimiento 
+6. Coherencia. 

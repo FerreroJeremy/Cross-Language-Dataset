@@ -1,0 +1,40 @@
+Règlement (CE) n° 1500/94 du Conseil du 21 juin 1994 modifiant le règlement (CEE) n° 2454/93 de la Commission fixant certaines dispositions d'application du règlement (CEE) n° 2913/92 du Conseil établissant le code des douanes communautaires 
+RÈGLEMENT (CE) No 1500/94 DU CONSEIL du 21 juin 1994 modifiant le règlement (CEE) no 2454/93 de la Commission fixant certaines dispositions d'application du règlement (CEE) no 2913/92 du Conseil établissant le code des douanes communautaires 
+LE CONSEIL DE L'UNION EUROPÉENNE, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CEE) no 2913/92 du Conseil, du 12 octobre 1992, établissant le code des douanes communautaire (1), et notamment son article 249, 
+vu la proposition de la Commission, 
+considérant que l'article 20 paragraphe 4 du règlement (CEE) no 2913/92 prévoit que les mesures tarifaires préférentielles, tant celles contenues dans des accords que la Communauté a conclus avec certains pays ou groupe de pays et qui prévoient l'octroi d'un traitement tarifaire préférentiel, que celles arrêtées unilatéralement par la Communauté en faveur de certains pays, groupes de pays ou territoires, ainsi que les mesures autonomes de suspension prévoyant la réduction ou l'exonération des droits à l'importation applicables à certaines marchandises, s'appliquent uniquement sur demande du déclarant et lorsque les marchandises en question remplissent les conditions prévues par ces mesures; 
+considérant que, dans le cadre de la conduite de la politique commerciale de la Communauté, il est important que celle-ci dispose de statistiques complètes sur le volume des échanges de marchandises qui bénéficient de ces mesures; 
+considérant qu'une exploitation de ces statistiques rend nécessaire l'utilisation dans la case 36 du DAU d'une codification commune à tous les États membres; 
+considérant toutefois qu'il convient de donner aux États membres la possibilité d'adapter leurs systèmes informatiques douaniers; que, en conséquence, il y a lieu de prévoir une période transitoire durant laquelle des codes nationaux compatibles avec les codes communautaires pourront être utilisés; 
+considérant qu'il se révèle opportun de prévoir, pour le 1er janvier 1996, la saisie d'informations relatives aux marchandises pour lesquelles une restitution à l'exportation est demandée; 
+considérant que, en l'absence d'avis du comité du code des douanes sur le projet de règlement présenté par la Commission, il incombe au Conseil d'arrêter les dispositions nécessaires, 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+Les annexes 37 et 38 du règlement (CEE) no 2454/93 (2) sont modifiées conformément à l'annexe du présent règlement. 
+Article 2 
+Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel des Communautés européennes. 
+Il est applicable à partir du 1er janvier 1995. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Luxembourg, le 21 juin 1994. 
+Par le Conseil 
+Le président 
+G. MORAITIS 
+(1) JO no L 302 du 19. 10. 1992, p. 1. 
+(2) JO no L 253 du 11. 10. 1993, p. 1. Règlement modifié en dernier lieu par le règlement de la Commission (CE) no 655/94 (JO no L 82 du 25. 3. 1994, p. 15). 
+ANNEXE 
+1. L'annexe 37 du règlement (CEE) no 2454/93 est modifiée comme suit. 
+a) Sous le titre Ier point B.2, le nombre « 36 » doit être inséré dans la liste minimale des cases à servir pour une déclaration de mise en libre pratique. 
+b) Le texte relatif à la case 36 titre II point C est remplacé par le texte suivant: 
+« 36. Préférence 
+Indiquer le code prévu à cet effet. 
+Jusqu'au 1er janvier 1996, les États membres peuvent utiliser des codes différents de ceux prévus à l'annexe 38 dans la mesure où ils permettent la saisie de l'information statistique avec un degré de précision au moins équivalent à ceux-ci. » 
+2. À l'annexe 38 du règlement (CEE) no 2454/93, le texte suivant, relatif à la case 36, est inséré: 
+« Case 36: Préférence 
+Les codes applicables sont: 
+1) Le premier chiffre du code 
+%quot%%quot% ID=%quot%1%quot%%gt%1%gt% ID=%quot%2%quot%%gt%Régime tarifaire erga omnes (sans certificat à fin préférentielle)%quot%%gt% ID=%quot%1%quot%%gt%2%gt% ID=%quot%2%quot%%gt%Système des préférences généralisées (SPG)%quot%%gt% ID=%quot%1%quot%%gt%3%gt% ID=%quot%2%quot%%gt%Autres préférences tarifaires (EUR 1, ATR ou document équivalent)%quot%%gt% 
+2) Les deux chiffres suivants du code 
+%quot%%quot% ID=%quot%1%quot%%gt%00%gt% ID=%quot%2%quot%%gt%Aucun des cas suivants%quot%%gt% ID=%quot%1%quot%%gt%10%gt% ID=%quot%2%quot%%gt%Suspension tarifaire%quot%%gt% ID=%quot%1%quot%%gt%15%gt% ID=%quot%2%quot%%gt%Suspension tarifaire avec destination particulière%quot%%gt% ID=%quot%1%quot%%gt%18%gt% ID=%quot%2%quot%%gt%Suspension tarifaire avec certificat sur la nature particulière du produit%quot%%gt% ID=%quot%1%quot%%gt%20%gt% ID=%quot%2%quot%%gt%Contingent tarifaire (1)%quot%%gt% ID=%quot%1%quot%%gt%23%gt% ID=%quot%2%quot%%gt%Contingent tarifaire avec destination particulière (1)%quot%%gt% ID=%quot%1%quot%%gt%25%gt% ID=%quot%2%quot%%gt%Contingent tarifaire avec certificat sur la nature particulière du produit (1)%quot%%gt% ID=%quot%1%quot%%gt%28%gt% ID=%quot%2%quot%%gt%Contingent tarifaire après perfectionnement passif (1)%quot%%gt% ID=%quot%1%quot%%gt%40%gt% ID=%quot%2%quot%%gt%Destination particulière résultant du tarif douanier commun%quot%%gt% ID=%quot%1%quot%%gt%50%gt% ID=%quot%2%quot%%gt%Certificat sur la nature particulière du produit.%quot%%quot%%gt% 
+(1) Dans le cas où le contingent tarifaire demandé est épuisé, les États membres peuvent prévoir que la demande vaut pour l'application de toute autre préférence existante. » 

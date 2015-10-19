@@ -1,0 +1,58 @@
+Commission Directive 2001/63/EC of 17 August 2001 adapting to technical progress Directive 97/68/EC of the European Parliament and of the Council on the approximation of the laws of the Member States relating to measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery 
+Commission Directive 2001/63/EC 
+of 17 August 2001 
+adapting to technical progress Directive 97/68/EC of the European Parliament and of the Council on the approximation of the laws of the Member States relating to measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Directive 97/68/EC of the European Parliament and of the Council of 16 December 1997 on the approximation of the laws of the Member States relating to measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery(1), and in particular Article 14 thereof, 
+Whereas: 
+(1) The scope of Economic Commission for Europe (ECE) Regulation No 96 on emissions from compression ignition engines to be installed in agricultural and forestry tractors has been extended to cover also other types of non-road mobile machinery. 
+(2) The European Community is a contracting party to the said ECE Regulation. 
+(3) It is necessary to align the technical requirements in that Regulation with the corresponding requirements in Directive 97/68/EC. 
+(4) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress established by Council Directive 92/53/EEC(2). 
+(5) Directive 97/68/EC should be amended accordingly, 
+HAS ADOPTED THIS DIRECTIVE: 
+Article 1 
+Annexes III and IV to Directive 97/68/EC are hereby amended in accordance with the Annex to this Directive. 
+Article 2 
+This Directive shall not invalidate any approval granted prior to the date mentioned in Article 3 pursuant to Directive 97/68/EC nor prevent extensions to such approvals under the terms of the Directive under which they were originally granted. 
+Article 3 
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 30 June 2002 at the latest. They shall forthwith inform the Commission thereof. 
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+Article 4 
+This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities. 
+Article 5 
+This Directive is addressed to the Member States. 
+Done at Brussels, 17 August 2001. 
+For the Commission 
+Margot Wallstrรถm 
+Member of the Commission 
+(1) OJ L 59, 27.2.1998, p. 1. 
+(2) OJ L 225, 10.8.1992, p. 1. 
+ANNEX 
+Amendments to Annexes III and IV to Directive 97/68/EC 
+1. Annex III is amended as follows: 
+(1) in paragraph 2.2.2, the formula shall be replaced by the following: 0,96 %amp%lt;= fa %amp%lt;= 1,06 
+(2) in Appendix 2, paragraph 1.2.1, third indent %quot%CO%quot% shall be replaced by %quot%CO2%quot%; 
+(3) in Appendix 2, paragraph 1.9.2.2 is replaced by the following: %quot%1.9.2.2. Water quench check 
+This check applies to wet gas concentration measurements only. Calculation of water quench must consider dilution of the NO span gas with water vapour and scaling of water vapour concentration of the mixture to that expected during testing. A NO span gas having a concentration of 80 to 100 % of full scale to the normal operating range shall be passed through the (H)CLD and the NO value recorded as D. The NO gas shall then be bubbled through water at room temperature and passed through the (H)CLD and the NO value recorded as C. The water temperature shall be determined and recorded as F. The mixture's saturation vapour pressure that corresponds to the bubbler water temperature (F) shall be determined and recorded as G. The water vapour concentration (in %) of the mixture shall be calculated as follows: 
+%gt%PIC FILE= %quot%L_2001227EN.004202.TIF%quot%%gt% 
+and recorded as H. The expected diluted NO span gas (in water vapour) concentration shall be calculated as follows: 
+%gt%PIC FILE= %quot%L_2001227EN.004203.TIF%quot%%gt% 
+and recorded as De. For diesel exhaust, the maximum exhaust water vapour concentration (in %) expected during testing shall be estimated, under the assumption of a fuel atom H/C ration of 1,8 to 1, from the maximum CO2 concentration in the exhaust gas or from the undiluted CO2 span gas concentration (A, as measured in section 1.9.2.1) as follows: 
+Hm = 0,9 x A 
+and recorded as Hm. 
+The water quench shall be calculated as follows: 
+%gt%PIC FILE= %quot%L_2001227EN.004204.TIF%quot%%gt% 
+and must not be greater than 3 % of full scale. 
+De: expected diluted NO concentration (ppm) 
+C: diluted NO concentration (ppm) 
+Hm: maximum water vapour concentration (%) 
+H: actual water vapour concentration (%) 
+NB: 
+It is important that the NO span gas contains minimal NO2 concentration for this check, since obsorption of NO2 in water has not been accounted for in the quench calculations.%quot% 
+(4) in Appendix 3, paragraph 1.4.4, the second formula for single filter particulate mass flow background correction is deleted and the first formula is amended as follows; 
+%gt%PIC FILE= %quot%L_2001227EN.004205.TIF%quot%%gt% 
+2. Annex IV is amended as follows: 
+(1) the table, second column, line 17 (row %quot%Neutralisation (strong acid) number%quot%) is replaced by the following: %gt%TABLE%gt% 
+(2) Note 9, second sentence is changed as follows: %quot%For the purpose of the initial approval of an engine with no exhaust gas after treatment on the request of the applicant a 0,05 % mass nominal sulphur level (minimum 0,03 % mass) is permissible, in which case the measured particulate level must be corrected upward to the average value that is nominally specified for fuel sulphur content (0,15 % mass) per the equation below:%quot%. 

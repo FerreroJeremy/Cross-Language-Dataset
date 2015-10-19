@@ -1,0 +1,318 @@
+Directiva 71/318/CEE del Consejo, de 26 de julio de 1971, relativa a la aproximación de las legislaciones de los Estados Miembros sobre los contadores de volumen de gas 
+DIRECTIVA DEL CONSEJO 
+de 26 de julio de 1971 
+relativa a la aproximación de las legislaciones de los Estados miembros sobre los contadores de volumen de gas 
+( 71/318/CEE ) 
+EL CONSEJO DE LAS COMUNIDADES EUROPEAS , 
+Visto el Tratado constitutivo de la Comunidad Económica Europea y , en particular , su artículo 100 , 
+Vista la propuesta de la Comisión , 
+Visto el dictamen del Parlamento Europeo (1) , 
+Visto el dictamen del Comité Económico y Social (2) , 
+Considerando que , en los Estados miembros , tanto la fabricación como las modalidades de control de contadores de volumen de gas , son objeto de disposiciones imperativas que difieren de uno a otro Estado miembro , y obstaculizan por ello los intercambios comerciales de dichos instrumentos ; que por lo tanto se hace necesario proceder a la aproximación de tales disposiciones ; 
+Considerando que la Directiva del Consejo , de 26 de julio de 1971 , relativa a la aproximación de las legislaciones de los Estados miembros sobre las disposiciones comunes a los instrumentos de medida y a los métodos de control metrológico (3) define los procedimientos de aprobación CEE de modelo y de primera comprobación CEE ; que con arreglo a dicha Directiva , conviene establecer las prescripciones técnicas de realización y de funcionamiento para los contadores de volumen de gas , 
+HA ADOPTADO LA PRESENTE DIRECTIVA : 
+Artículo 1 
+La presente Directiva se aplicará a los siguientes contadores de volumen de gas : 
+1 . Contadores volumétricos : 
+- contadores de paredes deformables , 
+- contadores de pistones rotativos . 
+2 . Contadores no volumétricos : 
+- contadores de turbina . 
+Artículo 2 
+Los contadores de volumen de gas que podrán llevar las marcas y signos CEE quedan descritos en el Anexo a la presente Directiva . Dichos contadores serán objeto de una aprobación CEE de modelo y estarán sometidos a la primera comprobación CEE . 
+Artículo 3 
+Los Estados miembros no podrán denegar , prohibir o restringir la comercialización y la entrada en servicio de contadores de volumen de gas provistos del signo de aprobación CEE de modelo y de la marca de primera comprobación CEE . 
+Artículo 4 
+1 . Los Estados miembros aplicarán las disposiciones legales , reglamentarias y administrativas necesarias para cumplir la presente Directiva en un plazo de dieciocho meses a partir del día de su notificación e informarán de ello inmediatamente a la Comisión . 
+2 . Los Estados miembros comunicarán a la Comisión el texto de las disposiciones básicas de Derecho interno que adopten en el ámbito regulado por la presente Directiva . 
+Artículo 5 
+Los destinatarios de la presente Directiva serán los Estados miembros . 
+Hecho en Bruselas , el 26 de julio de 1971 . 
+Por el Consejo 
+El Presidente 
+A. MORO 
+(1) DO n º C 65 de 5 . 6 . 1970 , p. 30 . 
+(2) DO n º C 131 de 29 . 10 . 1970 , p. 7 . 
+(3) DO n º L 202 de 6 . 9 . 1971 , p. 1 . 
+ANEXO 
+CAPÍTULO I 
+A . DEFINICIÓN DE ALGUNOS TÉRMINOS UTILIZADOS EN EL PRESENTE ANEXO 
+1 . Amplitud de carga 
+La amplitud de carga de un contador de gas es la delimitada por el caudal máximo Q max y el caudal mínimo Q mín . 
+2 . Volumen cíclico de un contador volumétrico 
+El volumen cíclico V de un contador volumétrico es igual al volumen de gas correspondiente al ciclo de funcionamiento del contador , es decir , al conjunto de los movimientos de los órganos móviles del contador , al final de los cuales todos estos órganos , salvo el dispositivo indicador y las transmisiones intermedias , vuelven por vez primera a la misma posición que en el instante inicial . 
+Dicho volumen se calcula multiplicando el valor del volumen representado por una vuelta completa del elemento controlador por una vuelta completa del elemento controlador por la relación de transmisión del dispositivo medidor respecto al dispositivo indicador . 
+3 . Presión de funcionamiento y presión de referencia 
+3.1 . Presión de funcionamiento 
+La presión de funcionamiento de un contador de gas es la diferencia entre presión a la entrada del contador de gas que se debe medir y la presión atmosférica . 
+3.2 . Presión de referencia 
+La presión de referencia p r de un contador de gas es la presión de gas a la que corresponde el volumen de gas indicado . 
+La toma de presión para la presión de referencia se determina en el Capítulo III . 
+4 . Absorción de presión 
+La absorción de presión de un contador de gas es la diferencia entre las presiones medidas a la entrada y a la salida del contador durante el flujo del gas . 
+5 . Constante de los mandos de salida 
+La constante de un mando de salida es el valor del volumen representado por una vuelta completa del eje de dicho mando ; este valor se calcula multiplicando el valor del volumen representado por una vuelta completa del elemento controlador por la relación de transmisión del dispositivo indicador respecto a dicho eje . 
+B . PRESCRIPCIONES GENERALES PARA LOS CONTADORES DE VOLUMEN DE GAS 
+1 . Generalidades 
+1.1 . El capítulo I del presente Anexo establece las prescripciones generales que deben cumplir todos los contadores de volumen de gas mencionados en el artículo primero de la presente Directiva . 
+1.2 . Los Capítulos II y III del presente Anexo establecen las prescripciones específicas relativas a tales contadores . 
+3 . Construcción 
+2.1 . Materiales 
+Los contadores deberán fabricarse con materiales sólidos que experimenten pocas tensiones internas , que se modifiquen poco por efecto de su envejecimiento y sean suficientemente resistentes a la corrosión y a los ataques de los distintos gases normalmente distribuidos y de sus eventuales condensaciones . 
+2.2 . Hermeticidad de los contadores 
+Los contadores deberán cerrar herméticamente a su máxima presión de funcionamiento . 
+2.3 . Protección contra las intervenciones exteriores 
+Los contadores se deberán construir de manera que resulte imposible llevar a cabo cualquier intervención susceptible de alterar la exactitud de la medición sin deteriorar las marcas de comprobación o de precinto . 
+2.4 . Sentido del flujo del gas 
+En los contadores cuyo dispositivo indicador no funcione en sentido positivo más que para uno solo de los sentidos del flujo del gas , dicho sentido se deberá indicar con una flecha . 
+No se exigirá tal flecha si el sentido del flujo del gas viniera impuesto por el tipo de fabricación . 
+2.5 . Cualidades metrológicas 
+A un caudal igual a Q max , un contador deberá poder funcionar en régimen continuo durante el tiempo que se determina en los Capítulos II o III sin que las modificaciones de sus cualidades metrológicas sobrepasen los límites fijados en dichos capítulos . 
+3 . Dispositivos adicionales 
+3.1 . Los contadores podrán ir provistos de dispositivos adicionales ( corrector , registrador , indicador suplementario , etc. ) ; su acoplamiento estará sometido al procedimiento de aprobación CEE de modelo . 
+3.2 . Los contadores podrán ir provistos de mandos de salida para accionar un dispositivo indicador separable , un dispositivo de pago anticipado o cualquier otro dispositivo complementario o adicional . 
+3.2.1 . Cuando no se utilicen tales mandos , su toma libre exterior deberá ir protegida por un tapón o por un accesorio análogo que pueda ser precintado . 
+3.2.2 . En el caso en que dicha toma sea un eje , éste deberá llevar indicado el valor de su constante de la siguiente forma : « 1 tr * ... m3 ( o dm3 ) » . 
+3.3 . Los contadores podrán ir provistos de generadores de impulsos incorporados . Las tomas de salida de dichos generadores de impulsos deberán llevar indicado el valor correspondiente a un impulso de esta forma : « 1 imp * ... m3 ( o dm3 ) » . 
+4 . Inscripciones 
+4.1 . Cada contador deberá llevar agrupadas las siguientes inscripciones , bien sobre la placa del dispositivo indicador , bien sobre una placa descriptiva especial : 
+a ) el número característico de la aprobación de modelo del contador , 
+b ) la marca de identificación del fabricante su razón social , 
+c ) el número del contador y su año de fabricación , 
+d ) una designación del contador ; dicha designación tendrá la forma de la letra mayúscula G , seguida de un número que se determina en los Capítulos II y III , 
+e ) el caudal máximo mediante la fórmula : Q máx ... m3/h , 
+f ) el caudal mínimo mediante la fórmula : Q mín ... m3/h ( o dm3/h ) , 
+g ) la presión máxima de funcionamiento mediante la fórmula : P máx ... MN/m2 o P máx ... bar ( o mbar ) , 
+h ) para los contadores volumétricos , el valor nominal del volumen cíclico mediante la fórmula : 
+V ... m3 ( o dm3 ) . 
+Estas inscripciones deberán ser directamente visibles , fácilmente legibles e indelebles en condiciones normales de empleo de los contadores . 
+4.2 . El servicio de metrología que conceda la aprobación de modelo podrá determinar los casos en los que deba figurar la naturaleza del gas entre las inscripciones . 
+4.3 . El contador podrá llevar , además , la designación comercial , un número de orden especial , el nombre del distribuidor de gas , una marca de conformidad con una norma europea y una indicación relativa a las reparaciones efectuadas . Salvo autorización especial se prohibirá cualquier otra indicación o inscripción . 
+5 . Dispositivos indicadores y elemento controlador 
+5.1 . Dispositivos indicadores 
+5.1.1 . Los dispositivos indicadores deberán componerse de rodillos ; no obstante , el último elemento podrá exceptuarse de esta regla . Los rodillos deberán numerarse en metros cúbicos o en múltiplos o submúltiplos decimales del metro cúbico . En la placa del dispositivo indicador deberá figurar el símbolo « m3 » . 
+5.1.1.1 . Los rodillos que se destinen a indicar los submúltiplos decimales del metro cúbico , si existieran , se deberán distinguir claramente de los demás rodillos e ir separados de ellos por una coma muy visible . 
+5.1.1.2 . En caso de que el último rodillo se numere con un múltiplo decimal del metro cúbico , la placa del dispositivo indicador deberá llevar : 
+a ) bien un ( o dos , tres , etc. ) cero fijo después del último rodillo , 
+b ) bien la indicación « × 10 » ( o × 100 » , « × 1 000 » , etc. ) , de modo que la lectura se haga siempre en m3 . 
+5.1.2 . El dispositivo indicador deberá tener suficientes rodillos numerados para poder indicar el volumen suministrado en mil horas de funcionamiento a caudal máximo , con la aproximación de una unidad del último rodillo . 
+5.2 . Elemento controlador 
+5.2.1 . Los contadores se deberán concebir de tal modo que la comprobación pueda efectuarse con suficiente precisión . Con este fin , deberán ir provistos desde fábrica , bien de un elemento controlador propio , bien de dispositivos que permitan acoplar un elemento controlador amovible . 
+5.2.2 . El elemento controlador propio del contador podrá estar constituido por el último elemento del dispositivo indicador bajo una de las dos formas siguientes : 
+a ) un rodillo de movimiento continuo que lleve una escala numerada , 
+b ) una aguja que se desplace ante un limbo fijo que lleve una escala numerada o un disco provisto de una escala numerada que se desplace ante una señal de referencia fija . 
+5.2.3 . La unidad de numeración se deberá indicar en las escalas numeradas de los elementos controladores de forma clara y sin ninguna ambigueedad en m3 o en submúltiplos decimales del m3 ; dichas escalas deberán comenzar con la cifra cero . 
+5.2.3.1 . El intervalo de graduación deberá ser constante para toda la escala y no inferior a 1 mm . 
+5.2.3.2 . El intervalo de graduación deberá expresarse de esta forma : 1 × 10n , 2 × 10n o 5 × 10n m3 ; siendo n un número entero , positivo , negativo o nulo . 
+5.2.3.3 . Las rayas de graduación deberán ser finas y estar uniformemente trazadas . En caso de que el valor del intervalo de graduación sea de la forma 1 × 10n o 2 × 10n m3 , todas las rayas de orden múltiplo de cinco y , en el caso de que el valor del intervalo de graduación sea de la forma 5 × 10n m3 , todas las rayas de orden múltiplo de dos deberán distinguirse por tener una longitud mayor . 
+5.2.4 . La aguja o la señal de referencia fija deberán ser suficientemente finas para permitir una lectura fácil y segura . 
+5.3 . Diámetros de los rodillos y de los limbos 
+El diámetro de los rodillos deberá ser al menos de 16 mm . El diámetro de las escalas numeradas señaladas en el número I B 5.2.2 deberá ser al menos de 32 mm . 
+5.4 . Lectura del dispositivo indicador 
+El dispositivo indicador deberá hacerse de manera que respete el principio de la lectura por simple yuxtaposición . 
+5.5 . Avance de las cifras 
+Para una cifra de cualquier orden , el avance en una unidad deberá producirse de forma completa mientras la cifra de orden inmediatamente inferior esté describiendo la última décima parte de su recorrido . 
+5.6 . Desmontaje del dispositivo indicador 
+Los contadores deberán construirse de modo que el dispositivo indicador pueda desmontarse fácilmente con ocasión de una verificación . 
+6 . Errores máximos tolerados 
+6.1 . Los errores de medición se expresarán en valor relativo mediante la relación , en tanto por ciento , de la diferencia entre el volumen indicado y el volumen que realmente haya pasado por el contador , respecto a este último volúmen . 
+6.2 . Dichos errores se refieren a la medición de volúmenes de aire que tengan una masa volumétrica de referencia de 1,2 kg/m3 . Se podrá considerar que , en condiciones atmosféricas normales , el aire ambiente de un laboratorio de comprobación cumple esta condición . 
+6.3 . Los errores máximos tolerados se señalan en los Capítulos II y III , y serán válidos para los sentidos de flujo autorizados . 
+7 . Absorción de presión 
+7.1 . Valores máximos tolerados 
+Los valores máximos tolerados de absorción de presión se señalan en los Capítulos II y III . 
+8 . Estampación de las marcas de comprobación y de precinto 
+8.1 . Campo de aplicación 
+La estampación de las marcas de comprobación y de precinto CEE en un contador de gas certificará exclusivamente que dicho contador responde a las disposiciones de la presente Directiva . 
+8.2 . Emplazamiento 
+8.2.1 . Los lugares de las marcas deberán elegirse de modo que el desmontaje de la parte precintada por una de las marcas ocasione el deterioro de dicha marca . 
+8.2.2 . Cuando las inscripciones previstas en el número I B 4.1 se estampen sobre una placa descriptiva especial , una de las marcas deberá situarse de modo que se deteriore si se levantare la placa especial , pretendiéndose con ello impedir que se quite dicha placa . 
+8.2.3 . Será conveniente prever los lugares para las marcas de comprobación o de precinto : 
+a ) en todas las láminas que lleven una indicación prescrita por el presente Anexo , 
+b ) en todas las partes de la cubierta que no se puedan proteger de otro modo contra intervenciones susceptibles de influir en la exactitud de la medición . 
+9 . Aprobación CEE de modelo y primera comprobación CEE 
+9.1 . Aprobación CEE de modelo 
+9.1.1 . La solicitud de aprobación de un modelo de contador deberá incluir , junto al modelo propuesto , los documentos siguientes : 
+- una descripción del contador para el que se solicita la aprobación , 
+- un dibujo en perspectiva o una fotografía de dicho contador , 
+- un plano de montaje del conjunto del contador , completado si fuere necesario , con planos de detalle de construcción , 
+- una nomenclatura de las piezas que lo componen y cualquier otra indicación que el servicio de metrología competente considere necesaria , 
+- un plano que indique los lugares de las marcas de comprobación y las marcas de precinto , 
+- una declaración precisando que los contadores que se fabriquen con arreglo al modelo responderán a las condiciones reglamentarias de seguridad , particularmente en lo que se refiere a la presión máxima de funcionamiento indicada en la placa descriptiva . 
+9.2 . Primera comprobación CEE 
+9.2.1 . Los contadores que se presenten a la primera comprobación CEE deberán estar en condiciones de funcionamiento . Si los contadores debieren utilizarse con dispositivos adicionales accionados por mandos de salida , dichos dispositivos deberán estar ya acoplados en el momento de la comprobación , siempre que no haya sido autorizado expresamente un posterior acoplamiento después de la comprobación . 
+10 . Marcas de comprobación y de precinto 
+Los contadores que hayan superado las pruebas de la comprobación : 
+- irán provistos de la marca de comprobación ; 
+- recibirán las marcas de precinto en los lugares previstos para proteger ciertos órganos contra manejos exteriores que puedan modificar las características del contador . 
+CAPÍTULO II 
+DISPOSICIONES RELATIVAS A LOS CONTADORES DE VOLUMEN DE GAS DE PAREDES DEFORMABLES 
+1 . Campo de aplicación 
+El presente Capítulo , junto con las prescripciones del Capítulo I , se aplicará a los contadores de gas en los que la medición del gas suministrado se efectúe mediante cámaras medidoras de paredes deformables . 
+2 . Amplitud de carga y designación 
+2.1 . Los valores autorizados de los caudales máximos y los límites superiores de los caudales mínimos correspondientes , así como los valores mínimos de los volúmenes cíclicos , se especifican en el cuadro siguiente en relación con la designación G de los contadores : 
+G * Q máx m³/h * Q mín m³/h ( valor máximo ) * V dm³ ( valor mínimo ) * 
+1,6 * 2,5 * 0,016 * 0,7 * 
+2,5 * 4 * 0,025 * 1,2 * 
+4 * 6 * 0,040 * 2,0 * 
+6 * 10 * 0,060 * 3,5 * 
+10 * 16 * 0,100 * 6,0 * 
+16 * 25 * 0,160 * 10 * 
+25 * 40 * 0,250 * 18 * 
+40 * 65 * 0,400 * 30 * 
+65 * 100 * 0,650 * 55 * 
+100 * 160 * 1,000 * 100 * 
+160 * 250 * 1,600 * 200 * 
+250 * 400 * 2,500 * 400 * 
+400 * 650 * 4,000 * 900 * 
+650 * 1 000 * 6,500 * 2 000 * 
+2.2 . Si , para un tipo de contador , el valor de Q mín fuere inferior al número mencionado en el cuadro del número II 2.1 , el valor numérico de dicho Q mín se deberá expresar por medio de un número de la columna 3 de dicho cuadro o de un submúltiplo decimal de dicho número . 
+2.3 . Los contadores que tengan un volumen cíclico inferior al valor mencionado en el cuadro del número II 2.1 , podrán ser aprobados con tal que su modelo cumpla los requisitos de la prueba de resistencia mencionada a tal efecto en el número II 7.2.5 . 
+3 . Detalles de fabricación 
+3.1 . Para cada uno de los contadores , la diferencia entre el valor calculado del volumen cíclico V y el valor de dicho volumen expresado en el contador no podrá ser superior al 5 % de este último valor . 
+3.2 . Los contadores G 1,6 a G 6 inclusive podrán ir provistos de un dispositivo que impida el funcionamiento del dispositivo medidor cuando el gas circule en un sentido no autorizado . 
+4 . Elemento controlador 
+4.1 . Para los contadores G 1,6 a G 6 inclusive , el elemento controlador será tal como se señala en el número I B 5.2.2 . Para los contadores G 10 a G 650 , ambos inclusive , el elemento controlador será : 
+- bien como se señala en el número I B 5.2.2 , 
+- bien amovible . 
+4.2 . Cuando el elemento controlador sea tal como se señala en el número I B 5.2.2 , el valor del intervalo de graduación del elemento controlador y la numeración , deberán cumplir las disposiciones del cuadro siguiente : 
+Designación de los contadores * Valores máximos del intervalo de graduación * Numeración en * 
+G 1,6 a G 6 inclusive * 0,2 dm³ * 1 dm³ * 
+G 10 a G 65 inclusive * 2 dm³ * 10 dm³ * 
+G 100 a G 650 inclusive * 20 dm³ * 100 dm³ * 
+4.3 . Para los contadores en los que el elemento controlador sea tal como se señala en el número I B 5.2.2 , la desviación típica de una serie de al menos 30 mediciones sucesivas de un volumen de aire que se señala a continuación , efectuadas a un caudal del orden de 0,1 Q máx y en las mismas condiciones , no podrá sobrepasar los valores mencionados en el cuadro siguiente : 
+Designación de los contadores * Volúmenes de aire a medir * Valores máximos tolerados de la desviación típica * 
+G 1,6 a G 4 inclusive * 20 V * 0,2 dm³ * 
+G 6 * 10 V * 0,2 dm³ * 
+G 10 a G 65 inclusive * 10 V * 2 dm³ * 
+G 100 a G 650 inclusive * 5 V * 20 dm³ * 
+5 . Errores máximos tolerados 
+5.1 . Disposiciones generales 
+5.1.1 . Los errores máximos tolerados en más o en menos se especifican en el cuadro siguiente : 
+Caudales Q * Errores máximos tolerados en primera comprobación CEE * 
+Q mín * Q %lt% 2 Q mín * 3 % * 
+2 Q mín * Q * Q máx * 2 % * 
+5.1.2 . En primera comprobación CEE , los errores de un contador para los caudales Q , comprendidos entre 2 Q mín y Q máx , no podrán sobrepasar el 1 % si fueran todos del mismo signo . 
+6 . Absorción de presión 
+6.1 . La absorción total de presión 
+La absorción total de presión durante un flujo de aire de masa de volumen 1,2 kg/m³ , a un caudal igual a Q máx , no deberá sobrepasar por término medio : 
+Designación de los contadores * Valores máximos tolerados por término medio de la absorción total de presión en primera comprobación CEE * 
+* N/m² * mbar * 
+G 1,6 a G 10 inclusive * 200 * 2 * 
+G 16 a G 40 inclusive * 300 * 3 * 
+G 65 a G 650 inclusive * 400 * 4 * 
+6.2 . Absorción mecánica de presión 
+la absorción mecánica de presión , absorción de presión durante un flujo de aire de masa de volumen 1,2 kg/m³ , a un caudal comprendido entre Q mín y 2 Q mín , no deberá sobrepasar : 
+Designación de los contadores * Valores máximos tolerados de la absorción mecánica de presión en primera comprobación CEE * 
+* N/m² * mbar * 
+G 1,6 a G 40 inclusive * 60 * 0,6 * 
+G 65 a G 650 inclusive * 100 * 1,0 * 
+Los valores anteriormente indicados se refieren a los máximos de la absorción mecánica de presión . 
+6.3 . Disposición especial 
+Para los contadores cuya presión de funcionamiento sea superior a 0,1 MN/m² ( 1 bar ) se aplicarán las disposiciones del número II 6.2 relativas a la absorción mecánica de presión , sin tener en cuenta la absorción total de presión de dichos contadores señalada en el número II 6.1 . 
+7 . Aprobación CEE de modelo 
+7.1 . Además del ejemplar del modelo , el solicitante , desde el primer momento , deberá poner a disposición del servicio competente de dos a seis contadores de muestra fabricados con arreglo al modelo . 
+Este número de contadores se repartirá entre varios valores de G a petición del servicio competente , si la solicitud de aprobación se refiere a contadores de valor diferente . 
+Según se desarrollen las pruebas , se podrá exigir contadores de muestra suplementarios . 
+7.1.1 . Esta disposición podrá admitir una excepción en el sentido de que los contadores de muestra podrán ponerse a disposición del servicio competente con posterioridad . No obstante , no se decidirá sobre la aprobación del modelo hasta que dichas muestras hayan sido completamente examinadas . 
+7.1.2 . Los contadores de muestra seguirán siendo propiedad del solicitante y le serán devueltos una vez concedida la aprobación del modelo . 
+7.2 . Examen 
+7.2.1 . El modelo y sus contadores de muestra deberán cumplir las disposiciones del Capítulo I y de los números 2 , 3 , 4 , 5 y 6 del presente Capítulo . 
+7.2.2 . Por otro lado , en cuanto a la amplitud de carga , la diferencia entre el máximo y el mínimo de los errores en función del caudal Q no deberá ser superior al 3 % para cada uno de los contadores . 
+7.3.2 . El modelo y sus muestras serán sometidos a continuación a una prueba de resistencia . Esta prueba se efectuará : 
+7.2.3.1 . Para los contadores G 1,6 a G 10 inclusive : con aire y al caudal máximo de los contadores ; no obstante , para los contadores en cuya placa descriptiva se indique la naturaleza del gas , la prueba podrá efectuarse parcial totalmente con el gas indicado . 
+7.2.3.2 . Para los contadores G 16 a G 650 inclusive : con aire o con gas y , siempre que sea posible , al caudal máximo de los contadores . 
+7.2.4 . La duración de la prueba de resistencia para los contadores cuyo volumen cíclico sea igual o superior a los valores señalados en el cuadro del número II 2.1 , será : 
+7.2.4.1 . Para los contadores G 1,6 a G 10 inclusive : 1 000 horas ; la prueba podrá ser interrumpida , si bien se deberá terminar en un plazo de sesenta días ; 
+7.2.4.2 . Para los contadores G 16 a G 650 inclusive : de modo que cada contador mida un volumen de aire o de gas que corresponda a un funcionamiento de 1 000 horas al caudal máximo del contador ; la prueba se deberá terminar a los seis meses . 
+7.2.5 . Para los contadores cuyo volumen cíclico sea inferior a los valores señalados en el cuadro del número II 2.1 , la duración de la prueba de resistencia deberá ser de 2 000 horas , y deberá realizarse sobre un número de aparatos superior al señalado en el número II 7.1 , según la designación del contador examinado y sus características generales . 
+7.2.6 . Después de la prueba de resistencia los contadores deberán cumplir los requisitos siguientes : 
+a ) en la amplitud de carga la diferencia entre el máximo y el mínimo de los errores en función del caudal Q no deberá ser superior al 4 % para cada uno de los contadores ; 
+b ) ningún punto de la curva de errores podrá ser más de un 1,5 % más alto que el máximo inicial o más bajo que el mínimo inicial de la curva de errores ; 
+c ) la absorción mecánica de presión no deberá haber aumentado en más de 20 N/m² ( 0,2 mbar ) ; 
+d ) para los contadores cuya presión de funcionamiento sea superior a 0,1 MN/n² ( 1 bar ) , la diferencia entre el error al caudal ½ Q máx y el error al caudal Q máx , no deberá haber aumentado en más del 1 % . 
+7.3 . Modificación de un modelo ya aprobado 
+Si la solicitud de aprobación se refiere a una modificación de un modelo ya aprobado , el servicio de metrología que haya aprobado el modelo primitivo decidirá , según el carácter de la modificación , si son aplicables , y en qué medida , las disposiciones de los números 7.1 , 7.2.3 , 7.2.4 y 7.2.5 del presente Capítulo . 
+8 . Primera comprobación CEE 
+8.1 . Pruebas de exactitud 
+Se considerará que un contador cumple las prescripciones relativas a los errores máximos tolerados , si éstos se respetan a los caudales siguientes : 
+a ) a un caudal comprendido entre Q mín y 2 Q mín ; 
+b ) a un caudal del orden de 1/5 Q máx ; 
+c ) al caudal Q máx ; 
+d ) al caudal ½ Q máx para los contadores cuya presión de funcionamiento sea superior a 0,1 MN/m² ( 1 bar ) . 
+Si la prueba se realizare en diferentes condiciones , éstas deberán garantizar un resultado idéntico a las comprobaciones anteriormente indicadas . 
+CAPÍTULO III 
+PRESCRIPCIONES RELATIVAS A LOS CONTADORES DE GAS DE PISTONES ROTATIVOS Y A LOS CONTADORES DE GAS DE TURBINA 
+1 . Campo de aplicación 
+El presente Capítulo se aplicará , junto con las prescripciones del Capítulo I , a los : 
+1.1 . Contadores de gas de pistones rotativos 
+En los que la medición del gas suministrado se efectúe por medio de cámaras medidoras de paredes rotativas . 
+1.2 . Contadores de gas de turbina 
+En los que el flujo del gas ponga en movimiento una rueda de turbina y cuyo número de vueltas represente el volumen de gas suministrado . 
+2 . Amplitud de cargas 
+2.1 . Los contadores de gas deberán tener , en función de la designación G del contador , una de las amplitudes de carga que resulte del cuadro siguiente : 
+G * Q máx m³/h * Amplitud de carga * 
+* * pequeña * mediana * grande * 
+* * O mín m³/h * 
+40 * 65 * 13 * 6 * 3 * 
+65 * 100 * 20 * 10 * 5 * 
+100 * 160 * 32 * 16 * 8 * 
+160 * 250 * 50 * 25 * 13 * 
+250 * 400 * 80 * 40 * 20 * 
+400 * 650 * 130 * 65 * 32 * 
+650 * 1 000 * 200 * 100 * 50 * 
+1 000 * 1 600 * 320 * 160 * 80 * 
+y los múltiplos decimales de las cinco últimas series . 
+3 . Detalles de construcción 
+3.1 . Contadores de pistones rotativos 
+3.1.1 . Los contadores deberán ir provistos , tanto en el tubo de entrada como en el de salida , de una toma de presión estática de 3 a 5 mm de diámetro que permita medir la pérdida de presión ; la presión medida en el tubo de entrada constituirá la presión de referencia . 
+3.1.2 . Los contadores podrán ir provistos de un dispositivo manual que permita hacer girar los pistones , siempre que no se utilice abusivamente para obstaculizar el funcionamiento correcto del contador . 
+3.1.3 . Los cojinetes de los ejes de los pistones rotativos de los contadores de designación G 160 y siguientes podrán fabricarse de tal forma que resulten accesibles sin deteriorar las marcas de protección . 
+3.2 . Contadores de turbina 
+3.2.1 . Los contadores deberán ir provistos de una toma de presión estática que permita , en su caso , determinar de forma indirecta la presión inmediatamente anterior a la rueda de turbina como presión de referencia . 
+3.2.1.1 . Si por encima de la rueda de turbina existiere un dispositivo de estrangulamiento del flujo gaseoso , los contadores podrán ir provistos , además de la toma de presión exigida en el número II 3.2.1 , de otra toma de presión situada inmediatamente antes de dicho estrangulamiento , que permita medir , con la toma de presión aludida en el punto III 3.2.1 , la diferencia de presión en el dispositivo de estrangulamiento . 
+3.3 . Tomas de presión 
+3.3.1 . Las tomas de presión deberán ir provistas de un dispositivo de cierre . 
+3.3.2 . La toma de presión de la presión de referencia deberá llevar de forma visible e indeleble la indicación « pr » , y la otra toma de presión la indicación « p » . 
+4 . Elemento controlador 
+4.1 . En aplicación de las disposiciones de las letras I B 5.2.2 . a ) y b ) , el valor máximo del intervalo de graduación del elemento controlador deberá ser : 
+para las designaciones G 40 y G 65 * 0,002 m³ * 
+para las designaciones comprendidas entre los valores G 100 y G 650 , ambos inclusive * 0,02 m³ * 
+para las designaciones comprendidas entre los valores G 1 000 y G 6 500 , ambos inclusive * 0,2 m³ * 
+y para las designaciones G 10 000 y siguientes * 2,0 m³ * 
+4.2 . La escala del elemento controlador deberá ir numerada : 
+para las designaciones G 40 y G 65 , después de cada * 0,01 m³ * 
+para las designaciones comprendidas entre los valores G 100 y G 650 , ambos inclusive , después de cada * 0,1 m³ * 
+para las designaciones comprendidas entre los valores G 1 000 y G 6 500 , ambos inclusive después de cada * 1,0 m³ * 
+para las designaciones G 10 000 y siguientes , después de cada * 10,0 m³ * 
+5 . Errores máximos tolerados 
+5.1 . Los errores máximos tolerados en más o en menos se señalan en el cuadro siguiente : 
+Caudales Q m³ h * Errores máximos tolerados en primera comprobación CEE * 
+Q mín * Q %lt% 0,2 Q máx * 2 % * 
+0,2 Q máx * Q * Q máx * 1 % * 
+5.2 . Los errores , si fueren todos del mismo signo , no deberán sobrepasar la mitad de los errores máximos tolerados . 
+6 . Aprobación CEE de modelo 
+6.1 . Además del ejemplar del modelo , el solicitante , desde el primer momento , deberá poner a disposición del servicio competente de dos a seis contadores de muestra fabricados con arreglo a los modelos . 
+Este número de contadores se repartirá entre varios valores de G , a petición del servicio competente , si la solicitud de aprobación se refiere a contadores de valor diferente . 
+Según se desarrollen las pruebas , se podrán exigir contadores de muestra suplementarios . 
+6.1.1 . Esta disposición podrá admitir una excepción en el sentido de que los contadores de muestra podrán ponerse a disposición del servicio competente con posterioridad . No obstante , no se decidirá sobre la aprobación del modelo hasta que dichas muestras hayan sido completamente examinadas . 
+6.1.2 . Los contadores de muestra seguirán siendo propiedad del solicitante y le serán devueltos en cuanto se haya concedido la aprobación . 
+6.2 . Examen 
+6.2.1 . El examen consistirá especialmente en la determinación de los errores de cada contador , mediante una prueba con aire de masa de volumen 1,2 kg/m³ . Cada resultado de la prueba será tenido en cuenta por separado . 
+6.2.1.1 . La curva de errores de cada uno de los contadores deberá quedar dentro de la banda dada por los límites de los errores máximos tolerados en la primera comprobación CEE , en la amplitud de carga cuya aprobación se solicite . 
+6.2.1.2 . La diferencia entre el valor máximo y el valor mínimo de los errores , para cada uno de los contadores , no deberá sobrepasar el 1 % en la amplitud de carga entre ½ Q máx y Q máx . 
+6.2.2 . Los contadores serán sometidos a continuación a una prueba de resistencia con aire o gas . 
+6.2.2.1 . La prueba de resistencia se deberá efectuar , en la medida de lo posible , al caudal máximo de los contadores . La duración de funcionamiento deberá ser tal que cada contador mida un volumen de aire o de gas que corresponda a un funcionamiento de 1 000 horas al caudal máximo sin que la duración total de la prueba sobrepase los seis meses . 
+6.2.2.2 . Después de este funcionamiento de resistencia , los contadores se examinarán nuevamente con aire de masa de volumen de 1,2 kg/m³ , utilizando los mismos instrumentos patrón que los utilizados en la prueba mencionada en el número III 6.2.1 . 
+En tales condiciones de prueba : 
+a ) los valores de los errores anotados para los caudales señalados en el número III 7.1 para cada contador ( excepto para uno de ellos , como máximo ) no deberán diferir en más del 1 % de los errores anotados en el momento de la prueba mencionada en el número III 6.2.1 ; 
+b ) la diferencia entre el valor máximo y el valor mínimo de la curva de errores no deberá sobrepasar el 1,5 % para cada uno de los contadores ( excepto para uno de ellos , como máximo ) en la amplitud de carga entre ½ Q máx y Q máx . 
+7 . Primera comprobación CEE 
+7.1 . Pruebas de exactitud 
+Se considerará que un contador cumple las prescripciones relativas a los errores máximos tolerados , si éstos se respetan a los caudales siguientes : 
+a ) para los contadores de pistones rotativos : 
+Q mín , 2,5 Q mín , 0,25 Q máx , 0,5 Q máx y Q máx 
+b ) para los contadores de turbina : 
+Q mín , 1,5 Q mín , 3 Q mín , 0,25 Q máx , 0,5 Q máx y Q máx 
+Si la prueba se realizare en diferentes condiciones , éstas deberán garantizar un resultado idéntico a las comprobaciones anteriormente indicadas . 
+7.2 . Los valores de los caudales mencionados en el número III 7.1 podrán modificarse en un 5 % en más o en menos . 

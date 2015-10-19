@@ -1,0 +1,48 @@
+Règlement (CE) n° 2104/2002 de la Commission du 28 novembre 2002 portant adaptation du règlement (CE) n° 577/98 du Conseil relatif à l'organisation d'une enquête par sondage sur les forces de travail dans la Communauté et du règlement (CE) n° 1575/2000 de la Commission portant application du règlement (CE) n° 577/98 du Conseil en ce qui concerne la liste des variables sur l'éducation et la formation et la codification à utiliser pour la transmission des données à compter de 2003 
+Règlement (CE) no 2104/2002 de la Commission 
+du 28 novembre 2002 
+portant adaptation du règlement (CE) n° 577/98 du Conseil relatif à l'organisation d'une enquête par sondage sur les forces de travail dans la Communauté et du règlement (CE) n° 1575/2000 de la Commission portant application du règlement (CE) n° 577/98 du Conseil en ce qui concerne la liste des variables sur l'éducation et la formation et la codification à utiliser pour la transmission des données à compter de 2003 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CE) n° 577/98 du Conseil du 9 mars 1998 relatif à l'organisation d'une enquête par sondage sur les forces de travail dans la Communauté(1), modifié en dernier lieu par le règlement (CE) n° 1991/2002 du Parlement européen et du Conseil(2), et notamment son article 4, paragraphe 3, 
+considérant ce qui suit: 
+(1) L'évolution des techniques et des concepts, en particulier au sujet de la distinction entre l'éducation formelle et les autres formes d'activités d'apprentissage et de la classification dans les domaines de l'éducation et de la formation nécessite l'adaptation de la liste des variables sur l'éducation et la formation énoncées à l'article 4, paragraphe 1, point h), du règlement (CE) n° 577/98. 
+(2) En conséquence, il y a lieu d'adapter également la codification de ces variables énoncée à l'annexe du règlement (CE) n° 1575/2000 de la Commission du 19 juillet 2000(3). La nouvelle liste et la nouvelle codification devraient être mises en oeuvre dès 2003 afin de garantir l'entière compatibilité avec le module ad hoc 2003 sur l'apprentissage tout au long de la vie(4). 
+(3) Les mesures prévues au présent règlement sont conformes à l'avis du comité du programme statistique institué par la décision 89/382/CEE, Euratom du Conseil(5), 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+À l'article 4, paragraphe 1, du règlement (CE) n° 577/98 le point h) est remplacé par le texte suivant: 
+%quot%h) l'éducation et la formation 
+participation à un enseignement formel ou à une formation au cours des quatre semaines précédentes 
+- niveau, 
+- domaine, 
+participation à des cours et autres activités de formation au cours des quatre semaines précédentes 
+- durée totale, 
+- objet du cours ou de l'activité de formation le plus récent, 
+- domaine de l'activité de formation la plus récente, 
+- a participé à l'activité de formation la plus récente pendant les heures de travail, 
+niveau d'instruction 
+- niveau d'études ou de fin de formation le plus élevé atteint avec succès, 
+- domaine dans lequel a été atteint le niveau d'études ou de fin de formation le plus élevé, 
+- année où ce niveau le plus élevé a été atteint avec succès;%quot% 
+Article 2 
+La codification des variables %quot%éducation%quot% et %quot%formation%quot% à utiliser pour la transmission des données à compter de 2003 figurant à l'annexe I du présent règlement remplace les variables correspondantes figurant dans l'annexe au règlement (CE) n° 1575/2000 de la Commission. 
+Article 3 
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel des Communautés européennes. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 28 novembre 2002. 
+Par la Commission 
+Pedro Solbes Mira 
+Membre de la Commission 
+(1) JO L 77 du 14.3.1998, p. 3. 
+(2) JO L 308 du 9.11.2002, p. 1. 
+(3) JO L 181 du 20.7.2000, p. 16. 
+(4) JO L 192 du 20.7.2002, p. 16. 
+(5) JO L 181 du 28.6.1989, p. 47. 
+ANNEXE 
+1. Les variables sont codées de la façon suivante: 
+%gt%TABLE%gt% 
+2. Les variables suivantes sont facultatives: 
+EDUCFIELD, COURFIELD, COURPURP, COURWORH. 
+3. Les variables suivantes sont facultatives en 2003: 
+EDUCSTAT, EDUCLEVEL, COURATT, COURLEN. 

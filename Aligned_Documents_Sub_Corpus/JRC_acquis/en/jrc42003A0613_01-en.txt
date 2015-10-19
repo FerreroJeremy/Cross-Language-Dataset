@@ -1,0 +1,120 @@
+PROTOCOL 
+established in accordance with Article 34 of the Treaty on European Union, amending, as regards the creation of a customs files identification database, the Convention on the use of information technology for customs purposes 
+THE HIGH CONTRACTING PARTIES to this Protocol, Member States of the European Union, 
+REFERRING to the Act of the Council of the European Union of 8 May 2003, 
+WHEREAS customs cooperation in the European Union is an important component of the area of freedom, security and justice, 
+WHEREAS the exchange of information between customs services of the various Member States is central to such cooperation, 
+IMPLEMENTING the conclusions of the Tampere European Council of 15 and 16 October 1999, according to which 
+- maximum benefit should be derived from cooperation between the Member States' competent authorities when investigating cross-border crime (point 43 of the conclusions), 
+- a balanced development should be achieved of Union-wide measures to fight crime while at the same time protecting the freedom and the constitutional rights of individuals as well as of economic operators (point 40 of the conclusions), and 
+- serious economic crime increasingly includes aspects of tax and customs law (point 49 of the conclusions), 
+HAVING REGARD to the fact that in its Resolution of 30 May 2001 on a strategy for the customs union(1) the Council: 
+- expressed its agreement that a main objective must be to improve cooperation to combat fraud and other acts threatening the security of persons and goods efficiently, 
+- emphasised that customs play a significant role in the fight against cross-border crime through the prevention, detection and, within the national competences of the customs services, through investigation and prosecution of criminal activities in the areas of fiscal fraud, money laundering as well as trafficking in drugs and other illicit goods, and, 
+- emphasised that, by virtue of the variety of tasks assigned to them, the customs authorities are required to work both in a Community context and in the context of cooperation in the framework of Title VI of the Treaty on European Union, 
+CONSIDERING that the Customs Information System created by virtue of the Convention on the use of information technology for customs purposes(2) permits the entry of personal data exclusively for the purpose of sighting and reporting, discreet surveillance or specific checks (Article 5 of the Convention), and that for any additional purposes a supplementary legal basis must be established, 
+MINDFUL of the fact that at the moment no possibility exists of exchanging information concerning the existence of investigation files about ongoing or completed investigations between all competent authorities electronically and systematically and thus of coordinating their investigations appropriately, and that the Customs Information System should be used for that purpose, 
+MINDFUL of the fact that the findings of an evaluation of EU third pillar databases may identify the need for complementarity between these systems, 
+WHEREAS, in connection with the storage, processing and use of personal data in the customs sphere, due account should be taken of the principles laid down in the Council of Europe Convention of 28 January 1981 for the protection of individuals with regard to automatic processing of personal data and of point 5.5 of Recommendation R (87)15 of the Committee of Ministers of the Council of Europe of 17 September 1987 regulating the use of personal data in the police sector, 
+REALISING that according to point 48 of the Action plan of the Council and the Commission of 3 December 1998 on how best to implement the provisions of the Treaty of Amsterdam on an area of freedom, security and justice(3), there is a need to examine whether and how the European Police Office (Europol) could have access to the Customs Information System, 
+HAVE AGREED ON THE FOLLOWING PROVISIONS: 
+Article 1 
+The Convention on the use of information technology for customs purposes(4), shall be amended as follows: 
+1. after Chapter V, the following three chapters shall be inserted: 
+"CHAPTER V A 
+CREATION OF A CUSTOMS FILES IDENTIFICATION DATABASE 
+Article 12A 
+1. The Customs Information System shall contain data in accordance with this chapter, in addition to data in accordance with Article 3, in a special database, hereinafter referred to as 'the customs files identification database'. Without prejudice to the provisions of this chapter and of Chapters V B and V C, all the provisions of this Convention shall also apply to the customs files identification database. 
+2. The aim of the customs files identification database shall be to enable the national authorities responsible for carrying out customs investigations designated pursuant to Article 7, when opening a file on or investigating one or more persons or businesses, to identify competent authorities of other Member States which are investigating or have investigated those persons or businesses, in order, through information on the existence of investigation files, to achieve the aim referred to in Article 2(2). 
+3. For the purposes of the customs files identification database, each Member State shall send the other Member States and the committee mentioned in Article 16 a list of serious infringements of its national laws. 
+This list shall comprise only infringements that are punishable: 
+- by deprivation of liberty or a detention order for at least 12 months, or 
+- by a fine of at least EUR 15000. 
+4. If the Member State retrieving data from the customs files identification database requires further information on the stored investigation file on a person or a business, it shall request the assistance of the supplying Member State on the basis of the instruments in force relating to mutual assistance. 
+CHAPTER V B 
+OPERATION AND USE OF THE CUSTOMS FILES IDENTIFICATION DATABASE 
+Article 12B 
+1. The competent authorities shall enter data from investigation files in the customs files identification database for the purposes set out in Article 12A(2). The data shall cover only the following categories: 
+(i) a person or a business which is or has been the subject of an investigation file opened by a competent authority of a Member State, and which: 
+- in accordance with the national law of the Member State concerned, is suspected of committing or having committed, or participating or having participated in the commission of, a serious infringement of national laws, or 
+- has been the subject of a report establishing that such an infringement has taken place, or 
+- has been the subject of an administrative or legal sanction for such an infringement; 
+(ii) the field covered by the investigation file; 
+(iii) the name, nationality and contact information of the Member State's authority handling the case, together with the file number. 
+Data according to (i) to (iii) shall be entered in a data record separately for each person or business. Links between data records shall not be permitted. 
+2. The personal data referred to in paragraph 1(i) shall consist only of the following: 
+(i) for persons: name, maiden name, forenames and aliases, date and place of birth, nationality and sex; 
+(ii) for businesses: business name, name under which trade is conducted, registered office and VAT identifier. 
+3. Data shall be entered for a limited period in accordance with Article 12E. 
+Article 12C 
+A Member State shall not be obliged to make entries pursuant to Article 12B in any particular case if and for such time as this would harm public policy or other essential interests, in particular with regard to data protection, of the Member State concerned. 
+Article 12D 
+1. Entry of data in the customs files identification database and consultation thereof shall be reserved for the authorities referred to in Article 12A(2). 
+2. Any consultation concerning the customs files identification database shall cover the following personal data: 
+(i) for persons: forename and/or name and/or maiden name and/or aliases and/or date of birth; 
+(ii) for businesses: business name and/or name under which trade is conducted and/or VAT identifier. 
+CHAPTER V C 
+PERIOD OF RETENTION OF DATA IN THE CUSTOMS FILES IDENTIFICATION DATABASE 
+Article 12E 
+1. Storage periods shall be determined in accordance with the laws, regulations and procedures of the Member State introducing the data. However, the following time limits, starting on the date on which the data were entered in the file, shall on no account be exceeded: 
+(i) data relating to current investigation files shall not be retained beyond a period of three years if it has not been established that an infringement has taken place within that time; the data shall be deleted before then if one year has passed since the last investigative act; 
+(ii) data relating to investigation files which have established that an infringement has taken place but which have not yet led to a conviction or to imposition of a fine shall not be retained beyond a period of six years; 
+(iii) data relating to investigation files which have led to a conviction or a fine shall not be retained beyond a period of 10 years. 
+2. At all stages of an investigation as referred to in paragraph 1(i), (ii) and (iii), as soon as a person or business within the scope of Article 12B is eliminated from an investigation pursuant to the laws and administrative regulations of the supplying Member State, all data relating to that person or business shall be deleted immediately. 
+3. Data shall automatically be deleted from the customs files identification database as from the date on which the maximum data retention periods laid down in paragraph 1 are exceeded." 
+2. in Article 20, the words "Article 12(1) and (2)" shall be replaced by "Articles 12(1) and (2) and 12E". 
+Article 2 
+1. This Protocol shall be subject to adoption by the Member States in accordance with their respective constitutional requirements. 
+2. Member States shall notify the depositary of the completion of their constitutional requirements for the adoption of this Protocol. 
+3. This Protocol shall, 90 days after the notification referred to in paragraph 2 by the State, member of the European Union at the time of adoption by the Council of the Act drawing up this Protocol, which is the eighth to complete this formality, enter into force for the eight Member States concerned. If, however, the Convention has not entered into force on that date, this Protocol shall enter into force for the eight Member States concerned on the date on which the Convention enters into force. 
+4. Any notification by a Member State subsequent to the receipt of the eighth notification made pursuant to in paragraph 2 shall have the effect that, 90 days after the subsequent notification, this Protocol shall enter into force between this Member State and those Member States for which the Protocol has already entered into force. 
+5. Member States shall enter in the customs files identification database only data which are recorded in an investigation after the entry into force of this Protocol. 
+Article 3 
+1. This Protocol shall be open to accession by any State which becomes a member of the European Union and which accedes to the Convention. 
+2. The text of this Protocol in the language of the acceding State, drawn up by the Council of the European Union, shall be authentic. 
+3. The instruments of accession shall be deposited with the depositary. 
+4. This Protocol shall enter into force with respect to any State that accedes to it 90 days after the date of deposit of its instrument of accession or on the date of entry into force of this Protocol if it has not already entered into force at the time of expiry of the said period of ninety days, provided the Convention is in force for it. 
+Article 4 
+Any State that becomes a member of the European Union and accedes to the Convention in accordance with Article 25 thereof after the entry into force of this Protocol shall be deemed to have acceded to the Convention as amended by this Protocol. 
+Article 5 
+The Secretary-General of the Council of the European Union shall act as depositary of this Protocol. 
+The depositary shall publish in the Official Journal of the European Union information on the progress of adoptions and accessions, declarations and any other notification concerning this Protocol. 
+Done at Brussels, on the eighth day of May in the year two thousand and three, in a single original in the Danish, Dutch, English, Finnish, French, German, Greek, Irish, Italian, Portuguese, Spanish and Swedish languages, each text being equally authentic, the original being deposited in the archives of the General Secretariat of the Council of the European Union. 
+Pour le Royaume de Belgique 
+Voor het Koninkrijk België 
+Für das Königreich Belgien 
+&gt;PIC FILE= "C_2003139EN.000601.TIF"&gt; 
+På Kongeriget Danmarks vegne 
+&gt;PIC FILE= "C_2003139EN.000602.TIF"&gt; 
+Für die Bundesrepublik Deutschland 
+&gt;PIC FILE= "C_2003139EN.000603.TIF"&gt; 
+Για την Ελληνική Δημοκρατία 
+&gt;PIC FILE= "C_2003139EN.000604.TIF"&gt; 
+Por el Reino de España 
+&gt;PIC FILE= "C_2003139EN.000605.TIF"&gt; 
+Pour la République française 
+&gt;PIC FILE= "C_2003139EN.000701.TIF"&gt; 
+Thar cheann Na hÉireann 
+For Ireland 
+&gt;PIC FILE= "C_2003139EN.000702.TIF"&gt; 
+Per la Repubblica italiana 
+&gt;PIC FILE= "C_2003139EN.000703.TIF"&gt; 
+Pour le Grand-Duché de Luxembourg 
+&gt;PIC FILE= "C_2003139EN.000704.TIF"&gt; 
+Voor het Koninkrijk der Nederlanden 
+&gt;PIC FILE= "C_2003139EN.000705.TIF"&gt; 
+Für die Republik Österreich 
+&gt;PIC FILE= "C_2003139EN.000801.TIF"&gt; 
+Pela República Portuguesa 
+&gt;PIC FILE= "C_2003139EN.000802.TIF"&gt; 
+Suomen tasavallan puolesta 
+För Republiken Finland 
+&gt;PIC FILE= "C_2003139EN.000803.TIF"&gt; 
+För Konungariket Sverige 
+&gt;PIC FILE= "C_2003139EN.000804.TIF"&gt; 
+For the United Kingdom of Great Britain and Northern Ireland 
+&gt;PIC FILE= "C_2003139EN.000805.TIF"&gt; 
+(1) OJ C 171, 15.6.2001, p. 1. 
+(2) OJ C 316, 27.11.1995, p. 34. 
+(3) OJ C 19, 23.1.1999, p. 1. 
+(4) OJ C 316, 27.11.1995, p. 34. 

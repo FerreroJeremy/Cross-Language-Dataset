@@ -1,0 +1,361 @@
+Règlement (CE) n° 28/2004 de la Commission du 5 janvier 2004 mettant en œuvre le règlement (CE) n° 1177/2003 du Parlement européen et du Conseil relatif aux statistiques communautaires sur le revenu et les conditions de vie (EU-SILC) en ce qui concerne la description détaillée du contenu des rapports intermédiaire et final sur la qualité 
+Règlement (CE) no 28/2004 de la Commission 
+du 5 janvier 2004 
+mettant en oeuvre le règlement (CE) n° 1177/2003 du Parlement européen et du Conseil relatif aux statistiques communautaires sur le revenu et les conditions de vie (EU-SILC) en ce qui concerne la description détaillée du contenu des rapports intermédiaire et final sur la qualité 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CE) n° 1177/2003 du Parlement européen et du Conseil du 16 juin 2003 relatif aux statistiques communautaires sur le revenu et les conditions de vie (EU-SILC)(1), et notamment son article 15, paragraphe 2, point b), 
+considérant ce qui suit: 
+(1) Le règlement (CE) n° 1177/2003 a établi un cadre commun pour la production systématique de statistiques communautaires sur le revenu et les conditions de vie, englobant des données transversales et longitudinales comparables et actuelles sur le revenu ainsi que sur le niveau et la composition de la pauvreté et de l'exclusion sociale au niveau national et au niveau de l'Union européenne. 
+(2) Conformément à l'article 15, paragraphe 2, point b), du règlement (CE) n° 1177/2003, il est nécessaire d'arrêter des mesures de mise en oeuvre en ce qui concerne la description détaillée du contenu du rapport intermédiaire, relatif aux indicateurs communautaires transversaux communs fondés sur la dimension transversale des statistiques EU-SILC, et la description détaillée du contenu du rapport final sur la qualité, qui couvre à la fois la dimension transversale et longitudinale, en mettant l'accent sur la précision interne. 
+(3) Les mesures prévues dans le présent règlement sont conformes à l'opinion du comité du programme statistique, 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+Les définitions à appliquer aux rapports intermédiaire et final sur la qualité pour les statistiques communautaires sur le revenu et les conditions de vie (EU-SILC) sont établies à l'annexe I. 
+Article 2 
+Les critères d'évaluation de la qualité et la description détaillée du contenu du rapport intermédiaire sur la qualité à produire par les États membres concernant les indicateurs communautaires transversaux communs fondés sur la dimension transversale d'EU-SILC sont établis à l'annexe II. 
+Article 3 
+Les critères d'évaluation de la qualité et la description détaillée du contenu du rapport final à produire par les États membres sur la qualité couvrant à la fois la dimension transversale et longitudinale des statistiques EU-SILC et mettant l'accent sur la précision interne sont établis à l'annexe III. 
+Article 4 
+Le contenu des rapports intermédiaire et final sur la qualité à produire par la Commission (Eurostat) est établi à l'annexe IV. 
+Article 5 
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 5 janvier 2004. 
+Par la Commission 
+Pedro Solbes Mira 
+Membre de la Commission 
+(1) JO L 165 du 3.7.2003, p. 1. 
+ANNEXE I 
+DÉFINITIONS 
+a) %quot%Substitution%quot%: le remplacement par d'autres unités des unités initialement sélectionnées pour l'échantillon lorsque ces dernières ne fournissent pas les informations demandées, car l'adresse n'a pas pu être localisée ou est inaccessible, le ménage refuse de coopérer, tout le ménage est temporairement absent ou le ménage est incapable de répondre; 
+b) %quot%Imputation%quot%: l'estimation de valeurs approchées plausibles (mais artificielles) pour les valeurs manquantes; 
+c) %quot%Revenu disponible équivalent%quot%: le revenu total disponible du ménage divisé par sa %quot%taille équivalente%quot%; 
+d) %quot%Taille équivalente%quot%: la taille calculée à l'aide de l'échelle modifiée de l'OCDE (qui attribue une pondération de 1,0 au premier adulte, de 0,5 aux autres personnes âgées de 14 ans et plus vivant dans le ménage et de 0,3 aux enfants de moins de 14 ans); 
+e) %quot%Base de sondage%quot%: la population d'unités à partir de laquelle un échantillon peut être sélectionné; 
+f) %quot%Précision%quot%: le degré de correspondance entre, d'une part, les calculs et les estimations et d'autre part, les valeurs exactes ou réelles; 
+g) %quot%Erreurs d'échantillonnage%quot%: les erreurs liées à la variabilité aléatoire résultant de l'utilisation d'un échantillon plutôt que d'un recensement; 
+h) %quot%Erreurs non dues à l'échantillonnage%quot%: les erreurs qui se produisent à toutes les phases de la collecte de données et du processus de production; 
+Les erreurs non dues à l'échantillonnage sont essentiellement de quatre types: 
+- erreurs de couverture: erreurs causées par les divergences existant entre la population cible et la base de sondage. Les erreurs de couverture englobent la surcouverture, la sous-couverture et la mauvaise classification: 
+- surcouverture: il est question de surcouverture lorsque certaines unités sont mal classées, c'est-à-dire qu'elles ne sont pas dans le champ, ou lorsque des unités n'existent pas dans la réalité, 
+- sous-couverture: il est question de sous-couverture lorsque des unités ne sont pas incluses dans la base de sondage, 
+- mauvaise classification: il est question de mauvaise classification lorsque des unités appartenant à la population cible sont mal classées, 
+- erreurs de mesure: erreurs qui se produisent au moment où les données sont collectées. Les causes sont diverses: elles peuvent concerner le support d'enquête, le système d'information, l'enquêteur et le mode de collecte, 
+- erreurs de traitement: erreurs qui se produisent après la collecte des données, notamment lors des processus de saisie, d'édition, de correction et de pondération, 
+- erreurs de non-réponse: erreurs dues à l'impossibilité d'obtenir les informations désirées auprès d'une unité éligible. Il existe deux principaux types de non-réponse: 
+- non-réponse des unités: des unités entières (ménages et/ou personnes), sélectionnées pour l'échantillon, n'ont communiqué aucune information, 
+- non-réponse à certaines questions: l'unité de l'échantillon a été observée avec succès, mais toutes les informations requises n'ont pas été obtenues. 
+i) %quot%Pertinence%quot%: degré de réponse des statistiques aux besoins actuels et potentiels des utilisateurs. 
+j) %quot%Délais de production et ponctualité%quot%: 
+- les délais de production de l'information correspondent aux délais entre la disponibilité de l'information et l'événement ou le phénomène qu'elle décrit, 
+- la ponctualité se réfère au décalage entre la date réelle de fourniture par Eurostat et la date cible à laquelle les données auraient dû être délivrées, par exemple, en référence aux dates annoncées dans un calendrier officiel de fourniture établi par règlements ou acceptées à l'avance par les partenaires. 
+k) Accessibilité et clarté: 
+- l'accessibilité se réfère aux conditions physiques selon lesquelles les utilisateurs peuvent obtenir les données: où aller, comment commander, date de fourniture, politique claire de prix, conditions de commercialisation (copyright, etc.), disponibilité des données micro ou macro, formats divers (papier, fichiers, CD-ROM, internet, etc.), 
+- la clarté se réfère à l'environnement en terme d'information des données: données accompagnées de métadonnées, d'illustrations telles que des graphiques ou des cartes, disponibilité de l'information sur la qualité des données (y compris limites d'utilisation, etc.) et possibilité de fourniture d'une assistance additionnelle par les instituts nationaux de statistiques. 
+ANNEXE II 
+Critères d'évaluation de la qualité et description détaillée du contenu du rapport intermédiaire sur la qualité à produire par les États membres 
+1. INDICATEURS TRANSVERSAUX COMMUNS DE L'UNION EUROPÉENNE 
+1.1. Indicateurs communautaires transversaux communs fondés sur la dimension transversale des statistiques EU-SILC 
+Les États membres fourniront les indicateurs communautaires transversaux communs fondés sur la dimension transversale de l'année n pour inclusion dans le rapport annuel de printemps de l'année (n + 2) au Conseil européen. 
+Les indicateurs transversaux communs de l'Union européenne sont les indicateurs adoptés par le Conseil dans le cadre de la méthode ouverte de coordination et qui peuvent être dérivés de l'instrument EU-SILC. 
+1.2. Autres indicateurs 
+1.2.1. Revenu disponible équivalent 
+1.2.2. Écart de rémunération entre les sexes non ajusté 
+Les États membres qui calculent l'indicateur relatif à l'écart de rémunération entre les sexes non ajusté sur la base des statistiques EU-SILC seront tenus de transmettre cet indicateur. 
+2. PRÉCISION 
+2.1. Plan d'échantillonnage 
+Les informations suivantes seront fournies: 
+2.1.1. Type de plan d'échantillonnage (stratifié, à plusieurs degrés, en grappes) 
+2.1.2. Unités d'échantillonnage (premier degré, second degré) 
+2.1.3. Critères de stratification et de sous-stratification 
+2.1.4. Taille de l'échantillon et critères d'attribution 
+2.1.5. Systèmes de sélection de l'échantillon 
+2.1.6. Répartition de l'échantillon au cours du temps 
+2.1.7. Renouvellement de l'échantillon: groupes de rotation 
+2.1.8. Pondérations 
+2.1.8.1. Effet du plan d'échantillonnage 
+2.1.8.2. Ajustements pour non-réponse 
+2.1.8.3. Ajustements aux données extérieures (niveau, variables utilisées et sources) 
+2.1.8.3. Pondération transversale finale 
+2.1.9. Substitutions 
+Pour les États membres où la substitution est opérée en cas de non-réponse des unités, les informations suivantes seront fournies: 
+2.1.9.1. Méthode de sélection des unités de substitution 
+2.1.9.2. Principales caractéristiques des unités remplacées par rapport aux unités initiales, par région (NUTS 2) si disponible 
+2.1.9.3. Ventilation des unités remplacées suivant l'enregistrement du contact à l'adresse (DB120), le résultat du questionnaire %quot%ménage%quot% (DB130) et l'acceptation de l'entretien (DB135) 
+2.2. Erreurs d'échantillonnage 
+2.2.1. Erreurs types et taille effective de l'échantillon 
+Les informations suivantes seront fournies: 
+- taille effective de l'échantillon pour les indicateurs communautaires transversaux communs fondés sur la dimension transversale des statistiques EU-SILC, pour le revenu disponible équivalent et pour l'écart de rémunération entre les sexes non ajusté (le cas échéant), 
+- erreurs types pour les indicateurs communautaires transversaux communs fondés sur la dimension transversale des statistiques EU-SILC, pour le revenu disponible équivalent et pour l'écart de rémunération entre les sexes non ajusté (le cas échéant). 
+2.3. Erreurs non dues à l'échantillonnage 
+2.3.1. Erreurs dans la base de sondage et la couverture 
+Une description de la base de sondage (y compris des informations concernant la procédure d'actualisation de la base, la fréquence et les doublons) et une description des principaux problèmes de couverture (mauvaise classification, sous-couverture, surcouverture), si disponibles, seront fournies. 
+Pour les États membres utilisant un système avec rotation, les informations relatives à la base de sondage seront uniquement fournies pour les nouveaux échantillons. 
+2.3.2. Erreurs de mesure et de traitement 
+2.3.2.1. Erreurs de mesure 
+Les informations suivantes seront fournies: 
+- une description des différentes causes d'erreurs de mesure susceptibles d'être détectées dans l'enquête, 
+- une description de la façon dont le questionnaire a été élaboré, l'utilisation éventuelle d'un laboratoire cognitif, le test sur le terrain du questionnaire, l'incidence de sa conception, de son contenu et de sa formulation, 
+- des informations sur l'intensité et l'efficacité de la formation des enquêteurs: nombre de jours de formation, test des compétences avant d'entreprendre le travail sur le terrain (taux de succès, etc.), 
+- des renseignements sur les études, telles que les nouveaux entretiens, les études de validation, ou les expériences sur des échantillons fragmentés, si disponibles, 
+- les résultats de modèles, par exemple pour évaluer les répercussions de l'utilisation d'une année fiscale au lieu d'une année civile, si disponibles. 
+2.3.2.2. Erreurs de traitement 
+Les informations suivantes seront fournies: 
+- une description des contrôles de saisie, de codification et de correction des données. Les principales erreurs détectées lors du processus ultérieur à la collecte des données, 
+- le taux des échecs de correction pour les variables du revenu. 
+2.3.3. Erreurs de non-réponse 
+Les informations suivantes seront fournies. 
+2.3.3.1. Taille de l'échantillon obtenue: 
+- nombre de ménages pour lesquels un entretien est accepté pour la base de données. Ventilation des groupes de rotation (le cas échéant) et total, 
+- nombre de personnes âgées de 16 ans et plus dans les ménages dont l'entretien est accepté pour la base de données, pour lesquelles l'entretien personnel est achevé. Ventilation des groupes de rotation (le cas échéant) et total, 
+- nombre de répondants sélectionnés (le cas échéant) membres du ménage dont l'entretien est accepté pour la base de données, pour lesquels l'entretien personnel est achevé. Ventilation des groupes de rotation (le cas échéant) et total. 
+2.3.3.2. Non-réponse des unités 
+Pour les États membres utilisant un système avec rotation, les informations sur la non-réponse des unités seront fournies pour les nouveaux échantillons conformément aux formules décrites ci-dessous. 
+Pour l'échantillon total, la non-réponse des unités sera calculée en soustrayant du numérateur et du dénominateur des formules décrites ci-dessous les unités qui, d'après les règles de suivi, ne sont pas dans le champ. 
+- Le taux de non-réponse des ménages (NRh) sera calculé de la façon suivante: 
+NRh = [1 - (Ra * Rh)] * 100 
+%gt%PICTURE%gt% 
+Ra est le taux de contact à l'adresse 
+%gt%PICTURE%gt% 
+Rh est la proportion d'entretiens de ménages achevés et acceptés pour la base de données 
+DB120 est l'enregistrement du contact à l'adresse 
+DB130 est le résultat du questionnaire %quot%ménage%quot% 
+DB135 est le résultat de l'acceptation de l'entretien %quot%ménage%quot% 
+Pour les États membres où des substitutions sont pratiquées en cas de non-réponse des unités, le taux de non-réponse sera calculé avant et après substitution. 
+- Le taux de non-réponse individuelle (NRp) sera calculé de la façon suivante: 
+NRp = [1 - (Rp)] * 100 
+%gt%PICTURE%gt% 
+Rp est la proportion d'entretiens personnels achevés et acceptés pour la base de données 
+RB245 est le statut du répondant 
+RB250 est le statut des données 
+- Le taux global de non-réponse individuelle (* NRp) sera calculé de la façon suivante: 
+* NRp = [1 - (Ra * Rh * Rp)] * 100 
+Pour les États membres où des substitutions sont opérées en cas de non-réponse des unités, le taux de non-réponse sera calculé avant et après substitution. 
+Pour les États membres où un échantillon de personnes plutôt qu'un échantillon de ménages (adresses) a été sélectionné, le taux de non-réponse individuelle sera calculé pour la catégorie %quot%répondant sélectionné%quot% (RB245 = 2), pour tous les individus âgés de 16 ans et plus (RB245 = 2 + 3) et pour la catégorie %quot%répondant non sélectionné%quot% (RB245 = 3). 
+2.3.3.3. La ventilation des ménages (unités initiales) selon l'%quot%enregistrement du contact à l'adresse%quot% (DB120), le %quot%résultat du questionnaire 'ménage'%quot% (DB130) et l'%quot%acceptation de l'entretien%quot% (DB135), pour chaque groupe de rotation (le cas échéant) et pour le total 
+2.3.3.4. La ventilation des unités remplacées (le cas échéant) selon l'%quot%enregistrement du contact à l'adresse%quot% (DB120), le %quot%résultat du questionnaire 'ménage'%quot% (DB130) et l'%quot%acceptation de l'entretien%quot% (DB135), pour chaque groupe de rotation (le cas échéant) et pour le total 
+2.3.3.5. Non-réponse à certaines questions 
+Pour les variables du revenu, les informations suivantes seront fournies: 
+- pourcentage des ménages (par composante du revenu collectée ou compilée au niveau du ménage)/personnes (par composante du revenu collectée ou compilée au niveau de la personne) ayant perçu un montant pour chaque composante du revenu, 
+- pourcentage de valeurs manquantes pour chaque composante du revenu collectée ou compilée au niveau du ménage/de la personne, 
+- pourcentage d'informations partielles pour chaque composante du revenu collectée ou compilée au niveau du ménage/de la personne. 
+%gt%PIC FILE= %quot%L_2004005FR.004701.TIF%quot%%gt% 
+2.3.3.6. Le nombre total des non-réponses à certaines questions et des observations dans l'échantillon au niveau de l'unité portant sur les indicateurs communautaires transversaux communs fondés sur la dimension transversale des statistiques EU-SILC, pour le revenu disponible équivalent et l'écart de rémunération entre les sexes non ajusté (le cas échéant) 
+2.4. Mode de collecte des données 
+Pour les États membres utilisant un échantillon d'adresses/de ménages, la ventilation des membres du ménage âgés de 16 ans et plus selon le %quot%statut des données%quot% (RB250) et le %quot%type d'entretien%quot% (RB260) sera fournie, pour chaque groupe de rotation (le cas échéant) et pour le total. 
+Pour les États membres utilisant un échantillon de personnes, la ventilation de la catégorie %quot%répondant sélectionné%quot%, la ventilation des %quot%membres du ménages âgés de 16 ans et plus%quot%, et la ventilation de la catégorie %quot%répondant non sélectionné%quot% selon le %quot%statut des données%quot% (RB250) et le %quot%type d'entretien%quot% (RB260) seront fournies, pour chaque groupe de rotation (le cas échéant) et pour le total. 
+2.5. Durée de l'entretien 
+La durée moyenne par ménage de l'entretien sera fournie. 
+La durée moyenne par ménage de l'entretien sera calculée en ajoutant la durée de tous les entretiens avec les ménages à la durée de tous les entretiens personnels, et en divisant cette somme par le nombre de questionnaires %quot%ménage%quot% remplis et acceptés pour la base de données. 
+3. COMPARABILITÉ 
+3.1. Concepts et définitions de base 
+Les concepts nationaux utilisés, les différences entre les concepts nationaux et les concepts types des statistiques EU-SILC, et une évaluation, si disponible, des répercussions des différences mentionnées seront communiqués pour les domaines suivants: 
+- la population de référence, 
+- la définition du ménage privé, 
+- l'appartenance au ménage, 
+- la ou les période(s) de référence du revenu utilisée(s), 
+- les périodes utilisées pour les impôts sur le revenu et les cotisations sociales, 
+- la période de référence pour les impôts sur la fortune, 
+- l'écart entre la période de référence du revenu et les variables actuelles, 
+- la durée totale de la collecte de données pour l'échantillon, 
+- des informations générales sur l'activité professionnelle durant la période de référence. 
+3.2. Composantes du revenu 
+3.2.1. Les différences entre les définitions nationales et les définitions types des statistiques EU-SILC, et une évaluation, si disponible, des répercussions des différences mentionnées seront communiquées pour les variables cibles suivantes: 
+- revenu total brut du ménage, 
+- revenu total disponible du ménage, 
+- revenu total disponible du ménage avant transferts sociaux sauf allocation de vieillesse ou pension de survie, 
+- revenu total disponible du ménage avant transferts sociaux y compris allocation de vieillesse ou pension de survie, 
+- loyer imputé(1), 
+- revenu tiré de la location d'une propriété ou de terres, 
+- allocations famille/enfants, 
+- dépenses liées à l'exclusion sociale non classées ailleurs, 
+- aides au logement, 
+- transferts interménages perçus régulièrement en espèces, 
+- intérêts, dividendes, bénéfices tirés d'investissements en capital dans des entreprises individuelles, 
+- paiements d'intérêts hypothécaires(2), 
+- revenus perçus par les personnes de moins de 16 ans, 
+- impôts réguliers sur la fortune, 
+- transferts interménages versés régulièrement en espèces, 
+- impôt sur le revenu et cotisations sociales, 
+- remboursements/encaissements liés à des ajustements d'impôt, 
+- salaire ou revenu assimilé, 
+- revenu en nature(3), 
+- cotisations sociales des employeurs(4), 
+- bénéfice en espèces ou pertes de trésorerie en rapport avec une activité indépendante (y compris honoraires), 
+- valeur des biens produits pour la consommation propre(5), 
+- indemnités de chômage, 
+- allocations de vieillesse, 
+- allocations de survie, 
+- indemnités de maladie, 
+- pensions d'invalidité, 
+- allocations d'études, 
+- rémunération mensuelle brute des salariés(6). 
+3.2.2. La source ou la procédure utilisée pour la collecte des variables du revenu 
+3.2.3. La forme sous laquelle ont été obtenues les variables du revenu au niveau des composantes (par exemple brutes, nettes d'impôts sur le revenu à la source et de cotisations sociales, nettes d'impôts sur le revenu à la source, nettes de cotisations sociales) 
+3.2.4. La méthode utilisée pour obtenir les variables cibles du revenu sous la forme requise (c'est-à-dire en tant que valeur brute) 
+4. COHÉRENCE 
+4.1. Comparaison des variables cibles du revenu et du nombre de personnes percevant un revenu pour chaque %quot%composante du revenu%quot% avec des sources extérieures 
+Une comparaison avec des sources extérieures de toutes les variables cibles du revenu et du nombre de personnes percevant un revenu pour chaque %quot%composante du revenu%quot% sera fournie, lorsque les États membres concernés estiment que ces données extérieures sont suffisamment fiables. 
+(1) Obligatoire à partir de 2007. 
+(2) Obligatoire à partir de 2007. 
+(3) Cette variable (à l'exception des voitures de société) sera collectée uniquement à partir de 2007. 
+(4) Cette variable sera enregistrée uniquement à partir de 2007 si les études de faisabilité montrent que cela est possible. 
+(5) Obligatoire à partir de 2007. 
+(6) Obligatoire uniquement pour les États membres qui n'ont pas d'autres sources que les statistiques EU-SILC pour calculer l'écart de rémunération entre hommes et femmes. 
+ANNEXE III 
+Critères d'évaluation et description du contenu du rapport final sur la qualité à produire par les États membres 
+1. INDICATEURS COMMUNAUTAIRES LONGITUDINAUX COMMUNS FONDÉS SUR LA DIMENSION LONGITUDINALE DES STATISTIQUES EU-SILC 
+Les États membres fourniront les indicateurs communautaires longitudinaux communs fondés sur l'échantillon longitudinal des statistiques EU-SILC. 
+Les indicateurs longitudinaux communs de l'Union européenne sont les indicateurs qui ont été adoptés par le Conseil dans le cadre de la méthode ouverte de coordination et qui peuvent résulter de l'instrument EU-SILC. 
+2. PRÉCISION 
+2.1. Plan d'échantillonnage 
+Pour la première vague portant sur la dimension longitudinale des statistiques EU-SILC, les informations suivantes seront fournies: 
+2.1.1. Type de plan d'échantillonnage (stratifié, à plusieurs degrés, en grappes) 
+2.1.2. Unités d'échantillonnage (premier degré, second degré) 
+2.1.3. Critères de stratification et de sous-stratification 
+2.1.4. Taille de l'échantillon et critères d'attribution 
+2.1.5. Systèmes de sélection de l'échantillon 
+2.1.6. Répartition de l'échantillon au cours du temps 
+2.1.7. Renouvellement de l'échantillon: groupes de rotation 
+2.1.8. Pondérations 
+2.1.8.1. Effet du plan d'échantillonnage 
+2.1.8.2. Ajustements pour non-réponse 
+2.1.8.3. Ajustements aux données extérieures (niveau, variables utilisées et sources) 
+2.1.8.4. Pondération longitudinale finale 
+Pour la deuxième vague et les vagues suivantes portant sur la dimension longitudinale des statistiques EU-SILC, les informations suivantes seront fournies. 
+2.1.8.5. Ajustements pour non-réponse 
+2.1.8.6. Ajustements aux données extérieures (niveau, variables utilisées et sources) 
+2.1.8.7. Pondération longitudinale finale 
+2.1.8.8. Pondération transversale finale des ménages 
+Pour la première vague portant sur la dimension longitudinale des statistiques EU-SILC, les États membres où la substitution est opérée en cas de non-réponse des unités fourniront les informations suivantes. 
+2.1.9. Substitutions 
+2.1.9.1. Méthode de sélection des unités de substitution 
+2.1.9.2. Principales caractéristiques des unités remplacées par rapport aux unités initiales, par région (NUTS 2) si disponible 
+2.1.9.3. Ventilation des unités remplacées suivant l'enregistrement du contact à l'adresse (DB120), le résultat du questionnaire %quot%ménage%quot% (DB130) et l'acceptation de l'entretien (DB135) des unités originales 
+2.2. Erreurs d'échantillonnage 
+Pour la composante transversale des statistiques EU-SILC et pour chaque vague portant sur la dimension longitudinale, les informations suivantes seront fournies: 
+- la moyenne, le nombre total d'observations (avant et après imputation) et les erreurs types pour les composantes du revenu suivantes: 
+%gt%PIC FILE= %quot%L_2004005FR.005101.TIF%quot%%gt% 
+- la moyenne, le nombre d'observations (avant et après imputation) et l'erreur type pour la ventilation du revenu disponible équivalent selon le sexe, le groupe d'âge et la taille du ménage: 
+%gt%PIC FILE= %quot%L_2004005FR.005102.TIF%quot%%gt% 
+2.3. Erreurs non dues à l'échantillonnage 
+2.3.1. Erreurs dans la base de sondage et la couverture 
+Pour la première vague portant sur la dimension longitudinale des statistiques EU-SILC, des informations sur les erreurs dans la base de sondage et la couverture telles que définies à l'annexe II, point 2.3.1, du présent règlement seront fournies. 
+2.3.2. Erreurs de mesure et de traitement 
+Pour chaque vague portant sur la dimension longitudinale des statistiques EU-SILC, des informations sur les erreurs de mesure et de traitement telles que définies à l'annexe II, point 2.3.2, du présent règlement seront fournies. 
+2.3.3. Erreurs de non-réponse 
+2.3.3.1. Taille de l'échantillon obtenue 
+Pour chaque vague portant sur la dimension longitudinale des statistiques EU-SILC, les informations suivantes seront fournies: 
+- nombre de ménages pour lesquels un entretien est accepté pour la base de données, 
+- nombre de personnes âgées de 16 ans et plus, nombre d'individus panel et nombre de corésidents, membres des ménages dont l'entretien est accepté pour la base de données, pour lesquels un entretien personnel est achevé. 
+2.3.3.2. Non-réponse des unités 
+Pour la première vague portant sur la composante longitudinale des statistiques EU-SILC, les informations suivantes seront fournies: 
+- taux de non-réponse des ménages (NRh) tel que défini à l'annexe II, point 2.3.3.2, du présent règlement, 
+- taux de non-réponse individuelle (NRp) tel que défini à l'annexe II, point 2.3.3.2, du présent règlement, 
+- taux global de non-réponse individuelle (*NRp) tel que défini à l'annexe II, point 2.3.3.2, du présent règlement. 
+Les informations suivantes seront fournies pour la deuxième vague et pour les vagues suivantes portant sur la dimension longitudinale des statistiques EU-SILC: 
+- Taux de réponse des ménages: 
+- Taux de réponse par vague 
+Pourcentage de ménages interrogés avec succès (DB135 = 1) qui sont passés de la vague t - 1 à la vague t ou qui viennent d'être créés ou ajoutés durant la vague t, à l'exclusion des ménages hors du champ (selon les règles de suivi) ou inexistants. 
+- Taux de suivi longitudinal 
+Pourcentage de ménages passés à la vague t + 1 à des fins de suivi parmi les ménages passés de la vague t - 1 à la vague t, à l'exclusion des ménages hors du champ (selon les règles de suivi) ou inexistants. 
+- Taux de suivi 
+Nombre de ménages passés de la vague t à la vague t + 1 par comparaison avec le nombre de ménages passés à des fins de suivi de la vague t - 1 à la vague t. 
+- Taux des tailles d'échantillon 
+Rapport entre le nombre de ménages acceptés pour la base de données (DB135 = 1) dans la vague t et le nombre de ménages acceptés pour la base de données (DB135 = 1) dans la vague t - 1. 
+- Taux de réponse individuels: 
+- Taux de réponse par vague 
+Pourcentage d'individus panel interrogés avec succès (RB250 = 11,12,13) parmi ceux qui sont passés de la vague t - 1 à la vague t ou qui viennent d'être créés ou ajoutés durant la vague t, à l'exclusion des personnes hors du champ (selon les règles de suivi). 
+Pourcentage de corésidents sélectionnés pour la vague 1 et interrogés avec succès (RB = 11,12,13) parmi ceux qui sont passés de la vague t - 1 à la vague t. 
+- Taux de suivi longitudinal 
+Pourcentage d'individus panel interrogés avec succès (RB250 = 11,12,13) lors de la vague t sur tous les individus panel sélectionnés, à l'exclusion de ceux qui sont décédés ou jugés inéligibles (hors du champ), ventilation suivant les causes de non-réponse. 
+- Taux des tailles d'échantillon 
+Rapport entre le nombre d'entretiens personnels achevés (RB250 = 11,12,13) lors de la vague t et le nombre d'entretiens personnels achevés lors de la vague t - 1. 
+Ce rapport sera défini pour les individus panel et pour toutes les personnes y compris les individus non panel âgés de 16 ans et plus et les corésidents âgés de 16 ans et plus sélectionnés lors de la première vague. 
+- Taux de réponse pour les individus non-panel 
+Rapport entre le nombre d'entretiens personnels achevés (RB250 = 11,12,13) avec des individus non panel âgés de 16 ans et plus lors de la vague t et l'ensemble des individus non panel âgés de 16 ans et plus répertoriés dans les ménages acceptés pour la base de données (DB135 = 1) lors de la vague t ou répertoriés dans les entretiens les plus récents avec des ménages qui sont passés de la vague t - 1 à la vague t à des fins de suivi, mais qui n'ont pu être interrogés avec succès lors de la vague t. 
+2.3.3.3. Ventilation des ménages selon la situation du ménage (DB110), l'enregistrement du contact à l'adresse (DB120), le résultat du questionnaire %quot%ménage%quot% (DB130) et l'acceptation de l'entretien (DB135) 
+Pour chaque vague portant sur la dimension longitudinale des statistiques EU-SILC, la ventilation des ménages selon la situation du ménage, l'enregistrement du contact à l'adresse, le résultat du questionnaire %quot%ménage%quot% et l'acception de l'entretien sera fournie. 
+2.3.3.4. Ventilation des personnes selon l'appartenance au ménage (RB110) 
+Pour la deuxième vague et pour les vagues suivantes portant sur la dimension longitudinale des statistiques EU-SILC, la ventilation des personnes selon l'appartenance au ménage sera fournie. 
+2.3.3.5. Non-réponse à certaines questions 
+Pour les variables du revenu, les informations suivantes seront fournies pour chaque vague portant sur la dimension longitudinale des statistiques EU-SILC: 
+- pourcentage de ménages (par composante du revenu collectée ou compilée au niveau du ménage)/personnes (par composante du revenu collectée ou compilée au niveau de la personne) ayant perçu un montant pour chaque composante du revenu, 
+- pourcentage de valeurs manquantes pour chaque composante du revenu collectée ou compilée au niveau du ménage/de la personne, 
+- pourcentage d'informations partielles pour chaque composante du revenu collectée ou compilée au niveau du ménage/de la personne. 
+2.4. Mode de collecte des données 
+Pour chaque vague portant sur la dimension longitudinale des statistiques EU-SILC, la ventilation des membres du ménage âgés de 16 ans et plus selon le %quot%statut des données%quot% (RB250) et le %quot%type d'entretien%quot% (RB260) sera fournie, pour chaque individu panel, pour les corésidents et pour le total. 
+2.5. Procédure d'imputation 
+Pour la dimension transversale des statistiques EU-SILC et pour chaque vague portant sur la dimension longitudinale des statistiques EU-SILC, une description de la procédure d'imputation utilisée pour la non-réponse à certaines questions (en cas d'écart par rapport à la méthode d'Eurostat), les variables imputées et le pourcentage d'imputation sur le nombre total d'observations par variable cible seront transmis. 
+2.6. Loyer imputé 
+Pour la dimension transversale des statistiques EU-SILC et pour chaque vague portant sur la dimension longitudinale des statistiques EU-SILC, une description de la méthode utilisée pour calculer le loyer imputé (en cas d'écart par rapport à la méthode d'Eurostat) sera transmise. 
+2.7. Voitures de société 
+Pour la dimension transversale des statistiques EU-SILC et pour chaque vague portant sur la dimension longitudinale des statistiques EU-SILC, une description de la méthode utilisée pour imputer une valeur à l'utilisation privée d'une %quot%voiture de société%quot% sera transmise. 
+3. COMPARABILITÉ 
+3.1. Concepts et définitions de base 
+Pour la première vague portant sur la dimension longitudinale des statistiques EU-SILC, les informations sur les concepts et définitions de base (tels que décrits à l'annexe II, point 3.1, du présent règlement), les différences entre les définitions nationales et les définitions types des statistiques EU-SILC, et une évaluation, si disponible, des répercussions des différences mentionnées seront fournies. 
+Pour la deuxième vague et pour les vagues suivantes, tout changement dans les concepts et définitions de base par rapport à la première vague sera communiqué. 
+3.2. Composantes du revenu 
+3.2.1. Différences entre les définitions nationales et les définitions types des statistiques EU-SILC, et évaluation (si disponible) des répercussions des différences mentionnées 
+Pour la première vague portant sur la dimension longitudinale des statistiques EU-SILC, les informations sur les composantes du revenu, décrites à l'annexe II, point 3.2.1, du présent règlement (à l'exception de la %quot%rémunération mensuelle brute des salariés%quot%), seront fournies. 
+Pour la deuxième vague et pour les vagues suivantes, tout changement dans la définition des composantes du revenu sera communiqué. 
+3.2.2. La source ou procédure utilisée pour la collecte des variables du revenu 
+Pour la première vague portant sur la dimension longitudinale des statistiques EU-SILC, la source ou la procédure utilisée pour la collecte des variables du revenu sera indiquée. 
+Pour la deuxième vague et pour les vagues suivantes, tout changement dans la source ou la procédure utilisée pour la collecte des variables du revenu sera communiqué. 
+3.2.3. La forme sous laquelle ont été obtenues les variables du revenu au niveau des composantes 
+Pour la première vague portant sur la dimension longitudinale des statistiques EU-SILC, la forme sous laquelle ont été obtenues les variables du revenu au niveau des composantes (par exemple brutes, nettes d'impôts sur le revenu à la source et de cotisations sociales, nettes d'impôts sur le revenu à la source, nettes de cotisations sociales) sera fournie. 
+Pour la deuxième vague et pour les vagues suivantes, tout changement de la forme sous laquelle ont été obtenues les variables du revenu au niveau des composantes sera communiqué. 
+3.2.4. La méthode utilisée pour obtenir les variables cibles du revenu sous la forme requise (c'est-à-dire en tant que valeurs brutes) 
+Pour la première vague portant sur la dimension longitudinale des statistiques EU-SILC, la méthode utilisée pour obtenir les variables cibles du revenu sous la forme requise (c'est-à-dire en tant que valeurs brutes) sera indiquée. 
+Pour la deuxième vague et pour les vagues suivantes, tout changement de la source ou de la procédure utilisée pour la collecte des variables du revenu sera communiqué. 
+3.3. Règles de suivi 
+Pour la dimension longitudinale des statistiques EU-SILC, les différences entre les règles de suivi nationales et les règles de suivi types des statistiques EU-SILC seront communiquées. 
+4. COHÉRENCE 
+4.1. Comparaison avec des sources extérieures de toutes les variables cibles du revenu et du nombre de personnes percevant un revenu pour chaque %quot%composante du revenu%quot% 
+Pour chaque vague portant sur la dimension longitudinale des statistiques EU-SILC, une comparaison avec des sources extérieures de toutes les variables cibles du revenu et du nombre de personnes percevant un revenu pour chaque %quot%composante du revenu%quot% sera fournie, lorsque les États membres concernés estiment que ces données extérieures sont suffisamment fiables. 
+ANNEXE IV 
+Contenu des rapports comparatifs intermédiaire et final sur la qualité à produire par la Commission (Eurostat) 
+RAPPORT COMPARATIF INTERMÉDIAIRE SUR LA QUALITÉ 
+Sur la base des rapports intermédiaires transmis par les États membres, la Commission (Eurostat) produira un rapport comparatif intermédiaire sur la qualité contenant les critères de qualité suivants: 
+1. Précision 
+1.1. Plan d'échantillonnage 
+1.2. Erreurs d'échantillonnage 
+1.2.1. L'estimation, le coefficient de variation, l'intervalle de confiance à 95 % et la taille effective de l'échantillon pour les indicateurs communs transversaux pour l'Union européenne basés sur la dimension transversale des statistiques EU-SILC, pour le revenu disponible équivalent et pour l'écart de rémunération entre les sexes non ajusté (le cas échéant) 
+1.3. Erreurs non dues à l'échantillonnage 
+1.4. Mode de collecte des données 
+1.5. Durée de l'entretien 
+2. Comparabilité 
+2.1. Concepts et définitions de base 
+2.2. Composantes du revenu 
+3. Cohérence 
+RAPPORT COMPARATIF FINAL SUR LA QUALITÉ 
+Sur la base des rapports finals transmis par les États membres, la Commission (Eurostat) produira un rapport comparatif final sur la qualité contenant les critères de qualité suivants: 
+1. Pertinence 
+- Une description et classification des utilisateurs 
+- Une description des besoins des utilisateurs (ventilée par type d'utilisateurs) 
+2. Précision 
+2.1. Plan d'échantillonnage 
+2.2. Erreurs d'échantillonnage 
+Pour la composante transversale des statistiques EU-SILC et pour chaque vague portant sur la dimension longitudinale, les informations suivantes seront fournies: 
+- La moyenne, le nombre total d'observations (avant et après imputation), le coefficient de variation et l'intervalle de confiance à 95 % pour les composantes du revenu 
+- La moyenne, le nombre total d'observations (avant et après imputation), le coefficient de variation et l'intervalle de confiance à 95 % pour le revenu disponible équivalent ventilé par sexe, par groupe d'âge et par taille du ménage 
+2.3. Erreurs non dues à l'échantillonnage 
+2.4. Mode de collecte des données 
+2.5. Procédure d'imputation 
+2.6. Loyer imputé 
+2.7. Voitures de société 
+3. Rapidité de production et ponctualité 
+- Le délai moyen de production des données 
+- La fréquence des données et fraîcheur moyenne des données 
+- Le pourcentage des données mises à disposition avec retard, sur la base du calendrier des dates de dissémination établi dans le Règlement cadre de EU-SILC 
+- Le délai moyen pour la livraison des données non ponctuelles (en nombre de semaines) 
+- Les raisons des retards de livraison des données 
+4. Accessibilité et clarté 
+- Une description des conditions d'accès aux données (media, appui, conditions de marketing, contraintes, confidentialité, etc.) 
+- Une description des conditions de publication des données 
+5. Comparabilité 
+5.1. Concepts et définitions de base 
+5.2. Composantes du revenu 
+5.3. Les règles de suivi 
+6. Cohérence 

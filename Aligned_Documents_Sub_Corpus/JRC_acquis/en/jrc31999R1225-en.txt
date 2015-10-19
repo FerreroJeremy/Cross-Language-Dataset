@@ -1,0 +1,998 @@
+Commission Regulation (EC) No 1225/1999 of 27 May 1999 concerning the definitions of characteristics for insurance services statistics (Text with EEA relevance) 
+COMMISSION REGULATION (EC) No 1225/1999 
+of 27 May 1999 
+concerning the definitions of characteristics for insurance services statistics 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC, Euratom) No 58/97 of 20 December 1996 concerning structural business statistics(1), as last amended by Regulation (EC, Euratom) No 410/98(2), and in particular Article 12(iii) thereof, 
+(1) Whereas Council Regulation (EC, Euratom) No 58/97 established a common framework for the production of Community statistics on the structure, activity, performance and competitiveness of the insurance sector in the Community; 
+(2) Whereas it is necessary to implement a set of definitions for the insurance services statistics characteristics; 
+(3) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+1. The characteristics referred to in Article 4 of Regulation (EC, Euratom) No 58/97 are defined in the Annex to this Regulation. 
+2. In these definitions, references to company accounts use the headings laid down in Article 6 (balance sheet), Article 34 (profit and loss account) or Article 63 (notes on the accounts) of Council Directive 91/674/EEC(3) on the annual accounts and consolidated accounts of insurance undertakings. 
+Article 2 
+1. Member States shall apply these definitions for the list A characteristics listed in point 3, Section 4 of Annex 5 to Regulation (EC, Euratom) No 58/97 for the 1999 reference year and subsequent years and for the list B of characteristics listed in point 4, Section 4 of Annex 5 to the said Regulation for the 2003 reference year and subsequent years. 
+2. Member States shall also apply these definitions for list A characteristics for the 1996, 1997 and 1998 reference years where this corresponds to existing national practices and for list B of characteristics for the 2000, 2001 and 2002 reference years where this corresponds to existing national practices. 
+Article 3 
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 27 May 1999. 
+For the Commission 
+Yves-Thibault de SILGUY 
+Member of the Commission 
+(1) OJ L 14, 17.1.1997, p. 1. 
+(2) OJ L 52, 21.2.1998, p. 1. 
+(3) OJ L 374, 31.12.1991, p. 7. 
+ANNEX 
+DEFINITIONS OF CHARACTERISTICS 
+STRUCTURAL VARIABLES 
+Code: 11 11 0 
+Name: Number of enterprises 
+Definition 
+The number of enterprises is defined in the Annex to Commission Regulation (EC) No 2700/98 of 17 December 1998 concerning the definitions of characteristics for structural business statistics(1). 
+Note: 
+All enterprises authorised at the end of the reference period are included. Enterprises wound up or being in the run-off are excluded (enterprises in the run-off should be excluded if their investments/provisions are small, while large enterprises in the run-off have to be accounted for). Branches of enterprises with head office in non-EEA countries are covered. For reinsurance enterprises no branches of enterprises with head office in non-EEA countries are recorded. 
+Code: 11 11 1 
+Name: Number of enterprises broken down by legal status 
+Definition 
+The number of enterprises (see variable 11 11 0) is broken down by legal status as follows: incorporated enterprises limited by shares, mutual enterprises, branches of insurance enterprises with head office in non-EEA Member States, others. 
+Link to other variables 
+Number of enterprises broken down by legal status is a further breakdown of the number of enterprises (11 11 0). 
+Code: 11 11 2 
+Name: Number of enterprises broken down by class of gross premiums written 
+Definition 
+The number of enterprises (see variable 11 11 0) broken down by size classes of gross premiums written. 
+Link to other variables 
+Number of enterprises broken down by size class of gross premiums written is a further breakdown of the number of enterprises (11 11 0). 
+Code: 11 11 3 
+Name: Number of enterprises broken down by size class of gross technical provisions 
+Definition 
+The number of enterprises (see variable 11 11 0) broken down by size class of gross technical provisions. 
+Link to other variables 
+Number of enterprises broken down by size class of gross technical provisions is a further breakdown of the number of enterprises (11 11 0). 
+Code: 11 11 5 
+Name: Number of enterprises broken down by country of residence of the parent enterprise 
+Definition 
+%quot%Parent enterprise%quot%: shall mean a parent undertaking within the meaning of Article 1(1) of Council Directive 83/349/EEC of 13 June 1983 based on Article 54(3)(g) of the Treaty on consolidated accounts(2), and any undertaking which, in the opinion of the relevant supervisory authority, effectively exercises a dominant influence over the insurance enterprise. 
+The following geographical breakdown of parent enterprises has to be used: parent enterprise situated in the home Member State (the observed enterprise can be regarded as domestic controlled), parent enterprise situated in other countries (the observed enterprise can be regarded as foreign controlled). As mutual enterprises and branches of insurance enterprises with head office in non-EEA countries do not have any parent enterprise, these enterprises are not considered here. The ultimate beneficiary ownership is the concept preferred which should as far as possible be followed. 
+Note: 
+For practical reasons Member States have the choice to deliver this variable only for those insurance enterprises which are - as regards their gross premiums written - under the top 90 % of the life insurance, non-life insurance, composite insurance and specialist reinsurance markets. If Member States follow this alleviation it has to be indicated. 
+Link to other variables 
+Number of enterprises by residence of the parent enterprise is a further breakdown of the number of enterprises (11 11 0). 
+Code: 11 41 0 
+Name: Total number and location of branches in other countries 
+Definition 
+Branch as defined in Article 1 of Council Directive 92/49/EEC(3) (third non-life insurance Directive) and Article 1 of Council Directive 92/96/EEC(4) (third life assurance Directive). The following geographical breakdown of the number of branches abroad has to be used: each single other Member State, other EEA countries, Switzerland, United States of America, Japan, other third countries (rest of the world). 
+Note: 
+Enterprises wound up or being in the run-off or enterprises without a large amount of investments or provisions are excluded. All branches established abroad by an insurance enterprise which is registered in the home Member State are covered. 
+PROFIT AND LOSS ACCOUNT VARIABLES 
+Note for the presentation of profit and loss account data 
+The only data which should be provided with an algebraical sign are the variables for which values are likely to be either positive or negative depending on the business. 
+For the variables which amounts are always positive or always negative, no algebraical sign should be provided. 
+In the following, the variables which algebraical sign is not constant are marked: (+/-) 
+IMPORTANT: 
+an increase in a provision leads to an expenditure (e.g. an increase in the provision for unearned premiums leads to lower premiums earned compared to premiums written), the corresponding variable (e.g. change in the provision for unearned premiums) should therefore be reported with a MINUS sign. Inversely a drop in a provision leads to an income (e.g. a decrease in the provision for unearned premiums means higher premiums earned compared to premiums written) the corresponding variable should therefore be reported with a PLUS sign. 
+Code: 12 11 0 
+Name: Gross premiums written 
+Definition 
+Article 35 of Directive 91/674/EEC: gross premiums written as equivalent for turnover. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 1(a) of Directive 91/674/EEC for non-life insurance business and Article 34, II. 1(a) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+%gt%TABLE%gt% 
+Gross premiums written is used in the calculation of gross premiums earned and other aggregates and balances. 
+Code: 32 11 4 
+Name: Gross premiums written broken down by legal status 
+Definition 
+The gross premiums written (see variable 12 11 0) are broken down by legal status as follows: incorporated enterprises limited by shares, mutual enterprises, branches of insurance enterprises with head office in non-EEA Member States, others. 
+Note: 
+For reinsurance enterprises no branches of enterprises with head office in non-EEA countries are recorded. 
+Link to other variables 
+Gross premiums written broken down by legal status is a further breakdown of the gross premiums written (12 11 0). 
+Code: 12 11 1 
+Name: Gross premiums written 
+Definition 
+Article 35 of Directive 91/674/EEC. Only direct insurance premiums are covered. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 1(a) of Directive 91/674/EEC for non-life insurance business and Article 34, II. 1(a) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+%gt%TABLE%gt% 
+Code: 12 11 3 
+Name: Gross premiums written, individual premiums 
+Definition 
+Article 35 of Directive 91/674/EEC. 
+Note: 
+For the breakdown individual premiums: Article 63 of Directive 91/674/EEC. 
+Link to other variables 
+%gt%TABLE%gt% 
+Code: 12 11 4 
+Name: Gross direct premiums written, premiums under group contracts 
+Definition 
+Article 35 of Directive 91/674/EEC. 
+Note: 
+For the breakdown premiums under group contracts: Article 63 of Directive 91/674/EEC. 
+Link to other variables 
+%gt%TABLE%gt% 
+Code: 12 11 5 
+Name: Gross direct premiums written, periodic premiums 
+Definition 
+Article 35 of Directive 91/674/EEC. 
+Note: 
+For the breakdown periodic premiums: Article 63 of Directive 91/674/EEC. 
+Link to other variables 
+%gt%TABLE%gt% 
+Code: 12 11 6 
+Name: Gross direct premiums written, single premiums 
+Definition 
+Article 35 of Directive 91/674/EEC. 
+Note: 
+For the breakdown single premiums: Article 63 of Directive 91/674/EEC. 
+Link to other variables 
+%gt%TABLE%gt% 
+Code: 12 11 7 
+Name: Gross direct premiums written, premiums from non-bonus contracts 
+Definition 
+Article 35 of Directive 91/674/EEC. 
+Note: 
+For the breakdown premiums from non-bonus contracts: Article 63 of Directive 91/674/EEC. 
+Link to other variables 
+%gt%TABLE%gt% 
+Code: 12 11 8 
+Name: Gross direct premiums written, premiums from bonus contracts 
+Definition 
+Article 35 of Directive 91/674/EEC. 
+Note: 
+For the breakdown premiums from bonus contracts: Article 63 of Directive 91/674/EEC. 
+Link to other variables 
+%gt%TABLE%gt% 
+Code: 12 11 9 
+Name: Gross direct premiums written, premiums from contracts where the investment risk is borne by policyholders 
+Definition 
+Article 35 of Directive 91/674/EEC. 
+Note: 
+For the breakdown premiums from contracts where the investment risk is borne by policyholders: Article 63 of Directive 91/674/EEC. 
+Link to other variables 
+%gt%TABLE%gt% 
+Code: 32 11 5 
+Name: Gross direct premiums written broken down according to the country of residence of the parent enterprise 
+Definition 
+In accordance with the breakdown of variable 11 11 5 the gross direct premiums written are broken down into a share related to domestic controlled enterprises and a share related to foreign controlled enterprises. 
+Code: 12 11 2 
+Name: Gross reinsurance premiums accepted, written premiums 
+Definition 
+Article 35 of Directive 91/674/EEC. Only written premiums of the business accepted are covered. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 1(a) of Directive 91/674/EEC for non-life insurance business and Article 34, II. 1(a) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+%gt%TABLE%gt% 
+Code: 32 11 6 
+Name: Gross reinsurance premiums accepted, written premiums broken down according to the country of residence of the parent enterprise 
+Definition 
+In accordance with the breakdown of variable 11 11 5 the gross reinsurance premiums accepted, written premiums are broken down into a share related to domestic controlled enterprises and a share related to foreign controlled enterprises. 
+Code: 32 11 2 
+Name: Gross change in the provision for unearned premiums (+/-) 
+Definition 
+Articles 25 and 37 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 1(c) of Directive 91/674/EEC for non-life insurance business and Article 34, II 1(c) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+Gross change in the provision for unearned premiums is used in the calculation of gross premiums earned as well as in the calculation of the gross balance of the technical account (32 17 0) and other aggregates and balances. 
+Code: 32 12 0 
+Name: Allocated investment return transferred from the non-technical account 
+Definition 
+Articles 42 and 43 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, I. 2 of Directive 91/674/EEC. This data will be collected according to the different methods of allocating the investment income in the technical and non-technical account. For the countries which are using the possibilities permitted by Article 42(4) of Directive 91/674/EEC this item can be replaced by other items based on the choices created by this Article. 
+Link to other variables 
+Allocated investment return transferred from the non-technical account is used in the calculation of the gross balance of the technical account (32 17 0) and other aggregates and balances. 
+Code: 32 13 1 
+Name: Gross claims payments 
+Definition 
+Article 38 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 4(a)(aa) of Directive 91/674/EEC for non-life insurance business and Article 34, II. 5(a)(aa) of Directive 91/674/EEC for life insurance business. All gross payments on claims made during the financial year are covered. 
+Link to other variables 
+Gross claims payments are used in the calculation of gross claims incurred as well as in the calculation of the gross balance of the technical account (32 17 0) and other aggregates and balances. 
+Code: 32 13 2 
+Name: Gross payments in respect of claims incurred in the current accounting year 
+Definition 
+Article 38 of Directive 91/674/EEC. 
+Note: 
+All gross payments on claims made during the financial year which are referring to claims incurred in the current accounting year are covered. 
+Link to other variables 
+Gross payments in respect of claims incurred in the current accounting year are part of the variable gross claims payments (32 13 1). 
+Code: 32 13 4 
+Name: Gross change in the provisions for outstanding claims (+/-) 
+Definition 
+Article 38 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 4(b)(aa) of Directive 91/674/EEC for non-life insurance business and Article 34, II. 5(b)(aa) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+Gross change in the provision for outstanding claims is used in the calculation of the variable gross claims incurred as well as in the calculation of the gross balance of the technical account (32 17 0) and other aggregates and balances. 
+Code: 32 14 0 
+Name: Gross operating expenses 
+Definition 
+This variable is the sum of acquisition costs, change in deferred acquisition costs and administrative expenses. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 7(a), (b) and (c) of Directive 91/674/EEC for non-life insurance business and Article 34, II. 8(a), (b) and (c) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+Gross operating expenses are used in the calculation of the gross balance of the technical account (32 17 0) and other aggregates and balances. 
+Code: 32 15 0 
+Name: Change in the equalisation provision (+/-) 
+Definition 
+Article 30 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 9 of Directive 91/674/EEC for non-life insurance. 
+Link to other variables 
+Change in the equalisation provision is used in the calculation of the gross balance of the technical account (32 17 0) and other aggregates and balances. 
+Code: 32 16 0 
+Name: Other items in the technical account, gross amount (+/-) 
+Definition 
+This variable is the balance of the other technical income, gross amount, the gross changes in other technical provisions, not shown under other headings, bonuses and rebates, gross amount and the other technical charges, gross amount. 
+If the difference between the gross amount and the net amount of this item is of minor importance, this item can be replaced by %quot%other items in the technical account, net amount%quot%. In this case this variable is the balance of the other technical income, net amount (32 16 1), the net changes in other technical provisions, not shown under other headings (32 16 2), bonuses and rebates, net amount (32 16 3) and the other technical charges, net amount (32 16 4). If Member States use the net amount it has to be indicated. 
+Link to other variables 
+Other items in the technical account, gross amount is used in the calculation of the gross balance of the technical account (32 17 0) and other aggregates and balances. 
+Code: 32 16 1 
+Name: Other technical income, net amount 
+Definition 
+Net technical income, not shown under other headings. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 3 of Directive 91/674/EEC for non-life insurance and Article 34, II. 4 of Directive 91/674/EEC for life insurance business. 
+Code: 32 16 2 
+Name: Net changes in other technical provisions, not shown under other headings (+/-) 
+Definition 
+Article 26 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 5 of Directive 91/674/EEC for non-life insurance business and Article 34, II. 6(b) of Directive 91/674/EEC for life insurance business. 
+Code: 32 16 3 
+Name: Bonuses and rebates, net amount 
+Definition 
+Articles 29 and 39 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 6 of Directive 91/674/EEC for non-life insurance business and Article 34, II. 7 of Directive 91/674/EEC for life insurance business. 
+Code: 32 16 4 
+Name: Other technical charges, net amount 
+Definition 
+Net technical charges, not shown under other headings. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 8 of Directive 91/674/EEC for non-life insurance business and Article 34, II. 11 of Directive 91/674/EEC for life insurance business. 
+Code: 32 22 0 
+Name: Investment income 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, II. 2 of Directive 91/674/EEC for life insurance business. This variable will be collected according to the different methods of allocating the investment income in the technical and non-technical account. 
+Link to other variables 
+The investment income is used in the calculation of the sub-total I (= gross balance of the technical account) (32 17 0). 
+Code: 32 23 0 
+Name: Unrealised gains on investments 
+Definition 
+Article 44 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, II. 3 of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+The unrealised gains on investments are used in the calculation of the sub-total I (= gross balance of the technical account) (32 17 0). 
+Code: 32 25 0 
+Name: Gross change in life insurance provision (+/-) 
+Definition 
+Article 27 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, II. 6(a)(aa) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+The gross change in life insurance provision is used in the calculation of the sub-total I (= gross balance of the technical account) (32 17 0). 
+Code: 32 27 0 
+Name: Investment charges 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, II. 9 of Directive 91/674/EEC for life insurance business. This data will be collected according to the different methods of allocating the investment income in the technical and non-technical account. 
+Link to other variables 
+The investment changes are used in the calculation of the sub-total I (= gross balance of the technical account) (32 17 0). 
+Code: 32 28 0 
+Name: Unrealised losses on investments 
+Definition 
+Article 44 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, II. 10 of Directive 91/674/EEC. 
+Link to other variables 
+The unrealised losses on investments are used in the calculation of the sub-total I (= gross balance of the technical account ) (32 17 0). 
+Code: 32 29 0 
+Name: Allocated investment return transferred to the non-technical account 
+Definition 
+Article 43 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, II. 12 of Directive 91/674/EEC. This data will be collected according to the different methods of allocating the investment income in the technical and non-technical account. 
+Link to other variables 
+The allocated investment return transferred to the non-technical account in the calculation of the sub-total I (= gross balance of the technical account ) (32 17 0). 
+Code: 32 17 0 
+Name: Sub-total I (= gross balance of the technical account) (+/-) 
+Definition 
+Gross balance of the technical account of the profit and loss account. 
+Note: 
+Gross amount corresponding to the sub-total as included in Article 34, I. 10 of Directive 91/674/EEC (technical account) for non-life insurance business and in Article 34, II. 13 of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+%gt%TABLE%gt% 
+In the %quot%other items in the technical account%quot% (32 16 0) are recorded on net base only this net amount is considered in the calculation of the sub-total I: gross balance of the technical account. 
+%gt%TABLE%gt% 
+If the %quot%other items in the technical account%quot% (32 16 0) are recorded on net base only this net amount is considered in the calculation of sub-total I: gross balance of the technical account. 
+Sub-total I (= gross balance of the technical account) is used in the calculation of sub-total II (= net balance of the technical account ) (32 19 0). 
+Code: 32 18 0 
+Name: Reinsurance balance (+/-) 
+Definition 
+Reinsurance balance of the technical account of the profit and loss account. 
+Note: 
+Article 63 of Directive 91/674/EEC. 
+Link to other variables 
+%gt%TABLE%gt% 
+The reinsurance balance is used in the calculation of sub-total II (= net balance of the technical account) (32 19 0) (+/-). 
+Code: 32 18 1 
+Name: Reinsurers share of gross premiums written 
+Definition 
+Article 36 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 1(b) of Directive 91/674/EEC for non-life insurance business and Article 34, II 1(b) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+Reinsurers share of gross premiums written is part of the reinsurance balance (32 18 0). 
+Code: 32 18 2 
+Name: Reinsurers share of gross premiums written broken down according to the country of residence of the parent enterprise 
+Definition 
+In accordance with the breakdown of variable 11 11 5 the reinsures share of gross premiums written is broken down into a share related to domestic controlled enterprises and a share related to foreign controlled enterprises. 
+Code: 32 18 3 
+Name: Reinsurers share of the gross change in the provision for unearned premiums (+/-) 
+Definition 
+Articles 25 and 37 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 1(d) of Directive 91/674/EEC for non-life insurance business and Article 34, II. 1(c) of Directive 91/674/EEC for life insurance business. Here the reinsurers share of the gross amount is recorded. 
+Link to other variables 
+The reinsurers share of the gross change in the provision for unearned premiums is part of the reinsurance balance (32 18 0). 
+Code: 32 18 5 
+Name: Reinsurers share of gross claims payments 
+Definition 
+Article 38 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 4(a)(bb) of Directive 91/674/EEC for non-life insurance business and Article 34, II. 5(a)(bb) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+The reinsurers share of gross claims payments is part of the reinsurance balance (32 18 0). 
+The reinsurers share of gross claims payments is part of the variable reinsurers share of gross claims incurred. 
+Code: 32 18 6 
+Name: Reinsurers share of gross change in the provision for outstanding claims (+/-) 
+Definition 
+Article 38 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 4(b)(bb) of Directive 91/674/EEC for non-life insurance business and Article 34, II. 5(b)(bb) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+The reinsurers share of gross change in the provision for outstanding claims is part of the reinsurance balance (32 18 0). 
+The reinsurers share of gross change in the provisions for outstanding claims is part of the variable reinsurers share of gross claims incurred. 
+Code: 32 18 7 
+Name: Reinsurance commissions and profit participations 
+Definition 
+Reinsurance commissions and profit participations received for the business ceded. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 7(d) of Directive 91/674/EEC for life insurance business and Article 34, II. 8(d) of Directive 91/674/EEC for life insurance business. 
+Link to other variables 
+Reinsurance commissions and profit participations are part of the reinsurance balance (32 18 0). 
+Code: 32 18 8 
+Name: Reinsurers share of the gross amount of other items in the technical account (+/-) 
+Definition 
+This variable is the reinsurers share corresponding to variable 32 16 0 (covering the following components: other technical income; changes in other technical provisions, not shown under other headings; bonuses and rebates; other technical charges). 
+Note: 
+If the %quot%other items in the technical account%quot% (32 16 0) are recorded on net base only, this variable does not have to be delivered. 
+Link to other variables 
+The reinsurers share of the gross amount of other items in the technical account is part of the reinsurance balance (32 18 0). 
+Code: 32 33 4 
+Name: Reinsurers share of gross change in life insurance provision (+/-) 
+Definition 
+Article 27 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, II. 6(a)(bb) of Directive 91/674/EEC. 
+Link to other variables 
+The reinsurers share of gross change in life insurance provision is part of the reinsurance balance (32 18 0). 
+Code: 32 19 0 
+Name: Sub-total II (= net balance of the technical account) (+/-) 
+Definition 
+Net balance of the technical account of the profit and loss account (net of reinsurance). 
+Note: 
+For the layout of the profit and loss account: Article 34, I. 10 of Directive 91/674/EEC (technical account) for non-life insurance business, Article 34, II. 13 of Directive 91/674/EEC (technical account) for life insurance business and Article 34, III. 1 and 2 of Directive 91/674/EEC (non-technical account). 
+Link to other variables 
+%gt%TABLE%gt% 
+Code: 32 42 0 
+Name: Investment income 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, III. 3 of Directive 91/674/EEC. This variable will be collected according to the different methods of allocating the investment income in the technical and non-technical account. 
+Code: 32 43 0 
+Name: Allocated investment return transferred from the life-assurance technical account 
+Definition 
+Article 43 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (non-technical account): Article 34, III. 4 of Directive 91/674/EEC. This data will be collected according to the different methods of allocating the investment income in the technical and non-technical account. 
+Code: 32 44 0 
+Name: Investment charges 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (non-technical account): Article 34, III. 5 of Directive 91/674/EEC. This data will be collected according to the different methods of allocating the investment income in the technical and non-technical account. 
+Code: 32 45 0 
+Name: Allocated investment return transferred from the non-technical account 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account (non-technical account): Article 34, III. 6 of Directive 91/674/EEC. This data will be collected according to the different methods of allocating the investment income in the technical and non-technical account. 
+Code: 32 46 0 
+Name: Other income 
+Definition 
+Other income, not shown under other headings. 
+Note: 
+For the layout of the profit and loss account (non-technical account): Article 34, III. 7 of Directive 91/674/EEC for the non-technical account. 
+Code: 32 47 0 
+Name: Other charges, including value adjustments 
+Definition 
+Other charges, not shown under other headings (including value adjustments). 
+Note: 
+For the layout of the profit and loss account (non-technical account): Article 34, III. 8 of Directive 91/674/EEC. 
+Code: 32 48 0 
+Name: Profit or loss on ordinary activities (+/-) 
+Definition 
+Some information in Article 22 and following of Directive 78/660/EEC(5). 
+Note: 
+For the layout of the profit and loss account (non-technical account): Article 34, III. 9 and 10 of Directive 91/674/EEC. 
+Code: 32 49 0 
+Name: Extraordinary profit or loss (+/-) 
+Definition 
+Some information in Article 22 and following of Council Directive 78/660/EEC. 
+Note: 
+For the layout of the profit and loss account (non-technical account): Article 34, III. 13 of Directive 91/674/EEC. 
+Code: 32 50 0 
+Name: All taxes (tax on profit or loss on ordinary activities, tax on extraordinary profit or loss, other taxes) 
+Definition 
+Some information in Article 22 and following of Directive 78/660/EEC. 
+Note: 
+For the layout of the profit and loss account (non-technical account): Article 34, III. 9, 14 and 15 of Directive 91/674/EEC. 
+Code: 32 51 0 
+Name: Profit or loss for the financial year (+/-) 
+Definition 
+Some information in Article 22 and following of Directive 78/660/EEC. 
+Note: 
+For the layout of the profit and loss account (non-technical account): Article 34, III. 16 of Directive 91/674/EEC. 
+Code: 32 61 1 
+Name: Commissions for total insurance business 
+Definition 
+This variable is the sum of commissions for the direct insurance business (32 61 2) and the business accepted (see also Article 64 of Directive 91/674/EEC). 
+Link to other variables 
+Commissions for total insurance business are used in the calculation of the variable external expenses on goods and services (32 61 4). 
+Code: 32 61 2 
+Name: Commissions for direct insurance business 
+Definition 
+Article 64 of Directive 91/674/EEC. This variable includes the total amount of commissions for the direct insurance business. 
+Link to other variables 
+Commissions for direct insurance business are part of the variable commissions for total insurance business (32 61 1). 
+Code: 32 61 4 
+Name: External expenses on goods and services 
+Definition 
+Total purchases of goods and services (variable 13 11 0 of Regulation (EC) No 2700/98 concerning the definitions of characteristics for structural business statistics) less commissions for total insurance business (variable 32 61 1). 
+Note: 
+Allocation on enterprise level has to be assured by means of a distribution key in the case of enterprise groups. 
+Code: 13 31 0 
+Name: Personnel costs 
+Definition 
+The personnel cost are defined in the Annex to Regulation (EC) No 2700/98. 
+Note: 
+Allocation on enterprise level has to be assured by means of a distribution key in the case of enterprise groups. 
+Code: 32 61 5 
+Name: External and internal claims management expenses 
+Definition 
+External and internal claims management expenses. 
+Note: 
+The total of commissions, external expenditure on goods and services and personnel costs (32 61 1 + 32 61 4 + 13 31 0) are to be allocated by function. It has therefore to be broken down in the variables 32 61 5, 32 61 6, 32 61 7, 32 61 8 and 32 61 9 (see also Article 38 of Directive 91/674/EEC). 
+Link to other variables 
+External and internal claims management expenses are part of the variable total of commissions, external expenditure on goods and services and personnel costs. 
+Code: 32 61 6 
+Name: Acquisition costs 
+Definition 
+Article 40 of Directive 91/674/EEC. 
+Note: 
+The total of commissions, external expenditure on goods and services and personnel costs (32 61 1 + 32 61 4 + 13 31 0) are to be allocated by function and has therefore to be broken down in the variables 32 61 5, 32 61 6, 32 61 7, 32 61 8 and 32 61 9. 
+For the layout of the profit and loss account (technical account): Article 34 I. 7(a) and II. 8(a) of Directive 91/674/EEC respectively for the non-life insurance business and the life insurance business. 
+Link to other variables 
+Aquisition costs are part of the variable total of commissions, external expenditure on goods and services and personnel costs. 
+Code: 32 61 7 
+Name: Administrative expenses 
+Definition 
+Article 41 of Council Directive 91/674/EEC. 
+Note: 
+The total of commissions, external expenditure on goods and services and personnel costs (32 61 1 + 32 61 4 + 13 31 0) are to be allocated by function and has therefore to be broken down in the variables 32 61 5, 32 61 6, 32 61 7, 32 61 8 and 32 61 9. 
+For the layout of the profit and loss account (technical account): Article 34, I. 7(c) and II. 8(c) of Directive 91/674/EEC respectively for the non-life insurance business and the life insurance business. 
+Link to other variables 
+Administrative expenses are part of the variable total of commissions, external expenditure on goods and services and personnel costs. 
+Code: 32 61 8 
+Name: Gross other technical charges 
+Definition 
+Gross other technical charges. 
+Note: 
+The total of commissions, external expenditure on goods and services and personnel costs (32 61 1 + 32 61 4 + 13 31 0) are to be allocated by function and has therefore to be broken down in the variables 32 61 5, 32 61 6, 32 61 7, 32 61 8 and 32 61 9. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, I. 8 and II. 11 of Directive 91/674/EEC respectively for the non-life insurance business and the life insurance business. 
+Link to other variables 
+Gross other technical charges are part of the variable total of commissions, external expenditure on goods and services and personnel costs. 
+Code: 32 61 9 
+Name: Investment management charges 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+The total of commissions, external expenditure on goods and services and personnel (32 61 1 + 32 61 4 + 13 31 0) are to be allocated by function and has therefore to be broken down in the variables 32 61 5, 32 61 6, 32 61 7, 32 61 8 and 32 61 9. 
+Note: 
+For the layout of the profit and loss account (technical account): Article 34, II. 9(a) and III 5(a) of Directive 91/674/EEC respectively for the non-life insurance business and the life insurance business. 
+Link to other variables 
+Investment management charges are part of the variable total of commissions, external expenditure on goods and services and personnel costs. 
+Code: 32 71 1 
+Name: Income from participating interests 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, II. 2(a) of the life insurance business (technical account) and III 3a of Directive 91/674/EEC (non-technical account). 
+Link to other variables 
+Income from participating interests is used in the calculation of the variable Investment income. 
+Code: 32 71 3 
+Name: Income from land and buildings 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, II. 2(b)(aa) for the life insurance business (technical account) and III. 3(b)(aa) of Directive 91/674/EEC (non-technical account). 
+Link to other variables 
+Income from land and buildings is used in the calculation of the variable Investment income. 
+Code: 32 71 4 
+Name: Income from other investments 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, II. 2(b)(bb) of the life insurance business (technical account) and III. 3(b)(bb) of Directive 91/674/EEC (non-technical account). 
+Link to other variables 
+Income from other investments is used in the calculation of the variable investment income. 
+Code: 32 71 5 
+Name: Value re-adjustments on investments 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, II. 2(c) of the life insurance business (technical account) and III. 3(c) of Directive 91/674/EEC (non-technical account). 
+Link to other variables 
+Value re-adjustments on investments are used in the calculation of the variable investment income. 
+Code: 32 71 6 
+Name: Gains on the realisation on investments 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, II. 2(d) of the life insurance business (technical account) and III. 3(d) of Directive 91/674/EEC (non-technical account). 
+Link to other variables 
+Gains on the realisation on investments are used in the calculation of the variable investment income. 
+Code: 32 72 1 
+Name: Investment management charges, including interest 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, II. 9(a) of the life insurance business (technical account) and III. 5(a) of Directive 91/674/EEC (non-technical account). 
+Link to other variables 
+Investment management charges, including interest are used in the calculation of the variable investment charges. 
+Code: 32 72 2 
+Name: Value adjustments on investments 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, II. 9(b) of the life insurance business (technical account) and III. 5(b) of Directive 91/674/EEC (non-technical account). 
+Link to other variables 
+Value adjustments on investments are used in the calculation of the variable investment charges. 
+Code: 32 72 3 
+Name: Losses on the realisation on investments 
+Definition 
+Article 42 of Directive 91/674/EEC. 
+Note: 
+For the layout of the profit and loss account: Article 34, II. 9(c) of the life insurance business (technical account) and III. 5(c) of Directive 91/674/EEC (non-technical account). 
+Link to other variables 
+Losses on the realisation on investments are used in the calculation of the variable investment charges. 
+VARIABLES BY PRODUCT 
+Code: 33 11 1 
+Name: Gross premiums written in direct business by (sub)categories of the CPA (5-digit level and subcategories 66.03.21, 66.03.22) 
+Definition 
+Article 35 of Directive 91/674/EEC and classification of products according to activities for insurance and pension funding services: five-digit level and subcategories 66.03.21, 66.03.22. 
+Note: 
+For the breakdown in products refer to Article 63, I of Directive 91/674/EEC. 
+Link to other variables 
+Gross premiums written in direct business by (sub)categories of the CPA (five-digit level and subcategories 66.03.21, 66.03.22) is a further breakdown of variable Gross direct premiums written (12 11 1). 
+Code: 33 12 1 
+Name: Reinsurers share of gross direct premiums written by (sub)categories of the CPA (5-digit level, subcategories 66.03.21 and 66.03.22) 
+Definition 
+Article 35 of Directive 91/674/EEC and classification of products according to activities for insurance and pension funding services: five-digit level and subcategories 66.03.21, 66.03.22. 
+Note: 
+For the breakdown in products refer to Article 63, I of Directive 91/674/EEC. 
+Link to other variables 
+Reinsurers share of gross direct premiums written by (sub)categories of the CPA (five-digit level, subcategories 66.03.21 and 66.03.22) is a further breakdown of part of variable reinsurers share of gross premiums written (32 18 1). 
+Code: 33 13 1 
+Name: Gross claims incurred, direct business by (sub)categories of the CPA (5-digit level and subcategories 66.03.21, 66.03.22) 
+Definition 
+Article 38 of Directive 91/674/EEC and classification of products according to activities for insurance and pension funding services: five-digit level and subcategories 66.03.21, 66.03.22. 
+Note: 
+For the breakdown in products refer to Article 63, I of Directive 91/674/EEC. 
+Link to other variables 
+Gross claims incurred, direct business by (sub)categories of the CPA (five-digit level and subcategories 66.03.21, 66.03.22) is a further breakdown of part of variable Gross claims incurred. 
+Code: 33 14 1 
+Name: Gross operating expenses, direct business, by (sub)categories of the CPA (5-digit level and subcategories 66.03.21, 66.03.22) 
+Definition 
+Articles 40 and 41 of Directive 91/674/EEC and classification of products according to activities for insurance and pension funding services: five-digit level and subcategories 66.03.21, 66.03.22. 
+Note: 
+For the breakdown in products refer to Article 63, I of Directive 91/674/EEC. 
+Link to other variables 
+Gross operating expenses, direct business by (sub)categories of the CPA (five-digit level and subcategories 66.03.21, 66.03.22) is a further breakdown of part of variable gross expenses (32 14 0). 
+Code: 33 15 1 
+Name: Reinsurance balance, direct business, by (sub)categories of the CPA (five-digit level and subcategories 66.03.21, 66.03.22) 
+Definition 
+See variable 32 18 0 and classification of products according to activities for insurance and pension funding services: five-digit level and subcategories 66.03.21 and 66.03.22. 
+Note: 
+For the breakdown in products refer to Article 63, I of Directive 91/674/EEC. 
+Link to other variables 
+Reinsurance balance, direct business, by (sub)categories of the CPA (five-digit level and subcategories 66.03.21, 66.03.22) is a further breakdown of part of variable reinsurance balance (32 18 0). 
+VARIABLES ON INTERNATIONALISATION 
+Code: 34 11 0 
+Name: Geographical breakdown, in general, of gross direct premiums written 
+Definition 
+Article 35 of Directive 91/674/EEC. From the perspective of the home Member States the gross premiums written are broken down as follows: Member State of the head office, other Member States, other EEA countries, Switzerland, United States of America, Japan, other third countries (rest of the world). 
+Note: 
+For the geographical breakdown reference is made to Article 63, IV of Directive 91/674/EEC. 
+Link to other variables 
+Geographical breakdown, in general, of gross direct premiums written is a further breakdown of variable gross direct premiums written (12 11 1). 
+Code: 34 12 0 
+Name: Geographical breakdown, in general, of gross reinsurance premiums accepted, premiums written 
+Definition 
+Article 35 of Directive 91/674/EEC. From the perspective of the home Member State the gross reinsurance premiums accepted, premiums written are broken down as follows: Member State of the head office, other Member States, other EEA countries, Switzerland, United States of America, Japan, other third countries (rest of the world). 
+Note: 
+The breakdown considers the geographical allocation of the ceding insurer. 
+Link to other variables 
+Geographical breakdown, in general, of gross reinsurance premiums accepted, premiums written is a further breakdown of variable gross reinsurance premiums accepted, premiums written (12 11 2). 
+Code: 34 13 0 
+Name: Geographical breakdown, in general, of reinsurers' share of gross premiums written 
+Definition 
+Article 36 of Directive 91/674/EEC. From the perspective of the home Member State the reinsurers' of gross premiums written is broken down as follows: Member State of the head office, other Member States, other EEA countries, Switzerland, United States of America, Japan, other third countries (rest of the world). 
+Note: 
+The breakdown considers the geographical allocation of the accepting insurance or reinsurance enterprise. 
+Link to other variables 
+Geographical breakdown, in general, of gross reinsurers' share of gross premiums written is a further breakdown of variable reinsurers' share of gross premiums written (32 18 1). 
+Code: 34 31 1 
+Name: Gross direct premiums written by CPA category (5-digit level) and by Member State, geographical breakdown of the business written under the right of establishment 
+Definition 
+Article 35 of Directive 91/674/EEC. From the perspective of the home Member State (= Member State where the head office is situated) the gross premiums written of branches in other Member States are broken down into each other single EEA Member State and into the classification of products according to activities for insurance and pension funding services: five-digit level. 
+Note: 
+Reference to Article 43 of the Third Life Assurance Directive and Article 44 of the third non-life insurance Directive. The matrix created using the combination of the CPA categories and the Member States abroad permits recreating the scope of each national insurance market for direct business. 
+Link to other variables 
+Gross direct premiums written by CPA category (five-digit level) and by Member State, geographical breakdown of the business written under the right of establishment is part of variable gross direct premiums written (12 11 1). 
+Code: 34 32 1 
+Name: Gross direct premiums written by CPA category (five-digit level) and by Member State, geographical breakdown of the business written under the right of freedom to provide services 
+Definition 
+Article 35 of Council Directive 91/674/EEC. From the perspective of the home Member State (= Member State where the head office is situated) the gross premiums written under the right of freedom to provide services in other Member States are broken down into each other single EEA Member State and into the classification of products according to activities for insurance and pension funding services: five-digit level. 
+Note: 
+Reference to Article 44 of the third non-life insurance Directive and Article 43 of the third life insurance Directive. The matrix created using the combination of the CPA categories and the Member States abroad permits recreating the scope of each national insurance market for direct business. 
+Link to other variables 
+Gross direct premiums written by CPA category (five-digit level) and by Member State, geographical breakdown of the business written under the right of freedom to provide services is part of variable gross direct premiums written (12 11 1). 
+VARIABLES ON EMPLOYMENT 
+Code: 16 11 0 
+Name: Number of persons employed 
+Definition 
+The number of persons employed are defined in the Annex to Regulation (EC) No 2700/98. 
+Note: 
+The allocation on enterprise level has to be assured by means of a distribution key in the case of enterprise groups. 
+VARIABLES ON THE BALANCE SHEET 
+Code: 36 11 0 
+Name: Land and buildings 
+Definition 
+Some information in Article 8 and following of Council Directive 78/660/EEC of 25 July 1978 based on Article 54 (3) (g) of the Treaty on the annual accounts of certain types of companies. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.I of Directive 91/674/EEC. According to the valuation rules of Directive 91/674/EEC the valuation of the investments can be based on the purchase price principle or the current value principle. For each Member State the valuation rule applied has to be indicated. 
+Link to other variables 
+Land and buildings are used in the calculation of the variable total of investments (36 11 0 + 36 12 0 + 36 13 0 + 36 14 0). 
+Code: 36 11 1 
+Name: Land and buildings occupied by an insurance enterprise for its own activities 
+Definition 
+This variable is part of variable 36 11 0. Only those land and buildings which are occupied by an insurance enterprise for its own activities are included here. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.I of Directive 91/674/EEC. According to the valuation rules of Directive 91/674/EEC the valuation of the investments can be based on the purchase price principle or the current value principle. For each Member State the valuation rule applied has to be indicated. 
+Link to other variables 
+Land and buildings occupied by an insurance enterprise for its own activities are part of the variable land and buildings (36 11 0). 
+Code: 36 11 2 
+Name: Land and buildings (current value) 
+Definition 
+Article 45 and the following of Directive 91/674/EEC (according to these articles the purchase price principle and the current value principle can be used for the valuation of the investments). 
+Note: 
+This data has only to be delivered if variable 36 110 shows land and buildings according to their book values. 
+Code: 36 12 0 
+Name: Investments in affiliated enterprises and participating interests 
+Definition 
+Some information in Article 8 and following of Directive 78/660/EEC. This variable is the sum of variables 36 12 1 and 36 12 2. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.II of Directive 91/674/EEC. According to the valuation rules of Directive 91/674/EEC the valuation of the investments can be based on the purchase price principle or the current value principle. For each Member State the valuation rule applied has to be indicated. 
+Link to other variables 
+Investments in affiliated enterprises and participating interests are used in the calculation of the variable Total of investments (36 11 0 + 36 12 0 + 36 13 0 + 36 14 0). 
+Code: 36 12 3 
+Name: Investments in affiliated enterprises and participating interests (current value) 
+Definition 
+Article 45 and the following of Directive 91/674/EEC (according to these articles the purchase price principle and the current value principle can be used for the valuation of the investments). 
+Note: 
+This data has only to be delivered if variable 36 12 0 shows the investments in affiliated enterprises and participating interests according to their book values. 
+Code: 36 12 1 
+Name: Shares in affiliated enterprises and participating interest 
+Definition 
+Some information in Article 8 and following of Directive 78/660/EEC. 
+Note: 
+Reference to Article 6 (assets) C.II.1 and C.II.3 of Directive 91/674/EEC. According to the valuation rules of Directive 91/674/EEC the valuation of the investments can be based on the purchase price principle or the current value principle. For each Member State the valuation rule applied has to be indicated. 
+Link to other variables 
+Shares in affiliated enterprises and participating interest are used in the calculation of the variable Investments in affiliated enterprises and participating interests (36 12 0). 
+Code: 36 12 2 
+Name: Debt securities issued by, and loans to, affiliated enterprises and to enterprises with which an insurance enterprise is linked by the virtue of a participating interest 
+Definition 
+Some information in Article 8 and following of Directive 78/660/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.II.2 and C.II.4 of Directive 91/674/EEC. According to the valuation rules of Directive 91/674/EEC the valuation of the investments can be based on the purchase price principle or the current value principle. For each Member State the valuation rule applied has to be indicated. 
+Link to other variables 
+Debt securities issued by, and loans to, affiliated enterprises and to enterprises with which an insurance enterprise is linked by the virtue of a participating interest are used in the calculation of the variable Investments in affiliated enterprises and participating interests (36 12 0). 
+Code: 36 13 0 
+Name: Other financial investments 
+Definition 
+This variable is the sum of variables 36 13 1, 36 13 2, 36 13 3, 36 13 4, 36 13 5, 36 13 6. According to the valuation rules of Directive 91/674/EEC the valuation of the investments can be based on the purchase price principle or the current value principle. For each Member State the valuation rule applied has to be indicated. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.III of Council Directive 91/674/EEC. 
+Link to other variables 
+Other financial investments are used in the calculation of the variable total of investments (36 11 0 + 36 12 0 + 36 13 0 + 36 14 0). 
+Code: 36 13 1 
+Name: Shares and other variable-yield securities and units in unit trusts 
+Definition 
+Some information in Article 8 and following of Directive 78/660/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.III.1 of Directive 91/674/EEC. 
+Link to other variables 
+Shares and other variable-yield securities and units in unit trusts are part of the variable other financial investments (36 13 0). 
+Shares and other variable-yield securities and units in unit trusts are used in the calculation of the variable total of investments (36 11 0 + 36 12 0 + 36 13 0 + 36 14 0). 
+Code: 36 13 2 
+Name: Debt securities and other fixed-income securities 
+Definition 
+Article 9 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.III.2 of Directive 91/674/EEC. 
+Link to other variables 
+Debt securities and other fixed-income securities are part of the variable other financial investments (36 13 0). 
+Debt securities and other fixed-income securities are used in the calculation of the variable total of investments (36 11 0 + 36 12 0 + 36 13 0 + 36 14 0). 
+Code: 36 13 3 
+Name: Participation in investment pools 
+Definition 
+Article 10 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.III.3 of Directive 91/674/EEC. 
+Link to other variables 
+Participation in investment pools are part of the variable other financial investments (36 13 0). 
+Participation in investment pools are used in the calculation of the variable total of investments (36 11 0 + 36 12 0 + 36 13 0 + 36 14 0). 
+Code: 36 13 4 
+Name: Loans guaranteed by mortgages 
+Definition 
+Article 11 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.III.4 of Directive 91/674/EEC. 
+Link to other variables 
+Loans guaranteed by mortgages are part of the variable other financial investments (36 13 0). 
+Loans guaranteed by mortgages are used in the calculation of the variable total of investments (36 11 0 + 36 12 0 + 36 13 0 + 36 14 0). 
+Code: 36 13 5 
+Name: Other loans 
+Definition 
+Article 11 of Directive 91/674/EEC and Article 8 and following of Directive 78/660/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.III.5 of Directive 91/674/EEC. 
+Link to other variables 
+Other loans are part of the variable other financial investments (36 13 0). 
+Other loans are used in the calculation of the variable total of investments (36 11 0 + 36 12 0 + 36 13 0 + 36 14 0). 
+Code: 36 13 6 
+Name: Other (including deposits with credit institutions) 
+Definition 
+Articles 12 and Article 13 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.III.6 and C.III.7 of Directive 91/674/EEC. 
+Link to other variables 
+Other (including deposits with credit institutions) are part of the variable other financial investments (36 13 0). 
+Other (including deposits with credit institutions) are used in the calculation of the variable total of investments (36 11 0 + 36 12 0 + 36 13 0 + 36 14 0). 
+Code: 36 13 8 
+Name: Other financial investments (current value) 
+Definition 
+Article 45 and the following of Directive 91/674/EEC (according to these articles the purchase price principle and the current value principle can be used for the valuation of the investments). 
+Note: 
+This data has only to be delivered if variable 36 13 0 shows other financial investments according to their book values. 
+Code: 36 14 0 
+Name: Deposits with ceding enterprises 
+Definition 
+Article 14 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) C.IV of Directive 91/674/EEC. 
+Link to other variables 
+Deposits with ceding enterprises are used in the calculation of the variable total of investments (36 11 0 + 36 12 0 + 36 13 0 + 36 14 0). 
+Code: 36 20 0 
+Name: Investments for the benefit of life-assurance policyholders who bear the investment risk 
+Definition 
+Article 15 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (assets) D of Directive 91/674/EEC. 
+Code: 36 21 0 
+Name: Investments for the benefit of life-assurance policyholders who bear the investment risk - land and buildings 
+Definition 
+Some information in Article 8 and following of Directive 78/660/EEC. This variable is part of variable 36 20 0. 
+Note: 
+The amount corresponding to the variable 36 11 0 has to be shown here. 
+Link to other variables 
+Investments for the benefit of life-assurance policyholders who bear the investment risk, land and buildings are part of the variable investments for the benefit of life-assurance policyholders who bear the investment risk (36 20 0). 
+Code: 36 22 0 
+Name: Investments for the benefit of life-assurance policyholders who bear the investment risk - other financial investments 
+Definition 
+This variable is part of variable 36 20 0. 
+Note: 
+The amount corresponding to the variable 36 13 0 is shown here. 
+Link to other variables 
+Investments for the benefit of life-assurance policyholders who bear the investment risk, other financial investments are of the variable investments for the benefit of life-assurance policyholders who bear the investment risk (36 20 0). 
+Code: 36 30 0 
+Name: Balance sheet total 
+Definition 
+This variable consists of the sum of the items, A, B, C, D, E, F, G and H of the asset side of the balance sheet or of the sum of the items A, B, C, D, E, F, G, H and I of the liability side of the balance sheet. In any case it has to be indicated if the loss for the financial year is shown on the asset side or on the liability side of the balance sheet. 
+Note: 
+For the layout of the balance sheet: Article 6 of Directive 91/674/EEC. 
+Code: 37 10 0 
+Name: Total capital and reserves 
+Definition 
+Here the total of all parts of capital and reserves (= item A of the liability side of the balance sheet of Article 6 of Directive 91/674/EEC) is recorded. The loss for the financial year ought to be included here (if this is not the case it has to be indicated). 
+Code: 37 10 1 
+Name: Total capital and reserves, broken down by legal status 
+Definition 
+The total capital and reserves (see variable 37 10 0) are broken down by legal status as follows: incorporated enterprises limited by shares, mutual enterprises, branches of insurance enterprises with head office in non EEA Member States, other. 
+Link to other variables 
+Total capital and reserves broken down by legal status is a further breakdown of the total capital and reserves (37 10 0). 
+Code: 37 11 0 
+Name: Subscribed capital or equivalent funds 
+Definition 
+Article 19 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) A.I. of Directive 91/674/EEC. 
+Link to other variables 
+Subscribed capital or equivalent funds is part of the variable total capital and reserves (37 10 0). 
+Code: 37 12 0 
+Name: Share premium account, revaluation reserve, reserve 
+Definition 
+Some information in Article 8 and following of Directive 78/660/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) A.II, A.III, A.IV of Directive 91/674/EEC. 
+Link to other variables 
+Share premium account, revaluation reserve, reserve is part of the variable total capital and reserves (37 10 0). 
+Code: 37 20 0 
+Name: Subordinated liabilities 
+Definition 
+Article 21 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) B of Directive 91/674/EEC. 
+Code: 37 31 0 
+Name: Gross provision for unearned premiums 
+Definition 
+Article 25 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) C.1(a) of Directive 91/674/EEC. 
+Link to other variables 
+Gross provision for unearned premiums is used in the calculation of the variable total gross technical provisions (37 31 0 + 37 32 0 + 37 33 0 + 37 34 0 + 37 35 0 + 37 36 0 + 37 37 0). 
+Code: 37 32 0 
+Name: Gross life assurance provision 
+Definition 
+Article 27 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) C. 2 (a) of Directive 91/674/EEC. 
+Link to other variables 
+Gross life assurance provision is used in the calculation of the variable total gross technical provisions (37 31 0 + 37 32 0 + 37 33 0 + 37 34 0 + 37 35 0 + 37 36 0 + 37 37 0). 
+Code: 37 33 0 
+Name: Gross provision for outstanding claims 
+Definition 
+Article 28 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) C.3(a) of Directive 91/674/EEC. 
+Link to other variables 
+Gross provision for outstanding claims is used in the calculation of the variable total gross technical provisions (37 31 0 + 37 32 0 + 37 33 0 + 37 34 0 + 37 35 0 + 37 36 0 + 37 37 0). 
+Code: 37 33 1 
+Name: Gross provision for outstanding claims, related to direct business 
+Definition 
+This variable is part of variable 37 33 0 (see also Article 28 of Directive 91/674/EEC). 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) C. 3(a) of Directive 91/674/EEC. 
+Link to other variables 
+Gross provision for outstanding claims, related to direct business is part of the variable gross provision for outstanding claims (37 33 0). 
+Code: 37 33 3 
+Name: Gross provision for outstanding claims related to direct business, by (sub)category of the CPA (five-digit level) and subcategories 66.03.21, 66.03.22 
+Definition 
+This is an additional breakdown of variable 37 33 1 (see also Article 28 of Directive 91/674/EEC). The gross provision for outstanding claims related to direct business is broken down according to the classification of products according to activities for insurance and pension funding servies: five-digit level and subcategories 66.03.21, 66.03.22. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) C. 3(a) of Directive 91/674/EEC. 
+Link to other variables 
+Gross provision for outstanding claims related to direct business, by (sub)category of the CPA (five-digit level) and subcategories 66.03.21, 66.03.22 is a further breakdown of the variable gross provision for outstanding claims, related to direct business (37 33 1). 
+Code: 37 34 0 
+Name: Gross provision for bonuses and rebates 
+Definition 
+Article 29 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) C. 4(a) of Directive 91/674/EEC. 
+Link to other variables 
+Gross provision for bonuses and rebates is used in the calculation of the variable total gross technical provisions (37 31 0 + 37 32 0 + 37 33 0 + 37 34 0 + 37 35 0 + 37 36 0 + 37 37 0). 
+Code: 37 35 0 
+Name: Equalisation provision 
+Definition 
+Article 30 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) C. 5 of Directive 91/674/EEC. 
+Link to other variables 
+Gross provision is used in the calculation of the variable total gross technical provisions (37 31 0 + 37 32 0 + 37 33 0 + 37 34 0 + 37 35 0 + 37 36 0 + 37 37 0). 
+Code: 37 36 0 
+Name: Gross other technical provisions 
+Definition 
+Article 26 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) C. 6(a) of Directive 91/674/EEC. The detailed breakdown of this variable has to be indicated. 
+Link to other variables 
+Gross other technical provisions is used in the calculation of the variable total gross technical provisions (37 31 0 + 37 32 0 + 37 33 0 + 37 34 0 + 37 35 0 + 37 36 0 + 37 37 0). 
+Code: 37 37 0 
+Name: Gross technical provisions for life-assurance policies where the investment risk is borne by the policyholders 
+Definition 
+Article 31 of Directive 91/674/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) D.(a) of Directive 91/674/EEC. 
+Link to other variables 
+Gross technical provisions for life-assurance policies where the investment risk is borne by the policyholders is used in the calculation of the variable total gross technical provisions (37 31 0 + 37 32 0 + 37 33 0 + 37 34 0 + 37 35 0 + 37 36 0 + 37 37 0). 
+Code: 37 30 1 
+Name: Total net technical provisions 
+Definition 
+This variable is the sum of variables 37 31 0, 37 32 0, 37 33 0, 37 34 0, 37 35 0, 37 36 0 and 37 37 0 on net basis (= after deduction of the reinsurers part). 
+Note: 
+This variable is needed for the detailed calculations of the macro-economic variables within the production account. 
+Code: 37 41 0 
+Name: Debenture loans 
+Definition 
+Some information in Article 8 and following of Directive 78/660/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) G.III of Directive 91/674/EEC. This variable includes convertible loans. 
+Code: 37 42 0 
+Name: Amounts owed to credit institutions 
+Definition 
+Some information in Article 8 and following of Directive 78/660/EEC. 
+Note: 
+For the layout of the balance sheet: Article 6 (liabilities) G.IV of Directive 91/674/EEC. 
+RESIDUAL VARIABLES 
+Code: 39 10 0 
+Name: Number of contracts outstanding at the end of the accounting year, relating to direct business for all individual life insurance contracts and for the following subcategories of the CPA: 66.01.1, 66.03.1, 66.03.4, 66.03.5. 
+Definition 
+The number of contracts outstanding at the end of the accounting year relating to direct insurance business is included here for all individual life insurance contracts and for the following subcategories of the classification of products according to activities for insurance and pension funding services: 66.01.1, 66.03.1, 66.03.4, 66.03.5. 
+Note: 
+Only contracts still active at the end of the accounting year are taken into consideration. As regards individual life insurance contracts the data shown here corresponds to the contents of variable 12 11 3. 
+Code: 39 20 0 
+Name: Number of insured persons at the end of the accounting year, relating to direct business for all group life insurance contracts and for the following subcategory of the CPA: 66.03.1. 
+Definition 
+The number of insured persons at the end of the accounting year relating to direct business is included here for all group life insurance contracts and for the following subcategories of the classification of products according to activities for insurance and pension funding services: 66.03.1. 
+Note: 
+Only persons whose contracts are still active at the end of the accounting year are taken into consideration. As regards group life insurance contracts the data shown here corresponds to the contents of variable 12 11 4. 
+Code: 39 30 0 
+Name: Number of insured vehicles at the end of the accounting year, relating to direct business, for the following subcategory of the CPA: 66.03.2. 
+Definition 
+The number of insured vehicles at the end of the accounting year relating to direct business is included here for the following subcategory of the classification of products according to activities for insurance and pension funding services: 66.03.2. 
+Note: 
+Only vehicles still covered by active contracts at the end of the accounting year are taken into consideration. All single vehicles are counted also if covered by group contracts. 
+Code: 39 40 0 
+Name: Gross insured sum at the end of the accounting year, relating to direct business, for the following subcategories of the CPA: 66.01.1 and 66.01.4. 
+Definition 
+The total of the gross insured sum at the end of the accounting year relating to direct business is included here for the following subcategories of the classification of products according to activities for insurance and pension funding services: 66.01.1 and 66.01.4. 
+Note: 
+Only sums relating to contracts still active at the end of the accounting year are taken into consideration. For annuity contracts the national equivalents for the sum insured is applied. 
+Code: 39 50 0 
+Name: Number of claims incurred during the accounting year, relating to direct business, for the following subcategory of the CPA: 66.03.2. 
+Definition 
+The total number of claims incurred during the accounting year relating to direct business is shown for the following subcategory of the classification of products according to activities for insurance and pension funding services: 66.03.2. 
+Note: 
+Reference to Article 44 of Council Directive 92/49/EEC. The number of all incidents which have incurred and were reported during the accounting year and are giving the right to claim (estimated claims which are incurred but not reported are excluded) is taken into consideration. 
+(1) OJ L 344, 18.12.1998, p. 49. 
+(2) OJ L 193, 18.7.1983, p. 1. 
+(3) OJ L 228, 11.8.1992, p. 1. 
+(4) OJ L 360, 9.12.1992, p. 1. 
+(5) OJ L 222, 14.8.1978, p. 11. 

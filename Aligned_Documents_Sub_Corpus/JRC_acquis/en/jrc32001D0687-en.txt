@@ -1,0 +1,116 @@
+2001/687/EC: Commission Decision of 28 August 2001 on establishing ecological criteria for the award of the Community eco-label to portable computers (Text with EEA relevance) (notified under document number C(2001) 2596) 
+Commission Decision 
+of 28 August 2001 
+on establishing ecological criteria for the award of the Community eco-label to portable computers 
+(notified under document number C(2001) 2596) 
+(Text with EEA relevance) 
+(2001/687/EC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Regulation (EC) No 1980/2000 of the European Parliament and of the Council of 17 July 2000 on a revised Community eco-label award scheme(1), and in particular Articles 3, 4 and 6 thereof, 
+Whereas: 
+(1) Article 3 of Regulation (EC) No 1980/2000 provides that the eco-label may be awarded to a product possessing characteristics which enable it to contribute significantly to improvements in relation to key environmental aspects. 
+(2) Article 4 of Regulation (EC) No 1980/2000 provides that specific eco-label criteria shall be established according to product groups. 
+(3) Article 4 of Regulation (EC) No 1980/2000 provides that the review of the eco-label criteria as well as of the assessment and verification requirements related to the criteria shall take place in due time before the end of the period of validity of the criteria specified for each product group and shall result in a proposal for prolongation, withdrawal or revision. 
+(4) By Decision 1999/698/EC(2), the Commission established ecological criteria for the award of the Community eco-label to portable computers, which, according to Article 3 thereof, expire on 31 October 2001. 
+(5) It is appropriate to revise the definition of the product group and the ecological criteria that were established by Decision 1999/698/EC in order to reflect the developments in the market. 
+(6) It is appropriate to adopt a new Commission Decision establishing the specific ecological criteria for this product group, which will be valid for a period of three years. 
+(7) It is appropriate that, for a limited period of not more than 12 months, both the new criteria established by this Decision and the criteria previously established by Decision 1999/698/EC, are valid concurrently, in order to allow sufficient time for companies that have been awarded the eco-label for their products prior to the adoption of this new Decision to adapt these products to comply with the new criteria. 
+(8) The measures set out in this Decision have been developed and adopted under the procedures for the setting of eco-label criteria as laid down in Article 6 of Regulation (EC) No 1980/2000. 
+(9) The measures set out in this Decision are in accordance with the opinion of the committee set up under Article 17 of Regulation (EC) No 1980/2000, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+The product group %quot%portable computers%quot% (hereinafter referred to as %quot%the product group%quot%) shall mean: %quot%A computer which can be used in multiple locations, and which consists of a system unit, display and keyboard combined in a single case, which is intended to be easily transported between locations and can be used with an internal battery.%quot%. 
+Article 2 
+The environmental performance of the product group as defined in Article 1 shall be assessed by reference to the specific ecological criteria set out in the Annex. 
+Article 3 
+The product group definition and the criteria for the product group shall be valid for three years from the date on which this Decision takes effect. If revised criteria have not been adopted before the end of this period, their validity shall be extended for a further year. 
+The period of validity of the product group definition and the criteria established by Decision 1999/698/EC shall be extended to expire 12 months after the date on which this Decision takes effect. 
+Article 4 
+For administrative purposes the code number assigned to the product group shall be %quot%018%quot%. 
+Article 5 
+This Decision is addressed to the Member States. 
+Done at Brussels, 28 August 2001. 
+For the Commission 
+Margot Wallstrรถm 
+Member of the Commission 
+(1) OJ L 237, 21.9.2000, p. 1. 
+(2) OJ L 276, 27.10.1999, p. 7. 
+ANNEX 
+FRAMEWORK 
+In order to qualify for the eco-label, a portable computer (hereinafter referred to as %quot%the product%quot%) must fall within the product group as defined in Article 1, and must comply with the criteria of this Annex, with tests carried out on application as indicated in the criteria. Testing shall be performed by laboratories that meet the general requirements expressed in standard EN ISO 17025. Where appropriate, other test methods may be used if their equivalence is accepted by the competent body assessing the application. Where no tests are mentioned, or are mentioned as being for use in verification or monitoring, competent bodies should rely as appropriate on declarations and documentation provided by the applicant and/or independent verifications. 
+These criteria aim in particular at promoting: 
+- the reduction of environmental damage or risks related to the use of energy (global warming, acidification, depletion of non-renewable resources) by reducing energy consumption, 
+- the reduction of environmental damage related to the use of natural resources by encouraging the exchangeability of components, and the recyclability and maintainability of the product, 
+- the reduction of environmental damage or risks related to the use of hazardous substances by reducing the use of such substances. 
+The criteria encourage the implementation of best practice (optimal environmental use) and enhance consumers' environmental awareness. Furthermore, the marking of plastic components encourages the recycling of the product. 
+The criteria are set at levels that promote the labelling of portable computers that have a lower environmental impact. 
+The competent bodies are recommended to take into account the implementation of recognised environmental management schemes, such as EMAS or ISO 14001, when assessing applications and monitoring compliance with the criteria in this Annex. (Note: it is not required to implement such management schemes.) 
+ECOLOGICAL CRITERIA 
+1. Energy savings 
+The portable computer shall support the ACPI(1) S3 sleep state (suspend to RAM) to allow minimum energy consumptions below 5 watts. The computer shall be able to wake up from this mode in response to a command from any of the following: 
+- modem, 
+- network connection, 
+- keyboard or mouse action. 
+The default mode-change time from operation to the ACPI S3 sleep state shall be %amp%lt;= 15 minutes of inactivity. The manufacturer must enable this feature. 
+The portable computer shall have a maximum off-mode consumption of %amp%lt; 2 watts when the battery is fully charged and the power supply is connected to the electricity supply. In this context, the off-mode is the state initiated through the command to shut down the computer. 
+The power supply of the portable computer shall have a maximum %amp%lt; 1 watt when it is connected to the electricity supply but is not connected to the computer. 
+The applicant shall provide a report certifying that the level of power consumption in both the ACPI S3 mode and the off-mode have been measured using the procedure in the current Energy Star(2) computer memorandum of understanding. The report shall state the measured power consumptions in both of these modes. 
+2. Lifetime extension 
+The manufacturer shall offer a commercial guarantee to ensure that the portable computer will function for at least three years. This guarantee shall be valid from the date of delivery to the customer. The availability of compatible batteries and power supplies and of the keyboard and its parts shall be guaranteed for three years from the time that production ceases. 
+In addition the portable computer shall meet the following criteria: 
+- the computer shall be designed so that the memory can be changed, 
+- the computer shall be designed so that the hard disk, and if available either the CD drive or DVD drive, can be changed, 
+- a minimum of one socket to allow direct connection of equipment such as scanners and back-up devices must be provided. 
+The applicant shall declare the compliance of the product with these requirements. 
+3. Mercury content of display 
+The background lighting of the flat panel display shall not contain more than 3 mg of mercury per lamp (on average). 
+The applicant shall declare the compliance of the product with these requirements. 
+4. Noise 
+The %quot%declared sound power level%quot% of the portable computer, according to paragraph 3.2.5 of ISO 9296, shall not exceed: 
+- 48 dB(A) in the idle operating mode, 
+- 55 dB(A) when accessing a disk drive. 
+The applicant shall provide a report certifying that the levels of noise emissions have been measured in accordance with ISO 7779 and ISO 9296. The report shall state the measured levels of noise emissions in both the idle operating mode and when accessing a disk drive, and be declared in accordance with paragraph 3.2.5 of ISO 9296. 
+5. Electromagnetic emissions 
+The portable computer shall meet the current maximum exposure limits set in Council Recommendation 1999/519/EC of 12 July 1999(3) on the limitation of exposure of the general public to electromagnetic fields (0 Hz to 300 GHz). 
+The applicant shall provide a report, which specifies the methods used to measure the levels of electromagnetic emissions. The report shall show that the portable computer meets the current maximum exposure limits set in Recommendation 1999/519/EC. 
+6. Take-back and recycling 
+The manufacturer shall offer, free-of-charge, the take-back for refurbishment or recycling of the product and for any component being replaced, except for items contaminated by users (e. g. in medical or nuclear applications). In addition, the product shall meet the following criteria: 
+(a) one qualified person, alone, shall be able to dismantle it; 
+(b) the manufacturer shall check the disassembly of the unit and provide a disassembly report that shall be made available to third parties on request. Amongst others, the report shall confirm that: 
+- connections are easy to find and accessible, 
+- connections are as standardised as possible, 
+- connections are accessible with commonly available tools, 
+- the background lighting lamps of LCD monitors are easily separable; 
+(c) incompatible and hazardous materials shall be separable; 
+(d) 90 % (by volume) of plastic and metal materials in the housing and chassis shall be technically recyclable; 
+(e) if labels are required, they shall be easily separable or inherent; 
+(f) plastic parts shall: 
+- have no lead or cadmium intentionally added, 
+- be of one polymer or compatible polymers, except for the cover, which shall consist of no more than two types of polymers which are separable, 
+- contain no metal inlays that cannot be separated; 
+(g) Plastic parts heavier than 25 grams shall: 
+- not contain the following flame retardants: 
+%gt%TABLE%gt% 
+- not contain flame retardant substances or preparations containing substances, that are assigned or may be assigned any of the risk phrases R45 (may cause cancer), R46 (may cause heritable genetic damage), R50 (very toxic to aquatic organisms), R51 (toxic to aquatic organisms), R52 (harmful to aquatic organisms), R53 (may cause long-term adverse effects in the aquatic environment), R60 (may impair fertility) or R61 (may cause harm to the unborn child), as defined in Council Directive 67/548/EEC(4) and its subsequent amendments, 
+- have a permanent marking identifying the material, in conformity with ISO 11469. Excluded from this criterion are extruded plastic materials and the light-guide of flat panel displays. 
+Batteries shall not contain more than 0,0001 % of mercury, 0,001 % of cadmium or 0,01 % of lead by weight of the battery. 
+The applicant shall declare the compliance of the product with these requirements. The applicant shall provide to the competent body assessing the application a copy of the disassembly report. 
+7. User instructions 
+The product shall be sold with relevant user information, which provides advice on proper environmental use and, in particular: 
+1. recommendations for the use of the power management features, including information that disabling these features can lead to higher consumption of energy and thus can increase the running costs; 
+2. information that the energy drawn from the mains can be reduced to zero if the power supply is unplugged or if the wall socket is switched off; 
+3. information on the guarantee and the availability of spare parts. When it is appropriate for the consumer to upgrade or exchange components, information on the proper procedures shall be given; 
+4. information about the fact that the product has been designed to enable proper reuse of parts and recycling and should not be thrown away; 
+5. advice on how the consumer can make use of the manufacturers take-back offer; 
+6. information that the product has been awarded the EU eco-label with a brief explanation as to what this means together with an indication that more information on the eco-label can be found at the website address (http://europa.eu.int/ecolabel). 
+The applicant shall declare the compliance of the product with these requirements, and shall provide a copy of the instruction manual to the competent body assessing the application. 
+8. Environmental declaration 
+An environmental declaration shall accompany the product and shall be available to the user. This document shall be in conformity with the recommendations of ECMA's Technical Report 70 %quot%Product-related environmental attributes%quot%. 
+9. Information appearing on the eco-label 
+Box 2 of the eco-label shall include the following text: %quot%- low energy consumption, 
+- designed to facilitate recycling.%quot% 
+(1) Advanced configuration and power interface (ACPI). 
+(2) As defined by the United States Environmental Protection Agency. 
+(3) OJ L 199, 30.7.1999, p. 59. 
+(4) OJ 196, 16.8.1967, p. 1. 

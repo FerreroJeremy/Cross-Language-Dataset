@@ -1,0 +1,1328 @@
+Commission Recommendation of 15%nbsp%December 2005 on guidelines for the application of Regulation (Euratom) No%nbsp%302/2005 on the application of Euratom safeguards (notified under document number C(2005) 5127) 
+Commission Recommendation 
+of 15 December 2005 
+on guidelines for the application of Regulation (Euratom) No 302/2005 on the application of Euratom safeguards 
+(notified under document number C(2005) 5127) 
+(2006/40/Euratom) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to Commission Regulation (Euratom) No 302/2005 of 8 February 2005 on the application of Euratom safeguards [1], and in particular Article 37 thereof, 
+Whereas: 
+(1) Regulation (Euratom) No 302/2005 defines the nature and extent of the requirements referred to in Articles 77, 78, 79 and 81 of the Treaty establishing the European Atomic Energy Community. 
+(2) According to the Council/Commission statement annexed to that Regulation, guidelines should be adopted and published by the Commission, providing for non-binding orientations and guidance to operators, so as to facilitate the application of Regulation (Euratom) No 302/2005. 
+(3) Those guidelines should register the explanations offered and the understandings reached during bilateral discussions between the Commission and various stakeholders. They should not create any legal rights or obligations. 
+(4) On the basis of the developments in the field of safeguards, the Commission should be given the possibility to modify, as appropriate, this recommendation after having consulted the interested parties and the Member States, 
+HEREBY RECOMMENDS: 
+Τhe guidelines set up in the Annex should be followed when applying Regulation (Euratom) No 302/2005. It is understood that, by following the guidelines, the persons, undertakings and Member States referred to in Article 3(1) and (2) to that Regulation are in compliance with its provisions addressed by these guidelines. 
+Done at Brussels, 15 December 2005. 
+For the Commission 
+Andris Piebalgs 
+Member of the Commission 
+[1] OJ L 54, 28.2.2005, p. 1. 
+-------------------------------------------------- 
+TABLE OF CONTENTS 
+Commission Recommendation 2006/40/Euratom on guidelines for the application of Regulation (Euratom) No 302/2005 on the application of Euratom safeguards 
+ANNEX 
+1. Structure of this document 
+2. Guidelines per part of the Regulation 
+2.1. Chapter I — Scope and definitions (Articles 1 and 2) 
+2.2. Chapter II — BTCs and PSPs (Articles 2 to 6) 
+2.2.1. BTCs (Basic technical characteristics) (Article 3.1) 
+2.2.2. The site declaration (Article 3.2 and 3.3) 
+2.2.3. Electronic transmission 
+2.2.4. Time limits (Article 4) 
+2.2.5. Programme of activities (Article 5 and Annex XI) 
+2.2.6. Particular safeguard provisions (Article 6) (PSPs) 
+2.3. Chapter III — Nuclear, material accountancy 
+2.3.1. Accounting system (Article 7) 
+2.3.2. Operating records (Article 8) 
+2.3.3. Accounting records and reports (Articles 9 and 10) 
+2.3.4. Inventory change report (ICR), material balance report (MBR), physical inventory listing (PIL) (Articles 12 and 13) 
+2.3.5. Annexes III, IV, V 
+2.3.6. Particular safeguard obligations and categories of nuclear material (Article 17) 
+2.3.7. Derogations 
+2.4. Chapter IV — Transfers between States (Articles 20 to 23) 
+2.5. Chapter V — Specific provisions (Articles 24 to 33) 
+2.5.1. Transmission of information and data to IAEA (Article 29) 
+2.5.2. Provision for nuclear material contained in waste (Articles 30 to 32, and Annexes XII to XV) 
+2.6. Chapter VII — Final provisions (Articles 35 to 40) 
+3. Summary of reporting obligations (who, when, what) 
+4. Appendices 
+4.1. The XML schema 
+4.2. The CRC algorithm 
+4.3. List of Internet addresses 
+ANNEX 
+1. STRUCTURE OF THIS DOCUMENT 
+The guidelines are presented for each chapter of the Regulation, and are further broken down into articles and related annexes where needed. 
+Given that most potential users of this document (i.e. the accountants of the nuclear installations) are already familiar with nuclear material accountancy and reporting under Commission Regulation (Euratom) No 3227/76 [1], it was not deemed necessary to cover articles for which no changes are introduced by the Regulation. 
+On the contrary, for those parts of the Regulation where substantial innovations have been introduced, the guidelines analyse and explain in detail what is expected, and go further in providing examples of reporting. 
+These detailed explanations and examples will also be of value to the operators of nuclear installations in countries acceding to the European Union. 
+For some of the explanations, links to Internet addresses are given. These allow the users to get further information on the subject. 
+The guidelines cannot address all possible issues relating to the application of the new Regulation, and there will very likely be specific questions, which would require further, more detailed discussions between the Commission and the operators concerned. 
+2. GUIDELINES PER PART OF THE REGULATION 
+2.1. Chapter I — Scope and definitions (Articles 1 and 2) 
+Article 1 excludes from this Regulation the final holders of end products used for non-nuclear purposes, which incorporate nuclear materials and which are in a practically irrecoverable form. 
+Examples of end products are: decorative glaze in ceramics, colouring in glass, coating of filaments for fluorescent lamps, pigments for paints, gas mantles, etc. 
+All other holders of nuclear material shall report under this Regulation. 
+The definitions of Article 2 will be dealt with, if necessary, at the appropriate parts of these guidelines. 
+2.2. Chapter II — BTCs and PSPs (Articles 2 to 6) 
+2.2.1. BTCs (Basic technical characteristics) (Article 3.1) 
+BTCs of existing installations: basically no change to BTCs submitted under Regulation (Euratom) No 3227/76, except declaration of use, to be done by letter within 120 days of entry into force. 
+BTCs of installations should reflect the actual status of an installation. They should thus be updated when necessary. 
+Installations may use the opportunity of the new Regulation's entry into force to update or adjust their BTCs. Small adjustments can be communicated to the Commission by letter, giving a clear reference to the version of the BTCs that is updated. 
+It is reminded that the Euratom safeguards system recognises the following statuses for an installation, with the corresponding definition: 
+- an active installation: an installation where nuclear material is present and operations are ongoing. This category also includes those installations that are under construction and those that already have an MBA code but have not received any nuclear material, 
+- a shutdown installation: an installation where operations have been stopped, but where nuclear material remains at the installation. Shutdown installations are a subset of the active ones. Shutdown installations have the same set of reporting obligations as active installations, 
+- a closed-down installation: an installation where operations have stopped, the nuclear material has been removed, the empty state of the installation has been verified by inspections, but has not been decommissioned, 
+- a decommissioned installation: an installation at which residual structures and equipment essential for its operations have been removed or rendered inoperable so that it is not used to store, and can no longer be used to handle, process or utilise nuclear material, 
+- individual cases, which cannot easily be categorised, will get a preliminary status indicator "S" until solutions have been worked out. 
+Please note that when an installation receives the status "closed down", no more accountancy reports are required under this Regulation. Submission of Annex II may have to continue because a closed-down installation is still part of a site until its decommissioned status has been confirmed. The above is normally stated in a letter to be sent by the Commission to the operator concerned. 
+BTCs for waste treatment or storage installations (see part 2.5.1 on waste). 
+2.2.2. The site declaration (Article 3.2 and 3.3) 
+2.2.2.1. Site representative 
+The state designates the "site representative" and informs the Commission of the names of the "site representatives" of all sites within 30 days after the entry into force of the additional protocol. 
+The "site representative" is the "link" between the operator(s) of the installation(s) constituting the site and the Commission for the transmission of site information. 
+Role of the site representative for Annex II is the following [2]: 
+- collection of information for all buildings on the site, 
+- transmission of the site declaration to DG TREN, 
+- contact point for DG TREN in case of questions. 
+2.2.2.2. Format of site declaration 
+It is recommended to provide the site declaration in electronic form using the CAPE software. Details of using the CAPE software are given in the CAPE "Help file". The CAPE software is available through the Commission. 
+2.2.2.3. Content of site declaration under Annex II 
+The site plays a central role in the expanded declaration under the additional protocol, as it requires the provision of information far beyond the information given in the BTC. The site boundary definition in turn has a direct influence on the Agency's far-reaching complementary access rights, which allow access to every building on a site and in principle every location inside a building with often very short notice of only two hours (only in combination with a routine safeguards inspection at the site). This puts new obligations on building owners. 
+Sites have, therefore, to be designed carefully. They should be large enough to allow the IAEA to draw the conclusions of the absence of undeclared nuclear material or activities. But in line with the spirit of the additional protocol, there is no reason to include in the site buildings, which do not contribute to the nuclear mission of the site. 
+What constitutes a site? 
+The core of a site is always an installation. Several installations can share one site, but a site cannot exist without an installation. 
+Co-located buildings 
+1. A pragmatic and reasonable approach for the interpretation of "co-located … for the provision of essential services" could be to include within the site boundary the buildings in the neighbourhood of a nuclear installation, which are functionally related to the nuclear mission of this site. As a consequence "essential services" can be understood as hot cells, waste treatment, storage and disposal installations, buildings engaged in Annex I of the additional protocol activities, that are needed for the nuclear mission of the site. These are buildings, which in principle could cover up clandestine activities. 
+2. Other services such as utility services, engineering and scientific support services, computer services as well as some administrative and personnel-related services, like training, should be looked at on a case by case basis. They should be included if they exclusively serve the nuclear core on the site. 
+3. The ownership would not be a criterion for exclusion or inclusion of buildings housing essential services. Therefore different operators, owners, companies may exist on one site. The "site representative" would be responsible for the collection of the descriptions of the different buildings and their transmission to DG TREN. 
+4. The question what is meant by a "building" should be answered pragmatically. A "one-word" description (e.g. "parking shelter") could be sufficient. Underground buildings, should be declared like all other buildings indicating the surface, number of floors etc. 
+Site boundary 
+1. It may not always be obvious to understand why a certain building is not included in the formal site boundary when it is located in the vicinity of an installation. It may therefore be good practice to supplement the declaration with supporting documentation explaining the functions of those buildings and the reasons why they should not be included in the formal site definition as is foreseen in the IAEA "Guidelines" [3] for reporting under II.12. 
+2. Even if it is desirable that a site consists of one coherent area, the functional relationship between the buildings may require that a site consists of two separate areas. In this case it would be good practice to supplement such a declaration by a document detailing the function of the buildings between the separate areas and explaining the reasons why those buildings in the vicinity of a facility are not included in the site. 
+3. Buildings declared in the BTC as part of an MBA, i.e. which house or housed a key measurement point, even if they no longer contain nuclear material, are understood to be automatically part of the site. In particular research centres have often kept at least one such MBA, which contains or is licensed to contain small quantities of nuclear materials spread over the centre. Concentrating these materials in one place and modifying the BTC accordingly may simplify the site definition significantly. An inconsistency between the site declaration and the BTC would automatically trigger at least requests for clarification and amplification. 
+4. Although the site declaration in line with Annex II to Regulation (Euratom) No 302/2005 [4] requests the description of every building on a site, the guidelines for reporting (see footnote) allow a site to consist of a single room. It is recommended that sites for installations with fuel cycle related activities should not be smaller than a single building, whereas sites for non-nuclear LOFs [5] may be smaller than a single building. 
+5. It should be underlined that the existence of a fence does not automatically determine the site boundary. 
+2.2.2.4. Closed-down and decommissioned installations 
+1. It follows from the definition of the site as given in Article 2(21) that a closed-down installation constitutes a site as long as it is not decommissioned. 
+2. Once an installation is confirmed to be decommissioned [6], it ceases to be the core of a site. 
+3. A closed-down installation which used to have an inventory of less than 1 effective kilogram of nuclear material (LOFs) only constitutes a site if it contains a hot cell or if it was involved in activities related to conversion, enrichment, fuel fabrication or reprocessing. 
+4. A closed down non-nuclear LOF (NN-LOF) does not therefore constitute a site in itself. It is however not excluded that it may be part of a site that is formed around another installation. A closed-down NN-LOF can be regarded as decommissioned, if it does not include a hot cell. 
+2.2.2.5. Active installations with less than 1 effective kg (LOF). 
+Introduction 
+Depending on the use of the nuclear material, LOFs are divided into two categories: nuclear LOFs and non-nuclear LOFs. Nuclear material in non-nuclear LOFs (NN-LOFs) is used for purposes, which are not nuclear fuel cycle related. 
+In the EU a virtual NN-LOF exists: the catch-all-MBA (CAM) which includes a large number of holders, each holding very small quantities of nuclear material. 
+Relevance of "Exemption" status under the additional protocol 
+1. For material held by an MBA to which a derogation has been granted under Regulation (Euratom) No 302/2005, exemption under the Safeguards Agreement with the IAEA will be requested. 
+2. Installations holding only nuclear material, which has been exempted under the Safeguards Agreement, would no longer constitute the core of a site. No reporting would thus be necessary under Annex II to Regulation (Euratom) No 302/2005. 
+2.2.2.6. Summary 
+Conditions for no ANNEX II reporting: 
+- installations holding only exempted material, 
+- decommissioned installations, 
+- closed-down NN-LOFs without hot cell. 
+2.2.3. Electronic transmission 
+Further to the requirement for electronic transmission of the BTCs and site declarations, the current practice of keeping under safeguards seal at the installation, information relating to the installation design recognised as being of particular sensitivity, will continue. Means of electronic transmission include e-mail, diskette or a safe network. 
+2.2.4. Time limits (Article 4) 
+A summary of the reporting obligations and their time limits is provided in the table "Time limits Who, When, What" (Chapter 3) 
+Please note that under specific circumstances, the operator may ask the Commission for an extension of the time limit for submitting the BTCs. The Commission will investigate the circumstances and will communicate its decision to the operator concerned. 
+2.2.5. Programme of activities (Article 5 and Annex XI) 
+The same degree of detail and specificity is demanded, as it is currently the practice with Regulation (Euratom) No 3227/76. If during the year there are changes in the programme of activities worth mentioning (e.g. Reactor outage for longer period, no further receipts of material, change in the PIT date), a simple letter to the Commission with a clear reference to the activity programme would suffice. 
+2.2.6. Particular safeguard provisions (Article 6) (PSPs) 
+It is noted that PSPs adopted under Regulation (Euratom) No 3227/76 remain in force as they are. 
+The changes introduced by Regulation (Euratom) No 302/2005 will be implemented in the existing PSPs by a global Commission decision, taken under the new Regulation, listing in its Annex, all the amendments to be made to each and every existing PSP, one by one. The principle of consultation of Member States and operators (as provided for in Article 6.1) will be observed by circulating the relevant parts of the global decision in draft form before adoption and in final form after adoption to the operator and Member State concerned. If need be, direct contact and/or meetings with the party concerned will be undertaken. 
+If no PSPs have been adopted, the general provisions of Regulation (Euratom) No 302/2005 are applicable. Provisions specified in the PSPs take precedence over requirements of Regulation (Euratom) No 302/2005. 
+2.3. Chapter III — Nuclear material accountancy 
+2.3.1. Accounting system (Article 7) 
+The system of accounting and operating records to be maintained by the operators under this Regulation is the same as was foreseen in Regulation (Euratom) No 3227/76. 
+2.3.2. Operating records (Article 8) 
+No change to the current practice concerning operating records is envisaged. Examples of operating records: 
+- results of measurements, 
+- results of analyses, 
+- results of evaluation, 
+- tank calibration curves, 
+- internal transfers, 
+- burn up calculation, 
+- power history, 
+- packing sheets, 
+- delivery order. 
+All above records should be kept for a period of five years or longer if so specified in the PSPs. 
+Concerning the quality of the measurements on which the records are based, reference is made to the International Target Values (ITVs) issued under the auspices of the IAEA (document STR-327 of April 2001) with the participation of Euratom and Esarda. The ITVs are intended to be used by plant operators as a reference of the quality of measurements achievable in nuclear material accountancy. 
+Older plants are also expected to comply with the ITVs. 
+Under Article 8(b), it is expected that the installations keep a list of inventory items, updated to the best extent possible, and know where these items are. On the basis of this list the book inventory could be determined at any time. 
+It is understood that, while for item installations (e.g. reactors or storage plants) this list represents the actual physical reality, for the processing areas of bulk handling facilities, this list will be based on the values of the items fed into the process, or on the results of preliminary analyses or measurements. This list will be consolidated and will be made available for the physical inventory verification. 
+2.3.3. Accounting records and reports (Articles 9 and 10) 
+- In accordance with the description of the accountancy system detailed in the BTCs, the accounting records have to contain all inventory changes, the appropriate dates, the precise quantities accounted for internally by the operator, as well as the category, obligation and type of inventory changes to enable the book inventory of the operator to be established at any time. 
+- If the inventory is static or undergoes less than 10 variations per year, operators may apply for derogation from electronic transmission of their reports. 
+- If the additional information requested by the Commission (Article 10) requires complex queries, a preliminary answer should be sent within three weeks. 
+2.3.4. Inventory change report (ICR), material balance report (MBR), physical inventory listing (PIL) (Article 12 and 13) 
+In these articles, days mean calendar days. 
+- The frequency of transmission of the ICR to the Commission, specified in the PSPs of an installation, may be different from the monthly frequency stipulated in this article. For example, for installations with no, or a limited number of inventory changes, the frequency may be changed to quarterly or yearly. 
+- The transmission rules of ICRs linked to PIL and MBR under Regulation (Euratom) No 302/2005 have been amended to resolve discrepancies with the IAEA. Indeed, there are cases where PIL and MBR reports are sent to Euratom (and subsequently forwarded to Vienna), without the corresponding ICR. 
+Thus the material balance period remains open until the ICR arrives. This situation results in error warnings from the IAEA side, which are normally resolved with the arrival of the ICR. 
+To eliminate this inconsistency, two ICRs are required when the PIT date is not the last day of a month: 
+- the first one from the first day of the month until the PIT date, 
+- the second one from the PIT date + 1 day until the end of the month. 
+The deadlines for transmission for these two ICRs are: 
+- the deadline for the transmission of the second ICR is that specified in Article 12(1) (within 15 days of the end of the month in which the inventory changes occur). 
+- the deadline for the transmission of the first ICR depends of the PIT date: 
+- If the PIT date is between the first and the 15th of the month, the PIL and MBR reports have to be transmitted to the Commission at the latest 30 days after the PIT date. That means that those reports always arrive at the Commission before the second ICR. In this case, the first ICR shall be sent together with the MBR and PIL reports to avoid unbalanced accounts. 
+- If the PIT date is between the 16th and the 31st of the month, according to the deadline for the PIL and MBR reports transmission, they can arrive at the Commission either before the second ICR (and the scheme described above is applied), or after the second ICR. In the latter case, the first ICR shall be sent together with the second ICR to guarantee that the second ICR will not arrive before the first one, and avoid inconsistencies in the material balances. 
+If laid down in the particular safeguard provisions for the installation small inventory changes may be grouped together. Inventory Change Reports may be accompanied by comments explaining the inventory changes. 
+For example: an operator takes daily a sample of a few grams of nuclear material for routine analysis from MBA1 and sends it to his laboratory situated in MBA2 in the same installation. 
+Instead of reporting 30 shipments of one item from MBA1 to MBA2 he could report at the end of the month one shipment of 30 items with an explanation in the comment field a "monthly sum of transfers for routine analysis". 
+- Concerning field number 40 of the ICR, "Comments", it may be used to communicate to the Commission additional information or explanations related to the inventory change. This field replaces the field "Concise note" of Regulation (Euratom) No 3227/76. 
+2.3.5. Annexes III, IV, V 
+Arrangements for electronic data transmission and any changes to these arrangements shall be agreed between the Commission and the person, undertaking or entity concerned. These arrangements shall be in accordance with Member State security requirements for the transmission of such information and shall provide for appropriate notification and/or transmission of the information to the authorities of the Member State concerned. 
+2.3.5.1. The following applies to all three "reporting" Annexes III, IV and V 
+Labelled format 
+Regulation (Euratom) No 302/2005 introduces the electronic reporting in a worldwide accepted "labelled" format. The Commission expects that operators use, if possible, the XML format. 
+Accounting reports submitted by the operator in XML will have to use the XML schema in Appendix 1 that can be downloaded as well at the following internet address: 
+http://forum.europa.eu.int 
+More information about XML can be found at the following Internet address: http://www.xml.org 
+Accountancy reports file naming convention 
+Each report is uniquely identified by the information contained in its header. All the reports of the same MBA or installation may be submitted in a single file. The order of the reports within the file can be random. The file must be named as follows: 
+XXXXMMYYYY-TC 
+XXXX: installation code, group code or any other code assigned by Euratom; 
+MM: accounting month reference; 
+YYYY: accounting year reference; 
+T: report type ("X" if there are different report types); 
+C: sequence number of the file when more than one report file per month is sent regardless of the number and type of reports in it (e.g. I1 %amp% I2 for two inventory change reports for the same month, P1, P2, P3 for three PILs for the same month and M1, M2 for two MBRs). 
+Examples: 
+(1) MBA XYWZ filename with the 2006 February's ICR 
+Filename: XYWZ022006-I1 
+(2) MBA XYWZ having a PIT the last day of February 2006 reporting in a single file ICR, PIL and MBR 
+Filename: XYWZ022006-X1 
+(3) MBA XYWZ having a PIT in the middle of February 2006 reporting in a first file the ICR from the first day of the month until the PIT date, PIL and MBR and afterwards in a second file the ICR from the PIT date until the end of February 
+First file's filename: XYWZ022006-X1 
+Second file's filename: XYWZ022006-I2 
+(4) Installation IXYZ first reporting in a first file February's ICRs for two of its MBAs and then in a second file February's ICRs for the other three of its MBAs 
+First file's filename: IXYZ022006-I1 
+Second file's filename: IXYZ022006-I2 
+Transmission of accountancy reports files 
+The accountancy reporting file(s) can be sent to Euratom by standard mail or by electronic means. 
+As foreseen in Article 35, an agreement must be reached about the mechanism to grant the security of the information transmission via an encryption and electronic signature of the accountancy reports. 
+If sent by standard mail the accountancy reporting file(s) have to be sent to the following address: 
+European Commission 
+Euratom Safeguards 
+L-2920 Luxembourg 
+Electronic transmission of accountancy reports files 
+In case of electronic transmission of the accountancy reports, they should be sent by e-mail to the following address: 
+Safeguards-reporting@cec.eu.int 
+The subject of the e-mail providing accountancy reports must have the following structure: 
+MBA:%lt%XXXX%gt%#Period:%lt%MMYYYY%gt%#Nfiles:%lt%N%gt% 
+XXXX: installation code, group code or any other code assigned by Euratom; 
+MM: accounting month reference; 
+YYYY: accounting year reference; 
+N: Number of accountancy reporting files attached to the message 
+Examples: 
+(5) MBA XYWZ e-mail subject for the dispatch of the 2006 February's ICR 
+Subject: MBA: XYWZ#Period: 022006#Nfiles: 1 
+(6) MBA XYWZ having a PIT the last day of February 2006 for the dispatch of a single file with ICR, PIL and MBR 
+Subject: MBA: XYWZ#Period: 022006#Nfiles: 1 
+(7) MBA XYWZ having a PIT in the middle of February 2006 for a first dispatch of a single file with the ICR from the first day of the month until the PIT date, PIL and MBR and afterwards a second dispatch of the file with the ICR from the PIT date until the end of February 
+First subject: MBA: XYWZ#Period: 022006#Nfiles: 1 
+Second subject: MBA: XYWZ#Period: 022006#Nfiles: 1 
+(8) Installation IXYZ dispatching together a first file with February's ICRs for two of its MBAs and a second file with February's ICRs for other three of its MBAs 
+Subject: MBA: XYWZ#Period: 022006#Nfiles: 2 
+The sender will receive automatic acknowledgement of the receipt from the Euratom reporting mailbox. 
+Report and line numbering 
+All the reports will be numbered sequentially (no gaps) per MBA regardless of the type of report. Each line will have its own unique sequential number (no gaps) starting from one in each report. 
+Example: MBA XYWZ reporting the February's ICR, and having a PIT at the 14 of March 
+- February's ICR will have report number X (i.e.: 25) 
+- March's ICR from the first day until the PIT date, report number X+1 (i.e.: 26) 
+- PIL, report number X+2 (i.e.: 27) 
+- MBR, report number X+3 (i.e.: 28) 
+- March's ICRs, from the day after the PIT until the end of month, X+4 (i.e.: 29) 
+Correction mechanism 
+Corrections of type "D" and "A" will be reported by reference to the line to be corrected, identified using the previous report and previous line, and the previous CRC (cycling redundancy check digit) fields for data integrity check. 
+Sign and decimal notation convention 
+The sign in the weights/items fields must precede the figures. 
+The decimal point will conventionally be the dot ".". 
+Data integrity check fields 
+The fields, line count and CRC have been introduced to ensure the data integrity of the data reported electronically. 
+A cycling redundancy check digit (CRC) must be provided for each line. It is a checksum calculated on a set of data based on a cyclic redundancy check as described in ISO 3309. The resulting checksum is four (4) octets long and is a digital signature that represents the data on which the checksum is performed. For each line of a report, the CRC is calculated on the string resulting from the joining of all values of all fields in the line, included the ones belonging to the header of the report (report number, line count, etc.) taken in the tag field number order. Of course the CRC field itself will not be taken into account for the computation. 
+For each field taken into account, the value is considered as a string. For example report number (RepNbr) is a number that will be taken as a string. 
+For the date field, the format to be used for the CRC calculation is "ddmmyyyy". 
+The CRC associated to a reported line will allow verifying if the record is transmitted without any alteration of the information. 
+A sample code in the computer language "C" of the CRC algorithm calculation can be found in Appendix 2 and at the following Internet address: 
+http://forum.europa.eu.int 
+Example: 
+The CRC of the following line: 
+Label/tag | Value | 
+MBA | MB11 | 
+Report type | I | 
+Report date | 08102006 | 
+Report number | 6 | 
+Line count | 4 | 
+Start report | 01092006 | 
+End report | 30092006 | 
+Reporting person | bouchre | 
+Transaction ID | 8900 | 
+IC code | SD | 
+Batch | 3698 | 
+KMP | 1 | 
+Measurement | E | 
+Material form | OR | 
+Material container | C | 
+Material state | F | 
+MBA to | MB12 | 
+Line number | 1 | 
+Accounting date | 08092006 | 
+Items | – 1 | 
+Element category | D | 
+Element weight | – 100.23 | 
+Isotope | G | 
+Fissile weight | – 69.23 | 
+Obligation | A | 
+Advance notification | 5694 | 
+Will be calculated on the string 
+MB11I08102006640109200630092006bouchre8900SD36981EORCFMB12108092006-1D-100.23G-69.23A5694 
+Giving the following CRC value as the result: 716598390 
+Data field changes compared to Regulation (Euratom) No 3227/76 
+Regulation (Euratom) No 302/2005 introduces many changes in the number, type, length and content of the data reported. A detailed analysis of them per reporting annex is given below. 
+Entries in a time-frame of Regulation (Euratom) No 3227/76 declarations 
+It may happen that corrections to lines originally declared using Regulation (Euratom) No 3227/76 need to be reported. In this case: 
+- deletion lines can be reported using Regulation (Euratom) No 302/2005 format using correction code = "D", no value in the previous report, previous line and previous CRC fields, and having all the other fields filled in accordingly (see examples 1 and 2 on page 27), 
+- addition lines can be reported using Regulation (Euratom) No 302/2005 format using correction code = "A" and no value in the previous report, previous line and previous CRC fields, 
+new lines with original date in the time-frame of Regulation (Euratom) No 3227/76 declarations, can be reported using Regulation (Euratom) No 302/2005 format with correction code = "L". 
+Please note that once a line has been declared using Regulation (Euratom) No 302/2005 format (even if it refers to a period when reports were provided using Regulation (Euratom) No 3227/76 format) it can be deleted using the correction mechanism foreseen in this Regulation. 
+Deletions of isotopic or concise note lines declared using Regulation (Euratom) No 3227/76 cannot be done using Regulation (Euratom) No 302/2005 format. 
+Helpdesk 
+A helpdesk able to answer accounting and specific technical reporting issues will be available at the following e-mail address: 
+safeguards-new-regulation@cec.eu.int 
+A FAQ web site will also be developed and become available under: 
+http://forum.europa.eu.int 
+2.3.5.2. Annex III — ICR 
+Main differences from Regulation (Euratom) No 3227/76 
+ICR at PIL date 
+Attention is drawn to the concept of transmitting two separate inventory change reports — one ICR up to the PIT date — for months in which a physical inventory is taken, and the physical inventory taking date is not the last date of the month. Further details are provided under 2.3.4. in these guidelines. 
+Example: 
+Assuming that the PIT has taken place on the 12th of February, then the nuclear operator has to provide to the Commission: 
+- an ICR containing all inventory changes from the first day of February until the 12th of February, 
+- a PIL and an MBR (as usual), 
+- an ICR containing all inventory changes from the 13th of February until the end of February. 
+MF 
+The operator must declare a MUF using the IC code MF in the ICR following the PIT and make a reference to the PIT period using the PIT date field. 
+BA per obligation 
+The BA at the end of the ICR must be declared by category, and obligation. Agreed arrangements for pool accountancy (as normally set out in correspondence and referenced in the relevant PSPs) are however unaffected by this provision. The requirement to report the ending book inventory by obligation does not change the batch follow-up procedures already applied (e.g. in item facilities). 
+BA versus NC 
+If no inventory changes have occurred during a reporting period the MBA must declare the BA of the last period, instead of "no change" (NC) under Regulation (Euratom) No 3227/76. 
+ICR data fields changes 
+The tables below show the labels to be used in ICRs, the circumstances in which they should be used and whether their use is mandatory or optional. 
+The additional fields of Regulation (Euratom) No 302/2005 can be classified into three categories: 
+(1) the additional information fields that are provided to solve problems when using Regulation (Euratom) No 3227/76, such as: 
+- impossibility to identify the MUF and link it to its PIL, 
+- declaration of the burn-up for reactors, 
+- link the advance notification to the corresponding ICR declaration, 
+- unambiguous identification of CAM holder; multiple use of the same fields leading to confusion on both sides; 
+(2) the new numbering/correction handling fields that are only there to allow for an unambiguous link of correction lines to the line to be corrected; 
+(3) the quality control fields will result in a better quality of the data. 
+Label/tag | Change description | 
+Report date | New | 
+Report number | New | 
+Line count | New | 
+Transaction ID | New | 
+Batch | Size extended (from 8 to 20 chars) | 
+Material form | Initial 2 chars of the Regulation (Euratom) No 3227/76 material description field | 
+Material container | Third char of the Regulation (Euratom) No 3227/76 material description field | 
+Material state | Last char of the Regulation (Euratom) No 3227/76 material description field | 
+MBA from | Regulation (Euratom) No 3227/76 corresponding MBA in case of receipt | 
+MBA to | Commission Regulation (Euratom) No 3227/76 corresponding MBA in case of shipment | 
+Previous batch | Commission Regulation (Euratom) No 3227/76 corresponding information in case of re-batching operation | 
+Previous category | Regulation (Euratom) No 3227/76 corresponding information in case of category change operation | 
+Previous obligation | Regulation (Euratom) No 3227/76 corresponding information in case of obligation change | 
+PIT date | New, to be used with IC Code MF | 
+Line number | New | 
+Element weight | Size extended (from 9 to 24.3) | 
+Fissile weight | Size extended (from 9 to 24.3) | 
+Isotopic composition | New, it replaces the Regulation (Euratom) No 3227/76 isotopic data — Entry I | 
+Obligation | Size extended (from 1 to 2 chars) | 
+CAM code from | Regulation (Euratom) No 3227/76 Corresponding MBA in case of receipt from a CAM member | 
+CAM code to | Regulation (Euratom) No 3227/76 Corresponding MBA in case of shipment to a CAM member | 
+Document | New | 
+Container ID | New | 
+Previous report | New | 
+Previous line | New | 
+Comment | New, it replaces the Regulation (Euratom) No 3227/76 concise note entry line | 
+Burn-up | New | 
+CRC | New | 
+Previous CRC | New | 
+Advance notification | New | 
+Campaign | New | 
+Reactor | New | 
+Error path | New | 
+Use | Regulation (Euratom) No 3227/76 field removed and replaced by information in the BTC | 
+Entry | Regulation (Euratom) No 3227/76 field removed | 
+Unit | Regulation (Euratom) No 3227/76 field removed because of the convention of reporting all weights in grams | 
+Concise note (Entry "N") | Regulation (Euratom) No 3227/76 entry line replaced by the Comment field | 
+Isotopic (Entry "I") | Regulation (Euratom) No 3227/76 entry line replaced by the Isotopic Composition field and reported in grams instead of using a percentage | 
+ICR data content changes 
+New IC codes have been introduced in order to make clearer the physical operation related to the accounting record. 
+The introduction of new codes will enable the identification at headquarters of the physical operation which generated the declaration, to analyse and evaluate more easily, by means of computer, the various inventory changes which were declared previously under only one code (e.g. CE, CB and CC instead of CC only for category change). 
+Label/tag | Change description | 
+IC code | NewTC, TE, FC, GA, CE, CB, BR, PR, SR, NP, NL, BJ, R5, TU, MFRemovedLD, WD, EU, DU, CU (declared through a BTC update), NT (split into NP and NL), NC (replaced by reporting the ending book inventory of the previous month with IC Code BA) | 
+Material form | New U2, U3, U8, T2, NV, NG, NB, NC, NO | 
+Material state | RemovedR | 
+Correction | NewL | 
+ICR Labels 
+The tables below show the labels to be used in ICRs, the circumstances in which they should be used and whether their use is mandatory or optional. 
+The labels at report level are all mandatory. They must occur only once per report at the report header. 
+Field number | Label/tag | 
+1 | MBA | 
+2 | Report type | 
+3 | Report date | 
+4 | Report number | 
+5 | Line count | 
+6 | Start report | 
+7 | End report | 
+8 | Reporting person | 
+Labels at line level 
+Field number | Label/tag | Circumstances | New entry | Depending on Correction | 
+"L" | "A" | "D" | 
+9 | Transaction ID | | M | M | M | M | 
+10 | IC code | | M | M | M | O | 
+11 | Batch | All IC Codes except (BJ, BA, MF) | M | M | M | O | 
+12 | KMP | All IC Codes except (BJ, BA, MF) | M | M | M | O | 
+13 | Measurement | All IC Codes except (BJ, BA, MF) | M | M | M | O | 
+14 | Material form | All IC Codes except (BJ, BA, MF) | M | M | M | O | 
+15 | Material container | All IC Codes except (BJ, BA, MF) | M | M | M | O | 
+16 | Material state | All IC Codes except (BJ, BA, MF) | M | M | M | O | 
+17 | MBA from | Only for IC Codes (RD, RF) | M | M | M | O | 
+18 | MBA to | Only for IC Codes (SD, SF) | M | M | M | O | 
+19 | Previous batch | IC CODE = RB | M | M | M | O | 
+20 | Original date | All IC Codes except (BJ, BA, MF) | | M | M | O | 
+21 | PIT Date | IC CODE = MF | M | M | M | O | 
+22 | Line number | | M | M | M | M | 
+23 | Accounting date | | M | M | M | M | 
+24 | Items | All IC Codes except (BJ, BA, MF) | M | M | M | O | 
+25 | Element category | | M | M | M | O | 
+26 | Element weight | | M | M | M | O | 
+27 | Isotope | If Element category is H, L or according to the PSP | M | M | M | O | 
+28 | Fissile weight | If Isotope is provided | M | M | M | O | 
+29 | Isotopic composition | If specified in the PSPs | M | M | M | O | 
+30 | Obligation | | M | M | M | O | 
+31 | Previous category | Only for IC Codes (CE, CC, CB) | M | M | M | O | 
+32 | Previous obligation | Only for IC Codes (BR, PR, SR, CR) | M | M | M | O | 
+33 | CAM code from | Only for IC Codes (SD, RD, SF, RF) and sender is a CAM member | M | M | M | O | 
+34 | CAM code to | Only for IC Codes (SD, RD, SF, RF) and receiver is a CAM member | M | M | M | O | 
+35 | Document | | O | O | O | O | 
+36 | Container | | O | O | O | O | 
+37 | Correction | | | M | M | M | 
+38 | Previous report | | | M | M | M | 
+39 | Previous line | | | M | M | M | 
+40 | Comment | | O | O | O | O | 
+41 | Burn-up | If nuclear reactor and Only for IC Codes ("NL" or "NP") | M | M | M | O | 
+42 | CRC | | M | M | M | M | 
+43 | Previous CRC | | | | M | M | 
+44 | Advance notification | Transfer of material notified under Article 20 or Article 21 | M | M | M | O | 
+45 | Campaign | Spent fuel reprocessing installation | M | M | M | O | 
+46 | Reactor | Spent fuel storage or reprocessing installation | M | M | M | O | 
+47 | Error path | | O | O | O | O | 
+M = Mandatory, O = Optional, Empty = Not requested 
+IC Codes and implicit double lines 
+Although the inventory change codes CE, CB, CC, RB, BR, PR, SR and CR need a double accountancy line, the Regulation requires one line only. The second line will be generated automatically in the database, based on the data provided in the reported line. 
+IC Codes and sign convention 
+The element and isotope weights reported by the operator will by convention be taken as positive or negative contributions to the nuclear materials stocks depending on the IC Code declared. Unless the IC Code allows both signs and, regardless of the sign declared by the operator, the weights will be considered as reported in the table below: 
+IC code | Sign | 
+RD | Positive | 
+RF | Positive | 
+RN | Positive | 
+SD | Negative | 
+SF | Negative | 
+SN | Negative | 
+TC | Negative | 
+TE | Negative | 
+TW | Negative | 
+FC | Positive | 
+FW | Positive | 
+LA | Negative | 
+GA | Positive | 
+CE | Positive | 
+CB | Positive | 
+CC | Positive | 
+RB | Positive | 
+BR | Positive | 
+PR | Positive | 
+SR | Positive | 
+CR | Positive | 
+NP | As declared | 
+NL | As declared | 
+DI | As declared | 
+NM | As declared | 
+BJ | As declared | 
+MF | As declared | 
+RA | As declared | 
+R5 | As declared | 
+MP | Positive | 
+TU | Negative | 
+BA | As declared (negative flags error) | 
+Fields to report in order to delete a Regulation (Euratom) No 3227/76 entry 
+The table below shows the mandatory labels at line level to be used to delete a Regulation (Euratom) No 3227/76 ICR entry and the circumstances in which they should be used 
+Field number | Label/tag | Circumstances | 
+10 | IC code | | 
+11 | Batch | | 
+12 | KMP | | 
+13 | Measurement | | 
+14 | Material form | | 
+15 | Material container | | 
+16 | Material state | | 
+17 | MBA from | Only for IC Codes (RD, RF) | 
+18 | MBA to | Only for IC Codes (SD, SF) | 
+19 | Previous Batch | IC CODE = RB | 
+20 | Original date | | 
+22 | Line number | | 
+23 | Accounting date | | 
+24 | Items | | 
+25 | Element category | | 
+26 | Element weight | | 
+27 | Isotope | | 
+28 | Fissile weight | | 
+30 | Obligation | | 
+31 | Previous category | IC CODE = CC | 
+32 | Previous obligation | IC CODE = CR | 
+37 | Correction | | 
+42 | CRC | | 
+With the exception of the element and fissile weights, the content of the fields must match those of the original line. 
+Examples: Correction under Regulation (Euratom) No 302/2005 of lines declared under Regulation (Euratom) No 3227/76. 
+Example 1: 
+Correction of element weight from 3181,792 to 3205,768 k and correction of obligation from P to S using the D/A procedure 
+MBA | Date | KMP | Measurement | Type of inventory change | Corresponding MBA | Batch | Number items | Mat. Desc. Code | Element | Element Weight | Unit | Isotope | Fissile weight | Unit | Obligation | Use | Cor. Info | Correction | Original date | 
+MBA1 | 12/11/2003 | 3 | F | SD | MBA2 | 915 | 1 | LNOI | D | 3181.792 | K | | | | P | | | | | 
+Example 2: 
+Correction of a category change (N to D instead of N to L) using the D/A procedure 
+MBA | Date | KMP | Measurement | Type of inventory change | Corresponding MBA | Batch | Number items | Mat. Desc. Code | Element | Element Weight | Unit | Isotope | Fissile weight | Unit | Obligation | Use | Cor. Info | Correction | Original date | 
+MBA1 | 25/11/2003 | 2 | F | CC | | GO6N1 | 1 | U6CF | L | 3376422 | | G | 8568 | | A | | N | | | 
+Report header | | | | 
+MBA | MBA1 | | | | 
+Report type | I | | | | 
+Report date | 06012004 | | | | 
+Report number | 61 | | | | 
+Line count | 118 | | | | 
+Start report | 01122003 | | | | 
+End report | 31122003 | | | | 
+Reporting person | MPJ | | | | 
+(example 1 — Deletion) | | (example 1 — Addition) | 
+Transaction ID | (non-reported under Regulation (Euratom) No 3227/76) | | Transaction ID | 1 | 
+IC code | SD | | IC code | SD | 
+Batch | 915 | | Batch | 915 | 
+KMP | 3 | | KMP | 3 | 
+Measurement | F | | Measurement | F | 
+Material form | LN | | Material form | LN | 
+Material container | O | | Material container | O | 
+Material state | I | | Material state | I | 
+MBA from | | | MBA from | | 
+MBA to | MBA2 | | MBA to | MBA2 | 
+Previous batch | | | Previous batch | | 
+Original date | 12112003 | | Original date | 12112003 | 
+PIT date | | | PIT date | | 
+Line number | 1 | | Line number | 2 | 
+Accounting date | 10122003 | | Accounting date | 10122003 | 
+Items | 1 | | Items | 1 | 
+Element category | D | | Element category | D | 
+Element weight | 3181792 | | Element weight | 3205768 | 
+Isotope | | | Isotope | | 
+Fissile weight | | | Fissile weight | | 
+Isotopic Composition | | | Isotopic Composition | | 
+Obligation | P | | Obligation | S | 
+Previous category | | | Previous category | | 
+Previous obligation | | | Previous obligation | | 
+Correction | D | | Correction | A | 
+CRC | As calculated | | CRC | As calculated | 
+(example 2 — Deletion) | | (example 2 — Addition) | 
+Transaction ID | (non-reported under Regulation (Euratom) No 3227/76) | | Transaction ID | ZZZ | 
+IC code | CC | | IC code | CC | 
+Batch | G06N1 | | Batch | G06N1 | 
+KMP | 2 | | KMP | 2 | 
+Measurement | F | | Measurement | F | 
+Material form | U6 | | Material form | U6 | 
+Material container | C | | Material container | C | 
+Material state | F | | Material state | F | 
+MBA from | | | MBA from | | 
+MBA to | | | MBA to | | 
+Previous batch | | | Previous batch | | 
+Original date | 25112003 | | Original date | 25112003 | 
+PIT date | | | PIT date | | 
+Line number | 3 | | Line number | 4 | 
+Accounting date | 10122003 | | Accounting date | 10122003 | 
+Items | 1 | | Items | 1 | 
+Element category | L | | Element category | D | 
+Element weight | 3376422 | | Element weight | 3376422 | 
+Isotope | G | | Isotope | G | 
+Fissile weight | 8568 | | Fissile weight | 8568 | 
+Isotopic Composition | | | Isotopic Composition | | 
+Obligation | A | | Obligation | A | 
+Previous category | N | | Previous category | N | 
+Previous obligation | | | Previous obligation | | 
+Correction | D | | Correction | A | 
+CRC | As calculated | | CRC | As calculated | 
+Special provisions applicable when correcting lines originally declared under Regulation (Euratom) No 3227/76. 
+Weight unit weight is by default gram (i.e. weights to be entered in grams, even if originally declared in other units). 
+The IC Code values allowed are the ones defined in Regulation (Euratom) No 3227/76. 
+Example: cannot report an addition with a R5 IC Code. 
+Declaring MUF 
+An example of the MUF declaration in an ICR is reported below, MAMF being a MBA reporting after having taken a physical inventory on day "x". 
+MBR at date "x" 
+MBA | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | PB | L | 250 | G | 10 | A | 
+MAMF | RD | L | 150 | G | 6 | A | 
+MAMF | SD | L | 125 | G | 5 | A | 
+MAMF | LN | L | – 100 | G | – 4 | A | 
+MAMF | BA | L | 175 | G | 7 | A | 
+MAMF | PE | L | 140 | G | 6 | A | 
+MAMF | MF | L | – 35 | G | – 1 | A | 
+The ICR, going from the day after the PIT to the end of month, will have an entry as reported below: 
+MBA | Accounting date | Original date | PIT date | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | Day of the entry (%gt% x) | x | x | MF | L | -35 | G | -1 | A | 
+Declaring change of category 
+Regulation (Euratom) No 302/2005 makes available three different IC codes to declare a change of category: CC, CB and CE. 
+IC code | Typical MBA type | Operation | 
+CC | All | Change of category done "by convention" according to the PSP or as a consequence of a nuclear transformation event. | 
+CB | Fuel fabrication plant/reprocessing plant | Change of category as a result of a blending operation. | 
+CE | Enrichment plant/reprocessing plant | Change of category as a result of an enrichment operation. | 
+An example of the relevant fields of the inventory change declaration is reported below, MACC being a power reactor, MACB a fuel fabrication plant and MACE an enrichment plant: 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Previous category | 
+MACC | CC | BATCH09 | 11042002 | D | 7394 | G | 46 | N | L | 
+MACC | CC | BATCH610 | 11042002 | D | 7452 | G | 46 | N | L | 
+MACB | CB | BATCH7-1 | 16042002 | L | 174758 | G | 1240 | N | N | 
+MACB | CB | BATCH7-2 | 12092002 | N | 61525 | G | | N | D | 
+MACE | CE | BATCH97 | 15032002 | L | 1480118 | G | 73533 | N | N | 
+MACE | CE | BATCH61 | 28052002 | D | 608 | G | 4 | N | N | 
+MACE | CE | BATCH61 | 28052002 | D | 8383640 | G | 19364 | N | N | 
+Declaring R5 isotope adjustment 
+Usually as a consequence of category changes towards the element D there is an imbalance in the book-stock for the isotope U 235 that is not declared unless otherwise specified in the PSP. 
+In order to set the book in line with the reality an accounting entry can be made using the IC Code "R5". 
+An example of the relevant fields of the inventory change declaration is reported below, MAR5 being an MBA that has declared some category change from L to D and a final R5 for the equivalent value of the U235: 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Previous category | 
+MAR5 | CC | BATCH6-1 | 11042002 | D | 6182685 | G | 42157 | N | L | 
+MAR5 | CC | BATCH6-2 | 11042002 | D | 6175026 | G | 42104 | N | L | 
+MAR5 | CC | BATCH6-3 | 12042002 | D | 6175026 | G | 42104 | N | L | 
+MAR5 | CC | BATCH7-1 | 12042002 | D | 6179927 | G | 42261 | N | L | 
+MAR5 | CC | BATCH7-2 | 25042002 | D | 6192712 | G | 42349 | N | L | 
+MAR5 | CC | BATCH7-3 | 25042002 | D | 6177370 | G | 42244 | N | L | 
+MAR5 | R5 | | 25042002 | D | 0 | G | -253219 | N | | 
+Declaring change of obligation 
+Regulation (Euratom) No 302/2005 makes available four different IC codes to declare a change of obligation, CR, PR, BR and SR, whereas in Regulation (Euratom) No 3227/76 only the IC code CR was available. 
+The examples reported below would have been all declared using the IC code CR. 
+An example of the relevant fields of the inventory change declaration is reported below, MAPR being an MBA that has received material that i.e. wants to enter in an obligation pool. 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Previous obligation | 
+MAPR | PR | BATCH45 | 20012006 | D | 8384925 | G | 22891 | Y | A | 
+MAPR | PR | BATCH44 | 20012006 | D | 8379448 | G | 22876 | Y | A | 
+MAPR | PR | BATCH43 | 20012006 | D | 8370118 | G | 22850 | Y | A | 
+MAPR | PR | BATCH42 | 20012006 | D | 8407912 | G | 22954 | Y | A | 
+MAPR | PR | BATCH41 | 20012006 | D | 8112930 | G | 22148 | Y | A | 
+MAPR | PR | BATCH40 | 20012006 | D | 8114958 | G | 22154 | Y | A | 
+MAPR | PR | BATCH39 | 20012006 | D | 8140379 | G | 22223 | Y | A | 
+An example of the relevant fields of the inventory change declaration is reported below, MABR being an MBA declaring a "change of obligation to balance Utot obligation after a blending". 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Previous obligation | 
+MABR | BR | BATCH7 | 14122005 | L | 446 | G | 0 | A | S | 
+MABR | BR | BATCH7 | 14122005 | L | 53559 | G | 0 | A | C | 
+MABR | BR | BATCH7 | 14122005 | L | 216528 | G | 0 | A | P | 
+An example of the relevant fields of the inventory change simultaneous declarations from MBAs MSR1 and MSR2 swapping material obligations: 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Previous obligation | 
+MSR1 | SR | BATCH15 | 28102005 | D | 175000000 | G | 542500 | C | N | 
+MSR1 | SR | BATCH15 | 28102005 | D | 150000000 | G | 465000 | C | P | 
+MSR2 | SR | EXCHANGE | 28102005 | D | 175000000 | G | 542500 | N | C | 
+MSR2 | SR | EXCHANGE | 28102005 | D | 150000000 | G | 465000 | P | C | 
+Declaring nuclear production and nuclear loss (NP, NL) 
+An example of the relevant fields of the inventory change declaration is reported below, MNPL being a reactor MBA with PSPs providing that when fuel assemblies discharged from the reactor are returned to the core, the values for nuclear production and nuclear loss shall be recorded with opposite signs to restore the shipper's data for the fuel (This example explains why the sign has to be associated with IC codes NL and NP.) 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Comment | 
+Discharge from core: | 
+MNPL | NL | BATCH2 | 12101994 | L | – 958 | G | – 700 | C | | 
+MNPL | NP | BATCH2 | 12101994 | P | 306 | | | C | | 
+Transfer back to core: | 
+MNPL | NL | BATCH2 | 06011996 | L | 958 | G | 700 | C | Reversal of a NL declared previously as specified in the PSPs | 
+MNPL | NL | BATCH2 | 06011996 | P | – 306 | | | C | Reversal of a NL declared previously as specified in the PSPs | 
+Final discharge from core: | 
+MNPL | NL | BATCH2 | 18052005 | L | – 3379 | G | – 2689 | C | | 
+MNPL | NP | BATCH2 | 18052005 | P | 734 | | | C | | 
+The correction of any value in the record has to follow the procedure deletion/addition. 
+Declaring balance adjustment (BJ) 
+An example of the relevant fields of the inventory change declaration is reported below, MABJ being an MBA reporting after an installation-internal partial inventory. 
+MBA | IC code | Batch | Items | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Comment | 
+MABJ | BJ | CHAIN-1 | 1 | 15022006 | P | 10 | | | A | Partial inventory of CHAIN-1 | 
+MABJ | BJ | CHAIN-1 | 0 | 15022006 | L | – 250 | G | – 10 | A | | 
+MABJ | BJ | CHAIN-1 | 0 | 15022006 | D | 4000 | | | A | | 
+Declaring the isotopic composition 
+An example of the relevant fields of the inventory change declaration is reported below, MAIC being an MBA that has to report the isotopic composition of Pu and U according to the PSP provisions. In the example a shipment of MOX element composed as follows: 
+Pu 2 500 g | Pu-238 0 g | Pu-239 1487 g | Pu-240 553,8 g | Pu-241 341,3 g | Pu-242 118,3 g | 
+U 250 000 g | U-233 0 g | U-234 50 g | U-235 2 525 g | U-236 1 125 g | U-238 246 300 g | 
+MBA | IC code | Batch | Items | Accounting date | Element category | Element weight | Isotope | Fissile weight | Isotopic composition | 
+MAIC | SD | MOX-1 | 1 | 15022006 | P | 2500 | | | 0;1487;553.8;341.3;118.3 | 
+MAIC | SD | MOX-1 | 0 | 15022006 | L | 250000 | G | 2525 | 0;50;2525;1125;246300 | 
+2.3.5.3. Annex IV - MBR 
+Main differences from Regulation (Euratom) No 3227/76 
+MBR per obligation 
+The MBR must be drawn up by category, and obligation. Agreed arrangements for pool accountancy (as normally set out in correspondence and referenced in the relevant PSPs) are however unaffected by this provision. The requirement to report the ending book inventory by obligation does not change the batch follow-up procedures already applied (e.g. in item facilities). 
+MBR data fields changes 
+Label/tag | Change description | 
+Report number | New | 
+Line count | New | 
+Line number | New | 
+Element weight | Size extended (from 9 to 24,3) | 
+Fissile weight | Size extended (from 9 to 24,3) | 
+Obligation | New | 
+Previous report | New | 
+Previous line | New | 
+Comment | Replaces the Regulation (Euratom) No 3227/76 remarks field | 
+CRC | New | 
+Previous CRC | New | 
+Unit | Regulation (Euratom) No 3227/76 field removed because of the convention of reporting all weights in grams | 
+MBR data content changes 
+Label/tag | Change description | 
+IC code | NewTC, TE, FC, GA, CE, CB, BR, PR, SR, NP, NL, BJ, R5, TU, MFRemovedLD, WD, EU, DU, CU, NT, NC | 
+Correction | NewL | 
+MBR Labels 
+The tables below show the labels to be used in MBRs, the circumstances in which they should be used and whether their use is mandatory or optional. 
+The labels at report level are all mandatory. They must occur only once per report at the report header. 
+Field number | Label/tag | 
+1 | MBA | 
+2 | Report type | 
+3 | Report date | 
+4 | Start report | 
+5 | End report | 
+6 | Report number | 
+8 | Line count | 
+9 | Reporting person | 
+Labels at line level 
+Field number | Label/tag | New entry | Depending on correction | 
+"L" | "A" | "D" | 
+7 | Element category | M | M | M | O | 
+10 | IC code | M | M | M | O | 
+11 | Line number | M | M | M | M | 
+12 | Element weight | M | M | M | O | 
+13 | Isotope | M | M | M | O | 
+14 | Fissile weight | M | M | M | O | 
+15 | Obligation | M | M | M | O | 
+16 | Correction | | M | M | M | 
+17 | Previous report | | M | M | M | 
+18 | Previous line | | M | M | M | 
+19 | Comment | O | O | O | O | 
+20 | CRC | M | M | M | M | 
+21 | Previous CRC | | | M | M | 
+M = Mandatory, O = Optional, Empty = Not requested 
+An example of the MUF declaration in two consecutive periods is reported below: 
+MBR for the period P, consecutive MUF declaration in the first ICR of the period P + 1. 
+Period P physical inventory taking at day "x" | 
+MBA | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | PB | L | 250 | G | 10 | A | 
+MAMF | RD | L | 150 | G | 6 | A | 
+MAMF | SD | L | 125 | G | 5 | A | 
+MAMF | LN | L | – 100 | G | – 4 | A | 
+MAMF | BA | L | 175 | G | 7 | A | 
+MAMF | PE | L | 140 | G | 6 | A | 
+MAMF | MF | L | – 35 | G | – 1 | A | 
+The ICR, going from the day after the PIT to the end of month, will have an entry as reported below: 
+MBA | Accounting date | Original date | PIT date | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | Day of the entry (%gt% x) | x | x | MF | L | – 35 | G | – 1 | A | 
+MBR for the period P + 1 including the MUF established for the period M, and consecutive MUF declaration in the first ICR of the period P + 2. 
+Period P + 1 physical inventory taking at day "y" | 
+MBA | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | PB | L | 140 | G | 6 | A | 
+MAMF | RD | L | 500 | G | 35 | A | 
+MAMF | SD | L | 125 | G | 5 | A | 
+MAMF | NM | L | – 15 | G | – 1 | A | 
+MAMF | BA | L | 500 | G | 35 | A | 
+MAMF | PE | L | 472 | G | 34 | A | 
+MAMF | MF | L | – 28 | G | – 1 | A | 
+The ICR, going from the day after the PIT to the end of month (period M + 2) will have an entry as reported below: 
+MBA | Accounting date | Original date | PIT date | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | Day of the entry (%gt% y) | y | y | MF | L | – 28 | G | – 1 | A | 
+Fields to report to delete a Regulation (Euratom) No 3227/76 entry 
+The table below shows the mandatory labels at line level to be used to delete a Regulation (Euratom) No 3227/76 MBR entry, the circumstances in which they should be used 
+Field number | Label/tag | 
+7 | Element category | 
+10 | IC code | 
+11 | Line number | 
+12 | Element weight | 
+13 | Isotope | 
+14 | Fissile weight | 
+16 | Correction | 
+20 | CRC | 
+With the exception of the element weight and the fissile weight, the contents of the fields must match those of the original line. 
+Example: 
+MBA | MBR Date | Inventory information | Element | Weight of element | Unit | Isotope | Weight of isotopes | Unit | Correction | Observaciones | 
+MBAH | 12/5/03 | PB | H | 4870.2 | | G | 391.2 | | | | 
+MBAH | 12/5/03 | SD | H | 4.2 | | G | 2.2 | | | | 
+MBAH | 12/5/03 | PE | H | 4866 | | G | 3913 | | | | 
+Error detected in PB: weight of isotope should read 3915,2 
+The correction is reported as follows: 
+MBA | MBAH | | | | 
+Report type | M | | | | 
+Report date | 15092006 | | | | 
+Start report | 13072005 | | | | 
+End report | 12052006 | | | | 
+Report number | 18 | | | | 
+Line count | 2 | | | | 
+Reporting person | PJP | | | | 
+Element category | H | | Element category | H | 
+IC code | PB | | IC code | PB | 
+Line number | 1 | | Line number | 2 | 
+Element weight | 4870.2 | | Element weight | 4870.2 | 
+Isotope | G | | Isotope | G | 
+Fissile weight | 391.2 | | Fissile weight | 3915.2 | 
+Obligation | | | Obligation | | 
+Correction | D | | Correction | A | 
+Previous report | | | Previous report | | 
+Previous line | | | Previous line | | 
+Comment | | | Comment | | 
+CRC | As calculated | | CRC | As calculated | 
+Special provisions applicable when correcting lines originally declared under Regulation (Euratom) No 3227/76. 
+Weight unit weight is by default gram (i.e. weights to be entered in grams, even if originally declared in other units). 
+The IC Codes values allowed are the ones defined in Regulation (Euratom) No 3227/76. 
+Example: cannot report an addition with the IC code R5. 
+2.3.5.4. Annex V - PIL 
+Main differences from Regulation (Euratom) No 3227/76 
+PIL data fields changes 
+Label/tag | Change description | 
+Report number | New | 
+Line count | New | 
+PIL_ITEM_ID | New | 
+Batch | Size extended (from 8 chars to 20 chars) | 
+Material form | Initial two chars of the Regulation (Euratom) No 3227/76 Material description field | 
+Material container | Third char of the Regulation (Euratom) No 3227/76 Material description field | 
+Material state | Last char of the Regulation (Euratom) No 3227/76 Material description field | 
+Line number | New | 
+Element weight | Size extended (from 9 to 24,3) | 
+Fissile weight | Size extended (from 9 to 24,3) | 
+Obligation | Size extended (from 1 to 2) | 
+Document | New | 
+Container ID | New | 
+Previous report | New | 
+Previous line | New | 
+Comment | New, it replaces the Regulation (Euratom) No 3227/76 remarks field | 
+CRC | New | 
+Previous CRC | New | 
+Use | Regulation (Euratom) No 3227/76 field removed and replaced by information in the BTC | 
+Unit | Regulation (Euratom) No 3227/76 field removed because of the convention of reporting all weights in grams | 
+PIL data content changes 
+Label/tag | Change description | 
+Material form | NewU2, U3, U8, T2, NV, NG, NB, NC, NO | 
+Material state | RemovedR | 
+Correction | NewL | 
+PIL Labels 
+The tables below show the labels to be used in PILs, the circumstances in which they should be used and whether their use is mandatory or optional. 
+The labels at report level are all mandatory. They must occur only once per report. 
+Field number | Label/tag | 
+1 | MBA | 
+2 | Report type | 
+3 | Report date | 
+4 | Report number | 
+5 | PIT date | 
+6 | Line count | 
+7 | Reporting person | 
+Labels at line level 
+Field number | Label/tag | New entry | Depending on correction | 
+"L" | "A" | "D" | 
+8 | PIL_ITEM_ID | M | M | M | O | 
+9 | Batch | M | M | M | O | 
+10 | KMP | M | M | M | O | 
+11 | Measurement | M | M | M | O | 
+12 | Element category | M | M | M | O | 
+13 | Material form | M | M | M | O | 
+14 | Material container | M | M | M | O | 
+15 | Material state | M | M | M | O | 
+16 | Line number | M | M | M | M | 
+17 | Items | M | M | M | O | 
+18 | Element weight | M | M | M | O | 
+19 | Isotope | M | M | M | O | 
+20 | Fissile weight | M | M | M | O | 
+21 | Obligation | M | M | M | O | 
+22 | Document | O | O | O | O | 
+23 | Container | O | O | O | O | 
+24 | Correction | | M | M | M | 
+25 | Previous report | | M | M | M | 
+26 | Previous line | | M | M | M | 
+27 | Comment | O | O | O | O | 
+28 | CRC | M | M | M | M | 
+29 | Previous CRC | | | M | M | 
+M = Mandatory, O = Optional, Empty = Not requested 
+Fields to report in order to delete a Regulation (Euratom) No 3227/76 entry: 
+The table below shows the mandatory labels at line level to be used to delete a Regulation (Euratom) No 3227/76 PIL entry 
+Field number | Label/tag | 
+9 | Batch | 
+10 | KMP | 
+11 | Measurement | 
+12 | Element category | 
+13 | Material form | 
+14 | Material container | 
+15 | Material state | 
+16 | Line number | 
+17 | Items | 
+18 | Element weight | 
+19 | Isotope | 
+20 | Fissile weight | 
+21 | Obligation | 
+24 | Correction | 
+28 | CRC | 
+With the exception of the element weight and the fissile weight, the contents of the fields must match those of the original line. 
+Example: 
+MBA | PIL date | Batch | Item | Obligation | KMP | Measurement | Material description | Element | Element weight | Unit | Isotope | Isotope weight | Unit | Correction | 
+MABL | 13/06/03 | F01DP | 1 | N | B | L | EASF | D | 258.566 | K | | | | | 
+MABL | 13/06/03 | B16DP | 1 | P | A | L | EROF | D | 10.418 | K | | | | | 
+MABL | 13/06/03 | B22DP | 1 | P | A | L | EROF | D | 22.284 | K | | | | | 
+MABL | 13/06/03 | B34DP | 1 | P | A | L | EROF | D | 13.345 | K | | | | | 
+Correction: Batch F01DP has to be located in KMP A with an obligation P 
+The correction is reported as follows: 
+Label/tag | | | | | 
+MBA | MABL | | | | 
+Report type | P | | | | 
+Report date | 05012004 | | | | 
+Report number | 186 | | | | 
+PIT date | 130603 | | | | 
+Line count | 2 | | | | 
+Reporting person | VCT | | | | 
+PIL_ITEM_ID | | | PIL_ITEM_ID | | 
+Batch | F01DP | | Batch | F01DP | 
+KMP | B | | KMP | A | 
+Measurement | L | | Measurement | L | 
+Element category | D | | Element category | D | 
+Material form | EA | | Material form | EA | 
+Material container | S | | Material container | S | 
+Material state | F | | Material state | F | 
+Line number | 1 | | Line number | 2 | 
+Items | 1 | | Items | 1 | 
+Element weight | 258566 | | Element weight | 258566 | 
+Isotope | | | Isotope | | 
+Fissile weight | | | Fissile weight | | 
+Obligation | N | | Obligation | P | 
+Document | | | Document | | 
+Container ID | | | Container ID | | 
+Correction | D | | Correction | A | 
+Previous report | | | Previous report | | 
+Previous line | | | Previous line | | 
+Comment | | | Comment | | 
+CRC | As calculated | | CRC | As calculated | 
+Previous CRC | | | Previous CRC | | 
+Special provisions applicable when correcting lines originally declared under Regulation (Euratom) No 3227/76 
+Weight unit weight is by default gram (i.e. weights to be entered in grams, even if originally declared in other units). 
+2.3.6. Particular safeguard obligations (Article 17) 
+The identification of the particular safeguard obligation in the notifications 17.1(a) to 17.1(d) should follow the Euratom obligation codes, as notified to the operators and updated by a circular letter. The last circular letter with reference E/31/921 was sent to all operators on 24 June 1998. 
+Agreements between Euratom and operators (normally by exchange of correspondence) concerning the operation at the installation(s) of a specific pool accountancy system, remain unaffected by this Regulation. At the demand of an operator or the Commission the possibility of introducing a new pool or altering the rules of a pool accountancy system could be discussed. 
+2.3.7. Derogations 
+2.3.7.1. General comment 
+Article 19 is mainly addressed to the installations using nuclear material, which is in a recoverable form and used exclusively in non-nuclear activities. 
+The Commission may nevertheless also grant, through the Particular Safeguard provisions, derogation in the reporting rules to shut down installations holding material that could qualify for derogation. 
+Derogation - Article 19 of Regulation (Euratom) No 302/2005 and exemption - Articles 36 and 37 of INFCIRC 193 
+Derogation and exemption are two different mechanisms. 
+Derogations are granted by the Commission and aim to lighten some reporting rules provided for in the Regulation. 
+On the other hand, exemptions are granted by the IAEA and aim to exempt nuclear material from safeguards under the Safeguards Agreement (INFCIRC-193). The procedure for requesting an IAEA exemption is set out in INFCIRC-193. 
+At the request of the Community, the IAEA may exempt nuclear material from safeguards. The exemption is granted on the basis of the use of the material (Article 36 of INFCIRC-193) or on the basis of its quantity (Article 37 of INFCIRC-193). As this material is normally not used in nuclear fuel cycle related activities or as the amount of material is small, the relevance for IAEA safeguards is negligible. 
+Exemptions are also relevant to the implementation of the Commission Regulation due to the fact that where the nuclear material in a location outside facility (LOF) has been exempted in line with Article 36 or 37 of the Safeguards Agreement, this LOF would no longer constitute the core of a site. Therefore no reporting would be necessary under Annex II of Regulation (Euratom) No 302/2005. 
+In the following table a comparison of exemption under INFCIRC-193 and derogation under Regulation (Euratom) No 302/2005 is presented. 
+Exemption of INFCIRC 193 | Derogation of Regulation (Euratom) No 302/2005 | 
+Exemption from IAEA safeguards means that no classical safeguards measures, including inspections, are applied on the material | Derogation means a simplification for the operator of the rule governing the format and the frequency of reporting as set out in Articles 10 to 18. The nuclear material remains under Euratom safeguards, and is subject to control. | 
+Nuclear material, which could qualify for exemption based on use (Article 36 of the Safeguards Agreement) is: (a)special fissionable material, when it is used in gram quantities or less as a sensing components in instruments;(b)recoverable nuclear material when used in non-nuclear activities; and(c)plutonium with an isotopic concentration of plutonium 238 exceeding 80 %. | MBA holding only exempted nuclear material will upon request be granted derogation. Nevertheless the Commission may also grant derogation to MBAs that deal with material not eligible for exemption from IAEA safeguards. In that case, derogation from reporting will be granted in such a way that the provisions of IAEA safeguards are respected (inspections, reporting to IAEA). | 
+Nuclear material may be exempted from IAEA safeguards up to the quantities specified in Article 37 of the Safeguards Agreement. | Derogation may be granted to MBAs holding quantities of nuclear material commensurate with those specified in Annex I-G but are kept in the same state for a long period. In that case, derogation will be granted in such a way that the provisions of IAEA safeguards are respected (inspections, reporting to IAEA). | 
+The exemption remains valid as long as the nuclear material is not permanently transferred to another location. Permanent transfers have to be reported to the Safeguards authorities, via the de-exemption mechanism. | The annual report foreseen in the derogation procedure allows: keeping the knowledge of the quantities and the location of exempted nuclear material from IAEA safeguards and preparing reports according to Article 2a(vii) of the addition protocol (AP) of the Agreement, when relevant. | 
+CAM 
+There is a type of installation, called a CAM (Catch all MBA), which will be granted an automatic derogation under the new Regulation. This includes those small holders whose inventory of nuclear material is lower than or equal to those defined in the Annex I-G to Regulation (Euratom) No 302/2005: 
+Depleted uranium | 350000g or | 
+Thorium | 200000g or | 
+Natural uranium | 100000g or | 
+Low enriched uranium | 1000g or | 
+High enriched uranium | 5g or | 
+Plutonium | 5g | 
+Operators who think that they could become CAM Member, should use Annex I-G when submitting their BTCs. 
+The decision on whether to include an operator in the CAM falls within the competence of the Commission because the total amount of all the nuclear material held by these small holders brought together within this individual installation can never exceed 1 effective kg (as defined in Article 2(13)). The CAM, which presently exists only for the non-nuclear weapon states (NNWS), is subject to International Atomic Energy Agency (IAEA) safeguards according to the specific provisions defined in the facility attachment (FA) for this installation. The CAM was created to reduce the number of inspections carried out at small holders of nuclear material. The FA for the CAM provides for an annual accounting inspection that takes place in the Commission offices. A CAM was not set up in the nuclear weapon states (NWS) because the verification agreement with the IAEA did not apply to these facilities. 
+The reporting obligations for an operator who is required to request derogation and of one that has an automatic derogation, as CAM member, are very similar (see Table below which summarises the respective reporting requirements). 
+Derogation | CAM Member | 
+Accounting reports | 
+An installation that is granted a derogation, sends to the Commission the following reports, using the format of the appropriate annexes: an initial derogation request (Annex IX); an export report only if there has been a change of nuclear material ownership (Annex X); an derogation request on receipt of nuclear material that has been purchased by the operator (Annex IX); an annual report established on 31 December summarising all the inventory changes (where there has been a change of ownership) that have occurred during the reporting period (Annex X). | An installation that the Commission classifies into the CAM, sends to the Commission the following reports either by letter or using the annexes provided for in the Regulation (Euratom) No 302/2005: each inventory change when it occurs (all the RD/SD/RF/SF, even without change of ownership, and other inventory changes) an annual report with the stock established on the 31 of December, even if no inventory change occurred during the period. | 
+Small holders of nuclear material (SHNM) who have previously submitted their basic technical characteristics (BTCs) will not be required to update these. 
+For those SHNM without BTCs: CAM candidates will use the format shown in Annex I-G, whereas non-CAM candidates will use the format of Annex I-J. 
+2.3.7.2. Article 19 
+1. The Commission may grant producers and users of nuclear materials a written derogation from the rules governing the form and frequency of notification provided for in Articles 10 to 18, in order to take account of any particular circumstances in which safeguarded materials are used or produced. 
+Article 19 is mainly addressed to the installations using nuclear material, which is in a recoverable form and used exclusively in non-nuclear activities. Exemption from safeguards reporting obligations is only granted to those holders of end products used for non-nuclear purposes which incorporate nuclear materials that are practically irrecoverable (see point 2.1. above). 
+The derogation shall be granted on submission of a request by the persons or undertakings concerned based on the form set out in Annex IX. 
+Example of an initial request for derogation in reporting format and frequency (see example 1 below). 
+A manufacturer of equipment for medical and industrial radiography holding only depleted uranium used as radiation shielding: 
+- requests derogation in reporting format and frequency using Annex IX (Note: where an operator holds nuclear material that could fall under more than one of the criteria set out in Article 19(2) a separate derogation request will be required for each case). The Commission would routinely expect to deal with a derogation request within three months. 
+- for the initial derogation request, point 13 of Annex IX (date of transfer … from …) is not relevant. 
+- the total nuclear material inventory declared on the initial derogation request should be equal to the beginning inventory on the first annual report. 
+Operators should continue to report using current practise until the Commission has responded to their initial request for derogation. 
+When the Commission grants the derogation, on the last day of the month before the derogation will be implemented, the operator must carry out a physical inventory (PIT) and submit a physical inventory listing (PIL) to the Commission. This will allow the Commission to know the status of the operator's inventory prior to implementation of the derogation. 
+Operators who have previously been granted derogation under Regulation (Euratom) No 3227/76, normally included in particular safeguard provisions (PSPs), will not have to submit a new derogation request. The provisions defined in the PSPs will continue to be applied. If agreed between the operator, the Commission and the Member State, PSPs could be re-examined. 
+Operators who received a derogation authorisation by letter for quarterly, semi-annual or annual declaration will be required to submit an initial request for derogation under Article 19 of Regulation (Euratom) No 302/2005. This is because the format, the data, as well as the type of inventory change to be declared now differ from the previous procedure under Regulation (Euratom) No 3227/76. Operators granted a derogation under Article 19 will have to declare those inventory changes which increase (new acquisitions or production of nuclear material) or which decrease (sales, transformations, transfer to waste, losses of nuclear material) the nuclear material inventory for which they have the responsibility. These inventory changes will be transmitted in the annual report using Annex X to Regulation (Euratom) No 302/2005. 
+The derogation shall be granted only for a whole material balance area in which nuclear material is not processed or stored together with nuclear material for which no derogation can be granted. 
+The follow up for the reports submitted as a result of derogation (transit matching, deadline for transmission, quality and consistency check) is different from the follow up required for monthly reports. 
+This is a reason why derogation can only be applied to a whole MBA. Another one is the possibility to link an MBA with derogation with an MBA exempted from IAEA safeguards. 
+However, an operator who holds at the same time nuclear material used in non-nuclear activities which could be eligible for derogation together with other nuclear material or activities that are not eligible for derogation, can consider creating a separate MBA, dedicated only to those nuclear materials and activities that fulfil the conditions for derogation. In this case, any movements between this MBA and those MBAs with no derogation will have to be declared only by the latter. 
+2. The Commission may grant a derogation for a material balance area holding: 
+As noted above, operators who hold nuclear material that may fall under more than one of the derogation criteria defined in Article 19(2) will be required to submit a separate derogation for each situation. 
+(a) Quantities of nuclear material commensurate with those specified in Annex I-G, which are kept in the same state for long periods 
+- manufacturers of measurement instruments who use sealed sources as standards for calibration, 
+- analytical laboratories which use nuclear material as reference sources, 
+- universities, colleges, research institutes etc. who use nuclear material for academic studies. 
+(b) Depleted uranium, natural uranium or thorium which is used exclusively in non-nuclear activities 
+- radiation shielding: 
+- holders or suppliers of medical or industrial equipment incorporating depleted uranium as radiation shielding (e.g. radiotherapy instruments), 
+- suppliers of medical or industrial radioisotopes who use transport containers incorporating depleted uranium, 
+- holders of depleted uranium used as radiation shielding if their main activity is not linked with the nuclear fuel cycle, 
+- holders of transport containers containing depleted uranium as shielding. 
+- ballasts/counterweights 
+- airline companies, helicopters, eccentric vibrators, 
+- robotic systems incorporating depleted uranium counterweights. 
+- high hardness alloys 
+- magnesium/thorium alloys used in aerospace applications. 
+- catalysts for use in chemical industry 
+- pigments for glass. 
+(c) Special fissile materials when used in gram quantities or less as sensing components in instruments 
+Smoke alarm manufacturers 
+Fission chamber manufacturers. 
+(d) Plutonium with an isotopic concentration of plutonium-238 exceeding 80 % 
+Pacemaker manufacturers. 
+3. The persons or undertakings to whom a derogation is granted shall transmit to the Commission an annual report by 31 January of each year, using the form set out in Annex X. This report shall describe the situation at the end of the previous calendar year. 
+The Annex X annual report must include (see point 3.3.7.3 below - example 2) 
+- the inventory of each category of nuclear material at the beginning of the year 
+(see example 2, declaration number 20, entry number 1). 
+- the inventory changes which increase the stock of nuclear material owned by the MBA: 
+- RD (domestic receipt) for new purchase of nuclear material for which derogation is granted when the supplier is in the EU 
+(see example 2, declaration number 20, entry number 2.) 
+- RF (foreign receipt) for new purchase of nuclear material for which derogation is granted when the supplier is not in the EU 
+(see example 2, declaration number 20, entry number 3.) 
+- MP (material production) for example installation dealing with rare earths and the production of nuclear material is a by-product of the treatment. 
+- the inventory changes which reduce the inventory of nuclear material owned by the MBA: 
+- SD (domestic shipment) for sale of nuclear material to a customer located in the EU; 
+(see example 2, declaration number 20, entry numbers 6, 7.) 
+- SF (foreign shipment) for sale of nuclear material to a customer located outside the EU; 
+(see example 2, declaration number 20, entry numbers 8, 9.) 
+- RA (rounding adjustment) 
+- TW (transfer to retained waste) 
+(see example 2, declaration number 20, entry number 10.) 
+- TC (transfer to conditioned waste) 
+- TU (termination of use) 
+- LA: if an accidental loss of nuclear material is discovered, this event has to be the subject of a special report and the Commission informed as soon as the loss is known. 
+Correction 
+When an error in an annual report is discovered by the operator or notified by the Commission, the correction shall be submitted within 15 days of the end of the month in which the error is identified. 
+To correct a report, the erroneous record, identified using the appropriate references (Report Declaration number and entry number) is deleted and the record with the correct data is declared (see point 3.3.7.3 below - example 2.1) 
+NB: If the nuclear material comes into and then goes out of the derogated MBA (for example depleted uranium transport container), without any change in the ownership, these transfers do not have to be declared. 
+- the closing inventory of the nuclear material at the end of the year i.e. on 31 December 
+The annual report shall be submitted to the Commission by 31 January at the latest. 
+Other examples of reports and correction: 
+- no change: (see point 2.3.6.3. below - example 2.2) 
+- receipts and shipments of depleted uranium transport containers not involving a change of ownership or receipts and shipments of medical or industrial equipment incorporating depleted uranium shielding, e.g. for maintenance (see point 2.3.6.3. below - example 2.3) 
+- consumption of nuclear material: (see point 2.3.6.3 below - example 2.4) 
+4. In the case of exports of nuclear material to a third country, the persons or undertakings to whom a derogation has been granted shall transmit a report to the Commission as soon as possible and, at the latest, within 15 days of the end of the month in which the export occurred, using the form set out in Annex X. This report shall indicate the quantity of nuclear material exported and the stock of nuclear material still subject to derogation. 
+NB: if the derogated MBA is also exempted from IAEA safeguards, a de-exemption of this nuclear material should be requested from the IAEA before the export takes place. This procedure, which will be initiated by the Commission, can take a long time. 
+Example of export report for shipment of nuclear material outside the EU (see point 2.3.6.3 below - example 3): 
+On 12 July, a manufacturer sells gamma equipment incorporating depleted uranium to a customer outside the EU. 
+- Using Annex X to Regulation (Euratom) No 302/2005 the export will be reported to the Commission at the latest by 15 August. This report allows the Commission to match international transfers. 
+- The report declaration number shall be sequential (i.e. previous declaration number + 1). 
+- As Annex X is used for two different types of report (annual and export), the type of report must be shown in the first column. 
+- The customer's MBA code or (if the MBA code is not known) name and address is indicated. 
+- If the manufacturer uses an internal code to identify his customers then it would be possible to use this procedure if the codes, as well as any updates, are provided to the Commission (see example 3 below which uses EX-C940 as a code to identify the customer). 
+- This export shall be included in the annual report using the inventory change code SF. 
+5. In the case of imports of nuclear material from a third country the persons or undertakings to which a derogation is granted shall transmit a request to the Commission to add this material to the list of materials in respect of which the derogation applies. The request shall be transmitted to the Commission as soon as the transfer date is known to the person or undertaking and, at the latest, within 15 days of the end of the month in which the transfer occurred, using the form set out in Annex IX. 
+Example of Import report (see point 2.3.6.3 - example 4) 
+A medical radioisotopes supplier receives a dozen depleted uranium transport containers purchased from outside of the EU. The containers arrive on 28 August. 
+- This receipt is reported using Annex IX, which is the form also used for the initial derogation request. 
+- This report should be submitted as soon as the date of transfer is known and at latest by 15 September. This report will allow the Commission to confirm that the conditions for derogation remain applicable and to allow matching of international transfers. 
+- Entry 13 of Annex IX: as this is not an initial request for derogation the date of receipt has to be completed, as well as the shipper's name and address. 
+- The receipt is included in the annual report using the inventory change code RF. 
+6. The Commission may define other specific clauses concerning the form and the periodicity of the reports in the particular safeguard provisions referred to in Article 6. 
+Through the provisions of the PSPs, the Commission may grant derogation in reporting format and frequency that differ from those described above. 
+- The reporting frequency can be adjusted from annually to quarterly, semi-annual, five-yearly according to the particular circumstances relevant to an operator. 
+- The reporting formats used can be those described in Annexes III, IV and V, especially if there is a PSP and/or a FA in force for the installation. 
+7. If the conditions for derogation are no longer met, the derogation shall be withdrawn by the Commission, acting upon receipt of information from the persons or undertakings to which a derogation is granted. 
+When the conditions for which the derogation was granted according to this article, are no longer met (for example: change of use, receipt of nuclear material not eligible for derogation), the operator must inform the Commission as soon as possible. The Commission will then inform the operator that the derogation has been either suspended (if the change in the conditions is temporary) or cancelled, depending on the particular circumstances of the operator. Reports will then have to be submitted following the procedures/format described in Articles 10 to 18. 
+If, during its checks, the Commission discovers that an installation no longer meets the conditions to be eligible for derogation, the operator will be asked to provide additional information before derogations are suspended or cancelled. 
+2.3.7.3. Examples 
+Example 1: Initial request for derogation 
++++++ TIFF +++++ 
+Example 2: Annual report 
+(1) This transaction required an export report - see example 3 below. 
+(2) This transaction required an import report - see example 4 below. 
+(3) These operations do not have to be reported in the annual report but have to be kept as operational records 
+July | August | September | October | November | December | 
+Sale of 1 equipment to customer EU-C111 D=84500g (see DN=20 EN=4) | Purchase of Depl. from supplier EU-F111 D=80000g (see DN=20 EN=2) | Maintenance of EU-C107 customer equipment (3) | Sale of 1 equipment to customer EU-C111 D=84500g (see DN=20 EN=4) | Sale of 1 equipment to customer EX-C912 D=370000g (1) (see DN=20 EN=8) | Sale of 1 equipment to customer EU-C111 D= 370000g (see DN=20 EN=4) | 
+Maintenance of EU-C107 customer equipment (3) | Import of Depl. from supplier EX-F901 D= 2500000g (2) (see DN=20 EN=3) | Maintenance of EX-C903 customer equipment (3) | Sale of 1 equipment to customer EU-C122 D= 27000g (see DN=20 EN=6) | Purchase of Depl. from supplier EU-F111 D= 250000g (see DN=20 EN=2) | Import of Depl. from supplier EX-F901 D=1000000g (2) (see DN=20 EN=3) | 
+Sale of 1 equipment to customer EX-C940 D= 78000g (1) (see DN=20 EN=7) | Maintenance of EU-C177 customer equipment (3) | Sale of 1 equipment to customer EU-C102 D= 84500g (see DN=20 EN=5) | Transfer to retained waste of one downgraded equipment D= 55000g (see DN=20 EN=9) | Sale of 1 equipment to customer EX-C940 D= 78000g (1) (see DN=20 EN=7) | Maintenance of EX-C903 customer equipment (3) | 
+Example 2: Annual report (continued) 
+ANNEX XANNUAL REPORT OR EXPORT REPORT FOR DEROGATED NUCLEAR MATERIAL(1)EUROPEAN COMMISSION — EURATOM SAFEGUARDSMBA code_____ZYXV__________Declaration date____ 31.1.2006_____________ Declaration No__20______________Name of the installation_ Int. Soc. Eq. Radiographie _Reporting period from 1.1.2005___ to _ 31.12.2005__ | 
+Type of report (2) | Entry (3) | Reference (4) | Inventory change information (5) | MBA code or name and address of corresponding installation | Element | Enrichment | Weight of element | Use | Type of derogation under Article 19(2) | 
+Declaration | Entry | Nuclear or non-nuclear (6) | Description (7) | 
+A | 1 | | | BB | | D | | 10350000 | NN | shielding | 2(b) | 
+A | 2 | | | RD | EU-F111 | D | | 330000 | NN | shielding | 2(b) | 
+A | 3 | | | RF | EX-F901 | D | | 3500000 | NN | shielding | 2(b) | 
+A | 4 | | | SD | EU-C111 | D | | 539000 | NN | shielding | 2(b) | 
+A | 5 | | | SD | EU-C102 | D | | 84500 | NN | shielding | 2(b) | 
+A | 6 | | | SD | EU-C122 | D | | 27000 | NN | shielding | 2(b) | 
+A | 7 | | | SF | EX-C940 | D | | 156000 | NN | shielding | 2(b) | 
+A | 8 | | | SF | EX-C912 | D | | 370000 | NN | shielding | 2(b) | 
+A | 9 | | | TW | | D | | 55000 | NN | shielding | 2(b) | 
+| | | | | | | | | | | | 
+A | 10 | | | BA | | D | | 12948500 | NN | shielding | 2(b) | 
+Example 2.1: Annual report - correction 
+2.1.1. The stock at the beginning of the period is erroneous 
+To correct an error in a previous annual report, Annex X is used: the line that has to be corrected is identified by its original declaration number and the entry number that have to be reported in the column "ref." in the new declaration. All the others columns of the annex have to be completed including the correction. 
+For example: in the last declaration, number 20, a typing error has been introduced in the beginning stock of the period (entry number 1) and consequently the ending book stock is false (entry number 10). 
+A new report (declaration number 21) is sent to the Commission as soon as the error has been identified. 
+- The new values reported in the declaration 21 entry 1 replace all the values reported in the declaration 20 entry 1 
+- The new values reported in the declaration 21 entry 2 replace all the data reported in the declaration 20 entry 10. 
+ANNEX XANNUAL REPORT OR EXPORT REPORT FOR DEROGATED NUCLEAR MATERIAL(1)EUROPEAN COMMISSION — EURATOM SAFEGUARDSMBA code_____ZYXV__________Declaration date____ 15.3.2006_____________Declaration No__21______________Name of the installationInt. Soc. Eq. RadiographieReporting period from 1.1.2005___ to _ 31.12.2005__ | 
+Type of report (2) | Entry (3) | Reference (4) | Inventory change information (5) | MBA code or name and address of corresponding installation | Element | Enrichment | Weight of element | Use | Type of derogation under Article 19(2) | 
+Declaration | Entry | Nuclear or non-nuclear (6) | Description (7) | 
+A | 1 | 20 | 1 | BB | | D | | 10530000 | NN | shielding | 2(b) | 
+A | 2 | 20 | 10 | BA | | D | | 13128500 | NN | shielding | 2(b) | 
+| | | | | | | | | | | | 
+| | | | | | | | | | | | 
+Example 2.1.2: The information in BOLD is erroneous 
+In this example, some typical errors are treated: 
+- correction of the corresponding installation 
+- cancellation of an import 
+- correction of element weight 
+- addition of one sale that has not been reported 
+July | August | September | October | November | December | 
+Sale of 1 equipment to customer EU-C111 D = 84500g | Purchase of Depl. from supplier EU-F111 D = 80000g | Revision of EU-C107 customer equipment | Sale of 1 equipment to customer EU-C711 D = 84500g | Sale of 1 equipment to customer EX-C912 D = 370000g | Sale of 1 equipment to customer EU-C111 D = 370000g | 
+Revision of EU-C107 customer equipment | Import of Depl. from supplier EX-F901 D = 2500000g | Revision of EX- C903 customer equipment | Sale of 1 equipment to customer EU-C122 D = 27000g | Purchase of Depl. from supplier EU-F111 D = 250000g | Import of Depl. from supplier EX-F901 D = 1000000g Cancelled | 
+Sale of 1 equipment to customer EX-C940 D = 78000g | Revision of EU-C177 customer equipment | Sale of 1 equipment to customer EU-C102 D = 48500g | Transfer to retained waste of one downgraded equipment D = 55000g | Sale of 1 equipment to customer EX-C940 D = 78000g | Revision of EX-C903 customer equipment | 
+| | | Sale of 1 equipment to EU-C109 D = 24500g Not reported | | | 
+A new declaration (number 22) using Annex X is sent to the Commission in order to: 
+(1) correct the corresponding installation identifying the customer that has bought the equipment in October. This transaction has been included in the declaration number 20 entry 4; 
+- first step: remove the shipment from the customer EU-C111 and the values reported in the declaration 22 entry 1, replace all the values reported in the declaration 20 entry 4, 
+- second step: report the shipment to the correct customer EU-C711 in a new entry (entry 2). 
+(2) cancel the import of depleted uranium from the supplier EX-F901 that has been included in the declaration 20 entry 3. The values reported in the declaration 22 entry 3, replace all the values reported in the declaration 20 entry 3; 
+(3) correct the element weight of the equipment sold to the customer EU-C102 that has been included in the declaration 20 entry 5. The values reported in the declaration 22 entry 4 replace all the values reported in the declaration 20 entry 5; 
+(4) add the sale that has not been reported by reporting a new entry (entry 5); 
+(5) adjust the stock of material: the last BA has been reported in the declaration 21 entry 2, so this line has to be mentioned in the "ref. Column". The values reported in declaration 22 entry 6, replace all the data reported in the declaration 21 entry 2. 
+ANNEX XANNUAL REPORT OR EXPORT REPORT FOR DEROGATED NUCLEAR MATERIAL(1)EUROPEAN COMMISSION — EURATOM SAFEGUARDSMBA code_____ZYXV__________Declaration date____ 31.5.2006_____________Declaration No__22______________Name of the installationInt. Soc. Eq. RadiographieReporting period from 1.1.2005___ to _ 31.12.2005__ | 
+Type of report (2) | Entry (3) | Reference (4) | Inventory change information (5) | MBA code or name and address of corresponding installation | Element | Enrichment | Weight of element | Use | Type of derogation under Article 19(2) | 
+Declaration | Entry | Nuclear or non-nuclear (6) | Description (7) | 
+A | 1 | 20 | 4 | SD | EU-C111 | D | | 454500 | NN | shielding | 2(b) | 
+A | 2 | | | SD | EU-C711 | D | | 84500 | NN | shielding | 2(b) | 
+A | 3 | 20 | 3 | RF | EX-F901 | D | | 2500000 | NN | shielding | 2(b) | 
+A | 4 | 20 | 5 | SD | EU-C102 | D | | 48500 | NN | shielding | 2(b) | 
+A | 5 | | | SD | EU-C109 | D | | 24500 | NN | shielding | 2(b) | 
+A | 6 | 21 | 2 | BA | | D | | 12140000 | NN | shielding | 2(b) | 
+| | | | | | | | | | | | 
+Example 2.1.3: The information in BOLD is erroneous 
+Sale of 1 equipment to customer EU-C111 D = 84500g | Purchase of Depl. from supplier EU-F111 D = 80000g | Revision of EU-C107 customer equipment | Sale of 1 equipment to customer EU-C111 D = 28500g | Sale of 1 equipment to customer EX-C912 D = 370000g | Sale of 1 equipment to customer EU-C111 D = 370000g | 
+Revision of EU-C107 customer equipment | Import of Depl. from supplier EX-F901 D = 2500000g | Revision of EX- C903 customer equipment | Sale of 1 equipment to customer EU-C122 D = 27000g | Purchase of Depl. from supplier EU-F111 D = 250000g | Import of Depl. from supplier EX-F901 D = 1000000g Cancelled | 
+Sale of 1 equipment to customer EX-C940 D = 78000g | Revision of EU-C177 customer equipment | Sale of 1 equipment to customer EU-C201 D = 84500g | Transfer to retained waste of one downgraded equipment | Sale of 1 equipment to customer EX-C940 D = 78000g | Revision of EX-C903 customer equipment | 
+| | | Sale of 1 equipment to EU-C109 D = 24500g | | | 
+To correct the element weight of the equipment sold to the customer EU-C711 that has been reported in the declaration 22 entry 2, a new declaration has to be sent to the Commission with a new entry (entry 1). 
+The last BA reported in declaration 22 entry 6 has also to be adjusted by a new entry (entry 2). 
+ANNEX XANNUAL REPORT OR EXPORT REPORT FOR DEROGATED NUCLEAR MATERIAL(1)EUROPEAN COMMISSION — EURATOM SAFEGUARDSMBA code_____ZYXV__________Declaration date____ 31.7.2006_____________Declaration No__23______________Name of the installationInt. Soc. Eq. RadiographieReporting period from 1.1.2005___ to _ 31.12.2005__ | 
+Type of report (2) | Entry (3) | Reference (4) | Inventory change information (5) | MBA code or name and address of corresponding installation | Element | Enrichment | Weight of element | Use | Type of derogation under Article 19(2) | 
+Declaration | Entry | Nuclear or non-nuclear (6) | Description (7) | 
+A | 1 | 22 | 2 | SD | EU-C711 | D | | 28500 | NN | shielding | 2(b) | 
+A | 2 | 22 | 6 | BA | | D | | 12196000 | NN | shielding | 2(b) | 
+| | | | | | | | | | | | 
+| | | | | | | | | | | | 
+| | | | | | | | | | | | 
+Example 2.2: Annual report: No change 
+ANNEX XANNUAL REPORT OR EXPORT REPORT FOR DEROGATED NUCLEAR MATERIAL(1)EUROPEAN COMMISSION — EURATOM SAFEGUARDSMBA code_____ZYXA__________Declaration date____ 31.1.2006_____________Declaration No__2______________Name of the installationHospital AReporting period from 1.1.2005___ to _ 31.12.2005__ | 
+Type of report (2) | Entry (3) | Reference (4) | Inventory change information (5) | MBA code or name and address of corresponding installation | Element | Enrichment | Weight of element | Use | Type of derogation under Article 19(2) | 
+Declaration | Entry | Nuclear or non-nuclear (6) | Description (7) | 
+A | 1 | | | BB | | D | | 250000 | NN | shielding | 2(b) | 
+A | 2 | | | BA | | D | | 250000 | NN | shielding | 2(b) | 
+| | | | | | | | | | | | 
+Example 2.3: Annual report: Shipments and receipts of transport containers by radioisotopes suppliers 
+Period: 1.1.2004 to 31.12.2004: containers go out to the radioisotopes customers and come back to the radioisotopes supplier. 
+Period: 1.1.2005 to 31.12.2005: routine activities plus purchases of 10 new transport containers and 5 containers are downgraded and transferred to retained waste 
+ANNEX XANNUAL REPORT OR EXPORT REPORT FOR DEROGATED NUCLEAR MATERIAL(1)EUROPEAN COMMISSION — EURATOM SAFEGUARDSMBA code_____ZMNP__________Declaration date____ 31.1.2005_____________Declaration No__2______________Name of the installationCERIAN S.A.Reporting period from 1.1.2004___ to _ 31.12.2004__ | 
+Type of report (2) | Entry (3) | Reference (4) | Inventory change information (5) | MBA code or name and address of corresponding installation | Element | Enrichment | Weight of element | Use | Type of derogation under Article 19(2) | 
+Declaration | Entry | Nuclear or non-nuclear (6) | Description (7) | 
+A | 1 | | | BB | | D | | 12250000 | NN | shielding | 2(b) | 
+A | 1 | | | BA | | D | | 12250000 | NN | shielding | 2(b) | 
+ANNEX XANNUAL REPORT OR EXPORT REPORT FOR DEROGATED NUCLEAR MATERIAL(1)EUROPEAN COMMISSION — EURATOM SAFEGUARDSMBA code_____ZMNP__________Declaration date____ 31.1.2006_____________Declaration No__3______________Name of the installation_ CERIAN S.A.Reporting period from 1.1.2005___ to _ 31.12.2005__ | 
+Type of report (2) | Entry (3) | Reference (4) | Inventory change information (5) | MBA code or name and address of corresponding installation | Element | Enrichment | Weight of element | Use | Type of derogation under Article 19(2) | 
+Declaration | Entry | Nuclear or non-nuclear (6) | Description (7) | 
+A | 1 | | | BB | | D | | 12250000 | NN | Transport containers | 2(b) | 
+A | 2 | | | RD | EU-F614 | D | | 125425 | NN | Trans.Con | 2(b) | 
+A | 3 | | | RA | | D | | -25 | NN | Trans.Con | 2(b) | 
+A | 4 | | | TW | | D | | 310800 | NN | Trans.Con | 2(b) | 
+A | 5 | | | BA | | | | 12064600 | NN | Trans.Con | 2(b) | 
+Example 2.4: Annual report: Consumption of nuclear material 
+A control laboratory uses uranium nitrate to make filaments for mass spectrometer. 
+This installation could be granted a derogation according to Article 19.2(c). 
+In its annual declaration the following report could be: RD for the purchase of uranium nitrate, TU for the uranium constituting the filaments and TW for the waste produced and the final stock. 
+ANNEX XANNUAL REPORT OR EXPORT REPORT FOR DEROGATED NUCLEAR MATERIAL(1)EUROPEAN COMMISSION — EURATOM SAFEGUARDSMBA code_____ZABC__________Declaration date____ 31.1.2006_____________Declaration No__3______________Name of the installation Control LabReporting period from 1.1.2005___ to _ 31.12.2005__ | 
+Type of report (2) | Entry (3) | Reference (4) | Inventory change information (5) | MBA code or name and address of corresponding installation | Element | Enrichment | Weight of element | Use | Type of derogation under Article 19(2) | 
+Declaration | Entry | Nuclear or non-nuclear (6) | Description (7) | 
+A | 1 | | | BB | | L | 1 % | 1,346 | NN | Instrument component | 2(c) | 
+A | 2 | | | RD | FQWH | L | 1 % | 5,00 | NN | Instrument component | 2(c) | 
+A | 3 | | | TU | | L | 1 % | 2,125 | NN | Instrument component | 2(c) | 
+A | 4 | | | TW | | L | 1 % | 1,275 | NN | Instrument component | 2(c) | 
+A | 5 | | | BA | | L | 1 % | 2,948 | NN | Instrument component | 2(c) | 
+| | | | | | | | | | | | 
+Example 3: Export report for DU involving a change in ownership 
+ANNEX XANNUAL REPORT OR EXPORT REPORT FOR DEROGATED NUCLEAR MATERIAL(1)EUROPEAN COMMISSION — EURATOM SAFEGUARDSMBA code_____ZYXV__________Declaration date____ 31.7.2005_____________Declaration No__13______________Name of the installationInt. Soc. Eq. RadiographieReporting period from 1.1.2005___ to _ 31.12.2005__ | 
+Type of report (2) | Entry (3) | Reference (4) | Inventory change information (5) | Code or name and address of corresponding installation | Element | Enrichment | Weight of element | Use | Type of derogation under Article 20(2) | 
+Declaration | Entry | Nuclear or non-nuclear (6) | Description (7) | 
+EXP | 1 | | | SF | EX-C940 | D | | 78000 | NN | shielding | 2(b) | 
+| | | | | | | | | | | | 
+| | | | | | | | | | | | 
+Date and place of dispatch of report: 31.7.2005 Name and position of signatory: Signature: | 
+Example 4: Request for derogation following purchase of DU container 
++++++ TIFF +++++ 
+2.4. Chapter IV - Transfers between States (Articles 20 to 23) 
+Articles 20 and 21 are applicable to transfers of source materials and special fissile materials. They do not apply to transfers of nuclear material in waste or to ores. 
+Please note that, for reasons imposed by the international agreements between Euratom and third countries, the deadlines are in working days of the country dispatching the notification. Local or regional holidays are also taken into consideration. 
+Please note that the consecutive period of 12 months is meant as a rolling 12-month period and not a calendar year. 
+2.5. Chapter V - Specific provisions (Articles 24 to 33) 
+2.5.1. Transmission of information and data to IAEA (Article 29) 
+It is noted that this Article is reproduced here from the 1993 amendment of Regulation (Euratom) No 3227/76. 
+The reasons for that amendment (i.e. provision to the IAEA of information obtained by the Commission pursuant to the Regulation that was beyond the information described in the safeguards agreements) are still pertaining today. 
+It was thus deemed necessary to keep the above Article. 
+Remark: 
+Regarding Member States' compliance with the deadline appearing in Article 32, the Commission will take into consideration delays that might arise in relation to adaptation of national legislation for the first year of application of Regulation (Euratom) No 302/2005. 
+2.5.2. Provision for nuclear material contained in waste (Articles 30 to 32, and Annexes XII to XV) 
+2.5.2.1. Definitions relevant to nuclear material contained in waste 
+(1) Nuclear material on inventory 
+Nuclear material contained in waste will normally originate from a "waste stream" from an activity that processes nuclear material. These "waste streams" are properly accounted for in the installation that produces the waste and reported as any other nuclear material on the inventory. 
+(2) Retained Waste 
+"Retained waste" is nuclear material generated from processing or from an operational accident, which is deemed to be unrecoverable for the time being but which is stored. The actual inventory change used in accounting records and reports is termed "transfer to retained waste" (TW). Material transferred to retained waste is stored at the material balance area (MBA) and continues to be subject to IAEA safeguards (Safeguards Agreement), but is not included in the inventory of the MBA. 
+It refers to nuclear material contained in waste that is measured or estimated on the basis of measurements and has been transferred to a specific location within the material balance area from which it could be retrieved. Waste belonging to this category has normally not yet been conditioned and is regarded as economically irrecoverable by current technology. 
+(3) Conditioned Waste 
+"Conditioned waste" is nuclear material contained in waste that is measured or estimated on the basis of measurements and has been conditioned in such a way (for example, in glass, cement, concrete or bitumen) that it is not suitable for further nuclear use. The actual inventory change used in accounting records and reports is termed "transfer to conditioned waste" (TC). This material is normally not subject anymore to IAEA safeguards under the Safeguards Agreements [terminated pursuant to paragraph 11 and 35 of INFCIRC/193, INFCIRC/263 or INFCIRC/290]. This category could also apply to some specific cases where IAEA safeguards are terminated on nuclear material in waste, which is not fully conditioned. 
+However, information regarding the location or further processing of intermediate or high-level "conditioned waste" containing plutonium, high enriched uranium or uranium-233 on which safeguards have been terminated pursuant to paragraph 11 of INFCIRC/193, INFCIRC/263 or INFCIRC/290 has to be reported to the IAEA under article 2a(viii) of the additional protocol. In this context, "further processing" does not include repackaging of the waste or its further conditioning not involving the separation of elements, for storage or disposal. 
+(4) Termination of Euratom safeguards 
+Euratom safeguards are terminated on nuclear material that is irrevocably discarded to the environment as the result of a planned discharge. The nuclear material contained in such discharge is measured or estimated on the basis of measurements. 
+Euratom safeguards (and IAEA safeguards) are terminated on these materials at the point of discharge. 
+(5) Termination of Euratom safeguards on waste containing low concentrations of nuclear material 
+Euratom safeguards can also be terminated on waste containing very low concentrations of nuclear material as indicated in the table below, which are considered practically irrecoverable - even if they are not discarded to the environment. Termination of Euratom safeguards on waste containing concentrations of nuclear material which are higher than those given in the table below may be granted on a case by case basis when properly justified. 
+Depleted and natural uranium | 1000 g/tonne | 
+Low enriched uranium | 200 g/tonne | 
+High enriched uranium | 10 g/tonne | 
+Plutonium | 4 g/tonne | 
+2.5.2.2. Accountancy Requirements for nuclear material contained in waste 
+(6) Nuclear material on inventory 
+Nuclear material contained in waste that is not yet declared as retained waste, conditioned waste or waste discarded to the environment is accounted for and reported as any other nuclear material on inventory. 
+(7) Nuclear material contained in retained waste (Article 30) 
+Installations producing, handling, processing or storing retained waste provide BTCs, on the basis of which PSPs are prepared. BTCs are prepared following Annex I-H to Regulation (Euratom) No 302/2005 if it consists of an installation only involving nuclear materials contained in waste, or alternatively, the relevant activities are included in the BTCs of the installation that generates the retained waste. Each installation is also required to provide an annual programme of activities covering, if possible, the following two years. In the case of an installation that generates retained waste, this annual programme shall be included in the same programme of activities to be provided under Article 5. 
+Material is transferred from the main inventory to retained waste using the inventory change code TW (transfer to retained waste). It is subtracted form the inventory of third country-obligated material and will be normally kept under the obligation code P. Retained waste is brought back onto the main inventory, using code FW (transfer from retained waste), for any processing involving the separation of elements or for any shipment. 
+Any processing of retained waste that does not involve the separation of elements can be conducted off the main inventory. The operator advises Euratom of such processing in the programme of activities, records for which (including the quantities of material involved) are to be available at the installation. 
+In order to establish a starting point an initial stock list is to be established, where applicable, of the nuclear material contained in retained waste. It shall include the estimated stock (e.g. using the form of the PIL or the LII), normally with obligation code P based on best available values. The initial stock list should provide details of the total amounts of nuclear material for each MBA, by category (Pu, HEU, LEU, N, D, and T) and broken down at the level of storage areas and type of waste. This list will be updated annually following the PIT. Operator documentation in support of the figures will be made available on site as requested during Euratom safeguards inspections. 
+Upon shipment the installation declares the inventory change code FW followed by SD or SF, normally with obligation code P. 
+Upon receipt of material that qualifies for retained waste, the operator declares the transaction code RD or RF followed by TW, normally with obligation code P. 
+Operating and accounting records, including all movements, are to be kept and made available on site as requested during Euratom safeguards inspections. 
+Advance notifications (Articles 20 and 21) of retained waste receipts and shipments are not required. 
+Operators are required to undertake an annual PIT. The PIT for retained waste does not involve remeasurement of the nuclear material but is established based upon the best available values. The stock list is updated yearly after the PIT. 
+No PIL (Annex V to Regulation (Euratom) No 302/2005) and no MBR (Annex IV to Regulation (Euratom) No 302/2005) are required for material previously declared as retained waste. Any TW or FW transaction will be included in the ICRs (Annex III to Regulation (Euratom) No 302/2005) of the MBA generating the retained waste. 
+(8) Nuclear material contained in conditioned waste (Article 30) 
+Installations producing, handling, processing or storing conditioned waste provide BTCs, on the basis of which PSPs are prepared. BTCs are prepared following Annex I-H to Regulation (Euratom) No 302/2005 if it consists of an installation only involving nuclear materials contained in waste, or alternatively, the relevant activities are included in the BTCs of the installation that generates the conditioned waste. Each installation is also required to provide an annual programme of activities covering if possible the following two years. 
+Material is transferred from the main inventory to conditioned waste using the inventory change code TC (transfer to conditioned waste). It is subtracted from the inventory of third country-obligated material and will be normally kept under obligation code P. Where applicable, IAEA safeguards are terminated on this material following Articles 11 and 35 of the Safeguards Agreements. 
+In order to establish a starting point, an initial stock list of the nuclear material contained in conditioned waste is to be established, where applicable. It shall include the estimated stock (e.g. using the form of the PIL or the LII (list of inventory items)), normally with obligation code P based on best available values. The initial stock list should provide detail of the total amounts of nuclear material for each MBA, by category (Pu, HEU, LEU, N, D, and T) and broken down at the level of storage areas and type of waste. This list will be updated annually following the PIT. Operator documentation in support of the figures will be made available on site as requested during Euratom safeguards inspections. 
+Shipments of conditioned waste from the installation are communicated to Euratom using the form in Annex XIII. Receipts of conditioned waste from outside the EU (or from within the EU if the shipper does not have an MBA code) are communicated using the form in Annex XIV. Annexes XIII and XIV communications can be grouped per year and do not require information on the obligation code. Communications are not required if no transactions took place. 
+Advance notifications (Articles 20 and 21) of conditioned waste receipts and shipments are not required. 
+In order to fulfil the obligations under the additional protocol, advance notification (Article 31) is to be given to the Commission of any waste-processing campaign involving intermediate and high level waste containing plutonium or high enriched uranium or uranium-233, but excluding repackaging or further conditioning without separation of elements (using the form in Annex XII). For processing campaigns of low-level wastes no notifications are required. In addition, according to Article 32c, each year an annual report of changes in location of conditioned waste containing plutonium, high-enriched uranium or uranium-233, using the form in Annex XV, has to be made. It is understood that the above refers mainly to waste. 
+Operating and accounting records, including all movements, are to be kept and made available on site as requested during Euratom safeguards inspections. 
+Operators are required to undertake an annual PIT. The PIT for conditioned waste does not involve a remeasurement of the nuclear material but is established based upon the best available values. The stock list is updated yearly after the PIT. 
+No ICR (Annex III to Regulation (Euratom) No 302/2005), no PIL (Annex V to Regulation (Euratom) No 302/2005) and no MBR (Annex IV to Regulation (Euratom) No 302/2005) are required for material previously declared as conditioned waste. 
+(9) Nuclear material on which Euratom Safeguards can be terminated 
+Material is discarded from the main inventory to the environment using the transaction code TE (discard to the environment) and subtracted form the inventory of third country-obligated material. Euratom safeguards terminate on this material. 
+Material on which Euratom safeguards is to be terminated, but which will not be discarded to the environment is subtracted from the main inventory using the transaction code TU (termination of use) and subtracted form the relevant obligation code account. 
+2.5.2.3. Examples of various types of "waste" and their reporting 
+The table below provides some examples of typical waste streams encountered in the European nuclear fuel cycle and their possible reporting mechanisms. 
+In order for material to qualify for "Conditioned Waste" (TC), the material has to be dispersed in a glass, cement, concrete or bitumen matrix is such a way that that it is not suitable for further nuclear use. The operator and the Commission may agree reporting arrangements on a case-by-case basis. The guidelines on the concentrations provisionally implemented by Euratom safeguards (and by the IAEA where applicable) are as recommended by the IAEA Member States' experts and included in the IAEA policy paper 14 on waste. 
+Nuclear material contained in "waste" 
+Examples of reporting under Regulation (Euratom) No 302/2005 
+Description of the material | Transaction codes | 
+Spent fuel in ponds | Nuclear material on inventory (NMI) | 
+Spent fuel in dry storage casks | NMI | 
+Spent fuel pieces in storage silos | NMI | 
+Spent fuel in final repositories | NMI | 
+Solution containing fission products in reprocessing plants | Normally TW upon storage | 
+Fuel pieces and residues from PIE dispersed in cement matrix | TC upon conditioning | 
+Leached hulls in reprocessing plants dispersed in cement matrix | TC upon conditioning | 
+Decanned swarf with associated carryover of nuclear material from reprocessing plant dispersed in cement matrix | TC upon conditioning | 
+Undissolved fines in reprocessing plants | TW upon storage, or TC upon conditioning | 
+Liquid effluents from various activities | TW upon storage, or TC upon conditioning | 
+Vitrified waste from reprocessing plants | TC upon conditioning normally | 
+Cemented waste from reprocessing plants | TC upon conditioning | 
+Radioactive waste stores often contain various amounts of uranium and thorium | Case by case | 
+Other Pu contaminated Material | TW upon storage, or TC upon conditioning | 
+Nuclear material found during decommissioning and clean out of old plants | Take on books as GA or FW then TW upon storage, or TC upon conditioning | 
+Waste at U processing plants | Case by case | 
+2.5.2.4. Verification activities 
+1. Nuclear material on inventory 
+As long as the nuclear material is still on inventory and has not been transferred to any of the "waste" categories, all measures as established in the installation's safeguards approach apply. They include normally the verification of the BTCs, physical verification of inventories, receipts and shipments, the verification of the accountancy system, operating and accounting records and reports. 
+2. Nuclear material contained in retained waste 
+Safeguards activities would normally be limited to the verification of the BTCs, operating and accounting records. The objective of the verification of the BTCs is the confirmation that the installation is operating as declared. Physical verifications would normally not be done on retained waste. Euratom safeguards however maintains the right to request for some physical checks to help to resolve discrepancies. 
+3. Nuclear material contained in conditioned waste 
+Safeguards activities would normally be limited to the verification of the BTCs, operating and accounting records. The objective of the verification of the BTCs is the confirmation that the installation is operating as declared. Physical verifications would normally not be done on conditioned waste. Euratom safeguards however maintains the right to request for some physical checks to help to resolve discrepancies. 
+2.6. Chapter VII - Final provisions (Articles 35 to 40) 
+Concerning the confidentiality of data (Article 35), it is noted that the security grading for information received by the Commission from an operator or a Member State and vice versa will at least be equal to the level requested by the issuer of the information. 
+When documents are classified by an operator, a Member State or the Commission, the security measures in Euratom Regulation No 3 of 31 July 1958 need to be implemented. When classified information is transmitted electro-magnetically to the Commission, the provisions of Commission Decision 2001/844/EC, ECSC, Euratom [7], and in particular Article 25(5)(5) thereof, need to be respected. 
+Concerning the transitional period (Article 39), please note that persons or undertakings may continue using Annexes II, III and IV to Regulation (Euratom) No 3227/76 in order to comply with the reporting requirements. 
+If, within three years from the entry into force, a person or undertaking is ready to switch to the use of the reporting Annexes III, IV and V to Regulation (Euratom) No 302/2005, he should inform the Commission accordingly and start reporting. 
+If, on the contrary, at the end of the three-year year period, a person or undertaking is not ready to start reporting using the reporting Annexes III, IV and V to Regulation (Euratom) No 302/2005, he should address to the Commission a request for an extension of this period by up to another two years and present at the same time an implementation programme. 
+It is clarified here that the aim of the Commission in introducing the above procedure (i.e. request for extension of the period) is to monitor the progress of the persons or undertakings towards introducing the new reporting format, so that the whole exercise is completed within the period of five years foreseen in the Regulation. 
+3. SUMMARY OF REPORTING OBLIGATIONS (WHO, WHEN, WHAT) 
+Who | When | What | Reference | 
+Any person or undertaking setting up or operating an installation for the production, separation, reprocessing, storage or any use of nuclear material (power production in reactors, research in critical or zero energy installations, conversion, fabrication, reprocessing, storage, isotope separation, ore production and ore concentration, as well as treatment or storage of waste). | 200 days before the first consignment of nuclear material is due to be received | BTC, Annex I. | Articles 3, 4 | 
+Any person, undertaking or entity designated as site representative by each Member State being a party to the additional protocol to the Agreement, signed on 22 September 1998. | Within 120 days of the entry into force of the Additional Protocol | Declaration containing a general description of the site, on the basis of the questionnaire shown in Annex II fulfilling the requirements of Article 2(a)(iii) of the Additional Protocol. | Article 3 | 
+Any person, undertaking or entity designated as site representative by each Member State being a party to the additional protocol to the Agreement, signed on 22 September 1998. | By 1 April of each year | Updates to the declaration containing a general description of the site, on the basis of the questionnaire shown in Annex II fulfilling the requirements of Article 2(a)(iii) of the Additional Protocol. | Article 3 | 
+Any person or undertaking setting up a new installation with an inventory or annual throughput of nuclear material, whichever is the greater, of more than one effective kilogram. | At least 200 days before construction begins. | All relevant information relating to the owner, operator, purpose, location, type, capacity and expected commissioning date. | Article 4 | 
+Any person or undertaking operating waste treatment or waste storage installations and ore producers existing when this Regulation enters into force for which BTCs have not been submitted previously. | Within 120 days of the date on which this Regulation enters into force. | BTC, Annex I. | Article 4 | 
+Any person or undertaking operating any installation existing when this Regulation enters into force having additional information (i.e.: "use") required by the questionnaire in Annex I. | Within 120 days of the date on which this Regulation enters into force. | BTC, additional information on Annex I (by letter). | Article 4 | 
+Any person or undertaking setting up or operating an installation applying changes in the basic technical characteristics (BTCs) or for installations in acceding countries. | Within 30 days after the modification is complete or within 30 days after the accession. | Changes in the basic technical characteristics. | Article 4 | 
+Any person or undertaking operating an installation. | Annually. | An outline programme of activities on the basis of the guidelines given in Annex XI, indicating, in particular, provisional dates for taking a physical inventory. | Article 5 | 
+Any person or undertaking operating an installation planning to take a physical inventory | At least 40 days before taking the physical inventory. | The programme for such work. | Article 5 | 
+Any person or undertaking operating an installation that apply changes affecting the outline programme of activities and, in particular, the physical inventory taking. | Without delay. | Updated outline programme of activities and, in particular, the physical inventory taking. | Article 5 | 
+The persons and undertakings referred to in Article 3(1) addressees of a reasoned request by the Commission asking further details or explanations in connection with the accounting reports. | Within 3 weeks from the request. | Further details or explanations requested. | Article 10 | 
+The persons and undertakings referred to in Article 3(1) that have not already transmitted an initial inventory under Regulation (Euratom) No 3227/76, and that are not waste treatment or storage installations. | Within 30 days of the entry into force of this Regulation. | An initial book inventory of all nuclear materials they are holding, in accordance with Annex V. | Article 11 | 
+The persons and undertakings referred to in Article 3(1) operating an installation where inventory changes have occurred during the calendar month [a physical inventory has been in the last day of the month]. | As specified in the particular safeguards provisions or at the latest within 15 days of the end of the month in which the inventory changes occur or become known. | Inventory change reports in respect of all nuclear materials in accordance with Annex III. | Article 12 | 
+The persons and undertakings referred to in Article 3(1) operating an installation where a physical inventory has been taken on a day different to the last day of the month. | As soon as possible and, at the latest, within 30 days of the date on which the physical inventory was taken. | Inventory change reports in respect of all nuclear materials in accordance with Annex III containing all inventory changes from the beginning of the month to and including the physical inventory taking date. | Article 12 | 
+The persons and undertakings referred to in Article 3(1) operating an installation where a physical inventory has been taken on a day different to the last day of the month. | As specified in the particular safeguards provisions or at the latest within 15 days of the end of the month in which the inventory changes occur or become known. | Inventory change reports in respect of all nuclear materials in accordance with Annex III containing all inventory changes from the first day after the physical inventory taking date to the end of the month. | Article 12 | 
+The persons and undertakings referred to in Article 3(1) operating an installation where no inventory changes have occurred during the calendar month. | Unless otherwise specified in the particular safeguard provisions at the latest within 15 days of the end of the month in which no inventory changes occur or become known. | Inventory change reports in respect of all nuclear materials in accordance with Annex III carrying over the ending book inventory of the previous month. | Article 12 | 
+The persons and undertakings referred to in Article 3(1). | Unless otherwise specified in the particular safeguard provisions, every calendar year and within 14 months from the previous one. | Physical inventory taking. | Article 13 | 
+The persons and undertakings referred to in Article 3(1) having taken a physical inventory. | As soon as possible and at the latest within 30 days of the date on which a physical inventory was taken. | Material balance reports, in accordance with Annex IV. A physical inventory listing, in accordance with Annex V. | Article 13 | 
+The persons and undertakings finding that the containment has unexpectedly changed from that specified in the particular safeguard provisions, to a point where an unauthorised removal of nuclear material has become possible. | As soon as they have become aware of the event. | Special report. | Articles 14, 15 | 
+The persons and undertakings believing that there has been or might be an increase or a loss of nuclear material (in excess of the limits specified for these purposes in the particular safeguards provisions. If no PSPs exist, any such loss or increase should give rise to a special report). | As soon as they have become aware of any such loss or increase. | Special report. | Articles 14, 15 | 
+The persons and undertakings that have submitted a special report in accordance with Article 14 that have received a request by the Commission of further details or explanations connected with the special report. | Without delay. | Requested explanations. | Article 14 | 
+The persons and undertakings referred to in Article 3(1) operating a reactor. | At latest when irradiated fuel is transferred from the reactor MBA. | Calculated data on nuclear transformations must be reported in the ICR. | Article 16 | 
+Producers and users of nuclear materials liable to derogation from the rules governing the form and frequency of notification provided for in Articles 10 to 18, according to Article 19. | As required. | Request for derogation based on the form set out in Annex IX. | Article 19 | 
+The persons or undertakings to whom a derogation is granted. | Annually by 31 January of each year. | Report describing the situation at the end of the previous calendar year using the form set out in Annex X. | Article 19 | 
+The persons or undertakings to whom a derogation is granted selling nuclear material to a third country. | As soon as possible and, at the latest, within 15 days of the end of the month in which the transfer of nuclear material occurred. | Report indicating the quantity of nuclear material sold and exported and the stock of nuclear material still subject to derogation using the form set out in Annex X. | Article 19 | 
+The persons or undertakings to whom a derogation is granted buying nuclear material from a third country. | As soon as the persons or undertakings are aware of the transfer date and, at the latest, within 15 days of the end of the month in which the transfer of nuclear material occurred. | Request to add this material to the list of materials in respect of which derogation applies, using the form set out in Annex IX. | Article 19 | 
+The persons and undertakings to whom a derogation is granted. | Conditions for derogation are no longer met. | Inform the Commission. | Article 19 | 
+The persons and undertakings referred to in Article 3(1) exporting or shipping any source materials or special fissile materials in accordance with Article 20. | After the conclusion of the contractual arrangements leading to the transfer, and shall reach the Commission at least eight working days before the material is to be packed for transfer. | Advance notification using the form set out in Annex VI. | Article 20 | 
+The persons and undertakings referred to in Article 3(1) importing or receiving any source materials or special fissile materials in accordance with Article 21. | As far in advance as possible of the expected arrival of the material and, at the latest, on the date of receipt and shall reach the Commission at least five working days before the material is unpacked. | Advance notification using the form set out in Annex VII. | Article 21 | 
+Any persons or undertakings notifying a transfer under Articles 20 and 21 receiving information that, following exceptional circumstances or an incident, nuclear materials have been lost or appear to be lost. | Without delay. | Special report as provided for in Article 15 | Article 22 | 
+Any persons or undertakings notifying a transfer under Articles 20 and 21. | Without delay. | Any change of date in the packing for transfer, in the transport or in the unpacking of nuclear materials with an indication of the revised dates if known. | Article 23 | 
+Any person or undertaking extracting and exporting ores to third countries. | On the date of the dispatch at the latest. | Export declaration of the amount of material dispatched from each mine using the form set out in Annex VIII. | Article 25 | 
+Any person or undertaking extracting and shipping ores in the territory of the Member States. | By 31 January of each year. | Shipment declaration of the amount of material dispatched from each mine during the previous year using the form set out in Annex VIII. | Article 25 | 
+Any person or undertaking treating or storing nuclear material that has previously been declared as retained or conditioned waste. | Within 120 days after this Regulation comes into force. | An initial stock list of all nuclear material by category broken down at the level of storage areas and form of waste. | Article 30 | 
+The persons or undertakings referred to in Article 3(1) operating any processing campaign of material that has previously been declared as retained or conditioned waste, excluding repackaging or further conditioning without separation of elements. | To reach the Commission at least 200 days before the campaign starts. | Advance notification, in accordance with Annex XII, including the amount of material per batch (plutonium, high-enriched uranium and uranium-233 only), the form (glass, high active liquid, etc.), the expected duration of the campaign, and the location of the material before and after the campaign. | Article 31 | 
+The persons or undertakings referred to in Article 3(1) involved in transfers of material that has previously been declared as conditioned waste. | By 31 January of each year. | Annual reports of: shipments or exports of conditioned waste in accordance with Annex XIII;receipts or imports of conditioned waste (in accordance with Annex XIV;changes in location of conditioned waste in accordance with Annex XV. | Article 32 | 
+The persons or undertakings referred to in Article 3(1). | Within three years from the entry into force of this Regulation. | Inform the Commission about the date they intend to start using the reporting formats set out in Annexes III, IV and V. | Article 39 | 
+4. APPENDICES 
+4.1. The XML schema 
+XSD Reporting Schema 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
+4.2. The CRC algorithm 
+CRC – C example code 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
+4.3. List of Internet addresses 
+For the XML schema; the CRC algorithm and the FAQ site: http://forum.europa.eu.int 
+For general information on XML: http://www.xml.org 
+[1] OJ L 363, 31.12.1976, p. 1. 
+[2] Other tasks of the "site representative", such as informing the different operators on a site about an on-going inspection in one MBA of this site (as this could be the basis for a complementary access with two hours notice) or granting access to all buildings of that site (a site can comprise more than only buildings with nuclear material), may be arranged after agreement with the operator and the Member State concerned. 
+[3] "Guidelines and Format for Preparation and Submission of Declarations Pursuant to Articles 2 and 3 of the Model Protocol Additional to the Safeguards Agreements", August 1997. 
+[4] Corresponding to Article 2a(iii) of the additional protocol "A general description of each building on a site, including its use and, if not apparent from this description, its contents…" 
+[5] NN-LOFs containing nuclear material that has not been exempted. The term "LOF" is used in these Guidelines to denote installations using nuclear material in quantities less than one effective kilogram. 
+[6] Please note that dismantling activities may still continue after the location has received the status "decommissioned". 
+[7] OJ L 317, 3.12.2001, p. 1. 
+-------------------------------------------------- 

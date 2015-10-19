@@ -1,0 +1,39 @@
+91/637/EEC: Commission Decision of 3 December 1991 establishing the model for the message to be transmitted by means of the computerized network Animo' 
+COMMISSION DECISION of 3 December 1991 establishing the model for the message to be transmitted by means of the computerized network 'Animo' (91/637/EEC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Economic Community, 
+Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Regulation (EEC) No 91/496/EEC (2), and in particular Article 20 (3) thereof, 
+Whereas on 19 July 1991 the Commission adopted Decision 91/398/EEC on a computerized network linking veterinary authorities (Animo) (3); 
+Whereas, in order to ensure the smooth functioning of the network, a model should be established for the message to be transmitted by the competent veterinary authorities; 
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+The message to be transmitted by means of the computerized network Animo shall be in accordance with the model in the Annex. 
+Article 2 
+This Decision shall be reviewed before 31 December 1992 in the light of the development of the veterinary rules and in particular those concerning certification requirements. 
+Article 3 
+This Decision is addressed to the Member States. 
+Done at Brussels, 3 December 1991. For the Commission 
+Ray MAC SHARRY 
+Member of the Commission 
+(1) OJ No L 224, 18. 8. 1990, p. 29. (2) OJ No L 268, 24. 9. 1991, p. 56. (3) OJ No L 221, 9. 8. 1991, p. 30. 
+ANNEX 
+MODEL FOR THE MESSAGE 
+1. Date of transmissin 
+2. Origin 
+- Country code - unit code 
+- Health certificate 
+- Number 
+- Date 
+- Name of veterinarian signing the certificate 
+3. Destination 
+- Country code - unit code 
+- Receiver and address of place of destination 
+4. Merchandise 
+- Type - code 
+- Number/quantity 
+5. Means of transport 
+- Type of transport (lorry, train, plane, ship, etc.) 
+- Identification of means of transport (registration of lorry, wagon number, flight number, name of vessel, container number, etc.) 
+6. Observations 
+[In particular, for frontier inspection posts: origin of animals and products.] 

@@ -1,0 +1,77 @@
+Reglamento (CE) n° 2306/2002 de la Comisión, de 20 de diciembre de 2002, por el que se establecen las disposiciones de aplicación del Reglamento (CE) n° 104/2000 en lo relativo a la notificación de los precios de importación de los productos de la pesca 
+Reglamento (CE) no 2306/2002 de la Comisión 
+de 20 de diciembre de 2002 
+por el que se establecen las disposiciones de aplicación del Reglamento (CE) n° 104/2000 en lo relativo a la notificación de los precios de importación de los productos de la pesca 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) n° 104/2000 del Consejo, de 17 de diciembre de 1999, por el que se establece la organización común de mercados en el sector de los productos de la pesca y de la acuicultura(1), y, en particular, el apartado 5 de su artículo 29, 
+Considerando lo siguiente: 
+(1) El apartado 4 del artículo 29 del Reglamento (CE) n° 104/2000 requiere a los Estados miembros que comuniquen periódicamente a la Comisión los precios y las cantidades importadas de determinados productos de la pesca registrados en sus mercados o puertos. 
+(2) Procede elaborar una nueva lista de los mercados y puertos donde se registran las importaciones con el fin de tener en cuenta los volúmenes reales de importación. 
+(3) Es preciso, asimismo, establecer disposiciones para la rápida transmisión, en un nuevo formato electrónico, de los datos necesarios para el control de los precios de referencia. 
+(4) Por lo tanto, procede derogar el Reglamento (CE) n° 2211/94 de la Comisión, de 12 de septiembre de 1994, por el que se establecen las disposiciones de aplicación del Reglamento (CEE) n° 3759/92 del Consejo en lo relativo a la notificación de los precios de los productos de la pesca importados(2), cuya última modificación la constituye el Reglamento (CE) n° 2805/1999(3). 
+(5) Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité de gestión de los productos de la pesca. 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+1. Los Estados miembros notificarán a la Comisión los precios de importación y las cantidades importadas de los productos que figuran en los anexos I a IV del Reglamento (CE) n° 104/2000, para las que se haya fijado un precio de referencia y que se despachen a libre práctica. Esa información se desglosará por códigos TARIC y fechas de presentación de la declaración de importación. 
+2. La obligación de notificación se aplicará por lo menos a los productos que se despachen a libre práctica en los mercados y puertos que se indican en el cuadro 3 del anexo. 
+3. Esta comunicación se efectuará a más tardar el día 25 de cada mes o el primer día hábil siguiente para los productos que se despachen a libre práctica entre los días 1 y 15 del mes, y a más tardar el día 10 del mes siguiente o el primer día hábil siguiente para los productos que se despachen a libre práctica entre el día 16 y el último día del mes. La notificación se enviará por correo electrónico en el formato indicado en el anexo. 
+Artículo 2 
+Queda derogado el Reglamento (CE) n° 2211/94. 
+Artículo 3 
+El presente Reglamento entrará en vigor el 1 de enero de 2003. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 20 de diciembre de 2002. 
+Por la Comisión 
+Franz Fischler 
+Miembro de la Comisión 
+(1) DO L 17 de 21.2.2000, p. 22. 
+(2) DO L 238 de 13.9.1994, p. 1. 
+(3) DO L 340 de 31.12.1999, p. 51. 
+ANEXO 
+1. Formato de los datos 
+%gt%SITIO PARA UN CUADRO%gt% 
+2. Formato de los mensajes 
+2.1. Formato FIDES I 
+Las administraciones de los Estados miembros que no hagan pleno uso de FIDES II deberán emplear el formato siguiente. El fichero es un fichero de texto compuesto de 7 registros diferentes: 
+- Cada dato se separa del siguiente mediante punto y coma. 
+- Cada línea del mensaje va seguida de un retorno de carro. 
+Se presenta del siguiente modo: 
+%amp%lt; TTL %amp%gt;MK-IMPORT 
+%amp%lt; RMS %amp%gt;C(3) 
+%amp%lt; DSE %amp%gt;AAAAMMDD; 
+%amp%lt; MTYP %amp%gt;C(19); 
+%amp%lt; LOT %amp%gt;C(16); 
+%amp%lt; MON %amp%gt;C(3); 
+%amp%lt; DAT %amp%gt;AAAAMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+%amp%lt; DAT %amp%gt;AAAAMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+%amp%lt; DAT %amp%gt;AAAAMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+... 
+2.2. Formato FIDES II 
+Las administraciones de los Estados miembros que hagan pleno uso de FIDES II deberán emplear el formato siguiente: 
+%amp%lt; FIDES2 %amp%gt; 
+%amp%lt; HEAD %amp%gt; 
+%amp%lt; REQUEST.NAME %amp%gt;MK-IMPORT 
+%amp%lt; REQUEST.COUNTRY.ISO_A3 %amp%gt;C(3) 
+%amp%lt; /HEAD %amp%gt; 
+%amp%lt; BODY %amp%gt; 
+%amp%lt; DSE %amp%gt;AAAAMMDD; 
+%amp%lt; MTYP %amp%gt;C(19); 
+%amp%lt; LOT %amp%gt;C(16); 
+%amp%lt; MON %amp%gt;C(3); 
+%amp%lt; DAT %amp%gt;AAAAMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+%amp%lt; DAT %amp%gt;AAAAMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+%amp%lt; DAT %amp%gt;AAAAMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+... 
+%amp%lt; /BODY %amp%gt; 
+%amp%lt; /FIDES2 %amp%gt; 
+3. Códigos 
+Cuadro 1 
+Códigos de los Estados miembros 
+%gt%SITIO PARA UN CUADRO%gt% 
+Cuadro 2 
+Códigos de las monedas 
+%gt%SITIO PARA UN CUADRO%gt% 
+Cuadro 3 
+Puertas de entrada 
+%gt%SITIO PARA UN CUADRO%gt% 

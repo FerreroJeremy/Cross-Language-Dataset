@@ -1,0 +1,21 @@
+Modification de la liste des normes et/ou des spécifications pour les réseaux de communications électroniques, les services de communications électroniques et les ressources et services associés (Texte présentant de l'intérêt pour l'EEE) 
+Modification de la liste des normes et/ou des spécifications pour les réseaux de communications électroniques, les services de communications électroniques et les ressources et services associés 
+(2006/C 71/04) 
+(Texte présentant de l'intérêt pour l'EEE) 
+NOTE EXPLICATIVE CONCERNANT LA MODIFICATION DE LA LISTE DES NORMES ET/OU DES SPÉCIFICATIONS POUR LES RÉSEAUX DE COMMUNICATIONS ÉLECTRONIQUES, LES SERVICES DE COMMUNICATIONS ÉLECTRONIQUES ET LES RESSOURCES ET SERVICES ASSOCIÉS 
+Dans sa communication relative à l'interopérabilité des services de télévision numérique interactive [1], la Commission avait annoncé son intention d'ajouter des normes supplémentaires de télévision interactive numérique (MHEG-5 et WTVML) à la liste des normes, à condition qu'elles soient adoptées par l'Institut européen des normes de télécommunications (ETSI). 
+Les normes MHEG-5 et WTVML ont désormais été adoptées par l'ETSI, et la liste des normes fait l'objet de la présente modification. 
+Le chapitre VI de la liste des normes et/ou des spécifications pour les réseaux de communications électroniques, les services de communications électroniques et les ressources et de services associés telle qu'elle est publiée au Journal officiel de l'Union européenne (JO C 331 du 31.12.2002, p. 47) est modifié comme suit: 
+La rubrique intitulée %quot%INTERFACES DE PROGRAMME D'APPLICATION (API)%quot%, ainsi que tout le texte figurant à la page 47 sous cette rubrique sont supprimés et remplacés par le titre de rubrique et le texte suivant: 
+%quot%TÉLÉVISION NUMÉRIQUE INTERACTIVE 
+L'article 18, paragraphe 1, point a), de la directive cadre oblige les États membres à encourager, conformément aux dispositions de l'article 17, paragraphe 2, les fournisseurs de services de télévision numérique interactive distribués au public de la Communauté sur des plate-formes de télévision numérique interactive, quel que soit le mode de transmission, à utiliser une API ouverte. 
+Interfaces de programme d'application (API) 
+Interfaces techniques et/ou caractéristiques des services | Référence | Notes | 
+Radiodiffusion vidéonumérique (DVB); spécifications de la plate-forme multimédia domestique (MHP) 1.1.1 | —ETSI TS 102812 | version 1.2.1 | 
+Radiodiffusion vidéonumérique (DVB); spécifications de la plate-forme multimédia domestique (MHP) 1.0.3 | —ETSI ES 201812 | version 1.1.1 anciennement TS 101812 v. 1.3.1 | 
+Profil de radiodiffusion MHEG-5 | —ETSI ES 202184 | version 1.1.1 | 
+Normes pour la réalisation de contenus de télévision interactive 
+Interfaces techniques et/ou caractéristiques des services | Référence | Notes | 
+WTVML, spécification pour un micronavigateur léger pour les applications de télévision interactive, fondée sur la norme WML et compatible avec elle | —ETSITS 102322 | version 1.1.1%quot% | 
+[1] COM(2004) 541. 
+-------------------------------------------------- 

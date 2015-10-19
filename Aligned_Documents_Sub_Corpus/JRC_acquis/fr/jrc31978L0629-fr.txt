@@ -1,0 +1,86 @@
+Directive 78/629/CEE du Conseil, du 19 juin 1978, portant adaptation au progrès technique de la directive 73/362/CEE concernant le rapprochement des législations des États membres relatives aux mesures matérialisées de longueur 
+DIRECTIVE DU CONSEIL du 19 juin 1978 portant adaptation au progrès technique de la directive 73/362/CEE concernant le rapprochement des législations des États membres relatives aux mesures matérialisées de longueur (78/629/CEE) 
+LE CONSEIL DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté économique européenne, 
+vu la proposition de la Commission, 
+vu la directive 71/316/CEE du Conseil, du 26 juillet 1971, concernant le rapprochement des législations des États membres relatives aux dispositions communes aux instruments de mesurage et aux méthodes de contrôle métrologique (1), modifiée par l'acte d'adhésion, et notamment ses articles 17, 18 et 19, 
+considérant que, depuis l'élaboration et l'adoption de la directive 73/362/CEE du Conseil, du 19 novembre 1973, concernant le rapprochement des législations des États membres relatives aux mesures matérialisées de longueur (2), de nouvelles mesures matérialisées de longueur ont été mises au point et que, en conséquence, pour tenir compte du progrès techniques, il y a lieu de modifier ladite directive; 
+considérant que la Commission a soumis, le 19 janvier 1978, une proposition de modification à l'avis du comité pour l'adaptation au progrès technique des directives visant à l'élimination des entraves techniques aux échanges dans le secteur des instruments de mesurage et que, en l'absence d'avis de ce comité, la Commission, conformément à la procédure prévue à l'article 19 paragraphe 3 sous b) de la directive 71/316/CEE, a proposé au Conseil les mesures à prendre, 
+A ARRÊTÉ LA PRÉSENTE DIRECTIVE: 
+Article premier 
+À l'annexe de la directive 73/362/CEE, les textes repris aux points 3.6, 4.1, 5.1, 6.3, 7.1, 7.2, 7.3, 8 , 9.1, 9.2, 9.4, et 9.5 sont modifiés conformément à l'annexe de la présente directive. 
+Article 2 
+Les États membres adoptent les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive de telle façon que ces dispositions prennent effet un an après la date de notification de la présente directive. Ils en informent immédiatement la Commission. 
+Les États membres communiquent à la Commission le texte des dispositions de droit interne qu'ils adoptent dans le domaine régi par la présente directive. 
+Article 3 
+Les États membres sont destinataires de la présente directive. 
+Fait à Luxembourg, le 19 juin 1978. 
+Par le Conseil 
+Le président 
+P. DALSAGER (1)JO nº L 202 du 6.9.1971, p. 1. (2)JO nº L 335 du 5.12.1973, p. 56. 
+ANNEXE 
+3.6. Les mesures de longueur en ruban doivent être réalisées de telle sorte que, lorsque le ruban est étalé sur un plan, ses bords soient pratiquement rectilignes et parallèles. 
+4.1. Les mesures de longueur doivent porter sur leur longueur nominale des graduations et chiffraisons claires, régulières, indélébiles et réalisées de telle sorte qu'elles permettent une lecture sûre, facile et non ambiguë. Toutefois, quelques graduations non chiffrées, avec un maximum égal au nombre de graduations comprises entre deux repères chiffrés consécutifs sur la mesure, peuvent dépasser le repère principal terminal. 
+5.1. La longueur nominale des mesures de longueur doit avoir l'une des valeurs suivantes : 0,5 - 1 - 1,5 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 mètres ou un multiple entier de 5 mètres. 
+6.3. Toutes ces inscriptions sont apposées de manière visible et lisible à partir du début de la mesure de longueur. 
+Toutefois, après accord du service national responsable, certaines de ces inscriptions peuvent être apposées sur une partie inamovible de cet instrument ; dans ce cas, le certificat d'approbation CEE de modèle devra indiquer les emplacements de ces inscriptions. 
+En outre, lorsque la largeur de la mesure de longueur ne permet pas d'apposer le signe d'approbation CEE de modèle de manière lisible, par dérogation aux prescriptions du point 3.1 de l'annexe I de la directive du Conseil, du 26 juillet 1971, concernant le rapprochement des législations des États membres relatives aux dispositions communes aux instruments de mesurage et aux méthodes de contrôle métrologique, et ce conformément au point 3.5 de cette annexe, ce signe peut être apposé sous la forme des marques successives suivantes: 
+%gt%PIC FILE= %quot%T0013223%quot%%gt% 7. ERREURS MAXIMALES TOLÉRÉES 
+7.1. Les mesures de longueur définies dans la présente directive sont réparties, selon leur degré de précision, en trois classes désignées par les indices I, II et III. 
+Pour la vérification primitive CEE des mesures de longueur, l'erreur maximale tolérée en plus ou en moins a) sur la longueur nominale 
+et 
+b) sur toute autre distance comprise entre deux repères quelconques non consécutifs 
+est exprimée en fonction de la longueur considérée par une formule de la forme (a + bL) millimètre dans laquelle: - L est la valeur de la longueur considérée arrondie au nombre entier de mètres par excès, 
+- a et b sont des coefficients fixés pour chaque classe de précision dans le tableau suivant: %gt%PIC FILE= %quot%T0013224%quot%%gt% 
+7.2. 
+7.2.1. L'erreur maximale tolérée, en plus ou en moins, sur la longueur i des échelons d'une valeur inférieure ou égale à 1 centimètre est fixée pour chaque classe de précision dans le tableau suivant: %gt%PIC FILE= %quot%T0013225%quot%%gt% 
+Pour la longueur des échelons d'une valeur supérieure à 1 centimètre, l'erreur maximale tolérée est exprimée, en fonction de la longueur de l'échelon, par la formule (a + bL) millimètre dans laquelle les valeurs des coefficients a et b sont égales aux valeurs reprises au point 7.1 et L est la valeur de la longueur considérée arrondie au nombre entier de mètres par excès. 
+7.2.2. La différence maximale tolérée entre les longueurs i de deux échelons consécutifs, d'une valeur inférieure ou égale à 1 centimètre, est fixée pour chaque classe de précision dans le tableau suivant: %gt%PIC FILE= %quot%T0013226%quot%%gt% 
+Pour la longueur des échelons d'une valeur supérieure à 1 centimètre, la différence maximale tolérée entre les longueurs i de deux échelons consécutifs est exprimée, en fonction de la longueur des échelons, par la formule (a + bL) millimètre telle qu'elle est définie au point 7.2.1. 
+7.3. Toutefois, sur une mesure de longueur à bouts ou mixte, l'erreur maximale tolérée, en plus ou en moins, sur la longueur de l'échelon terminal limité par une surface est majorée: - de 0,1 millimètre pour des mesures de la classe I, 
+- de 0,2 millimètre pour des mesures de la classe II, 
+- de 0,3 millimètre pour des mesures de la classe III. 
+En outre, les prescriptions prévues aux points 7.1 et 7.2.2 ne sont pas applicables: - lorsque l'un des deux repères non consécutifs tels que visés au point 7.1 sous b) est constitué par une surface 
+et 
+- lorsque l'un des deux échelons consécutifs tels que visés au point 7.2.2 est un échelon terminal limité par une surface. 
+8. MARQUES DE VÉRIFICATION 
+Toute mesure de longueur doit être réalisée de telle manière qu'elle puisse recevoir les marques de vérification prévues par la directive du Conseil, du 26 juillet 1971, concernant le rapprochement des législations des États membres relatives aux dispositions communes aux instruments de mesurage et aux méthodes de contrôle métrologique. Un emplacement vers le début de la mesure doit être prévu à cet effet sur la mesure elle-même ou sur un dispositif complémentaire inamovible. 
+9.1. Mesures en ruban de fibre de verre et matière plastique à bouts, à traits ou mixtes 
+Longueur nominale comprise entre 0,5 et 100 mètres. 
+La force de traction, de l'ordre de 20 N, doit être indiquée sur la mesure. 
+Les extrémités libres des mesures à bouts ou mixtes doivent être garnies d'un étrier ou embout résistant à l'usure. 
+Ces mesures appartiennent aux classes de précision I, II ou III. 
+9.2. Mesures d'une seule pièce, rigides ou semi-rigides en métal ou en un autre matériau 
+Longueur nominale comprise entre 0,5 et 5 mètres. 
+La température de référence peut, dans certains cas, être différente de 20 ºC. 
+Ces mesures comprennent également les piges qui sont utilisées pour repérer le niveau des liquides. 
+Le bout des piges rigides doit être muni d'un talon ou embout résistant aux chocs et à l'usure et non susceptible de provoquer des étincelles au choc. 
+Ces mesures appartiennent aux classes de précision I ou II. 
+9.4. Mesures en ruban d'acier 
+9.4.1. Mesures de longueur à bouts, à traits ou mixtes sur enrouleur. 
+Longueur nominale comprise entre 0,5 et 10 mètres ; les rubans des mesures d'une longueur nominale comprise entre 5 et 10 mètres doivent être cambrés. 
+Ces mesures peuvent être contenues dans un boîtier dont l'une des dimensions peut être comprise dans la partie affectée au mesurage, notamment pour le mesurage des dimensions intérieures. 
+L'extrémité libre de ces mesures est munie d'un crochet ou d'une languette fixe ou coulissante. 
+Ces mesures appartiennent aux classes de précision I ou II. 
+9.4.2. Mesures de longueur à bouts ou à traits, conçues pour le mesurage par report de longueurs supérieures à leur longueur nominale. 
+Longueur nominale : 5, 10, 20, 50, 100 ou 200 mètres. 
+La force de traction, de l'ordre de 50 N, doit être indiquée sur la mesure. 
+Ces mesures sont munies aux deux extrémités de poignées ou anneaux. Si les poignées sont comprises dans la longueur nominale, elles doivent être réalisées de telle sorte que leur articulation n'introduise aucune incertitude de mesurage. 
+Ces mesures appartiennent aux classes de précision I ou II. 
+9.4.3. Mesures de longueur à traits ou mixtes sur enrouleur, non conçues pour le mesurage par report. 
+Longueur nominale comprise entre 5 et 200 mètres. 
+La température de référence peut, dans certains cas, être différente de 20 ºC. 
+La force de traction, de l'ordre de 50 N, doit être indiquée sur la mesure. 
+L'extrémité libre doit comporter une poignée, un anneau ou un crochet qui n'est pas compris dans la longueur nominale. 
+Ces mesures appartiennent aux classes de précision I ou II. 
+9.5. Sondes mixtes en métal avec lest, utilisées comme piges pour repérer le niveau des liquides 
+Longueur nominale comprise entre 5 et 50 mètres. 
+La température de référence peut, dans certains cas, être différente de 20 ºC. 
+La force de traction, suffisante pour tendre correctement le ruban, doit être indiquée sur la mesure de longueur. 
+Cette force de traction est exercée sur la mesure au moyen d'un lest qui doit porter l'indication de sa masse. 
+Le repère principal, origine de l'échelle, est constitué par la base d'un lest de forme adéquate et réalisé dans un matérieau non susceptible de provoquer des étincelles au choc. 
+Le lest est attaché au ruban de manière fixe ou amovible de telle sorte que cette fixation ou articulation n'introduise aucune incertitude de mesurage. 
+La graduation à traits est millimétrique sur toute la longueur du ruban et se prolonge sur une face latérale plane du lest. 
+L'autre extrémité de la mesure peut être munie d'un dispositif d'enroulement. 
+Ces mesures appartiennent aux classes de précision I ou II. 
+Toutefois, l'erreur maximale tolérée sur l'ensemble de l'instrument en position d'emploi avec le lest n'est jamais inférieure à 0,6 millimètre. 

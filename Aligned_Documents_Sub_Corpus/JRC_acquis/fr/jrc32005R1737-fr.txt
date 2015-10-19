@@ -1,0 +1,470 @@
+R%egrave%glement (CE) n%deg% 1737/2005 de la Commission du 21 octobre 2005 portant modification du r%egrave%glement (CE) n%deg% 1726/1999 concernant la d%eacute%finition et la transmission des informations sur le co%ucirc%t de la main-d'%oelig%uvre (Texte pr%eacute%sentant de l'int%eacute%r%ecirc%t pour l'EEE) 
+Règlement (CE) no 1737/2005 de la Commission 
+du 21 octobre 2005 
+portant modification du règlement (CE) no 1726/1999 concernant la définition et la transmission des informations sur le coût de la main-d'œuvre 
+(Texte présentant de l'intérêt pour l'EEE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CE) no 530/1999 du Conseil du 9 mars 1999 relatif aux statistiques structurelles sur les salaires et le coût de la main-d'œuvre [1], et notamment son article 11, points ii) et iii), 
+considérant ce qui suit: 
+(1) Conformément à l'article 11 du règlement (CE) no 530/1999, des modalités d'application doivent être arrêtées en ce qui concerne la définition et la ventilation des informations à fournir et le format technique approprié pour la transmission des résultats. Le règlement (CE) no 1726/1999 du 27 juillet 1999 a défini ces modalités d’application [2]. 
+(2) L’enquête sur le coût de la main-d’œuvre pour 2000 a été la première enquête fondée sur le règlement (CE) no 1726/1999. L'expérience acquise dans le cadre de cette enquête a mis en évidence la nécessité d'améliorer les dispositions du règlement (CE) no 1726/1999, dans le but d’améliorer l’harmonisation de ces dispositions avec celles du règlement (CE) no 1916/2000 de la Commission du 8 septembre 2000 sur la mise en œuvre du règlement (CE) no 530/1999 du Conseil relatif aux statistiques structurelles sur les salaires et le coût de la main-d’œuvre concernant la définition et la transmission des informations sur la structure des salaires [3] et de renforcer les liens entre les données des diverses enquêtes sur les salaires et le coût de la main-d'œuvre effectuées tous les deux ans. 
+(3) Le règlement (CE) no 1726/1999 doit ainsi être modifié en conséquence. 
+(4) Les mesures prévues au présent règlement sont conformes à l'avis émis par le comité du programme statistique, 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article 1 
+Les annexes du règlement (CE) no 1726/1999 sont remplacées par le texte en annexes du présent règlement. 
+Article 2 
+Le présent règlement entre en vigueur le vingtième jour suivant la date de sa publication au Journal officiel de l'Union européenne. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 21 octobre 2005. 
+Par la Commission 
+Joaquín Almunia 
+Membre de la Commission 
+[1] JO L 63 du 12.3.1999, p. 6. Règlement modifié par le règlement (CE) no 1882/2003 du Parlement européen et du Conseil (JO L 284 du 31.10.2003, p. 1). 
+[2] JO L 203 du 3.8.1999, p. 28. 
+[3] JO L 229 du 9.9.2000, p. 3. 
+-------------------------------------------------- 
+ANNEXE I 
+LISTE DES VARIABLES 
+Statistiques structurelles sur le coût de la main-d'œuvre 
+Tableau A — Données nationales 
+Tableau B — Données nationales par classe de taille d'entreprise 
+Tableau C — Données régionales 
+Pour les variables énumérées ci dessous, soit le tableau A uniquement, soit l'ensemble des trois tableaux doit être fourni. Le caractère obligatoire ou facultatif de la livraison est indiqué respectivement par les abréviations "o" et "f". Les codes de transmission correspondant aux différentes catégories des variables qualitatives ou classes de taille des variables quantitatives sont fixés par Eurostat dans un document d’application. 
+Variable | A uniquement | A-C [1] | 
+A.Nombre de salariés 
+A.1Nombre total de salariés | | o | 
+A.11Salariés à temps complet (à l'exclusion des apprentis) | | o | 
+A.12Salariés à temps partiel (à l'exclusion des apprentis) | | o | 
+A.121Salariés à temps partiel convertis en équivalents temps complet (à l'exclusion des apprentis) | | o | 
+A.13Apprentis | | o | 
+A.131Apprentis convertis en équivalents temps complet | | o | 
+B.Heures effectivement travaillées 
+B.1Total des heures effectivement travaillées | | o | 
+B.11Heures effectivement travaillées par les salariés à temps complet (à l'exclusion des apprentis) | | o | 
+B.12Heures effectivement travaillées par les salariés à temps partiel (à l'exclusion des apprentis) | | o | 
+B.13Heures effectivement travaillées par les apprentis | | o | 
+C.Heures rémunérées 
+C.1Total des heures rémunérées | o | | 
+C.11Heures rémunérées des salariés à temps complet (à l'exclusion des apprentis) | o | | 
+C.12Heures rémunérées des salariés à temps partiel (à l'exclusion des apprentis) | o | | 
+C.13Heures rémunérées des apprentis | o | | 
+D.Coût de la main-d'œuvre (pour une ventilation détaillée, voir le graphique 1 ci-dessous) 
+D.1Rémunération des salariés | | o | 
+D.11Salaires et traitements (pour une ventilation détaillée, voir le graphique 2 ci-dessous) | | o | 
+D.111Salaires et traitements (à l'exclusion de ceux des apprentis) | | o | 
+D.1111Rémunération directe, primes et indemnités | | o | 
+D.11111Rémunération directe, primes et indemnités versées lors de chaque paie | o | | 
+D.11112Rémunération directe, primes et indemnités non versées lors de chaque paie [2] | o | | 
+D.1112Versements au titre de la formation d'un patrimoine au profit des salariés | | o | 
+D.1113Rémunérations pour journées non ouvrées | | o | 
+D.1114Salaires et traitements en nature | | o | 
+D.11141Produits de l'entreprise (facultatif) | f | | 
+D.11142Logement du personnel [3] (facultatif) | f | | 
+D.11143Voitures de société (facultatif) | f | | 
+D.11144Options d’achat d’actions et plans d'achat d'actions (facultatif) | f | | 
+D.11145Autres (facultatif) | f | | 
+D.112Salaires et traitements des apprentis | | o | 
+D.12Cotisations sociales à la charge des employeurs (pour une ventilation détaillée, voir le graphique 3 ci-dessous) | | o | 
+D.121Cotisations sociales effectives à la charge des employeurs (à l'exclusion de celles des apprentis) | | o | 
+D.1211Cotisations légales de sécurité sociale | o | | 
+D.1212Cotisations conventionnelles, contractuelles et volontaires de sécurité sociale | o | | 
+D.122Cotisations sociales imputées à la charge des employeurs (à l'exclusion de celles des apprentis) | | o | 
+D.1221Salaire garanti en cas de maladie (facultatif) | f | | 
+D.1222Cotisations sociales imputées à la charge des employeurs au titre des pensions et des soins de santé (facultatif) | f | | 
+D.1223Versements effectués aux salariés qui quittent l'entreprise (facultatif) | f | | 
+D.1224Autres cotisations sociales imputées à la charge des employeurs (facultatif) | f | | 
+D.123Cotisations sociales relatives aux apprentis à la charge des employeurs | | o | 
+D.2Frais de formation professionnelle | | o | 
+D.3Autres dépenses de l'employeur | | o | 
+D.4Impôts | | o | 
+D.5Subventions au bénéfice de l'employeur | | o | 
+E.Informations sur les unités 
+E.1Unités locales, univers | | o | 
+E.2Unités locales, échantillon | | o | 
+À titre facultatif, les États membres peuvent enregistrer des données plus détaillées pour les variables suivantes (transmission à Eurostat sur demande uniquement): 
+A.11 Salariés à temps complet 
+A.12 Salariés à temps partiel 
+D.11112 Rémunération directe, primes et indemnités non versées lors de chaque paie 
+D.1113 Rémunérations pour journées non ouvrées 
+D.1211 Cotisations légales de sécurité sociale 
+D.1212 Cotisations conventionnelles, contractuelles et volontaires de sécurité sociale 
+D.1223 Versements effectués aux salariés qui quittent l'entreprise 
+Graphique 1 
+Coût de la main-d'œuvre et principales composantes 
++++++ TIFF +++++ 
+Coût de la main-d'œuvre D(D = D1 + D2 + D3 + D4 – D5)Rémunération des salariésD1Frais de formation professionnelle (à l'exclusion des salaires et traitements des apprentis)D2Autres dépenses de l'employeurD3Impôts à la charge de l'employeurD4Subventions au bénéfice del'employeurD5Salaires et traitementsD11Ventilation détaillée:Graphique 2Cotisation sociales à la charge des employeursD12Ventilation détaillée:Graphique 3 
+Graphique 2 
+Ventilation de la composante "Salaires et traitements" (D.11) 
++++++ TIFF +++++ 
+Salaires et traitementsD11Salaires et traitements (à l'exclusion de ceux des apprentis)D111Salaires et traitements des apprentisD112Rémunération directe, primes et indemnitésD1111Versements au titre de la formation d'un patrimoine au profit des salariésD1112Rémunération pour journées non ouvréesD1113Salaires et traitements en natureD1114Rémunération directe, primes et indemnités, versées lors de chaque paieD11111Rémunération directe, primes et indemnités, non versées lors de chaque paieD11112Produits de l'entrepriseD11141Logement du personnelD11142Voitures de sociétéD11143Options d'achat d'actions et plans d'achat d'actionsD11144Autres paiements en natureD11145 
+Graphique 3 
+Ventilation de la composante "Cotisations sociales à la charge des employeurs" (D.12) 
++++++ TIFF +++++ 
+Cotisations sociales à la charge des employeursD12Cotisations sociales effectives à la charge des employeurs (à l'exclusion de celles des apprentis)D121Cotisations sociales imputés à la charge des employeurs (à l'exclusion de celles des apprentis)D122Cotisations sociales relatives aux apprentis à la charge des employeursD123Cotisations sociales relatives aux apprentis à la charge des employeursD1211Cotisations conventionnelles, contractuelles et volontaires de sécurité socialeD1212Salaire garanti en cas de maladieD1221Cotisations sociales imputées à la charge des employeurs au titre des pensions et des soins de santéD1222Versements effectués aux salariés qui quittent l'entrepriseD1223Autres cotisations sociales imputés à la charge des employeursD1224= Variables facultatives 
+[1] Les tableaux C concernent uniquement les pays comportant des régions NUTS 1. 
+[2] À l'exception des versements au titre de la formation d'un patrimoine au profit des salariés. 
+[3] À l'exception des indemnités de déménagement. 
+-------------------------------------------------- 
+ANNEXE II 
+DÉFINITIONS DES VARIABLES 
+A. NOMBRE DE SALARIÉS 
+Les salariés sont toutes les personnes qui, indépendamment de leur nationalité et de la durée de leur temps de travail dans le pays, bénéficient d'un contrat de travail direct avec l'entreprise ou l'unité locale (qu'il s'agisse d'un accord formel ou informel) et perçoivent une rémunération, quels que soient le type de travail effectué, le nombre d'heures travaillées (temps complet ou partiel) et la durée du contrat (déterminée ou indéterminée). La rémunération des salariés peut prendre la forme de salaires et de traitements, lesquels incluent les primes, les paiements pour travail à la pièce ou travail posté, les indemnités, les jetons de présence, les pourboires, les commissions et les rétributions en nature. 
+La présente définition englobe les ouvriers, employés et le personnel d’encadrement des entreprises d'au moins dix salariés des secteurs privé et public relevant des activités économiques classées dans les sections C à K et M à O de la NACE Rév. 1.1. [1]. 
+La liste suivante donne des exemples illustratifs des catégories de salariés prises en compte: 
+- les représentants de commerce, pour autant qu'ils figurent sur le livre de paie et perçoivent une autre forme de rémunération en plus des commissions, 
+- les propriétaires actifs rémunérés, 
+- les apprentis, 
+- les étudiants et stagiaires (avocats stagiaires, élèves infirmiers(-ières), assistants de recherche ou d'enseignement, internes des hôpitaux, etc.) qui se sont engagés formellement à contribuer au processus de production de l'entreprise en échange d'une rémunération, 
+- les travailleurs intérimaires ou temporaires (personnel de secrétariat, par exemple) recrutés, employés et rémunérés par des agences de placement pour travailler ailleurs, pendant des périodes souvent limitées [2], 
+- les travailleurs saisonniers et occasionnels, à condition qu'ils aient conclu un accord formel ou informel avec l'entreprise ou l'unité locale et que leur durée de travail soit définie à l'avance, 
+- les salariés pour lesquels des coûts de main-d'œuvre ont été encourus pendant l'année de référence, mais qui étaient temporairement absents de leur travail pour des raisons de maladie ou d'accident, de vacances ou de congés, de grève ou de lock-out, de congé d'éducation ou de formation, de congé de maternité ou parental, de ralentissement de l'activité économique, de suspension du travail pour cause d'intempéries, de pannes mécaniques, de manque de matières premières, de combustibles ou d'alimentation électrique, ou pour toute autre absence temporaire avec ou sans congé, 
+- les salariés travaillant à l'étranger, à condition qu'ils continuent de percevoir une rémunération de la part de l'unité statistique, 
+- les travailleurs externes [3], y compris les travailleurs à domicile et les télétravailleurs, à condition qu'il soit clairement convenu de les rémunérer sur la base du travail effectué, c'est-à-dire de la somme de travail qui représente leur contribution au processus de production de l'entreprise. 
+Les catégories suivantes ne sont pas prises en compte: 
+- les représentants de commerce et autres personnes qui sont entièrement rémunérés par des commissions ou des jetons de présence ne figurent pas sur le livre de paie ou exercent une activité indépendante, 
+- les propriétaires, administrateurs ou dirigeants dont la rémunération prend exclusivement la forme d'une participation aux bénéfices, 
+- les travailleurs familiaux qui ne sont pas des salariés (au sens de la définition ci-dessus) de l'entreprise ou de l'unité locale, 
+- les personnes travaillant pour leur propre compte, 
+- les travailleurs bénévoles non rémunérés (par exemple personnes travaillant, en règle générale, pour des institutions sans but lucratif, telles que des œuvres de charité). 
+Référence SEC 95: points 11.12 à 11.14 
+A.1 Nombre total de salariés 
+Cette variable recouvre les salariés à temps complet (A.11), les salariés à temps partiel (A.12) et les apprentis (A.13). 
+Référence SSE: code 16130 (nombre de salariés) 
+A.11 Salariés à temps complet (à l'exclusion des apprentis) 
+Sont considérés comme salariés à temps complet les travailleurs (à l'exclusion des apprentis) dont la durée de travail régulière est égale à la durée de travail conventionnelle ou usuelle de l'entreprise ou de l'unité locale, même si leur contrat est d'une durée inférieure à un an. Le nombre de salariés demandé est le nombre mensuel moyen de salariés à temps complet employés dans l'unité déclarante au cours de l'année de référence. 
+A.12 Salariés à temps partiel (à l'exclusion des apprentis) 
+Sont considérés comme salariés à temps partiel les travailleurs (à l'exclusion des apprentis) dont la durée de travail régulière est inférieure à la durée de travail conventionnelle ou usuelle de l'entreprise ou de l'unité locale, que ce soit par jour, par semaine ou par mois (mi-temps, trois quarts de temps, quatre cinquièmes de temps, etc.). Le nombre de salariés demandé est le nombre mensuel moyen de salariés à temps partiel employés dans l'unité déclarante au cours de l'année de référence. 
+A.121 Salariés à temps partiel convertis en équivalents temps complet 
+La conversion est effectuée sur la base des périodes normales de travail des travailleurs à temps complet de l'entreprise ou de l'unité locale, soit directement par l'entreprise ou l'unité locale interrogée, soit par l'organisme de collecte des données ou l'institut national de statistique, selon la méthode jugée la plus appropriée. Le nombre de salariés demandé est le nombre mensuel moyen de salariés à temps partiel (convertis en équivalents temps complet) employés dans l'unité déclarante au cours de l'année de référence. 
+Référence SEC 95: points 11.32 à 11.34 
+A.13 Apprentis 
+Sont considérés comme apprentis tous les salariés, à temps complet ou partiel, qui ne participent pas encore pleinement à la production, et qui travaillent soit sous un contrat d'apprentissage, dans des conditions où le souci de la formation professionnelle l'emporte sur celui de la productivité. Le nombre d'apprentis demandé est le nombre mensuel moyen d'apprentis employés dans l'unité déclarante au cours de l'année de référence. 
+A.131 Apprentis convertis en équivalents temps complet 
+La conversion est effectuée, selon la méthode jugée la plus appropriée, soit directement par l'entreprise ou l'unité locale interrogée, soit par l'organisme de collecte des données ou l'institut national de statistique. Les heures consacrées à la formation dans l'entreprise/l'unité locale ou dans des établissements d'enseignement doivent être exclues. Le nombre d'apprentis demandé est le nombre mensuel moyen d'apprentis à temps partiel (convertis en équivalents temps complet) employés dans l'unité déclarante au cours de l'année de référence [4]. 
+Références SEC 95: points 11.32 à 11.34; SSE: code 16140 (A.11 + A.121 +A.131 correspond à la variable SSE "nombre de salariés en équivalents temps complet") 
+B. HEURES EFFECTIVEMENT TRAVAILLÉES 
+Les statistiques portent sur le nombre total d'heures travaillées par l'ensemble des salariés durant l'année. Le nombre total d'heures effectivement travaillées (B.1) est enregistré séparément pour les salariés à temps complet (B.11), les salariés à temps partiel (B.12) et les apprentis (B.13). 
+Les heures effectivement travaillées sont définies comme la somme de toutes les périodes consacrées à des activités directes et auxiliaires de production de biens et de services. 
+Les heures effectivement travaillées comprennent: 
+- les heures travaillées pendant les périodes de travail normales, 
+- les heures supplémentaires rémunérées, c'est-à-dire les heures travaillées en plus des heures de travail normales, indépendamment du tarif horaire appliqué (par exemple, une heure de travail rémunérée au double du tarif horaire normal doit être comptée pour une heure), 
+- les heures supplémentaires non rémunérées [5], 
+- le temps consacré à des tâches telles que la préparation du travail et du lieu de travail, la préparation, l'entretien, la réparation et le nettoyage des outils et des machines ou l'établissement de reçus, de factures, de rapports et de formulaires relatifs à la durée d'exécution du travail, etc., 
+- le temps passé sur le lieu de travail en temps mort, en raison, par exemple, d'arrêts de machines, d'accidents ou de manque occasionnel de travail, mais pour lequel, sur la base des dispositions contractuelles, un paiement est effectué, 
+- les courtes périodes de repos sur le lieu de travail, y compris les pauses café ou thé, 
+- les heures consacrées à la formation au sein soit de l'entreprise/l'unité locale, soit d'établissements d'enseignement (cet élément n'est pas pris en compte pour les apprentis). 
+En revanche, les heures effectivement travaillées ne comprennent pas: 
+- les heures rémunérées, mais non travaillées, telles que les vacances/congés payés, les jours fériés, les absences pour cause de maladie, congé de maternité, etc., 
+- les heures non travaillées et non rémunérées en cas, par exemple, de maladie et de maternité, etc., 
+- les heures non travaillées (rémunérées ou non) en cas de congé spécial pour examens médicaux, mariage, funérailles, déménagement, à la suite d'un accident, etc., 
+- les pauses pour le repas principal (c'est-à-dire autres que les courtes périodes de repos ou les arrêts de travail pour collation), 
+- les heures non travaillées (rémunérées ou non) en cas de chômage partiel, de conflits du travail, de lock-out, etc., 
+- le temps consacré par les salariés au trajet entre le domicile et le lieu de travail, 
+- les heures consacrées par les apprentis à la formation au sein soit de l'entreprise/l'unité locale, soit d'établissements d'enseignement. 
+Références SEC 95: points 11.26 à 11.29; SSE: code 16150 (nombre d'heures travaillées par les salariés) 
+C. HEURES RÉMUNÉRÉES 
+Cette variable porte sur le nombre total d'heures rémunérées durant l'année. Le nombre total des heures rémunérées (C.1) est enregistré séparément pour les salariés à temps complet (C.11), les salariés à temps partiel (C.12) et les apprentis (C.13). 
+Le nombre annuel d'heures rémunérées est défini comme suit: 
+- les heures de travail normales et supplémentaires rémunérées pendant l'année, 
+- toutes les heures pour lesquelles le salarié a été payé à un tarif réduit, même si la différence a été compensée par des paiements en provenance des caisses de sécurité sociale, 
+- les heures non travaillées pendant la période de référence, mais néanmoins rémunérées (vacances/congés annuels, absences pour cause de maladie, jours fériés et autres heures payées, y compris les congés pour examens médicaux, naissance, mariage, funérailles, déménagement, etc.). 
+Calcul des heures annuelles effectivement travaillées et des heures annuelles rémunérées 
+Ces calculs sont effectués, selon la méthode jugée la plus appropriée, soit directement par les entreprises ou les unités locales interrogées, soit par les organismes de collecte des données ou les instituts nationaux de statistique. Les modèles suivants illustrent comment les heures effectivement travaillées et les heures rémunérées peuvent être estimées à partir des informations disponibles. 
+Heures annuelles effectivement travaillées par les salariés à temps complet (B.11) 
+Supposons que des informations soient disponibles pour les variables énumérées ci-dessous: 
+(A.11) Nombre mensuel moyen de salariés à temps complet 
+a) Nombre annuel moyen d'heures contractuelles normales d'un salarié à temps complet, à l'exclusion des heures supplémentaires et des pauses pour le repas principal. 
+b) Nombre annuel moyen d'heures supplémentaires (tant rémunérées que non rémunérées) d'un salarié à temps complet. 
+c) Nombre journalier moyen d'heures contractuelles et d'heures supplémentaires travaillées par un salarié à temps complet, à l'exclusion des pauses pour le repas principal. 
+d) Nombre annuel moyen de jours de congés/vacances accordés par l'employeur à un salarié à temps complet. 
+e) Nombre annuel moyen de jours fériés par salarié à temps complet. 
+f) Nombre annuel moyen de jours de congés de maladie et de maternité par salarié à temps complet. 
+g) Nombre annuel moyen de jours de chômage partiel et de conflits du travail par salarié à temps complet. 
+h) Nombre annuel moyen d'autres jours non effectivement travaillés par salarié à temps complet (par exemple congé spécial pour examens médicaux, naissance, mariage, funérailles, déménagement, à la suite d'un accident, etc.). 
+Le nombre annuel total d'heures travaillées par les salariés à temps complet (avant correction des jours non effectivement travaillés) est dès lors égal à (A.11) x (a + b). En soustrayant le nombre annuel total d'heures non effectivement travaillées, défini par (A.11) x c x (d + e + f + g + h), on obtient (B.11), le nombre annuel total d'heures effectivement travaillées par les salariés à temps complet: 
+(B.11) = (A.11) × [(a+b) – c (d + e + f + g + h)]. 
+Heures annuelles effectivement travaillées par les salariés à temps partiel (B.12) et les apprentis (B.13) 
+Des modèles similaires peuvent être employés pour le calcul des heures travaillées par les salariés à temps partiel et les apprentis. 
+Heures annuelles rémunérées des salariés à temps complet (C.11) 
+Supposons que des informations soient disponibles pour les variables énumérées ci-dessous: 
+(A.11) Salariés à temps complet 
+(a1) Nombre annuel moyen d'heures contractuelles rémunérées d'un salarié à temps complet, à l'exclusion des heures supplémentaires et des pauses pour le repas principal. 
+(b1) Nombre annuel moyen d'heures supplémentaires rémunérées d'un salarié à temps complet. 
+Le nombre annuel total d'heures rémunérées des salariés à temps complet est dès lors exprimé par l'équation 
+(C.11) = (A.11) × (a1 + b1). 
+Heures annuelles rémunérées des salariés à temps partiel (C.12) et des apprentis (C.13) 
+Des modèles similaires peuvent être employés pour calculer les heures rémunérées des salariés à temps partiel et des apprentis. 
+D. COÛT DE LA MAIN-D'ŒUVRE 
+Le coût de la main-d'œuvre représente l'ensemble des dépenses encourues par les employeurs pour l'emploi de personnel, notion adoptée dans le cadre communautaire et largement conforme à la définition internationale de la Conférence internationale des statisticiens du travail (Genève, 1966). Le coût de la main-d'œuvre comprend la rémunération des salariés (D.1), englobant les salaires et traitements en espèces ou en nature et les cotisations sociales à la charge de l'employeur, les frais de formation professionnelle (D.2), les autres dépenses (D.3) et les impôts relatifs à l'emploi considérés comme coûts de main-d'œuvre (D.4), déduction faite des subventions perçues (D.5). Les coûts relatifs aux personnes employées par des agences de travail temporaire doivent être pris en compte dans la branche d'activité de l'agence qui les emploie (classe 74.50 de la NACE Rév. 1.1) et non dans celle de l'entreprise pour laquelle ces personnes travaillent effectivement. 
+Un aperçu synoptique de la ventilation du coût total de la main-d'œuvre par composantes est donné par les graphiques 1 à 3 de l'annexe I. 
+D.1 Rémunération des salariés 
+La rémunération des salariés se définit comme le total des rémunérations en espèces ou en nature que versent les employeurs à leurs salariés en paiement du travail accompli par ces derniers au cours de la période de référence. Elle est ventilée en: 
+- salaires et traitements (D.11), dont les composantes sont les salaires et traitements (à l'exclusion de ceux des apprentis) (D.111) et les salaires et traitements des apprentis (D.112), 
+- cotisations sociales à la charge des employeurs (D.12), dont les composantes sont les cotisations sociales effectives à la charge des employeurs (à l'exclusion de celles des apprentis) (D.121), les cotisations sociales imputées à la charge des employeurs (à l'exclusion de celles des apprentis) (D.122) et les cotisations sociales relatives aux apprentis à la charge des employeurs (D.123). 
+Références: SEC 95: point 4.02 (code D.1), SSE: code 13310 (dépenses de personnel) 
+D.11 Salaires et traitements 
+Les salaires et traitements incluent les primes, les paiements pour travail à la pièce ou travail posté, les indemnités, les jetons de présence, les pourboires, les commissions et les rétributions en nature. Ils sont enregistrés au cours de la période pendant laquelle le travail est effectué. Toutefois, les primes et autres paiements exceptionnels (treizième mois de salaire, rappels de salaire, etc.) sont enregistrés au moment où ils doivent être payés. 
+Une ventilation complète des salaires et des traitements par composantes est fournie par le graphique 2 de l'annexe I. 
+Références: SEC 95: points 4.03 à 4.07 et 4.12 a) (code D.11); SSE: code 13320 (salaires et traitements) 
+D.111 Salaires et traitements (à l'exclusion de ceux des apprentis) 
+D.1111 Rémunération directe, primes et indemnités 
+Cette rubrique inclut les cotisations sociales, impôts sur le revenu, etc., à la charge du salarié, même si l'employeur les retient à la source et les verse directement, pour le compte du salarié, aux administrations de sécurité sociale, aux autorités fiscales et autres. 
+Une prime est une forme de récompense ou de reconnaissance accordée par un employeur. Le versement d'une prime à un salarié n'est pas effectué dans l'attente ou l'hypothèse que la prime servira à couvrir une dépense spécifique. La valeur et la date de versement d'une prime peuvent être laissées à la discrétion de l'employeur ou être stipulées dans des conventions d'entreprise. 
+Une indemnité est un droit à prestation accordé par l'employeur à un salarié et destiné à couvrir une dépense spécifique, non liée au travail, encourue par le salarié. Elle est souvent prévue dans le cadre de conventions d'entreprise et son versement intervient normalement à la date d'ouverture du droit. 
+D.11111 Rémunération directe, primes et indemnités versées lors de chaque paie 
+Il s'agit des rémunérations en espèces payées régulièrement, lors de chaque paie, au cours de l'année. Pour la plupart des salariés, la périodicité de la paie est hebdomadaire ou mensuelle. Par conséquent, les paiements reçus moins fréquemment (mensuellement, en cas de paiements réguliers hebdomadaires, trimestriellement, semestriellement ou annuellement) ou à titre exceptionnel ne doivent pas être pris en compte ici. Les versements au titre de la formation d'un patrimoine au profit des salariés ne doivent pas être pris en compte ici et doivent être comptabilisés sous D.1112. 
+Cette variable porte, en particulier, sur: 
+- les salaires et traitements de base, 
+- les rémunérations directes calculées sur la base du temps de travail, du produit fini ou de la tâche effectuée et versées aux salariés pour les heures de travail effectuées, 
+- les rémunérations et majorations pour heures supplémentaires, travail de nuit, de dimanche et de jour férié et pour travail posté, 
+- les primes et indemnités versées régulièrement à l'occasion de chaque paie, telles que: 
+- les primes liées au poste de travail: bruit, risques, pénibilité, travail posté ou continu, travail de nuit, de dimanche et de jour férié, 
+- les primes liées aux performances individuelles, primes de rendement, de production, de productivité, de responsabilité, d'assiduité, de ponctualité, d'ancienneté, de qualification et de connaissances spéciales. 
+Des exemples supplémentaires d'éléments de rémunération à prendre en compte ici figurent dans l'appendice de l'annexe II. 
+La variable D.11111 se réfère à des montants bruts, avant déduction des impôts et des cotisations de sécurité sociale à la charge des salariés. 
+D.11112 Rémunération directe, primes et indemnités non versées lors de chaque paie 
+Il s'agit de tous les paiements dont les salariés ne bénéficient pas régulièrement lors de chaque paie (hebdomadaire ou mensuelle), y compris les primes et indemnités versées avec une périodicité fixe (par exemple mensuellement, en cas de paiements réguliers hebdomadaires, trimestriellement, semestriellement ou annuellement) et les primes liées aux performances individuelles ou collectives. Les versements exceptionnels effectués aux salariés qui quittent l'entreprise sont inclus ici, pour autant qu'ils ne soient pas liés à une convention collective. Si aucune information à propos d'un éventuel lien avec une convention collective n'est disponible ou si l'existence d'un tel lien est connue, ces versements exceptionnels sont exclus de cette rubrique et doivent être inclus sous D.1223. Les versements au titre de la formation d'un patrimoine au profit des salariés sont également exclus et relèvent de la rubrique D.1112. 
+Des exemples d'éléments de rémunération faisant partie de la rubrique D.11112 figurent dans l'appendice de l'annexe II. 
+La variable D.11112 se réfère, elle aussi, à des montants bruts, avant déduction des impôts et des cotisations de sécurité sociale à la charge des salariés. 
+D.1112 Versements au titre de la formation d'un patrimoine au profit des salariés 
+Ce poste comprend les sommes versées à des systèmes d'épargne salariale (tels que des plans d'épargne d'entreprise). 
+Référence SEC 95: point 4.03 i) 
+D.1113 Rémunérations pour journées non ouvrées 
+Sont concernées ici les rémunérations versées qui correspondent aux congés payés et aux jours fériés légaux, contractuels ou volontaires, ainsi qu'aux autres jours chômés payés. L'appendice de l'annexe II donne des exemples. 
+D.1114 Salaires et traitements en nature 
+Cette variable correspond à une estimation de la valeur de l'ensemble des biens et des services dont disposent les salariés par l'intermédiaire de l'entreprise ou de l'unité locale. Elle inclut les produits de l'entreprise, les facilités de logement pour les salariés, les voitures de société, les options d’achat d’actions et les plans d'achat d'actions. Si des informations sur l'imposition des salaires et des traitements en nature au titre du revenu des personnes physiques sont disponibles, elles peuvent être utilisées comme approximation. 
+L'appendice de l'annexe II fournit des exemples de salaires et de traitements en nature. 
+Référence SEC 95: points 4.04 à 4.06 (code D.11) 
+D.11141 Produits de l'entreprise 
+Ces produits sont cédés gratuitement pour usage privé ou vendus au personnel à un prix inférieur au coût supporté par l'entreprise. Ils comprennent, par exemple, la nourriture et les boissons (à l'exception des dépenses pour les cantines et les chèques-repas), le charbon, le gaz, l'électricité, le fuel, le chauffage, les chaussures et vêtements (à l'exception des vêtements de travail), les micro-ordinateurs, etc. 
+Il convient d'enregistrer le coût net supporté par l'entreprise, c'est-à-dire le coût des produits cédés gratuitement ou la différence entre le coût et le prix de vente au personnel. Les indemnités compensatrices et les avantages en nature non utilisés doivent également être pris en compte. 
+D.11142 Logement du personnel 
+Cette variable se réfère aux dépenses consenties par l'entreprise pour faciliter le logement des salariés, lesquelles incluent les dépenses relatives aux logements appartenant à l'entreprise (dépenses d'entretien et d'administration des logements, de même que taxes, impôts et assurances liés à ces logements), les prêts à taux réduit pour la construction ou l'achat de logements par le personnel (différence entre les intérêts aux taux du marché et au taux accordé), ainsi que les indemnités et subventions octroyées aux salariés en liaison avec leur logement et installation, à l'exclusion toutefois des indemnités de déménagement. 
+D.11143 Voitures de société 
+Cette rubrique concerne les voitures de société, ou le coût pour l'entreprise des voitures de société mises à la disposition des salariés pour usage privé. Les coûts d'exploitation nets supportés par l'entreprise doivent y être enregistrés (les dépenses annuelles de location et les intérêts versés, l'amortissement, les frais d'assurance, d'entretien, de révision et de stationnement). En revanche, les dépenses en capital relatives à l'achat des véhicules ou les éventuels revenus tirés de leur revente doivent en être exclus. 
+Les estimations doivent être réalisées sur la base d'informations disponibles dans les entreprises, telles que le recensement du parc automobile des voitures de société, l'évaluation du coût moyen par véhicule et l'estimation de la part imputable à l'usage privé que fait le salarié du véhicule. 
+D.11144 Options d’achat d’actions et plans d'achat d'actions 
+Cette variable facultative se rapporte à toutes les formes de paiements en nature liés à une rémunération fondée sur des actions. Font partie de cette catégorie les options sur actions, les plans d'achat d'actions et les autres instruments de capitaux propres susceptibles de se développer à l'avenir. Ces instruments se caractérisent par le fait qu'ils sont réglés en instruments de capitaux propres, c'est-à-dire qu'ils représentent un transfert d'instruments de capitaux propres de l'entreprise/l'unité locale au salarié. Les formes de rémunération couvertes par la variable D.11144 sont identiques à celles visées par la rubrique "Transactions dont le paiement est fondé sur des actions et qui sont réglées en instruments de capitaux propres" de la norme internationale d'information financière 2, intitulée "Paiement fondé sur des actions". 
+Les plans d'achat d'actions transfèrent généralement des actions de l'entreprise de l'employeur aux salariés. Le transfert intervient immédiatement (date d'attribution), sur la base d'un prix inférieur au prix de marché actuel (appelé "prix d'exercice"). Le coût pour l'entreprise est égal au produit du nombre d'actions par la différence entre le prix de marché et le "prix d'exercice". 
+Les plans d'options sur actions confèrent habituellement le droit d'acheter des actions de l'entreprise de l'employeur à partir d'une date future bien déterminée (date d'acquisition des droits), à un "prix d'exercice" avantageux, fixé à l'avance (date d'attribution). Les salariés ne feront usage de ce droit que si le prix de marché à ou après la date d'acquisition des droits est supérieur au "prix d'exercice". Le coût pour l'entreprise est, ici aussi, égal au produit du nombre d'actions par la différence entre le prix de marché et le "prix d'exercice". Tant dans les statistiques du coût de la main-d'œuvre que dans la comptabilité, ce coût est imputé et réparti sur la "période d'acquisition des droits", qui court de la date d'attribution jusqu'à la date d'acquisition des droits. Comme ces valeurs sont incertaines pendant la période d'acquisition des droits, elles doivent être estimées. 
+Une estimation idéale de la variable D.11144 pour l'année de référence pourrait être obtenue en suivant les lignes directrices de la norme internationale d'information financière 2, intitulée "Paiement fondé sur des actions". Si une telle estimation n'est pas disponible, des valeurs déterminées conformément aux normes comptables ou à la réglementation fiscale de l'État membre peuvent être utilisées, pour autant qu'elles couvrent les instruments de capitaux propres de la catégorie D.11144 et qu'elles se rapportent à la période de référence de l'enquête sur le coût de la main-d'œuvre. 
+Les versements effectués en vue de la constitution d'un fonds spécial servant à l'achat d'actions de l'entreprise au profit des salariés, même si ces derniers ne peuvent disposer immédiatement de tels actifs, doivent être diminués du montant des exonérations fiscales auxquelles ils peuvent éventuellement donner lieu. Les rémunérations fondées sur des actions et réglées en espèces, telles que les droits à l'appréciation d'actions, sont prises en compte non pas par la variable D.11144, mais par la variable D.11112. 
+D.11145 Autres 
+Sous cet intitulé, figurent, en particulier, les prestations sociales indirectes à la charge de l'employeur: 
+- cantines et chèques-repas, 
+- installations et services culturels, sportifs et de loisirs, 
+- jardins d'enfants et crèches, 
+- centrales d'achat du personnel, 
+- frais de transport pour les trajets entre le domicile et le lieu de travail habituel, 
+- versements à des fonds syndicaux et dépenses des comités d'entreprise. 
+Toutes ces dépenses incluent les petites réparations et l'entretien régulier des immeubles et des équipements affectés aux services et installations sociaux, culturels ou de loisirs énumérés ci-dessus. Les salaires et traitements payés directement par l'entreprise au personnel travaillant dans ces services et installations ne sont pas enregistrés au titre de la variable D.11145. 
+D.112 Salaires et traitements des apprentis 
+Voir D.11. 
+D.12 Cotisations sociales à la charge des employeurs 
+Cette variable correspond à un montant égal à la valeur des cotisations sociales supportées par les employeurs pour garantir le bénéfice de prestations sociales à leurs salariés. Les cotisations sociales à la charge des employeurs peuvent être effectives ou imputées. 
+Une ventilation complète des cotisations sociales à la charge des employeurs par composantes est fournie par le graphique 3 de l'annexe I. 
+Références: SEC 95: point 4.08 (code D.12), SSE: code 13330 (charges sociales) 
+D.121 Cotisations sociales effectives à la charge des employeurs (à l'exclusion de celles des apprentis) 
+Les cotisations sociales effectives à la charge des employeurs comprennent les versements qu'ils effectuent, au profit de leurs salariés, aux organismes assureurs (administrations de sécurité sociale et régimes privés avec constitution de réserves, tels que régimes de pensions professionnels). Ces versements couvrent à la fois les contributions légales, conventionnelles, contractuelles et volontaires au titre de l'assurance contre les risques et besoins sociaux. Les cotisations sociales effectives à la charge des employeurs sont enregistrées au cours de la période pendant laquelle le travail est effectué. 
+Des exemples sont donnés dans l'appendice de l'annexe II. 
+Référence SEC 95: points 4.09 (code D.121) et 4.12 b) 
+D.1211 Cotisations légales de sécurité sociale 
+Il s'agit de toutes les cotisations à la charge de l'employeur versées à des organismes de sécurité sociale et rendues obligatoires par les pouvoirs publics. Les montants de ces cotisations doivent être comptabilisés nets de toute subvention éventuelle. Ils comprennent: 
+- les cotisations légales aux régimes d'assurance vieillesse, maladie, maternité et invalidité, 
+- les cotisations légales aux régimes d'assurance chômage, 
+- les cotisations légales aux régimes d'assurance accidents du travail et maladie professionnelle, 
+- les cotisations légales aux régimes de prestations familiales, 
+- toutes les autres cotisations légales non mentionnées ailleurs. 
+D.1212 Cotisations conventionnelles, contractuelles et volontaires de sécurité sociale à la charge de l'employeur 
+Il s'agit de toutes les contributions de l'employeur au titre de régimes complémentaires de sécurité sociale, allant au-delà de ce qui est rendu obligatoire par les pouvoirs publics. Les exonérations fiscales auxquelles elles peuvent éventuellement donner lieu doivent être prises en compte. Ces contributions comprennent: 
+- les régimes complémentaires de pensions, tels que les régimes de pensions professionnels (assurances collectives, fonds autonomes de pensions, réserves ou provisions inscrites au bilan et toutes les autres dépenses destinées à financer des régimes complémentaires de pensions), 
+- les régimes complémentaires d'assurance maladie, 
+- les régimes complémentaires d'assurance chômage, 
+- tous les autres régimes complémentaires non obligatoires de sécurité sociale non mentionnés ailleurs. 
+D.122 Cotisations sociales imputées à la charge des employeurs (à l'exclusion de celles des apprentis) 
+Les cotisations sociales imputées à la charge des employeurs sont nécessaires pour obtenir une mesure complète du coût de la main-d'œuvre au cours de la période pendant laquelle le travail est effectué. Elles représentent la contrepartie des prestations sociales observables payées dans le cadre de régimes sans constitution de réserves. 
+Les prestations sociales payées dans le cadre de régimes sans constitution de réserves sont fournies directement par les employeurs à leurs salariés, ex-salariés et autres ayants droit, sans qu'il y ait, à cet effet, recours à une administration de sécurité sociale, à une société d'assurance ou à un fonds de pensions autonome ou constitution d'un fonds spécifique ou d'une réserve distincte. Les prestations sont, au contraire, payées sur les ressources propres des employeurs gérant des régimes sans constitution de réserves. Le fait que certaines prestations sociales soient octroyées directement par les employeurs et non par l'intermédiaire des administrations de sécurité sociale ou d'autres organismes assureurs n'enlève rien à leur caractère de prestations sociales. Le poste D.122 peut être particulièrement important lorsque l'employeur est un producteur non marchand (secteur des administrations publiques). 
+Le montant de D.122 est déterminé par rapport aux obligations futures des employeurs de fournir des prestations sociales. Les estimations sur la base de considérations actuarielles sont la source idéale pour calculer D.122 pour les employeurs gérant des régimes d'assurance sociale sans constitution de réserves. Si de telles estimations ne sont pas disponibles, il convient d'appliquer d'autres méthodes d'estimation. Certains pays utilisent, par exemple, les prestations sociales observables payées directement par les employeurs, diminuées, le cas échéant, des cotisations sociales à la charge des salariés, comme estimation pour D.122. 
+La variable D.122 inclut, en particulier, les cotisations sociales imputées à la charge des employeurs au titre des pensions et des soins de santé. Elle comprend également la contre-valeur des salaires et des traitements que les employeurs continuent à verser temporairement à leurs salariés en cas de maladie, de maternité, d'accident du travail, d'invalidité, de licenciement et de situations similaires, dans la mesure où les montants concernés peuvent être identifiés séparément. 
+Des exemples sont donnés dans l'appendice de l'annexe II. 
+Références SEC 95: points 4.10 (code D.122) et 4.12 c) 
+D.1221 Salaire garanti en cas de maladie 
+Cette variable englobe les sommes versées directement par l'employeur aux salariés pour maintenir la rémunération et compenser la perte de salaires en cas de maladie, de maternité ou d'accident du travail, déduction faite des remboursements effectués par les organismes de sécurité sociale. 
+D.1222 Cotisations sociales imputées à la charge des employeurs au titre des pensions et des soins de santé 
+Cette composante de D.122 recouvre les versements imputés à des régimes de pensions et de soins de santé sans constitution de réserves, en particulier dans le secteur public. Dans certains pays européens, les employeurs du secteur des administrations publiques gèrent des régimes de pensions sans constitution de réserves au profit soit de l'ensemble des salariés, soit de groupes spécifiques ("fonctionnaires"). Dans ces cas, l'employeur ne crée pas de réserves spéciales ou n'accumule pas d'actifs pour payer les pensions futures. Pour ces salariés, les versements imputés des employeurs aux régimes de pensions et de soins de santé doivent être pris en compte. 
+D.1223 Versements effectués aux salariés qui quittent l'entreprise 
+Cette composante représente les sommes effectivement versées aux salariés licenciés (prime de licenciement et indemnités compensatoires tenant lieu de préavis), si ces versements sont liés à une convention collective ou si l'existence d'un tel lien n'est pas connue. Les versements non liés à une convention collective sont comptabilisés sous D.11112. 
+Les versements effectués aux salariés au moment de leur départ à la retraite, par exemple dans le cadre de leurs droits à pension, ne doivent pas être inclus dans D.1223. 
+D.1224 Autres cotisations sociales imputées 
+Font partie de cette rubrique toutes les autres cotisations sociales imputées des employeurs non mentionnées ailleurs, telles que les bourses d'études en faveur des salariés et de leurs familles ou le salaire garanti en cas de chômage partiel. Ce dernier élément se définit comme les versements directs de l'employeur aux salariés pour le maintien de la rémunération en cas de chômage partiel, déduction faite des remboursements effectués à l'employeur par les organismes de sécurité sociale. 
+D.123 Cotisations sociales relatives aux apprentis à la charge des employeurs 
+Cette variable est la somme des cotisations effectivement versées et des cotisations imputées pour les apprentis. Les cotisations sociales imputées pour les apprentis, si tant est qu'il y en ait, sont généralement minimes. 
+Référence SEC 95: points 4.09 (code D.121), 4.10 (code D.122) et 4.12 b) 
+D.2 Frais de formation professionnelle à la charge de l'employeur 
+Ils comprennent les dépenses pour les services et installations de formation professionnelle (y compris celles pour les apprentis, mais non leurs salaires et traitements), les petites réparations et l'entretien des bâtiments et des équipements, à l'exclusion des frais de personnel, les dépenses de participation aux cours, les honoraires des formateurs extérieurs à l'entreprise, les dépenses pour les aides et outils didactiques utilisés lors de la formation, les sommes versées par l'entreprise aux organismes de formation professionnelle, etc. Les subventions liées à la formation professionnelle doivent être déduites. 
+Référence SEC 95: consommation intermédiaire 
+D.3 Autres dépenses de l'employeur 
+Elles comprennent en particulier: 
+- les frais de recrutement (c'est-à-dire les sommes payées à des entreprises de recrutement de personnel, les dépenses pour les annonces d'emplois dans la presse, les frais de voyages payés aux candidats convoqués à un entretien, les indemnités d'installation payées aux travailleurs nouvellement embauchés, etc.). Les dépenses courantes de gestion administrative (frais de bureau, salaires du personnel, etc.) sont exclues, 
+- les vêtements de travail fournis par l'employeur. 
+L'appendice de l'annexe II donne des exemples. 
+Référence SEC 95: consommation intermédiaire 
+D.4 Impôts à la charge de l'employeur 
+Cette variable concerne tous les impôts fondés sur la masse salariale ou sur l'emploi. Ces impôts sont considérés comme des coûts de main-d'œuvre. 
+La variable D4 englobe également les impôts de pénalité dont doivent s'acquitter, dans certains pays européens, les employeurs qui occupent trop peu de personnes handicapées, ainsi que des impôts ou des taxes similaires. 
+Référence SEC 95: point 4.23 c) (code D.29) 
+D.5 Subventions au bénéfice de l'employeur 
+Il s'agit de toutes les rentrées de fonds qui ont le caractère de subventions de nature générale et sont destinées à rembourser tout ou partie des coûts de rémunération directe, mais non à couvrir des coûts de sécurité sociale ou de formation professionnelle. Ne sont pas inscrits sous ce poste les remboursements effectués à l'employeur par les organismes de sécurité sociale ou les fonds d'assurances complémentaires. 
+Référence SEC 95: point 4.37 a) (code D.39) 
+[1] La couverture de la section L de la NACE Rév. 1.1 est facultative. Il en va de même pour la couverture des entreprises de moins de dix salariés. Les codes de transmission pour les activités économiques de la NACE Rév. 1.1, le pays ou la région selon la nomenclature NUTS en vigueur et les classes de taille des entreprises sont fixés par Eurostat dans un document d’application. 
+[2] Afin d'éviter toute double comptabilisation, les heures travaillées des personnes employées par des agences de placement doivent être prises en compte dans la catégorie NACE de l'agence de placement (classe 74.50 de la NACE Rév. 1.1) et non dans celle de l'entreprise pour laquelle ces personnes travaillent effectivement. 
+[3] Un travailleur externe est une personne qui accepte de travailler pour une entreprise déterminée ou de fournir une certaine quantité de biens ou de services à une entreprise déterminée aux termes d'un accord ou d'un contrat préalable passé avec cette entreprise, mais dont le lieu de travail ne se situe pas dans cette entreprise (référence SEC 95: point 11.13 g). Les heures effectivement travaillées par les travailleurs externes peuvent être estimées. 
+[4] Le cas échéant, la préférence peut être accordée à une moyenne calculée à partir des nombres hebdomadaires (ou journaliers) de salariés pendant l'année de référence. Une moyenne établie sur la base des nombres trimestriels de salariés est également admissible. 
+[5] Les heures travaillées non rémunérées, en tant que composante des "heures effectivement travaillées", doivent souvent être estimées, à partir, par exemple, de données d'enquêtes auprès des ménages. 
+-------------------------------------------------- 
+Appendice de l'annexe II 
+Exemples illustratifs de la classification de certains éléments du coût de la main-d'œuvre 
+D.11111: rémunération directe, primes et indemnités versées lors de chaque paie 
+[voir également SEC 95, point 4.03 (a-c, e, g, k), code D.11] 
+Les paiements faisant partie du poste de coût de main-d'œuvre D.11111 présentent les caractéristiques suivantes: 
+Il s'agit de transactions en espèces d'un employeur à un salarié. 
+Il ne s'agit pas de: 
+- paiements effectués à titre exceptionnel ou avec une périodicité inférieure à celle des rémunérations versées régulièrement (ceux-ci font partie de D.11112), 
+- paiements en nature (ceux-ci font partie de D.1114), 
+- versements au titre de la formation d'un patrimoine au profit des salariés (ceux-ci font partie de D.1112), 
+- paiements destinés à couvrir une période spécifique non travaillée (ceux-ci font partie de D.1113 ou, en cas de maladie, de D.1221). 
+Il peut s'agir de: 
+- primes pour travail à risques ou travail posté, 
+- paiements hebdomadaires ou mensuels, en fonction de la périodicité de paie normale, 
+- paiements reflétant les performances d'un salarié ou d'un groupe de salariés. 
+Exemples: paiements à classer sous la variable D.11111 
+Élément | Description | 
+Indemnité d'expatriation/indemnité de vie chère | Paiements aux salariés travaillant en dehors de leur pays d'origine/de résidence habituelle ou de leur lieu de domicile habituel destinés à compenser les différences du coût de la vie | 
+Indemnité de foyer | Contribution aux frais de logement | 
+Rémunérations pour gardes ou permanences | Paiements aux salariés devant être disponibles pour travailler pendant des périodes situées en dehors des heures de travail normales | 
+Supplément de rémunération pour risques ou dangers | Prime versée aux salariés dont le travail comporte des risques particuliers (substances chimiques dangereuses, par exemple) | 
+Indemnité de réduction du temps de travail | Paiement supplémentaire (non garanti) aux salariés pour compenser tout ou partie d'une réduction du temps de travail normal (les paiements garantis font partie de D.1224) | 
+Commissions sur ventes | Prime liée au nombre de produits vendus | 
+Rémunération des heures supplémentaires | Bonification payée pour les heures travaillées au-delà de la durée de travail normale | 
+Indemnité de fidélisation | Paiement continu visant à inciter ou faire s'engager les salariés à rester au service de leur employeur | 
+Rémunération au rendement | Prime versée en fonction du nombre de produits traités par le salarié (nombre de vêtements fabriqués, par exemple) | 
+Rémunération pour travail posté | Prime versée pour le travail effectué en dehors des heures habituelles (la nuit, par exemple) | 
+D.11112: rémunération directe, primes et indemnités non versées lors de chaque paie 
+[voir également SEC 95, point 4.03 (f, h, j), code D.11] 
+Les paiements faisant partie du poste de coût de main-d'œuvre D.11112 présentent les caractéristiques suivantes: 
+Il s'agit de transactions en espèces d'un employeur à un salarié. 
+Il ne s'agit pas de: 
+- paiements effectués lors de chaque paie (ceux-ci font partie, le cas échéant, de D.11111), 
+- paiements en nature (ceux-ci font partie de D.1114), 
+- versements au titre de la formation d'un patrimoine au profit des salariés (ceux-ci font partie de D.1112), 
+- paiements destinés à couvrir une période spécifique non travaillée (ceux-ci font partie de D.1113 ou, en cas de maladie, de D.1221). 
+Il peut s'agir de: 
+- paiements sous la forme d'indemnités destinées à couvrir des coûts ou des dépenses spécifiques, 
+- paiements reflétant les performances d'un salarié ou d'un groupe de salariés, 
+- paiements obligatoires stipulés dans le contrat de travail ou la convention collective, 
+- paiements discrétionnaires, 
+- paiements intervenant à des dates variables ou fixes au cours de l'année. 
+Exemples: paiements à classer sous la variable D.11112 
+Élément | Description | 
+Prime exceptionnelle d'ancienneté | Paiement unique à un salarié ayant travaillé un certain nombre d'années pour l'employeur | 
+Prime de départ ou de retraite | Paiements effectués au moment du départ de l'entreprise ou du retrait de la vie professionnelle, indépendamment des droits à pension, pour autant qu'ils ne soient pas liés à une convention collective (dans le cas contraire, ou si aucune information sur un éventuel lien avec une convention collective n'est disponible, ces paiements font partie de D.1223) | 
+Parachute doré | Versement exceptionnel effectué au bénéfice de salariés qui quittent l'entreprise, pour autant qu'il ne soit pas lié à une convention collective (dans le cas contraire, ou si aucune information sur un éventuel lien avec une convention collective n'est disponible, ces indemnités exceptionnelles de départ sont imputées au poste D.1223) | 
+Incitation à l'embauche | Versement unique effectué au bénéfice d'un nouveau salarié lors de l'embauche | 
+Rappels de salaires | Paiements correspondant à des augmentations de la rémunération directe appliquées rétroactivement | 
+Prime de fusion d'entreprise | Paiement unique aux salariés à la suite d'une fusion d'entreprise | 
+Primes de reconnaissance aux salariés | Paiements exceptionnels accordés par l'employeur pour distinguer des salariés ou des groupes de salariés | 
+Primes de productivité/primes de réalisation d'objectifs de performances | Paiements subordonnés à la réalisation, par un salarié ou groupe de salariés, d'objectifs prédéfinis, en matière, par exemple, de ventes, de service à la clientèle ou de budgets | 
+Primes spéciales de fêtes | Paiements effectués à l'occasion de certaines fêtes (Noël, par exemple) | 
+Participation aux bénéfices de l'entreprise et droits à l'appréciation d'actions | Paiement en trésorerie variant selon les bénéfices de l'entreprise. Les droits à l'appréciation d'actions représentent une forme de participation aux bénéfices de l'entreprise par laquelle un salarié a droit à un paiement futur en trésorerie fondé sur l'augmentation du prix de l'action de l'entreprise par rapport à un niveau prédéfini sur une période prédéfinie. Les droits à l'appréciation d'actions doivent être évalués à la date du paiement en trésorerie et par référence à celle-ci, sans tenir compte de la valeur à la date d'attribution ni de la durée de la période d'acquisition des droits | 
+Primes d'entreprise trimestrielles | Paiements effectués tous les trimestres, en fonction des bénéfices ou des résultats de l'employeur (en supposant que la périodicité de la paie ne soit pas trimestrielle) | 
+13e ou 14e mois de salaire | Paiements supplémentaires annuels | 
+Prime d'entreprise annuelle | Paiement effectué une fois par an et lié aux bénéfices ou aux résultats de l'employeur | 
+D.1113: rémunérations pour journées non ouvrées 
+Exemples: paiements à classer sous la variable D.1113 
+Élément | Description | 
+Rémunérations pour congés payés et jours fériés | Paiements aux salariés destinés à couvrir les journées non ouvrées en raison de congés payés annuels et de jours fériés nationaux ou locaux (les paiements effectués par l'employeur en vue de couvrir les absences des salariés pour cause de congé de maladie ou de maternité sont comptabilisés comme cotisations sociales à la charge des employeurs sous D.1221) | 
+Rémunérations pour congé spécial | Paiements aux salariés destinés à couvrir les journées non ouvrées pour des motifs personnels spéciaux, tels que mariage, décès de membres de la famille, exercice de fonctions de représentation syndicale, service militaire ou participation à un jury populaire (les paiements effectués par l'employeur en vue de couvrir les absences des salariés pour cause de congé de maladie ou de maternité sont comptabilisés comme cotisations sociales à la charge des employeurs sous D.1221) | 
+D.1114: salaires et traitements en nature et composantes 
+[voir SEC 95, points 4.04, 4.05 et 4.06 (code D.11)] 
+Exemples: salaires et traitements à classer sous la variable D.1114 
+Élément | Description | Ventilation | 
+Rabais sur produits | L'employeur vend à ses salariés des produits à prix réduits. Le revenu en nature est égal à la différence entre le prix de marché et le prix réduit | D.11141 | 
+Logement gratuit ou subventionné | L'employeur paie tout ou partie des frais de logement de ses salariés. Ici aussi, le revenu en nature s'obtient par comparaison avec le prix de marché | D.11142 | 
+Usage d'une voiture appartenant à l'employeur | L'employeur prend en charge les coûts d'exploitation d'une voiture lui appartenant et mise à la disposition du salarié pour un usage tant professionnel que privé (le revenu en nature correspond à la valeur de l'usage privé de la voiture) | D.11143 | 
+Carburant gratuit ou subventionné | L'employeur paie tout ou partie des frais de carburant liés à l'usage privé, par le salarié, d'une voiture de société. Le revenu en nature est égal à la valeur en espèces de cet avantage | D.11143 | 
+Plans d'achat d'actions | Paiements en nature fondés sur des actions, par lesquels des actions sont attribuées aux salariés dans le cadre de leur rémunération d'ensemble. Le salarié reçoit les actions sans délai, à un prix inférieur au prix de marché (les droits à l'appréciation d'actions sont des formes de rémunérations fondées sur des actions qui sont réglées en trésorerie et doivent être classés sous D.11112) | D.11144 | 
+Options sur actions | Paiements en nature fondés sur des actions, par lesquels des actions sont attribuées aux salariés dans le cadre de leur rémunération d'ensemble. Le salarié se voit accorder le droit d'acheter des actions à une date future bien déterminée, à un prix fixé à l'avance (les droits à l'appréciation d'actions sont des formes de rémunérations fondées sur des actions qui sont réglées en trésorerie et doivent être classés sous D.11112) | D.11144 | 
+Stationnement gratuit ou subventionné sur le lieu de travail | L'employeur fournit à ses salariés des possibilités de stationnement à coût réduit ou nul. Le revenu en nature est égal à la valeur en espèces de cet avantage | D.11145 | 
+Usage gratuit ou subventionné d'un téléphone mobile | L'employeur met à disposition un téléphone mobile pour usage tant professionnel que privé et paie la totalité des coûts y afférents. Le revenu correspond à la valeur en espèces de cet avantage | D.11145 | 
+Transport gratuit ou subventionné entre le domicile et le travail | Les frais de transport des salariés pour les trajets entre le domicile et le travail sont pris en charge totalement ou partiellement. Le revenu en nature est, comme ci-dessus, égal à la valeur en espèces correspondante | D.11145 | 
+Repas gratuits ou subventionnés | L'employeur fournit à ses salariés des repas à coût réduit ou nul. Le revenu en nature est, comme ci-dessus, égal à la valeur en espèces correspondante | D.11145 | 
+D.121: cotisations sociales effectives à la charge des employeurs 
+[voir SEC 95, points 4.08 (code D.121) et 4.12 b)] 
+Exemples: paiements à classer sous la variable D.121 
+Élément | Description | Ventilation détaillée | 
+Cotisations des employeurs à un régime d'assurance invalidité | Versements réguliers de l'employeur au régime d'assurance | D.1211 | 
+Cotisations légales des employeurs à des fonds de pensions | L'employeur effectue, pendant la période d'emploi du salarié, des versements à un régime de pensions géré par une administration de sécurité sociale, une société d'assurance ou un fonds de pensions autonome | D.1211 | 
+Cotisations supplémentaires des employeurs à des fonds de pensions | L'employeur verse une cotisation supplémentaire au régime de pensions du salarié | D.1212 | 
+D.122: cotisations sociales imputées à la charge des employeurs 
+[voir SEC 95, points 4.10 (code D.122) et 4.12 c)] 
+Exemples: paiements à classer sous la variable D.122 
+Élément | Description | Ventilation détaillée | 
+Paiements pendant le congé de maternité | Pendant la maternité, l'employeur effectue des paiements directs à la salariée, à titre de compensation de la perte de salaires | D.1221 | 
+Cotisations sociales imputées à la charge des employeurs au titre des pensions des fonctionnaires | L'employeur n'effectue pas de versements à un régime de pensions pendant la période d'emploi de la personne concernée. Les pensions sont payées ultérieurement sur les ressources propres de l'employeur | D.1222 | 
+Versements aux régimes de préretraite pour travailleurs à temps partiel | Versements supplémentaires de l'employeur à des régimes de préretraite à temps partiel | D.1222 | 
+Indemnités de licenciement en vertu d'une convention collective | Sommes versées directement par l'employeur aux salariés qui quittent l'entreprise | D.1223 | 
+Bourses d'études | L'employeur prend en charge tout ou partie du coût de la formation non liée à l'emploi suivie en dehors de l'entreprise | D.1224 | 
+Prime de mariage ou de naissance | Paiement versé au salarié à la suite de l'événement en question | D.1224 | 
+Éducation gratuite ou subventionnée des enfants | Les frais d'éducation des enfants du salarié sont pris en charge totalement ou partiellement | D.1224 | 
+Indemnité de réduction du temps de travail | Paiement garanti aux salariés pour compenser tout ou partie d'une réduction du temps de travail normal (les paiements supplémentaires versés lors de chaque paie font partie de D.11111) | D.1224 | 
+D.2 Frais de formation professionnelle à la charge de l'employeur 
+(voir SEC 95, consommation intermédiaire) 
+Exemples: paiements à classer sous la variable D.2 
+Élément | Description | 
+Honoraires des formateurs extérieurs à l'entreprise | Coûts liés à la formation professionnelle des salariés, organisée, par exemple, sous forme de séminaires internes (les subventions éventuelles font partie de D.5 et ne doivent pas être prises en compte ici) | 
+Dépenses pour aides didactiques | Coûts liés à la formation professionnelle, organisée, par exemple, sous forme de cours en ligne sur Intranet, conçus par des entreprises spécialisées (les subventions éventuelles font partie de D.5 et ne doivent pas être prises en compte ici) | 
+D.3 Autres dépenses de l'employeur 
+(voir SEC 95, consommation intermédiaire) 
+Exemples: paiements à classer sous la variable D.3 
+Élément | Description | 
+Indemnité de vêtements | Versement aux salariés des professions nécessitant des vêtements spéciaux, portés, par exemple, à des fins de protection ou de présentation et non destinés à l'usage privé | 
+Frais de recrutement | Coûts des agences de recrutement de personnel ou des annonces d'emplois | 
+Indemnité d'installation ou de réinstallation | Versement aux salariés obligés de changer de lieu de résidence | 
+-------------------------------------------------- 
+ANNEXE III 
+TRANSMISSION DES DONNÉES, Y COMPRIS LES VENTILATIONS PAR ACTIVITÉ ÉCONOMIQUE, CLASSE DE TAILLE D'ENTREPRISE ET PAYS OU RÉGION 
+Trois fichiers, correspondant aux tableaux A, B et C, sont à fournir: 
+- le tableau A contient les données nationales (un enregistrement par activité économique aux niveaux des sections et divisions de la NACE Rév. 1.1), 
+- le tableau B contient les données nationales par classe de taille (un enregistrement par activité économique aux niveaux des sections et des divisions de la NACE Rév. 1.1, pour chaque classe de taille), 
+- le tableau C contient les données régionales au niveau NUTS 1 (un enregistrement par activité économique aux niveaux des sections et des divisions de la NACE Rév. 1.1, pour chaque région). 
+Le tableau C n'est pas obligatoire pour les pays dont le niveau NUTS 1 correspond au niveau national. Pour un sous-ensemble des variables énumérées à l'annexe I, seul le tableau A est obligatoire. Ces variables sont identifiées à l'annexe I. 
+Identification d'un enregistrement 
+Les enregistrements sont classés en fonction d'une séquence d'identification contenant les éléments suivants: 
+- l'année de l'enquête, 
+- le type de tableau, 
+- le code du pays ou de la région, 
+- l'activité économique, 
+- la classe de taille. 
+Les codes de transmission pour: 
+- les activités économiques de la NACE Rév. 1.1, 
+- les classes de taille, 
+- les pays ou régions 
+sont fixés par Eurostat dans un document de mise en œuvre. 
+Drapeau de confidentialité 
+Les enregistrements individuels transmis pour les tableaux A, B et C sont constitués de données extrapolées, c'est-à-dire d'estimations relatives à la population complète. En cas de stricte nécessité, ils peuvent être signalés comme "confidentiels". Une violation de la confidentialité peut survenir dans les tableaux A, B et C, si le nombre d'entreprises ou d'unités locales comprises dans la population est très petit pour un enregistrement individuel se rapportant à une activité économique, à une classe de taille ou à une région déterminée. Ce risque est, à l'évidence, plus élevé lorsque l'enregistrement individuel porte sur une ou deux unités de grande taille. De même, le risque en matière de confidentialité est sans doute plus important pour les tableaux B ou C, en raison des ventilations supplémentaires par classe de taille ou de région. Pour distinguer les enregistrements confidentiels, il convient d'utiliser les deux codes suivants: 
+"1" si les données pour un enregistrement individuel des tableaux A, B ou C sont confidentielles [1]; 
+" " si les données ne sont pas confidentielles (insertion d'une espace " " et non d'un zéro ou d'un tiret "-"). 
+Variables 
+Les variables requises sont définies à l'annexe I. Les chiffres sont à entrer sans espaces, points ou virgules (exemple: l'entrée 13967 est correcte; les entrées 13 967 ou 13.967 ou 13,967 sont incorrectes). 
+Les variables manquantes (ou nulles) doivent être codifiées selon les règles suivantes: 
+"NA" lorsque la variable n'est pas disponible (même si elle existe certainement et est supérieure à zéro); 
+"OPT" lorsque la variable est facultative et non renseignée; 
+"0" pour les valeurs nulles ou pour les variables qui n'existent pas dans le pays concerné. 
+Les variables relatives au nombre de salariés, au temps de travail et au nombre d'unités statistiques doivent être exprimées en termes absolus, c'est-à-dire en indiquant les nombres en entier (et non en décimales, dizaines, centaines, milliers, millions, etc.). 
+Les variables relatives aux dépenses doivent être exprimées dans la monnaie nationale du pays concerné. Pour les pays de la zone euro, il s'agit de l'euro. Les unités utilisées dans chaque pays doivent être identiques pour toutes les variables et ces dernières être exprimées en termes absolus, c'est-à-dire en indiquant les nombres en entier (et non en décimales, dizaines, centaines, milliers, millions, etc.). 
+Transmission 
+Les États membres doivent transmettre à la Commission (Eurostat) les données et les métadonnées requises par le présent règlement sous forme électronique, conformément à une norme d'échange proposée par Eurostat. Eurostat fournit, d’une part, une documentation détaillée sur les normes approuvées et, d’autre part, énonce des lignes directrices sur la mise en œuvre de ces normes conformément aux exigences du présent règlement. 
+[1] Lorsqu'un enregistrement individuel est signalé comme confidentiel, Eurostat prend les mesures appropriées en vue de garantir la confidentialité des données transmises pour les tableaux A, B et C. 
+-------------------------------------------------- 

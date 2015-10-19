@@ -1,0 +1,46 @@
+91/638/EEC: Commission Decision of 3 December 1991 on the designation of a common host centre for the computerized network Animo' 
+COMMISSION DECISION of 3 December 1991 on the designation of a common host centre for the computerized network 'Animo' (91/638/EEC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Economic Community, 
+Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Regulation (EEC) No 91/496/EEC (2), and in particular Article 20 (3) thereof, 
+Whereas on 19 July 1991 the Commission adopted Decision 91/398/EEC on a computerized network linking veterinary authorities (Animo) (3); 
+Whereas, in order to ensure the smooth functioning of the network, provision should be made for a host centre to be used; whereas it is first necessary to specify the procedure to be followed for the designation of such a host centre; whereas the next step will be to designate the host centre in accordance with the procedure laid down in Article 20 (3) of Directive 90/425/EEC; 
+Whereas the host centre must meet precise technical specifications; 
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+1. The Commission shall be responsible for issuing an invitation to tender with a view to selecting a host centre for the computerized network Animo. 
+2. The invitation to tender referred to in paragraph 1 shall include the technical specifications defined in the Annex. 
+3. Following the invitation to tender provided for in paragraph 1, with a view to the designation of the host centre, the Commission will select at least three offers meeting the specifications referred to in paragraph 2. 
+Article 2 
+This Decision is addressed to the Member States. 
+Done at Brussels, 3 December 1991. For the Commission 
+Ray MAC SHARRY 
+Member of the Commission 
+(1) OJ No L 224, 18. 8. 1990, p. 29. (2) OJ No L 268, 24. 9. 1991, p. 56. (3) OJ No L 221, 9. 8. 1991, p. 30. 
+ANNEX 
+TECHNICAL SPECIFICATIONS FOR THE COMMUNITY COMMON HOST CENTRE 
+1. Description 
+The host centre must be operational by 1 July 1992 at the latest. 
+It must be composed of the following elements in particular: 
+- memory for storing information. It is intended to store messages for four weeks, 
+- computers capable of managing large quantities of data; to be consulted by many users simultaneously, 
+- management and documentation software permitting information to be distributed, 
+- equipment (hardware and software) for the management of communications between the public networks (network x 25 and telephone network), 
+- electronic messenger services which conform to the international standards, 
+- file transfer services, 
+- facilities for archiving during one year, 
+- restart facilities in case of failure. 
+The host centre must be able to interoperate with existing systems or systems which will be in place in the national veterinary services, in accordance with the international standards. 
+The host centre must be available seven days a week and 24 hours out of 24. 
+2. Security rules 
+The host centre must have a set of strict and coherent provisions for data protection and integrity. Access to the system must be controlled by a series of security procedures, particularly by changeable passwords with rules regarding the number of retries, so as to minimize the danger of accidental or improper consultation. 
+3. Size and format of information 
+The size of the message formatted for transmission may be up to 4 000 characters. The formatted message will be in ASCII format with defined characters. The estimated number of messages per day will be about 3 000. Estimated management will require about 3 000 entry operations and 6 000 dispatch operations per day. 
+4. System capacity 
+The system must be able to manage 2 450 potential users. However, usertime overlaps may vary. The estimated number of simultaneous users (sending and receiving) will be on average 70 and not more than 100. Capacity must be expandible if necessary. The system must be able to manage waiting codes. 
+5. Assistance 
+A help service must be available 12 hours a day, from 7 a.m. to 7 p.m. at the location of the host centre, in order to deal with any communication problems. 
+6. Maintenance 
+A series of safeguard measures and facilities for restoring the files must be available for the system and operational at the host centre to ensure that no information is lost. 
+The host centre must have all the qualified staff necessary. 

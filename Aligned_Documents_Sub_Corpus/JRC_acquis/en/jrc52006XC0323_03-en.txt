@@ -1,0 +1,21 @@
+Amendment of the List of standards and/or specifications for electronic communications networks, services and associated facilities and services (Text with EEA relevance) 
+Amendment of the List of standards and/or specifications for electronic communications networks, services and associated facilities and services 
+(2006/C 71/04) 
+(Text with EEA relevance) 
+EXPLANATORY NOTE CONCERNING THE AMENDMENT OF THE LIST OF STANDARDS AND/OR SPECIFICATIONS FOR ELECTRONIC COMMUNICATIONS NETWORKS, SERVICES AND ASSOCIATED FACILITIES AND SERVICES 
+The Commission had signalled in the Communication on interoperability of digital interactive television services [1] its intention to add two more digital interactive television standards, MHEG-5 and WTVML, to the list of standards conditional upon their adoption by European Telecommunications Standards Institute (ETSI). 
+These two standards, MHEG-5 and WTVML have now been adopted by ETSI, and the list of standards is hereby being revised. 
+Chapter VI of the List of standards and/or specifications for electronic communications networks, services and associated facilities and services as published in the Official Journal of the European Union, reference OJ C 331, 31.12.2002, p.47 is amended as follows: 
+The heading APPLICATION PROGRAM INTERFACES (APIs), and all the text on page 47 under this heading is deleted, and replaced by the following heading and text: 
+INTERACTIVE DIGITAL TELEVISION 
+Article 18(1)(a) of the Framework Directive requires Member States to encourage, in accordance with the provisions of Article 17(2), providers of digital interactive television services for distribution to the public in the Community on digital interactive television platforms, regardless of the transmission mode, to use an open API. 
+Application Program Interfaces (APIs) 
+Technical interfaces and/or service features | Reference | Notes | 
+Digital Video Broadcasting (DVB); Multimedia Home Platform (MHP) Specification 1.1.1 | —ETSI TS 102812 | version 1.2.1 | 
+Digital Video Broadcasting (DVB); Multimedia Home Platform (MHP) Specification 1.0.3 | —ETSI ES 201812 | version 1.1.1 previously TS 101812 v. 1.3.1 | 
+MHEG-5 Broadcast Profile | —ETSI ES 202184 | version 1.1.1 | 
+Standards for the realisation of interactive television content 
+Technical interfaces and/or service features | Reference | Notes | 
+WTVML, Specification for a Lightweight Microbrowser for interactive TV applications, based on and compatible with WML | —ETSITS 102322 | version 1.1.1 | 
+[1] COM(2004) 541. 
+-------------------------------------------------- 

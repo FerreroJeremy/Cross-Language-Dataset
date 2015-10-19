@@ -1,0 +1,304 @@
+Council Directive 76/891/EEC of 4 November 1976 on the approximation of the laws of the Member States relating to electrical energy meters 
+COUNCIL DIRECTIVE of 4 November 1976 on the approximation of the laws of the Member States relating to electrical energy meters (76/891/EEC) 
+THE COUNCIL OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof, 
+Having regard to the proposal from the Commission, 
+Having regard to the opinion of the European Parliament (1), 
+Having regard to the opinion of the Economic and Social Committee (2), 
+Whereas, in the Member States, both the construction of and the methods of testing electrical energy meters are the subject of strict regulations which differ from one Member State to another and consequently hinder trade in these meters ; whereas it is, therefore, necessary to approximate these regulations; 
+Whereas Council Directive 71/316/EEC of 26 July 1971 on the approximation of the laws of the Member States relating to common provisions for both measuring instruments and methods of metrological control (3), as last amended by Directive 72/427/EEC (4), laid down the procedures for EEC type approval and EEC initial verification ; whereas, in accordance with that Directive, it is necessary to specify the technical requirements for the design and functioning of electrical energy meters, 
+HAS ADOPTED THIS DIRECTIVE: 
+Article 1 
+This Directive shall apply to new direct connected induction meters, with single or multiple tariffs, designed to measure active energy single-phase or polyphase current at 50 Hz frequency. 
+Article 2 
+The electrical energy meters which may be given EEC marks and signs are described in the Annex to this Directive. 
+They shall be the subject of EEC type approval and shall be submitted for EEC initial verification. 
+Article 3 
+Member States may not prevent, prohibit or restrict the placing on the market or entry into service of electrical energy meters if such meters bear the EEC type-approval sign and the EEC initial verification mark. 
+Member States which use maximum permissible errors smaller than those set out in the Directive for initial verification may continue to use such maximum permissible errors during a period of five and a half years from the notification of this Directive. 
+In the light of experience gained in this period of derogation and of the results obtained in international bodies, the appropriate measures shall be taken before the end of this five and a half year period, according to the procedure set out in Article 19 of Directive 71/316/EEC. 
+Article 4 
+1. Member States shall put into force the laws, regulations and administrative provisions needed in order to comply with this Directive within eighteen months of its notification and shall forthwith inform the Commission thereof. 
+2. Member States shall ensure that the text of the provisions of national law which they adopt in the field covered by this Directive is communicated to the Commission. 
+Article 5 
+This Directive is addressed to the Member States. 
+Done at Brussels, 4 November 1976. 
+For the Council 
+The President 
+Th.E. WESTERTERP (1)OJ No C 23, 8.3.1974, p. 51. (2)OJ No C 101, 23.11.1973, p. 6. (3)OJ No L 202, 6.9.1971, p. 1. (4)OJ No L 291, 28.12.1972, p. 156. 
+ANNEX CHAPTER I - DEFINITIONS 
+1. DEFINITION OF CERTAIN TERMS USED IN THIS ANNEX 1.1. Influence quantity or factor 
+Any quantity, or any factor other than the measured quantity, the effects of which may modify the result of the measurement. 
+1.2. Variation of error as a result on an influence quantity 
+Difference between the errors of the meter when a single influence quantity assumes two specified values in succession. 
+1.3. Reference value of an influence quantity 
+Value of this quantity on the basis of which certain characteristics of the meter are fixed. 
+1.4. Basic current (Ib) 
+Value of current in accordance with which the relevant performance of the meter is fixed. 
+1.5. Maximum current (Imax) 
+Maximum value of the current at which the meter shall satisfy the requirements of this Directive. 
+1.6. Distortion factor 
+Ratio of the effective value of the harmonic content obtained by subtracting the fundamental factor from a non-sinusoidal alternating quantity to the effective value of the non-sinusoidal quantity. The distortion factor is usually expressed as a percentage. 
+1.7. Basic speed 
+The nominal speed of rotation of the rotor expressed in revolutions per minute when the meter is under reference conditions and carries basic current at unity power factor. 
+1.8. Basic torque 
+The nominal value of the torque on the rotor to maintain it stationary with the meter under reference conditions and carrying basic current at unity power factor. 
+1.9. Type 
+Expression used to define all meters with single or multiple tariff, manufactured by the same manufacturer, to which correspond: - similar metrological properties, 
+- uniformity of construction of the parts which determine these qualities, 
+- the same number of ampere-turns of the current windings for the basic current and the same number of turns per volt of the voltage windings for the reference voltage, 
+- the same ratio between maximum current and basic current. 
+The type may include different basic current and reference voltage values. 
+Remarks (a) These meters shall be designated, by the manufacturer, by one or more groups either of letters or numbers, or of a combination of letters and numbers. Each type shall have one designation only. 
+(b) The type shall be represented by three sample meters intended for type approval tests, the characteristics of which (basic current and reference voltage) shall be chosen by the metrological service concerned from among those appearing in the tables proposed by the manufacturer (clause 6.1.1). 
+(c) In the case of special productions of the same type, the product of the number of turns of the windings and the value of the basic current may differ from that of the meters representing the type. The nearest value of the product immediately above or below should be chosen in order to have a whole number of turns. 
+For this reason only, the number of turns per volt of the voltage windings may differ by not more than 20 % from that of the sample meters representing the type. 
+(d) The ratio of the highest to the lowest basic speed of rotation of the rotor of each meter of the same type must not exceed 1 : 5. 
+CHAPTER II - TECHNICAL SPECIFICATIONS 
+2. MECHANICAL SPECIFICATIONS 2.1. General 
+Meters shall be designed and constructed in such a way as to avoid introducing any danger in normal use and under normal conditions, so as to ensure especially: - personal safety against electric shock; 
+- personal safety against effects of excessive temperature; 
+- safety against spread of fire. 
+All parts which are subject to corrosion under normal working conditions shall be effectively protected. Any protective coating shall not be liable to damage by ordinary handling nor injuriously affected by exposure to air, under ordinary conditions of service. 
+The meter shall have adequate mechanical strength and shall be able to withstand the elevated temperature which is likely to occur in normal operating conditions. 
+The components shall be reliably fastened and secured against loosening during transport or in normal use. 
+The electrical connections shall be such as to prevent any opening of the circuit, including any overload conditions specified in this Directive. 
+The construction of the meter shall be such as to minimize the risks of short-circuiting of the insulation between live parts and accessible conducting parts due to accidental loosening or unscrewing of a winding, screws, etc. 
+2.2. Case 
+The meter case shall be virtually dustproof and shall be capable of being sealed in such a way that the internal parts of the meter are accessible only after the seals are broken. 
+The cover shall not be removable without the use of a tool, coin or similar device. 
+The case shall be so constructed and arranged that any non-permanent deformation cannot prevent the meter from operating satisfactorily. 
+Meters intended for connection to the mains the voltage of which is more than 250 V in relation to earth and the case of which contains accessible metal parts shall be provided with a protective earth terminal. 
+For meters intended for connection to the mains with a reference voltage of 250 V or less in relation to earth and having a case wholly or partly made of metal, suitable provision shall be made for connecting the case to earth. 
+2.3. Windows 
+If the meter cover is not transparent, it shall include one or more windows to permit reading of the register and observation of the rotor movement. These windows shall be covered by plates of transparent material which it shall be impossible to remove without breaking the seals. 
+2.4. Terminals - terminal blocks 
+The terminals shall be grouped in one or more terminal blocks of sufficient mechanical strength to enable rigid conductors or cables to be fixed to them. 
+It shall be possible to disconnect the voltage terminals from the current input terminals without difficulty. 
+Connection of the conductors to the terminals shall be made in such a way as to ensure sufficient and durable contact, so that there is no risk of loosening or excessive heating. The holes which are an extension of the terminal holes in the insulating material shall be large enough to allow the easy insertion of the insulation of the conductors. 
+Note 
+The material of which the terminal plate is made shall satisfy the test laid down in ISO recommendation R 75 (1958), section 6, for a temperature of 135 ºC. 
+2.5. Terminal cover 
+The terminals of the meter must be covered by a terminal cover which it shall be possible to seal independently of the meter cover. When the meter is mounted on its board, it shall not be possible to reach the terminals without breaking the seals on the terminal cover. The terminal cover shall therefore cover the terminal plate, the screws which hold the conductors in the terminals and, if necessary, a sufficient length of the connecting conductors and their insulation. 
+2.6. Register (counting mechanism) 
+Registers may be of the drum or pointer type. 
+The unit of the register shall be the kilowatt hour. 
+In drum-type registers, the units shall be marked adjacent to the set of drums. %gt%PIC FILE= %quot%T0009638%quot%%gt% 
+The dial of pointer-type registers, or the drum of drum-type registers, which indicates one-tenth of the reading unit, shall be edged in colour or coloured. 
+In addition, the dial or the continuous rotating drum indicating the lowest values shall include a scale of 100 equal divisions or any other arrangement giving similar accuracy of reading. 
+The register shall be able to record, from zero and for a minimum of 1 500 hours, the energy corresponding to the maximum current at the reference voltage and unity power factor. 
+All the indications appearing on the register shall be indelible and easily legible. 
+2.7. Direction of rotation of the rotor and marking of the rotor 
+The edge of the rotor nearest an observer viewing a meter from the front, shall move from left to right. The direction of rotation shall be marked by a clearly visible and indelible arrow. 
+The edge or the edge and the upper surface of the disc shall carry a main mark with a width of between 1/20th and 1/30th of the circumference of the disc to facilitate the counting of the number of revolutions. 
+The disc may also carry marks permitting stroboscopic or other tests to be made. These marks shall not impede the use of the main mark when it is employed for photoelectric counting of the number of revolutions of the disc. 
+3. ELECTRICAL SPECIFICATIONS 3.1. Power losses 3.1.1. Voltage circuits 
+The loss in each voltage circuit at reference voltage, at reference frequency and at reference temperature shall not exceed 2 W and 8 VA for single phase meters and 2 W and 10 VA for polyphase meters. 
+3.1.2. Current circuits 
+For meters having a basic current lower than 30A, the apparent power taken by each circuit at basic current, at reference frequency and at reference temperature shall not exceed 2 75 VA. For higher basic current, it shall not exceed 5 VA. 
+3.2. Heating 
+In the usual conditions of use, the windings and insulation shall not reach a temperature liable adversely to affect the functioning of the meter. %gt%PIC FILE= %quot%T0009588%quot%%gt% 
+In addition, after the test, the meter shall not show any damage and must satisfy the AC voltage test in clause 3.3.3. 
+The temperature of the windings shall be determined by the resistance variation method (see IEC Publication 28, %quot%International Specifications for Copper-type Annealing%quot%). 
+When measuring circuit resistance, the meter feed connections shall be at least 100 cm long and have a cross-section such that current density will be less than 4 A/mm2. Measurement of resistance variation shall be made at the terminal box connections. 
+3.3. Dielectric properties 
+The meter and its incorporated auxiliary devices, if any, shall be such that they retain adequate dielectric qualities under normal conditions of use, taking account of atmospheric influences and the different voltages to which their circuits are subjected in normal conditions of use. 
+Consequently, the meter shall be able to withstand without damage the dielectric proving tests detailed in clauses 3.3.2 and 3.3.3. 
+The tests shall be carried out only on a complete new meter, with its cover (except where indicated below) and terminal cover in position, the screws of the conductors being screwed down to the maximum applicable conductor fitted in the terminals. 
+These tests shall be carried out once only on any one meter, and the procedure shall be in accordance with IEC Publication 60 : %quot%High voltage tests (1962)%quot%. 
+Note : When the terminal arrangements of a meter differ from those of the meter originally subjected to type approval, all the dielectric property tests shall be carried out for the different terminal arrangements. 
+For the purpose of these tests, the term %quot%earth%quot% has the following meaning: (a) when the meter case is made entirely of metal, the earth is the case itself placed on a flat conducting surface; 
+(b) when the meter case or only part of it is made of insulating material, the earth is a conductive foil connected to the flat conducting surface on which the meter is placed. 
+Where the terminal cover allows this, a distance of approximately 2 cm shall be left between the foil and the holes for the conductors in the terminal casing. 
+During the impulse and the a.c. voltage tests, the circuits which are not under test shall be connected to either the frame or the earth as indicated below. 
+The impulse test shall be carried out first and the a.c. voltage test afterwards. 
+During these tests, no flashover, disruptive discharge or puncture shall occur. 
+After these tests, there shall be no change in the percentage error of the meter greater than the uncertainty of measurement. 
+In this section, the expression %quot%all the terminals%quot% means the whole set of the terminals of the current circuits, voltage circuits and, if any, auxiliary circuits having a reference voltage over 40 V. 3.3.1. General conditions for dielectric quality tests 
+These tests shall be made in normal conditions of use. During the test, the quality of the insulation shall not be impaired by dust or abnormal humidity. 
+Unless otherwise specified, the normal conditions for insulation tests are: - ambient temperature 15 ºC to 25 ºC 
+- relative humidity 45 % to 75 % %gt%PIC FILE= %quot%T0009650%quot%%gt% 
+3.3.2. Impulse voltage test 
+The impulse voltage test is intended to determine the capability of the meter to with-stand without damage short-time overvoltage of high values. 
+Note : The aim of the tests in accordance with clause 3.3.2.1 is essentially to ensure, on the one hand, the quality of the insulation of the voltage winding between turns or between layers and, on the other hand, the insulation between different circuits of the meter which in normal service are connected to conductors of different phases of the mains between which overvoltage may occur. 
+The text provided for in clause 3.3.2.2 is intended to provide overall verification of the behaviour of the insulation of all the electrical circuits in the meter relative to earth. This insulation represents an essential safety factor for persons in the event of overvoltage on the mains. 
+The energy of the generator used for these tests shall be in accordance with the relevant requirements of IEC Publication 60. The wave form of the impulse is the standardized 1.2/50 and its peak value is 6 kV. For each test, the impulse voltage is applied ten times with the same polarity. 3.3.2.1. Test of insulation of voltage circuits and of insulation between circuits 
+The test shall be made independently on each circuit (or assembly of circuits) which are insulated from the other circuits of the meter in normal use. The terminals of the circuits which are not subject to impulse voltage shall be connected to the earth. 
+Thus, when in normal use the voltage and the current circuits of a driving element are connected together, the test shall be made on the whole. The other end of the voltage circuit shall be connected to the earth and the impulse voltage shall be applied between the terminal of the current circuit and the earth. 
+When several voltage circuits of a meter have a common point, this point shall be connected to earth and the impulse voltage successively applied between each of the free ends (or the current circuit connected to it) and the earth. 
+The auxiliary circuits intended to be connected directly to the mains and having a reference voltage over 40 V shall be subjected to the impulse voltage test in the same conditions as those already given for voltage circuits. The other auxiliary circuits shall not be tested. 
+3.3.2.2. Test of insulation of electric circuits relative to earth 
+All the terminals of the meter circuits, except those of the auxiliary circuits with a reference voltage not greater than 40 V, shall be connected together. 
+The auxiliary circuits with a reference voltage not greater than 40 V shall be connected to the earth. 
+The impulse voltage shall be applied between all the meter circuits and the earth. 
+3.3.3. A.C. voltage test 
+The a.c. voltage tests shall be carried out in accordance with the table below. 
+The test voltage shall be substantially sinusoidal, having a frequency of 50 Hz applied for one minute. The power source shall be capable of supplying at least 500 VA. 
+During tests A and B in the table below, the circuits which are not submitted to the voltage test shall be connected to the frame. 
+During the tests relative to earth (C in the following table) the auxiliary circuits whose reference voltage is no more than 40 V shall be connected to the earth. %gt%PIC FILE= %quot%T0009589%quot%%gt% 
+4. PARTICULARS TO BE SHOWN ON THE METERS 4.1. Rating plate 
+Each meter shall carry a rating plate which may be either the dial of the register or a plate fixed inside the meter. 
+The following particulars, indelible, easily legible and visible from the outside, shall be given there: (a) the manufacturer's identification mark or trade name; 
+(b) the designation of the type; 
+(c) the sign certifying EEC type approval of the meter; 
+(d) the description of the number and arrangement of the driving elements, either in the form : single-phase two-wire, three-phase four-wire, etc., or using symbols conforming to a standard harmonized at Community level; 
+(e) the reference voltage; 
+(f) the basic current and the maximum current, in the form : 10 - 40 A or 10 (40) A; 
+(g) the reference frequency 50 Hz; 
+(h) the constant of the meter in either of these forms : x Wh/rev or x revs/kWh; 
+(i) the serial number of the meter and its year of manufacture; 
+(j) the reference temperature, if it differs from 23 ºC. 
+The meter may also carry information as to its place of manufacture, a commercial description, a special serial number, the name of the electricity supplier, a sign of conformity to a European standard and the connection diagram identification number. Any other information or inscription shall be prohibited, unless specially authorized. 
+4.2. Connection diagram and terminal markings 
+Each meter must carry an easily identifiable connection diagram showing the correspondence between the connecting terminals, including the auxiliary device terminals and the conductors to be connected. For three-phase meters, the phase sequence for which the meter is intended shall be shown. The connection diagram may have a reference number stamped on the rating plate. If the meter terminals carry markings, these shall be indicated in the diagram. Connection diagrams may be replaced by a reference number specified in the national standard of the Member State in which the meter will be used. 
+CHAPTER III - METROLOGICAL REQUIREMENTS 
+5. METROLOGICAL REQUIREMENTS 5.1. Maximum permissible errors 
+Under the reference conditions described in clause 5.2, single-phase meters and polyphase meters with balanced loads shall not exceed the errors indicated in Table I, and polyphase meters with single-phase loads (under balanced voltages) shall not exceed the errors indicated in Table II. 
+TABLE I 
+%gt%PIC FILE= %quot%T0009590%quot%%gt% TABLE II 
+%gt%PIC FILE= %quot%T0009591%quot%%gt% With a basic current and unity power factor, the difference between the error on a meter with a single-phase load and the percentage error when the polyphase loads are balanced should not exceed 2 75 %. 
+Note : The single-phase load of a three-phase meter shall be understood as one being associated with one phase to neutral voltage of a four-wire system (one of which is neutral) or one phase to phase voltage of a three-wire system (without a neutral). In every case, the complete system of voltages shall remain connected to the meter. 
+5.2. Reference conditions 
+Save where an exception is expressly provided for in this Annex, tests to determine errors and error variations as a function of the influence quantities shall be carried out under the following reference conditions: (a) the meter shall be closed, i.e. the meter cover shall be in position; 
+(b) in the case of drum-type registers, only the fastest-turning drum shall be engaged, even if it is not visible; 
+(c) before any measurement, the voltage shall have been connected for at least one hour and the testing currents shall each be adjusted by progressively increasing or decreasing values and connected long enough for the speed of rotation of the rotor to become stabilized; 
+In addition, for polyphase meters: 
+(d) the order of the phases shall correspond to the direct sequence (as shown in the connection diagram); 
+(e) the voltages and currents shall for practical purposes be balanced, i.e.: - each of the voltages between line and neutral or between any two lines shall not differ by more than 1 % from the mean of the corresponding voltages; 
+- each of the currents in the conductors shall not differ by more than 2 % from the mean of these currents; 
+- the phase displacements presented by each of these currents with the corresponding phase to neutral voltage shall not differ one from another by more than 2º, whatever the power factor. 
+The reference values of the influence quantities are indicated in Table III. 
+TABLE III %gt%PIC FILE= %quot%T0009592%quot%%gt% 
+5.3. Effects of the influence quantities 
+The variations in the error shall be determined for each of the influence quantities under the conditions indicated in Table IV, all the other conditions set out in clause 5.2 being observed. 
+TABLE IV %gt%PIC FILE= %quot%T0009593%quot%%gt% 
+%gt%PIC FILE= %quot%T0009594%quot%%gt% 
+5.4. Effect of transient heavy overloads 
+The test circuit shall be virtually non-inductive. After applying the transient overcurrent, the voltage shall be maintained at the terminals and the meter allowed to rest long enough to recover its initial temperature (about 1 hour). 
+The meters shall be capable of carrying a current surge (obtained for example, from a capacitor discharge or from the mains via a thyristor control) with a peak value equal to 50 times the maximum current (up to 7 000 A) and a value at all times greater than 25 times the maximum current (or 3 500 A) for 1 ms. 
+At the end of this test, the error variation shall not be greater than 1 75 % at the basic current and unity power factor. 
+5.5. Variation in the error due to self-heating 
+After having first been maintained under reference voltage for at least one hour with no current supplied to the circuits, the rated maximum current shall be applied to the current windings. The error of the meter shall be measured immediately after it is put into operation and then at sufficiently short intervals to permit correct plotting of the curve of error variation as a function of time. 
+The test shall be continued for at least one hour, and at all events until the variation noted over a period of 20 minutes is not greater than 0 72 %. 
+The variation in the error due to self-heating measured as indicated above shall not be greater than 1 % for unity power factor and 1 75 % for 0 75 power factor. 
+5.6. Running with no load 
+Under the conditions specified in clause 5.2, when the current circuits of the meter are open, the rotor shall not run free for any voltage value between 80 % and 110 % of the reference voltage : the rotor may turn slightly but shall under no circumstances make one complete revolution. In the case of a drum-type register, this requirement shall apply when only one drum is engaged. 
+5.7. Starting 
+Under the conditions specified in clause 5.2, if a current equal to 0 75 % of the basic current with unity power factor passes through the meter, it shall start and continue to revolve. It shall be verified that the rotor definitely makes a complete turn. In the case of a drum-type register, this requirement shall apply for one or two drums engaged. 
+5.8. Agreement of the register with the reading constant of the meter 
+The ratio between the number of revolutions of the meter rotor and the indication of the register must be correct. 
+5.9. Margins of adjustment 
+A meter adjusted to conform to the present requirements should have at least the following margins of adjustment: (a) Adjustment at full load: 
+± 4 % of the variation of the rotor speed for a current equal to half the maximum current, with the reference voltage, a frequency of 50 Hz and unity power factor. 
+(b) Adjustment at light load: 
+± 4 % of the variation of the rotor speed at 5 % of the basic current, with 50 Hz frequency, the reference voltage and unity power factor. 
+(c) Adjustment when out of phase (if the meter is capable of such adjustment): 
+± 1 % of the variation of the rotor speed for 0 75 power factor (inductive) with a current equal to half the maximum current, 50 Hz frequency and the reference voltage. 
+CHAPTER IV - EEC TYPE APPROVAL 
+EEC type approval of electrical energy meters shall be granted in accordance with the requirements of Directive 71/316/EEC. Some of these requirements are specified in this Chapter. 
+6. EEC TYPE APPROVAL 6.1. Procedure for EEC type approval 6.1.1. Technical documents 
+A request for EEC type approval should be accompanied by the following documents: - a drawing, and possibly a photograph, of the complete meter; 
+- a detailed description of the construction of the meter and of its main components (including any variations); 
+- drawings of the following main components (including any variations): 
+base, handle and fixing points, 
+cover, 
+terminal plate and cover, 
+driving element, windings and air gap, 
+braking element and method of adjustment, 
+register(s), 
+rotor, 
+upper and lower rotor bearings, 
+temperature compensating devices, 
+overload compensating devices, 
+inductive load adjustment, 
+light load adjustment, 
+auxiliary circuits, 
+rating plate; 
+- diagram of internal and external connections (including auxiliary circuits) showing the phase sequence; 
+- tables of all voltage and current windings, i.e. number of turns, size of conductors, insulation; 
+- table of meter constants and torques for all voltage and current values; 
+- a description of, and drawings showing, the positions intended for verification marks and seals. 
+6.1.2. Presentation of meters submitted for EEC type approval 
+A request for EEC type approval should be accompanied by the presentation of three meters representing the type (see clause 1.9 (b)). 
+The competent authority may request the submission of additional meters if: - the application relates not only to the three meters referred to in the first paragraph above but also to one or more variants thereof (material of the case, any multiple tariff devices, remote indication and anti-reversing devices etc.) which may be considered as being of the same type, in particular where the arrangement of the terminals is different; 
+- the application is for the extension of a previous type approval. 
+6.2. EEC type approval examination 
+Meters submitted shall conform to the technical requirements set out in clauses 2, 3 and 4 and to the metrological requirements in clause 5. 
+However, in order to take into account possible errors in the methods of calibration, the axis of abscissae may, when the error curves corresponding to Tables I and II are being plotted, be moved for each of those curves by up to 1 % to a parallel position. 
+6.3. Measuring points for EEC type approval tests 
+When tests in respect of the metrological requirements given in clause 5 are being carried out, measurements shall be made for at least the following points: - for all single-phase meters, and for polyphase meters with balanced loads, with unity power factor: 
+5 %, 10 %, 20 %, 50 % and 100 % of Ib and every whole multiple of Ib up to Imax; 
+- for all single-phase meters and for polyphase meters with balanced loads, with 0 75 power factor (inductive): 
+10 %, 20 %, 50 %, 100 % of Ib and every whole multiple of Ib up to Imax; 
+- for polyphase meters with a single phase load: 
+20 %, 50 % and 100 % of Ib, 50 % Imax and Imax with unity power factor and Ib with 0 75 power factor (inductive). 
+These tests shall be carried out successively in all phases. 
+The effects of the influence quantities shall be examined for at least the following points: 
+- the influence of the ambient temperature 0 71 Ib, Ib and Imax (unity power factor), 
+0 72 Ib, Ib and Imax (0 75 power factor inductive); 
+- the influence of position, voltage, frequency, wave form, external magnetic inductions, magnetic field of an accessory and of the mechanical load of each register for the points and under the conditions set out in Table IV; 
+- the influence of inversion of the phases (polyphase meters) 
+for 0 75 Ib, Ib and Imax with a balanced load and unity power factor, 
+and for 0 75 Ib with a single-phased load and unity power factor (this last test to be repeated for each of the phases). 
+In addition, the following tests shall be carried out: - the tests of transient overloads, self heating and starting and verification of the margins of adjustment shall be carried out as laid down in clauses 5.4, 5.5, 5.7 and 5.9; 
+- running-with-no-load tests shall be carried out with 80 %, 100 % and 110 % of the reference voltage; 
+- the test of the register shall be carried out under the conditions specified in clause 5.8. The duration of the test shall be sufficient for the reading inaccuracy not to exceed ± 0 72 %. 
+6.4. EEC type approval certificate 
+The EEC type approval certificate shall be accompanied by the descriptions, drawings and diagrams necessary to identify the type and to explain its functioning. 
+CHAPTER V - EEC INITIAL VERIFICATION 
+The EEC initial verification of electrical energy meters shall be carried out in accordance with the requirements of Directive 71/316/EEC. These requirements shall be supplemented by the following special provisions: 
+7. EEC INITIAL VERIFICATION 
+The initial verification of electrical energy meters shall consist of acceptance tests and examinations of conformity to the approved type. 7.1. Acceptance tests 
+The acceptance tests of the meters shall guarantee their quality with regard to the points listed in clause 7.1.1. 7.1.1. Nature of the acceptance tests 
+(1) - Dielectric strength test; 
+(2) - Verification of mechanical properties with the meter cover fitted; 
+(3) - Running-with-no-load-test; 
+(4) - Starting test; 
+(5 to 10) - Accuracy tests; 
+(11) - Verification of the constant. 
+The tests shall preferably be carried out in the above order, as detailed in clauses 7.1.2 and 7.1.3. 
+7.1.2. Conditions of the acceptance tests 
+The tests must be carried out on each meter, with the cover fitted, except for certain mechanical properties and, if necessary, for checking the register. 
+However, when the initial verification takes place in the manufacturer's workshops, the tests may be carried out with the cover removed as long as it has been previously accepted as having practically no effect on the performance of the meter. Nevertheless, when dielectric properties are checked, the meter cover shall be fitted. After the dielectric strength test has been satisfactorily carried out, but before any other test, the meters shall be supplied with electricity for at least half an hour at the reference voltage and with a current of about 0.1 Ib, at unity power factor. This allows the voltage circuit to be heated in advance and a check to be made that the rotor turns freely. 
+Tests Nos 3 to 11 shall be carried out under the conditions given in Table III or Table V 
+TABLE V %gt%PIC FILE= %quot%T0009595%quot%%gt% 
+7.1.3. Carrying out of acceptance tests 7.1.3.1. Test of dielectric strength (test No 1) 
+The a.c. voltage test shall consist of applying an alternating voltage at a frequency of 50 Hz and an effective value of 2 kV for one minute between all the inter-connected terminals and the flat metal surface on which the meter is placed. For this test, those auxiliary circuits having a nominal voltage of 40 V or less shall be connected to the flat metal surface. 
+The test shall be carried out on each appliance by the manufacturer on his own responsibility. The appropriate metrological service shall carry out a check on it. 
+7.1.3.2. Verifications to be carried out with the cover fitted (test No 2) - apparent good condition of the case and terminal plate; 
+- correct positioning of the dial; 
+- presence of all the prescribed particulars. 
+7.1.3.3. Running with no load (test No 3) 
+The choice between the following two tests shall be left to the appropriate metrological service: - when the meter is supplied with electricity at the reference voltage, with unity power factor, at a current equal to 0 7001 Ib, the rotor shall not complete a whole revolution. 
+- the test shall be conducted in accordance with clause 5.6. 
+7.1.3.4. Starting (test No 4) 
+Where the running with no load test has been carried out under the conditions set out in the first indent of clause 7.1.3.3, the starting test shall be carried out as follows : 
+when the meter is supplied with electricity at the reference voltage, with unity power factor, at a current equal to 0 7006 Ib, the rotor shall start up and revolve more than once. 
+Where the running with no load test has been carried out under the conditions set out in the second indent of clause 7.1.3.3, the starting test shall be carried out in accordance with clause 5.7. 
+Note : Tests 3 and 4 shall be carried out on polyphase meters with all phases under load. 
+7.1.3.5. Accuracy tests (test Nos 5 to 10) 
+The accuracy tests shall be carried out for the current values and power factors indicated in Table VI. There is no need to wait until the windings are in thermal balance. Since the conditions under which these tests are carried out are usually not the standard conditions for type approval, the values in Table VI below, which give more latitude, are used instead of the values set out in Tables I and II. 
+TABLE VI %gt%PIC FILE= %quot%T0009596%quot%%gt% 
+Note : Test No 5 on meters with multiple tariffs shall be repeated for each reading corresponding to a different tariff. The tariff-adjusting electro-magnet(s) shall be supplied with electricity in accordance with the specifications in the connection diagram. 
+The permissible error limits may not be systematically utilized in the same direction. 
+7.1.3.6. Check on the agreement of the register with the meter constant (test No 11) 
+It shall be verified that the ratio between the number of revolutions of the meter rotor and the readings of the register(s) is correct. 
+7.1.3.7. Uncertainty of measurement 
+The properties of the measuring instruments and of the other apparatus used to carry out tests Nos 5 to 10 and where applicable, 11 shall be such that the errors of measurement which can be attributed to them do not exceed in relative value: - ± 0 74 % with unity power factor, 
+- ± 0 76 % with 0 75 power factor (inductive). 
+7.2. Examination for conformity to the approved type 7.2.1. Nature of the examination for conformity to the approved type 
+In order to determine whether the metrological properties of the meters manufactured and presented for initial verification conform to the requirements of this Directive, an examination for conformity to the approved type may be carried out at intervals determined by the competent metrological authority, on three meters chosen at random after the acceptance tests. 
+This examination shall consist of one or more tests chosen from those described in this Directive (clauses 3 and 5), particularly from those which serve to determine the effects of influence quantities. 
+These tests shall be conducted under the reference conditions described in clause 5.2 and at those measuring points given in clause 6.3. 
+The following points may also be verified after the case has been opened: - quality of surface protection, e.g. of paint, 
+- gear ratio, 
+- nature of the gearing of the register, 
+- quality of the soldering and/or welding, 
+- tightness of the screws, 
+- absence of filings and metallic dust, 
+- margins of adjustment (visual inspection). 
+Note 
+When meters of an approved type are manufactured in regular production, it is desirable that the frequency of the examination for conformity to the approved type be in proportion to the volume of production. In addition, this procedure shall be carried out each time any seemingly systematic faults are discovered during the acceptance or other tests. 
+7.3. EEC verification marks and sealing 
+Meters which have successfully undergone the initial verification tests shall be stamped with the EEC initial verification marks. 
+The seals shall include the EEC initial verification marks and shall be affixed in such a manner as to ensure that it will be impossible to gain access to the internal working parts of the meter without breaking the EEC initial verification seals. 

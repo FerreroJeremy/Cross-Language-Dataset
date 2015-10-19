@@ -1,0 +1,102 @@
+Règlement (CE) n° 1981/2003 de la Commission du 21 octobre 2003 portant application du règlement (CE) n° 1177/2003 du Parlement européen et du Conseil relatif aux statistiques communautaires sur le revenu et les conditions de vie (EU-SILC) en ce qui concerne le travail sur le terrain et les procédures d'imputation (Texte présentant de l'intérêt pour l'EEE.) 
+Règlement (CE) no 1981/2003 de la Commission 
+du 21 octobre 2003 
+portant application du règlement (CE) n° 1177/2003 du Parlement européen et du Conseil relatif aux statistiques communautaires sur le revenu et les conditions de vie (EU-SILC) en ce qui concerne le travail sur le terrain et les procédures d'imputation 
+(Texte présentant de l'intérêt pour l'EEE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CE) n° 1177/2003 du Parlement européen et du Conseil du 16 juin 2003 relatif aux statistiques communautaires sur le revenu et les conditions de vie (EU-SILC)(1), et notamment son article 15, paragraphe 2, point e), 
+considérant ce qui suit: 
+(1) Le règlement (CE) n° 1177/2003 a établi un cadre commun pour la production systématique de statistiques communautaires sur le revenu et les conditions de vie, englobant des données transversales et longitudinales comparables et actuelles sur le revenu ainsi que sur le niveau et la composition de la pauvreté et de l'exclusion sociale au niveau national et au niveau de l'Union européenne. 
+(2) Conformément à l'article 15, paragraphe 2, point e), du règlement (CE) n° 1177/2003, des mesures de mise en oeuvre sont nécessaires pour harmoniser les méthodes et les définitions en ce qui concerne le travail sur le terrain et les procédures d'imputation. 
+(3) Les mesures prévues par le présent règlement sont conformes à l'avis du comité du programme statistique, 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+Les aspects relatifs au travail sur le terrain, y compris les numéros d'identification des ménages et des personnes, les règles et les lignes directrices relatives à l'application des substitutions ainsi que les procédures d'imputation sont définis à l'annexe. 
+Article 2 
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 21 octobre 2003. 
+Par la Commission 
+Pedro Solbes Mira 
+Membre de la Commission 
+(1) JO L 165 du 3.7.2003, p. 1. 
+ANNEXE 
+1. DÉFINITIONS 
+Aux fins du présent règlement, les définitions suivantes sont appliquées pour la composante longitudinale des statistiques EU-SILC: 
+a) échantillon initial: échantillon de ménages ou de personnes à la date de la sélection pour les statistiques EU-SILC; 
+b) individus panels: totalité ou sous-ensemble des membres des ménages de l'échantillon initial qui dépassent un âge donné; 
+c) limite d'âge utilisée pour définir les individus panels: 
+pour les panels d'une durée de quatre ans, la limite d'âge ne dépasse pas 14 ans. Dans les pays dotés d'un panel de quatre ans utilisant un échantillon d'adresses ou de ménages, tous les membres des ménages âgés de 14 ans ou plus figurant dans l'échantillon initial font partie des individus panels. Dans les pays dotés d'un panel de quatre ans utilisant un échantillon de personnes, il y a lieu de sélectionner au moins une personne par ménage; 
+la limite d'âge minimal susmentionnée est abaissée pour les panels de plus longue durée. Dans le cas d'un panel de plus de huit ans, les membres de tout âge figurant dans l'échantillon initial sont des individus panels et les enfants mis au monde par des femmes panels pendant la période où leur mère fait partie du panel sont inclus en tant qu'individus panels; 
+d) ménage panel: ménage comprenant au moins un individu panel. Un ménage panel est inclus dans les statistiques EU-SILC pour la collecte ou le calcul d'informations détaillées lorsqu'il comprend au moins un individu panel âgé de 16 ans ou plus; 
+e) corésidents (non-membres du panel): tous les résidents actuels d'un ménage panel ne faisant pas partie des personnes définies ci-dessus comme individus panels; 
+f) membres actuels du ménage: membres actuels du ménage au moment de la collecte ou du calcul des données. Les condition requises pour classer une personne comme membre du ménage sont définies à l'annexe I du règlement (CE) n° 1980/2003 de la Commission(1) concernant les définitions et les définitions mises à jour; 
+g) ancien membre du ménage: personne qui n'est pas membre actuel du ménage et n'a pas été enregistrée comme membre du ménage dans ce ménage au cours de la vague précédente, mais qui a vécu dans le ménage pendant trois mois au moins au cours de la période de référence du revenu; 
+h) ménage entier: 
+un ménage panel est dit entier (complet) s'il subsiste en tant que ménage unique, sans former de ménage additionnel et sans disparaître, même s'il y a eu des changements dans sa composition par rapport à la vague précédente pour cause de décès, de sortie de certains de ses membres du champ d'observation, de départ de corésidents, d'arrivée de nouveaux membres ou de naissances; 
+i) ménage initial/éclaté: 
+un ménage panel de la vague x est dit avoir %quot%éclaté%quot% si les individus panels de la vague x résident à la date de la vague x+1 dans plus d'un ménage privé sur le territoire national appartenant à la population cible. 
+Si un éclatement a eu lieu, un (et seulement un) des ménages qui en sont issus est défini comme le ménage %quot%initial%quot%, alors que l'autre ou les autres sont appelés ménages %quot%éclatés%quot%. 
+La méthode suivante est à appliquer pour faire la distinction entre ménages %quot%initial%quot% et %quot%éclaté%quot%: 
+- si un individu panel de la vague x continue à vivre à la même adresse que lors de la dernière vague, son ménage est considéré comme le ménage %quot%initial%quot%. Tous les individus panels ayant changé d'adresse forment un ou plusieurs ménages %quot%éclatés%quot%, 
+- si aucun individu panel n'habite à l'adresse de la dernière vague, le ménage de celui qui avait le numéro personnel le plus bas dans le registre lors de la dernière vague constitue le ménage initial. Dans le cas où cette personne n'est plus vivante ou ne réside plus dans un ménage privé sur le territoire national de la population cible, le ménage initial est celui de l'individu panel ayant le numéro personnel le plus bas; 
+j) fusion: 
+des individus panels ayant appartenu à des ménages panels différents lors de la vague précédente ont formé ensemble un nouveau ménage. 
+Pour la composante transversale et longitudinale des statistiques EU-SILC, on entend par: 
+k) numéro personnel: le numéro attribué à la personne dans le %quot%registre des ménages%quot% la première fois qu'elle est enregistrée en tant que membre du ménage. Dans la composante transversale, et pour les nouveaux ménages dans la composante longitudinale, ce numéro devrait correspondre au numéro d'ordre de la personne dans le %quot%registre des ménages%quot%. 
+2. NUMÉROS D'IDENTIFICATION DES PERSONNES ET DES MÉNAGES 
+2.1. Numéro d'identification du ménage 
+1. Dans la composante transversale, le numéro d'identification fixe du ménage (ID) est un nombre séquentiel. 
+2. Dans la composante longitudinale, le numéro d'identification du ménage (ID) se compose du numéro du ménage et du numéro d'éclatement. Le numéro du ménage est un nombre séquentiel. Le numéro d'éclatement de la première vague prend toujours la valeur %quot%00%quot%. 
+Dans le cas d'un ménage resté entier, celui-ci garde les mêmes numéro de ménage et numéro d'éclatement d'une vague à l'autre. 
+Dans le cas d'un éclatement, le ménage initial garde son numéro de ménage et son numéro d'éclatement d'une vague à l'autre. Les autres ménages, c'est-à-dire les ménages éclatés, conservent le même numéro de ménage, mais se voient attribuer le prochain numéro d'éclatement unique disponible dans l'ordre séquentiel. 
+Dans le cas d'une fusion de deux ménages panels, si le nouveau ménage réside à l'une des adresses précédentes, il garde le numéro de ménage et le numéro d'éclatement du ménage qui occupait cette adresse lors de la vague précédente. Si le nouveau ménage se trouve à une nouvelle adresse, il lui est attribué le numéro de ménage et le numéro d'éclatement du ménage de l'individu panel qui possède à présent le numéro personnel le plus bas dans le %quot%registre des ménages%quot%. 
+2.2. Numéro d'identification personnel 
+1. Dans les composantes transversale et longitudinale, le numéro d'identification personnel se compose de l'ID du ménage et du numéro personnel. 
+2. Dans la composante longitudinale, le numéro personnel à attribuer à tout nouveau membre du ménage s'obtient en ajoutant 1 au numéro personnel le plus élevé utilisé pour toutes les années de l'enquête et l'ID du ménage. 
+3. Dans la composante longitudinale, l'ID du ménage est le %quot%numéro d'identification du ménage%quot% du ménage où la personne apparaît pour la première fois dans le panel. 
+4. Dans la composante longitudinale, l'ID personnel reste fixe pendant toute la période durant laquelle la personne est incluse dans l'enquête. 
+3. INFORMATIONS À COLLECTER 
+1. Dans le ménage initial, il est collecté les informations complètes requises pour les membres actuels du ménage, les informations de base pour les anciens membres du ménage ainsi que les informations de base pour les membres du ménage de la vague précédente qui ne font plus partie du ménage. 
+2. Dans le ménage éclaté, il est collecté les informations complètes requises uniquement pour les membres actuels du ménage. 
+3. Les informations complètes requises pour les membres actuels du ménage, les informations de base pour les anciens membres du ménage et les informations de base sur les membres du ménage de la vague précédente qui ne font plus partie du ménage sont prévues par le règlement (CE) n° 1983/2003 de la Commission(2) dans la liste des variables primaires cibles. 
+4. Lorsqu'un individu panel est inclus dans l'enquête depuis plus d'un an, des informations permettant de savoir si cette personne est restée à la même adresse ou si elle a déménagé à une adresse différente d'une année à l'autre sont collectées. 
+4. LES RÉPONDANTS AU QUESTIONNAIRE SUR LE MÉNAGE 
+1. Les informations collectées par entrevue qui ont trait à l'ensemble du ménage et les informations générales relatives à chaque membre du ménage sont fournies par un ou plusieurs membres du ménage. Le répondant est choisi sur la base des priorités suivantes: 
+- priorité 1: la personne responsable du logement, 
+- priorité 2: le membre du ménage âgé de 16 ans ou plus qui est le mieux placé pour donner les informations. 
+2. Pour la deuxième vague et les vagues suivantes de la composante longitudinale des statistiques EU-SILC, le répondant est choisi sur la base de la liste suivante de priorités: 
+- priorité 1: le répondant de la vague précédente, 
+- priorité 2: un individu panel âgé de 16 ans ou plus, priorité étant à accorder à la personne responsable du logement ou la mieux placée pour donner les informations, 
+- priorité 3: un individu non membre du panel âgé de 16 ans ou plus. 
+5. MISE EN OEUVRE DE L'ENQUÊTE 
+1. Chaque État membre applique les procédures appropriées pour maximiser les taux de réponse, conformément à ses propres %quot%meilleures pratiques%quot%. Dans le cas d'une enquête par entrevue, trois rappels au minimum sont effectués avant qu'un ménage ou un individu ne soit considéré comme non-répondant, à moins que des raisons péremptoires (refus catégorique de coopérer, circonstances mettant en danger la sécurité de l'enquêteur, etc.) ne s'y opposent. 
+2. L'enquête EU-SILC est basée sur la sélection et la mise en oeuvre d'un échantillon aléatoire. En principe, les unités observées dans l'enquête sont exactement les mêmes que celles qui sont sélectionnées à cet effet conformément au plan d'échantillonnage, c'est-à-dire non remplacées par d'autres unités. 
+3. Les résultats obtenus pour chaque ménage et chaque individu sélectionné pour l'échantillon sont enregistrés, en distinguant i) les unités éligibles observées avec succès; ii) les unités éligibles non observées avec succès; iii) les unités sélectionnées non considérées comme éligibles pour l'enquête, et iv) les unités non observées avec succès et dont l'éligibilité n'a pas pu être déterminée. Les raisons pour lesquelles les unités éligibles n'ont pas pu être observées avec succès sont enregistrées et ventilées, au moins, en grandes catégories telles que non-contact, refus ou incapacité de répondre (par exemple maladie). Les motifs pour lesquels des unités ont été considérées comme inéligibles ou classées dans la catégorie de l'éligibilité incertaine sont également enregistrés. 
+4. Le taux de substitution est maintenu à un niveau aussi bas que possible pour les variables personnelles relatives au revenu ainsi que pour toute variable requise pour au moins un membre du ménage âgé de 16 ans ou plus. 
+5. Dans la composante transversale et durant la première année de chaque panel dans la composante longitudinale, les substitutions contrôlées ne peuvent être autorisées que si le taux de réponse tombe sous la barre des 60 % et si l'une des situations suivantes se présente: 
+- adresse non contactée parce qu'elle n'a pas pu être localisée ou est inaccessible, 
+- adresse contactée, mais entrevue non réalisée parce que le ménage refuse de coopérer, que tout le ménage est temporairement absent ou que le ménage est incapable de répondre. 
+Aucune substitution n'est autorisée lors de la deuxième vague et des vagues suivantes d'un panel dans la composante longitudinale. 
+Des procédures sont mises en oeuvre afin de s'assurer que le processus de substitution est aussi bien contrôlé que possible. Il convient notamment d'utiliser un plan de sondage permettant de garantir que les unités de substitution sont sélectionnées de manière à correspondre étroitement aux unités remplacées en ce qui concerne les caractéristiques importantes. Les substitutions ne sont autorisées que lorsque des efforts particuliers ont été déployés pour convaincre les unités ayant refusé leur participation et que des rappels correctement programmés ont été adressés aux autres non-répondants. Un ménage ne peut pas être remplacé par un autre ménage non membre du panel résidant à la même adresse. 
+6. DURÉE ET CALENDRIER DE L'ENQUÊTE 
+1. L'intervalle entre la fin de la période de référence du revenu et la date de l'interview du répondant concerné est limité, dans toute la mesure du possible, à huit mois. Cette règle s'applique tant aux échantillons de ménages qu'aux échantillons de personnes, et que la période de référence utilisée soit définie par des dates de calendrier pour l'ensemble de l'échantillon ou qu'il s'agisse d'une période de référence mobile déterminée en fonction de la date de l'entrevue du ménage ou de l'individu concerné. 
+2. Par dérogation au paragraphe 1, si les variables de revenu sont collectées à partir de registres, l'intervalle entre la fin de la période de référence du revenu et la date de l'entrevue pour les variables courantes est limité à douze mois. 
+3. Dans le cas où toutes les données sont collectées au moyen d'entrevues sur le terrain et où la période de référence du revenu est fixe, la durée totale de la collecte des données pour l'échantillon est limitée, dans la mesure du possible, à quatre mois. 
+4. Lorsque les données sont collectées au moyen d'entrevues sur le terrain sur la base d'une période de référence du revenu mobile et que la durée des travaux sur le terrain dépasse trois mois, l'échantillon annuel total est réparti à parts à peu près égales entre les différents mois durant lesquels ont lieu les travaux sur le terrain. Dans ce cas, la durée totale des travaux sur le terrain pour la composante transversale et pour chaque vague de la composante longitudinale ne dépasse pas douze mois. 
+5. Pour la composante longitudinale, la durée de la collecte ou du calcul des données pour une unité déterminée (ménage ou individu), entre deux vagues consécutives, est maintenue aussi proche que possible de douze mois. 
+7. PROCÉDURES D'IMPUTATION 
+7.1. Types de données manquantes 
+1. Erreurs de couverture et de sélection de l'échantillon: ces erreurs se produisent par exemple lorsque des unités de la population cible ne sont pas représentées dans la base de sondage, lorsque les probabilités de sélection des unités sont déséquilibrées ou encore lorsque d'autres erreurs ont lieu dans la sélection de l'échantillon. 
+2. Non-réponse de l'unité: aucune information n'a été obtenue sur des unités entières (ménages et/ou individus) sélectionnées pour l'échantillon. 
+3. Non-réponse partielle de l'unité: une partie mais pas la totalité des membres du ménage éligibles et sélectionnés pour l'entrevue individuelle ont été observés avec succès. 
+4. Non-réponse pour certains postes: une unité panel a été observée avec succès, mais toutes les informations requises n'ont pas été obtenues. 
+7.2. Caractéristiques d'une procédure d'imputation 
+Deux types d'approche (pouvant être combinés) peuvent être appliqués aux données: 
+- l'imputation: établissement des informations manquantes sur la base de relations statistiques intérieures à l'ensemble de données, 
+- la modélisation: utilisation de relations factuelles et d'informations de fond extérieures à l'ensemble de données. 
+La procédure appliquée aux données devrait préserver la variation des variables et leurs corrélations. Les méthodes incorporant la %quot%composante erreur%quot% dans les valeurs imputées sont préférables à celles qui imputent simplement une valeur prévue. 
+Les méthodes qui tiennent compte de la structure des corrélations (ou d'autres caractéristiques de la distribution conjointe des variables) sont préférables à l'approche marginale ou unidimensionnelle. 
+(1) Voir page 1 du présent Journal officiel. 
+(2) Voir page 34 du présent Journal officiel. 

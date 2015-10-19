@@ -1,0 +1,1099 @@
+Reglamento (CEE) nº 2237/77 de la Comisión, de 23 de septiembre de 1977, relativo a la ficha de explotación que debe utilizarse para el registro de las rentas de las explotaciones agrícolas 
+REGLAMENTO ( CEE ) N º 2237/77 DE LA COMISIÓN 
+de 23 de septiembre de 1977 
+relativo a la ficha de explotación que debe utilizarse para el registro de las rentas de las explotaciones agrícolas 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS , 
+Visto el Tratado constitutivo de la Comunidad Económica Europea , 
+Visto el Reglamento n º 75/65/CEE del Consejo , de 15 de junio de 1965 , por el que se crea una red de información contable agrícola sobre las rentas y la economía de las explotaciones agrícolas en la Comunidad Económica Europea (1) , modificado en último lugar por el Reglamento ( CEE ) n º 2910/73 (2) y , en particular su artículo 7 , 
+Considerando que el Reglamento n º 118/66/CEE de la Comisión , de 29 de julio de 1966 (3) , modificado en último lugar por el Reglamento ( CEE ) n º 3565/73 (4) , ha determinado el contenido de la ficha de explotación que debe utilizarse para el registro de las rentas en las explotaciones agrícolas ; 
+Considerando que los datos contables recogidos en el marco de la ficha de explotación para el registro de las rentas en las explotaciones agrícolas deben ser idénticos en cuanto a su naturaleza , a su definición y a la forma de presentación , sean cuales sean las explotaciones contables observadas ; 
+Considerando que , después de diez años de funcionamiento de la red de información contable agrícola , es oportuno aprovechar las experiencias adquiridas para modificar las disposiciones relativas a la finca de explotación , a fin de reforzar la comparabilidad de los datos contables , por una parte , y conseguir que éstos se adapten a la evolución de las necesidades de la política agrícola común , por otra parte ; 
+Considerando que , con tal motivo , es oportuno servirse del desarrollo actual de la informática para mejorar el tratamiento de los datos contables y que , a este respecto , es conveniente seleccionar la cinta magnética como soporte de los datos contables ; 
+Considerando que es posible que determinadas explotaciones tengan dificultades para rellenar determinadas rúbricas específicas , habida cuenta de la ausencia de los datos correspondientes en la contabilidad que lleven ; que , por consiguiente , y en tanto subsistan tales dificultades , es conveniente prever un sistema que evite todo riesgo de error de interpretación en caso de que las rúbricas específicas de que se trate no hayan sido rellenadas ; 
+Considerando que , para reducir al máximo los posibles inconvenientes resultantes de las adaptaciones de la ficha de explotación , sería oportuno aplicar las nuevas disposiciones a partir de un único y mismo ejercicio contable en todos los Estados miembros , pero que , atendiendo a las dificultades que pueden presentarse en determinados Estados miembros para la realización correcta de las citadas adaptaciones en el plazo de un año , es conveniente concederles la posibilidad de aplazar su aplicación en un ejercicio contable ; 
+Considerando que las medidas previstas en el presente Reglamento se ajusta al dictamen del Comité comunitario de la red de información agrícola , 
+HA ADOPTADO EL PRESENTE REGLAMENTO : 
+Artículo 1 
+Se establece en el Anexo I el carácter de los datos contables que incluye la finca de explotación . Se establecen en el Anexo II las definiciones e instrucciones correspondientes . Los datos contables se presentarán en la forma establecida en el Anexo III . 
+Artículo 2 
+El presente Reglamento se aplicará , por primera vez , a los datos contables del ejercicio 1978 , que comenzará en el período comprendido entre el 1 de enero de 1978 , y el 1 de julio de 1978 . 
+No obstante , en Francia , Italia , Luxemburgo e Irlanda , éstas disposiciones se aplicarán por primera vez a los datos contables del ejercicio 1979 , que empezará en el período comprendido entre el 1 de enero de 1979 y el 1 de julio de 1979 . 
+Artículo 3 
+Queda derogado el Reglamento n º 118/66/CEE , si bien seguirá siendo íntegramente aplicable a los datos contables de los ejercicios anteriores a los contemplados en el artículo 2 , cualquiera que sea la fecha de comunicación de dichos datos a la Comisión . 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro . 
+Hecho en Bruselas , el 23 de septiembre de 1977 . 
+Por la Comisión 
+Finn GUNDELACH 
+Vicepresidente 
+(1) DO n º 109 de 23 . 6 . 1965 , p. 1859/65 . 
+(2) DO n º L 299 de 27 . 10 . 1973 , p. 1 . 
+(3) DO n º 148 de 10 . 8 . 1966 , p. 2701/66 . 
+(4) DO n º L 361 de 29 . 12 . 1973 , p. 84 . 
+ANEXO I 
+ESQUEMA DE LA FICHA DE EXPLOTACIONES 
+Para cada rúbrica y columna de los cuadros del presente Anexo , conviene consultar las definiciones e instrucciones fijadas en el Anexo II . Los números que figuran en las columnas de estos cuadros ( números en caracteres pequeños ) indican el orden de los datos en las cintas magnéticas (1) . Los números no asignados ( « libre » ) están disponibles para una utilización ulterior ; se llenarán con ceros . 
+A . INFORMACIONES GENERALES 
+Número y texto de las rúbricas * Número de orden * 
+1 . Número de explotación * * 
+- Circunscripción * 1 * 
+- Subcircunscripción * 2 * 
+- Número de orden de la explotación * 3 * 
+2 . Indicaciones sobre los registros mecanizados * * 
+- Número de registros por explotación * 4 * 
+- Número de secuencia del registro * 5 * 
+- Número de grupos de diez datos relativos a la producción ( excepto los animales ) * 6 * 
+- « libre » * 7 à 30 * 
+3 . Sede de la explotación * 31 * 
+4 . Clase de explotación * * 
+- Orientación técnico-económica ( OTE ) * 32 * 
+- Especialización * 33 * 
+- « libre » * 34 * 
+- Clase de dimensión * 35 * 
+- « libre » * 36 * 
+5 . Fecha de fin de ejercicio * 37 * 
+- « libre » * 38 * 
+6 . Zona desfavorecida * 39 * 
+7 . SAU regada * 40 * 
+8 . Zona altimétrica * 41 * 
+9 . Jornadas de pasto en pastizales de montaña u otros pastizales no comprendidos en la SAU * 42 * 
+- « libre » * 43 à 47 * 
+(1) Estos números de orden se indicarán sistemáticamente , incluso para las rúbricas que no se rellenen nunca ( ejemplo : cuadro K , columna « superficie » para el producto 162 « leche de vaca » . 
+B . MODO DE TENENCIA DE LA SAU 
+Número y texto de las rúbricas * Número de orden * 
+10 . SAU en propiedad * 48 * 
+11 . SAU en arrendamiento * 49 * 
+12 . SAU en aparcería * 50 * 
+C . MANO DE OBRA 
+Número y texto de las rúbricas * Código ( 1 ) * Año de nacimiento ( 2 ) * Número ( unidades año ) ( 3 ) * Tiempo de trabajo anual ( horas ) ( 4 ) * 
+A . Mano de obra no asalariada , ocupada regularmente * * * * * 
+13 . Empresario/jefe de explotación * 51 * 52 * 53 * 54 * 
+* 55 * 56 * 57 * 58 * 
+* 59 * 60 * 61 * 62 * 
+* 63 * 64 * 65 * 66 * 
+* 67 * 68 * 69 * 70 * 
+14 . Empresario/no jefe de explotación * 51 * 52 * 53 * 54 * 
+* 55 * 56 * 57 * 58 * 
+* 59 * 60 * 61 * 62 * 
+* 63 * 64 * 65 * 66 * 
+* 67 * 68 * 69 * 70 * 
+15 . Jefe de explotación/no empresario * 51 * 52 * 53 * 54 * 
+* 55 * 56 * 57 * 58 * 
+* 59 * 60 * 61 * 62 * 
+* 63 * 64 * 65 * 66 * 
+* 67 * 68 * 69 * 70 * 
+* Número de personas * * * * 
+16 . Cónyuge del empresario * 71 * - * 72 * 73 * 
+17 . Otros * 74 * - * 75 * 76 * 
+B . 18 . Mano de obra no asalariada , ocupada no regularmente * - * - * - * 77 * 
+C . Mano de obra asalariada , ocupada regularmente * * * * * 
+19 . Jefe de explotación * - * 78 * 79 * 80 * 
+20 . Otros * - * - * 81 * 82 * 
+D . 21 . Mano de obra asalariada , ocupada no regularmente * - * - * - * 83 * 
+D . NUMEROS DE CABEZAS Y VALOR DE LOS ANIMALES 
+Número y texto de las rúbricas * Inventario inicial * Inventario final * Número medio ( 5 ) * 
+* Número ( 1 ) * Valor ( 2 ) * Número ( 3 ) * Valor ( 4 ) * * 
+22 . Equinos * 86 * 87 * 88 * 89 * 90 * 
+23 . Terneros de engorde * 91 * 92 * 93 * 94 * 95 * 
+24 . Otros bovinos de menos de un año * 96 * 97 * 98 * 99 * 100 * 
+25 . Bovinos de un año a menos de dos años , machos * 101 * 102 * 103 * 104 * 105 * 
+26 . Bovinos de un año a menos de dos años , hembras * 106 * 107 * 108 * 109 * 110 * 
+27 . Bovinos de dos años o más , machos * 111 * 112 * 113 * 114 * 115 * 
+28 . Novillas para cría * 116 * 117 * 118 * 119 * 120 * 
+29 . Novillas de engorde * 121 * 122 * 123 * 124 * 125 * 
+D . NÚMERO DE CABEZAS Y VALOR DE LOS ANIMALES ( Continuación ) 
+Número y texto de las rúbricas * Inventario inicial * Inventario final * Número medio * 
+* Número ( 1 ) * Valor ( 2 ) * Número ( 3 ) * Valor ( 4 ) * * 
+30 . Vacas lecheras * 126 * 127 * 128 * 129 * 130 * 
+31 . Vacas lecheras de reposición * 131 * 132 * 133 134 * 135 * 
+32 . Otras vacas * 136 * 137 * 138 * 139 * 140 * 
+33 . Búfalos de menos de un año * 141 * 142 * 143 * 144 * 145 * 
+34 . Búfalos de un año a menos de dos años * 146 * 147 * 148 * 149 * 150 * 
+35 . Búfalas de un año a menos de dos años * 151 * 152 * 153 * 154 * 155 * 
+36 . Búfalos de dos años o más * 156 * 157 * 158 * 159 * 160 * 
+37 . Búfalas de dos años o más que no hayan tenido ningún parto * 161 * 162 * 163 * 164 * 165 * 
+38 . Búfalas que hayan tenido por lo menos un parto * 166 * 167 * 168 * 169 * 170 * 
+39 . Otras búfalas de dos años o más * 171 * 172 * 173 * 174 * 175 * 
+40 . Ovejas * 176 * 177 * 178 * 179 * 180 * 
+41 . Otros ovinos * 181 * 182 * 183 * 184 * 185 * 
+42 . Caprino * 186 * 187 * 188 * 189 * 190 * 
+43 . Cochinillos * 191 * 192 * 193 * 194 * 195 * 
+44 . Cerdas madres * 196 * 197 * 198 * 199 * 200 * 
+45 . Cerdos de engorde * 201 * 202 * 203 * 204 * 205 * 
+46 . Otros cerdos * 206 * 207 * 208 209 * 210 * 
+47 . Pollos de carne * 211 * 212 * 213 * 214 * 215 * 
+48 . Ponedoras * 216 * 217 * 218 * 219 * 220 * 
+49 . Otras aves de corral * 221 * 222 * 223 * 224 * 225 * 
+50 . Otros animales * - * 227 * - * 229 * - * 
+E . COMPRAS Y VENTAS DE ANIMALES 
+Número y texto de las rúbricas * Compras de animales ( 1 ) * Ventas de animales ( 2 ) * Autoconsumo y prestaciones en especie ( 3 ) * 
+51 . Equinos * 231 * 232 * 233 * 
+52 . Bovinos * 234 * 235 * 237 * 
+53 . Búfalos * 237 * 238 * 239 * 
+54 . Ovinos * 240 * 241 * 242 * 
+55 . Caprino * 243 * 244 * 245 * 
+56 . Porcino * 246 * 247 * 248 * 
+57 . Aves de corral * 249 * 250 * 251 * 
+58 . Otros animales * 252 * 253 * 254 * 
+F . GASTOS 
+Número y texto de las rúbricas * Número de orden * 
+Gastos de mano de obra y mecanización * * 
+59 . Salarios y cargas sociales * 259 * 
+60 . Trabajos por terceros * 260 * 
+61 . Mantenimiento corriente del material * 261 * 
+62 . Carburantes y lubrificantes * 262 * 
+63 . Gastos de automóvil * 263 * 
+Gastos específicos de cría * * 
+Alimentos comprados para : * * 
+Herbívoros ( equinos , bovinos , ovinos , caprinos ) * * 
+64 . Piensos concentrados * 264 * 
+65 . Forrajas ordinarios * 265 * 
+66 . Porcinos * 266 * 
+67 . Aves de corral y otros animales pequeños * 267 * 
+Alimentos de uso propio para : * * 
+68 . Herbívoros ( equinos , bovinos , ovinos , caprinos ) * 268 * 
+69 . Porcinos * 269 * 
+70 . Aves de corral y otros animales pequeños * 270 * 
+71 . Otros gastos específicos de cría * 271 * 
+Gastos específicos de cultivo * * 
+72 . Semillas y plantas compradas * 272 * 
+73 . Semillas y plantas de uso propio * 273 * 
+74 . Abonos y correctores * 274 * 
+75 . Productos de protección de los cultivos * 275 * 
+76 . Otros gastos específicos de cultivo * 276 * 
+77 . Gastos específicos de los bosques * 277 * 
+Gastos generales * * 
+78 . Mantenimiento corriente de edificios y mejoras de bienes raíces * 278 * 
+79 . Electricidad * 279 * 
+80 . Combustibles * 280 * 
+81 . Agua * 281 * 
+82 . Seguros * 282 * 
+83 . Impuestos y arbitrios * 283 * 
+84 . Otros gastos generales * 284 * 
+F . GASTOS EN BIENES RAÍCES ( continuación ) 
+Número y texto de las rúbricas * Número de orden * 
+Gastos en bienes raíces * * 
+85 . Renta de arrendamiento pagada * 285 * 
+86 . Valor deducido de la renta de los bienes raíces * 286 * 
+87 . Primas de seguro relativas a los edificios de explotación * 287 * 
+88 . Impuestos sobre bienes raíces * 288 * 
+Intereses pagados * * 
+89 . Intereses y gastos financieros pagados * 289 * 
+correspondientes a : * * 
+90 . préstamos para capital inmobiliario * 290 * 
+91 . correspondiente a : adquisición de tierras * 291 * 
+92 . Préstamos para capital de explotación y deudas * 292 * 
+93 . Total * 293 * 
+G . CAPITAL INMOBILIARIO , MATERIAL Y CAPITAL CIRCULANTE 
+Número y valor de las rúbricas * Valor de adquisición * Valor en el inventario inicial ( 3 ) * Inversiones (4) * Ventas ( 6 ) * Amortizaciones ( 7 ) * Valor en el inventario final ( 8 ) * 
+* Subvenciones no deducidas ( 1 ) * Subvenciones ( 2 ) * * Subvenciones no deducidas ( 4 ) * Subvenciones ( 5 ) * * * * 
+94 . Tierras agrícolas y edificios * 294 * 295 * 296 * 297 * 298 * 299 * 300 * 301 * 
+correspondientes a : * * * * * * * * * 
+95 . Tierras agrícolas * 302 * 303 * 304 * 305 * 306 * 307 * 308 * 309 * 
+96 . Cultivos permanentes * 310 * 311 * 312 * 313 * 314 * 315 * 316 * 317 * 
+97 . Mejoras en bienes raíces * 318 * 319 * 320 * 321 * 322 * 323 * 324 * 325 * 
+98 . Edificios de explotación * 326 * 327 * 328 * 329 * 330 * 331 * 332 * 333 * 
+99 . Gastos de establecimiento * 334 * 335 * 336 * 337 * 338 * 339 * 340 * 341 * 
+100 . Terrenos forestales , incluido el material leñoso en pie * 342 * 343 * 344 * 345 * 346 * 347 * 348 * 349 * 
+101 . Material * 350 * 351 * 352 * 353 * 354 * 355 * 356 * 357 * 
+102 . Capital circulante * 358 * 359 * 360 * 361 * 362 * 363 * 364 * 365 * 
+103 . Total * 366 * 367 * 368 * 369 * 370 * 371 * 372 * 373 * 
+H . ENDEUDAMIENTO 
+Número y texto de las rúbricas * Inventario inicial * Inventario final * 
+* Total ( 1 ) * correspondiente a : * Total ( 5 ) * correspondiente a : * 
+* * Capital inmobiliario * Capital de explotación ( 4 ) * * Capital inmobiliario * Capital de explotación ( 8 ) * 
+* * Total ( 2 ) * Tierras ( 3 ) * * * Total ( 6 ) * Tierras ( 7 ) * * 
+104 . Préstamos a largo y medio plazo * 374 * 375 * 376 * 377 * 378 * 379 * 380 * 381 * 
+105 . Préstamos a corto plazo y deudas * 382 * 383 * 384 * 385 * 386 * 387 * 388 * 389 * 
+106 . Total * 390 * 391 * 392 * 393 * 394 * 395 * 396 * 397 * 
+I . IMPUESTO SOBRE EL VALOR AÑADIDO ( IVA ) 
+Número y texto de las rúbricas * Número de orden * 
+107 . Régimen de IVA * 400 * 
+Subdivisión del régimen de IVA * 401 * 
+108 . IVA sobre las ventas * 402 * 
+109 . IVA sobre las compras * 403 * 
+110 . IVA sobre las inversiones * 404 * 
+111 . IVA reembolso por Hacienda * 405 * 
+J . PRIMAS Y SUBVENCIONES 
+Número y texto de las rúbricas * Código (1) * Importe * 
+112 . Primas y subvenciones por animales y productos * - * 408 * 
+113 . correspondientes a : * * * 
+20 códigos « abiertos » correspondientes a las categorías de animales ( rúbricas 51 a 58 ) y de productos ( rúbricas 120 a 311 ) relacionadas * 409 ... * à ... 448 * 
+114 . Primas y subvenciones por gastos * - * 449 * 
+115 . correspondientes a : * * * 
+10 códigos « abiertos » correspondientes a los gastos ( rúbricas 59 a 92 ) relacionadas * 450 ... * à ... 469 * 
+116 . Primas y subvenciones por compras de animales * - * 470 * 
+117 . correspondientes a : * * * 
+5 códigos « abiertos » correspondientes a los de las categorías de animales comprados ( rúbricas 51 a 58 ) * 471 ... * à ... 480 * 
+118 . Total * - * 481 * 
+119 . correspondiente a : primas y subvenciones « por desastres naturales » * - * 482 * 
+(1) Indicación de los números de las rúbricas de las categorías de animales , de productos y de gastos relacionados . 
+K . PRODUCCION ( excepto animales ) ( rúbricas 120 a 311 ) 
+Producto ( código ) ( 1 ) * Tipo de cultivo ( código ) ( 2 ) * Dato que falta ( código ) ( 3 ) * Superficie ( 4 ) * Producción del ejercicio ( 5 ) * Inventario inicial ( 6 ) * Ventas ( 7 ) * Autoconsumo y presentaciones en especie ( 8 ) * Inventario final ( 9 ) * Utilización propia ( 10 ) * 
+488 * 489 * 490 * 491 * 492 * 493 * 494 * 495 * 496 * 497 * 
+498 * - * - * - * - * - * - * - * - * - * 
+- * - * - * - * - * - * - * - * - * - * 
+- * - * - * - * - * - * - * - * - * (1) * 
+(1) Último número de orden = 487 + ( 10 por número de productos indicados ) . 
+ANEXO II 
+DEFINICIONES E INSTRUCCIONES RELATIVAS A LA FICHA DE EXPLOTACIÓN 
+I . DEFINICIONES E INSTRUCCIONES GENERALES 
+a ) Los datos de la ficha de explotación se referirán a una sola explotación agrícola y a un mismo ejercicio contable de doce meses consecutivos . 
+b ) Los datos de la ficha de explotación se referirán exclusivamente a las explotaciones agrícolas ; tendrán relación con las actividades de la explotación propiamente dicha y , en su caso , con las actividades forestales y turísticas ligadas a la explotación agrícola . Todo lo que relacione con las actividades « ajenas a la explotación » del empresario y de su familia , con los arrendamientos , herencias , cuentas privadas , con bienes ajenos a la explotación agrícola , con los impuestos personales , los seguros privados , etc. , no se tendrá en cuenta para la elaboración de la ficha de explotación . 
+Cuando los medios de producción de la explotación ( mano de obra , incluida la mano de obra no asalariada , máquinas o material ) se utilicen para la producción de inmovilizado ( construcción o gran reparación de máquinas , construcción o gran reparación , incluso demolición de edificios , plantación o tala de frutales ) , los costes correspondientes , estimados si fuere necesario , no se incluirán en los gastos corrientes de la explotación . En todos los casos , los gastos de mano de obra y las horas de trabajo para la producción de inmovilizado se excluirán respectivamente de los gastos y de los datos relativos a la mano de obra . Excepcionalmente , si no fuere posible determinar por separado determinados costes de producción de inmovilizado , distintos de los gastos de mano de obra ( por ejemplo , utilización del tractor de la explotación ) , por estar costes incluidos en los gastos , el valor estimado del conjunto de los costes de producción de inmovilizado se indicará en la rúbrica 181 ( otros productos e ingresos ) . 
+En todos los casos , el valor de la producciones de inmovilizado evaluadas a su coste ( incluido el valor del trabajo de la mano de obra asalariada o no asalariada ) deberá añadirse al valor del inmovilizado que figure en las rúbricas 94 a 101 . 
+c ) Los datos de la ficha de explotación procederán de una contabilidad que incluya registros sistemáticos y regulares durante el ejercicio contable . 
+d ) Los datos contables en valor monetario se expresarán : 
+- ya sea excluyendo el IVA , 
+- ya sea incluido el IVA en las condiciones mencionadas más adelante ( cf. rúbricas 107 a 111 ) . 
+e ) Los datos contables en valor monetario se expresarán excluyendo las primas y subvenciones . Por prima y subvención se entiende cualquier ayuda directa concedida con cargo a fondos públicos y que haya dado lugar a un ingreso específico ( cf. rúbricas 112 a 119 . ) 
+f ) Los datos de la ficha de explotación deberán indicarse en las unidades y con los gastos de precisión siguientes : 
+- los valores : en unidades monetarias y sin decimales , salvo los valores en liras , que se expresarán en centenares de liras ; 
+- las cantidades físicas : en quintales ( q = 100 kg ) , salvo en lo que se refiere a los huevos , que se indicarán en millares ; 
+- las superficies : en áreas ; 
+- el número medio de animales : en décimas de cabezas , salvo en lo que se refiere a las aves de corral , que se indicarán en cabezas ; 
+- el número de unidades de mano de obra . En centésimas de unidades-año . 
+Las partidas fijas ( cf. cuadros A a J en el Anexo I ) en las que no haya nada que indicar se llenarán con ceros . Para las producciones que figuran en el cuadro K , se indicarán ceros en las partidas en las que no haya nada que indicar . 
+g ) Los soportes mecanizados que contengan los datos contables de la ficha de explotación , una vez verificados , serán enviados por el órgano de enlace , en sobre cerrado y con la indicación de confidencial , a la Comisión de las Comunidades Europeas , Dirección General de Agricultura , División « Análisis de la situación de las explotaciones agrícolas » . 
+II . DEFINICIONES E INSTRUCCIONES RELATIVAS A LOS DIFERENTES CONCEPTOS DE LA FICHA DE EXPLOTACIÓN 
+A . INFORMACIONES GENERALES 
+1 . Número de la explotación 
+A cada explotación contable se le asignará un número cuando sea seleccionada por primera vez . La explotación conservará dicho número permanentemente , durante todo el tiempo en que participe en la red de información (1) . Una vez asignado un número , no se le asignará nunca a otra explotación . 
+El número de la explotación comprenderá tres grupos de indicaciones , a saber : 
+- el código de la circunscripción ( véase el Anexo III del Reglamento n º 91/66/CEE ) ; 
+- el código de la subcircunscripción ; las subcircunscripciones utilizadas deberán permitir por lo menos individualizar las explotaciones que dependan de las regiones tomadas en consideración en el marco de la aplicación de la Directiva 72/159/CEE del Consejo relativa a la modernización de las explotaciones agrícolas ( se comunicará a la Comisión una lista de las subcircunscripciones , en la que se indiquen los nombres y los códigos ) ; 
+- el número de orden de la explotación . 
+2 . Indicaciones sobre los registros mecanizados 
+Los datos contables de una explotación agrícola podrán ocupar uno o varios registros mecanizados ( véase el número 2 del párrafo C del Anexo III ) . Se dará el número total de registro utilizados por cada explotación , así como el número de secuencia para cada registro . 
+Los datos correspondientes a los cinco primeros números de orden forman la etiqueta de una explotación . Se consignan en la cabeza de cada registro . El sexto dato de cada explotación indica el número de grupos indivisibles de diez datos , correspondiente cada uno de ellos a una producción ( exceptuando los animáles ) . 
+3 . Sede de la explotación 
+Se indicará el número de la unidad geográfica de base más apropiada ( preferentemente el municipio ) en que se encuentre la sede de la explotación . 
+Se enviará a la Comisión una tarjeta de estas unidades con su número . Se pondrá en conocimiento de la Comisión todo cambio notorio de los límites de las unidades geográficas . 
+4 . Clase de explotación 
+Código de la clase de explotación ( cf. Anexo II del Reglamento n º 91/66/CEE de la Comisión ) para la que ha sido seleccionada la explotación respecto del ejercicio contable considerado . 
+5 . Fecha de fin de ejercicio 
+Fecha de fin del ejercicio contable ; por ejemplo 30 . 4 . 1975 o 31 . 12 . 1975 . 
+6 . Zona desfavorecida 
+Se indicará si la explotación está situada o no en una zona sometida a la Directiva 75/268/CEE del Consejo sobre la agricultura de montaña y de determinadas zonas desfavorecidas . En los Estados miembros en los que dichas zonas sean tan numerosas y de tan reducida dimensión que la información no sea significativa , se indicará el código 4 . 
+1 = la explotación no está situada en las zonas consideradas , 
+2 = la explotación está situada enteramente en las zonas consideradas , 
+3 = la explotación está situada en parte en las zonas consideradas , 
+4 = sin objeto . 
+7 . SAU regada 
+superficie agrícola utilizada , distinta de la de invernadero , regada efectivamente durante el ejercicio mediante instalaciones fijas móviles , cualquiera que sea el procedimiento ( aspersión , inmersión ) . 
+8 . Zona altimétrica 
+La zona altimétrica se indicará por el número de código correspondiente : 
+1 = la mayor parte de la explotación se encuentra en una zona 300 metros , 
+2 = la mayor parte de la explotación se encuentra en una zona de 300 a 600 metros , 
+3 = la mayor parte de la explotación se encuentra en una zona 600 metros , 
+4 = dato no disponible . 
+9 . Jornadas de pasto en pastizales de montaña u otros pastizales no comprendidos en la SAU 
+Números enteros de jornadas de pasto-unidad de ganado durante las cuales el ganado de la explotación ha pastado en tierras no comprendidas en las SAU (2) . 
+B . MODO DE TENENCIA DE LA SAU 
+10 . SAU en propiedad 
+Superficie agrícola utilizada ( tierras labradas , praderas y pastizales permanente , cultivos permanentes ) de los que el empresario es propietario , usufructuario o enfiteura , o SAU explotada en condiciones similares . 
+11 . SAU en arrendamiento 
+Superficie agrícola utilizada ( tierras labradas , praderas y pastizales permanentes , cultivos permanentes ) beneficiada por persona distinta de su propietario , usufructuario o enfiteuta , mediante un contrato de arrendamiento de dicha superficie ( el arrendamiento se paga en efectivo o en especie ; en general , se fija por anticipado ; normalmente no varía en función de los resultados de la explotación ) , o SAU explotada en condiciones similares . La superficie de arrendamiento no comprenderá las tierras cuya cosecha se compre en pie o que se arrienden por tiempo inferior a un año (3) . 
+12 . SAU en aparcería 
+Superficie agrícola utilizada ( tierras labradas , praderas y partizales permanentes , cultivos permanentes ) explotada en asociación por el cedente y el aparcero sobre la base de un contrato de aparcería , o SAU explotada en condiciones similares . 
+C . MANO DE OBRA 
+Por mano de obra se entiende el conjunto de personas que , durante el ejercicio contable , han estado ocupadas en los trabajos de explotación agrícola (4) ( ver más abajo ) . No obstante , las personas que hayan participado en dichos trabajos por cuenta de otra persona o empresa ( trabajos efectuados por empresas de trabajos agrícolas , y cuyos gastos correspondientes figuren por lo demás en los gastos de explotación ) no se incluirán en la mano de obra de la explotación . 
+Se distinguirán las categorías siguientes : 
+A . Mano de obra no asalariada , ocupada regularmente 
+Mano de obra no remunerada o que recibe una remuneración ( en efectivo o en especie ) que no corresponde al importe normalmente pagado por la prestación realizada (5) y que , durante el ejercicio contable , ha participado cada semana ( aparte de las vacaciones normales ) durante un tiempo por lo menos de una jornada completa en los trabajos de la explotación agrícola (6) . 
+Se distinguirán las subcategorías siguientes : 
+13 . Empresario/jefe de explotación (7) (8) 
+Persona que asume la responsabilidad jurídica y económica de la explotación y que asume la gestión corriente y cotidiana de ésta 
+14 . Empresario/no jefe de explotación (8) 
+Persona que asume la responsabilidad jurídica y económica de la explotación sin asumir la gestión corriente y cotidiana . 
+15 . Jefe de explotación/no empresario (8) 
+Persona que asume la gestión corriente y cotidiana de la explotación sin asumir la responsabilidad jurídica y económica . 
+16 . Cónyuge del empresario (9) 
+17 . Otros miembros de la mano de obra no asalariada ocupada regularmente (10) 
+Mano de obra no asalariada ocupada regularmente no incluida en las rúbricas anteriores . 
+B . 18 . Mano de obra no asalariada , ocupada regularmente 
+Mano de obra no asalariada que no ha trabajado regularmente en la explotación durante el ejercicio ; se indicará globalmente en esta rúbrica . 
+C . Mano de obra asalariada , ocupada regularmente 
+Mano de obra remunerada ( en efectivo o en especie ) normalmente por la prestación realizada y que durante el ejercicio contable ( aparte de las vacaciones normales ) ha participado durante un tiempo por lo menos de una jornada completa por semana en los trabajos de la explotación . 
+Se distinguirán las subacategorías siguientes : 
+19 . Jefe de explotación 
+Persona asalariada que asume la gestión corriente y cotidiana de la explotación 
+20 . Otros 
+Mano de obra asalariada ocupada regularmente , salvo el jefe de explotación asalariado ; se indicará globalmente en esta rúbrica . 
+D . 21 . Mano de obra asalariada , ocupada no regularmente 
+Mano de obra asalariada que no ha trabajado regularmente durante el ejercicio en la explotación ( incluidos los trabajadores a destajo ) ; se indicará globalmente en esta rúbrica . 
+Para cada rúbrica se indicarán los datos siguientes : 
+Año de nacimiento ( columna 2 ) 
+El año de nacimiento se indicará para el empresario o empresarios y el jefe o jefes de explotación ( categorías 13 a 15 y 19 ) mediante las dos últimas cifras de la milésima correspondiente . 
+Número : Número de unidades-año ( columna 3 ) 
+El número de unidades de la mano de obra ocupada regularmente se indicará « unidades-año » . Las personas dedicadas la totalidad del tiempo de trabajo anual a los trabajos de explotación ( trabajadores a tiempo completo ) representan cada una de ellas una « unidad-año » , incluso cuando su tiempo de trabajo efectivo sobrepase el tiempo de trabajo anual normal en la región y para el tipo de explotación considerado . Las personas que no trabajen todo el año en la explotación suponen cada una de ellas una fracción de una « unidad-año » . El número de « unidades-año » de una de dichas personas se determinará dividiendo su tiempo efectivo de trabajo anual por el tiempo de trabajo anual de una persona a tiempo completo , en la región y para el tipo de explotación considerados (11) . 
+Tiempo de trabajo ( columna 4 ) 
+El tiempo de trabajo se indicará en horas . Se trata únicamente del tiempo efectivamente dedicado a los trabajos de la explotación agrícola (11) . 
+El tiempo de trabajo de la mano de obra a destajo se determinará dividiendo el importe total pagado por los trabajos por el salario horario de un obrero contratado a jornal . 
+Trabajos de la explotación agrícola 
+Los trabajos de la explotación agrícola comprenderán todos los trabajos de organización , vigilancia , ejecución , de carácter manual o intelectual efectuados para asegurar el funcionamiento propiamente dicho de la explotación , como , por ejemplo : 
+- los trabajos de organización y de gestión ( compras y ventas relativas a la explotación , contabilidad , etc. ) , 
+- los trabajos de los campos ( labores , siembra , cosecha , mantenimiento de las plantaciones , etc. ) , 
+- los trabajos para la cría ( preparación de los piensos , alimentación de los animales , ordeño , cuidado de los animales , etc. ) , 
+- los trabajos de almacenamiento , de acondicionamiento y transformación efectuados en la explotación ( entrojamiento , trilla , embalaje , etc. ) , 
+- los trabajos de mantenimiento corriente de los edificios , máquinas , instalaciones , setos , zanjas , etc. , 
+- los transportes propios de la explotación , siempre que sean efectuados por la mano de obra de la explotación . 
+- Otros trabajos directamente ligados a la actividad de la explotación agrícola : 
+- los trabajos forestales ( correspondientes a los bosques incluidos en la explotación agrícola ) . 
+- los trabajos correspondientes a actividades de agriturismo ( mantenimiento de terrenos de camping , de deporte o de esparcimiento , equitación , albergues rurales , etc. ) , siempre que sean accesorios y estén imbricados en la actividad de la explotación de tal manera que sea prácticamente imposible disociar la actividad de agriturismo de la explotación agrícola propiamente dicha (12) , 
+- los trabajos para terceros siempre que sean ocasionales y se efectúen con el material de la explotación ( la remuneración correspondiente se tendrá en cuenta en los productos de la explotación ) . 
+No se comprenderán en los trabajos de la explotación , en particular : 
+- los trabajos de producción de inmovilizado ( construcciones y grandes reparaciones de edificios o del material , plantación , demolición de edificios , tala de frutales , etc. ) , 
+- los trabajos efectuados para el hogar del empresario o del jefe de explotación , 
+- las actividades particulares tales como la participación en reuniones profesionales , viajes de negocios , visitas a exposiciones agrícolas , visitas a mercados distintos de los destinados a las compras y ventas relativas a la explotación , etc . 
+D . NÚMERO DE CABEZAS Y VALOR DE LOS ANIMALES 
+Se distinguen las categorías de animales siguientes : 
+22 . EQUINOS ( de todas las edades ) 
+Se incluyen los caballos de carreras y de silla . 
+23 . TERNEROS DE ENGORDE 
+Terneros de engorde , habitualmente sacrificados antes de los cinco meses de edad . 
+24 . OTROS BOVINOS DE MENOS DE UN AÑO 
+25 . BOVINOS DE UN AÑO A MENOS DE DOS AÑOS , MACHOS 
+26 . BOVINOS DE UN AÑO A MENOS DE DOS AÑOS , HEMBRAS 
+Se excluyen los bovinos hembras que hayan tenido al menos un parto . 
+27 . BOVINOS DE DOS AÑOS O MÁS , MACHOS 
+28 . NOVILLAS PARA CRÍA 
+Bovinos hembras de dos años y más que no hayan tenido todavía ningún parto y que estén destinadas a la reproducción . 
+29 . NOVILLAS PARA ENGORDE 
+Bovinos hembras de dos años y más que no hayan tenido todavía ningún parto y que no estén destinadas a la reproducción . 
+30 . VACAS LECHERAS 
+Bovinos hembras que hayan tenido por lo menos un parto ( comprendidas las de menos de dos años ) que se tienen exclusiva o principalmente para la producción de leche destinada al consumo humano o a la transformación de productos lácteos . 
+31 . VACAS LECHERAS DE REPOSICIÓN 
+Vacas lecheras después de su última lactación . 
+32 . OTRAS VACAS 
+1 . Bovinos hembras que hayan tenido por lo menos un parto ( comprendidas las de menos de dos años ) que se tengan exclusiva o principalmente para la producción de terneros y cuya leche no se destine al consumo humano o a la transformación en productos lácteos ; 
+2 . Vacas de trabajo ; 
+3 . « Otras vacas » de reposición ( sean o no engordadas antes de ser sacrificadas ) . 
+33 . BÚFALOS DE MENOS DE UN AÑO 
+34 . BÚFALOS DE UN AÑO A MENOS DE DOS AÑOS 
+35 . BÚFALAS DE UN AÑO A MENOS DE DOS AÑOS 
+Se excluyen las búfalas que hayan tenido por lo menos un parto . 
+36 . BÚFALAS DE DOS AÑOS O MÁS 
+37 . BÚFALAS DE DOS AÑOS O MÁS QUE NO HAYAN TENIDO NINGUN PARTO 
+Búfalas de dos años hembras destinadas a la producción lechera , pero que todavía no han tenido ningún parto . 
+38 . BÚFALAS QUE HAYAN TENIDO POR LO MENOS UN PARTO 
+Búfalas que hayan tenido por lo menos un parto ( incluso de menos de dos años ) destinadas a la producción lechera . 
+39 . OTRAS BÚFALAS DE DOS AÑOS O MÁS 
+Búfalas de dos años o más no enumeradas anteriormente . 
+40 . OVEJAS 
+Ovinos hembras de un año y más destinadas a la producción . 
+41 . OTROS OVINOS 
+Ovinos de todas las edades a excepción de las ovejas . 
+42 . CAPRINOS ( todas las edades ) 
+43 . COCHINILLOS 
+Cochinillos de un peso en vivo de menos de 20 kilogramos . 
+44 . CERDAS MADRES 
+Cerdas madres de 50 kilogramos o más . Se excluyen las cerdas de reposición ( cf. rúbrica 46 « Otros cerdos » ) . 
+45 . CERDOS DE ENGORDE 
+Cerdos para engorde de un peso en vivo de 20 kilogramos y más . Se excluyen las cerdas y los verracos de reposición ( cf. rúbrica 46 « Otros cerdos » ) . 
+46 . OTROS CERDOS 
+Cerdos de un peso en vivo de 20 kilogramos o más , con excepción de las cerdas madres ( cf. rúbrica 44 ) y de los cerdos de engorde ( cf. rúbrica 45 ) . 
+47 . POLLOS DE CARNE (13) 
+Se excluyen las gallinas ponedoras y los pollos de reposición . 
+48 . PONEDORAS (13) 
+Se excluyen las pollitas , las ponedoras y las gallinas de reposición . Las pollitas son las gallinas jóvenes que todavía no han empezado a poner . 
+49 . OTRAS AVES DE CORRAL ( patos , pavos , ocas y pintadas ) (13) 
+50 . OTROS ANIMALES 
+Por categoría de animales se indicarán los datos siguientes : 
+Inventario inicial ( columnas 1 y 2 ) 
+- Número ( columna 1 ) 
+Número de animales que pertenecen a la explotación al comienzo del ejercicio contable , tanto si están presentes en la explotación como momentáneamente ausentes de la misma en ese momento . 
+- Valor ( columna 2 ) 
+Valor de los animales que pertenezcan a la explotación al comienzo del ejercicio contable , determinado basándose en los precios corrientes en dicho momento . 
+Inventario final ( columnas 3 y 4 ) 
+- Número ( columna 3 ) 
+Número de animales que pertenezcan a la explotación al final del ejercicio contable , tanto si están presentes en la explotación como momentáneamente ausente de la misma en dicho momento . 
+- Valor ( columna 4 ) 
+Valor de los animales que pertenezcan a la explotación al final del ejercicio contable determinado basándose en los precios corrientes en dicho momento . 
+Número medio ( columna 5 ) 
+El número medio se indicará en décimas de cabezas , salvo en lo que se refiere a las aves de corral , que se indicarán en cabezas . Una cabeza corresponde a la presencia de un animal de un año en la explotación . Los animales se contarán en proporción a la duración de su presencia en la explotación . 
+El número medio se determinará ya sea con la ayuda de inventarios periódicos , ya sea con la ayuda de un registro de entradas y salidas . Comprenderá todos los animales presentes en la explotación , incluidos los criados o engordados bajo contrato (14) , y los animales tomados o dados en arrendamiento para el período del año durante el cual están presentes en la explotación . 
+E . COMPRAS Y VENTAS DE ANIMÁLES 
+Se distinguirán las categorías de animales siguientes : 
+51 . Equinos 
+52 . Bovinos 
+53 . Búfalos 
+54 . Ovinos 
+55 . Caprino 
+56 . Porcino 
+57 . Aves de corral 
+58 . Otros animales 
+Por cada categoría de animales se indicarán los datos siguientes : 
+Compras de animales ( columna 1 ) 
+Importe de las compras de animales durante el ejercicio ( comprendidos los gastos de compra ) . No se deducirán del importe de dichas compras las primas y subvenciones correspondientes ; éstas se indicarán en la rúbrica 116 ( ver instrucciones relativas a dicha comunicación ) . 
+Ventas de animales ( columna 2 ) 
+Importe de las ventas de animales durante el ejercicio . No se incluirán en el importe de las ventas las primas y subvenciones correspondientes ; éstas se indicarán en la rúbrica 112 ( ver instrucciones relativas a dicha rúbrica ) . 
+Cuando se conozcan los gastos de comercialización , no se deducirán del importe de las ventas , pero figurarán en la rúbrica 71 ( otros gastos específicos de cría ) . 
+Autoconsumo y prestaciones en especie ( columna 3 ) 
+Evaluación al precio de venta « franco granja » de los animales que han sido dedicados al consumo propio o han sido objeto de prestaciones en especie durante el ejercicio . 
+F . GASTOS 
+Los gastos de explotación ( en efectivo y en especie ) correspondientes al « consumo » ( comprendida la utilización propia ) de medios de producción correspondientes a la producción realizada durante el ejercicio contable o al « consumo » de dichos medios de producción durante el ejercicio . Cuando determinados gastos correspondan en parte al consumo privado y en parte a los gastos de explotación ( por ejemplo electricidad , agua , combustibles , carburantes , etc. ) , sólo se indicará esta última parte en la ficha de explotación . También se tomará en cuenta la parte alícuota del coste de los automóviles privados correspondiente a su utilización para los fines de explotación . 
+Los gastos correspondientes a la producción del ejercicio se obtendrán corrigiendo las compras del ejercicio ( comprendida la utilización propia ) , por las variaciones de inventario ( comprendidas las variaciones de los gastos anticipados para los cultivos ) . Para cada partida , se indicarán por separado los importes de los gastos pagados y de la utilización propia . Los gastos correspondientes al « consumo » de bienes de inversión estarán representados por las amortizaciones (15) ; por ello , los gastos correspondientes a la adquisición de bienes de inversión no se considerarán gastos de explotación . Los gastos correspondientes a elementos de gasto que son objeto de indemnización durante el ejercicio o ulteriormente ( por ejemplo la reparación de un tractor a continuación del accidente cubierto por una póliza de seguro o por un tercero responsable ) no se considerarán gastos de explotación , y no figurarán los ingresos correspondientes en la cuenta de explotación . 
+Los ingresos procedentes de la reventa de aprovisionamientos comprados se deducirán de las partidas correspondientes de gastos . 
+Las primas y subvenciones correspondientes a gastos no se deducirán de los importes de los gastos en cuestión sino que se indicarán en la rúbrica 114 ( cf. instrucciones relativas a dicha rúbrica ) (16) . 
+Los gastos comprenderán también los gastos de compra habituales correspondientes a cada concepto de gastos . 
+Se distinguirán los gastos siguientes : 
+59 . Salarios y cargas sociales de la mano de obra salarial 
+Este concepto comprende los gastos siguientes : 
+- los sueldos y salarios propiamente dichos pagados en efectivo a la mano de obra asalariada , cualesquiera que sean las modalidades de determinación de la remuneración ( trabajo a jornal o a destajo ) hecha deducción de las asignaciones eventuales de carácter social pagadas al empresario como patrono , para compensar el pago de un salario que no corresponda a una prestación efectiva de trabajo ( ejemplo : ausencia del trabajo por causa de accidente , de formación profesional , etc. ) , 
+- sueldos y salarios pagados en especie ( por ejemplo : alojamiento , alimentación , habitación , productos de la explotación , etc. ) , 
+- primas de rendimiento , de cualificación , regalos , propinas , participación en los beneficios , 
+- otros gastos anexos a la mano de obra ( gastos de contratación ) , 
+- cargas sociales a cargo del patrono y las pagadas por éste en nombre y lugar del asalariado , 
+- seguros de accidentes de trabajo . 
+Las cargas sociales y los seguros personales correspondientes al empresario y la mano de obra no asalariada no se considerarán gastos de explotación . 
+Los importes pagados a los miembros de la mano de obra no asalariada ( que , por definición , son inferiores a una remuneración normal , cf. definición de la mano de obra no asalariada ) no figurarán en la ficha de explotación . 
+Las asignaciones ( en efectivo o en especie ) concedidas a los asalariados jubilados que no ejerzan ninguna actividad en la explotación no figurarán en este concepto , pero se registrarán en la rúbrica « otros gastos generales de la explotación » . 
+60 . Trabajos por terceros ( o empresas ) y alquiler de máquinas 
+Esta partida comprenderá los gastos siguientes : 
+- importe de los gastos correspondientes a los trabajos de explotación efectuados por empresas de trabajos agrícolas . El importe en cuestión comprenderá en general a la vez una remuneración por la utilización de material y por el personal y , según los trabajos , el precio de los productos utilizados ( por ejemplo productos de protección de los cultivos ) . Cuando se conozca este último importe , se deducirá de la partida « trabajos por terceros » y se registrará en la rúbrica correspondiente ( por ejemplo la partida « productos de protección de los cultivos » ) ; 
+- gastos de alquiler y de arrendamiento financiero ( leasing ) de máquinas conducidas o utilizadas por el personal de la explotación . 
+61 . Mantenimiento corriente del material 
+Gastos ocasionados por el mantenimiento del material y las pequeñas reparaciones que no modifican el valor intrínseco del material al que se aplicarán ( gastos de mecánico , de piezas de recambio , etc. ) . 
+Esta partida comprenderá las compras de pequeño material , incluso los gastos de guarnicionería , herraje de los caballos de tiro , las compras de neumáticos , toldos , prendas de protección para la ejecución de trabajos insalubre , los detergentes utilizados para la limpieza del material en general (17) , así como la parte alícuota de los costes de los automóviles privados correspondientes a su utilización para fines de la explotación ( ver también la rúbrica 63 ) . 
+Las reparaciones grandes que ejercen el efecto de dar al material una plusvalía cierta , en relación con su valor antes de la reparación , no entrarán en esta partida ( ver las instrucciones sobre las amortizaciones ) . 
+62 . Carburantes y lubrificantes 
+Esta rúbrica comprenderá también la parte alícuota de los gastos de los carburantes y lubrificantes de los automóviles privados correspondientes a su utilización con fines de exportación ( ver la rúbrica 63 ) . 
+Cuando los productos petrolíferos se utilicen a la vez como carburantes y como combustibles , el importe se repartirá entre las dos partidas : 
+62 . « carburantes y lubrificantes » , 
+80 . « combustibles » . 
+63 . Gastos de automóvil 
+En el caso de que la parte alícuota del coste del automóvil o automóviles privados correspondientes a la utilización de éstos para los fines de la explotación se determine a tanto alzado ( por ejemplo con ayuda de un importe a tanto alzado por kilómetro ) dichos costes se indicarán en la presente rúbrica . 
+Alimentos para el ganado 
+Se distinguen los alimentos para el ganado comprados y los alimentos para el ganado de uso propio . 
+Los alimentos para el ganado comprados comprenderán también la compra de condimentos minerales , productos lácteos ( comprados o retrocedidos ) y los productos para la preservación y conservación de los alimentos para ganado , los gastos de arrendamiento de animales y de utilización de pastos o pastoreos colectivos , no comprendidos en la SAU , así como los gastos de arrendamiento de superficies forrajeras , no comprendidas en la SAU . Las camas de paja y la paja compradas se comprenderán también en los alimentos para el ganado comprados . 
+Los alimentos comprados para herbívoros se subdividirán en alimentos concentrados (18) , por una parte , y forrajes ordinarios ( comprendidos los arrendamientos de animales , los gastos de utilización de pastos o pastoreos colectivos y de superficies forrajeras no comprendidas en la SAU , las camas de paja y la paja compradas ) , por otra parte (19) . 
+Los alimentos para el ganado de uso propio comprenderán los productos comercializables de la explotación ( comprendida la leche y los productos lácteos , pero con exclusión de la leche mamada en la ubre por los terneros , que no se tendrá en cuenta ) utilizados como alimento para el ganado . Las camas de paja y la paja de la explotación sólo se incluirán siempre que constituyan un producto comercializado en la región y para la campaña en cuestión . 
+Se distinguen las rúbricas siguientes : 
+Piensos comprados para : 
+Herbívoros ( equinos , bovinos , ovinos , caprinos ) 
+64 . Piensos concentrados 
+65 . Forrajes ordinarios 
+66 . Porcinos 
+67 . Aves de corral y otros animales pequeños 
+Piensos de uso propio para : 
+68 . Herbívoros ( equinos , bovinos , ovinos , caprinos ) 
+69 . Porcinos 
+70 . Aves de corral y otros animales pequeños 
+71 . Otros gastos específicos de cría 
+Todos los gastos que tengan alguna relación directa con la producción animal siempre que no sean objeto de indicación separada en otras partidas de gastos : gastos veterinarios , medicamentos , montas , inseminaciones artificiales , castraciones , control lechero , cotizaciones e inscripciones en los libros genealógicos , detergentes utilizados para la limpieza del material de cría ( por ejemplo máquina de ordeñar ) (20) , embalajes de productos animales , suministros para la transformación de los productos animales , gastos de almacenamiento o de acondicionamiento de los productos animales de la explotación efectuados fuera de la misma , gastos de comercialización de los productos animales de la explotación , importe de las compras ocasionales complementarias de la producción de la explotación , de productos animales ( por ejemplo la leche ) transformados en la explotación , etc . 
+72 . Semillas y plantas compradas 
+Conjunto de las semillas y plantas compradas comprendidas las cebollas , los bulbos y los tubérculos . Los costes de los árboles y arbustos jóvenes correspondientes a una nueva plantación constituyen una inversión , y figurarán ya sea en la rúbrica 96 ( cultivos permanentes ) , ya sea en la rúbrica 100 ( terrenos forestales ) . No obstante , los costes de los árboles y arbustos jóvenes para una repoblación de poca importancia se considerarán como gastos del ejercicio y se indicarán en la presente rúbrica a excepción no obstante de los costes relativos a los bosques ligados a la explotación agrícola , por indicarse estos últimos en la rúbrica 77 ( gastos específicos de los bosques ) . 
+Los gastos correspondientes a la preparación de las semillas ( clasificación , desinfección ) se incluirán también en esta partida . 
+73 . Semillas y plantas de utilización propia 
+Conjunto de las semillas y plantas ( comprendidas las cebollas , bulbos y tubérculos ) , procedentes de la explotación . 
+74 . Abonos y correctores (21) 
+Conjunto de los abonos y correctores , comprendido el mantillo , la turba y el estiércol comprados ( excluido el estiércol producido en la explotación ) . 
+75 . Productos de protección de los cultivos (21) 
+Todos los productos utilizados para proteger los cultivos contra los parásitos y enfermedades , predadores , intemperies , etc. ( insecticidas , anticriptogámicos , herbicidas , cebos envenenados , cohetes , obuses antigranizo , niebla anticongelante , etc. ) . Cuando los trabajos de protección de los cultivos los efectúe una empresa de trabajos agrícolas y cuando el importe correspondiente a los productos de protección utilizados no se conozca por separado , el importe global se registrará en la rúbrica 60 « trabajos por terceros » . 
+76 . Otros gastos específicos de cultivo ( comprendidas las praderas y pastos permanentes ) 
+Todos los gastos que tengan relación directa con la producción vegetal siempre que no sean objeto de indicación separada en otras partidas de gasto : Embalajes , ligaduras y bramantes , gastos de análisis de los suelos , gastos de concurso de cultivos , coberturas de plástico ( utilizadas , por ejemplo , para el cultivo de las fresas ) , suministros para la conservación y la transformación de productos vegetales , gastos de almacenamiento y de acondicionamiento de los productos vegetales de las explotación efectuados fuera de la explotación , gastos de comercialización de los productos vegetales de la explotación , importes pagados por la compra de cosechas en pie correspondientes a cultivos comercializables o por el arrendamiento de tierras de una duración inferior a un año destinados a cultivos comercializables , importe de las compras ocasionales y complementarias de la producción de la explotación de productos vegetales , por ejemplo , uvas , transformadas en la explotación , etc . 
+77 . Gastos específicos de los bosques 
+Abonos , productos de protección , gastos específicos diversos . No se incluirán los gastos de mano de obra , trabajos por terceros y gastos de mecanización , por figurar éstos en las partidas de gastos correspondientes . 
+78 . Mantenimiento corriente de edificios y mejoras de bienes raíces 
+Mantenimiento de cuenta del inquilino de edificios de explotación , construcciones y mejoras de bienes raíces , comprendidas invernaderos , cajoneras y soportes . En esta rúbrica se indicarán las compras de materiales de construcción destinados al mantenimiento corriente de los edificios (22) . 
+Los gastos de reparaciones grandes que ocasionen una plusvalía cierta del inmueble ( mantenimiento importante ) no se incluirán en esta rúbrica , aunque el coste de los trabajos en cuestión sea a cargo del agricultor ( ver también instrucciones sobre el arrendamiento pagado , rúbrica 85 ) . Estos gastos figurarán en la rúbrica 98 « Edificios de explotación » . 
+79 . Electricidad 
+Consumo de electricidad a todos los fines de la explotación . 
+80 . Combustibles 
+Consumo de combustibles a todos los fines de explotación , comprendida la calefacción de los invernaderos . 
+81 . Agua 
+Gastos de conexión a una red de distribución de agua y consumo de agua para todos los fines de explotación , comprendida el agua de riego . ( Los gastos relativos a la utilización de instalaciones hidráulicas propias se indicarán en las partidas correspondientes : amortización del material , mantenimiento corriente del material , carburantes y electricidad . ) 
+82 . Seguros 
+Todas las primas de seguro que cubran los riesgos de explotación tales como la responsabilidad civil del empresario , incendio , inundación ; seguro contra mortalidad del ganado y daños causados a los cultivos , etc. , a excepción de las primas de seguro de accidentes de trabajo indicadas en la rúbrica 59 y de las primas de seguro relativas a los edificios de explotación y construcciones en propiedad que , en el caso de arrendamiento , los paga normalmente el propietario , por indicarles estas últimas primas ( eventualmente estimadas ) bajo la rúbrica 87 . 
+83 . Impuestos y arbitrios de explotación 
+Conjunto de los impuestos , arbitrios y contribuciones relativas a la explotación , comprendidos los devengados en el marco de las medidas o protección del ambiente , pero con excepción del IVA y de los que graven los bienes raíces y la mano de obra . Los impuestos personales del empresario no se considerarán gastos de explotación . 
+84 . Otros gastos generales de explotación 
+Todos los demás gastos de explotación no mencionados en las rúbricas anteriores ( contabilidad , gastos de oficina y de secretaría , gastos de teléfono , cotizaciones diversas , suscripciones , etc. ) . 
+85 . Renta de arrendamiento pagada 
+Renta pagada ( en efectivo o en especie ) por las tierras y los edificios explotados en arrendamiento . Se incluirán en esta partida los gastos pagados por el agricultor en nombre y lugar del propietario ( por ejemplo , el impuesto sobre bienes raíces y las amortizaciones de las grandes reparaciones cuyo coste ha sido soportado por el agricultor ) que el granjero no pueda recuperar . El valor deducido de la renta de la casa vivienda del granjero cuando ésta forme parte del arrendamiento se deducirá del importe global de éste , a excepción de la parte del mismo utilizada con fines de explotación . 
+86 . Valor deducido de la renta de los bienes raíces en propiedad o en aparcería 
+Importe de la renta corrientemente pagada por bienes raíces comparables ( comprendidos los edificios , las plantaciones y las superficies forestales ) , deducido el valor vencido de la renta de la casa vivienda con excepción de la parte de ésta utilizada para los fines de la explotación . 
+El valor deducido de la renta de los edificios de explotación y construcciones que pertenezcan al empresario , pero que estén situados en terrenos arrendados , se incluirá también en esta partida . A falta de fuentes de referencia , el valor deducido de la renta de estos edificios y construcciones se determinará basándose en los gastos reales ( amortizaciones , intereses , impuestos y seguros ) . 
+87 . Primas de seguro relativas a los edificios de explotación 
+Primas de seguros ( incendio , inundación , etc. ) relativas a los edificios de explotación y construcciones en propiedad que , en el caso del arrendamiento , las pagará normalmente el propietario . En el caso de que el conjunto de los seguros dependa de una póliza única , se estimará la parte de las primas correspondientes a los edificios de explotación . 
+88 . Impuestos sobre bienes raíces y gastos anexos 
+Importe de los impuestos , arbitrios y otros gastos que graven la propiedad de las tierras y edificios de explotación en propiedad y en aparcería . 
+89 . Intereses y gastos financieros pagados 
+Intereses y gastos financieros del capital ajeno ( préstamos ) contratado a los fines de explotación (1) . 
+Si en la contabilidad de la explotación se dispone de datos , habrán de suministrarse también los siguientes detalles . 
+90 . Intereses y gastos financieros pagados por préstamos contratados para la adquisición de capital inmobiliario ( tierras y edificios ) (23) . 
+91 . Correspondientes a : intereses y gastos financieros pagados por préstamos contratados para la adquisición de tierras (23) . 
+92 . Intereses y gastos financieros pagados por préstamos contratados para la financiación del capital de explotación ( bienes semovientes , material y capital circulante ) y por deudas (23) . 
+La suma de las rúbricas 90 y 92 será igual al importe que figure en la rúbrica 89 . 
+93 . Total 
+Suma de las rúbricas 59 a 89 . 
+G . CAPITAL INMOBILIARIO , MATERIAL Y CAPITAL CIRCULANTE 
+Se distinguen las siguientes rúbricas : 
+94 . Tierras agrícolas y edificios de explotación 
+El total de las rúbricas 95 a 99 siguientes . Si se supone de los datos correspondientes en la contabilidad , se rellenarán las rúbricas 95 , 97 , 98 y 99 . 
+95 . Tierras agrícolas 
+Tierras agrícolas en propiedad (24) . 
+96 . Cultivos permanentes 
+Conjunto de las plantaciones ( a excepción de las arboledas y bosques ) que pertenezcan al empresario cualquiera que sea el modo de tenencia de las tierras . 
+97 . Mejoras de bienes raíces 
+Mejoras de bienes raíces ( por ejemplo cercado , instalaciones de drenaje , etc. ) pertenecientes al empresario cualquiera que sea el modo de tenencia de las tierras (24) . 
+98 . Edificios de explotación 
+Edificios y construcciones pertenecientes al empresario cualquiera que sea el modo de pertenencia de las tierras (25) . 
+99 . Gastos de establecimiento 
+Gastos de notario , inscripción en registros , etc. , relativos a la adquisición de bienes raíces agrícolas (25) . 
+100 . Terrenos forestales comprendido el material leñoso en pie 
+Terrenos forestales en propiedad incluidos en la explotación agrícola , comprendidos los gastos de establecimiento correspondientes . 
+101 . Material 
+Tractores , motocultores , camiones , camionetas , automóviles (26) , pequeño y gran material . 
+102 . Capital circulante 
+El capital circulante estará constituido por los elementos siguientes : 
+a ) Existencias 
+Productos de la explotación y aprovisionamientos en el almacén . 
+b ) Otro capital circulante 
+- anticipos a los cultivos ( limitados al valor de los abonos , correctores , semillas y plantas incorporados a los cultivos en curso , a excepción de las plantas de los cultivos permanentes ) ; 
+- cartera agrícola ( títulos de participación en organismos cooperativos cuyos servicios utiliza la explotación ) ; 
+- créditos 
+- valores realizables a corto plazo sobre productos vendidos , servicios prestados y cesiones de inmovilizado y , 
+- cantidades pagadas por anticipado por suministros de bienes y servicios ; 
+- disponible necesario para el funcionamiento de la explotación 
+Los intereses recibidos por la cuenta bancaria se indicarán en la rúbrica 178 . 
+Siempre que no se esté en condiciones de determinar exactamente el importe del capital circulante , podrá practicarse una evaluación a tanto alzado . Esta podrá consistir en la estimación del montante medio del capital invertido en el proceso de producción , teniendo en cuenta la duración por inversión . En este caso , los montantes del capital circulante en los inventarios inicial y final serán idénticos . 
+103 . Total 
+Suma de las rúbricas 94 , 100 , 101 y 102 . 
+Se indicarán los datos siguientes por rúbrica : 
+Valor de adquisición ( columnas 1 y 2 ) 
+El valor de adquisición se indicará en los casos en que las amortizaciones se determinen basándose en este valor . Se trata del importe pagado en el momento de la compra del bien en cuestión . En el caso en que la adquisición del bien tenga lugar con una prima o subvención , se indicará en la columna 1 el importe de la compra , sin deducir la prima o subvención y en la columna 2 el importe de la mencionada prima o subvención . 
+Valor en el inventario inicial ( columna 3 ) 
+Valor contable de los bienes el día del inventario . Para los bienes sometidos a amortización ( comprendidas las grandes reparaciones eventuales ya producidas , el valor contable se determinará en función de la duración de la amortización que queda por transcurrir . El valor contable se calculará sobre la misma base que las amortizaciones , a saber : 
+- ya sea el valor de reposición (27) , 
+- ya sea el valor de adquisición . 
+Las tierras se valorarán basándose en los precios ( deducidos los gastos de establecimiento ) existentes en la región para las tierras no arrendadas de la misma situación y calidad que sean objeto de comercialización con fines agrícolas ( las evaluaciones adoptadas cuando existe una transmisión entre parientes no se tiene en cuenta para la determinación de valor ) (28) . 
+Siempre que los costes de los automóviles privados correspondan a la utilización de éstos para los fines de la explotación serán distribuidos entre las rúbricas 61 ( mantenimiento corriente del material ) y 62 ( carburante y lubrificante ) , la base alícuota de la explotación en el valor de dichos automóviles se incluirá en material . Por el contrario , en el caso de que los costes de utilización de los automóviles privados con fines de explotación se calculen a tanto alzado ( cf. rúbrica 63 ) los automóviles privados no se incluirán en el material . 
+Inversiones ( columnas 4 y 5 ) 
+Importe de las compras , grandes reparaciones y producciones de inmovilizado durante el ejercicio . Siempre que las inversiones hayan dado lugar a primas y subvenciones , se indicará en la columna 4 el importe de las primas y subvenciones no deducidas y en la comuna 5 el importe de dichas primas y subvenciones . 
+Las compras de pequeño material así como de árboles y arbustos jóvenes para una repoblación de poca importancia no figurarán en estas columnas sino que se incluirán en los gastos del ejercicio ( cf. rúbrica 71 « mantenimiento corriente del material » ) ; rúbrica 72 « semillas y plantas compradas » ; rúbrica 77 « gastos específicos de los bosques » ) . 
+Cuando el pago se efectúe con títulos de crédito , éstos se evaluarán basándose en su valor al contado . 
+Ventas ( columna 6 ) 
+Importe de las ventas de bienes durante el ejercicio 
+Amortizaciones ( columna 7 ) 
+La amortización corresponde al reconocimiento contable de la depreciación real de los bienes durante el ejercicio . Podrá determinarse ( según los Estados miembros ) basándose : 
+a ) ya sea en el valor de reposición ( valor de un bien , parecido , nuevo , a precio actual ) , 
+b ) ya sea en el valor de adquisición . 
+Siempre que se aplique este último método , el valor de adquisición se indicará en las columnas 1 y 2 ( cf. instrucciones relativas a estas columnas ) . 
+Amortización de las plantaciones 
+Los costes de las plantas correspondientes a una nueva plantación constituyen una inversión y son objeto de amortización . 
+Sólo serán objeto de amortización las plantaciones que pertenezcan al empresario ( cualquiera que sea el modo de pertenencia de las tierras ) . 
+Los tipos de amortización lineal que siguen se ofrecen a título indicativo : 
+Plantaciones 
+* * Tipo anual de amortización ( en % ) * 
+Manzano * Porte bajo %lt% 750 árboles/ha * 7 * 
+* 750-1 500 árboles/ha * 8 * 
+* %gt% 1 500 árboles/ha * 10 * 
+* Porte medio * 5 * 
+* Porte alto * 4 * 
+Peral * porte bajo * 6 * 
+* porte medio * 5 * 
+* porte alto * 4 * 
+Membrillo * * 6 * 
+Cerezo * porte bajo * 7 * 
+* porte medio * 6 * 
+* porte alto * 5 * 
+Ciruelo * porte bajo * 10 * 
+* porte medio * 7 * 
+* porte alto * 5 * 
+Albaricoquero * porte medio * 7 * 
+Melocotonero * porte bajo * 12 * 
+* porte medio * 10 * 
+Nogal * porte bajo * 4 * 
+* porte medio * 4 * 
+* porte alto * 4 * 
+Avellano * porte medio * 7 * 
+Almendro * porte medio * 4 * 
+Grosellero verde ( uva crispa ) * matorral * 12 * 
+Grosellero rojo * matorral * 12 * 
+Higuera * porte medio * 5 * 
+Chumbera * porte medio * 4 * 
+Caqui * porte medio * 10 * 
+Vid * tamaño largo * 7 * 
+* tamaño medio * 6 * 
+* tamaño corto * 5 * 
+Olivos * porte bajo * 5 * 
+* porte alto * 2 * 
+Cítricos * * 4 * 
+Frambuesos * * 15 * 
+zarmoras * * 15 * 
+alcachofas * * 20 * 
+Espárragos * * 20 * 
+Fresas * * 30 * 
+Ruibarbos * * 8 * 
+Amortización de los edificios de explotación , construcciones y mejoras de bienes raíces . 
+Amortización de edificios , construcciones ( comprendidos los invernaderos y las cajoneras ) y mejoras de bienes raíces que pertenezcan al empresario , cualquiera que sea el modo de tenencia de las tierras . 
+Los tipos de amortización lineal que siguen se dan a título indicativo . 
+Edificios y construcciones * Tipo anual de amortización en % * 
+- de madera * 5 * 
+- sobre cimentación de fábrica * 4 * 
+- de fábrica * 2 * 
+- invernaderos * 7,5 * 
+- cajoneras * 10 * 
+- instalaciones de calefacción * 7,5 * 
+Amortización de material 
+El material que da lugar a amortización es aquél cuyo valor como nuevo es superior a unas 100 UCE (29) . El material pequeño ( por debajo de este valor ) no será objeto de cálculo para amortización ; las compras correspondientes se contabilizarán directamente como gastos del ejercicio ( rúbrica 61 « mantenimiento corriente del material » ) . 
+Las reparaciones grandes que confieran al material una plusvalía cierta en relación con su valor antes de la reparación , se tendrán también en cuenta en esta partida , ya sea en forma de una parte integrante de la amortización del material en la que , en su caso , se tiene en cuenta la prolongación de la duración de la vida del material en cuestión debido a esta reparación , ya sea en forma de una parte alícuota anual del importe de la reparación grande , por distribuirse ésta en varios ejercicios sucesivos . 
+El importe de la amortización anual podrá calcularse con arreglo al método de amortización lineal o al método de amortización decreciente . 
+El Tipo de amortización en función de varios factores que dependen en su mayor parte de las condiciones particulares de la región y de la producción ( grado de utilización anual ) , pero también del progreso técnico ) . 
+Dada la depreciación diferente que resulta de una región a otra , incluso de una explotación a otra , los departamentos de contabilidad tienen la posibilidad de elegir tipos para el material apropiados a la situación regional , incluso en el caso de cada explotación , con objeto de acercarse lo más posible al valor de la depreciación real del material . 
+Los tipos de amortización que siguen se dan por consiguiente a título indicativo . 
+Material * Tipo anual de amortización ( % ) * 
+* Amortización lineal * Amortización decreciente * 
+Automóviles , camiones , camionetas y otro material automotor de transporte * 15 * 32 * Tractores , motocultores y material automotor * 12,5 * 26 * 
+Material para tracción mecánica * 7,5 * 17 * 
+Material para tracción animal * 5 * 12 * 
+Otros materiales e instalaciones * 7,5 * 17 * 
+Valor en el inventario final ( columna 8 ) 
+Valor contable de los bienes en el inventario final . 
+H . ENDEUDAMIENTO 
+Los importes indicados solamente se refieren a las sumas que quedan por reembolsar , es decir , el importe de los préstamos contratados deducidos los reembolsos ya efectuados . Los préstamos en forma de títulos de crédito se evaluarán por su valor al contado . 
+Se distinguen los préstamos según la duración , a saber : 
+104 . Préstamos a largo y medio plazo 
+Préstamos en calidad de explotación contratados por un año y más (30) . 
+105 . Préstamos a corto plazo y deudas 
+Préstamos en calidad de explotación contratados por menos de un año , deudas y gastos devengados por pagar (30) . 
+106 . Total : 
+Suma de las rúbricas 104 y 105 (30) 
+Si se dispone de los datos en la contabilidad de la explotación , los préstamos se subdividirán según sus destinos , a saber : 
+- Préstamos para capital inmobiliario ( columnas 2 y 6 ) (30) 
+- correspondientes a : préstamos para compra de tierras ( columnas 3 y 7 ) (30) 
+- Préstamos para capital de explotación ( columnas 4 y 8 ) (30) . 
+La suma de estos detalles corresponderá al importe que figura en las columnas 1 ( = columnas 2 + 4 ) y 5 ( = columna 6 + 8 ) . 
+I . IMPUESTO SOBRE EL VALOR AÑADIDO ( IVA ) 
+Los datos con valor monetario que figuran en la ficha de explotación se expresarán según los Estados miembros : 
+- ya sea sin el IVA ; este método lo aplicarán todas las explotaciones sometidas al régimen normal ; 
+- ya sea con el IVA incluido . Los Estados miembros en los que se utiliza este último método suministrarán cada año junto con los soportes mecanográficos que incluyan los datos contables del ejercicio la lista de los tipos de IVA aplicados durante el ejercicio contable considerado para cada una de las partidas de la ficha de explotación . 
+Habrán de suministrarse los siguientes datos sobre el IVA : 
+a ) para cada explotación : 
+107 . Régimen de IVA 
+El régimen de IVA ( número de orden 400 ) al que esté sometida la explotación se indicará mediante el número de código correspondiente de la lista siguiente : 
+* Número de código * 
+ALEMANIA 
+Pauschalierender Betrieb * 1 * 
+Optierender Betrieb * 2 * 
+Getraenke erzeugender Betrieb * 3 * 
+Betrieb mit Kleinumsatz * 4 * 
+* Número de código * 
+BÉLGICA 
+* Número de código * 
+Régime normal 
+- obligatoire * 1 * 
+- sur option * 2 * 
+Régime agricole * 3 * 
+FRANCIA 
+TVA sur option avec autorisation pour animaux vivants * 2 * 
+Remboursement forfaitaire * 3 * 
+Subdivisión del régimen de IVA ( número de orden 401 ) (31) 
+Sans TVA obligatoire sur activités connexes * 0 * 
+Avec TVA obligatoire sur activités connexes * 1 * 
+ITALIA 
+Regime speciale agricolo 
+- di esonero * 1 * 
+- ordinario * 2 * 
+Regime normale * 3 * 
+LUXEMBURGO 
+Régime normal 
+- obligatoire * 1 * 
+- sur option * 2 * 
+Régime forfaitaire de l'agriculture * 3 * 
+PAÍSES BAJOS 
+Algemene regeling 
+- verplicht * 1 * 
+- op aanvraag * 2 * 
+Landbouwregeling * 3 * 
+DINAMARCA 
+Mons * 1 * 
+IRLANDA 
+Exempt * 1 * 
+REINO UNIDO 
+Exempt * 1 * 
+Registered * 2 * 
+b ) para las explotaciones sometidas al régimen agrícola [ o régimen similar (32) ] e indicando los vaores monetarios excluido el IVA y para las explotaciones sometidas a régimen normal en los Estados miembros en los que el IVA sobre los productos contiene un elemento de compensación de otra naturaleza ( por ejemplo compensación de la revaluación de la moneda ) : 
+108 . IVA sobre las ventas 
+IVA cobrado durante el ejercicio sobre los productos vendidos 
+109 . IVA sobre las compras 
+IVA pagado durante el ejercicio en la compra corriente de bienes y servicios . 
+En Italia , esta rúbrica comprenderá también el IVA pagado a Hacienda en aplicación del criterio a prorrata para los productos de la segunda parte de la lista italiana de productos agrícolas . 
+110 . IVA sobre inversiones 
+IVA pagado durante el ejercicio en la compra de bienes correspondientes a una inversión [ no comprendido el IVA no deducible para las explotaciones sometidas al régimen normal , durante el período transitorio (33) ] . 
+111 . IVA reembolsado por Hacienda 
+Importe del reembolso a tanto alzado . 
+J . PRIMAS Y SUBVENCIONES 
+Las primas y subvenciones que han de indicarse en las rúbricas 112 a 119 son las concedidas con cargo a los fondos públicos y que hayan dado lugar a un ingreso específico excluidas las primas y subvenciones por inversiones que figuran en las rúbricas 94 a 103 . 
+112 . Primas y subvenciones por animales y productos 
+Importe de primas y subvenciones correspondientes a la producción de productos mencionados en las rúbricas 51 a 58 y 120 a 311 , comprendidas las recibidas durante el ejercicio pero relativas a la producción de ejercicios anteriores . 
+113 . correspondientes a : Detalles del importe de la rúbrica 112 según las categorías de animales ( rúbricas 51 a 58 ) y los productos ( rúbricas 120 a 311 ) siempre que se disponga en la contabilidad de los datos correspondientes . 
+114 . Primas y subvenciones por gastos 
+Importe de las primas y subvenciones relativas a los gastos ( rúbricas 59 a 92 ) . 
+115 . correspondientes a : Detalles del importe de la rúbrica 114 según los gastos ( rúbricas 59 a 92 ) siempre que en la contabilidad se disponga de los datos correspondientes . 
+116 . Primas y subvenciones por compras de animales 
+Importe de las primas y subvenciones relativas a las compras de animales ( columna 1 de las rúbricas 51 a 58 ) . 
+117 . correspondientes a : Detalles del importe de la rúbrica 116 según las categorías de animales ( rúbricas 51 a 58 ) siempre que en la contabilidad se disponga de los datos correspondientes . 
+118 . Total 
+Suma de las rúbricas 112 , 114 y 116 . 
+119 . correspondiente a : Primas y subvenciones « calamidades » 
+Importe de primas y subvenciones excepcionales acordadas directamente al agricultor en caso de calamidades agrícolas que estica comprendidas en la rúbrica 118 . 
+K . PRODUCCIÓN ( excepto los animales ) 
+Los datos sobre la producción se suministrarán distinguiendo los productos siguientes : 
+120 . Trigo blando y escanda comprendidas las semillas 
+121 . Trigo duro comprendidas las semillas 
+122 . Centeno ( incluido el tranquillón ) comprendidas las semillas 
+123 . Cebada comprendidas las semillas 
+124 . Avena comprendidas las semillas 
+125 . Mezclas de cereales de verano comprendidas las semillas 
+126 . Maíz-grano ( comprendido el maíz grano húmedo ) comprendidas las semillas 
+127 . Arroz 
+128 . Otros cereales 
+129 . Leguminosas secas ( comprendidas las semillas y mezclas de leguminosas secas con cereales ) 
+130 . Patatas ( incluidas las patatas tempranas y las patatas para siembra ) 
+131 . Remolachas azucareras ( excluidas las semillas ) 
+132 . Plantas oleaginosas herbáceas ( comprendidas las semillas ) 
+133 . Lúpulos ( excluidas las semillas ) 
+134 . Tabaco ( excluidas las semillas ) 
+135 . Otras plantas industriales ( excluidas las semillas ) (34) 
+136 . Hortalizas frescas , melones , fresas en cultivo en tierras de labor : cultivos que entran en rotación con los cultivos agrícolas (35) 
+137 . Hortalizas frescas , melones , fresas en cultivo hortícola al aire libre ( superficie básica ) : cultivos que entran en rotación con otros cultivos hortícolas y caracterizados por una rotación rápida con ocupación casi continua de la superficie y obtención de varias cosechas por año (35) 
+138 . Hortalizas frescas , melones , fresas de invernadero ( superficie básica ) : cultivos realizados durante la totalidad o la mayor parte del ciclo vegetativo a cubierto ( invernaderos , cajoneras fijas , túneles de plástico calentados ; en el caso de invernaderos de pisos , se contará solamente la superficie básica ) . No se considerarán cultivos de invernadero los practicados en túneles de plástico no calentados , bajo campanas o bajo cajoneras portátiles (35) 
+139 . Champiñones : la superficie total de las capas sucesivas ( superficie de base × número de cosechas completas ) se indicará en metros cuadrados . Esta superficie no se contará en el total ( rúbrica 183 ) 
+140 . Flores y plantas ornamentales al aire libre ( excluidos los viveros ) ( superficie básica ) (36) 
+141 . Flores y plantas ornamentales de invernadero ( superficie básica ) (36) 
+142 . Semillas de gramíneas y leguminosas forrajeras 
+143 . Otras semillas ( semillas hortícolas , semillas y plantas de tierras labradas , excluidos los cereales , las legumbres secas , las patatas , las plantas oleaginosas y las semillas de gramíneas y leguminosas forrajeras ) 
+144 . Plantas de escarda forrajeras ( remolachas forrajeras , colinabos , zanahorias y nabos forrajeros , remolachas semiazucareras , otras plantas de escarda ) ( excluidas las semillas ) 
+145 . Otras plantas forrajeras : conjunto de los cultivos forrajeros herbáceos que entran en rotación y ocupan la misma superficie durante menos de cinco años ( forrajes anuales y plurianuales excluidas las praderas temporales ) 
+146 . Barbechos : tierras comprendidas en la rotación , labradas o no , que no proporcionan cosecha durante el ejercicio . 
+147 . Praderas temporales : praderas sembradas en tierras labradas , dedicadas para una duración de menos de cinco años a producciones forrajeras herbáceas . El importe de las ventas de hierba y de heno procedente de esta superficie ha de indicarse en la presente rúbrica . 
+148 . Otros cultivos de tierras labradas : cultivos de tierras labradas no comprendidas en las rúbricas 120 a 147 . 
+149 . Tierras arrendadas listas para sembrar , comprendidas las tierras puestas a disposición del personal a título de remuneración en especie . 
+150 . Praderas y pastizales permanentes . Superficie agrícola utilizada , cultivada fuera de rotación , destinada de modo permanente ( por una duración de cinco años y más ) a producciones forrajeras herbáceas , tanto si se trata de pastos sembrados como naturales , generalmente fertilizados y mantenidos . El importe de las ventas de hierba y heno procedentes de esta superficie se indicará en la presente rúbrica . 
+151 . Trayectos : pastizales pobres generalmente no fertilizados y no mantenidos , incluso cuando contengan una vegetación arbustiva . 
+152 . Plantaciones de frutales y bayas (37) 
+153 . Plantaciones de cítricos (38) 
+154 . Olivares (39) 
+155 . Vides (40) 
+156 . Cultivos permanentes en invernadero 
+157 . Viveros distintos de los vitícolas , no comprendidos los viveros forestales que se encuentren en los bosques y estén destinados a las necesidades de la explotación 
+158 . Otros cultivos permanentes ( mimbres , cañas , bambúes , etc. ) 
+159 . Desarrollo de plantaciones jóvenes , evaluadas al coste de los medios de producción aplicados ( se trata exclusivamente de plantaciones que todavía no han alcanzado el estado de plena producción ) 
+160 . Productos transformados de productos vegetales no mencionados por separado (41) 
+161 . Subproductos de productos vegetales (42) 
+162 . Leche de vaca 
+163 . Productos lácteos de bovinos 
+164 . Leche de búfala 
+165 . Productos lácteos de búfalas 
+166 . Lana 
+167 . Leche y productos lácteos de ovinos 
+168 . Leche y productos lácteos de caprinos 
+169 . Huevos de gallina 
+170 . Otros productos animales ( estiércol vendido , mosntas , huevos distintos de los de gallina , etc. ) 
+171 . Cría sometida a contrato : importe de los ingresos de cría sometida a contrato en condiciones que esta actividad corresponda esencialmente a una prestación de servicios por parte del empresario , de modo que éste no asuma el riesgo económico normalmente relacionado con la crianza o el engorde de dichos animales (43) . 
+172 . Arriendo ocasional de superficie forrajera y arrendamiento de animales . 
+173 . Superficie forestal : superficie ocupada por arboledas y bosques , comprendidos los viveros forestales que se encuentren en los bosques así como las alamedas . Los árboles aislados , los árboles en pequeños grupos y en línea no se incluirá en la superficie forestal ; la superficie correspondiente se asignará a la superficie limítrofe . Se considerarán las arboledas y bosques gestionadas por el empresario , mantenidas por la mano de obra de la explotación agrícola con el material de ésta o cuyos productos se utilicen para los fines de la explotación agrícola . 
+174 . Ventas de árboles talados : importe de las ventas durante el ejercicio de árboles talados , comprendida la utilización propia . 
+175 . Venta de árboles en pie : importe de las ventas durante el ejercicio de árboles en pie . 
+176 . Otros productos forestales : importe de las ventas durante el ejercicio de productos forestales distintos de los árboles ( corcho , resina , etc. ) . 
+177 . Trabajos para terceros comprendido el alquiler del material . 
+178 . Intereses sobre el disponible necesario para el funcionamiento de la explotación ( capital circulante ) de la cuenta bancaria del empresario . Esta rúbrica no se rellenará , si el capital circulante está determinado a tanto alzado ( ver también las instrucciones sobre capital circulante , rúbrica 102 ) . 
+179 . Agriturismo : en el caso de que el agriturismo esté imbricado con la actividad de explotación agrícola de forma que sea prácticamente imposible disociar dicha actividad de la explotación propiamente dicha y en el de que por este motivo los gastos y la mano de obra a ellos relativos estén comprendidos en las rúbricas correspondientes , los ingresos de esta actividad se indicarán en la presente partida . Comprenderán las compensaciones recibidas de los turistas ( por emplazamiento de camping , albergues rurales , permanencia en autocaravana , reserva de caza y de pesca , etc. ) . 
+180 . Ingresos relativos a los ejercicios anteriores : importes recibidos durante el ejercicio concernientes a ejercicios anteriores y que no se han contabilizado en los créditos de los ejercicios correspondientes ( las primas y subvenciones relativas a ejercicios anteriores se indicarán en las rúbricas 112 a 119 o en su caso 94 a 103 si se trata de primas y subvenciones a las inversiones ) . 
+181 . Otros productos e ingresos : productos e ingresos no enumerados más arriba ; valor deducido de la renta de la vivienda de los asalariados ( evaluada con los gastos a ellas correspondientes ) , producción de inmovilizado [ valor estimado del conjunto de los costes de producción de inmovilizado incluido en los gastos corrientes de la explotación ; ver « definiciones e instrucciones generales » , en b ) ] , indemnizaciones recibidas que no pueden imputarse a los productos particulares ni deducirse de los gastos , etc . 
+182 . Otras superficies : cualquier otra superficie , como , por ejemplo : huerto familiar , suelo ocupado por edificios , caminos , área para animales , estanques , etc . 
+183 . Total : suma de las rúbricas anteriores . No obstante , la suma de las superficies no incluirá las superficies dedicadas a los cultivos sucesivos secundarios y a los champiñones . 
+De ese modo la suma de las superficies constituirá la superficie total de la explotación . 
+Las rúbricas 135 , 136 , 137 , 138 , 140 , 141 , 152 , 153 , 154 , 155 , 160 , 161 , 171 se detallarán como sigue , siempre que en la contabilidad se disponga de los datos correspondientes . Sólo los productos más importantes se indicarán por separado ; los productos de menor importancia se reagruparán en las rúbricas « otros » correspondientes ( rúbricas 185 , 231 , 236 , 242 , 274 , 284 , 291 , 298 , 306 y 311 ) . 
+Detalles de la rúbrica 135 : 
+184 . Plantas medicinales , plantas utilizadas como condimentos , plantas aromáticas y con perfume , cominos , alpiste , azafrán , sorgo dulce , sorgo de escobas ( no comprendidas las semillas ) . 
+185 . Otras plantas industriales ( no comprendidas las semillas ) 
+Detalles de las rúbricas 136 , 137 y 138 : 
+186 . Coles comestibles . 
+187 . Coles de Bruselas 
+188 . Coliflores 
+189 . Colinabos ( nabicol ) 
+190 . Brócoli de nabo 
+191 . Remolachas de huerta 
+192 . Acelgas 
+193 . Zanahorias comestibles 
+194 . Chirivías 
+195 . Salsifís , escorzoneras 
+196 . Apio , apio nabo 
+197 . Perejil 
+198 . Hinojo 
+199 . Puerros 
+200 . Ajo y chalote 
+201 . Cebolletas 
+202 . Cebollas 
+203 . Ensaladas ( lechuga acogollada y lechuga romana ) 
+204 . Milamores 
+205 . Escarola de hoja rizada , escarola 
+206 . Espinacas 
+207 . Armuelle 
+208 . Guisantes verdes 
+209 . Judías verdes 
+210 . Habas 
+211 . Espárragos 
+212 . Endivias 
+213 . Achicoria silvestre 
+214 . Alcachofas 
+215 . Cardos 
+216 . Pepinos 
+217 . Pepinillos 
+218 . Ruibarbo 
+219 . Berenjenas 
+220 . Pimientos 
+221 . Sandías 
+222 . Calabazas 
+223 . Calabacines 
+224 . Rábanos silvestres 
+225 . Nabos 
+226 . Rábanos 
+227 . Berros 
+228 . Tomates 
+229 . Melones 
+230 . Fresas 
+231 . Otras hortalizas frescas 
+Detalles de las rúbricas 140 y 141 : 
+232 . Bulbos de tulipanes 
+233 . Bulbos de narcisos 
+234 . Bulbos de gladiolos 
+235 . Bulbos de jacintos 
+236 . Bulbos de azucenas 
+237 . Otros bulbos y tubérculos de flores 
+238 . Rosas ( flores cortadas ) 
+239 . Claveles ( flores cortadas ) 
+240 . Crisantemos ( flores cortadas ) 
+241 . Tulipanes ( flores cortadas ) 
+242 . Otras flores cortadas y plantas de adorno 
+243 . Plantas de adorno en recipientes 
+Detalles de la rúbrica 152 : 
+244 . Manzanas de mesa ( porte alto ) 
+245 . Manzanas de mesa ( porte bajo ) 
+246 . Manzanas para sidra 
+247 . Peras de mesa ( porte alto ) 
+248 . Peras de mesa ( porte bajo ) 
+249 . Peras para sidra 
+250 . Membrillos 
+251 . Cerezas 
+252 . Ciruelas ( incluidas las damascenas , claudias y mirabeles ) 
+253 . Albaricoques 
+254 . Melocotones 
+255 . Nueces 
+256 . Avellanas 
+257 . Almendras 
+258 . Castañas 
+259 . Alfónfigos 
+260 . Grosellas 
+261 . Grosellas negras 
+262 . Frambuesas 
+263 . Grosellas verdes ( uva crispa ) 
+264 . Moras silvestres 
+265 . Moras 
+266 . Higos 
+267 . Nísperos 
+268 . Caquis 
+269 . Algarroba 
+270 . Serbas 
+271 . Granadas 
+272 . Nueces 
+273 . Higos chumbos 
+274 . Otras frutas 
+Detalles de la rúbrica 153 : 
+275 . Naranjas 
+276 . Mandarinas 
+277 . Limones 
+278 . Cidras 
+279 . Limas 
+280 . Bergamotas 
+Detalles de la rúbrica 154 : 
+281 . Aceitunas de mesa 
+282 . Aceitunas para aceite 
+283 . Aceite de oliva 
+284 . Otros productos de cleicultura 
+Detalles de la rúbrica 155 : 
+285 . Uva de mesa 
+286 . Uva para vinificación ( vino de denominación controlada ) 
+287 . Uva para vinificación ( vino ordinario ) 
+288 . Mosto de uva 
+289 . Vino de denominación controlada 
+290 . Vino ordinario 
+291 . Otros productos de la viticultura 
+Detalles de la rúbrica 160 : 
+292 . Alcohol de productos agrícolas 
+293 . Otros productos transformados procedentes de los productos agrícolas 
+294 . Productos transformados procedentes de la horticultura 
+295 . Aguardiente de frutas o de residuos de frutas 
+296 . Sidra y perada 
+297 . Otros productos transformados procedentes de las frutas 
+298 . Otros productos transformados 
+Detalles de la rúbrica 161 : 
+299 . Paja 
+300 . Cuellos de remolacha 
+301 . Otros subproductos de los productos agrícolas 
+302 . Subproductos de la horticultura 
+303 . Subproductos de los cultivos frutales 
+304 . Subproductos de la viticultura 
+305 . Subproductos de la oleicultura 
+306 . Otros subproductos 
+Detalles de la rúbrica 171 : 
+307 . Bovinos bajo contrato 
+308 . Ovinos bajo contrato 
+309 . Porcinos bajo contrato 
+310 . Aves de corral bajo contrato 
+311 . Otros animales bajo contrato 
+Productos ( columna 1 ) 
+Los productos se indicarán por orden crecientes de los números mencionados más arriba . 
+Tipo de cultivo ( columna 2 ) 
+Se distinguirán los tipos y códigos de cultivos correspondientes siguientes : 
+- Cultivos en tierras de labor ( comprendidas las hortalizas frescas , los melones y las fresas , que entran en rotación con los cultivos agrícolas ) : 
+código 1 = cultivo principal , 
+código 2 = cultivo asociado , 
+código 3 = cultivo sucesivo secundario . 
+- Cultivos hortícolas y florales al aire libre : 
+código 4 = hortalizas frescas , melones y fresas en cultivo hortícola al aire libre ( ver rúbrica 137 ) , 
+código 4 = flores y plantas ornamentales al aire libre ( ver rúbrica 140 ) 
+- Cultivos de invernadero : 
+código 5 = hortalizas frescas , melones y fresas de invernadero ( ver rúbrica 138 ) , 
+código 5 = flores y plantas ornamentales de invernadero ( ver rúbrica 141 ) . 
+Cultivos principales 
+Los cultivos principales comprenderán : 
+- los cultivos únicos , es decir los cultivos que son únicos y se practican en una superficie dada durante el ejercicio considerado , 
+- los cultivos mezclados : cultivos sembrados , mantenidos y cosechados simultáneamente y cuyo producto se presenta en forma de mezcla , 
+- entre los cultivos practicados sucesivamente durante el ejercicio en una superficie dada , aquél cuyo valor de la producción es más alto o en igualdad de valor , el que ocupa el suelo durante más tiempo . 
+Cultivos asociados 
+Cultivos que se encuentran simultáneamente durante cierto período en la misma tierra y proporcionan normalmente cada uno de ellos una cosecha distinta durante el ejercicio . La superficie global en cuestión se repartirá entre cada uno de los cultivos de que se trate a prorrata de la superficie efectivamente ocupada por cada uno de ellos . 
+Cultivos sucesivos secundarios 
+Cultivos practicados sucesivamente durante el ejercicio en una superficie dada , que no se consideran como cultivos principales . 
+Dato que falta ( columna 3 ) 
+Cuando no se indique la superficie de un cultivo ( cf. columna 4 ) por ejemplo , en el caso de las ventas de productos de cultivos comercializables comprados en pie o procedentes de tierras arrendadas con un período inferior a un año y en el caso de una producción obtenida por transformación de productos vegetales o animales comprados , se indicará uno en esta columna . 
+Cuando las condiciones de venta no permitan indicar la producción física en quintales ( columna 5 ) , por ejemplo en los casos de ventas de cosechas en pie o de cultivos bajo contrato , se indicará el código 2 en esta columna para los cultivos bajo contrato y el código 3 en los demás casos . 
+En el caso de que los dos datos antes citados ( superficie y producción física en quintales ) faltasen , se indicará el código 4 . 
+Se indicará el código 0 ( = sin objeto ) cuando no falte ningún dato . 
+Superficie ( columna 4 ) 
+Se indicará la superficie en áreas , con excepción de la superficie dedicada al cultivo de champiñones ( superficie total de las capas sucesivas ) , que se indicará en metros cuadrados . Esta última superficie no estará incluida en la superficie total ( rúbrica 183 ) . 
+La superficie correspondiente a cada producto vegetal se indicará en esta columna salvo en lo que se refiere a los subproductos de los productos vegetales ( rúbricas 161 y 299 a 306 ) así como los productos transformados ( rúbricas 160 , 283 , 284 , 288 a 291 , 292 a 298 ) . Los productos obtenidos para la transformación de los productos vegetales comprados y los productos de cultivo comercializables comprados en pie o procedentes de tierras arrendadas por una duración inferior a un año se indicarán sin mención de la superficie [ se indicará el código 1 en la columna 3 ( dato que falta ) ] 
+Para los detalles de las hortalizas frescas , los melones y las fresas ( rúbricas 186 a 231 ) en cultivo hortícola al aire libre o en invernadero y para los detalles de las flores y plantas ornamentales ( rúbricas 232 a 243 ) al aire libre o en invernadero , se indicará la superficie realmente dedicada al cultivo en cuestión ( superficie desarrollada ) (44) . Si no se dispone de dicho dato en la contabilidad de la explotación , se indicará el código 1 en la columna 3 ( dato que falta ) . 
+Producción del ejercicio ( columna 5 ) 
+Cantidades de productos vegetales y animales producidos durante el ejercicio contable ( excluidas las pérdidas eventuales en los campos y en la granja ) . Dichas cantidades se indicarán para los productos principales de la explotación ( salvo los subproductos ) . 
+Las cantidades se indicarán en quintales ( 100 kilogramos ) , salvo en lo que se refiere a los huevos que se indicarán en millares . En lo que se refiere a la leche , se indicará la cantidad de leche líquida producida cualquiera que sea su forma ( nata , mantequilla , queso , etc. ) en que se venda , se autoconsuma o se autoutilice o haya sido objeto de prestaciones en especie . La leche mamada en ubre por los terneros no entrará en la producción . 
+Cuando para un producto las condiciones de venta no permitan determinar la producción física en quintales ( por ejemplo las ventas y cosechas en pie y los cultivos bajo contrato ) , se indicará el código 2 en la columna 3 ( dato que falta ) para los cultivos bajo contrato y el código 3 en los demás casos . 
+Inventario inicial ( columna 6 ) 
+Valor de los productos en almacén al comienzo del ejercicio contable ( exclusive los animales ) . Los productos se evaluarán a precios « franco granja » el día del inventario . 
+Ventas ( columna 7 ) 
+Importe cobrado o que ha de cobrarse por las ventas de los productos en existencia a los comienzos del ejercicio o cosechados durante éste . 
+El importe de los productos vendidos incluirá el valor de los productos retrocedidos ( leche desnatada , pulpa , etc. ) dicho valor se indicará también en los gastos de la explotación . 
+Las indemnizaciones eventuales ( por ejemplo indemnizaciones por daños ocasionados por el granizo ) correspondientes al ejercicio contable se añadirán al importe de las ventas de los productos correspondientes siempre que pueda imputarse a la producción de dichos productos ; en caso contrario se indicará en la rúbrica 181 ( otros productos e ingresos ) . 
+Consumo propio y prestaciones en especie ( columna 8 ) 
+Productos consumidos por el hogar de la explotación ( comprendidos los productos de la explotación utilizados para la preparación de comidas para personas de veraneo ) , o utilizadas como pago en especie correspondiente a la compra de bienes y servicios ( comprendidos los salarios en especie ) . Los productos en cuestión se evaluarán al precio franco granja . 
+Inventario final ( columna 9 ) 
+Valor de los productos en almacén al final del ejercicio contable ( excluidos los animales ) . Los productos se evaluarán al precio « franco granja » el día del inventario . 
+Utilización propia ( columna 10 ) 
+La utilización propia comprenderá el valor de los productos de la explotación en existencia al comienzo del ejercicio o producidos durante el ejercicio , utilizados durante el ejercicio de la explotación como medio de producción . Se distinguirán : 
+- pienso para el ganado : 
+valor de los productos comercializables de la explotación ( productos que corrientemente son objeto de comercialización ) utilizados durante el ejercicio como pienso para el ganado . La paja de la explotación de uso propio ( como forraje o como cama ) sólo se tendrá en cuenta en la medida en que constituya un producto comercializable en la región y para la campaña en cuestión . La leche mamada en ubre por los terneros no se incluirá en la utilización propia . 
+Los productos en cuestión se evaluarán al precio de venta « franco granja » . 
+- semillas : 
+Valor de los productos comercializables de la explotación utilizados como semillas durante el ejercicio . Dichas semillas se evaluarán al precio de venta « franco granja ». 
+(1) No obstante , cuando la explotación sufra un cambio profundo , en particular cuando dicho cambio resulte de una subdivisión en dos explotaciones independientes o de una fusión con otra explotación , se considerará como nueva explotación ; en este caso , se le asignará un nuevo número . El cambio de orientación técnico-económica de la explotación no implica la asignación de un número nuevo . En caso de que el mantenimiento del número de la explotación pudiera implicar una confusión con otra u otras explotaciones contables ( por ejemplo , cuando se cree una nueva subdivisión regional ) se cambiará el número . En tal caso , se comunicará a la Comisión un cuadro de equivalencia de los números antiguos y los nuevos . 
+(2) Una jornada de pasto-unidad de ganado es la que corresponde a una jornada de pasto de una vaca lechera o de un bovino o un equino de más de dos años . Las jornadas de pasto correspondientes a los bovinos o a los equinos de menos de dos años , a los caprinos o a los ovinos se convertirán en jornadas de pasto-unidad de ganado utilizando respectivamente los siguientes coeficientes : 0,5 - 0,2 - 0,15 . 
+(3) Los importes pagados por la compra de cosechas en pie o por el arrendamiento de tierras por tiempo inferior a un año se indicarán en las rúbricas 65 a 67 ( piensos comprados ) cuando se trate de praderas o cultivos forrajeros y en la rúbrica 76 ( otros gastos específicos de los cultivos ) cuando se trate de cultivos de productos comercializables ( productos que corrientemente son objeto de comercialización ) . 
+Los productos de los cultivos comercializables compradas en pie o que preceden de tierras arrendadas por tiempo inferior a un año se indicarán sin mencionar la superficie correspondiente ( cf. instrucciones relativas a la indicación de la superficie , columna 4 , cuadro K ) . 
+(4) En caso de ayuda mutua entre explotaciones , cuando dicha ayuda mutua consista en un intercambio de prestaciones de trabajo , se indicarán en la ficha de explotación la ayuda recibida correspondiente en principio a la ayuda prestada , el tiempo de trabajo prestado por la mano de obra de la explotación y , en su caso , los salarios correspondientes . 
+En determinados casos , la ayuda recibida se compensa con una prestación de otra naturaleza ( por ejemplo , la ayuda recibida en forma de trabajo se compensa por la disposición de un material ) . Cuando se trate de un intercambio limitado de prestaciones , no se hará ninguna mención en la ficha de explotación ( en el ejemplo citado , la ayuda recibida no figurará en la mano de obra ; por el contrario , los gastos de mecanización comprenderán los gastos correspondientes a la puesta a disposición del material ) . 
+En casos excepcionales en los que esta forma de intercambio de prestaciones alcance cierta importancia , se procederá , según los casos , del modo siguiente : 
+a ) La ayuda recibida en forma de trabajo se compensará con una prestación de otra naturaleza ( por ejemplo la puesta a disposición de un material ) ; el tiempo de trabajo recibido se asentará como trabajo asalariado para la explotación ( rúbrica 20 ó 21 según se trate de mano de obra ocupada regularmente o no en la explotación ) ; el valor de la ayuda prestada se asentará a la vez como producción bajo la rúbrica correspondientes ( en el ejemplo : la rúbrica 177 « trabajos para terceros , incluido el arrendamiento del material » y como cargo en la rúbrica 59 « salarios y cargas sociales » ; 
+b ) La ayuda prestada en forma de trabajo se compensará por una prestación de otra naturaleza ( por ejemplo utilización de un material ) ; el tiempo de trabajo prestado y , en su caso , los salarios correspondientes no se tendrán en cuenta ; el valor de la prestación recibida se asentará como cargo bajo la rúbrica correspondiente ( en el ejemplo : rúbrica 50 « trabajos por terceros y arrendamiento de máquinas » . 
+(5) El importe de esta remuneración no figurará en los gastos de explotación . 
+(6) Las personas ocupadas de un modo regular , pero que por razones particulares sólo han estado ocupadas en cierto período del ejercicio en la explotación se asentarán no obstante ( por el número de horas efectivamente prestadas ) , en la mano de obra ocupada regularmente . Se trata de los casos particulares siguientes o de casos muy similares : 
+a ) condiciones particulares de producción en la explotación , para las cuales no se ha requerido mano de obra durante todo el año : por ejemplo , las explotaciones oleícolas o vitícolas , las explotaciones especializadas en el engorde de los animales o la producción de frutas y hortalizas al aire libre ; 
+b ) Ausencia del trabajo fuera de las vacaciones normales , como , por ejemplo , servicio militar , enfermedad , accidente , maternidad , permiso de larga duración , etc . 
+c ) llegada a la explotación o salida de la explotación . 
+d ) Paralización total del trabajo en la explotación imputable a causas accidentales ( inundación , incendio , etc. ) . 
+(7) En caso de aparcería , el aparcero se indicará como empresario/jefe de explotación . 
+(8) La función de las personas se indicará en la columna (1) por un número de código , a saber : 
+1 = empresario/jefe de explotación , 
+2 = empresario/no jefe de explotación , 
+3 = jefe de explotación/no empresario . 
+En caso de una explotación en forma de sociedad ( persona jurídica ) el número de código será el 9 . 
+Cuando la función la ejerzan varias personas ( por ejemplo , dos hermanos , padre e hijo , etc. ) cada una de ellas será objeto de un registro por orden decreciente de responsabilidad y , en caso de responsabilidades iguales , por orden decreciente de edad . De ese modo , los datos referentes a la persona que asuma la mayor responsabilidad se registrarán en las posiciones 51 a 54 , las referentes a la persona siguiente en las posiciones 55 a 58 , etc . 
+(9) Debe indicarse el número de personas que pertenezcan a esta categoría de mano de obra ( columna 1 ) . En caso en que existan varios empresarios , el número de cónyuges puede ser superior a uno . 
+(10) Debe indicarse el número de personas que pertenezcan a esta categoría de mano de obra ( columna 1 ) . En caso en que existan varios empresarios , el número de cónyuges puede ser superior a uno . 
+(11) Cuando una persona no esté en condiciones de realizar una prestación normal , por ejemplo por causa de invalidez , el número correspondiente a la misma se contará por la fracción correspondiente ; el tiempo de trabajo indicado corresponderá a las horas que habría dedicado normalmente a dichos trabajos una persona válida . 
+(12) En este caso , los ingresos y gastos relativos a la actividad de agriturismo se tendrán en cuenta respectivamente en los productos ( cf. rúbrica 179 ) y los gastos de explotación . 
+(13) No están comprendidos los pollitos . 
+(14) Animales que no pertenecen a la explotación , pero se crían o engordan allí en condiciones tales que dicha actividad corresponde esencialmente a una prestación de servicios por parte del empresario , no asumiendo este último el riesgo económico normalmente ligado a la cría o al engorde de dichos animales . 
+(15) Para las instrucciones referentes a las amortizaciones , ver las rúbricas 94 a 103 . 
+(16) Las primas y subvenciones correspondientes a las inversiones se indicarán en las rúbricas 94 a 103 . 
+(17) Los detergentes utilizados para la limpieza del material de cría ( por ejemplo , máquina de ordeñar ) se indicarán en la rúbrica 71 ( otros gastos específicos de cría ) . 
+(18) La rúbrica « alimentos concentrados » comprenderá en particular : tortas , piensos compuestos , cereales , hierba deshidratada ( harinas , píldoras ) , pulpa seca de remolacha azucarera , harina de pescado y de carne , leche y productos lácteos , condimentos minerales y productos para la preservación y conservación de tales alimentos . 
+(19) Los gastos correspondientes a los trabajos efectuados por empresas de trabajos agrícolas para la producción de forrajes ordinarios , por ejemplo ensilado , se anotarán en la rúbrica 60 « trabajos por terceros » . 
+(20) Los detergentes utilizados para la limpieza del material en general se indicarán en la rúbrica 61 ( mantenimiento corriente del material ) . 
+(21) Los abonos y correctores así como los productos de protección utilizados para los bosques ligados a la explotación agrícola se indicarán en la rúbrica 77 ( gastos específicos de los bosques ) . 
+(22) Las compras de materiales construcción destinados a nuevas inversiones se indicarán en la columna « inversiones » de las rúbricas 94 ( tierras agrícolas y edificios de explotación ) , 97 ( mejoras de bienes raíces ) o 98 ( edificios de explotación ) . 
+(23) En el caso de que no se disponga de esta información en la contabilidad de la explotación , se indicará la cifra 1 en la zona en cuestión . 
+(24) En caso de que en la contabilidad de la explotación no se disponga de esta información , se indicará la cifra 1 . Incluso en este caso , los datos correspondientes se incluirán en la rúbrica 94 . El importe correspondiente de las rúbricas 97 , 98 y eventualmente 99 , será bajo objeto de amortización . 
+(25) En caso de que no se disponga de esta información en la contabilidad de la explotación , se indicará la cifra 1 . Incluso en este caso , los datos correspondientes se incluirán en la rúbrica 94 . El importe correspondiente de las rúbricas 97 , 98 y eventualmente 99 , será objeto de amortización . 
+(26) Ver también más adelante , « valor en el inventario inicial » . 
+(27) El valor de reposición ( valor de un bien , parecido , nuevo , a precio actual ) podrá determinarse ya sea con ayuda de los precios actuales , ya sea con ayuda del índice ( general o particular ) de precios de los bienes en cuestión ( material edificios , etc. ) . 
+(28) En Alemania y en Irlanda , las tierras se evaluarán basándose en su valor de utilización con fines agrícolas . Dicho valor se indicará en la ficha de explotación . Los órganos de enlace interesados comunicarán a la Comisión el método según el cual han sido valoradas las tierras en las diferentes circunscripciones , así como los datos estadísticos disponibles relativos a los valores en venta correspondientes . 
+(29) Alrededor de 300 DM ; 550 FF ; 100 000 Lit ; 350 Fl ; 5 000 FB/Flux ; 750 Dkr ; 60 £ . 
+(30) En el caso de que en la contabilidad de la explotación no se disponga de dicha información , se indicará la cifra 1 en la zona en cuestión . 
+(31) Para lo demás países , esta partida ( n º de orden 401 ) es libre . 
+(32) Tal régimen se caracteriza por el hecho de que pretende compensar globalmente el importe del IVA pagado en la compra corriente de bienes y servicios y en las inversiones . En consecuencia , la compensación no se realiza forzosamente del todo cada año a nivel de cada explotación . 
+(33) Este IVA no deducible está incluido en el valor de la inversión . 
+(34) Ver las rúbricas 184 a 185 . 
+(35) Ver las rúbricas 186 a 231 . 
+(36) Ver las rúbricas 232 a 243 . 
+(37) Ver las rúbricas 244 a 274 . 
+(38) Ver las rúbricas 275 a 280 . 
+(39) Ver las rúbricas 281 a 284 . 
+(40) Ver las rúbricas 285 a 291 . 
+(41) Ver las rúbricas 292 a 298 . 
+(42) Ver las rúbricas 299 a 306 . 
+(43) Ver las rúbricas 307 a 311 . 
+(44) Ejemplo : si sobre una misma superficie de una hectárea de cultivos hortícolas al aire libre se cultivan rábanos , a continuación ensaladas y a continuación puerros , la superficie básica que ha de indicarse en la rúbrica 137 será de una hectárea ; la superficie desarrollada será de tres por una hectárea , que deberá indicarse respectivamente en las rúbricas 226 , 203 y 199 . 
+ANEXO III 
+PRESENTACIÓN DE LOS DATOS CONTABLES EN CINTAS MAGNÉTICAS 
+A . Características de las cintas magnéticas 
+1 . Las cintas serán de 9 pistas y de una densidad de 6 250 , 1 600 u 800 BPI . 
+2 . Los intervalos ( GAPS ) entre bloques de registro no podrán bajar de 0,65 pulgadas o 15,2 milímetros ( valor estándar ) . 
+3 . Cada dato estará representado por una palabra de 32 bits binarios . El primer bit a la izquierda da el signo : 
+- valdrá cero para un número positivo , en el caso de que los 31 bits siguientes den el valor en notación binaria « verdadera » , 
+- valdrá uno para un número negativo ; en este caso , los 31 bits siguientes darán el valor en notación « complemento a dos » . 
+B . Presentación de un fichero 
+1 . Las bandas magnéticas sólo contendrán un fichero cada una . 
+2 . Los ficheros sólo contendrán registros de la misma longitud . 
+3 . Los registros podrán ser bloqueados dentro del límite de bloque permitidos por los sistemas operativos . 
+4 . Los ficheros se crearán ya sea con etiqueta del sistema estándar OS/IBM 360 o 370 , ya sea sin ninguna etiqueta del sistema ; en este último caso , empezarán y terminarán por un tape mark estándar legible en OS/IBM 360 ó 370 . En caso de etiqueta de sistema estándar , el RECFM será VS , VBS , F , FB o U . 
+5 . El último registro de un fichero podrá consistir en un registro de la misma longitud que los demás , pero cuyo primer dato , A 1 , valga 999 , careciendo de significación los datos siguientes . 
+6 . Las bandas magnéticas se enviarán con las indicaciones siguientes , pegadas sobre la bobina : 
+a ) el DSNAME , el VCLUME ( SER ) , y el RECFM en caso de etiqueta de sistema estándar ; en los demás casos : el nombre del país de origen , el ejercicio contable y finalmente el número de entrega , 
+b ) la longitud de un registro en OCTETOS (1) o LRECL , 
+c ) la longitud de un bloque en OCTETOS (1) o BLKSIZE , 
+d ) el número de pistas y la densidad . 
+C . Contenido de los registros relativos a una explotación agrícola . 
+1 . Una explotación agrícola estará representada por 1 377 datos como máximo , correspondientes a : 
+487 datos fijos ( cf. Anexo I ) , seguidos de un número variable de grupos indivisibles de 10 datos . 
+Dicho número de grupos se indicará mediante el sexto dato fijo . 
+2 . Todos los datos relativos a una explotación figurarán en un mismo fichero , 
+- ya sea en un registro fijo de 1 377 palabras , con 89 grupos como máximo de datos variables , 
+- ya sea en registros fijos de 279 palabras ( cinco registros como máximo ) , enteramente llenos , salvo el último , que , en su caso , se completará con ceros , y como máximo con 88 grupos de datos variables ( ver cuadro que sigue ) . 
+3 . El primer dato de una explotación agrícola empezará un registro . El fin de zona no empleada en el último registro relativo a una explotación se llenará con ceros . 
+(1) El octeto vale 8 bits . 
+Forma de los registros 
+Número de registros por explotación ( cuarto dato ) * Número de secuencia del registro ( quinto dato ) * Contenido de los registros * Longitud de un registro * 
+* * Etiqueta de la explotación * Zona de datos fijos * Grupos de 10 datos de número variable * Ceros de relleno * Total de datos por registro * En bits * En bites * 
+* * Número de datos * Direcciones de datos * Número * Direcciones * Número * Direcciones * * * * * 
+Un registro por explotación 
+1 * 1 * 5 * 1 a 5 * 482 * 6 a 487 * 89 × 10 = 890 * 488 a 1 377 * - * 1 377 * 44 064 * 5 508 * 
+Varios registros por explotación 
+Cinco máximo * 1 * 5 * Uno a cinco * 274 * 6 a 279 * - * - * - * 279 * 8 928 * 1 116 * 
+Cinco máximo * 2 * 5 * Uno a cinco * 208 * 280 a 487 * ( 6 × 10 = 60 ) + 6 (1) * 488 a 553 * - * 279 * 8 928 * 1 116 * 
+Cinco máximo * 3 * 5 * Uno a cinco * - * - * 4 + ( 27 × 10 ) * 554 a 827 * - * 279 * 8 928 * 1 116 * 
+Cinco máximo * 4 * 5 * Uno a cinco * - * - * ( 27 × 10 ) + 4 (1) * 828 a 1 101 * - * 279 * 8 928 * 1 116 * 
+Cinco máximo * 5 * 5 * Uno a cinco * - * - * 6 + ( 26 × 10 ) * 1 102 a 1 367 * 8 * 279 * 8 928 * 1 116 * 
+(1) Datos pertenecientes a un grupo de 10 datos , solapando dos registros sucesivos , o si se trata del último registro utilizado por una explotación , zonas rellenas de ceros . 

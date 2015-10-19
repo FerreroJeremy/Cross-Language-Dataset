@@ -1,0 +1,1328 @@
+Recomendaci%oacute%n de la Comisi%oacute%n, de 15 de diciembre de 2005 , sobre Directrices para la aplicaci%oacute%n del Reglamento (Euratom) n o 302/2005, relativo a la aplicaci%oacute%n del control de seguridad de Euratom [notificada con el n%uacute%mero C(2005) 5127] 
+Recomendación de la Comisión 
+de 15 de diciembre de 2005 
+sobre Directrices para la aplicación del Reglamento (Euratom) no 302/2005, relativo a la aplicación del control de seguridad de Euratom 
+[notificada con el número C(2005) 5127] 
+(2006/40/Euratom) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Reglamento (Euratom) no 302/2005 de la Comisión, de 8 de febrero de 2005, relativo a la aplicación del control de seguridad de Euratom [1], y, en particular, su artículo 37, 
+Considerando lo siguiente: 
+(1) El Reglamento (Euratom) no 302/2005 define la naturaleza y el alcance de los requisitos establecidos en los artículos 77, 78, 79 y 81 del Tratado constitutivo de la Comunidad Europea de la Energía Atómica. 
+(2) De conformidad con la declaración del Consejo y de la Comisión aneja a dicho Reglamento, la Comisión debe adoptar y publicar unas Directrices que constituirán para los operadores orientaciones y guías no vinculantes destinadas a facilitar la aplicación del Reglamento (Euratom) no 302/2005. 
+(3) Estas Directrices deben recoger las explicaciones ofrecidas y los acuerdos alcanzados durante las discusiones bilaterales entre la Comisión y los diferentes interesados, sin generar derechos ni obligaciones legales. 
+(4) Basándose en la evolución que se registre en el ámbito del control de seguridad, la Comisión debe poder modificar, según proceda, la presente Recomendación, previa consulta a las partes interesadas y los Estados miembros. 
+RECOMIENDA: 
+Que para la aplicación del Reglamento (Euratom) no 302/2005 se sigan las Directrices establecidas en el anexo. Se entiende que, al seguir estas Directrices, las personas, empresas y Estados miembros mencionados en el artículo 3, apartados 1 y 2, del Reglamento cumplen las disposiciones de este Reglamento a las que tales Directrices se refieren. 
+Hecho en Bruselas, el 15 de diciembre de 2005. 
+Por la Comisión 
+Andris Piebalgs 
+Miembro de la Comisión 
+[1] DO L 54 de 28.2.2005, p. 1. 
+-------------------------------------------------- 
+ÍNDICE 
+Recomendación 2006/40/Euratom de la Comisión sobre Directrices para la aplicación del Reglamento (Euratom) no 302/2005, relativo a la aplicación del control de seguridad de Euratom 
+ANEXO 
+1. Estructura del documento 
+2. Directrices por partes del Reglamento 
+2.1. Capítulo I: Ámbito de aplicación y definiciones (artículos 1 y 2) 
+2.2. Capítulo II: Características técnicas fundamentales y disposiciones particulares de control (artículos 2 a 6) 
+2.2.1. Características técnicas fundamentales (artículo 3, apartado 1) 
+2.2.2. Declaración sobre el emplazamiento (artículo 3, apartados 2 y 3) 
+2.2.3. Transmisión electrónica 
+2.2.4. Plazos (artículo 4) 
+2.2.5. Programa de actividades (artículo 5 y anexo XI) 
+2.2.6. Disposiciones particulares en materia de control de seguridad (artículo 6) 
+2.3. Capítulo III: Contabilidad del material nuclear 
+2.3.1. Sistema de contabilidad (artículo 7) 
+2.3.2. Registros de operaciones (artículo 8) 
+2.3.3. Registros e informes contables (artículos 9 y 10) 
+2.3.4. Informe sobre cambios en el inventario (ICI), informe del balance de materiales (IBM) y listado de los inventarios físicos (LIF) (artículos 12 y 13) 
+2.3.5. Anexos III, IV y V 
+2.3.6. Obligaciones de control particulares (artículo 17) 
+2.3.7. Excepciones 
+2.4. Capítulo IV: Transferencias entre Estados (artículos 20 a 23) 
+2.5. Capítulo V: Disposiciones específicas (artículos 24 a 33) 
+2.5.1. Transmisión de información y datos al OIEA (artículo 29) 
+2.5.2. Disposiciones sobre el material nuclear contenido en los residuos (artículos 30 a 32 y anexos XII a XV) 
+2.6. Capítulo VII: Disposiciones finales (artículos 35 a 40) 
+3. Resumen de las obligaciones sobre información (quién, cuándo y qué) 
+4. Apéndices 
+4.1. El esquema XML 
+4.2. El algoritmo CRC 
+4.3. Lista de direcciones de Internet 
+ANEXO 
+1. ESTRUCTURA DEL DOCUMENTO 
+Estas Directrices se presentan según los capítulos del Reglamento, estando desglosadas por artículos y, en su caso, por los anexos correspondientes. 
+Dado que la mayoría de los posibles usuarios de este documento (es decir, los responsables de la contabilidad de las instalaciones nucleares) conocen bien las normas sobre contabilidad y presentación de informes acerca de materiales nucleares establecidas en el Reglamento (Euratom) no 3227/76 de la Comisión [1], no se ha considerado necesario tratar los artículos respecto a los cuales el nuevo Reglamento no introduce cambios. 
+Por el contrario, en lo que se refiere a las partes del Reglamento en las que se han introducido innovaciones sustanciales, las Directrices analizan y explican detalladamente la información que se espera recibir, aportando ejemplos pormenorizados. 
+Estas explicaciones y ejemplo detallados también serán útiles para los operadores de instalaciones nucleares de los países adherentes a la Unión Europea. 
+En algunas de las explicaciones se dan enlaces con direcciones de Internet que permitirán a los usuarios obtener más información sobre el tema. 
+Las Directrices no pueden abordar todos los posibles problemas relacionados con la aplicación del nuevo Reglamento y, muy probablemente, habrá cuestiones concretas que requerirán una discusión más a fondo entre la Comisión y los operadores. 
+2. DIRECTRICES POR PARTES DEL REGLAMENTO 
+2.1. Capítulo I: Ámbito de aplicación y definiciones (artículos 1 y 2) 
+El artículo 1 excluye del ámbito de aplicación del Reglamento a los poseedores de productos finales utilizados para fines no nucleares y que incluyan materiales nucleares prácticamente no recuperables. 
+Como ejemplos de productos finales pueden citarse: esmaltes decorativos utilizados en cerámica, colorantes para el vidrio, recubrimientos de filamentos de lámparas fluorescentes, pigmentos para pinturas, mantillas para lámparas de gas, etc. 
+Todos los demás poseedores de materiales nucleares están obligados a presentar información en virtud del Reglamento. 
+Las definiciones del artículo 2 se comentarán, si es necesario, en las partes correspondientes de estas Directrices. 
+2.2. Capítulo II: Características técnicas fundamentales y disposiciones particulares de control (artículos 2 a 6) 
+2.2.1. Características técnicas fundamentales (artículo 3, apartado 1) 
+Características técnicas fundamentales (BTC por sus siglas en inglés) de las instalaciones actuales: no hay cambios de importancia respecto a las características indicadas en el Reglamento (Euratom) no 3227/76, excepto la declaración de uso, que debe presentarse mediante carta en un plazo de 120 días de la entrada en vigor del Protocolo adicional 1999/188/Euratom en cada Estado miembro. 
+Las BTC de las instalaciones tienen que dar cuenta de la situación real de la instalación. Por tanto, tendrán que actualizarse cuando sea necesario. 
+En este sentido, puede aprovecharse la oportunidad que representa la entrada en vigor del nuevo Reglamento para actualizarlas o modificarlas. Las modificaciones menores pueden comunicarse a la Comisión por carta, indicando claramente la versión de las características que se actualiza. 
+Se recuerda que el sistema de control de seguridad de Euratom establece los tipos de instalaciones que se definen a continuación: 
+- Instalación activa: instalación en la que existen materiales nucleares y donde se llevan a cabo actividades; esta categoría incluye también las instalaciones en construcción y las que ya tienen un código ZBM pero no han recibido todavía materiales nucleares. 
+- Instalación parada: instalación en la que han cesado las operaciones pero donde se guardan todavía materiales nucleares; estas instalaciones son una subcategoría de las activas y tienen las mismas obligaciones que éstas en cuanto a presentación de informes. 
+- Instalación cerrada: instalación en la que han cesado las operaciones y se han retirado los materiales nucleares, habiendo verificado los inspectores que está vacía, pero que no ha sido clausurada. 
+- Instalación clausurada: instalación donde se han retirado o inutilizado las estructuras residuales y el equipo esencial para su utilización de manera que no se empleen para almacenar ni puedan usarse ya para manipular, tratar o utilizar materiales nucleares. 
+- Aquellos casos que no puedan clasificarse fácilmente en una de las categorías recibirán un indicador de categoría preliminar "S" hasta que se les haya encontrado una solución. 
+Téngase en cuenta que, cuando una instalación se clasifica como "cerrada", ya no tiene que presentar informes de contabilidad según este Reglamento. Sin embargo, puede persistir la obligación de presentar el anexo II, porque una instalación cerrada todavía forma parte de un emplazamiento hasta que se haya confirmado su clasificación como instalación clausurada. Generalmente, la Comisión envía una carta al operador en la que especifica este extremo. 
+Características técnicas fundamentales para las instalaciones de tratamiento o almacenamiento de residuos: véase el punto 2.5.1 sobre residuos. 
+2.2.2. Declaración sobre el emplazamiento (artículo 3, apartados 2 y 3) 
+2.2.2.1. Representante del emplazamiento 
+Los Estados designan un "representante del emplazamiento", cuyo nombre tienen que notificar a la Comisión en un plazo de 30 días a partir de la entrada en vigor del Protocolo adicional. 
+Este representante es el "enlace", para la transmisión de la información sobre el emplazamiento, entre la Comisión y el operador u operadores de la instalación o instalaciones que constituyen el emplazamiento. 
+Las funciones del representante del emplazamiento en relación con el anexo II son las siguientes [2]: 
+- recogida de información respecto a todos los edificios del emplazamiento, 
+- transmisión de la declaración sobre el emplazamiento a la Dirección General de Energía y Transportes (DG TREN), 
+- actuación como punto de contacto para la DG TREN en caso de consultas. 
+2.2.2.2. Formato de la declaración sobre el emplazamiento 
+Se recomienda presentar la declaración sobre el emplazamiento en formato electrónico utilizando el programa CAPE. En el documento CAPE Help File se detallan las instrucciones para la utilización de este programa, que puede obtenerse a través de la Comisión. 
+2.2.2.3. Contenido de la declaración sobre el emplazamiento según el anexo II 
+El emplazamiento tiene un papel fundamental en la declaración ampliada establecida en el Protocolo adicional, ya que éste obliga a la presentación de información mucho más detallada que la indicada en las BTC. La definición de límite del emplazamiento, a su vez, tiene una influencia directa en los derechos de acceso complementario del Organismo, que son de gran importancia, ya que permiten el acceso a todos los edificios de un emplazamiento y, en principio, a cualquier local dentro de un edificio, a menudo, con una antelación sólo de 2 horas (únicamente en combinación con una inspección habitual de salvaguardias en el emplazamiento). Ello impone nuevas obligaciones a los propietarios de los edificios. 
+Por tanto, los emplazamientos tienen que definirse cuidadosamente. Deben ser suficientemente amplios para que el OIEA (Organismo Internacional de Energía Atómica) pueda llegar a la conclusión de que no se llevan a cabo actividades nucleares ni existen materiales nucleares no declarados. Sin embargo, de conformidad con el espíritu del Protocolo adicional, no hay razón para incluir en el emplazamiento edificios que no contribuyan a su misión nuclear. 
+¿Qué constituye un emplazamiento? 
+El núcleo de un emplazamiento es siempre una instalación. Varias instalaciones pueden compartir un emplazamiento, pero un emplazamiento no puede existir sin una instalación. 
+Edificios ubicados conjuntamente 
+1) Un enfoque pragmático y razonable para interpretar la frase "las unidades ubicadas conjuntamente con las instalaciones para la prestación de servicios esenciales" podría ser incluir dentro de los límites del emplazamiento los edificios en las proximidades de una instalación nuclear que estén relacionados funcionalmente con la misión nuclear de éste. En consecuencia, por "servicios esenciales" puede entenderse celdas calientes; instalaciones de tratamiento, almacenamiento y evacuación de residuos; y edificios relacionados con actividades especificadas en el anexo 1 del Protocolo adicional que sean necesarios para la misión nuclear del emplazamiento. Éstos son edificios que, en principio, podrían servir para ocultar actividades clandestinas. 
+2) Otros servicios, como los de abastecimiento de agua, gas o electricidad, los de apoyo científico y de ingeniería, y los de informática, así como algunos servicios administrativos y de personal, por ejemplo, formación, deben considerarse caso por caso e incluirse si prestan servicio exclusivamente a la instalación nuclear del emplazamiento. 
+3) La propiedad no sería un criterio para la exclusión o inclusión de edificios que alojen servicios esenciales. Por lo tanto, en un mismo emplazamiento pueden existir diferentes operadores, propietarios o empresas. El "representante del emplazamiento" sería responsable de recoger las descripciones de los diferentes edificios y de remitirlas a la DG TREN. 
+4) La cuestión de qué se entiende por "edificio" debe contestarse de manera pragmática. Podría bastar una descripción mediante una sola palabra (por ejemplo, "aparcamiento"). Los edificios subterráneos tienen que declararse como todos los demás edificios y hay que indicar la superficie, el número de plantas, etc. 
+Límites del emplazamiento 
+1) No siempre es fácil entender por qué un cierto edificio no se incluye dentro de los límites oficiales del emplazamiento cuando está ubicado en las proximidades de una instalación. Por tanto, puede ser una buena práctica complementar la declaración con documentación justificativa en la que se expliquen las funciones de estos edificios y las razones por las que no deben incluirse en la definición oficial del emplazamiento prevista en las "Directrices" [3] del OIEA para la presentación de información según lo dispuesto en la sección II.12. 
+2) Aunque sea deseable que un emplazamiento consista en una zona continua, la relación funcional entre los edificios puede exigir que esté compuesto de dos zonas separadas. En este caso sería una buena práctica complementar la declaración con un documento que detalle la función de los edificios que se encuentran entre las zonas separadas y que explique las razones por las que no se incluyen en el emplazamiento, aun siendo adyacentes. 
+3) Los edificios declarados en las BTC como parte de una ZBM, por ejemplo, los que alojen o hayan alojado un punto clave de medición, aun en el caso de que ya no contengan materiales nucleares, se entiende que forman parte automáticamente del emplazamiento. En particular, los centros de investigación a menudo tienen, como mínimo, una de estas ZBM, que contiene o está autorizada para contener pequeñas cantidades de materiales nucleares dispersos por todo el centro. Concentrar estos materiales en un lugar y recoger esta modificación en las BTC puede simplificar considerablemente la definición del emplazamiento. Cualquier discrepancia entre la declaración del emplazamiento y las BTC daría lugar automáticamente, como mínimo, a solicitudes de clarificación y ampliación de la información. 
+4) Aunque la declaración sobre el emplazamiento, según lo establecido en el anexo II del Reglamento (Euratom) no 302/2005 [4], debe incluir la descripción de cada edificio de éste, las Directrices sobre presentación de declaraciones (véase la nota 3) permiten que consista en una única sala. Se recomienda que los emplazamientos correspondientes a instalaciones en las que se desarrollen actividades relacionadas con el ciclo del combustible no sean más pequeños que un edificio, mientras que, por el contrario, los correspondientes a instalaciones no nucleares que utilicen menos de 1 kilogramo efectivo de materiales nucleares (LOF en su sigla inglesa) [5] sí que pueden serlo. 
+5) Conviene destacar que la existencia de una valla no delimita automáticamente los límites del emplazamiento. 
+2.2.2.4. Instalaciones cerradas y clausuradas 
+1) De la definición de emplazamiento dada en el artículo 2, apartado 21, se deduce que una instalación cerrada constituye un emplazamiento mientras no esté clausurada. 
+2) Una vez que se confirma que la instalación está clausurada [6], deja de ser el núcleo del emplazamiento. 
+3) Una instalación cerrada que hubiese tenido habitualmente un inventario de menos de 1 kilogramo efectivo de materiales nucleares (LOF) sólo constituiría un emplazamiento si contuviese una celda caliente o si hubiese participado en actividades relacionadas con la conversión, enriquecimiento, fabricación o reprocesado de combustible. 
+4) Por consiguiente, una LOF no nuclear (NN-LOF en su sigla inglesa) cerrada no constituye un emplazamiento per se. Sin embargo, no se excluye que pueda formar parte de un emplazamiento formado en torno a otra instalación. Una NN-LOF cerrada puede considerarse clausurada si no incluye una celda caliente. 
+2.2.2.5. Instalaciones activas con menos de 1 kilogramo efectivo (LOF) 
+Introducción 
+Según la utilización de los materiales nucleares, las LOF pueden dividirse en dos categorías: LOF nucleares y LOF no nucleares. En las NN-LOF el material nuclear se usa con fines no relacionados con el ciclo del combustible nuclear. 
+En la Unión Europea (UE) existe una NN-LOF virtual: la ZBM "escoba" (CAM en su sigla inglesa), que incluye un gran número de poseedores, cada uno de los cuales tiene cantidades muy pequeñas de materiales nucleares. 
+El régimen de "exención" según el Protocolo adicional y sus implicaciones 
+1) Con respecto a los materiales que posea una ZBM a la que se haya concedido una excepción en virtud del Reglamento (Euratom) no 302/2005, se solicitará una exención en virtud del Acuerdo de salvaguardias con el OIEA. 
+2) Las instalaciones que posean materiales nucleares que estén exentos según el Acuerdo de salvaguardias ya no constituirían el núcleo de un emplazamiento. Por tanto, no sería necesario presentar el informe a que se refiere el anexo II del Reglamento (Euratom) no 302/2005. 
+2.2.2.6. Resumen 
+Casos en que no es preciso presentar el informe indicado en el anexo II: 
+- instalaciones que posean sólo materiales exentos, 
+- instalaciones clausuradas, 
+- NN-LOF cerradas sin celda caliente. 
+2.2.3. Transmisión electrónica 
+Además de la obligación de transmitir por vía electrónica las BTC y las declaraciones sobre el emplazamiento, se mantendrá la práctica actual de conservar en la instalación, bajo un precinto de control de seguridad, la información sobre el diseño de la instalación que se considere especialmente delicada. Entre los medios de transmisión electrónica se incluyen el correo electrónico, los disquetes o las redes seguras. 
+2.2.4. Plazos (artículo 4) 
+En el cuadro titulado "Plazos: Quién, cuándo y qué" (capítulo 3) se resumen las obligaciones sobre presentación de informes y los plazos correspondientes. 
+Téngase en cuenta que, en determinadas circunstancias, el operador puede solicitar a la Comisión una prórroga del plazo para la presentación de las BTC. En este caso, la Comisión investigará las circunstancias y comunicará su decisión al operador. 
+2.2.5. Programa de actividades (artículo 5 y anexo XI) 
+Se pide el mismo grado de detalle y precisión que impone actualmente el Reglamento (Euratom) no 3227/76. Si, durante el año, se dan cambios en el programa de actividades que sean dignos de mención (por ejemplo, parada del reactor durante un período más largo, no recepción de nuevos envíos de materiales, cambio en la fecha de la EIF, etc.), bastará enviar una simple carta a la Comisión en la que se haga una referencia clara al programa de actividades. 
+2.2.6. Disposiciones particulares en materia de control de seguridad (artículo 6) 
+Conviene señalar que las disposiciones particulares en materia de control de seguridad (PSP en su sigla inglesa) establecidas por el Reglamento (Euratom) no 3227/76 permanecen en vigor tal como están formuladas. 
+Los cambios introducidos por el Reglamento (Euratom) no 302/2005 se aplicarán a las actuales PSP mediante una Decisión global de la Comisión, tomada de conformidad con el nuevo Reglamento y que enumere en su anexo todas las modificaciones que deberán hacerse en todas y cada una de estas disposiciones particulares. El principio de consulta a los Estados miembros y operadores (tal como dispone el artículo 6, apartado 1) se observará notificando al operador y al Estado miembro afectados las partes correspondientes de la Decisión global, en forma de proyecto antes de su aprobación y en su forma final después de la aprobación. Si es necesario, se organizarán contactos directos o reuniones con las partes afectadas. 
+Si no se han aprobado PSP, se aplicarán las disposiciones generales del Reglamento (Euratom) no 302/2005. Lo dispuesto en las PSP prevalecerá sobre los requisitos establecidos en el Reglamento (Euratom) no 302/2005. 
+2.3. Capítulo III: Contabilidad del material nuclear 
+2.3.1. Sistema de contabilidad (artículo 7) 
+El sistema de contabilidad y los registros de operaciones que deben mantener los operadores según este Reglamento son los mismos que los previstos en el Reglamento (Euratom) no 3227/76. 
+2.3.2. Registros de operaciones (artículo 8) 
+No está previsto ningún cambio en las prácticas actuales en lo que se refiere a registros de operaciones. Ejemplos de registros de operaciones: 
+- resultados de las mediciones, 
+- resultados de los análisis, 
+- resultados de la evaluación, 
+- curvas de calibración de depósitos, 
+- transferencias internas, 
+- cálculo del quemado, 
+- historial de potencia, 
+- láminas de embalaje, 
+- orden de entrega. 
+Todos los registros anteriores deberán conservarse durante un período de cinco años, o más si así lo especifican las PSP. 
+En cuanto a la calidad de las medidas en las que se basan los registros, hay que remitirse a los valores internacionales objetivo (VIO), establecidos bajo los auspicios del OIEA (documento STR-327 de abril de 2001) con la participación de Euratom y la ESARDA (European Safeguards Research and Development Association). Los IVO están destinados a los operadores de las instalaciones como referencia de la calidad de las medidas que puede conseguirse en la contabilidad de materiales nucleares. 
+También está previsto que cumplan estos valores las plantas más antiguas. 
+Según lo dispuesto en el artículo 8, letra b), las instalaciones han de tener una lista de los artículos del inventario, actualizada en la mayor medida posible, y saber dónde se encuentran. A partir de esta lista, podría establecerse el inventario contable en cualquier momento. 
+Se entiende que esta lista, aunque para instalaciones concretas (por ejemplo, reactores o plantas de almacenamiento) represente la realidad física, para las zonas de procesado de las instalaciones de manejo de materiales a granel ha de basarse en los valores de los artículos aportados al proceso o en los resultados de los análisis o mediciones preliminares. La lista será completa, debiendo incorporar cualquier modificación, y se utilizará para la verificación del inventario físico. 
+2.3.3. Registros e informes contables (artículos 9 y 10) 
+- Con arreglo a la descripción del sistema de contabilidad detallado en las BTC, los registros contables tienen que incluir todos los cambios en el inventario, las fechas apropiadas y las cantidades exactas contabilizadas internamente por el operador, así como los cambios de categoría, obligación y tipo de inventario, de tal manera que en cualquier momento pueda elaborarse el inventario contable del operador. 
+- Si el inventario es estático o experimenta menos de diez variaciones al año, los operadores pueden solicitar una excepción de la obligación de transmisión electrónica de informes. 
+- Si la información suplementaria solicitada por la Comisión (artículo 10) exige averiguaciones complejas, deberá enviarse una respuesta preliminar en un plazo de tres semanas. 
+2.3.4. Informe sobre cambios en el inventario (ICI), informe del balance de materiales (IBM) y listado de los inventarios físicos (LIF) (artículos 12 y 13) 
+En estos artículos, por días se entenderá días naturales. 
+- La frecuencia de la transmisión del ICI a la Comisión, especificada en las PSP de una instalación, puede ser diferente de la frecuencia mensual establecida en este artículo. Por ejemplo, para instalaciones sin cambios en el inventario o con pocos cambios, la frecuencia podría ser trimestral o anual. 
+- Las normas sobre transmisión del ICI en relación con el LIF y el IBM, establecidas en el Reglamento (Euratom) no 302/2005, han sido modificadas para resolver algunas discrepancias con el OIEA. Se dan casos en que el listado del inventario físico (LIF) y los informes del balance de materiales (IBM) se envían a Euratom (y posteriormente se remiten a Viena) sin el correspondiente ICI. 
+Por tanto, el período del balance de materiales permanece abierto hasta que llega el ICI. Esta situación da lugar a avisos de error por parte del OIEA, que normalmente se resuelven con la llegada de este informe. 
+Para eliminar esta incoherencia, se requieren dos ICI cuando la fecha de la EIF no sea el último día del mes: 
+- el primero, desde el primer día del mes hasta la fecha de la EIF, 
+- el segundo, desde la fecha EIF + 1 día hasta el final del mes. 
+Los plazos para la transmisión de estos dos ICI son: 
+- el plazo para la transmisión del segundo ICI es el especificado en el artículo 12, apartado 1, es decir, 15 días a partir del final del mes en el que ocurran los cambios en el inventario, 
+- el plazo para la transmisión del primer ICI depende de la fecha de la EIF: 
+- si la fecha de la EIF está entre el 1 y el 15 del mes, los informes IBM y LIF tienen que transmitirse a la Comisión, al menos, dentro de los 30 días siguientes a la fecha de la EIF. Eso significa que siempre llegan a la Comisión antes del segundo ICI. Por eso, en este caso, el primer ICI se enviará junto con los informes IBM y LIF para evitar discordancias en las cuentas, 
+- si la fecha EIF está entre los días 16 y 31 del mes, de conformidad con el plazo para la transmisión de los informes IBM y LIF, estos informes pueden llegar a la Comisión bien antes del segundo ICI (y entonces se aplica lo indicado anteriormente), bien después del segundo ICI. En este último caso, el primer ICI se enviará junto con el segundo para garantizar que este segundo informe no llegue antes que el primero y evitar incoherencias en los balances de materiales. 
+Si así lo establecen las PSP para la instalación, podrán agruparse los cambios menores en el inventario. Asimismo, podrán adjuntarse comentarios al informe sobre los cambios en el inventario a fin de explicar los cambios producidos. 
+Ejemplo: Un operador toma una muestra diaria de unos gramos de material nuclear de la ZBM 1 para un análisis de rutina y la envía a su laboratorio situado en la ZBM 2 de la misma instalación. 
+En vez de notificar 30 envíos de un artículo de la ZBM 1 a la ZBM 2, el operador podría notificar al final del mes un envío de 30 artículos indicando en el campo de comentarios "suma mensual de transferencias para análisis de rutina". 
+- En cuanto al campo no 40, "Comment", del ICI, conviene señalar que éste puede usarse para comunicar a la Comisión información o explicaciones complementarias relacionadas con el cambio en el inventario. Este campo sustituye al denominado "Notas breves" del Reglamento (Euratom) no 3227/76. 
+2.3.5. Anexos III, IV y V 
+Los procedimientos para la transmisión electrónica de datos y cualquier cambio en estos serán acordados entre la Comisión y la persona, empresa o entidad correspondiente. Estos procedimientos se ajustarán a los requisitos sobre seguridad de los Estados miembros para la transmisión de esta información y asegurarán la notificación o transmisión adecuadas de la información a las autoridades de los Estados miembros. 
+2.3.5.1. Las disposiciones siguientes se aplican a los tres anexos de "informes" (anexos III, IV y V) 
+Formato con etiquetas 
+El Reglamento (Euratom) no 302/2005 establece la presentación de informes en un formato universal mediante etiquetas. La Comisión espera que los operadores utilicen, siempre que sea posible, el formato XML. 
+Los informes contables presentados por el operador en XML tendrán que utilizar el esquema XML del apéndice 1, que puede descargarse también de la siguiente dirección de Internet: 
+http://forum.europa.eu.int 
+En la dirección de Internet http://www.xml.org puede encontrarse más información sobre el formato XML. 
+Convención sobre la denominación de los archivos de los informes de contabilidad 
+Cada informe va identificado de manera inequívoca por la información contenida en su encabezamiento. Todos los informes de la misma ZBM o INSTALACIÓN pueden presentarse en un único archivo. El orden de los informes dentro del archivo puede ser aleatorio. El archivo debe denominarse de la siguiente manera: 
+XXXXMMYYYY-TC 
+XXXX: código de la instalación, código del grupo o cualquier otro código asignado por Euratom; 
+MM: referencia del mes contabilizado; 
+YYYY: referencia del año contabilizado; 
+T: tipo de informe ("X", si hay diferentes tipos de informes); 
+C: número de secuencia del archivo cuando se envíe más de un archivo con informes por mes, independientemente del número y tipo de informes que contenga (por ejemplo, I1 e I2 para dos informes sobre cambios en el inventario del mismo mes; P1, P2 y P3 para tres LIF del mismo mes; y M1 y M2 para dos IBM). 
+Ejemplos: 
+1) Designación del archivo de la ZBM XYWZ con el ICI de febrero de 2006 
+Designación del archivo: XYWZ022006-I1 
+2) ZBM XYWZ con una EIF el último día de febrero de 2006 y que contenga en único archivo el ICI, el LIF y el IBM 
+Designación del archivo: XYWZ022006-X1 
+3) ZBM XYWZ con una EIF de mediados de febrero de 2006 y que contenga en un primer archivo el ICI desde el primer día del mes hasta la fecha de la EIF, el LIF y el IBM; y posteriormente en un segundo archivo el ICI desde la fecha de la EIF hasta finales de febrero 
+Designación del primer archivo: XYWZ022006-X1 
+Designación del segundo archivo: XYWZ022006-I2 
+4) Instalación IXYZ que comunica en un primer archivo los ICI de febrero para dos de sus ZBM y luego, en un segundo archivo, los ICI de febrero para otras tres de sus ZBM 
+Designación del primer archivo: IXYWZ022006-I1 
+Designación del segundo archivo: IXYWZ022006-I2 
+Transmisión de los archivos con los informes contables 
+Los archivos con los informes contables pueden enviarse a Euratom por correo ordinario o por vía electrónica. 
+Según lo establecido en el artículo 35, debe llegarse a un acuerdo sobre el mecanismo que tiene que utilizarse para garantizar la seguridad en la transmisión de la información mediante un sistema de cifrado y firma electrónica de estos informes. 
+Si se envían por correo ordinario los archivos de los informes contables tienen que remitirse a la siguiente dirección: 
+Comisión Europea 
+Euratom Safeguards 
+L-2920 Luxembourg 
+Transmisión electrónica de los archivos de los informes de contabilidad 
+En caso de transmisión electrónica de los archivos de los informes contables, éstos deben enviarse por correo electrónico a la siguiente dirección: 
+Safeguards-reporting@cec.eu.int 
+El título del mensaje de los informes contables debe tener la siguiente estructura: 
+MBA:%lt%XXXX%gt%#Period:%lt%MMYYYY%gt%#Nfiles:%lt%N%gt% 
+XXXX: código de la instalación, código del grupo o cualquier otro código asignado por Euratom; 
+MM: referencia del mes contabilizado; 
+YYYY: referencia del año contabilizado; 
+N: número de archivos de informes contables anejos al mensaje. 
+Ejemplos: 
+5) Asunto del mensaje de la ZBM XYWZ para el envío del ICI de febrero de 2006 
+Asunto: MBA:XYWZ#Period:022006#Nfiles:1 
+6) ZBM XYWZ con una EIF el último día de febrero de 2006 para el envío de un solo archivo con el ICI, el LIF y el IBM 
+Asunto: MBA:XYWZ#Period:022006#Nfiles:1 
+7) ZBM XYWZ con una EIF a mediados de febrero de 2006 para un primer envío de un único archivo con el ICI desde el primer día del mes hasta la fecha de la EIF, el LIF y el IBM; y posteriormente un segundo envío de un archivo con el ICI desde la fecha de la EIF hasta finales de febrero 
+Primer asunto: MBA:XYWZ#Period:022006#Nfiles:1 
+Segundo asunto: MBA:XYWZ#Period:022006#Nfiles:1 
+8) Instalación IXYZ que envía juntos un primer archivo con los ICI de febrero para dos de sus ZBM y un segundo archivo con los ICI de febrero para otras tres de sus ZBM 
+Asunto: MBA:XYWZ#Period:022006#Nfiles:2 
+El remitente recibirá automáticamente un acuse de recibo del buzón de presentación de informes de Euratom. 
+Numeración de los informes y las líneas 
+Todos los informes irán numerados consecutivamente por ZBM sea cual sea el tipo de informe. Cada línea tendrá su propio número de secuencia, que será único, empezando a partir del 1 en cada informe. 
+Ejemplo: Notificación del ICI de febrero de la ZBM XYWZ, con una fecha de la EIF de 14 de marzo 
+- el ICI de febrero llevará el número de informe X (por ejemplo, 25), 
+- el ICI de marzo, desde el primer día hasta la fecha de la EIF, llevará el número de informe X + 1 (es decir, 26), 
+- LIF, número de informe X + 2 (es decir, 27), 
+- ZBM, número de informe X + 3 (es decir, 28), 
+- ICI de marzo, desde el día siguiente a la fecha de la EIF hasta el final del mes, X + 4 (es decir, 29). 
+Mecanismo de corrección 
+Las correcciones de tipo "D" y "A" se notificarán haciendo referencia a la línea que deba corregirse, especificada según lo indicado en los campos "Previous report", "Previous line" y "Previous CRC" (cycling redundancy check digit o dígito de control por redundancia cíclica) para la comprobación de la integridad de los datos. 
+Convención sobre el signo y la notación decimal 
+El signo en los campos de los pesos/artículos precederá a las cifras. 
+Los decimales se separarán mediante un punto ("."). 
+Campos de comprobación de la integridad de los datos 
+Los campos "Line count" y "CRC" se han introducido para garantizar la integridad de los datos notificados por vía electrónica. 
+Para cada línea se dará una cifra CRC, que será una suma de verificación (checksum) calculada sobre un conjunto de datos basado en un CRC según lo descrito en la norma ISO 3309. La suma de verificación resultante tiene (4) octetos y es una firma digital que representa los datos a partir de los cuales se obtiene este valor. Para cada línea de un informe, el CRC se calcula a partir de la cadena resultante de unir todos los valores de todos los campos de la línea, incluidos los pertenecientes al encabezamiento del informe ("Report number", "Line count", etc.), tomados siguiendo el orden de la numeración del campo "etiqueta". Naturalmente el campo CRC no se tendrá en cuenta para el cálculo. 
+Para cada campo que se tenga en cuenta, el valor se considera una cadena. Por ejemplo, "Report Number" es un número que se tomará como una cadena. 
+Para los campos de fechas, el formato que se usará para el cálculo del CRC es "ddmmyyyy". 
+El CRC asociado a una línea notificada permitirá verificar si el registro se ha transmitido sin alteración de la información. 
+En el apéndice 2, y en la dirección de Internet que se indica a continuación, puede encontrarse un código muestra del cálculo del algoritmo CRC en el lenguaje informático "C": 
+http://forum.europa.eu.int 
+Ejemplo: 
+El CRC de la línea siguiente: 
+Etiqueta | Valor | 
+MBA | MB11 | 
+Report type | I | 
+Report date | 08102006 | 
+Report number | 6 | 
+Line count | 4 | 
+Start report | 01092006 | 
+End report | 30092006 | 
+Reporting person | bouchre | 
+Transaction ID | 8900 | 
+IC code | SD | 
+Batch | 3698 | 
+KMP | 1 | 
+Measurement | E | 
+Material form | OR | 
+Material container | C | 
+Material state | F | 
+MBA to | MB12 | 
+Line number | 1 | 
+Accounting date | 08092006 | 
+Items | – 1 | 
+Element category | D | 
+Element weight | – 100.23 | 
+Isotope | G | 
+Fissile weight | – 69.23 | 
+Obligation | A | 
+Advance notification | 5694 | 
+se calculará a partir de la cadena 
+MB11I08102006640109200630092006bouchre8900SD36981EORCFMB12108092006-1D-100.23G-69.23A5694 
+Lo cual da como resultado el valor CRC: 716598390 
+Cambios en los campos de los datos con respecto al Reglamento (Euratom) no 3227/76 
+El Reglamento (Euratom) no 302/2005 introduce muchos cambios en el número, el tipo, la extensión y el contenido de los datos notificados. A continuación se da un análisis detallado por anexo. 
+Asientos dentro del marco temporal de las declaraciones del Reglamento (Euratom) no 3227/76 
+Puede ocurrir que tengan que notificarse correcciones a líneas originalmente declaradas mediante el Reglamento (Euratom) no 3227/76. En ese caso: 
+- la supresión de líneas puede notificarse con arreglo al formato establecido por el Reglamento (Euratom) no 302/2005 utilizando el código de corrección = D, sin indicar valor en los campos "Previous report", "Previous line" y "Previous CRC", y rellenando los demás campos según corresponda (véanse los ejemplos 1 y 2 de la página …), 
+- las líneas que constituyan una adición pueden notificarse con arreglo al formato establecido por el Reglamento (Euratom) no 302/2005 utilizando el código de corrección = A y sin indicar valor en los campos "Previous report", "Previous line" y "Previous CRC", 
+las líneas nuevas con fecha original dentro del marco temporal de las declaraciones del Reglamento (Euratom) no 3227/76 pueden notificarse con arreglo al Reglamento (Euratom) no 302/2005 utilizando el código de corrección = L. 
+Téngase en cuenta que, una vez que una línea ha sido notificada utilizando el formato del Reglamento (Euratom) no 302/2005, puede borrarse utilizando el mecanismo de corrección previsto en este Reglamento, aunque se refiera a un período en que los informes se atenían al formato del Reglamento (Euratom) no 3227/76. 
+Las supresiones de líneas de datos isotópicos o notas breves declaradas con arreglo al Reglamento (Euratom) no 3227/76 no pueden hacerse utilizando el formato del Reglamento (Euratom) no 302/2005. 
+Servicio de asistencia 
+Existe un servicio de asistencia (Help Desk) en la dirección indicada a continuación que responde a consultas sobre contabilidad y aspectos técnicos. 
+safeguards-new-regulation@cec.eu.int 
+También se preparará un sitio web sobre preguntas más frecuentes, que se pondrá en: 
+http://forum.europa.eu.int 
+2.3.5.2. Anexo III: ICI 
+Principales diferencias respecto al Reglamento (Euratom) no 3227/76 
+ICI en la fecha de la EIF 
+Conviene prestar atención a los casos en que se transmitan dos informes sobre cambios en el inventario distintos, un ICI hasta la fecha de la EIF, para los meses en que se hace un inventario físico y esta fecha no es el último día del mes. En el punto 2.3.4 de estas Directrices se dan más detalles al respecto. 
+Ejemplo: 
+Suponiendo que la EIF haya tenido lugar el 12 de febrero, el operador nuclear tiene que facilitar a la Comisión: 
+- un ICI que contenga todos los cambios en el inventario desde el 1 de febrero hasta el 12 de febrero, 
+- un LIF y un IBM (como de costumbre), 
+- un ICI que contenga todos los cambios en el inventario desde el 13 de febrero hasta finales de febrero. 
+MF 
+El operador debe declarar un material no contabilizado utilizando en el ICI el código de cambio en el inventario ("IC code") MF después de la EIF y hacer referencia al período de la EIF utilizando el campo "PIT date". 
+Inventario contable por obligación 
+El inventario contable al final del ICI debe declararse por categoría y obligación. Sin embargo, esta disposición no afecta a los procedimientos acordados para la contabilidad agrupada (normalmente establecidos en la correspondencia e indicados en las PSP). La exigencia de presentar el inventario contable final desglosado por obligación no modifica los procedimientos de seguimiento del lote ya aplicados (por ejemplo, en instalaciones con material en forma de unidades). 
+Inventario contable (BA) frente a NC (sin cambios) 
+Si no ha habido cambios en el inventario durante el período de presentación de informes, la ZBM debe declarar el BA del último período, en vez de indicar "sin cambios" (NC), de conformidad con el Reglamento (Euratom) no 3227/76. 
+Cambios en los campos de datos del ICI 
+Los cuadros que figuran a continuación muestran las etiquetas que han de utilizarse en los ICI, las circunstancias en que deben usarse y si su utilización es preceptiva u optativa. 
+Los campos que añade el Reglamento (Euratom) no 302/2005 pueden clasificarse en las tres categorías siguientes: 
+1) Campos de información adicionales creados para resolver problemas surgidos al aplicar el Reglamento (Euratom) no 3227/76; por ejemplo, los relacionados con: 
+- la imposibilidad de identificar los materiales no contabilizados y relacionarlos con su LIF, 
+- la declaración del quemado para los reactores, 
+- la vinculación entre la notificación previa y la declaración ICI correspondiente, 
+- la identificación inequívoca de los poseedores dentro de una CAM; el uso múltiple de los mismos campos que crea confusión a ambas partes… 
+2) Nuevos campos de numeración/corrección que sólo existen para que puedan relacionarse de manera inequívoca las líneas de corrección con las líneas que deben corregirse. 
+3) Campos de control de calidad, que permitirán mejorar la calidad de los datos. 
+Etiqueta | Descripción del cambio | 
+Report date | Nuevo | 
+Report number | Nuevo | 
+Line count | Nuevo | 
+Transaction ID | Nuevo | 
+Batch | Tamaño incrementado (de 8 a 20 caracteres) | 
+Material form | Los dos caracteres iniciales del "campo de descripción de los materiales" del Reglamento (Euratom) no 3227/76 | 
+Material container | Tercer carácter del "campo de descripción de los materiales" del Reglamento (Euratom) no 3227/76 | 
+Material state | Último carácter del "campo de descripción de los materiales" del Reglamento (Euratom) no 3227/76 | 
+MBA from | Reglamento (Euratom) no 3227/76. ZBM correspondiente en caso de recepción | 
+MBA to | Reglamento (Euratom) no 3227/76. ZBM correspondiente en caso de envío | 
+Previous batch | Reglamento (Euratom) no 3227/76. Información correspondiente en caso de modificación del lote | 
+Previous category | Reglamento (Euratom) no 3227/76. Información correspondiente en caso de cambio de categoría | 
+Previous obligation | Reglamento (Euratom) no 3227/76. Información correspondiente en caso de cambio de obligación | 
+PIT date | Nuevo, debe usarse con el"IC code" MF | 
+Line number | Nuevo | 
+Element weight | Tamaño incrementado (de 9 a 24.3) | 
+Fissile weight | Tamaño incrementado (de 9 a 24.3) | 
+Isotopic composition | Nuevo, sustituye al campo "datos isotópicos", asiento I, del Reglamento (Euratom) no 3227/76 | 
+Obligation | Tamaño incrementado (de 1 a 2 caracteres) | 
+CAM code from | Reglamento (Euratom) no 3227/76. ZBM correspondiente en caso de recepción de un miembro de una CAM | 
+CAM code to | Reglamento (Euratom) no 3227/76. ZBM correspondiente en caso de envío a un miembro de una CAM | 
+Document | Nuevo | 
+Container ID | Nuevo | 
+Previous report | Nuevo | 
+Previous line | Nuevo | 
+Comment | Nuevo, sustituye a las "Notas breves" del Reglamento (Euratom) no 3227/76 | 
+Burn-up | Nuevo | 
+CRC | Nuevo | 
+Previous CRC | Nuevo | 
+Advance notification | Nuevo | 
+Campaign | Nuevo | 
+Reactor | Nuevo | 
+Error path | Nuevo | 
+Use | Campo del Reglamento (Euratom) no 3227/76 eliminado y sustituido por información en las BTC | 
+Entry | Campo del Reglamento (Euratom) no 3227/76 eliminado | 
+Unit | Se ha suprimido el campo que figuraba en el Reglamento (Euratom) no 3227/76 debido a la convención de declarar todos los pesos en gramos. | 
+Concise note (Entry "N") | La anotación del Reglamento (Euratom) no 3227/76 se ha sustituido por el campo "Comment" | 
+Isotopic (Entry "I") | La anotación del Reglamento (Euratom) no 3227/76 se ha sustituido por el campo "Isotopic composition" y se especifica en gramos en vez de mediante un porcentaje. | 
+Cambios en el contenido de los datos del ICI 
+Se han introducido nuevos códigos de cambios en el inventario ("IC codes") para dejar más clara la operación física relacionada con el registro contable. 
+La introducción de nuevos códigos permitirá la identificación en la sede de la operación física que haya generado la declaración, para analizar y evaluar más fácilmente, por medios informáticos, los diversos cambios en el inventario que se hubiesen declarado anteriormente bajo un único código (por ejemplo, CE, CB y CC en vez de solamente CC para cambio de categoría). 
+Etiqueta | Descripción del cambio | 
+IC code | NuevosTC, TE, FC, GA, CE, CB, BR, PR, SR, NP, NL, BJ, R5, TU, MFSuprimidosLD, WD, EU, DU, CU (declarados mediante una actualización de las BTC), NT (diferenciación entre NP y NL) y NC (sustituido por la notificación del inventario contable final del mes anterior con el "IC code" BA) | 
+Material form | NuevosU2, U3, U8, T2, NV, NG, NB, NC, NO | 
+Material state | SuprimidoR | 
+Correction | NuevoL | 
+Etiquetas del LIF 
+Los cuadros que figuran a continuación muestran las etiquetas que han de utilizarse en los ICI, las circunstancias en que deben usarse y si su utilización es preceptiva u optativa. 
+Las etiquetas en el nivel del informe son todas preceptivas. Deben figurar sólo una vez en cada informe en el encabezamiento del mismo. 
+Número de campo | Etiqueta | 
+1 | MBA | 
+2 | Report type | 
+3 | Report date | 
+4 | Report number | 
+5 | Line count | 
+6 | Start report | 
+7 | End report | 
+8 | Reporting person | 
+Etiquetas en el nivel de la línea 
+Número de campo | Etiqueta | Circunstancias | Nuevo asiento | Según la corrección | 
+L | A | D | 
+9 | Transaction ID | | M | M | M | M | 
+10 | IC code | | M | M | M | O | 
+11 | Batch | IC code distinto de (BJ, BA, MF) | M | M | M | O | 
+12 | KMP | IC code distinto de (BJ, BA, MF) | M | M | M | O | 
+13 | Measurement | IC code distinto de (BJ, BA, MF) | M | M | M | O | 
+14 | Material form | IC code distinto de (BJ, BA, MF) | M | M | M | O | 
+15 | Material container | IC code distinto de (BJ, BA, MF) | M | M | M | O | 
+16 | Material state | IC code distinto de (BJ, BA, MF) | M | M | M | O | 
+17 | MBA from | Sólo si IC Code es (RD, RF) | M | M | M | O | 
+18 | MBA to | Sólo si IC Code es (SD, SF) | M | M | M | O | 
+19 | Previous batch | IC Code = RB | M | M | M | O | 
+20 | Original date | IC code distinto de (BJ, BA, MF) | | M | M | O | 
+21 | PIT Date | IC Code = MF | M | M | M | O | 
+22 | Line number | | M | M | M | M | 
+23 | Accounting date | | M | M | M | M | 
+24 | Items | IC code distinto de (BJ, BA, MF) | M | M | M | O | 
+25 | Element category | | M | M | M | O | 
+26 | Element weight | | M | M | M | O | 
+27 | Isotope | Si Element Category es H, L o con arreglo a las PSP | M | M | M | O | 
+28 | Fissile weight | Si se facilita Isotope | M | M | M | O | 
+29 | Isotopic composition | Si se especifica en las PSP | M | M | M | O | 
+30 | Obligation | | M | M | M | O | 
+31 | Previous category | Sólo si IC Code es (CE, CC, CB) | M | M | M | O | 
+32 | Previous obligation | Sólo si IC Code es (BR, PR, SR, CR) | M | M | M | O | 
+33 | CAM code from | Sólo si IC Code es (SD, RD, SF, RF) y el remitente es miembro de una CAM | M | M | M | O | 
+34 | CAM code to | Sólo si IC Code es (SD, RD, SF, RF) y el receptor es miembro de una CAM | M | M | M | O | 
+35 | Document | | O | O | O | O | 
+36 | Container | | O | O | O | O | 
+37 | Correction | | | M | M | M | 
+38 | Previous report | | | M | M | M | 
+39 | Previous line | | | M | M | M | 
+40 | Comment | | O | O | O | O | 
+41 | Burn-up | Si es un reactor nuclear y sólo si IC Code es (NL o NP) | M | M | M | O | 
+42 | CRC | | M | M | M | M | 
+43 | Previous CRC | | | | M | M | 
+44 | Advance notification | Transferencia de materiales notificada con arreglo a los artículos 20 o 21 | M | M | M | O | 
+45 | Campaign | Instalación de reprocesado de combustible gastado | M | M | M | O | 
+46 | Reactor | Instalación de almacenamiento o reprocesado de combustible gastado | M | M | M | O | 
+47 | Error path | | O | O | O | O | 
+M = Preceptivo, O = Optativo, En blanco = No se solicita 
+"IC codes" y dobles líneas implícitas 
+Aunque los códigos de cambios en el inventario (CE, CB, CC, RB, BR, PR, SR y CR) requieren una línea contable doble, el Reglamento exige sólo una línea. La segunda línea se generará automáticamente en la base de datos, a partir de los datos suministrados en la línea notificada. 
+"IC codes" y convenciones sobre signos 
+Se conviene en que los pesos de los elementos y los isótopos notificados por el operador se tomarán como contribuciones positivas o negativas a las existencias de materiales nucleares según el "IC code" declarado. A menos que el "IC code" permita ambos signos, y cualquiera que sea el signo declarado por el operador, los pesos que se tendrán en cuenta serán los indicados en el siguiente cuadro. 
+IC code | Signo | 
+RD | Positivo | 
+RF | Positivo | 
+RN | Positivo | 
+SD | Negativo | 
+SF | Negativo | 
+SN | Negativo | 
+TC | Negativo | 
+TE | Negativo | 
+TW | Negativo | 
+FC | Positivo | 
+FW | Positivo | 
+LA | Negativo | 
+GA | Positivo | 
+CE | Positivo | 
+CB | Positivo | 
+CC | Positivo | 
+RB | Positivo | 
+BR | Positivo | 
+PR | Positivo | 
+SR | Positivo | 
+CR | Positivo | 
+NP | Según lo declarado | 
+NL | Según lo declarado | 
+DI | Según lo declarado | 
+NM | Según lo declarado | 
+BJ | Según lo declarado | 
+MF | Según lo declarado | 
+RA | Según lo declarado | 
+R5 | Según lo declarado | 
+MP | Positivo | 
+TU | Negativo | 
+BA | Según lo declarado (negativo indica error) | 
+Campos que hay que consignar para suprimir un asiento del Reglamento (Euratom) no 3227/76 
+El cuadro que figura a continuación muestra las etiquetas preceptivas en el nivel de la línea que han de ser utilizadas para suprimir un asiento de un ICI del Reglamento (Euratom) no 3227/76 y las circunstancias en las que deben utilizarse. 
+Número de campo | Etiqueta | Circunstancias | 
+10 | IC code | | 
+11 | Batch | | 
+12 | KMP | | 
+13 | Measurement | | 
+14 | Material form | | 
+15 | Material container | | 
+16 | Material state | | 
+17 | MBA from | Sólo si IC Code es (RD, RF) | 
+18 | MBA to | Sólo si IC Code es (SD, SF) | 
+19 | Previous Batch | IC Code = RB | 
+20 | Original date | | 
+22 | Line number | | 
+23 | Accounting date | | 
+24 | Items | | 
+25 | Element category | | 
+26 | Element weight | | 
+27 | Isotope | | 
+28 | Fissile weight | | 
+30 | Obligation | | 
+31 | Previous category | IC Code = CC | 
+32 | Previous obligation | IC Code = CR | 
+37 | Correction | | 
+42 | CRC | | 
+A excepción del peso del elemento y el peso de los isótopos fisionables, los contenidos de los campos deben corresponder a los de la línea original. 
+Ejemplos: Corrección según el Reglamento (Euratom) no 302/2005 de líneas declaradas con arreglo a lo establecido en el Reglamento (Euratom) no 3227/76. 
+Ejemplo 1 
+Corrección del peso del elemento de 3181,792 a 3205,768 k y corrección de la obligación de P a S utilizando el procedimiento D/A 
+MBA | Date | KMP | Measurement | Type of inventory change | Corresponding MBA | Batch | Number items | Mat. Desc. Code | Element | Element Weight | Unit | Isotope | Fissile weight | Unit | Obligation | Use | Cor. Info | Correction | Original date | 
+MBA1 | 12/11/2003 | 3 | F | SD | MBA2 | 915 | 1 | LNOI | D | 3181.792 | K | | | | P | | | | | 
+Ejemplo 2 
+Corrección de un cambio de categoría (N a D en vez de N a L) utilizando el procedimiento D/A 
+MBA | Date | KMP | Measurement | Type of inventory change | Corresponding MBA | Batch | Number items | Mat. Desc. Code | Element | Element Weight | Unit | Isotope | Fissile weight | Unit | Obligation | Use | Cor. Info | Correction | Original date | 
+MBA1 | 25/11/2003 | 2 | F | CC | | GO6N1 | 1 | U6CF | L | 3376422 | | G | 8568 | | A | | N | | | 
+Encabezamiento del informe | | | | 
+MBA | MBA1 | | | | 
+Report type | I | | | | 
+Report date | 06012004 | | | | 
+Report number | 61 | | | | 
+Line count | 118 | | | | 
+Start report | 01122003 | | | | 
+End report | 31122003 | | | | 
+Reporting person | MPJ | | | | 
+(ejemplo 1: supresión) | | (ejemplo 1: adición) | 
+Transaction ID | [no notificada con arreglo al Reglamento (Euratom) no 3227/76] | | Transaction ID | 1 | 
+IC code | SD | | IC code | SD | 
+Batch | 915 | | Batch | 915 | 
+KMP | 3 | | KMP | 3 | 
+Measurement | F | | Measurement | F | 
+Material form | LN | | Material form | LN | 
+Material container | O | | Material container | O | 
+Material state | I | | Material state | I | 
+MBA from | | | MBA from | | 
+MBA to | MBA2 | | MBA to | MBA2 | 
+Previous batch | | | Previous batch | | 
+Original date | 12112003 | | Original date | 12112003 | 
+PIT date | | | PIT date | | 
+Line number | 1 | | Line number | 2 | 
+Accounting date | 10122003 | | Accounting date | 10122003 | 
+Items | 1 | | Items | 1 | 
+Element category | D | | Element category | D | 
+Element weight | 3181792 | | Element weight | 3205768 | 
+Isotope | | | Isotope | | 
+Fissile weight | | | Fissile weight | | 
+Isotopic Composition | | | Isotopic Composition | | 
+Obligation | P | | Obligation | S | 
+Previous category | | | Previous category | | 
+Previous obligation | | | Previous obligation | | 
+Correction | D | | Correction | A | 
+CRC | Según cálculo | | CRC | Según cálculo | 
+(ejemplo 2: supresión) | | (ejemplo 2: adición) | 
+Transaction ID | [no notificada con arreglo a l Reglamento (Euratom) no 3227/76] | | Transaction ID | ZZZ | 
+IC code | CC | | IC code | CC | 
+Batch | G06N1 | | Batch | G06N1 | 
+KMP | 2 | | KMP | 2 | 
+Measurement | F | | Measurement | F | 
+Material form | U6 | | Material form | U6 | 
+Material container | C | | Material container | C | 
+Material state | F | | Material state | F | 
+MBA from | | | MBA from | | 
+MBA to | | | MBA to | | 
+Previous batch | | | Previous batch | | 
+Original date | 25112003 | | Original date | 25112003 | 
+PIT date | | | PIT date | | 
+Line number | 3 | | Line number | 4 | 
+Accounting date | 10122003 | | Accounting date | 10122003 | 
+Items | 1 | | Items | 1 | 
+Element category | L | | Element category | D | 
+Element weight | 3376422 | | Element weight | 3376422 | 
+Isotope | G | | Isotope | G | 
+Fissile weight | 8568 | | Fissile weight | 8568 | 
+Isotopic Composition | | | Isotopic Composition | | 
+Obligation | A | | Obligation | A | 
+Previous category | N | | Previous category | N | 
+Previous obligation | | | Previous obligation | | 
+Correction | D | | Correction | A | 
+CRC | Según cálculo | | CRC | Según cálculo | 
+Disposiciones especiales aplicables a la corrección de líneas declaradas originalmente con arreglo al Reglamento (Euratom) no 3227/76. 
+La unidad de peso utilizada es por defecto el gramo (es decir, los pesos han de consignarse en gramos, aunque originalmente se hubieran declarado en otras unidades). 
+Los valores de "IC code" permitidos son los definidos en el Reglamento (Euratom) no 3227/76. 
+Ejemplo: no puede declararse una adición con el "IC code" R5. 
+Declaración de materiales no contabilizados (MUF) 
+A continuación se muestra un ejemplo de declaración de materiales no contabilizados (MUF) en un ICI, siendo MAMF un informe sobre ZBM tras haber elaborado un inventario físico el día "x". 
+IBM de fecha "x" 
+MBA | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | PB | L | 250 | G | 10 | A | 
+MAMF | RD | L | 150 | G | 6 | A | 
+MAMF | SD | L | 125 | G | 5 | A | 
+MAMF | LN | L | – 100 | G | – 4 | A | 
+MAMF | BA | L | 175 | G | 7 | A | 
+MAMF | PE | L | 140 | G | 6 | A | 
+MAMF | MF | L | – 35 | G | – 1 | A | 
+El ICI desde el día siguiente a la EIF hasta el final del mes se consignará tal como figura a continuación: 
+MBA | Accounting date | Original date | PIT date | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | Día del asiento (%gt% x) | x | x | MF | L | – 35 | G | – 1 | A | 
+Declaración de un cambio de categoría 
+El Reglamento (Euratom) no 302/2005 propone tres "IC codes" diferentes para declarar un cambio de categoría: CC, CB y CE. 
+IC code | Tipo de ZBM típico | Operación | 
+CC | Todas | Cambio de categoría hecho "por convención" según las PSP a consecuencia de un evento de transformación nuclear. | 
+CB | Planta de fabricación de combustible/Planta de reprocesado | Cambio de categoría a consecuencia de una operación de mezcla. | 
+CE | Planta de enriquecimiento/Planta de reprocesado | Cambio de categoría a consecuencia de una operación de enriquecimiento. | 
+A continuación se da un ejemplo de los campos correspondientes de la declaración de cambios en el inventario. MACC es un reactor de potencia; MACB, una planta de fabricación de combustible; y MACE, una planta de enriquecimiento: 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Previous category | 
+MACC | CC | BATCH09 | 11042002 | D | 7394 | G | 46 | N | L | 
+MACC | CC | BATCH610 | 11042002 | D | 7452 | G | 46 | N | L | 
+MACB | CB | BATCH7-1 | 16042002 | L | 174758 | G | 1240 | N | N | 
+MACB | CB | BATCH7-2 | 12092002 | N | 61525 | G | | N | D | 
+MACE | CE | BATCH97 | 15032002 | L | 1480118 | G | 73533 | N | N | 
+MACE | CE | BATCH61 | 28052002 | D | 608 | G | 4 | N | N | 
+MACE | CE | BATCH61 | 28052002 | D | 8383640 | G | 19364 | N | N | 
+Declaración de un cambio en el isótopo mediante el código R5 
+Generalmente, a consecuencia de cambios de categoría hacia el elemento D, se produce un desequilibrio en las existencias contables para el isótopo U-235 que no se declara, a no ser que las PSP indiquen otra cosa. 
+Para que la contabilidad concuerde con la realidad, puede hacerse un asiento contable utilizando el "IC code" R5. 
+A continuación se muestra un ejemplo de los campos correspondientes de la declaración de cambios en el inventario. MAR5 es una ZBM que ha declarado algún cambio de categoría de L a D y un R5 final para el valor equivalente del U-235. 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Previous category | 
+MAR5 | CC | BATCH6-1 | 11042002 | D | 6182685 | G | 42157 | N | L | 
+MAR5 | CC | BATCH6-2 | 11042002 | D | 6175026 | G | 42104 | N | L | 
+MAR5 | CC | BATCH6-3 | 12042002 | D | 6175026 | G | 42104 | N | L | 
+MAR5 | CC | BATCH7-1 | 12042002 | D | 6179927 | G | 42261 | N | L | 
+MAR5 | CC | BATCH7-2 | 25042002 | D | 6192712 | G | 42349 | N | L | 
+MAR5 | CC | BATCH7-3 | 25042002 | D | 6177370 | G | 42244 | N | L | 
+MAR5 | R5 | | 25042002 | D | 0 | G | -253219 | N | | 
+Declaración de un cambio de obligación 
+El Reglamento (Euratom) no 302/2005 propone cuatro "IC codes" diferentes para declarar un cambio de obligación: CR, PR, BR y SR, mientras que el Reglamento (Euratom) no 3227/76 sólo daba un código, el CR. 
+Los ejemplos indicados a continuación se habrían declarado todos utilizando CR como "IC code". 
+A continuación se muestra un ejemplo de los campos correspondientes de la declaración de cambios en el inventario. MAPR es una ZBM que ha recibido materiales que, por ejemplo, desea introducir en una agrupación de obligaciones. 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Previous obligation | 
+MAPR | PR | BATCH45 | 20012006 | D | 8384925 | G | 22891 | Y | A | 
+MAPR | PR | BATCH44 | 20012006 | D | 8379448 | G | 22876 | Y | A | 
+MAPR | PR | BATCH43 | 20012006 | D | 8370118 | G | 22850 | Y | A | 
+MAPR | PR | BATCH42 | 20012006 | D | 8407912 | G | 22954 | Y | A | 
+MAPR | PR | BATCH41 | 20012006 | D | 8112930 | G | 22148 | Y | A | 
+MAPR | PR | BATCH40 | 20012006 | D | 8114958 | G | 22154 | Y | A | 
+MAPR | PR | BATCH39 | 20012006 | D | 8140379 | G | 22223 | Y | A | 
+A continuación se muestra un ejemplo de los campos correspondientes de la declaración de cambios en el inventario. MABR es una ZBM que declara un "cambio de obligación para equilibrar la obligación Utot después de una mezcla". 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Previous obligation | 
+MABR | BR | BATCH7 | 14122005 | L | 446 | G | 0 | A | S | 
+MABR | BR | BATCH7 | 14122005 | L | 53559 | G | 0 | A | C | 
+MABR | BR | BATCH7 | 14122005 | L | 216528 | G | 0 | A | P | 
+A continuación tenemos un ejemplo de los campos correspondientes de las declaraciones simultáneas de cambios en el inventario de dos zonas de balance de materiales, MSR1 y MSR2, que intercambian obligaciones sobre materiales. 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Previous obligation | 
+MSR1 | SR | BATCH15 | 28102005 | D | 175000000 | G | 542500 | C | N | 
+MSR1 | SR | BATCH15 | 28102005 | D | 150000000 | G | 465000 | C | P | 
+MSR2 | SR | EXCHANGE | 28102005 | D | 175000000 | G | 542500 | N | C | 
+MSR2 | SR | EXCHANGE | 28102005 | D | 150000000 | G | 465000 | P | C | 
+Declaración de producción nuclear y pérdida nuclear (NP y NL) 
+El ejemplo siguiente nos muestra los campos de la declaración de cambios en el inventario. MNPL es una ZBM consistente en un reactor con unas PSP según las cuales, cuando los elementos combustibles descargados del reactor se devuelven al núcleo, los valores relativos a la producción nuclear y la pérdida nuclear se tienen que consignar con signos opuestos para que cuadren los datos del remitente sobre el combustible. (Este ejemplo explica por qué el signo tiene que ir asociado a los "IC codes" NL y NP). 
+MBA | IC code | Batch | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Comment | 
+Descarga del núcleo: | 
+MNPL | NL | BATCH2 | 12101994 | L | – 958 | G | – 700 | C | | 
+MNPL | NP | BATCH2 | 12101994 | P | 306 | | | C | | 
+Devolución al núcleo: | 
+MNPL | NL | BATCH2 | 06011996 | L | 958 | G | 700 | C | Inversión de una NL declarada anteriormente, según lo especificado en las PSP | 
+MNPL | NL | BATCH2 | 06011996 | P | – 306 | | | C | Inversión de una NL declarada anteriormente, según lo especificado en las PSP | 
+Descarga final del núcleo: | 
+MNPL | NL | BATCH2 | 18052005 | L | – 3379 | G | – 2689 | C | | 
+MNPL | NP | BATCH2 | 18052005 | P | 734 | | | C | | 
+La corrección de cualquier valor registrado tiene que seguir el procedimiento de supresión/adición. 
+Declaración del ajuste del balance (BJ) 
+A continuación se da un ejemplo de los campos correspondientes de la declaración de cambios en el inventario. MABJ es una ZBM que informa tras un inventario parcial interno de la instalación. 
+MBA | IC code | Batch | Items | Accounting date | Element category | Element weight | Isotope | Fissile weight | Obligation | Comment | 
+MABJ | BJ | CHAIN-1 | 1 | 15022006 | P | 10 | | | A | Inventario parcial de CHAIN-1 | 
+MABJ | BJ | CHAIN-1 | 0 | 15022006 | L | – 250 | G | – 10 | A | | 
+MABJ | BJ | CHAIN-1 | 0 | 15022006 | D | 4000 | | | A | | 
+Declaración de composición isotópica 
+En el ejemplo siguiente vemos los campos correspondientes de la declaración de cambios en el inventario. MAIC es una ZBM que tiene que notificar la composición isotópica de Pu y U según lo dispuesto en las PSP. En el ejemplo, un envío de un elemento MOX tiene la composición siguiente: 
+Pu 2 500 g | Pu-238 0 g | Pu-239 1487 g | Pu-240 553,8 g | Pu-241 341,3 g | Pu-242 118,3 g | 
+U 250 000 g | U-233 0 g | U-234 50 g | U-235 2 525 g | U-236 1 125 g | U-238 246 300 g | 
+MBA | IC code | Batch | Items | Accounting date | Element category | Element weight | Isotope | Fissile weight | Isotopic composition | 
+MAIC | SD | MOX-1 | 1 | 15022006 | P | 2500 | | | 0;1487;553.8;341.3;118.3 | 
+MAIC | SD | MOX-1 | 0 | 15022006 | L | 250000 | G | 2525 | 0;50;2525;1125;246300 | 
+2.3.5.3. Anexo IV: IBM 
+Principales diferencias con el Reglamento (Euratom) no 3227/76 
+IBM por obligación 
+El IBM debe elaborarse por categorías y por cada obligación. Sin embargo, esta disposición no afecta a los procedimientos acordados para la contabilidad agrupada (normalmente establecidos en la correspondencia e indicados en las correspondientes PSP). La exigencia de presentar el inventario contable final desglosado por obligación no modifica los procedimientos de seguimiento del lote ya aplicados (por ejemplo, en instalaciones con material en forma de unidades). 
+Cambios en los campos de los datos del IBM 
+Etiqueta | Descripción del cambio | 
+Report number | Nuevo | 
+Line count | Nuevo | 
+Line number | Nuevo | 
+Element weight | Tamaño incrementado (de 9 a 24.3) | 
+Fissile weight | Tamaño incrementado (de 9 a 24.3) | 
+Obligation | Nuevo | 
+Previous report | Nuevo | 
+Previous line | Nuevo | 
+Comment | Sustituye al campo "Observaciones" del Reglamento (Euratom) no 3227/76 | 
+CRC | Nuevo | 
+Previous CRC | Nuevo | 
+Unit | Se ha suprimido el campo que figuraba en el Reglamento (Euratom) no 3227/76 debido a la convención de declarar todos los pesos en gramos | 
+Cambios en el contenido de los datos del IBM 
+Etiqueta | Descripción del cambio | 
+IC code | NuevosTC, TE, FC, GA, CE, CB, BR, PR, SR, NP, NL, BJ, R5, TU, MFSuprimidosLD, WD, EU, DU, CU, NT, NC | 
+Correction | NuevoL | 
+Etiquetas del IBM 
+Los cuadros que figuran a continuación muestran las etiquetas que han de utilizarse en el IBM, las circunstancias en que deben usarse y si su utilización es preceptiva u optativa. 
+Las etiquetas en el nivel del informe son todas preceptivas. Deben figurar sólo una vez en cada informe en el encabezamiento del mismo. 
+Número de campo | Etiqueta | 
+1 | MBA | 
+2 | Report type | 
+3 | Report date | 
+4 | Start report | 
+5 | End report | 
+6 | Report number | 
+8 | Line count | 
+9 | Reporting person | 
+Etiquetas en el nivel de la línea 
+Número de campo | Etiqueta | Nuevo asiento | Según la corrección | 
+L | A | D | 
+7 | Element category | M | M | M | O | 
+10 | IC code | M | M | M | O | 
+11 | Line number | M | M | M | M | 
+12 | Element weight | M | M | M | O | 
+13 | Isotope | M | M | M | O | 
+14 | Fissile weight | M | M | M | O | 
+15 | Obligation | M | M | M | O | 
+16 | Correction | | M | M | M | 
+17 | Previous report | | M | M | M | 
+18 | Previous line | | M | M | M | 
+19 | Comment | O | O | O | O | 
+20 | CRC | M | M | M | M | 
+21 | Previous CRC | | | M | M | 
+M = Preceptiva; O = Optativa; En blanco = No solicitada 
+A continuación se muestra un ejemplo de declaración de materiales no contabilizados en dos períodos consecutivos: 
+IBM para el período P, declaración de materiales no contabilizados consecutiva en el primer ICI del período P+1. 
+Período P Inventario físico elaborado el día "x" | 
+MBA | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | PB | L | 250 | G | 10 | A | 
+MAMF | RD | L | 150 | G | 6 | A | 
+MAMF | SD | L | 125 | G | 5 | A | 
+MAMF | LN | L | – 100 | G | – 4 | A | 
+MAMF | BA | L | 175 | G | 7 | A | 
+MAMF | PE | L | 140 | G | 6 | A | 
+MAMF | MF | L | – 35 | G | – 1 | A | 
+El ICI desde el día siguiente a la EIF hasta el fin del mes se consignará tal como figura a continuación: 
+MBA | Accounting date | Original date | PIT date | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | Día del asiento (%gt% x) | x | x | MF | L | – 35 | G | – 1 | A | 
+IBM para el período P+1, incluidos los materiales no contabilizados establecidos para el período M y la declaración de materiales no contabilizados consecutiva en el primer ICI del período P+2. 
+Período P+1 Inventario físico elaborado el día "y" | 
+MBA | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | PB | L | 140 | G | 6 | A | 
+MAMF | RD | L | 500 | G | 35 | A | 
+MAMF | SD | L | 125 | G | 5 | A | 
+MAMF | NM | L | – 15 | G | – 1 | A | 
+MAMF | BA | L | 500 | G | 35 | A | 
+MAMF | PE | L | 472 | G | 34 | A | 
+MAMF | MF | L | – 28 | G | – 1 | A | 
+El ICI desde el día siguiente a la EIF hasta el fin del mes (período M+2) tendrá un asiento como el que figura a continuación: 
+MBA | Accounting date | Original date | PIT date | IC code | Element category | Element weight | Isotope | Fissile weight | Obligation | 
+MAMF | Día del asiento (%gt% y) | y | y | MF | L | – 28 | G | – 1 | A | 
+Campos que hay que consignar para suprimir un asiento del Reglamento (Euratom) no 3227/76 
+El cuadro que figura a continuación muestra las etiquetas obligatorias en el nivel de la línea que han de ser utilizadas para suprimir un asiento de un IBM del Reglamento (Euratom) no 3227/76, y las circunstancias en las que deben utilizarse 
+Número de campo | Etiqueta | 
+7 | Element category | 
+10 | IC code | 
+11 | Line number | 
+12 | Element weight | 
+13 | Isotope | 
+14 | Fissile weight | 
+16 | Correction | 
+20 | CRC | 
+A excepción del peso del elemento y el peso de los isótopos fisionables, el contenido de los campos debe corresponder a los de la línea original. 
+Ejemplo: 
+MBA | MBR Date | Inventory information | Element | Weight of element | Unit | Isotope | Weight of isotopes | Unit | Correction | Observaciones | 
+MBAH | 12/5/03 | PB | H | 4870.2 | | G | 391.2 | | | | 
+MBAH | 12/5/03 | SD | H | 4.2 | | G | 2.2 | | | | 
+MBAH | 12/5/03 | PE | H | 4866 | | G | 3913 | | | | 
+Error detectado en el inventario físico inicial (PB): en el peso de los isótopos debería figurar 3915.2. 
+La corrección se comunica del siguiente modo: 
+MBA | MBAH | | | | 
+Report type | M | | | | 
+Report date | 15092006 | | | | 
+Start report | 13072005 | | | | 
+End report | 12052006 | | | | 
+Report number | 18 | | | | 
+Line count | 2 | | | | 
+Reporting person | PJP | | | | 
+Element category | H | | Element category | H | 
+IC code | PB | | IC code | PB | 
+Line number | 1 | | Line number | 2 | 
+Element weight | 4870.2 | | Element weight | 4870.2 | 
+Isotope | G | | Isotope | G | 
+Fissile weight | 391.2 | | Fissile weight | 3915.2 | 
+Obligation | | | Obligation | | 
+Correction | D | | Correction | A | 
+Previous report | | | Previous report | | 
+Previous line | | | Previous line | | 
+Comment | | | Comment | | 
+CRC | Según cálculo | | CRC | Según cálculo | 
+Disposiciones especiales aplicables a la corrección de líneas declaradas originalmente con arreglo al Reglamento (Euratom) no 3227/76 
+La unidad de peso utilizada es por defecto el gramo (es decir, los pesos han de consignarse en gramos, aunque originalmente se hubieran declarado en otras unidades). 
+Los valores de "IC code" permitidos son los definidos en el Reglamento (Euratom) no 3227/76. 
+Ejemplo: No puede declararse una adición con el "IC code" R5. 
+2.3.5.4. Anexo V: LIF 
+Principales diferencias con el Reglamento (Euratom) no 3227/76 
+Cambios en los campos de datos del LIF 
+Etiqueta | Descripción del cambio | 
+Report number | Nuevo | 
+Line count | Nuevo | 
+PIL_ITEM_ID | Nuevo | 
+Batch | Tamaño incrementado (de 8 caracteres a 20 caracteres) | 
+Material form | Los dos caracteres iniciales del campo de descripción de los materiales del Reglamento (Euratom) no 3227/76 | 
+Material container | El tercer carácter del campo de descripción de los materiales del Reglamento (Euratom) no 3227/76 | 
+Material state | El último carácter del campo de descripción de los materiales del Reglamento (Euratom) no 3227/76 | 
+Line number | Nuevo | 
+Element weight | Tamaño incrementado (de 9 a 24.3) | 
+Fissile weight | Tamaño incrementado (de 9 a 24.3) | 
+Obligation | Tamaño incrementado (de 1 a 2) | 
+Document | Nuevo | 
+Container ID | Nuevo | 
+Previous report | Nuevo | 
+Previous line | Nuevo | 
+Comment | Nuevo, sustituye al campo "Observaciones" del Reglamento (Euratom) no 3227/76 | 
+CRC | Nuevo | 
+Previous CRC | Nuevo | 
+Use | Campo del Reglamento (Euratom) no 3227/76 eliminado y sustituido por información en las BTC | 
+Unit | Se ha suprimido el campo que figuraba en el Reglamento (Euratom) no 3227/76 debido a la convención de declarar todos los pesos en gramos | 
+Cambios en el contenido de los datos del LIF 
+Etiqueta | Descripción del cambio | 
+Material form | NuevosU2, U3, U8, T2, NV, NG, NB, NC, NO | 
+Material state | SuprimidoR | 
+Correction | NuevoL | 
+Etiquetas del LIF 
+Los cuadros que figuran a continuación muestran las etiquetas que han de utilizarse en los LIF, las circunstancias en que deben usarse y si su utilización es preceptiva u optativa. 
+Las etiquetas en el nivel del informe son todas preceptivas. Deben figurar sólo una vez en cada informe. 
+Número de campo | Etiqueta | 
+1 | MBA | 
+2 | Report type | 
+3 | Report date | 
+4 | Report number | 
+5 | PIT date | 
+6 | Line count | 
+7 | Reporting person | 
+Etiquetas en el nivel de la línea 
+Número de campo | Etiqueta | Nuevo asiento | Según la corrección | 
+L | A | D | 
+8 | PIL_ITEM_ID | M | M | M | O | 
+9 | Batch | M | M | M | O | 
+10 | KMP | M | M | M | O | 
+11 | Measurement | M | M | M | O | 
+12 | Element category | M | M | M | O | 
+13 | Material form | M | M | M | O | 
+14 | Material container | M | M | M | O | 
+15 | Material state | M | M | M | O | 
+16 | Line number | M | M | M | M | 
+17 | Items | M | M | M | O | 
+18 | Element weight | M | M | M | O | 
+19 | Isotope | M | M | M | O | 
+20 | Fissile weight | M | M | M | O | 
+21 | Obligation | M | M | M | O | 
+22 | Document | O | O | O | O | 
+23 | Container | O | O | O | O | 
+24 | Correction | | M | M | M | 
+25 | Previous report | | M | M | M | 
+26 | Previous line | | M | M | M | 
+27 | Comment | O | O | O | O | 
+28 | CRC | M | M | M | M | 
+29 | Previous CRC | | | M | M | 
+M = Preceptiva; O = Optativa; En blanco = No solicitada 
+Campos que hay que consignar para suprimir un asiento del Reglamento (Euratom) no 3227/76 
+El cuadro que figura a continuación muestra las etiquetas obligatorias en el nivel de la línea que han de ser utilizadas para suprimir un asiento del LIF del Reglamento (Euratom) no 3227/76 
+Número de campo | Etiqueta | 
+9 | Batch | 
+10 | KMP | 
+11 | Measurement | 
+12 | Element category | 
+13 | Material form | 
+14 | Material container | 
+15 | Material state | 
+16 | Line number | 
+17 | Items | 
+18 | Element weight | 
+19 | Isotope | 
+20 | Fissile weight | 
+21 | Obligation | 
+24 | Correction | 
+28 | CRC | 
+A excepción del peso del elemento y el peso de los isótopos fisionables, el contenido de los campos debe corresponder a los de la línea original. 
+Ejemplo: 
+MBA | PIL date | Batch | Item | Obligation | KMP | Measurement | Material description | Element | Element weight | Unit | Isotope | Isotope weight | Unit | Correction | 
+MABL | 13/06/03 | F01DP | 1 | N | B | L | EASF | D | 258.566 | K | | | | | 
+MABL | 13/06/03 | B16DP | 1 | P | A | L | EROF | D | 10.418 | K | | | | | 
+MABL | 13/06/03 | B22DP | 1 | P | A | L | EROF | D | 22.284 | K | | | | | 
+MABL | 13/06/03 | B34DP | 1 | P | A | L | EROF | D | 13.345 | K | | | | | 
+Corrección: El lote F01DP tiene que estar situado en el KMP (punto clave de medición) A con una obligación P 
+La corrección se comunica del siguiente modo: 
+Etiqueta | | | | | 
+MBA | MABL | | | | 
+Report type | P | | | | 
+Report date | 05012004 | | | | 
+Report number | 186 | | | | 
+PIT date | 130603 | | | | 
+Line count | 2 | | | | 
+Reporting person | VCT | | | | 
+PIL_ITEM_ID | | | PIL_ITEM_ID | | 
+Batch | F01DP | | Batch | F01DP | 
+KMP | B | | KMP | A | 
+Measurement | L | | Measurement | L | 
+Element category | D | | Element category | D | 
+Material form | EA | | Material form | EA | 
+Material container | S | | Material container | S | 
+Material state | F | | Material state | F | 
+Line number | 1 | | Line number | 2 | 
+Items | 1 | | Items | 1 | 
+Element weight | 258566 | | Element weight | 258566 | 
+Isotope | | | Isotope | | 
+Fissile weight | | | Fissile weight | | 
+Obligation | N | | Obligation | P | 
+Document | | | Document | | 
+Container ID | | | Container ID | | 
+Correction | D | | Correction | A | 
+Previous report | | | Previous report | | 
+Previous line | | | Previous line | | 
+Comment | | | Comment | | 
+CRC | Según cálculo | | CRC | Según cálculo | 
+Previous CRC | | | Previous CRC | | 
+Disposiciones especiales aplicables a la corrección de líneas declaradas originalmente con arreglo al Reglamento (Euratom) no 3227/76. 
+La unidad de peso utilizada es por defecto el gramo (es decir, los pesos han de consignarse en gramos, aunque originalmente se hubieran declarado en otras unidades). 
+2.3.6. Obligaciones de control particulares (artículo 17) 
+La identificación de la obligación de control particular en las notificaciones del artículo 17, apartado 1, letras a) a d), deberá ajustarse a los códigos de obligación de Euratom, notificados a los operadores y actualizados mediante circular. La última circular, con referencia E/31/921, fue enviada a todos los operadores el 24 de junio de 1998. 
+Los acuerdos entre Euratom y los operadores (normalmente mediante intercambio de correspondencia) relativos al funcionamiento en las instalaciones de un sistema de contabilidad agrupada específico no se ven afectados por el presente Reglamento. A petición de un operador o de la Comisión podría discutirse la posibilidad de introducir una nueva agrupación o de modificar las normas de un sistema de contabilidad agrupada. 
+2.3.7. Excepciones 
+2.3.7.1. Observaciones generales 
+El artículo 19 contempla principalmente las instalaciones que utilizan materiales nucleares que estén en una forma recuperable y se usen exclusivamente para actividades no nucleares. 
+La Comisión, no obstante, también puede conceder una excepción, a través de las PSP, a las normas para la declaración de la parada de instalaciones que posean material que pueda acogerse a la excepción. 
+Excepción [artículo 19 del Reglamento (Euratom) no 302/2005] y exención (artículos 36 y 37 de INFCIRC 193) 
+La excepción y la exención son dos mecanismos diferentes. 
+Las excepciones son concedidas por la Comisión y su objetivo es aligerar alguna de las normas en materia de información que establece el Reglamento. 
+Por otra parte, las exenciones son concedidas por el OIEA y su objetivo es que los materiales nucleares queden exentos de salvaguardias con arreglo al Acuerdo de salvaguardias (INFCIRC-193). El procedimiento para solicitar una exención del OIEA figura en el documento INFCIRC-193. 
+A petición de la Comunidad, el OIEA puede eximir a los materiales nucleares de las salvaguardias. La exención se concede sobre la base del uso de los materiales (artículo 36 de INFCIRC-193) o de su cantidad (artículo 37 de INFCIRC-193). Dado que estos materiales no se usan normalmente en actividades relacionadas con el ciclo del combustible nuclear o la cantidad de materiales es pequeña, su relevancia para las salvaguardias del OIEA es insignificante. 
+Las exenciones también son relevantes para la aplicación del Reglamento de la Comisión debido a que cuando los materiales nucleares que se encuentran en un lugar situado fuera de las instalaciones (LOF en su sigla inglesa) están exentos con arreglo a los artículos 36 o 37 del Acuerdo de salvaguardias, dicho LOF ya no constituirá el núcleo de un emplazamiento. Por tanto, no sería necesario presentar la información a la que se refiere el anexo II del Reglamento (Euratom) no 302/2005. 
+En el cuadro siguiente se establece una comparación entre una exención con arreglo a INFCIRC-193 y una excepción con arreglo al Reglamento (Euratom) no 302/2005. 
+Exención de INFCIRC 193 | Excepción del Reglamento (Euratom) no 302/2005 | 
+La exención de las salvaguardias del OIEA significa que no se aplican a los materiales las medidas clásicas de control de seguridad, incluidas las inspecciones. | La excepción significa una simplificación para el operador de las normas que regulan el formato y la frecuencia de las notificaciones previstas en los artículos 10 a 18. Los materiales nucleares permanecen bajo el control de seguridad de Euratom y están sujetos a control. | 
+Los materiales nucleares, que podrían obtener una exención basada en su uso (artículo 36 del Acuerdo de salvaguardias) son: a)los materiales fisionables especiales utilizados en cantidades del orden del gramo o menos como elementos sensibles en aparatos;b)los materiales nucleares recuperables cuando se utilicen en actividades no nucleares, yc)el plutonio que tenga una abundancia isotópica de plutonio 238 superior al 80 %. | Las ZBM que posean únicamente materiales nucleares exentos podrán solicitar que se les conceda una excepción. Sin embargo, la Comisión también podrá conceder excepciones a las ZBM que traten materiales que no pueden obtener una exención de las salvaguardias del OIEA. En dicho caso, la excepción del deber de notificación se concederá de tal forma que se cumplan las disposiciones de las salvaguardias del OIEA (inspecciones, informes al OIEA). | 
+Los materiales nucleares podrán estar exentos de las salvaguardias del OIEA hasta las cantidades especificadas en el artículo 37 del Acuerdo de salvaguardias. | Se podrá conceder una excepción a las ZBM que posean cantidades de materiales nucleares conmensurables con las especificadas en el anexo I-G, pero que se conserven en el mismo estado durante largos períodos. En dicho caso, la excepción se concederá de tal forma que se cumplan las disposiciones de las salvaguardias del OIEA (inspecciones, informes al OIEA). | 
+La exención sigue siendo válida en tanto que los materiales nucleares no se hayan transferido a otro lugar de forma permanente. Las transferencias permanentes tienen que ser notificadas a las autoridades de salvaguardia, a través del mecanismo de anulación de la exención. | El informe anual previsto en el procedimiento de excepción permite: seguir conociendo las cantidades y la localización de los materiales nucleares exentos de las salvaguardias del OIEA, y elaborar informes de acuerdo con el artículo 2 bis, inciso vii), del Protocolo adicional (PA) del Acuerdo, cuando sea pertinente. | 
+CAM 
+Existe un tipo de instalación, denominada CAM (ZBM "escoba"), que obtendrá una excepción automática en virtud del nuevo Reglamento. Esto incluye a los pequeños poseedores cuyo inventario de materiales nucleares sea inferior o igual a los definidos en el anexo I-G del Reglamento (Euratom) no 302/2005: 
+Uranio empobrecido | 350000 g o | 
+Torio | 200000 g o | 
+Uranio natural | 100000 g o | 
+Uranio de bajo enriquecimiento | 1000 g o | 
+Uranio de alto enriquecimiento | 5 g o | 
+Plutonio | 5 g | 
+Los operadores que piensen que podrían convertirse en miembros de una CAM, deberán usar el anexo I-G al presentar sus BTC. 
+La decisión sobre la inclusión de un operador en la CAM es competencia de la Comisión, porque la cantidad total de materiales nucleares que poseen todos estos pequeños poseedores reunidos dentro de esta instalación concreta nunca puede superar 1 kilogramo efectivo (según la definición del artículo 2, apartado 13). La CAM, que actualmente existe sólo para los Estados miembros no poseedores de armas nucleares (NNWS), está sujeta a las salvaguardias del Organismo Internacional de Energía Atómica (OIEA) según las disposiciones específicas definidas en el documento adjunto relativo a instalaciones (FA) correspondiente a dicha instalación. La CAM se creó para reducir el número de inspecciones realizadas a los pequeños poseedores de materiales nucleares. El FA de la CAM establece que se realice una inspección contable anual en las oficinas de la Comisión. En los Estados miembros que disponen de armas nucleares (NWS) no se creó ninguna CAM porque el acuerdo de verificación con la OIEA no era aplicable a dichas instalaciones. 
+Las obligaciones en cuanto a presentación de informes son muy semejantes para un operador que tenga que solicitar una excepción y para otro que obtenga una excepción automática en tanto que miembro de la CAM (véase el cuadro siguiente, que resume los requisitos de información respectivos). 
+Excepción | Miembros de la CAM | 
+Informes contables | 
+Una instalación a la que se le concede una excepción envía a la Comisión los siguientes informes, utilizando el formato de los anexos pertinentes: una solicitud inicial de excepción (anexo IX); un informe sobre exportaciones, únicamente si ha habido un cambio en la propiedad de los materiales nucleares (anexo X); una solicitud de excepción al recibir los materiales nucleares que hayan sido adquiridos por el operador (anexo IX); un informe anual elaborado el 31 de diciembre en el que se resuman todos los cambios en el inventario (cuando haya habido un cambio de propiedad) que se hayan producido durante el período cubierto por el informe (anexo X). | Una instalación que la Comisión clasifica dentro de la CAM envía a la Comisión los siguientes informes, bien mediante carta o bien usando los anexos previstos en el Reglamento (Euratom) no 302/2005: cada cambio en el inventario cuando se produzca (todos los RD/SD/RF/SF, incluso sin cambio de propietario, y otros cambios en el inventario, etc.); un informe anual con las existencias elaborado el 31 de diciembre, incluso si no se ha producido ningún cambio en el inventario durante el período. | 
+Los pequeños poseedores de materiales nucleares (SHNM por su sigla en inglés) que hayan presentado anteriormente sus BTC no tendrán obligación de actualizarlas. 
+En el caso de los SHNM sin BTC: los candidatos de la CAM utilizarán el formato que figura en el anexo I-G, mientras que los candidatos que no formen parte de la CAM utilizarán el formato del anexo I-J. 
+2.3.7.2. Artículo 19 
+1. La Comisión podrá conceder a los productores y usuarios de materiales nucleares una excepción por escrito del cumplimiento de las normas que regulan el formato y la periodicidad de las comunicaciones previstas en los artículos 10 a 18 del presente Reglamento con objeto de tener en cuenta las circunstancias particulares en que se producen o utilizan los materiales sometidos al control. 
+El artículo 19 se refiere principalmente a las instalaciones que utilizan materiales nucleares que estén en una forma recuperable y se usen exclusivamente para actividades no nucleares. La exención de las obligaciones en cuanto a presentación de informes relativos al control de seguridad sólo se concede a los poseedores de productos finales utilizados para fines no nucleares que incluyan materiales nucleares prácticamente no recuperables (véase el punto 2.1). 
+La excepción podrá concederse, previa presentación de una solicitud, utilizando el modelo que figura en el anexo IX, por parte de las personas o empresas interesadas. 
+Ejemplo de una solicitud inicial de excepción en cuanto al formato y la frecuencia de los informes (véase más abajo el ejemplo 1). 
+Un fabricante de equipos de radiografía médicos e industriales que posee únicamente uranio empobrecido utilizado como blindaje contra la radiación: 
+- solicita una excepción para el formato y la frecuencia de los informes utilizando el anexo IX. (Nota: Cuando el operador posea materiales nucleares que podrían entrar en más de uno de los criterios establecidos en el artículo 19, apartado 2, será necesaria una solicitud de excepción distinta para cada caso.) La Comisión en principio trataría una solicitud de excepción en un plazo de tres meses, 
+- para la solicitud inicial de excepción, el punto 13 del anexo IX (fecha de la transferencia: … de …) no es relevante, 
+- el inventario total de materiales nucleares declarados en la solicitud inicial de excepción deberá ser igual al inventario inicial del primer informe anual. 
+Los operadores deberán continuar informando con arreglo a la práctica normal hasta que la Comisión haya respondido a su solicitud inicial de excepción. 
+Cuando la Comisión concede la excepción, en el último día del mes anterior a la aplicación de la excepción, el operador debe elaborar un inventario físico (EIF) y presentar un listado del inventario físico (LIF) a la Comisión. Esto permitirá a la Comisión conocer la situación en que se encuentra el inventario del operador antes de la aplicación de la excepción. 
+Los operadores que ya hubieran obtenido anteriormente una excepción con arreglo al Reglamento (Euratom) no 3227/76, normalmente incluida en las PSP, no tendrán que presentar una nueva solicitud. Seguirán aplicándose las disposiciones definidas en las PSP. Si así se conviniera entre el operador, la Comisión y el Estado miembro, las PSP podrán volver a examinarse. 
+Los operadores que hayan recibido una autorización de excepción mediante carta para la declaración trimestral, semestral o anual, tendrán obligación de presentar una solicitud inicial de excepción, con arreglo a lo dispuesto en el artículo 19 del Reglamento (Euratom) no 302/2005. Esto se debe a que el formato, los datos, así como el tipo de cambios en el inventario que han de declararse son diferentes de los del procedimiento del Reglamento (Euratom) no 3227/76. Los operadores a los que se haya concedido una excepción en virtud del artículo 19 tendrán que declarar los cambios en el inventario que incrementen (nuevas adquisiciones o producción de materiales nucleares) o que reduzcan (ventas, transformaciones, transferencias a residuos, pérdidas de materiales nucleares) el inventario de los materiales nucleares de los cuales son responsables. Estos cambios en el inventario serán transmitidos en el informe anual utilizando el anexo X del Reglamento (Euratom) no 302/2005. 
+Esta excepción sólo se concederá a toda una zona de balance de materiales en la que los materiales nucleares no se traten o almacenen junto con materiales nucleares para los que no puede concederse una excepción. 
+El seguimiento de los informes presentados como consecuencia de una excepción (cotejo de tránsito, plazo para la transmisión, control de calidad y de coherencia, etc.) es diferente del seguimiento exigido para los informes mensuales. 
+Ésta es una de las razones por las que la excepción sólo puede ser aplicada a una ZBM completa. Otra razón es la posibilidad de vincular una ZBM con excepción a una ZBM con exención de las salvaguardias del OIEA. 
+Sin embargo, un operador que posea al mismo tiempo materiales nucleares utilizados en actividades no nucleares que podrían obtener una excepción y otros materiales nucleares o actividades que no puedan optar a la excepción, podrá plantearse crear una ZBM independientemente, destinada únicamente a aquellos materiales nucleares y actividades que cumplan las condiciones para la excepción. En tal caso, todo movimiento producido entre esta ZBM y las ZBM que no tengan excepción tendrá que ser declarado únicamente por estas últimas. 
+2. La Comisión podrá conceder una excepción para una zona de balance de materiales que posea: 
+(Como se ha señalado anteriormente, los operadores que poseen materiales nucleares que cumplen más de uno de los criterios de excepción definidos en el artículo 19, apartado 2, tendrán obligación de presentar una solicitud de excepción distinta para cada situación.) 
+a) cantidades de materiales nucleares conmensurables con las especificadas en el anexo I-G, siempre que se conserven en el mismo estado durante largos períodos: 
+- fabricantes de aparatos de medición que utilizan fuentes selladas como patrones de calibración, 
+- laboratorios de análisis que utilizan materiales nucleares como fuentes de referencia, 
+- universidades, centros educativos, centros de investigación, etc., que utilizan materiales nucleares con fines de estudio; 
+b) uranio empobrecido, uranio natural o torio utilizado exclusivamente para actividades no nucleares: 
+- blindaje contra la radiación: 
+- poseedores o proveedores de equipos médicos o industriales que contengan uranio empobrecido como blindaje contra la radiación (por ejemplo, aparatos de radioterapia), 
+- proveedores de radioisótopos médicos o industriales que utilicen contenedores de transporte que incluyan uranio empobrecido, 
+- poseedores de uranio empobrecido utilizado como blindaje contra la radiación si su principal actividad no está vinculada con el ciclo del combustible nuclear, 
+- poseedores de contenedores de transporte que contengan uranio empobrecido como blindaje, 
+- balastos/contrapesos: 
+- líneas aéreas, helicópteros, excéntricas de vibradores, 
+- sistemas robóticos que incluyan contrapesos de uranio empobrecido, 
+- aleaciones de alta dureza: 
+- aleaciones de magnesio y torio utilizadas en aplicaciones aeroespaciales, 
+- catalizadores para uso en la industria química, 
+- pigmentos para vidrio; 
+c) materiales fisionables especiales cuando se utilicen en cantidades del orden del gramo o inferiores, como elementos sensibles en los aparatos: 
+fabricantes de detectores de humo, 
+fabricantes de cámaras de fisión; 
+d) plutonio que tenga una abundancia isotópica de plutonio 238 superior al 80 %: 
+fabricantes de marcapasos. 
+3. A más tardar el 31 de enero de cada año, las personas o empresas a las que se haya concedido una excepción enviarán un informe anual a la Comisión en el que se describirá la situación al final del año anterior, utilizando a tal efecto el formulario cuyo modelo figura en el anexo X. 
+El informe anual del anexo X debe incluir (véase el punto 3.3.7.3, ejemplo 2): 
+- el inventario de cada categoría de materiales nucleares a principios del año 
+(véase el ejemplo 2, número de declaración 20, número de asiento 1), 
+- los cambios en el inventario que incrementen las existencias de materiales nucleares que posee la ZBM: 
+- RD (domestic receipt, recepción interna) para nuevas adquisiciones de materiales nucleares para los que se concede una excepción cuando el proveedor está en la UE 
+(véase el ejemplo 2, número de declaración 20, número de asiento 2), 
+- RF (foreign receipt, recepción externa) para nuevas adquisiciones de materiales nucleares para los que se concede una excepción cuando el proveedor no está en la UE 
+(véase el ejemplo 2, número de declaración 20, número de asiento 3), 
+- MP (material production, producción de materiales), por ejemplo, una instalación relacionada con tierras raras y la producción de materiales nucleares es un subproducto del tratamiento, 
+- los cambios en el inventario que reduzcan el inventario de materiales nucleares que posee la ZBM: 
+- SD (domestic shipment, envío interno) para la venta de materiales nucleares a un comprador domiciliado en la UE 
+(véase el ejemplo 2, número de declaración 20, números de asientos 6 y 7), 
+- SF (foreign shipment, envío externo) para la venta de materiales nucleares a un comprador domiciliado fuera de la UE 
+(véase el ejemplo 2, número de declaración 20, números de asientos 8 y 9), 
+- RA (rounding adjustment, ajuste de redondeo), 
+- TW (transfer to retained waste, transferencia a los residuos conservados) 
+(véase el ejemplo 2, número de declaración 20, número de asiento 10), 
+- TC (transfer to conditioned waste, transferencia a los residuos acondicionados), 
+- TU (termination of use, fin de la utilización), 
+- LA: si se descubre una pérdida accidental de materiales nucleares, este hecho ha de ser objeto de un informe especial y la Comisión ha de ser informada tan pronto como se tenga conocimiento de la pérdida. 
+Corrección 
+Cuando el operador descubre o la Comisión notifica un error en un informe anual, la corrección ha de ser presentada en el plazo de 15 días a partir del final del mes en que el error ha sido detectado. 
+Para corregir un informe se suprimirá el registro erróneo, identificado por medio de las referencias pertinentes (número de declaración y número del asiento) y se comunicará el registro con los datos correctos (véase el punto 3.3.7.3, ejemplo 2.1). 
+Nota: Si los materiales nucleares entran y posteriormente salen de una ZBM objeto de una excepción (por ejemplo, contenedor de transporte con uranio empobrecido) sin que se haya producido ningún cambio en la propiedad, dichas transferencias no tienen que ser declaradas. 
+- el inventario final de los materiales nucleares a finales del año, es decir, a 31 de diciembre 
+El informe anual deberá ser presentado a la Comisión el 31 de enero a más tardar. 
+Otros ejemplos de informes y corrección: 
+- Sin cambios (véase el punto 2.3.6.3, ejemplo 2.2) 
+- Recepciones y envíos de contenedores para transporte con uranio empobrecido que no impliquen cambio de poseedor o recepciones y envíos de equipos médicos o industriales que lleven blindaje de uranio empobrecido, por ejemplo, para mantenimiento (véase el punto 2.3.6.3, ejemplo 2.3) 
+- Consumo de material nuclear (véase el punto 2.3.6.3, ejemplo 2.4) 
+4. Cuando se hagan exportaciones de material nuclear a un tercer país, las personas o empresas a las que se haya concedido una excepción enviarán un informe a la Comisión lo antes posible y, a más tardar, 15 días antes de que termine el mes en que se realizó la exportación utilizando el formulario cuyo modelo figura en el anexo X. Este informe indicará la cantidad de material nuclear exportado y las existencias de material nuclear aún objeto de excepción. 
+Nota: Si la ZBM objeto de una excepción también está exenta de las salvaguardias del OIEA, tendrá que pedirse al OIEA una anulación de la exención para estos materiales nucleares antes de que se lleve a cabo la exportación. Este procedimiento, que se iniciará a instancias de la Comisión, puede llevar mucho tiempo. 
+Ejemplo de informe sobre exportaciones para el envío de materiales nucleares fuera de la UE (véase el punto 2.3.6.3, ejemplo 3): 
+El 12 de julio, un fabricante vende equipos de rayos gamma que contienen uranio empobrecido a un cliente de fuera de la UE: 
+- utilizando el anexo X del Reglamento (Euratom) no 302/2005, la exportación será comunicada a la Comisión a más tardar el 15 de agosto. Este informe permite a la Comisión cotejar las transferencias internacionales, 
+- el número de declaración del informe debe ser consecutivo (es decir, el número de la declaración anterior + 1), 
+- como el anexo X se usa para dos tipos diferentes de informe (informe anual e informe de exportación), el tipo de informe ha de figurar en la primera columna, 
+- se indica el código ZBM del cliente o, si se desconoce, su nombre y dirección, 
+- si el fabricante utiliza un código interno para identificar a sus clientes, podría usarse dicho procedimiento si los códigos, así como cualquier actualización de los mismos, se envían a la Comisión (véase el ejemplo 3, en el que EX-C940 se usa como código para identificar al cliente), 
+- esta exportación deberá incluirse en el informe anual utilizando el código de cambios en el inventario SF. 
+5. Cuando se importen de un tercer país materiales nucleares, las personas o empresas a las que se haya concedido una excepción presentarán una solicitud a la Comisión para que dichos materiales se incluyan en la lista de materiales objeto de excepción. La solicitud se enviará a la Comisión tan pronto como las personas o empresas conozcan la fecha de la transferencia y, a más tardar, 15 días antes de finalizar el mes en que se realice dicha transferencia, utilizándose el formulario cuyo modelo figura en el anexo IX. 
+Ejemplo de informe de importación (véase el punto 2.3.6.3, ejemplo 4) 
+Un proveedor de radioisótopos médicos recibe una docena de contenedores de transporte con uranio empobrecido adquiridos fuera de la UE. Los contenedores llegan el 28 de agosto. 
+- Se informa de esta recepción utilizando el anexo IX, que es el modelo que se usa también para la solicitud inicial de excepción. 
+- Este informe deberá ser presentado tan pronto como sea conocida la fecha de la transferencia y a más tardar el 15 de septiembre. Este informe permitirá a la Comisión confirmar que las condiciones para la excepción siguen siendo aplicables y hará posible el cotejo de transferencias internacionales. 
+- Asiento 13 del anexo IX: como no se trata de una solicitud inicial de excepción, ha de cumplimentarse la fecha de la recepción, así como el nombre del remitente y su dirección. 
+- La recepción se incluye en el informe anual utilizando el código de cambios en el inventario RF. 
+6. La Comisión podrá establecer otras cláusulas específicas relativas a la forma y periodicidad de los informes en las disposiciones particulares de control contempladas en el artículo 6. 
+Por medio de las PSP, la Comisión podrá conceder una excepción respecto al formato y la frecuencia de los informes que sea diferente de la descrita anteriormente: 
+- la frecuencia de los informes podrá ajustarse de anual a trimestral, semestral o quinquenal, según las circunstancias particulares correspondientes a cada operador, 
+- los formatos de informe utilizados pueden ser los descritos en los anexos III, IV y V, especialmente si existen unas PSP o un documento adjunto relativo a instalaciones (FA) en vigor para la instalación. 
+7. Si dejan de cumplirse las condiciones que daban derecho a la excepción, la Comisión la anulará tras informar a las personas o empresas a las que se haya concedido una excepción. 
+Cuando las condiciones en las cuales se concedió la excepción de acuerdo con este artículo dejen de cumplirse (por ejemplo, cambio de uso, recepción de materiales nucleares que no pueden ser objeto de excepción, etc.), el operador está obligado a informar a la Comisión lo antes posible. La Comisión informará a continuación al operador de que la excepción se ha suspendido (si el cambio en las condiciones es temporal) o se ha anulado, dependiendo de las circunstancias particulares del operador. Los informes tendrán que presentarse entonces siguiendo los procedimientos/el formato descrito en los artículos 10 a 18. 
+Si durante sus comprobaciones, la Comisión descubre que una instalación ya no cumple las condiciones para poder optar a una excepción, se pedirá al operador que facilite información adicional antes de suspender o anular las excepciones. 
+2.3.7.3. Ejemplos 
+Ejemplo 1: Solicitud de excepción inicial 
++++++ TIFF +++++ 
+Ejemplo 2: Informe anual 
+(1) Esta transacción exigió un informe sobre exportaciones, véase el ejemplo 3. 
+(2) Esta transacción exigió un informe sobre importaciones, véase el ejemplo 4. 
+(3) Estas operaciones no tienen por qué constar en el informe anual, pero deben conservarse como registros de operaciones. 
+Julio | Agosto | Septiembre | Octubre | Noviembre | Diciembre | 
+Venta de 1 equipo a cliente EU-C111 D = 84500 g (véase DN = 20 EN = 4) | Compra de uranio empobrecido a proveedor EU-F111 D = 80000 g (véase DN = 20 EN = 2) | Mantenimiento de equipo del cliente EU-C107 (3) | Venta de 1 equipo a cliente EU-C111 D = 84500 g (véase DN = 20 EN = 4) | Venta de 1 equipo a cliente EX-C912 D = 370000 g (1) (véase DN = 20 EN = 8) | Venta de 1 equipo a cliente EU-C111 D = 370000 g (véase DN = 20 EN = 4) | 
+Mantenimiento de equipo del cliente EU-C107 (3) | Importación de uranio empobrecido de proveedor EX-F901 D = 2500000 g (2) (véase DN = 20 EN = 3) | Mantenimiento de equipo del cliente EX-C903 (3) | Venta de 1 equipo a cliente EU-C122 D = 27000 g (véase DN = 20 EN = 6) | Compra de uranio empobrecido a proveedor EU-F111 D = 250000 g (véase DN = 20 EN = 2) | Importación de uranio empobrecido de proveedor EX-F901 D = 1000000 g (2) (véase DN = 20 EN = 3) | 
+Venta de 1 equipo a cliente EX-C940 D = 78000g (1) (véase DN = 20 EN = 7) | Mantenimiento de equipo del cliente EU-C177 (3) | Venta de 1 equipo a cliente EU-C102 D = 84500g (véase DN = 20 EN = 5) | Transferencia a los residuos conservados de un equipo desclasificado D = 55000g (véase DN = 20 EN = 9) | Venta de 1 equipo a cliente EX-C940 D = 78000 (1) (véase DN = 20 EN = 7) | Mantenimiento de equipo del cliente EX-C903 (3) | 
+Ejemplo 2: Informe anual (continuación) 
+ANEXO XINFORME ANUAL O INFORME SOBRE EXPORTACIONES DE MATERIALES NUCLEARES EXENTOS (1)COMISIÓN EUROPEA — CONTROL DE SEGURIDAD DE EURATOMCódigo ZBMZYXVFecha de declaración 31/01/2006Declaración no __20 Nombre de la instalación _Int. Soc. Eq. Radiographie_Período de informedel 01/01/2005 al _ 31/12/2005__ | 
+Tipo de informe (2) | Asiento (3) | Ref. (4) | Información sobre los cambios en el inventario (5) | Código ZBM o nombre y dirección de la instalación correspondiente | Elemento | Enriquecimiento | Peso del elemento | Utilización | Tipo de excepción con arreglo al artículo 19, apartado 2 | 
+Declaración | Asiento | Nuclear o no nuclear (6) | Descripción (7) | 
+A | 1 | | | BB | | D | | 10350000 | NN | blindaje | apartado 2, letra b) | 
+A | 2 | | | RD | EU-F111 | D | | 330000 | NN | blindaje | apartado 2, letra b) | 
+A | 3 | | | RF | EX-F901 | D | | 3500000 | NN | blindaje | apartado 2, letra b) | 
+A | 4 | | | SD | EU-C111 | D | | 539000 | NN | blindaje | apartado 2, letra b) | 
+A | 5 | | | SD | EU-C102 | D | | 84500 | NN | blindaje | apartado 2, letra b) | 
+A | 6 | | | SD | EU-C122 | D | | 27000 | NN | blindaje | apartado 2, letra b) | 
+A | 7 | | | SF | EX-C940 | D | | 156000 | NN | blindaje | apartado 2, letra b) | 
+A | 8 | | | SF | EX-C912 | D | | 370000 | NN | blindaje | apartado 2, letra b) | 
+A | 9 | | | TW | | D | | 55000 | NN | blindaje | apartado 2, letra b) | 
+| | | | | | | | | | | | 
+A | 10 | | | BA | | D | | 12948500 | NN | blindaje | apartado 2, letra b) | 
+Ejemplo 2.1: Informe anual — Corrección 
+Ejemplo 2.1.1: Las existencias al principio del período son erróneas 
+Para corregir un error en un informe anual anterior, se utiliza el anexo X: la línea que debe corregirse se identifica por su número de declaración y número de asiento originales, que deben consignarse en la columna "ref." en la nueva declaración. Todas las demás columnas del anexo se deben rellenar incluyendo la corrección. 
+Por ejemplo: En la última declaración, número 20, se produjo un error mecanográfico en las existencias al principio del período (número de asiento 1) y, en consecuencia, las existencias contables finales son erróneas (número de asiento 10). 
+Se debe enviar un nuevo informe (declaración número 21) a la Comisión en cuanto se detecte el error. 
+- Los nuevos valores notificados en la declaración 21, asiento 1, sustituyen a todos los valores notificados en la declaración 20, asiento 1. 
+- Los nuevos valores notificados en la declaración 21, asiento 2, sustituyen a todos los datos notificados en la declaración 20, asiento 10. 
+ANEXO XINFORME ANUAL O INFORME SOBRE EXPORTACIONES DE MATERIALES NUCLEARES EXENTOS (1)COMISIÓN EUROPEA — CONTROL DE SEGURIDAD DE EURATOMCódigo ZBMZYXVFecha de declaración 15/03/2006Declaración no __21Nombre de la instalación Int. Soc. Eq. RadiographiePeríodo de informedel 01/01/2005 al _ 31/12/2005__ | 
+Tipo de informe (2) | Asiento (3) | Ref. (4) | Información sobre los cambios en el inventario (5) | Código ZBM o nombre y dirección de la instalación correspondiente | Ele-mento | Enriqueci-miento | Peso del elemento | Utilización | Tipo de excepción con arreglo al artículo 19, apartado 2 | 
+Declaración | Asiento | Nuclear o no nuclear (6) | Descripción (7) | 
+A | 1 | 20 | 1 | BB | | D | | 10530000 | NN | blindaje | apartado 2, letra b) | 
+A | 2 | 20 | 10 | BA | | D | | 13128500 | NN | blindaje | apartado 2, letra b) | 
+| | | | | | | | | | | | 
+| | | | | | | | | | | | 
+Ejemplo 2.1.2: La información en NEGRITAS es errónea 
+En este ejemplo, se examinan algunos errores típicos: 
+- Corrección de la instalación correspondiente 
+- Anulación de una importación 
+- Corrección del peso del elemento 
+- Adición de una venta que no había sido notificada 
+Julio | Agosto | Septiembre | Octubre | Noviembre | Diciembre | 
+Venta de 1 equipo a cliente EU-C111 D = 84500 g | Compra de uranio empobrecido al proveedor EU-F111 D = 80000 g | Revisión de equipo del cliente EU-C107 | Venta de 1 equipo a cliente EU-C711 D = 84500 g | Venta de 1 equipo al cliente EX-C912 D = 370000 g | Venta de 1 equipo al cliente EU-C111 D = 370000 g | 
+Revisión de equipo del cliente EU-C107 | Importación de uranio empobrecido del proveedor EX-F901 D = 2500000 g | Revisión de equipo del cliente EX-C903 | Venta de 1 equipo al cliente EU-C122 D = 27000 g | Compra de uranio empobrecido al proveedor EU-F111 D = 250000 g | Importación de uranio empobrecido del proveedor EX-F901 D = 1000000 g Anulada | 
+Venta de 1 equipo al cliente EX-C940 D = 78000 g | Revisión de equipo del cliente EU-C177 | Venta de 1 equipo al cliente EU-C102 D = 48500 g | Transferencia a los residuos conservados de un equipo desclasificado D = 55000 g | Venta de 1 equipo al cliente EX-C940 D = 78000 | Revisión de equipo del cliente EX-C903 | 
+| | | Venta de 1 equipo al cliente EU-C109 D = 24500 g No notificada | | | 
+Se envía una nueva declaración (número 22) utilizando el anexo X a la Comisión para: 
+1) Corregir la instalación correspondiente que identifica al cliente que compró el equipo en octubre. La transacción se ha incluido en la declaración número 20, asiento 4: 
+- primer paso: suprimir el envío del cliente EU-C111: los valores notificados en la declaración 22, entrada 1, sustituyen a todos los valores notificados en la declaración 20, asiento 4, 
+- segundo paso: notificar el envío al cliente correcto, EU-C711, en un nuevo asiento (asiento 2). 
+2) Anular la importación de uranio empobrecido del proveedor EX-F901 incluida en la declaración 20, asiento 3. Los valores notificados en la declaración 22, asiento 3, sustituyen a todos los valores notificados en la declaración 20, asiento 3. 
+3) Corregir el peso del elemento del equipo vendido al cliente EU-C102 incluido en la declaración 20, asiento 5. Los valores notificados en la declaración 22, asiento 4, sustituyen a todos los valores notificados en la declaración 20, asiento 5. 
+4) Añadir la venta que no se comunicó notificando un nuevo asiento (asiento 5). 
+5) Ajustar las existencias de material: el último BA ha sido notificado en la declaración 21, asiento 2, por lo que esta línea debe mencionarse en la columna "ref.". Los valores notificados en la declaración 22, asiento 6, sustituyen a todos los datos notificados en la declaración 21, asiento 2. 
+ANEXO XINFORME ANUAL O INFORME SOBRE EXPORTACIONES DE MATERIALES NUCLEARES EXENTOS (1)COMISIÓN EUROPEA — CONTROL DE SEGURIDAD DE EURATOMCódigo ZBMZYXVFecha de declaración 31/05/2006Declaración no __22 Nombre de la instalación Int. Soc. Eq. RadiographiePeríodo de informedel 01/01/2005 al _ 31/12/2005__ | 
+Tipo de informe (2) | Asiento (3) | Ref. (4) | Información sobre los cambios en el inventario (5) | Código ZBM o nombre y dirección de la instalación correspondiente | Elemento | Enriqueci-miento | Peso del elemento | Utilización | Tipo de excepción con arreglo al artículo 19, apartado 2 | 
+Declaración | Asiento | Nuclear o no nuclear (6) | Descripción (7) | 
+A | 1 | 20 | 4 | SD | EU-C111 | D | | 454500 | NN | blindaje | apartado 2, letra b) | 
+A | 2 | | | SD | EU-C711 | D | | 84500 | NN | blindaje | apartado 2, letra b) | 
+A | 3 | 20 | 3 | RF | EX-F901 | D | | 2500000 | NN | blindaje | apartado 2, letra b) | 
+A | 4 | 20 | 5 | SD | EU-C102 | D | | 48500 | NN | blindaje | apartado 2, letra b) | 
+A | 5 | | | SD | EU-C109 | D | | 24500 | NN | blindaje | apartado 2, letra b) | 
+A | 6 | 21 | 2 | BA | | D | | 12140000 | NN | blindaje | apartado 2, letra b) | 
+| | | | | | | | | | | | 
+Ejemplo 2.1.3: La información en NEGRITAS es errónea (continuacion) 
+Venta de 1 equipo al cliente EU-C111 D = 84500 g | Compra de uranio empobrecido al proveedor EU-F111 D = 80000 g | Revisión de equipo del cliente EU-C107 | Venta de 1 equipo al cliente EU-C111 D = 28500 g | Venta de 1 equipo al cliente EX-C912 D = 370000 g | Venta de 1 equipo al cliente EU-C111 D = 370000 g | 
+Revisión de equipo del cliente EU-C107 | Importación de uranio empobrecido del proveedor EX-F901 D = 2500000 g | Revisión de equipo del cliente EX-C903 | Venta de 1 equipo al cliente EU-C122 D = 27000 g | Compra de uranio empobrecido al proveedor EU-F111 D = 250000 g | Importación de uranio empobrecido del proveedor EX-F901 D = 1000000 g Anulada | 
+Venta de 1 equipo al cliente EX-C940 D = 78000 g | Revisión de equipo del cliente EU-C177 | Venta de 1 equipo al cliente EU-C201 D = 84500 g | Transferencia a los residuos conservados de un equipo desclasificado | Venta de 1 equipo al cliente EX-C940 D = 78000 | Revisión de equipo del cliente EX-C903 | 
+| | | Venta de 1 equipo al cliente EU-C109 D = 24500 g | | | 
+Para corregir el peso del elemento del equipo vendido al cliente EU-C711 notificado en la declaración 22, asiento 2, debe enviarse una nueva declaración a la Comisión con un nuevo asiento (asiento 1). 
+El último BA notificado en la declaración 22, asiento 6, también debe ajustarse mediante un nuevo asiento (asiento 2). 
+ANEXO XINFORME ANUAL O INFORME SOBRE EXPORTACIONES DE MATERIALES NUCLEARES EXENTOS (1)COMISIÓN EUROPEA — CONTROL DE SEGURIDAD DE EURATOMCódigo ZBMZYXVFecha de declaración 31/07/2006Declaración no __23Nombre de la instalación_ Int. Soc. Eq. RadiographiePeríodo de informe:del 01/01/2005 al _ 31/12/2005__ | 
+Tipo de informe (2) | Asiento (3) | Ref. (4) | Información sobre los cambios en el inventario (5) | Código ZBM o nombre y dirección de la instalación correspondiente | Elemento | Enriqueci-miento | Peso del elemento | Utilización | Tipo de excepción con arreglo al artículo 19, apartado 2 | 
+Declaración | Asiento | Nuclear o no nuclear (6) | Descripción (7) | 
+A | 1 | 22 | 2 | SD | EU-C711 | D | | 28500 | NN | blindaje | apartado 2, letra b) | 
+A | 2 | 22 | 6 | BA | | D | | 12196000 | NN | blindaje | apartado 2, letra b) | 
+| | | | | | | | | | | | 
+| | | | | | | | | | | | 
+| | | | | | | | | | | | 
+Ejemplo 2.2: Informe anual — Sin cambios 
+ANEXO XINFORME ANUAL O INFORME SOBRE EXPORTACIONES DE MATERIALES NUCLEARES EXENTOS (1)COMISIÓN EUROPEA — CONTROL DE SEGURIDAD DE EURATOMCódigo ZBM ZYXAFecha de declaración 31/01/2006Declaración no __2Nombre de la instalación Hospital APeríodo de informe:del 01/01/2005 al _ 31/12/2005__ | 
+Tipo de informe (2) | Asiento (3) | Ref. (4) | Información sobre los cambios en el inventario (5) | Código ZBM o nombre y dirección de la instalación correspondiente | Elemento | Enriqueci-miento | Peso del elemento | Utilización | Tipo de excepción con arreglo al artículo 19, apartado 2 | 
+Declaración | Asiento | Nuclear o no nuclear (6) | Descripción (7) | 
+A | 1 | | | BB | | D | | 250000 | NN | blindaje | apartado 2, letra b) | 
+A | 2 | | | BA | | D | | 250000 | NN | blindaje | apartado 2, letra b) | 
+| | | | | | | | | | | | 
+Ejemplo 2.3: Informe anual — Envíos y recepciones de contenedores de transporte por los proveedores de radioisótopos 
+Período: del 1.1.2004 al 31.12.2004; los contenedores van a los clientes de radioisótopos y vuelven al proveedor de radioisótopos. 
+Período: del 1.1.2005 al 31.12.2005; actividades rutinarias más compras de 10 nuevos contenedores de transporte y desclasificación y transferencia a los residuos conservados de 5 contenedores. 
+ANEXO XINFORME ANUAL O INFORME SOBRE EXPORTACIONES DE MATERIALES NUCLEARES EXENTOS (1)COMISIÓN EUROPEA — CONTROL DE SEGURIDAD DE EURATOMCódigo ZBM ZMNPFecha de declaración 31/01/2005Declaración no __2Nombre de la instalación CERIAN S.A.Período de informedel 01/01/2004 al _ 31/12/2004__ | 
+Tipo de informe (2) | Asiento (3) | Ref. (4) | Información sobre los cambios en el inventario (5) | Código ZBM o nombre y dirección de la instalación correspondiente | Elemento | Enriqueci-miento | Peso del elemento | Utilización | Tipo de excepción con arreglo al artículo 19, apartado 2 | 
+Declaración | Asiento | Nuclear o no nuclear (6) | Descripción (7) | 
+A | 1 | | | BB | | D | | 12250000 | NN | blindaje | apartado 2, letra b) | 
+A | 1 | | | BA | | D | | 12250000 | NN | blindaje | apartado 2, letra b) | 
+ANEXO XINFORME ANUAL O INFORME SOBRE EXPORTACIONES DE MATERIALES NUCLEARES EXENTOS (1)COMISIÓN EUROPEA — CONTROL DE SEGURIDAD DE EURATOMCódigo ZBMZMNPFecha de declaración 31/01/2006Declaración no __3Nombre de la instalación _ CERIAN S.A.Período de informedel 01/01/2005 al _ 31/12/2005__ | 
+Tipo de informe (2) | Asiento (3) | Ref. (4) | Información sobre los cambios en el inventario (5) | Código ZBM o nombre y dirección de la instalación correspondiente | Elemento | Enriqueci-miento | Peso del elemento | Utilización | Tipo de excepción con arreglo al artículo 19, apartado 2 | 
+Declaración | Asiento | Nuclear o no nuclear (6) | Descripción (7) | 
+A | 1 | | | BB | | D | | 12250000 | NN | Contenedores de transporte | apartado 2, letra b) | 
+A | 2 | | | RD | EU-F614 | D | | 125425 | NN | Cont. de transp. | apartado 2, letra b) | 
+A | 3 | | | RA | | D | | -25 | NN | Cont. de transp. | apartado 2, letra b) | 
+A | 4 | | | TW | | D | | 310800 | NN | Cont. de transp. | apartado 2, letra b) | 
+A | 5 | | | BA | | | | 12064600 | NN | Cont. de transp. | apartado 2, letra b) | 
+Ejemplo 2.4: Informe anual — Consumo de materiales nucleares 
+Un laboratorio de control utiliza nitrato de uranio para fabricar filamentos para un espectrómetro de masas. 
+Esta instalación podría acogerse a una excepción con arreglo al artículo 19, apartado 2, letra c). 
+En su declaración anual podría notificarse lo siguiente: RD en relación con la compra de nitrato de uranio, TU en relación con el uranio constitutivo de los filamentos y TW en relación con el residuo producido y las existencias finales. 
+ANEXO XINFORME ANUAL O INFORME SOBRE EXPORTACIONES DE MATERIALES NUCLEARES EXENTOS (1)COMISIÓN EUROPEA — CONTROL DE SEGURIDAD DE EURATOMCódigo ZBM ZABCFecha de declaración 31/01/2006Declaración no __3Nombre de la instalación _Control LabPeríodo de informedel 01/01/2005 al _ 31/12/2005__ | 
+Tipo de informe (2) | Asiento (3) | Ref. (4) | Información sobre los cambios en el inventario (5) | Código ZBM o nombre y dirección de la instalación correspondiente | Elemento | Enriqueci-miento | Peso del elemento | Utilización | Tipo de excepción con arreglo al artículo 19, apartado 2 | 
+Declaración | Asiento | Nuclear o no nuclear (6) | Descripción (7) | 
+A | 1 | | | BB | | L | 1% | 1.346 | NN | Componente de instrumento | apartado 2, letra c) | 
+A | 2 | | | RD | FQWH | L | 1% | 5.00 | NN | Componente de instrumento | apartado 2, letra c) | 
+A | 3 | | | TU | | L | 1% | 2.125 | NN | Componente de instrumento | apartado 2, letra c) | 
+A | 4 | | | TW | | L | 1% | 1.275 | NN | Componente de instrumento | apartado 2, letra c) | 
+A | 5 | | | BA | | L | 1% | 2.948 | NN | Componente de instrumento | apartado 2, letra c) | 
+| | | | | | | | | | | | 
+Ejemplo 3: Informe de exportación para uranio empobrecido que supone un cambio de propiedad 
+ANEXO XINFORME ANUAL O INFORME SOBRE EXPORTACIONES DE MATERIALES NUCLEARES EXENTOS (1)COMISIÓN EUROPEA — CONTROL DE SEGURIDAD DE EURATOMCódigo ZBMZYXVFecha de declaración 31/07/2005Declaración no__13Nombre de la instalación_Int. Soc. Eq. RadiographiePeríodo de informedel 01/01/2005 al _ 31/12/2005__ | 
+Tipo de informe (2) | Asiento (3) | Ref (4) | Información sobre los cambios en el inventario (5) | Código ZBM o nombre y dirección de la instalación correspondiente | Elemento | Enriqueci-miento | Peso del elemento | Utilización | Tipo de excepción con arreglo al artículo 20, apartado 2 | 
+Declaración | Asiento | Nuclear o no nuclear (6) | Descripción (7) | 
+EXP | 1 | | | SF | EX-C940 | D | | 78000 | NN | blindaje | apartado 2, letra b) | 
+| | | | | | | | | | | | 
+| | | | | | | | | | | | 
+Fecha y lugar de envío del informe: 31/07/2005 Nombre y cargo del firmante: Firma: | 
+Ejemplo 4: Solicitud de excepción tras la compra de un contenedor de uranio empobrecido 
++++++ TIFF +++++ 
+2.4. Capítulo IV: Transferencias entre Estados (artículos 20 a 23) 
+Los artículos 20 y 21 son aplicables a las transferencias de materiales básicos y de materiales fisionables especiales, pero no a las de materiales nucleares contenidos en residuos o de minerales. 
+Obsérvese que, por imposición de los acuerdos internacionales entre Euratom y los terceros países, los plazos se indican en días hábiles del país que envía la notificación. También se tienen en cuenta los días festivos locales o regionales. 
+Obsérvese que el período consecutivo de 12 meses significa 12 meses seguidos, no un año civil. 
+2.5. Capítulo V: Disposiciones específicas (artículos 24 a 33) 
+2.5.1. Transmisión de información y datos al OIEA (artículo 29) 
+Este artículo reproduce la modificación de 1993 del Reglamento (Euratom) no 3227/76. 
+Las razones que justificaron dicha modificación (a saber, transmisión al OIEA de la información obtenida por la Comisión en virtud del Reglamento adicional a la información descrita en los acuerdos de salvaguardias) siguen estando vigentes. 
+Por este motivo, se consideró necesario mantener este artículo. 
+Observación: 
+En lo que se refiere al cumplimiento por los Estados miembros del plazo que figura en el artículo 32, la Comisión tomará en consideración las demoras que pudiera ocasionar la adaptación de la legislación nacional para el primer año de aplicación del Reglamento (Euratom) no 302/2005. 
+2.5.2. Disposiciones sobre el material nuclear contenido en los residuos (artículos 30 a 32 y anexos XII a XV) 
+2.5.2.1. Definiciones pertinentes para el material nuclear contenido en los residuos 
+1) Material nuclear en el inventario 
+El material nuclear contenido en residuos se origina normalmente en un "flujo de residuos" de una actividad de tratamiento de material nuclear. Estos "flujos de residuos" se tienen adecuadamente en cuenta en la instalación que produce los residuos y se notifican como cualquier otro material nuclear que figura en el inventario. 
+2) Residuos conservados 
+Los "residuos conservados" son materiales nucleares generados en el proceso o en un accidente operativo que se consideran irrecuperables por el momento, pero se almacenan. El cambio en el inventario real utilizado en los registros e informes contables se denomina "transferencia a los residuos conservados" (TW). El material transferido a los residuos conservados se almacena en la zona de balance de materiales (ZBM) y sigue estando sujeto a las salvaguardias del OIEA (Acuerdo de salvaguardias), pero no está incluido en el inventario de la ZBM. 
+Se refiere a los materiales nucleares contenidos en los residuos, medidos o estimados sobre la base de mediciones, y que se hayan transferido a un lugar determinado dentro de la zona de balance de materiales de la que puedan recuperarse. Por regla general, los residuos pertenecientes a esta categoría no han sido aún acondicionados y se consideran irrecuperables económicamente con la tecnología actual. 
+3) Residuos acondicionados 
+"Residuos acondicionados" son materiales nucleares contenidos en los residuos, medidos o estimados sobre la base de mediciones, y que hayan sido acondicionados de forma (por ejemplo, en vidrio, cemento, hormigón o alquitrán) que no puedan utilizarse con fines nucleares ulteriormente. El cambio en el inventario real utilizado en los registros e informes contables se denomina "transferencia a los residuos acondicionados" (TC). Por regla general, este material no está ya sujeto a las salvaguardias del OIEA con arreglo a los Acuerdos sobre salvaguardias [cese con arreglo a los apartados 11 y 35 de INFCIRC/193, INFCIRC/263 o INFCIRC/290]. Esta categoría podría aplicarse también a algunos casos específicos cuando hayan cesado las salvaguardias del OIEA en materiales nucleares contenidos en residuos que no estén plenamente acondicionados. 
+Sin embargo, con arreglo al artículo 2, letra a), inciso viii), del Protocolo adicional, debe notificarse al OIEA la información relativa a la localización o procesamiento ulterior de "residuos acondicionados" de actividad intermedia o alta que contengan plutonio, uranio altamente enriquecido o uranio-233 con respecto a los cuales hayan cesado las salvaguardias en virtud del apartado 11 de INFCIRC/193, INFCIRC/263 o INFCIRC/290. En este contexto, "procesamiento ulterior" no incluye el reembalaje de desechos o su ulterior acondicionamiento, que no comprenda la separación de elementos, para su almacenamiento o evacuación. 
+4) Cese del control de seguridad de Euratom 
+El control de seguridad de Euratom deja de ser aplicable a los materiales nucleares descargados irreversiblemente al medio ambiente como resultado de una descarga planificada. Los materiales nucleares contenidos en tales descargas han sido medidos o estimados sobre la base de mediciones. 
+El cese del control de seguridad de Euratom (y de las salvaguardias del OIEA) en relación con estos materiales se produce en el punto de descarga. 
+5) Cese del control de seguridad de Euratom en relación con los residuos que contienen bajas concentraciones de material nuclear 
+También puede cesar el control de seguridad de Euratom en relación con los residuos que contengan concentraciones muy bajas de material nuclear, según se indica en el cuadro que figura a continuación, que se consideran prácticamente irreversibles, aun en caso de que no se hayan descargado al medio ambiente. El cese del control de seguridad de Euratom en relación con residuos que contengan concentraciones de material nuclear superiores a las que figuran en el cuadro podrá concederse caso por caso cuando esté justificado. 
+Uranio natural y empobrecido | 1000 g/tonelada | 
+Uranio de bajo enriquecimiento | 200 g/tonelada | 
+Uranio de alto enriquecimiento | 10 g/tonelada | 
+Plutonio | 4 g/tonelada | 
+2.5.2.2. Requisitos contables relativos al material nuclear contenido en los residuos 
+6) Material nuclear en el inventario 
+El material nuclear contenido en los residuos que no hayan sido aún declarados como residuos conservados, acondicionados o descargados al medio ambiente se contabiliza y notifica como cualquier otro material nuclear en el inventario. 
+7) Material nuclear contenido en los residuos conservados (artículo 30) 
+Las instalaciones que produzcan, manejen, procesen o almacenen residuos conservados facilitarán las BTC sobre la base de las cuales se prepararán las PSP. Las BTC se prepararán con arreglo al anexo I-H del Reglamento (Euratom) no 302/2005 si se trata de una instalación relacionada tan sólo con materiales nucleares contenidos en residuos o, alternativamente, se incluirán las actividades pertinentes en las BTC de la instalación que genera los residuos conservados. Cada instalación está también obligada a facilitar un programa anual de actividades referido, si es posible, a los dos años siguientes. Si la instalación genera residuos conservados, este programa anual debe incluirse en el mismo programa de actividades que debe facilitarse con arreglo al artículo 5. 
+El material se transfiere del inventario principal a los residuos conservados utilizando el código de cambios en el inventario TW (transferencia a los residuos conservados). Se sustrae del inventario de materiales sujetos a obligaciones con un tercer país y por regla general se les asignará el código de obligación P. Los residuos conservados se reintroducen en el inventario principal utilizando el código FW (transferencia de residuos conservados) para cualquier tratamiento que implique la separación de elementos o para cualquier envío. 
+Cualquier tratamiento de residuos conservados que no implique la separación de elementos puede efectuarse fuera del inventario principal. El operador pone a Euratom al corriente del tratamiento en el programa de actividades, debiendo haber registros disponibles (incluidas las cantidades de material de que se trate) en la instalación. 
+A fin de establecer un punto de partida, debe establecerse una lista inicial de existencias, cuando proceda, del material nuclear contenido en los residuos conservados. Se incluirán las existencias estimadas (por ejemplo, utilizando el formulario del LIF o la LAI), normalmente con código de obligación P sobre la base de los mejores valores disponibles. La lista inicial de existencias debe facilitar datos sobre las cantidades totales de materiales nucleares en cada ZBM, por categoría (Pu, HEU, LEU, N, D y T) y desglosados según las zonas de almacenamiento y el tipo de residuo. La lista se actualizará anualmente ajustándose a la EIF. La documentación del operador que justifique las cifras deberá ponerse a disposición de los inspectores del control de seguridad de Euratom en el emplazamiento si éstos la solicitan. 
+En caso de envío, la instalación declara el código de cambio en el inventario FW, seguido de SD o SF, normalmente con código de obligación P. 
+En caso de recepción de material que quepa considerar residuos conservados, el operador declara el código de transacción RD o RF seguido de TW, normalmente con código de obligación P. 
+Los registros contables y de operaciones, que incluirán todos los movimientos, se deberán poner a disposición de los inspectores del control de seguridad de Euratom en el emplazamiento si éstos los solicitan. 
+No se precisa notificación previa (artículos 20 y 21) de las recepciones y envíos de residuos conservados. 
+Los operadores están obligados a realizar una EIF anual. La EIF correspondiente a residuos conservados no exige una nueva medición del material nuclear, sino que se establece sobre la base de los mejores valores disponibles. La lista de existencias se actualizará anualmente tras la EIF. 
+Para los materiales previamente declarados como residuos conservados no hacen falta ni LIF [anexo V del Reglamento (Euratom) no 302/2005] ni IBM [anexo IV del Reglamento (Euratom) no 302/2005]. Las transacciones TW o FW se incluirán en los ICI [anexo III del Reglamento (Euratom) no 302/2005] de la ZBM que generó el residuo conservado. 
+8) Material nuclear contenido en los residuos acondicionados (artículo 30) 
+Las instalaciones que produzcan, manejen, procesen o almacenen residuos acondicionados facilitarán BTC sobre la base de las cuales se prepararán PSP. Las BTC se prepararán con arreglo al anexo I-H del Reglamento (Euratom) no 302/2005 si se trata de una instalación relacionada tan sólo con materiales nucleares contenidos en residuos o, alternativamente, se incluirán las actividades pertinentes en las BTC de la instalación que genera los residuos acondicionados. Cada instalación está también obligada a facilitar un programa anual de actividades referido, si es posible, a los dos años siguientes. 
+El material se transfiere del inventario principal a los residuos acondicionados utilizando el código de cambios en el inventario TC (transferencia a los residuos acondicionados). Se sustrae del inventario de materiales sujetos a obligaciones con un tercer país y por regla general se les asignará el código de obligación P. Cuando proceda, cesarán las salvaguardias del OIEA en relación con este material con arreglo a los artículos 11 y 35 de los Acuerdos sobre salvaguardias. 
+A fin de establecer un punto de partida, debe confeccionarse una lista inicial del material nuclear contenido en los residuos acondicionados, cuando proceda. Se incluirán las existencias estimadas (por ejemplo, utilizando el formulario del LIF o la LAI (lista de artículos del inventario), normalmente con código de obligación P sobre la base de los mejores valores disponibles. La lista inicial de existencias debe facilitar datos sobre las cantidades totales de materiales nucleares para cada ZBM, por categoría (Pu, HEU, LEU, N, D y T) y desglosados según las zonas de almacenamiento y el tipo de residuo. La lista se actualizará anualmente ajustándose a la EIF. La documentación del operador que justifique las cifras deberá ponerse a disposición de los inspectores del control de seguridad de Euratom en el emplazamiento si éstos la solicitan. 
+Los envíos de residuos acondicionados efectuados desde la instalación se notifican a Euratom mediante el formulario del anexo XIII. Las recepciones de residuos acondicionados procedentes del exterior de la UE (o del interior si el remitente carece de código ZBM) se notifican mediante el formulario del anexo XIV. Las notificaciones de los anexos XIII y XIV podrán agruparse por año y no precisan de información sobre el código de obligación. No se exige notificación si no se produce ninguna transacción. 
+No se precisa notificación previa (artículos 20 y 21) de las recepciones y envíos de residuos acondicionados. 
+A fin de cumplir las obligaciones contenidas en el Protocolo adicional, debe notificarse previamente (artículo 31) a la Comisión cualquier campaña de tratamiento de residuos entre los que figuren residuos de actividad intermedia y alta que contengan plutonio, uranio altamente enriquecido o uranio-233, pero excluyendo el reembalaje o el ulterior acondicionamiento sin separación de elementos (utilizando el formulario del anexo XII). Si se trata de campañas de tratamiento de residuos de baja actividad, no se precisa la notificación. Además, con arreglo al artículo 32, letra c), debe prepararse cada año un informe anual sobre los cambios de ubicación de los residuos acondicionados que contengan plutonio, uranio altamente enriquecido o uranio-233, utilizando el formulario del anexo XV. Se entiende que esto se refiere principalmente a los residuos. 
+Los registros contables y de operaciones, que incluirán todos los movimientos, se deberán poner a disposición de los inspectores del control de seguridad de Euratom en el emplazamiento si éstos los solicitan. 
+Los operadores están obligados a realizar una EIF anual. La EIF correspondiente a residuos acondicionados no exige una nueva medición del material nuclear, sino que se establece sobre la base de los mejores valores disponibles. La lista de existencias se actualizará anualmente tras la EIF. 
+Para los materiales previamente declarados como residuos acondicionados no hacen falta ni ICI [anexo III del Reglamento (Euratom) no 302/2005], ni LIF [anexo V del Reglamento (Euratom) no 302/2005] ni IBM [anexo IV del Reglamento (Euratom) no 302/2005]. 
+9) Material nuclear sobre el que puede cesar la aplicación del control de seguridad de Euratom 
+Se descarga el material del inventario principal al medio ambiente utilizando el código de transacción TE (descarga en el medio ambiente) y se sustrae del inventario de materiales sujetos a obligaciones con un tercer país. Deja de ejercerse sobre este material el control de seguridad de Euratom. 
+El material sobre el que deba cesar el control de seguridad de Euratom, pero que no vaya a descargarse al medio ambiente, se sustrae del inventario principal utilizando el código de transacción TU (fin de la utilización) y se sustrae de la cuenta del código de obligación correspondiente. 
+2.5.2.3. Ejemplos de varios tipos de "residuo" y su correspondiente notificación 
+El cuadro que figura a continuación presenta algunos ejemplos de flujos de residuos típicos que se encuentran en el ciclo del combustible nuclear en Europa, así como sus posibles mecanismos de notificación. 
+Para que un material pueda considerarse "residuo acondicionado" (TC), debe estar dispersado en una matriz de en vidrio, cemento, hormigón o alquitrán de manera tal que no resulte adecuado para nuevos usos nucleares. El operador y la Comisión pueden concertar los mecanismos de notificación caso por caso. Las directrices sobre concentraciones que aplica provisionalmente el control de seguridad de Euratom (y el OIEA, cuando procede) son las recomendadas por los expertos de los Estados miembros del OIEA e incluidas en el documento político 14 del OIEA sobre los residuos. 
+Material nuclear contenido en "residuos" 
+Ejemplos de notificación con arreglo al Reglamento (Euratom) no 302/2005 
+Descripción del material | Códigos de transacción | 
+Combustible gastado en piscinas | Material nuclear en el inventario (NMI) | 
+Combustible gastado en contenedores de almacenamiento en seco | NMI | 
+Elementos de combustible gastado en silos de almacenamiento | NMI | 
+Combustible gastado en repositorios definitivos | NMI | 
+Solución que contiene productos de fisión en instalaciones de reprocesado | Normalmente TW en caso de almacenamiento | 
+Elementos y desechos de combustible procedentes de un PIE dispersos en matrices de cemento | TC en caso de acondicionamiento | 
+Fragmentos de vaina lixiviados en instalaciones de reprocesado en matrices de cemento | TC en caso de acondicionamiento | 
+Virutas desencapsuladas con restos de material nuclear procedentes de instalaciones de reprocesado dispersas en matrices de cemento | TC en caso de acondicionamiento | 
+Finos no disueltos en instalaciones de reprocesado | TW en caso de almacenamiento, o TC en caso de acondicionamiento | 
+Efluentes líquidos procedentes de diversas actividades | TW en caso de almacenamiento, o TC en caso de acondicionamiento | 
+Residuos vitrificados procedentes de instalaciones de reprocesado | TC en caso de acondicionamiento normalmente | 
+Residuos en cemento procedentes de instalaciones de reprocesado | TC en caso de acondicionamiento | 
+Depósitos de residuos radiactivos, que suelen contener distintas cantidades de uranio y torio | Caso por caso | 
+Otro material contaminado por Pu | TW en caso de almacenamiento, o TC en caso de acondicionamiento | 
+Material nuclear encontrado durante la clausura y la limpieza de instalaciones antiguas | Figura en los libros como GA o FW y luego TW en caso de almacenamiento, o TC en caso de acondicionamiento | 
+Residuos en instalaciones de tratamiento de U | Caso por caso | 
+2.5.2.4. Actividades de verificación 
+1. Material nuclear en el inventario 
+En tanto el material nuclear siga en el inventario y no haya sido transferido a ninguna de las categorías de "residuo", son de aplicación todas las medidas establecidas en el método de control de seguridad de la instalación. Entre ellas suelen figurar la verificación de las BTC, la verificación física de los inventarios, recepciones y envíos, la verificación del sistema contable, los registros e informes contables y de operaciones. 
+2. Material nuclear contenido en residuos conservados 
+Las actividades de control de seguridad se limitarán normalmente a la verificación de las BTC y los registros contables y de operaciones. El objetivo de la verificación de las BTC es la confirmación de que la instalación está siendo explotada con arreglo a lo declarado. Normalmente no se practicarán verificaciones físicas con los residuos conservados. No obstante, el control de seguridad de Euratom se reserva el derecho de solicitar ciertas comprobaciones físicas para solventar discrepancias. 
+3. Material nuclear contenido en residuos acondicionados 
+Las actividades de control de seguridad se limitarán normalmente a la verificación de las BTC y los registros contables y de operaciones. El objetivo de la verificación de las BTC es la confirmación de que la instalación está siendo explotada con arreglo a lo declarado. Normalmente no se practicarán verificaciones físicas con los residuos acondicionados. No obstante, el control de seguridad de Euratom se reserva el derecho de solicitar ciertas comprobaciones físicas para solventar discrepancias. 
+2.6. Capítulo VII: Disposiciones finales (artículos 35 a 40) 
+En lo que se refiere a la confidencialidad de los datos (artículo 35), conviene señalar que el nivel de secreto de la información recibida por la Comisión de un operador o de un Estado miembro, o viceversa, será por lo menos igual al solicitado por quien facilita la información. 
+Cuando un operador, un Estado miembro o la Comisión clasifiquen un documento, deberán aplicarse las medidas de seguridad contenidas en el Reglamento no 3 de Euratom, de 31 de julio de 1958. Cuando se transmita por vía electromagnética información clasificada a la Comisión, habrá de respetarse lo dispuesto en la Decisión 2001/844/CE, CECA, Euratom de la Comisión [7], y, en particular, en el punto 25.5.5 del anexo. 
+En lo que se refiere al período transitorio (artículo 39), nótese que las personas o empresas pueden seguir usando los anexos II, III y IV del Reglamento (Euratom) no 3227/76 para cumplir sus obligaciones de notificación. 
+Si, a los tres años de la entrada en vigor, una persona o empresa está preparada para empezar a usar los anexos III, IV y V del Reglamento (Euratom) no 302/2005, informará de ello a la Comisión y procederá a utilizarlos. 
+Si, por el contrario, transcurrido el período de tres años, una persona o empresa no está preparada para empezar a usar los anexos III, IV y V del Reglamento (Euratom) no 302/2005, deberá dirigir a la Comisión una solicitud de prórroga durante otros dos años y presentar al mismo tiempo un plan de ejecución. 
+Debe aclararse que el propósito de la Comisión al introducir este procedimiento (la solicitud de la prórroga) es efectuar un seguimiento de los avances de la persona o empresa en la introducción de los nuevos formularios de notificación, de manera que el ejercicio pueda concluir en su totalidad en el período de cinco años previsto en el Reglamento. 
+3. RESUMEN DE LAS OBLIGACIONES SOBRE INFORMACIÓN (QUIÉN, CUÁNDO Y QUÉ) 
+Quién | Cuándo | Qué | Referencia | 
+Toda persona o empresa que constituya o explote una instalación para la producción, separación, reprocesado, almacenamiento o cualquier otro uso de material nuclear (la producción de energía en los reactores, la investigación en instalaciones críticas o de energía cero, la conversión, la fabricación, el reprocesado, el almacenamiento, la separación de isótopos, la producción de mineral y la concentración de mineral y el tratamiento o almacenamiento de residuos). | 200 días antes de la fecha prevista para la primera recepción de los materiales nucleares | BTC, anexo I | artículos 3 y 4 | 
+Toda persona, empresa o entidad designada representante de emplazamiento por cada Estado miembro signatario del Protocolo adicional del Acuerdo, firmado el 22 de septiembre de 1998. | En un plazo de 120 días a partir de la entrada en vigor del Protocolo adicional | Declaración que incluya una descripción general del emplazamiento sobre la base del cuestionario del anexo II y cumpla los requisitos del artículo 2, letra a), inciso iii), del Protocolo adicional. | artículo 3 | 
+Toda persona, empresa o entidad designada representante de emplazamiento por cada Estado miembro signatario del Protocolo adicional del Acuerdo, firmado el 22 de septiembre de 1998. | A más tardar el 1 de abril de cada año | Actualización de la declaración que incluya una descripción general del emplazamiento sobre la base del cuestionario del anexo II y cumpla los requisitos del artículo 2, letra a), inciso iii), del Protocolo adicional. | artículo 3 | 
+Toda persona o empresa que constituya una nueva instalación con un inventario o cantidad tratada anual de materiales nucleares, la cifra que sea mayor, de más de 1 kilogramo efectivo. | Al menos 200 días antes de dar inicio a la construcción | Toda la información pertinente relativa al propietario, al operador, al propósito, a la ubicación, al tipo, a la capacidad y a la fecha prevista de entrada en servicio | artículo 4 | 
+Toda persona o empresa que explote una instalación de tratamiento o almacenamiento de residuos y los productores de minerales existentes cuando entre en vigor el Reglamento y cuyas BTC no hayan sido notificadas previamente. | En un plazo de 120 días a partir de la fecha de entrada en vigor del Reglamento | BTC, anexo I | artículo 4 | 
+Toda persona o empresa que explote una instalación existente cuando este Reglamento entre en vigor y tenga información adicional (por ejemplo, "utilización") requerida en el cuestionario del anexo I. | En un plazo de 120 días a partir de la fecha de entrada en vigor del Reglamento | BTC, información adicional del anexo I (por carta) | artículo 4 | 
+Toda persona o empresa que constituya o explote una instalación y aplique cambios en las características técnicas fundamentales (BTC) o en el caso de instalaciones en países adherentes. | En un plazo de 30 días después de terminar la modificación o en el plazo de 30 días después de la adhesión | Cambios en las BTC | artículo 4 | 
+Toda persona o empresa que explote una instalación. | Anualmente | Un programa general de actividades, sobre la base de las orientaciones del anexo XI, que indique, en particular, las fechas provisionales de elaboración del inventario físico. | artículo 5 | 
+Toda persona o empresa que explote una instalación y tenga previsto elaborar un inventario físico. | Al menos 40 días antes de empezar la elaboración del inventario físico | El programa previsto a tal fin | artículo 5 | 
+Toda persona o empresa que explote una instalación y aplique cambios relativos al programa general de actividades y, en particular, a la elaboración del inventario físico. | Sin demora | Actualización del programa general de actividades y, en particular, de la elaboración del inventario físico | artículo 5 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, a la que la Comisión haya formulado una solicitud motivada de precisiones o aclaraciones suplementarias sobre los informes contables. | En un plazo de 3 semanas tras la solicitud | Las precisiones o aclaraciones suplementarias solicitadas | artículo 10 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, que no haya remitido ya un inventario inicial en virtud del Reglamento (Euratom) no 3227/76 y cuando no se trate de instalaciones de tratamiento o almacenamiento de residuos. | En un plazo de 30 días a partir de la entrada en vigor del Reglamento | Un inventario contable inicial de todos los materiales nucleares que posean, de conformidad con el anexo V. | artículo 11 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, que explote una instalación en la que se hayan producido cambios en el inventario durante el mes civil [ha habido un inventario físico en el último día del mes]. | Según se especifique en las PSP o a más tardar 15 días después del final del mes en que se producen o conocen los cambios en el inventario. | Notificación de los cambios en el inventario con respecto a todos los materiales nucleares, de conformidad con el anexo III | artículo 12 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, que explote una instalación en la que se haya elaborado un inventario físico en un día distinto del último día del mes. | Lo antes posible y, a más tardar, en un plazo de 30 días a partir de la fecha en que se elaboró el inventario físico. | Notificación de los cambios en el inventario con respecto a todos los materiales nucleares de conformidad con el anexo III, que contenga todos los cambios desde el comienzo del mes hasta la fecha de elaboración del inventario inclusive. | artículo 12 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, que explote una instalación en la que se haya elaborado un inventario físico en un día distinto del último día del mes. | Según se especifique en las PSP o a más tardar 15 días después del final del mes en que se producen o conocen los cambios en el inventario. | Notificación de los cambios en el inventario con respecto a todos los materiales nucleares de conformidad con el anexo III, que contenga todos los cambios desde el primer día posterior a la fecha de elaboración del inventario hasta el final del mes. | artículo 12 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, que explote una instalación en la que no se hayan producido cambios en el inventario durante el mes civil. | A no ser que las PSP indiquen otra cosa, a más tardar 15 días después del final del mes en que no se hayan producido o conocido cambios en el inventario. | Notificación sobre los cambios en el inventario con respecto a todos los materiales nucleares de conformidad con el anexo III, trasladando el inventario contable final del mes anterior. | artículo 12 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1. | A no ser que las PSP indiquen otra cosa, cada año natural y dentro de los 14 meses siguientes a la elaboración del anterior. | Elaboración del inventario físico | artículo 13 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, que haya elaborado un inventario físico. | Lo antes posible y, a más tardar, en un plazo de 30 días a partir de la fecha en que se elaboró el inventario físico. | Informes del balance de materiales, con arreglo al anexo IV. Un listado del inventario físico, con arreglo al anexo V. | artículo 13 | 
+Toda persona o empresa que descubra un cambio inesperado en el confinamiento respecto al especificado en las PSP, hasta el punto de hacer posible una retirada no autorizada de material nuclear. | Tan pronto como tenga conocimiento de ello. | Informe especial | artículos 14 y 15 | 
+Toda persona o empresa que piense que se ha producido o puede producirse un incremento o una pérdida de materiales nucleares (en una cantidad que exceda los límites establecidos a este respecto en las PSP. Si no existen PSP, cualquier pérdida o incremento debe dar lugar a un informe especial). | Tan pronto como tenga conocimiento de la pérdida o el incremento. | Informe especial | artículos 14 y 15 | 
+Toda persona o empresa que haya presentado un informe especial con arreglo al artículo 14 y a la que la Comisión haya solicitado más detalles o explicaciones en relación con dicho informe especial. | Sin demora | Las explicaciones solicitadas | artículo 14 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, que explote un reactor. | A más tardar en el momento en que los combustibles irradiados sean transferidos de la ZBM del reactor. | Los datos calculados sobre transformaciones nucleares deben declararse en el ICI. | artículo 16 | 
+Los productores y usuarios de materiales nucleares a los que pueda concederse una excepción del cumplimiento de las normas que regulan el formato y la frecuencia de las comunicaciones previstas en los artículos 10 a 18, con arreglo al artículo 19. | Según proceda | Solicitud de excepción basada en el formulario del anexo IX | artículo 19 | 
+Toda persona o empresa a la que se haya concedido una excepción. | A más tardar el 31 de enero de cada año | Informe en el que se describirá la situación al final del año civil anterior utilizando el formulario del anexo X. | artículo 19 | 
+Toda persona o empresa a la que se haya concedido una excepción para vender material nuclear a un tercer país. | Lo antes posible y, a más tardar, 15 días antes de que termine el mes en que se realizó la transferencia de material nuclear. | Informe que indique la cantidad de material nuclear vendido y exportado y las existencias de material nuclear aún objeto de excepción mediante el formulario del anexo X. | artículo 19 | 
+Toda persona o empresa a la que se haya concedido una excepción para comprar material nuclear a un tercer país. | Tan pronto como la persona o empresa conozca la fecha de la transferencia de material nuclear y, a más tardar, 15 días antes de finalizar el mes en que se realice. | Solicitud para que dichos materiales se incluyan en la lista de materiales objeto de excepción mediante el formulario del anexo IX. | artículo 19 | 
+Toda persona o empresa a la que se haya concedido una excepción. | Cuando dejan de cumplirse las condiciones que daban derecho a la excepción. | Informe a la Comisión | artículo 19 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, que exporte o envíe materiales básicos o materiales fisionables especiales con arreglo al artículo 20. | Después de la conclusión del contrato de transferencia, debiendo llegar a la Comisión al menos 8 días hábiles antes del embalaje de los materiales para su transferencia. | Notificación previa mediante el formulario del anexo VI | artículo 20 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, que importe o reciba materiales básicos o materiales fisionables especiales con arreglo al artículo 21. | Con toda la antelación posible a la fecha prevista para la llegada de los materiales y, a más tardar, en la fecha de recepción, debiendo llegar a la Comisión al menos 5 días hábiles antes de que los materiales sean desembalados. | Notificación previa mediante el formulario del anexo VII | artículo 21 | 
+Toda persona o empresa que notifique una transferencia de conformidad con los artículos 20 y 21 y tenga conocimiento de que, como consecuencia de circunstancias excepcionales o de un incidente, los materiales nucleares se han perdido o pudieran haberse perdido. | Sin demora | Informe especial según lo previsto en el artículo 15 | artículo 22 | 
+Toda persona o empresa que notifique una transferencia de conformidad con los artículos 20 y 21. | Sin demora | Todo cambio de las fechas referentes al embalaje antes de la transferencia, el transporte o el desembalaje de materiales nucleares, precisando las nuevas fechas si se conocieran. | artículo 23 | 
+Toda persona o empresa que extraiga y exporte minerales a terceros países. | A más tardar en la fecha de envío | Declaración de exportación de la cantidad de material expedida desde cada mina mediante el formulario del anexo VIII | artículo 25 | 
+Toda persona o empresa que extraiga y envíe minerales en el territorio de los Estados miembros. | A más tardar el 31 de enero de cada año | Declaración de envío de la cantidad de material expedida desde cada mina durante el año precedente mediante el formulario del anexo VIII. | artículo 25 | 
+Toda persona o empresa que trate o almacene material nuclear que previamente haya sido declarado como residuo conservado o acondicionado. | Dentro de los 120 días siguientes a la entrada en vigor del Reglamento | Una lista inicial de existencias de todo el material nuclear por categorías desglosado por zonas de almacenamiento y forma del residuo. | artículo 30 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, que efectúe una campaña de tratamiento de material que previamente haya sido declarado como residuos conservados o acondicionados, excluido el reembalaje o el ulterior acondicionamiento sin separación de elementos. | Debe llegar a la Comisión al menos 200 días antes del inicio de la campaña. | Notificación previa, de conformidad con el anexo XII, que indicará la cantidad de material por lote (sólo plutonio, uranio altamente enriquecido y uranio-233), la forma (vidrio, líquido de alta actividad, etc.), la duración prevista de la campaña y la localización del material antes y después de ésta. | artículo 31 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1, implicada en una transferencia de materiales que hayan sido declarados previamente residuos acondicionados. | A más tardar el 31 de enero de cada año. | Informes anuales sobre: envíos o exportaciones de residuos acondicionados con arreglo al anexo XIII;recepciones o importaciones de residuos acondicionados con arreglo al anexo XIV;cambios de ubicación de residuos acondicionados con arreglo al anexo XV. | artículo 32 | 
+Toda persona o empresa contemplada en el artículo 3, apartado 1. | En un plazo de 3 años a partir de la entrada en vigor del Reglamento. | Informe a la Comisión sobre la fecha en que tienen la intención de empezar a utilizar los formularios de informe de los anexos III, IV y V. | artículo 39 | 
+4. APÉNDICES 
+4.1. El esquema XML 
+XSD Reporting Schema 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
+4.2. El algoritmo CRC 
+CRC: Ejemplo de código en C 
++++++ TIFF +++++ 
++++++ TIFF +++++ 
+4.3. Lista de direcciones de Internet 
+En lo que se refiere al esquema XML, al algoritmo CRC y al sitio de preguntas más frecuentes: http://forum.europa.eu.int. 
+En lo que se refiere a la información general acerca de XML: http://www.xml.org 
+[1] DO L 363 de 31.12.1976, p. 1. 
+[2] Previo acuerdo con el operador y el Estado miembro, pueden asignarse otras tareas al "representante del emplazamiento", como la información a los diferentes operadores de un emplazamiento acerca de una inspección en curso en una ZBM de este emplazamiento (dado que ésta podría dar lugar a una solicitud de acceso complementario con 2 horas de antelación) o la concesión de acceso a todos los edificios del emplazamiento (éste puede comprender más de un edificio con materiales nucleares). 
+[3] "Directrices y formato para la preparación y presentación de las declaraciones previstas en los artículos 2 y 3 del modelo de Protocolo adicional al Acuerdo de salvaguardias", agosto de 1997. 
+[4] Que corresponde al artículo 2, letra a), inciso iii), del Protocolo adicional ("Una descripción general de cada edificio dentro de cada emplazamiento, de su utilización y, cuando no se desprenda de manera evidente de dicha descripción, la descripción de su contenido, [...]"). 
+[5] "NN-LOF" que contengan materiales nucleares que no estén exentos. El término "LOF" se utiliza en estas Directrices para referirse a instalaciones que utilicen materiales nucleares en cantidades inferiores a 1 kilogramo efectivo. 
+[6] Téngase en cuenta que las actividades de desmantelamiento pueden continuar todavía después de que la instalación haya sido clasificada como "clausurada". 
+[7] DO L 317 de 3.12.2001, p. 1. 
+-------------------------------------------------- 

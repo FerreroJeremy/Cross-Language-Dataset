@@ -1,0 +1,188 @@
+Regulation No 105 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of vehicles intended for the carriage of dangerous goods with regard to their specific constructional features 
+Regulation No 105 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of vehicles intended for the carriage of dangerous goods with regard to their specific constructional features [1] 
+1. SCOPE 
+The provisions of this Regulation apply to the construction of base vehicles of motor vehicles of category N and their trailers of categories O2, O3 and O4 [2] which are intended for the transport of dangerous goods and subject to section 9.1.2 of Annex B of the European Agreement concerning the international Carriage of Dangerous Goods by Road (ADR). 
+2. DEFINITIONS 
+For the purpose of this Regulation: 
+2.1. "Base vehicle" (hereinafter referred to as "vehicle") means a chassis-cab vehicle, a tractor for semi-trailer, a trailer-chassis or a trailer with a self-supporting body intended for the transport of dangerous goods; 
+2.2. "Vehicle type" means vehicles which do not differ essentially with regard to the constructional features specified in this Regulation. 
+3. APPLICATION FOR APPROVAL 
+3.1. The application for approval of a vehicle type with regard to its specific constructional features shall be submitted by the vehicle manufacturer or by his duly accredited representative. 
+3.2. The application for approval shall be accompanied by the undermentioned documents in triplicate and by the following particulars: 
+3.2.1. A detailed description of the vehicle type with respect to its relevant structure, engine (compression-ignition, positive ignition), dimensions, configuration and constituent materials; 
+3.2.2. Vehicle designation, according to paragraph 9.1.1.2 of the ADR EX/II, EX/III, AT, FL, OX); 
+3.2.3. Drawings of the vehicle; 
+3.2.4. The maximum technical mass (kg) of the complete vehicle. 
+3.3. A vehicle representative of the type to be approved shall be submitted to the technical service responsible for conducting the approval tests. 
+4. APPROVAL 
+4.1. If the vehicle submitted for approval pursuant to this Regulation meets the provisions of paragraph 5 below, approval of that vehicle type shall be granted. 
+4.2. An approval number shall be assigned to each type approved. Its first two digits (at present 02 for the Regulation in its 02 series of amendments) shall indicate the series of amendment incorporating the most recent major technical amendments made to the provisions at the time of issue of the approval. The same Contracting Party may not assign the same number to another vehicle type within the meaning of paragraph 2.2 above. 
+4.3. Notice of approval or of extension of approval of a vehicle type pursuant to this Regulation shall be communicated to the Contracting Parties by means of a form conforming to the model reproduced in annex 1 to this Regulation. 
+4.4. There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation an international approval mark consisting of: 
+4.4.1. A circle surrounding the letter "E" followed by the distinguishing number of the country which has granted approval [3]. 
+4.4.2. The number of this Regulation, followed by the letter "R", a dash and the approval number to the right of the circle prescribed in paragraph 4.4.1., and 
+4.4.3. An additional symbol separated from the approval number and consisting of the symbol identifying the vehicle designation in accordance with paragraph 9.1.1.2 of the ADR. 
+4.5. If the vehicle conforms to a vehicle type approved under one or more other Regulations annexed to this Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1 need not be repeated; in this case the Regulation and approval numbers and the additional symbols of all the Regulations under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1. 
+4.6. The approval mark shall be clearly legible and be indelible. 
+4.7. The approval mark shall be placed close to or on the vehicle data plate affixed by the manufacturer. 
+4.8. Annex 2 to this Regulation gives an example of the approval mark. 
+5. TECHNICAL PROVISIONS 
+5.1. Vehicles shall, depending on the vehicle designation, comply with the provisions below as assigned in the table overleaf [4]. 
+5.1.1. ELECTRICAL EQUIPMENT 
+5.1.1.1. General provisions 
+The electrical installation as a whole shall meet the following provisions, in accordance with the table of paragraph 5.1. 
+5.1.1.2. Wiring 
+5.1.1.2.1. The size of conductors shall be large enough to avoid overheating. Conductors shall be adequately insulated. All circuits shall be protected by fuses or automatic circuit breakers, except for the following: 
+- from the battery to the cold start and stopping systems of the engine 
+- from the battery to the alternator 
+- from the alternator to the fuse or circuit breaker box 
+- from the battery to the starter motor 
+- from the battery to the power control housing of the endurance braking system, if this system is electrical or electromagnetic 
+- from the battery to the electrical lifting mechanism for lifting the bogie axle. 
+The above unprotected circuits shall be as short as possible. 
+| Vehicle designation (according to paragraph 9.1 of the ADR) | 
+Technical provisions | EX/II | EX/III | AT | FL | OX | 
+| Electrical equipment | 
+5.1.1.2 | Wiring | | X | X | X | X | 
+5.1.1.3 | Battery master switch | | X | | X | | 
+5.1.1.3.1 | | | X | | X | | 
+5.1.1.3.2 | | | X | | X | | 
+5.1.1.3.3 | | | | | X | | 
+5.1.1.3.4 | | | X | | X | | 
+5.1.1.4 | Batteries | X | X | | X | | 
+5.1.1.5 | Permanently energizedcircuits | | X | | X | | 
+5.1.1.5.1 | | | | | X | | 
+5.1.1.5.2 | | | X | | | | 
+5.1.1.6 | Electrical installation behind cab | | X | | X | | 
+5.1.2 | Prevention of fire risks | 
+5.1.2.2 | Vehicle cab | 
+5.1.2.2.1 | | X | X | | | | 
+5.1.2.2.2 | | | | | | X | 
+5.1.2.3 | Fuel tanks | X | X | | X | X | 
+5.1.2.4 | Engine | X | X | | X | X | 
+5.1.2.5 | Exhaust system | X | X | | X | | 
+5.1.2.6 | Endurance braking system | | X | X | X | X | 
+5.1.2.7 | Combustion heaters | 
+5.1.2.7.1 2 and 5 | | X | X | X | X | X | 
+5.1.2.7.3 and 4 | | | | | X | | 
+5.1.2.7.6 | | X | X | | | | 
+5.1.3 | Braking equipment | 
+5.1.3.1 | Braking equipment | | X | X | X | X | 
+5.1.3.2 | Braking equipment | X | | | | | 
+5.1.4 | Speed limitation device | X | X | X | X | X | 
+5.1.5 | Coupling devices for trailers | X | X | | | | 
+5.1.1.2.2. Cables shall be securely fastened and positioned in such a way that the conductors are adequately protected against mechanical and thermal stresses. 
+5.1.1.3. Battery master switch 
+5.1.1.3.1. A switch for breaking the electrical circuits shall be placed as close to the battery as practicable. 
+5.1.1.3.2. A control device to facilitate the disconnecting and the reconnecting functions of the switch shall be installed in the driver’s cab. It shall be readily accessible to the driver and distinctively marked. It shall be protected against inadvertent operation by either adding a protective cover, by using a dual movement control device, or by other suitable means. Additional control devices may be installed provided they are distinctively marked and protected against inadvertent operation. 
+5.1.1.3.3. The switch shall have a casing with protection degree IP65 in accordance with IEC Standard 529. 
+5.1.1.3.4. The cable connections on the switch shall have protection degree IP54. However, this does not apply if these connections are contained in a housing which may be the battery box. In this case it is sufficient to insulate the connections against short circuits, for example with a rubber cap. 
+5.1.1.4. Batteries 
+The battery terminals shall be electrically insulated or covered by the insulating battery box cover. If the batteries are not located under the engine bonnet, they shall be fitted in a vented box. 
+5.1.1.5. Permanently energized circuits 
+5.1.1.5.1. Those parts of the electrical installation, including the leads which shall remain energized when the battery master-switch is open, shall be suitable for use in hazardous areas. Such equipment shall meet the appropriate requirements of IEC 60079 [5], parts 0 and 14 and the additional requirements applicable of IEC parts 1, 2, 5, 6, 7, 11, 15 or 18 [6]. 
+For the application of IEC 60079 part 14 [6], the following classification shall be used: 
+Permanently energized electrical equipment including the leads that are not subject to paragraphs 5.1.1.3 and 5.1.1.4 shall meet the requirements for zone 1 for electrical equipment in general or meet the requirements for zone 2 for electrical equipment situated in the driver’s cab. The requirements for explosion group IIC, temperature class T6, shall be met. 
+However, for permanently energized electrical equipment installed in an environment where the temperature caused by non-electrical equipment situated in that environment exceeds the T6 temperature limit, the temperature classification of the permanently energized electrical equipment shall be at least that of the T4 temperature class. 
+5.1.1.5.2. Bypass connections to the battery master switch for electrical equipment which must remain energized when the battery master switch is open shall be protected against overheating by suitable means, such as a fuse, a circuit breaker or a safety barrier (current limiter). 
+5.1.1.6. Provisions concerning that part of the electrical installation situated to the rear of the driver's cab 
+The whole installation shall be so designed, constructed and protected such that it cannot provoke any ignition or short-circuit under normal conditions of vehicle use and that these risks can be minimized in the event of an impact or deformation. In particular: 
+5.1.1.6.1. Wiring 
+The wiring located to the rear of the driver’s cab shall be protected against impact, abrasion and chafing during normal vehicle operation. Examples of appropriate protection are given in the figures 1, 2, 3 and 4 below. However, the sensor cables of antilock braking devices do not need additional protection. 
+5.1.1.6.2. Lighting 
+Lamp bulbs with a screw cap shall not be used. 
+5.1.1.6.3. Electrical lifting mechanism 
+The electrical equipment of the mechanism for lifting a bogie axle shall be installed outside the chassis frame in a sealed housing. 
+5.1.2. PREVENTION OF FIRE RISKS 
+5.1.2.1. General provisions 
+The following technical provisions shall apply in accordance with the table of paragraph 5.1. 
+FIGURES 
+Figure No 1 
++++++ TIFF +++++ 
+Figure No 2 
++++++ TIFF +++++ 
+Figure No 3 
++++++ TIFF +++++ 
+Figure No 4 
++++++ TIFF +++++ 
+5.1.2.2. Vehicle cab 
+5.1.2.2.1. Only material not readily flammable shall be used in the construction of the driver's cab. This provision will be deemed to be met if, in accordance with the procedure specified in ISO standard 3795:1989, samples of the following cab components have a burn rate not exceeding 100 mm/min: seat cushions, seat backs, safety belts, head lining, opening roofs, arm rests, all trim panels including door, front, rear and side panels, compartment shelves, head restraints, floor coverings, sun visors, curtains, shades, wheel housing covers, engine compartment covers, mattress covers and any other interior materials, including padding and crash-deployed elements, that are designed to absorb energy on contact by occupants in the event of a crash. 
+5.1.2.2.2. Unless the driver's cab is made of materials which are not readily flammable, a shield made of metal or other suitable material of the same width as the tank shall be fitted at the rear of the cab. Any window in the rear of the cab or in the shield shall be hermetically closed and made of fire resistant safety glass with fire resistant frames. Furthermore, there shall be a clear space of not less than 15 cm between the tank and the cab or the shield. 
+5.1.2.3. Fuel tanks 
+The fuel tanks for supplying the engine of the vehicle shall meet the following requirements: 
+5.1.2.3.1. In the event of any leakage, the fuel shall drain to the ground without coming into contact with hot parts of the vehicle or the load; 
+5.1.2.3.2. Fuel tanks containing petrol shall be equipped with an effective flame trap at the filler opening or with a closure with which the opening can be kept hermetically sealed. 
+5.1.2.4. Engine 
+The engine propelling the vehicle shall be so equipped and situated to avoid any danger to the load through heating or ignition. In the case of EX/II and EX/III vehicles the engine shall be of compression-ignition construction. 
+5.1.2.5. Exhaust system 
+The exhaust system as well as the exhaust pipes shall be so directed or protected to avoid any danger to the load through heating or ignition. Parts of the exhaust system situated directly below the fuel tank (diesel) shall have a clearance of at least 100 mm or be protected by a thermal shield. 
+5.1.2.6. Vehicle endurance braking 
+Vehicles equipped with endurance braking systems emitting high temperatures placed behind the rear wall of the driver's cab shall be equipped with a thermal shield securely fixed and located between this system and the tank or load so as to avoid any heating, even local, of the tank shell or the load. In addition, the thermal shield shall protect the braking system against any outflow or leakage, even accidental, of the load. For instance, a protection including a twin-shell shield shall be considered satisfactory. 
+5.1.2.7. Combustion heaters 
+5.1.2.7.1. (Reserved) 
+5.1.2.7.2. The combustion heaters and their exhaust gas routing shall be designed, located, protected or covered so as to prevent any risk of unacceptable heating or ignition of the load. This requirement shall be considered as fulfilled if the fuel tank and the exhaust system of the appliance conform to provisions similar to those prescribed for fuel tanks and exhaust systems of vehicles in paragraphs 5.1.2.3 and 5.1.2.5 respectively. 
+5.1.2.7.3. The combustion heaters shall be put out of operation by at least the following methods: 
+(a) Intentional manual switching off from the driver's cabin; 
+(b) Unintentional stopping of the vehicle engine; in this case the heating device may be restarted manually by the driver; 
+(c) Start up of a feed pump on the motor vehicle for the dangerous goods carried. 
+5.1.2.7.4. Afterrunning is permitted after the combustion heaters have been put out of operation. For the methods of paragraphs 5.1.2.7.3 (b) and (c) above the supply of combustion air shall be interrupted by suitable measures after an afterrunning cycle of not more than 40 seconds. 
+Only heaters shall be used for which proof has been furnished that the heat exchanger is resistant to the reduced afterrunning cycle of 40 seconds for the time of their normal use. 
+5.1.2.7.5. The combustion heater shall be switched on manually. Programming devices shall be prohibited. 
+5.1.2.7.6. Combustion heaters with gaseous fuels are not permitted. 
+5.1.3. BRAKING EQUIPMENT 
+Vehicles subject to the requirements of marginal 10221 of ADR shall fulfil all the relevant requirements of Regulation No 13 (including those of annex 5) as amended in accordance with the dates of application specified therein. 
+5.1.3.1. EX/III, AT, FL, and OX vehicles shall fulfil all relevant requirements of Regulation No 13 including those of annex 5. 
+5.1.3.2. EX/II vehicles shall fulfil all relevant requirements of Regulation No. 13. Nevertheless, the requirements of annex 5 are not applicable. 
+5.1.4. SPEED LIMITATION 
+Power driven vehicles (rigid vehicles and tractors for semitrailers) with a maximum mass exceeding 12 tonnes, shall be equipped with a speed limitation device according to the technical requirements of Regulation No. 89. The device shall be set in such a way that the speed cannot exceed 90 km/h, bearing in mind the technological tolerance of the device. 
+5.1.5. COUPLING DEVICES FOR TRAILER 
+Coupling devices for trailers shall comply with the technical requirements of Regulation No. 55 as amended in accordance with the dates of application specified therein. 
+6. MODIFICATION OF THE VEHICLE TYPE AND EXTENSION OF APPROVAL 
+6.1. Every modification of the vehicle type shall be notified to the administrative department which approved the vehicle type. The department may then either: 
+6.1.1. Consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case the vehicle still complies with the requirements, or 
+6.1.2. Require a further test report from the technical service responsible for conducting the tests. 
+6.2. Confirmation or refusal of approval, specifying the alteration, shall be communicated by the procedure specified in paragraph 4.3 to the Contracting Parties. 
+6.3. The competent authority issuing an extension of approval shall assign a series number to each communication form drawn up for such an extension and inform thereof the other Parties by means of a communication form conforming to the model in annex 1 to this Regulation. 
+7. CONFORMITY OF PRODUCTION 
+The conformity of production procedures shall comply with those set out in the Agreement, Appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2), with the following requirements: 
+7.1. Vehicles approved to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraph 5 above. 
+7.2. The competent authority which has granted type-approval may at any time verify the conformity control methods applicable to each production facility. The normal frequency of these verifications shall be once per two years. 
+8. PENALTIES FOR NON-CONFORMITY OF PRODUCTION 
+8.1. The approval granted in respect of a vehicle type pursuant to this Regulation may be withdrawn if the requirement laid down in paragraph 7. above is not complied with. 
+8.2. If a Contracting Party to the Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith notify the other Contracting Parties applying this Regulation, by means of a communication form conforming to the model in annex 1 to this Regulation. 
+9. PRODUCTION DEFINITELY DISCONTINUED 
+If the holder of the approval completely ceases to manufacture a type of vehicle under this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in annex 1 to this Regulation. 
+10. TRANSITIONAL PROVISIONS 
+10.1. As from the official date of entry into force of the 02 series of amendments, no Contracting Party applying this Regulation shall refuse to grant ECE approval under this Regulation as amended by the 02 series of amendments. 
+10.2. Contracting Parties applying this Regulation shall continue to grant approvals and extensions to such approvals to types of vehicles which comply with the requirements of this Regulation as amended by the preceding series of amendments until 31 December 2002. 
+10.3. As from 1 January 2003 Contracting Parties applying this Regulation shall grant ECE approvals and extensions of such approvals only if the vehicle type to be approved meets the requirements of this Regulation as amended by the 02 series of amendments. 
+10.4. No Contracting Party applying this Regulation shall refuse national type approval of a vehicle type approved to the 02 series of amendments to this Regulation. 
+10.5. Until 31 December 2002 no Contracting Party applying this Regulation shall refuse national type approval of a vehicle type approved to the preceding series of amendments to this Regulation. 
+10.6. As from 1 January 2003 Contracting Parties applying this Regulation may refuse first national registration (first entry into service) of a vehicle which does not meet the requirements. 
+11. NAMES AND ADDRESSES OF TECHNICAL SERVICES CONDUCTING APPROVAL TESTS, AND ADMINISTRATIVE DEPARTMENTS 
+The Contracting Parties to the Agreement applying this Regulation shall communicate to the secretariat of the United Nations the names and addresses of the technical services responsible for conducting approval tests and of the administrative departments which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, issued in other countries, are to be sent. 
+[1] Incorporating:Series 01 of amendments — date of entry into force: 13 January 2000.Series 02 of amendments — date of entry into force: 5 December 2001.Corrigendum 1 to series 02 of amendments — date of entry into force: 13 March 2002.Corrigendum 2 to series 02 of amendments — date of entry into force: 13 November 2002.Corrigendum 3 to series 02 of amendments — date of entry into force: 12 March 2003. 
+[2] As defined in annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3) (document TRANS/WP.29/78/Rev.1/Amend.2). 
+[3] 1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 5 for Sweden, 6 for Belgium, 7 for Hungary, 8 for the Czech Republic, 9 for Spain, 10 for Yugoslavia, 11 for the United Kingdom, 12 for Austria, 13 for Luxembourg, 14 for Switzerland, 15 (vacant), 16 for Norway, 17 for Finland, 18 for Denmark, 19 for Romania, 20 for Poland, 21 for Portugal, 22 for the Russian Federation, 23 for Greece, 24 for Ireland, 25 for Croatia, 26 for Slovenia, 27 for Slovakia, 28 for Belarus, 29 for Estonia, 30 (vacant), 31 for Bosnia-Herzegovina, 32 for Latvia, 33 (vacant), 34 for Bulgaria, 35 (vacant), 36 for Lithuania, 37 for Turkey, 38 (vacant), 39 for Azerbaijan, 40 for The former Yugosla 
+v Republic of Macedonia, 41 (vacant), 42 for the European Community (Approvals are granted by its Member States using their respective ECE symbol), 43 for Japan, 44 (vacant), 45 for Australia and 46 for Ukraine. Subsequent numbers shall be assigned to other countries in the chronological order in which they ratify or accede to the Agreement Concerning the Adoption of Uniform Technical Prescriptions for Wheeled Vehicles, Equipment and Parts which can be Fitted and/or be Used on Wheeled Vehicles and the Conditions for Reciprocal Recognition of Approvals Granted on the Basis of these Prescriptions, and the numbers thus assigned shall be communicated by the Secretary-General of the United Nations to the Contracting Parties to the Agreement. 
+[4] In this Regulation, references to other ECE Regulations shall be deemed to refer also to any other international rules that apply the same technical requirements as the respective ECE Regulation. References to specific sections of the respective ECE Regulations shall be interpreted accordingly. 
+[5] The requirements of IEC 60079 part 14 do not take precedence over the requirements of this Regulation. 
+[6] As an alternative, the general requirements of EN 50014 and the additional requirements of EN 50015, 50016, 50017, 50018, 50019, 50020, or 50028 may be used. 
+-------------------------------------------------- 
+ANNEX I 
+COMMUNICATION 
+(Maximum format: A4 (210 × 297 mm)) 
++++++ TIFF +++++ 
+-------------------------------------------------- 
+ANNEX II 
+ARRANGEMENT OF APPROVAL MARKS 
+MODEL A 
+(see paragraph 4.4 of this Regulation) 
++++++ TIFF +++++ 
+The above approval mark affixed to a vehicle shows that the vehicle type concerned, intended for the transport of dangerous goods, has been approved in the Netherlands (E4), pursuant to Regulation No 105, under the approval number 002492 and designated EX/II (according to marginal 220 301(2) of the ADR). The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of Regulation No 105, as amended by the 02 series of amendments. 
+MODEL B 
+(see paragraph 4.5 of this Regulation) 
++++++ TIFF +++++ 
+The above approval mark affixed to a vehicle shows that the vehicle type concerned has been approved in the Netherlands (E4) pursuant to Regulations Nos 105 and 13 [2]. The first two digits of the approval numbers indicate that, at the dates when respective approvals were granted, Regulation No 105 included the 02 series of amendments, while Regulation No 13 already included the 09 series of amendments. 
+[2] The second Regulation number is given merely as an example. 
+-------------------------------------------------- 

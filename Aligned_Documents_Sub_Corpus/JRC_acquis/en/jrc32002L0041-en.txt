@@ -1,0 +1,100 @@
+Commission Directive 2002/41/EC of 17 May 2002 adapting to technical progress Directive 95/1/EC of the European Parliament and of the Council on the maximum design speed, maximum torque and maximum net engine power of two- or three-wheel motor vehicles 
+Commission Directive 2002/41/EC 
+of 17 May 2002 
+adapting to technical progress Directive 95/1/EC of the European Parliament and of the Council on the maximum design speed, maximum torque and maximum net engine power of two- or three-wheel motor vehicles 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Directive 92/61/EEC of 30 June 1992 relating to the type-approval of two- or three-wheel motor vehicles(1), as last amended by European Parliament and Council Directive 2000/7/EC(2) and in particular Article 16 thereof, 
+Having regard to Directive 95/1/EC of the European Parliament and of the Council of 2 February 1995 on the maximum design speed, maximum torque and maximum net engine power of two- or three-wheel motor vehicles(3), and in particular Article 4 thereof, 
+Whereas: 
+(1) Directive 95/1/EC is one of the separate directives under the Community type-approval procedure introduced by Directive 92/61/EEC. The provisions of Directive 92/61/EEC relating to systems, components and separate technical units for vehicles therefore apply to Directive 95/1/EC. 
+(2) In order to enable the full type-approval system to function properly, it is necessary to clarify or supplement certain requirements of Directive 95/1/EC. 
+(3) To that end, it is necessary to specify the values to be entered in the test report to ensure the consistent application of Directive 95/1/EC in the case of mopeds, motorcycles and tricycles with spark-ignition engines and two- or three-wheel motor vehicles with compression-ignition engines. 
+(4) Directive 95/1/EC should therefore be amended accordingly. 
+(5) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress set up under Article 13 of Council Directive 70/156/EEC(4), as last amended by Commission Directive 2001/116/EC(5), 
+HAS ADOPTED THIS DIRECTIVE: 
+Article 1 
+The Annexes to Directive 95/1/EC are amended in accordance with the Annex to this Directive. 
+Article 2 
+1. With effect from 1 July 2003, Member States may not, on grounds relating to the maximum design speed, maximum torque and maximum net engine power: 
+- refuse to grant EC type-approval for a type of two- or three-wheel motor vehicle, or 
+- prohibit the registration, sale or entry into service of two- or three-wheel motor vehicles; 
+if the maximum design speed, maximum torque and maximum net engine power of the vehicles comply with the requirements of Directive 95/1/EC, as amended by this Directive. 
+2. With effect from 1 January 2004, Member States shall refuse to grant EC type-approval for any new type of two- or three-wheel motor vehicle on grounds relating to the maximum design speed, maximum torque and maximum net engine power if the requirements of Directive 95/1/EC, as amended by this Directive, are not fulfilled. 
+Article 3 
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 30 June 2003 at the latest. They shall forthwith inform the Commission thereof. 
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+2. Member States shall communicate to the Commission the main provisions of national law that they adopt in the field covered by this Directive. 
+Article 4 
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities. 
+Article 5 
+This Directive is addressed to the Member States. 
+Done at Brussels, 17 May 2002. 
+For the Commission 
+Erkki Liikanen 
+Member of the Commission 
+(1) OJ L 225, 10.8.1992, p. 72. 
+(2) OJ L 106, 3.5.2000, p. 1. 
+(3) OJ L 52, 8.3.1995, p. 1. 
+(4) OJ L 42, 23.2.1970, p. 1. 
+(5) OJ L 18, 21.1.2002, p. 1. 
+ANNEX 
+The Annexes to Directive 95/1/EC are amended as follows: 
+1. Annex I is amended as follows: 
+(a) in point 5 the second line is replaced by the following: %quot%Atmospheric pressure: 97 +- 10 kPa.%quot% 
+(b) in point 5 the fifth line is replaced by the following: %quot%Average wind speed, measured 1 m above the ground: %amp%lt; 3 m/s, permitting gusts %amp%lt; 5 m/s.%quot% 
+2. Annex II is amended as follows: 
+(a) in Appendix 1, point 3.1.2, Table 1, the first sentence of note (3) is replaced by the following: %quot%The radiator, fan, fan nozzle, water pump and thermostat must, on the test bench, occupy as far as possible the same position relative to each other as if they were on the vehicle. If the radiator, fan, fan nozzle, water pump and/or thermostat have a position on the test bench which is different from that on the vehicle, the position on the test bench shall be described and noted on the test report.%quot% 
+(b) in Appendix 1, point 4.1 is replaced by the following: %quot%4.1. Definition of factors á1 and á2 
+Factors by which the torque and power measured are to be multiplied in order to determine the torque and power of an engine, taking account of the efficiency of the transmission (factor á2) used during the tests and in order to bring that torque and that power within the reference atmospheric conditions specified in 4.2.1 (factor á1). 
+The power correction formula is as follows: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+where: 
+P0 = the corrected power (i.e. the power under the reference conditions at the end of the crankshaft) 
+α1 = the correction factor for reference atmospheric conditions 
+α2 = the correction factor for the efficiency of the transmission 
+P = the power measured (power observed).%quot% 
+(c) in Appendix 1, point 4.3 is replaced by the following: %quot%4.3. Determination of the correction factors 
+4.3.1. Determination of the factor α2 
+- Where the measuring point is the crankshaft output side this factor is equal to 1. 
+- Where the measuring point is not the output side of the crankshaft this factor is calculated via the formula: 
+%gt%PIC FILE= %quot%L_2002133EN.001802.TIF%quot%%gt% 
+where nt is the efficiency of the transmission located between the crankshaft and measuring point. 
+This transmission efficiency nt is determined via the product (multiplication) of efficiency nj of each of the components of the transmission: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Efficiency nj of each of the components of the transmission is shown in the following table. 
+%gt%TABLE%gt% 
+4.3.2. Determination of factor α1(1) 
+4.3.2.1. Definition of characteristics T, Ps for correction factors α1 
+T = the absolute temperature of the ingested air 
+Ps = the dry atmospheric pressure in kilopascals (kPa) i.e. the total barometric pressure minus the water vapour pressure. 
+4.3.2.2. Factor α1 
+Correction factor α1 is obtained from the following 
+%gt%PIC FILE= %quot%L_2002133EN.001901.TIF%quot%%gt% 
+That formula only applies if: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+If the limit values are exceeded the corrected value obtained must be stated and the test conditions (temperature and pressure) stated exactly in the test report.%quot% 
+(d) in Appendix 1, points 4.4 and 4.5 are deleted; 
+(e) in Appendix 1, point 6.1, %quot%1,5 %%quot% is replaced by %quot%3 %%quot%; 
+(f) in Appendix 2, point 3.1.2, Table 1, the first sentence of Note (3) is replaced by the following: %quot%The radiator, fan, fan nozzle, water pump and thermostat must, on the test bench, occupy as far as possible the same position relative to each other as if they were on the vehicle. If the radiator, fan, fan nozzle, water pump and/or thermostat have a position on the test bench which is different from that on the vehicle, the position on the test bench shall be described and noted on the test report.%quot% 
+(g) in Appendix 2, point 4.1 is replaced by the following: %quot%4.1. Definition of factors α1 and α2 
+Factors by which the torque and power measured are to be multiplied in order to determine the torque and power of an engine, taking account of the efficiency of the transmission (factor α2) used during the tests and in order to bring that torque and that power within the reference atmospheric conditions specified in 4.2.1 (factor α1). 
+The power correction formula is as follows: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+where: 
+P0 = the corrected power (i.e. the power under the reference conditions at the end of the crankshaft) 
+α1 = the correction factor for reference atmospheric conditions 
+α2 = the correction factor for the efficiency of the transmission 
+P = the power measured (power observed).%quot% 
+(h) in Appendix 3, point 3.1.3, Table 1, the first sentence of note (5) is replaced by the following: %quot%The radiator, fan, fan nozzle, water pump and thermostat must, on the test bench, occupy as far as possible the same position relative to each other as if they were on the vehicle. If the radiator, fan, fan nozzle, water pump and/or thermostat have a position on the test bench which is different from that on the vehicle, the position on the test bench shall be described and noted on the test report.%quot% 
+(i) in Appendix 3, point 4.1 is replaced by the following: %quot%4.1. Definition of factors αd and α2 
+Factors by which the torque and power measured are to be multiplied in order to determine the torque and power of an engine, taking account of the efficiency of the transmission (factor α2) used during the tests and in order to bring that torque and that power within the reference atmospheric conditions specified in 4.2.1 (factor αd). 
+The power correction formula is as follows: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+where: 
+P0 = the corrected power (i.e. the power under the reference conditions at the end of the crankshaft) 
+αd = the correction factor for reference atmospheric conditions 
+α2 = the correction factor for the efficiency of the transmission (see Appendix 2, point 4.3.1) 
+P = the power measured (power observed).%quot% 
+(j) in Appendix 3, point 4.4, the heading is replaced by the following: %quot%4.4. Determination of correction factor αd (1)%quot%. 
+(1) The test may be carried out in temperature-controlled test chambers where the atmospheric conditions may be controlled. 

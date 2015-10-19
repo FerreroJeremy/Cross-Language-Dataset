@@ -1,0 +1,1671 @@
+2005/366/EC: Commission Decision of 4 March 2005 implementing Council Directive 95/64/EC on statistical returns in respect of carriage of goods and passengers by sea and amending Annexes thereto (notified under document number C(2005) 463) (Text with EEA relevance) 
+Commission Decision 
+of 4 March 2005 
+implementing Council Directive 95/64/EC on statistical returns in respect of carriage of goods and passengers by sea and amending Annexes thereto 
+(notified under document number C(2005) 463) 
+(Text with EEA relevance) 
+(2005/366/EC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Directive 95/64/EC of 8 December 1995 on statistical returns in respect of carriage of goods and passengers by sea [1], and in particular Article 4(1) and Article 12 thereof, 
+Whereas: 
+(1) Additional statistical variables, definitions and structure for statistical datasets are necessary to distinguish the collection of data on cruise passengers. 
+(2) The type of cargo classification needs to be modified to ensure a clear definition of the scope of the statistics. 
+(3) The nomenclature on the maritime coastal areas and the nomenclature on the nationality of registration of vessels need to be adapted to technical developments. 
+(4) In accordance with Article 12, the first indent, of Directive 95/64/EC, the Commission may adapt the content of the Annexes thereto. Directive 95/64/EC should therefore be amended accordingly. 
+(5) In accordance with Article 4 of Directive 95/64/EC, the Commission may draw up and update the list of ports coded and classified by country and maritime coastal area. 
+(6) Commission Decision 98/385/EC of 13 May 1998 on rules for implementing Council Directive 95/64/EC on statistical returns in respect of carriage of goods and passengers by sea [2], provided for a list of ports. 
+(7) The list of ports needs to be updated. Decision 98/385/EC should therefore be amended. 
+(8) Commission Decision 2000/363/EC of 28 April 2000 on rules for implementing Council Directive 95/64/EC on statistical returns in respect of carriage of goods and passengers by sea [3] amended the Annexes II, IV, V and VIII to Directive 95/64/EC and the list of ports drawn up in Annex II to Decision 98/385/EC. It can therefore be repealed. 
+(9) The measures provided for in this Decision are in accordance with the opinion of the Statistical Programme Committee set up by Council Decision 89/382/EEC, Euratom of 19 June 1989 establishing a Committee on the Statistical Programmes of the European Communities [4], 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+Annexes I, II, IV, V, VI and VIII to Directive 95/64/EC are replaced by Annexes I, II, III, IV, V and VI to this Decision. 
+Article 2 
+The list of ports drawn up in Annex II to Decision 98/385/EC is replaced by the updated list of ports coded and classified by country and maritime coastal area, as provided in Annex VII to this Decision. 
+Article 3 
+Decision 2000/363/EC shall be repealed. 
+Any references to the repealed Decision shall be construed as references to this Decision. 
+Article 4 
+This Decision is addressed to the Member States. 
+This Decision shall apply from the reference year 2004, covering the 2004 data. 
+Done at Brussels, 4 March 2005. 
+For the Commission 
+Joaquín Almunia 
+Member of the Commission 
+[1] OJ L 320, 30.12.1995, p. 25. Directive as last amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1). 
+[2] OJ L 174, 18.6.1998, p. 1. Decision as last amended by the 2003 Act of Accession . 
+[3] OJ L 132, 5.6.2000, p. 1. 
+[4] OJ L 181, 28.6.1989, p. 47. 
+-------------------------------------------------- 
+ANNEX I 
+-------------------------------------------------- 
+ANNEX II 
+-------------------------------------------------- 
+ANNEX III 
+-------------------------------------------------- 
+ANNEX IV 
+-------------------------------------------------- 
+ANNEX V 
+-------------------------------------------------- 
+ANNEX VI 
+-------------------------------------------------- 
+ANNEX VII 
+EUROSTAT LIST OF EUROPEAN PORTS 
+Description of the list of ports 
+The statistical ports and sub-ports are classified in alphabetical order for each Member State. 
+Structure 
+Column heading | Explanation | 
+CTRY | country (ISO alpha 2 standard code) | 
+MCA | maritime coastal area in which the port is situated (Annex IV of the Directive) | 
+MODIFIC. | modified since Decision 2000/363/EC | 
+PORT NAME | name of the port | 
+LOCODE | code (alphabetical) of the UN/Locode or code (numerical) temporarily allocated by Eurostat to ports without a Locode | 
+NAT. STAT. GROUP | for a port that is not a statistical port, the national statistical group (nat. stat. group) is the code of the statistical port in which this port is included | 
+STATISTICAL PORT | statistical port | 
+NATIONAL CODE | code allocated to the statistical port in the national statistics of the Member State in which it is situated | 
+CTRY | MCA | MODIFIC. | PORT NAME | LOCODE | NAT. STAT. GROUP | STATISTICAL PORT | NATIONAL CODE | 
+BE | BE00 | X | Albertkanaal | BEABK | | X | | 
+BE | BE00 | X | Antwerpen | BEANR | | X | | 
+BE | BE00 | X | Brugge | BEBGS | BEZEE | | | 
+BE | BE00 | X | Bruxelles (Brussel) | BEBRU | | X | | 
+BE | BE00 | X | Gent | BEGNE | | X | | 
+BE | BE00 | X | Liège | BELGG | | X | | 
+BE | BE00 | X | Nieuwpoort | BENIE | | X | | 
+BE | BE00 | X | Oostende | BEOST | | X | | 
+BE | BE00 | X | Rupel | BERUP | BEBRU | | | 
+BE | BE00 | X | Zeebrugge | BEZEE | | X | | 
+BE | BE00 | X | Zelzate | BEZEL | BEGNE | | | 
+BE | BE00 | X | BE offshore installations | BE88P | | | | 
+BE | BE00 | X | Other - Belgium | BE888 | | | | 
+| | | 11 | 11 | 3 | 8 | | 
+DK | DK00 | X | Aabenraa | DKAAB | | X | 885-00 | 
+DK | DK00 | X | Aalborg | DKAAL | | X | 970-00 | 
+DK | DK00 | X | Aalborg Portland (Cementfabrikken Rørdal) | DKROR | | X | 971-00 | 
+DK | DK00 | X | Århus | DKAAR | | X | 980-00 | 
+DK | DK00 | X | Årø | DKARO | | X | 363-02 | 
+DK | DK00 | X | Årøsund | DKARD | | X | 363-01 | 
+DK | DK00 | X | Ærøskøbing | DKARK | | X | 864-00 | 
+DK | DK00 | X | Agersø | DKAGO | | X | 493-01 | 
+DK | DK00 | X | Agger Havn | DKAGH | | X | 896-00 | 
+DK | DK00 | X | Aggersund Havn | DKASH | | X | 976-00 | 
+DK | DK00 | X | Anholt | DKANH | | X | 982-01 | 
+DK | DK00 | X | Askø | DKASK | | X | 599-02 | 
+DK | DK00 | X | Asnæsværkets Havn | DKASV | | X | 462-00 | 
+DK | DK00 | X | Assens | DKASN | | X | 285-00 | 
+DK | DK00 | X | Augustenborg | DKAUB | | X | 881-00 | 
+DK | DK00 | X | Avedøreværkets Havn | DKAVE | | X | 045-00 | 
+DK | DK00 | X | Avernakø/Lyø | DKAVK | | X | 869-03 | 
+DK | DK00 | X | Bågø | DKBGO | | X | 287-00 | 
+DK | DK00 | X | Bagenkop | DKBAG | | X | 867-00 | 
+DK | DK00 | X | Ballebro | DKBLB | | X | 888-01 | 
+DK | DK00 | X | Bandholm (Maribo) | DKBDX | | X | 592-00 | 
+DK | DK00 | X | Bogø | DKBOG | | X | 636-00 | 
+DK | DK00 | X | Bøjden | DKBOS | | X | 869-01 | 
+DK | DK00 | X | Branden Havn | DKBRH | | X | 801-01 | 
+DK | DK00 | X | Cementfabrikken Danias Havn | DKDAN | | X | 674-01 | 
+DK | DK00 | X | Cementfabrikken Kongsdal Havn | DKKON | | X | 674-02 | 
+DK | DK00 | X | Dansk Salts Havn | DKDAS | | X | 675-00 | 
+DK | DK00 | X | Dragør | DKDRA | | X | 044-00 | 
+DK | DK00 | X | Ebeltoft | DKEBT | | X | 985-00 | 
+DK | DK00 | X | Egense | DKEGN | | X | | 
+DK | DK00 | X | Egernsund | DKEND | | X | 883-00 | 
+DK | DK00 | X | Endelave | DKEDL | | X | 452-00 | 
+DK | DK00 | X | Enstedværkets Havn | DKENS | | X | 886-00 | 
+DK | DK00 | X | Esbjerg | DKEBJ | | X | 260-00 | 
+DK | DK00 | X | Fåborg Havn | DKFAA | | X | 861-00 | 
+DK | DK00 | X | Fakse Ladeplads Havn | DKFAK | | X | 637-00 | 
+DK | DK00 | X | Feggesund | DKFGS | | X | 897-01 | 
+DK | DK00 | X | Fejø | DKFEJ | | X | 598-01 | 
+DK | DK00 | X | Femø | DKFMO | | X | 598-02 | 
+DK | DK00 | X | Fredericia (Og Shell-Havnen) | DKFRC | | X | 280-00 | 
+DK | DK00 | X | Frederikshavn | DKFDH | | X | 290-00 | 
+DK | DK00 | X | Frederikssund Havn | DKFDS | | X | 371-00 | 
+DK | DK00 | X | Frederiskværk Havn (Frederiksværk Stålvalseværk) | DKSVV | | X | 374-00 | 
+DK | DK00 | X | Fur | DKFUH | | X | 803-00 | 
+DK | DK00 | X | Fynshav | DKFYH | | X | 887-00 | 
+DK | DK00 | X | Gedser | DKGED | | X | 593-00 | 
+DK | DK00 | X | Gråsten | DKGRA | | X | 882-00 | 
+DK | DK00 | X | Grenå | DKGRE | | X | 986-00 | 
+DK | DK00 | X | Gulfhavnen | DKGFH | | X | 592-01 | 
+DK | DK00 | X | Haderslev | DKHAD | | X | 360-00 | 
+DK | DK00 | X | Hadsund | DKHSU | | X | 969-00 | 
+DK | DK00 | X | Hals | DKHAS | | X | | 
+DK | DK00 | X | Hanstholm | DKHAN | | X | 891-00 | 
+DK | DK00 | X | Hardeshøj | DKHDH | | X | 888-02 | 
+DK | DK00 | X | Hasle | DKHSL | | X | 744-00 | 
+DK | DK00 | X | Havneby | DKHNB | | X | 366-00 | 
+DK | DK00 | X | Havnsø | DKHVN | | X | 467-00 | 
+DK | DK00 | X | Helsingør (Elsinore) | DKHLS | | X | 370-00 | 
+DK | DK00 | X | Hirtshals | DKHIR | | X | 291-00 | 
+DK | DK00 | X | Hobro | DKHBO | | X | 979-00 | 
+DK | DK00 | X | Holbæk | DKHBK | | X | 463-01 | 
+DK | DK00 | X | Holstebro-Struer Havn | DKSTR | | X | 444-00 | 
+DK | DK00 | X | Horsens | DKHOR | | X | 450-00 | 
+DK | DK00 | X | Hou Havn | DKHOH | | X | 982-02 | 
+DK | DK00 | X | Hundested | DKHUN | | X | 375-00 | 
+DK | DK00 | X | Hvalpsund | DKHVA | | X | 977-00 | 
+DK | DK00 | X | Juelsminde Havn | DKJUE | | X | 451-00 | 
+DK | DK00 | X | Kalundborg | DKKAL | | X | 460-00 | 
+DK | DK00 | X | Kastrup | DKKTP | | X | 043-00 | 
+DK | DK00 | X | Kerteminde | DKKTD | | X | 643-00 | 
+DK | DK00 | X | Kleppen | DK102 | | X | | 
+DK | DK00 | X | Københavns Havn | DKCPH | | X | 040-00 | 
+DK | DK00 | X | Køge | DKKOG | | X | 510-00 | 
+DK | DK00 | X | Kolby Kås Havn | DKKOK | | X | 984-00 | 
+DK | DK00 | X | Kolding | DKKOL | | X | 480-00 | 
+DK | DK00 | X | Korsør | DKKRR | | X | 490-00 | 
+DK | DK00 | X | Kragenæs | DKKRA | | X | 599-03 | 
+DK | DK00 | X | Kyndbyværkets Havn | DKKBY | | X | 372-00 | 
+DK | DK00 | X | Lemvig | DKLVG | | X | 441-00 | 
+DK | DK00 | X | Lindø Havn | DKLIN | | X | 641-00 | 
+DK | DK00 | X | Løgstør | DKLGR | | X | 975-00 | 
+DK | DK00 | X | Lohals | DKLOH | | X | 866-00 | 
+DK | DK00 | X | Lyngs Odde Havn | DKLYO | | X | 283-00 | 
+DK | DK00 | X | Marbæk Havn | DKMRB | | X | 377-00 | 
+DK | DK00 | X | Mariager | DKMRR | DKDAS | | | 
+DK | DK00 | X | Marstal | DKMRS | | X | 862-00 | 
+DK | DK00 | X | Masnedøværkets Havn | DKMAS | | X | 634-00 | 
+DK | DK00 | X | Masnedsund | DKMNS | DKVOR | | | 
+DK | DK00 | X | Masnedø Gødningshavn (Uno-X Havn) | DKUNX | | X | 835-00 | 
+DK | DK00 | X | Middelfart | DKMID | | X | 284-00 | 
+DK | DK00 | X | Mommark | DKMOM | | X | 888-03 | 
+DK | DK00 | X | Næssund | DKNUD | | X | 897-02 | 
+DK | DK00 | X | Næstved | DKNVD | | X | 630-00 | 
+DK | DK00 | X | Nakskov | DKNAK | | X | 594-00 | 
+DK | DK00 | X | Neksø | DKNEX | | X | 742-00 | 
+DK | DK00 | X | Nordby Havn, Fanø | DKNDB | | X | 261-00 | 
+DK | DK00 | X | Nordjyllandsværkets Havn | DKVSV | | X | 974-00 | 
+DK | DK00 | X | Nørresundby | DKNRS | DKAAL | | | 
+DK | DK00 | X | Nyborg | DKNBG | | X | 870-00 | 
+DK | DK00 | X | Nykøbing Falster | DKNYF | | X | 590-00 | 
+DK | DK00 | X | Nykøbing Mors | DKNYM | | X | 892-00 | 
+DK | DK00 | X | Nysted | DKNTD | | X | 597-00 | 
+DK | DK00 | X | Odense | DKODE | | X | 640-00 | 
+DK | DK00 | X | Omø | DKOMO | | X | 593-02 | 
+DK | DK00 | X | Orehoved, Falster | DKORE | DKNYF | | 591-00 | 
+DK | DK00 | X | Orø | DKORO | | X | 563-02 | 
+DK | DK00 | X | Randers | DKRAN | | X | 670-00 | 
+DK | DK00 | X | Rødby | DKROD | | X | 599-01 | 
+DK | DK00 | X | Rødby (Færgehavn) | DKROF | | X | 730-00 | 
+DK | DK00 | X | Rønne | DKRNN | | X | 740-00 | 
+DK | DK00 | X | Rørvig | DKRRV | | X | 469-02 | 
+DK | DK00 | X | Rudkøbing | DKRKB | | X | 863-00 | 
+DK | DK00 | X | Sælvig Havn | DKSLV | | X | 984-03 | 
+DK | DK00 | X | Sakskøbing | DKSAX | | X | 595-00 | 
+DK | DK00 | X | Sejerø | DKSEO | | X | 468-00 | 
+DK | DK00 | X | Sjællands Odde | DKSJO | | X | 469-01 | 
+DK | DK00 | X | Skælskør | DKSSK | | X | 490-00 | 
+DK | DK00 | X | Skærbækværkets Havn | DKSKB | | X | 282-00 | 
+DK | DK00 | X | Skagen | DKSKA | | X | 292-00 | 
+DK | DK00 | X | Skarø/Drejø | DKSDO | | X | 869-05 | 
+DK | DK00 | X | Skive | DKSKV | | X | 800-00 | 
+DK | DK00 | X | Snekkersten | DKSNE | | X | 376-00 | 
+DK | DK00 | X | Søby Havn | DKSOB | | X | 868-00 | 
+DK | DK00 | X | Sønderborg | DKSGD | | X | 880-00 | 
+DK | DK00 | X | Spodsbjerg Havn | DKSPB | | X | 867-00 | 
+DK | DK00 | X | Statoil-Havnen | DKSTT | | X | 461-00 | 
+DK | DK00 | X | Stege | DKSTE | | X | 632-00 | 
+DK | DK00 | X | Stigsnæs | DKSTN | | X | 492-03 | 
+DK | DK00 | X | Stigsnæsværkets Havn | DKSTG | | X | 492-02 | 
+DK | DK00 | X | Strib Havn | DKSTB | | X | 286-00 | 
+DK | DK00 | X | Strynø | DKSNO | | X | 869-04 | 
+DK | DK00 | X | Stubbekøbing Havn | DKSBK | | X | 596-00 | 
+DK | DK00 | X | Studstrupværkets Havn | DKSSV | | X | 981-00 | 
+DK | DK00 | X | Sundsøre | DKSUE | | X | 801-02 | 
+DK | DK00 | X | Svendborg | DKSVE | | X | 860-00 | 
+DK | DK00 | X | Tårs | DKTRS | | X | 599-04 | 
+DK | DK00 | X | Thisted | DKTED | | X | 890-00 | 
+DK | DK00 | X | Thyborøn | DKTYB | | X | 635-00 | 
+DK | DK00 | X | Tuborg | DKTUB | | X | 042-00 | 
+DK | DK00 | X | Tunø | DKTNO | | X | 982-03 | 
+DK | DK00 | X | Vang Havn | DKVNG | | X | 747-00 | 
+DK | DK00 | X | Vejle | DKVEJ | | X | 920-00 | 
+DK | DK00 | X | Venø Havn | DKVEN | | X | 445-00 | 
+DK | DK00 | X | Vesterø Havn, Læsø | DKVES | | X | 294-00 | 
+DK | DK00 | X | Vordingborg Havn | DKVOR | | X | 633-00 | 
+DK | DK00 | X | DK offshore installations | DK88P | | | | 
+DK | DK00 | X | Other - Denmark | DK888 | | | | 
+| | | 145 | 145 | 4 | 141 | | 
+DE | DE01 | X | Amrum I. | DEAMR | | X | 01301 | 
+DE | DE03 | X | Andernach | DEAND | | X | 13202 | 
+DE | DE02 | X | Anklam | DEANK | | X | 23301 | 
+DE | DE02 | X | Baltic Sea (other ports) | DE115 | | X | 01684 | 
+DE | DE01 | X | Baltrum I. | DEBMR | | X | 04102 | 
+DE | DE03 | X | Beddingen - zu Salzgitter - | DEBZS | | X | 05101 | 
+DE | DE01 | X | Beidenfleth | DEBEI | | X | 01401 | 
+DE | DE01 | X | Bensersiel | DEBEN | | X | 04204 | 
+DE | DE03 | X | Berlin | DEBER | | X | 22229 | 
+DE | DE02 | X | Berndshof | DEBOF | | X | 23331 | 
+DE | DE01 | X | Blumenthal | DEBLM | DEBRE | | 06101 | 
+DE | DE01 | X | Borkum I. | DEBMK | | X | 04103 | 
+DE | DE01 | X | Brake | DEBKE | | X | 04206 | 
+DE | DE03 | X | Braunschweig | DEBWE | | X | 05103 | 
+DE | DE01 | X | Bremen | DEBRE | | X | 06101 | 
+DE | DE01 | X | Bremerhaven | DEBRV | | X | 06201 | 
+DE | DE01 | X | Brunsbüttel | DEBRB | | X | 01404 | 
+DE | DE01 | X | Büsum | DEBUM | | X | 01405 | 
+DE | DE01 | X | Bützfleth | DEBUZ | | X | 03108 | 
+DE | DE02 | X | Burgstaaken/Fehmarn | DEBSK | | X | 01701 | 
+DE | DE01 | X | Carolinensiel | DECAR | | X | 04208 | 
+DE | DE03 | X | Castrop-Rauxel | DECRL | | X | 08205 | 
+DE | DE01 | X | Cuxhaven | DECUX | | X | 03110 | 
+DE | DE01 | X | Dagebüll | DEDAG | | X | 01302 | 
+DE | DE02 | X | Damp-Ostseebad | DEDAP | DE115 | | 01684 | 
+DE | DE02 | X | Demmin | DEDMN | | X | 23332 | 
+DE | DE03 | X | Dormagen | DEDMG | | X | 09301 | 
+DE | DE03 | X | Dorsten | DEDON | | X | 08208 | 
+DE | DE03 | X | Dortmund | DEDTM | | X | 08302 | 
+DE | DE02 | X | Dranske | DEDRA | DE075 | | 23175 | 
+DE | DE01 | X | Drochtersen | DEDRO | DE116 | | 03182 | 
+DE | DE03 | X | Düsseldorf | DEDUS | | X | 09201 | 
+DE | DE03 | X | Duisburg | DEDUI | | X | 08101 | 
+DE | DE02 | X | Eckernförde | DEECK | | X | 01602 | 
+DE | DE01 | X | Eiderdam | DEEDD | DE118 | | 01318 | 
+DE | DE01 | X | Elbe (other ports) | DE116 | | X | 03182 | 
+DE | DE01 | X | Emden | DEEME | | X | 04105 | 
+DE | DE03 | X | Emmelsum | DEESU | | X | 07226 | 
+DE | DE02 | X | Flensburg | DEFLF | | X | 01201 | 
+DE | DE02 | X | Flensburger Förde (other ports) | DE117 | | X | 01282 | 
+DE | DE01 | X | Föhr I. | DE017 | | X | 01303 | 
+DE | DE01 | X | Friedrichstadt | DEFRI | | X | 01304 | 
+DE | DE03 | X | Fürst Leopold-Baldur, Zeche - zu Dorsten - | DE102 | | X | 08213 | 
+DE | DE03 | X | Gelsenkirchen | DEGEK | | X | 08215 | 
+DE | DE02 | X | Gelting | DEGEL | | X | 01202 | 
+DE | DE01 | X | Gieselaukanal and Eider (other ports) | DE118 | | X | 01381 | 
+DE | DE02 | X | Glücksburg, Langballigau, Neukirchen | DENEK | DE117 | | 01282 | 
+DE | DE01 | X | Glückstadt | DEGLU | | X | 01408 | 
+DE | DE02 | X | Greifswald, Landkreis | DEGRD | | X | 23372 | 
+DE | DE01 | X | Hamburg | DEHAM | | X | 02001 | 
+DE | DE03 | X | Hanau | DEHAU | | X | 12310 | 
+DE | DE01 | X | Harburg | DEHBU | DEHAM | | 02001 | 
+DE | DE01 | X | Haren/Ems | DEHRN | | X | 04409 | 
+DE | DE02 | X | Heiligenhafen | DEHHF | | X | 01704 | 
+DE | DE01 | X | Helgoland I. | DEHGL | | X | 01409 | 
+DE | DE01 | X | Hochdonn | DEHOD | | X | 01410 | 
+DE | DE01 | X | Hörnum/Sylt | DEHRM | | X | 01305 | 
+DE | DE01 | X | Hohenhoern | DEHHS | | X | 01412 | 
+DE | DE03 | X | Homberg | DEHOM | | X | 08106 | 
+DE | DE01 | X | Husum | DEHUS | | X | 01306 | 
+DE | DE01 | X | Itzehoe | DEITZ | | X | 01413 | 
+DE | DE01 | X | Juist | DEJUI | | X | 04108 | 
+DE | DE02 | X | Kappeln | DEKAP | | X | 01203 | 
+DE | DE02 | X | Kiel | DEKEL | | X | 01501 | 
+DE | DE03 | X | Köln | DECGN | | X | 09505 | 
+DE | DE03 | X | Krefeld | DEKRE | | X | 09302 | 
+DE | DE01 | X | Langeoog, Insel | DELGO | | X | 04220 | 
+DE | DE02 | X | Lauterbach | DELAU | | X | 23110 | 
+DE | DE01 | X | Leer | DELEE | | X | 04109 | 
+DE | DE01 | X | List/Sylt | DELIS | | X | 01307 | 
+DE | DE01 | X | Lohesch | DELOH | | X | 04414 | 
+DE | DE02 | X | Lübeck | DELBC | | X | 01801 | 
+DE | DE03 | X | Lülsdorf | DELLF | | X | 09507 | 
+DE | DE03 | X | Minden | DEMID | | X | 10110 | 
+DE | DE03 | X | Mühlheim an der Ruhr | DEMUH | | X | 08231 | 
+DE | DE02 | X | Mukran | DEMUK | DESAS | | 23111 | 
+DE | DE01 | X | Nessmersiel | DENES | | X | 04113 | 
+DE | DE01 | X | Neuharlingersiel | DENHS | | X | 04223 | 
+DE | DE03 | X | Neuss | DENSS | | X | 09303 | 
+DE | DE02 | X | Neustadt/Holstein | DENHO | | X | 01705 | 
+DE | DE01 | X | Norddeich | DENOE | | X | 04114 | 
+DE | DE01 | X | Nordenham | DENHA | | X | 04224 | 
+DE | DE01 | X | Norderney I. | DENRD | | X | 04115 | 
+DE | DE01 | X | Oldenburg/Oldenburg | DEOLO | | X | 04225 | 
+DE | DE03 | X | Orsoy | DEORS | | X | 07212 | 
+DE | DE02 | X | Orth/Fehmarn | DEORT | | X | 01706 | 
+DE | DE01 | X | Papenburg | DEPAP | | X | 04417 | 
+DE | DE03 | X | Peine | DEPEI | | X | 05106 | 
+DE | DE01 | X | Pellworm I. | DEPEL | | X | 01309 | 
+DE | DE02 | X | Petersdorf | DEPTD | DERSK | | 23115 | 
+DE | DE02 | X | Puttgarden | DEPUT | | X | 01707 | 
+DE | DE02 | X | Rendsburg | DEREN | | X | 01607 | 
+DE | DE03 | X | Rheinberg-Ossenberg | DERBH | | X | 07217 | 
+DE | DE02 | X | Rostock | DERSK | | X | 23118 | 
+DE | DE02 | X | Rügen (Inneres Gewässer) | DE075 | | X | 23175 | 
+DE | DE02 | X | Rügen (Östl. Stralsunder Fahrw.) | DE055 | | X | 23180 | 
+DE | DE03 | X | Salzgitter | DESAR | | X | 05108 | 
+DE | DE02 | X | Sassnitz | DESAS | | X | 23120 | 
+DE | DE01 | X | Schülpersiel | DESPS | | X | 01422 | 
+DE | DE01 | X | Schwarzenhütten, Hemmoor | DEHMO | | X | 03126 | 
+DE | DE03 | X | Schwedt | DESDT | | X | 24217 | 
+DE | DE03 | X | Sehnde | DESNE | | X | 05215 | 
+DE | DE01 | X | Spieckeroog I. | DESPI | | X | 04230 | 
+DE | DE03 | X | Spyck | DE061 | | X | 07218 | 
+DE | DE01 | X | Stade | DESTA | | X | 03127 | 
+DE | DE01 | X | Stadersand | DESTS | | X | 03128 | 
+DE | DE01 | X | Steenodde | DESDD | DEAMR | | 01301 | 
+DE | DE02 | X | Stralsund | DESTL | | X | 23124 | 
+DE | DE01 | X | Travemünde | DETRV | DELBC | | 01801 | 
+DE | DE03 | X | Uelzen | DEUEL | | X | 03217 | 
+DE | DE01 | X | Upschört | DEUPS | | X | 04233 | 
+DE | DE02 | X | Vitte/Hiddensee | DE070 | | X | 23125 | 
+DE | DE03 | X | Walsum | DEWLS | | X | 08109 | 
+DE | DE01 | X | Wangerooge I. | DEAGE | | X | 04235 | 
+DE | DE02 | X | Warnemünde | DEWAR | DERSK | | 23126 | 
+DE | DE01 | X | Wedel-Schulau | DEWED | | X | 01424 | 
+DE | DE03 | X | Wesel | DEWES | | X | 07224 | 
+DE | DE01 | X | Wilhelmshaven | DEWVN | | X | 04236 | 
+DE | DE01 | X | Wilster | DEWIL | | X | 01426 | 
+DE | DE01 | X | Wischhafen | DEWIF | | X | 03131 | 
+DE | DE02 | X | Wismar | DEWIS | | X | 23213 | 
+DE | DE02 | X | Wolgast | DEWOL | | X | 23328 | 
+DE | DE01 | X | Wyk/Föhr | DEWYK | DE017 | | 01303 | 
+DE | DE01 | X | DE offshore installations | DE88P | | | | 
+DE | DE02 | X | DE offshore installations | DE88P | | | | 
+DE | DE01 | X | Other - Germany North Sea | DE888 | | | | 
+DE | DE02 | X | Other - Germany Baltic | DE888 | | | | 
+DE | DE03 | X | Other - Germany Inland | DE888 | | | | 
+DE | DE09 | X | Other - Germany (unknown MCA) | DE888 | | | | 
+| | | 123 | 123 | 13 | 110 | | 
+EE | EE00 | X | Kunda | EEKUN | | X | | 
+EE | EE00 | X | Miiduranna | EEMID | | X | | 
+EE | EE00 | X | Pärnu | EEPAR | | X | | 
+EE | EE00 | X | Tallinn (including Vanasadam (Old City), Muuga, Paljassaare, Paldiski Lõunasadam (Paldiski South) | EETLL | | X | | 
+EE | EE00 | X | Vene-Balti | EEVEB | | X | | 
+EE | EE00 | X | EE - offshore installations | EE88P | | | | 
+EE | EE00 | X | Other - Estonia | EE888 | | | | 
+| | | 5 | 5 | | 5 | | 
+GR | GR00 | X | Achladi (Αχλάδι Φθιώτιδας) | GRACL | GRSYS | | 072 | 
+GR | GR00 | X | Aegina (Αίγινα) | GRAEG | | X | 025 | 
+GR | GR00 | X | Aegio (Αίγιο) | GRAEN | | X | 027 | 
+GR | GR00 | X | Agia Marina Aiginas (Αγία Μαρίνα Αίγινας) | GR868 | | X | 868 | 
+GR | GR00 | X | Agia Marina Attikis (Αγία Μαρίνα Αττικής) | GR883 | | X | 883 | 
+GR | GR00 | X | Agia Marina Fthiotidas (Αγία Μαρίνα Φθιώτιδας) | GRAGM | | X | 006 | 
+GR | GR00 | X | Agia Pelagia (Αγία Πελαγία) | GRAPE | | X | 019 | 
+GR | GR00 | X | Agia Roumeli Chanion (Αγία Ρούμελη Χανίων) | GR704 | | X | 704 | 
+GR | GR00 | X | Agii Theodori (Άγιοι Θεόδωροι) | GRAGT | | X | 008 | 
+GR | GR00 | X | Agiokampos Larissas (Αγιόκαμπος Λάρισας) | GR879 | | X | 879 | 
+GR | GR00 | X | Agios Konstantinos (Άγιος Κωνσταντίνος) | GRAKO | | X | 013 | 
+GR | GR00 | X | Agios Kyrikos (Άγιος Κύρικος) | GRAKI | | X | 011 | 
+GR | GR00 | X | Agios Nikolaos Creta (Άγιος Νικόλαος Κρήτης) | GRANI | | X | 015 | 
+GR | GR00 | X | Agios Eystratios Lesvou (Άγιος Ευστράτιος Λέσβου) | GR703 | | X | 703 | 
+GR | GR00 | X | Agios Nikolaos Fokidas (Άγιος Νικόλαος Φωκίδας) | GR876 | | X | 876 | 
+GR | GR00 | X | Agistri Aiginas (Αγκίστρι Αίγινας) | GR708 | | X | 708 | 
+GR | GR00 | X | Aigiali Amorgou (Αιγιάλη Αμοργού) | GR710 | | X | 710 | 
+GR | GR00 | X | Aktio Vonitsas (Άκτιο Βόνιτσας) | GR880 | | X | 880 | 
+GR | GR00 | X | Alexandroupolis (Αλεξανδρούπολις) | GRAXD | | X | 031 | 
+GR | GR00 | X | Aliverio (Αλιβέριο) | GRLVR | | X | 033 | 
+GR | GR00 | X | Almyros Volou (Αλμυρός Βόλου) | GRALM | | X | | 
+GR | GR00 | X | Alonissos (Αλόνησσος) | GRALO | | X | 035 | 
+GR | GR00 | X | Amfilochia (Αμφιλοχία) | GRAMF | | X | 047 | 
+GR | GR00 | X | Amoliani (Αμολιανή) | GRAMI | | X | 043 | 
+GR | GR00 | X | Amorgos (Αμοργός) | GRAMO | | X | 045 | 
+GR | GR00 | X | Anafi Kyklades (Ανάφη Κυκλάδες) | GR716 | | X | 716 | 
+GR | GR00 | X | Andros (Άνδρος) | GRAND | | X | 055 | 
+GR | GR00 | X | Antikyra (Αντίκυρα) | GRATK | | X | 057 | 
+GR | GR00 | X | Antiparos (Αντίπαρος) | GRANP | | X | 059 | 
+GR | GR00 | X | Antirio (Αντίριο) | GRANT | | X | 060 | 
+GR | GR00 | X | Araxos ('Αραξος) | GR870 | | X | 870 | 
+GR | GR00 | X | Argostoli (Αργοστόλι) | GREFL | | X | 185 | 
+GR | GR00 | X | Arkitsa Fthiotidas (Αρκίτσα Φθιώτιδας) | GR877 | | X | 877 | 
+GR | GR00 | X | Aspropyrgos (Ασπρόπυργος) | GRAPY | GREEU | | | 
+GR | GR00 | X | Astakos (Αστακός) | GRAST | | X | 065 | 
+GR | GR00 | X | Astypalea (Αστυπάλαια) | GRJTY | | X | 069 | 
+GR | GR00 | X | Bassiliki Leykados (Βασιλική Λευκάδας) | GR722 | | X | 722 | 
+GR | GR00 | X | Canea (Χανιά) | GRCHQ | GRSUD | | | 
+GR | GR00 | X | Chalki Dodekanissou (Χάλκη Δωδεκανήσων) | GR846 | | X | 846 | 
+GR | GR00 | X | Chalkida (Χαλκίδα) | GRCLK | | X | 515 | 
+GR | GR00 | X | Chios (Χίος) | GRJKH | | X | 521 | 
+GR | GR00 | X | Chora Sfakion (Χώρα Σφακίων) | GRCSF | | X | 525 | 
+GR | GR00 | X | Corfu (Κέρκυρα) | GRCFU | | X | 183 | 
+GR | GR00 | X | Dafni Agiou Orous (Δάφνη Αγίου Όρους) | GR728 | | X | 728 | 
+GR | GR00 | X | Diafani Karpathou (Διαφανή Καρπαθου) | GR729 | | X | 729 | 
+GR | GR00 | X | Donoussa Kyklades (Δονούσσα Κυκλάδες) | GR733 | | X | 733 | 
+GR | GR00 | X | Drapetsona (Δραπετσώνα) | GRDPA | GRPIR | | | 
+GR | GR00 | X | Edipsos (Αιδηψός) | GREDI | | X | 029 | 
+GR | GR00 | X | Elafonissos Lakonias (Ελαφόνησος Λακωνίας) | GR734 | | X | 734 | 
+GR | GR00 | X | Eleftheres (Ελευθερές) | GRELT | | X | 103 | 
+GR | GR00 | X | Eleusina (Ελευσίνα) | GREEU | | X | 105 | 
+GR | GR00 | X | Eretria Evoias (Ερέτρεια Εβοίας) | GR882 | | X | 882 | 
+GR | GR00 | X | Eydilos (Εύδηλος) | GREYD | | X | 115 | 
+GR | GR00 | X | Faneromeni Salaminas (Φανερωμένη Σαλαμίνας) | GR891 | | X | 891 | 
+GR | GR00 | X | Fiskardo Kefallinias (Φισκάρδο Κεφαλληνίας) | GR842 | | X | 842 | 
+GR | GR00 | X | Folegandros Kyklades (Φολέγανδρος Κυκλάδες) | GR843 | | X | 843 | 
+GR | GR00 | X | Fourni Samou (Φούρνοι Σάμου) | GR844 | | X | 844 | 
+GR | GR00 | X | Frikes Ithakis (Φρίκες Ιθάκης) | GR845 | | X | 845 | 
+GR | GR00 | X | Galatas Trizinias (Γαλατάς Τροιζηνίας) | GR884 | | X | 884 | 
+GR | GR00 | X | Gavrio (Γαύριο) | GRGAV | | X | 085 | 
+GR | GR00 | X | Gerakas Lakonias (Γέρακας Λακωνίας) | GR857 | | X | 857 | 
+GR | GR00 | X | Glossa Skopelou (Γλώσσα Σκοπέλου) | GRGLO | | X | 091 | 
+GR | GR00 | X | Glyfa Fthiotidas (Γλύφα Φθιώτιδας) | GR878 | | X | 878 | 
+GR | GR00 | X | Gythio (Γύθειο) | GRGYT | | X | 093 | 
+GR | GR00 | X | Heraklio (Ηράκλειο) | GRHER | | X | 121 | 
+GR | GR00 | X | Hydra ('Υδρα) | GRHYD | | X | 501 | 
+GR | GR00 | X | Igoumenitsa (Ηγουμενίτσα) | GRIGO | | X | 119 | 
+GR | GR00 | X | Inousses (Οινούσες) | GRINO | | X | 365 | 
+GR | GR00 | X | Ios ('Ιος) | GRIOS | | X | 137 | 
+GR | GR00 | X | Iraklia Kyklades (Ηρακλειά Κυκλάδες) | GR738 | | X | 738 | 
+GR | GR00 | X | Istmia (Ίσθμια) | GRITM | | X | 139 | 
+GR | GR00 | X | Itea (Ιτέα) | GRITA | | X | 141 | 
+GR | GR00 | X | Ithaki (Ιθάκη) | GRITH | | X | 135 | 
+GR | GR00 | X | Kalamata (Καλαμάτα) | GRKLX | | X | 145 | 
+GR | GR00 | X | Kalymnos (Κάλυμνος) | GRKMI | | X | 151 | 
+GR | GR00 | X | Karlovassi (Καρλόβασι) | GRKAR | | X | 159 | 
+GR | GR00 | X | Karpathos (Κάρπαθος) | GRAOK | | X | 161 | 
+GR | GR00 | X | Karra Chalkidikis (Καρρά Χαλκιδικής) | GR854 | | X | 854 | 
+GR | GR00 | X | Karystos (Κάρυστος) | GRKST | | X | 163 | 
+GR | GR00 | X | Kassos (Κάσσος) | GRKSI | | X | 167 | 
+GR | GR00 | X | Kastelli Kissamou (Καστέλλι Κισσάμου) | GRKIS | | X | 171 | 
+GR | GR00 | X | Katakolo (Κατάκολο) | GRKAK | | X | 173 | 
+GR | GR00 | X | Kavala (Καβάλα) | GRKVA | | X | 143 | 
+GR | GR00 | X | Kea (Κέα) | GRKEA | | X | 177 | 
+GR | GR00 | X | Keramoti (Κεραμωτή) | GRKER | | X | 181 | 
+GR | GR00 | X | Keratsini (Κερατσίνι) | GRKTS | GRPIR | | | 
+GR | GR00 | X | Kiato (Κιάτο) | GRKIO | | X | 189 | 
+GR | GR00 | X | Kimolos (Κίμωλος) | GRKMS | | X | 193 | 
+GR | GR00 | X | Korinthos (Κόρινθος) | GRCRG | | X | 203 | 
+GR | GR00 | X | Kos (Κως) | GRKGS | | X | 225 | 
+GR | GR00 | X | Kosta Ermionidos (Κόστα Ερμιονίδας) | GR881 | | X | 881 | 
+GR | GR00 | X | Koufonissi Kyklades (Κουφονήσι Κυκλάδες) | GR761 | | X | 761 | 
+GR | GR00 | X | Kylini (Κυλήνη) | GRKYL | | X | 217 | 
+GR | GR00 | X | Kymi (Κύμη) | GRKIM | | X | 219 | 
+GR | GR00 | X | Kythnos (Κύθνος) | GRKYT | | X | 099 | 
+GR | GR00 | X | Larymna (Λάρυμνα) | GRLRY | | X | 231 | 
+GR | GR00 | X | Lavrio (Λαύριο) | GRLAV | | X | 233 | 
+GR | GR00 | X | Lefkimi (Λευκίμη Κερκύρας) | GRLFK | | X | 214 | 
+GR | GR00 | X | Leros (Λέρος) | GRLRS | | X | 237 | 
+GR | GR00 | X | Lipsi Dodekanissou (Λειψοί Δωδεκανήσων) | GR766 | | X | 766 | 
+GR | GR00 | X | Lixouri (Ληξούρι Κεφαλληνίας) | GRLIX | | X | 245 | 
+GR | GR00 | X | Loutro Chania (Λουτρό Χανίων) | GR850 | | X | 850 | 
+GR | GR00 | X | Marmari (Μαρμάρι) | GRMRM | | X | 261 | 
+GR | GR00 | X | Meganissi (Μεγανήσι) | GRMGN | | X | 253 | 
+GR | GR00 | X | Megara (Μέγαρα) | GRMGR | | X | 267 | 
+GR | GR00 | X | Megisti Kastelorizou (Μεγίστη Καστελόριζου) | GR775 | | X | 775 | 
+GR | GR00 | X | Menidi Etolokarnanias (Μενίδι Αιτωλοακαρνανίας) | GRMEN | | X | 277 | 
+GR | GR00 | X | Messologi (Μεσολόγγι) | GRMEL | | X | 281 | 
+GR | GR00 | X | Methana (Μέθανα) | GRMET | | X | | 
+GR | GR00 | X | Milos (Μήλος) | GRMLO | | X | 287 | 
+GR | GR00 | X | Moudros (Μούδρος Λήμνου) | GRMDR | | X | 299 | 
+GR | GR00 | X | Mykonos (Μύκονος) | GRJMK | | X | 311 | 
+GR | GR00 | X | Myrina (Μύρινα) | GRMYR | | X | 315 | 
+GR | GR00 | X | Mytilene (Μυτιλήνη) | GRMJT | | X | 319 | 
+GR | GR00 | X | Nafplio (Ναύπλιο) | GRNAF | | X | 327 | 
+GR | GR00 | X | Naxos (Νάξος) | GRJNX | | X | 321 | 
+GR | GR00 | X | Nea Karvali (Νέα Καρβάλη Καβάλας) | GRNKV | GRKVA | | | 
+GR | GR00 | X | Nea Moudania (Νέα Μουδανιά Χαλκιδικής) | GRNMA | | X | 345 | 
+GR | GR00 | X | Nea Styra (Νέα Στύρα) | GRNST | | X | 349 | 
+GR | GR00 | X | Neapoli Lakonias (Νεάπολις Λακωνίας) | GRNEA | | X | 329 | 
+GR | GR00 | X | Nidri (Νυδρί) | GRNID | | X | 359 | 
+GR | GR00 | X | Nissyros (Νίσσυρος) | GRNIS | | X | 355 | 
+GR | GR00 | X | Orei (Ωρεοί) | GRORE | | X | 529 | 
+GR | GR00 | X | Oropos (Ωρωπός) | GRORO | | X | 531 | 
+GR | GR00 | X | Ouranoupoli Chalkidikis (Ουρανόπολις Χαλκιδικής) | GR801 | | X | 801 | 
+GR | GR00 | X | Paleochora Sfakion (Παλαιοχώρα Σφακίων) | GRPSF | | X | 371 | 
+GR | GR00 | X | Paloukia Salaminas (Παλούκια Σαλαμίνας) | GR890 | | X | 890 | 
+GR | GR00 | X | Paros (Πάρος) | GRPAS | | X | 389 | 
+GR | GR00 | X | Patmos (Πάτμος) | GRPMS | | X | 391 | 
+GR | GR00 | X | Patras (Πάτρα) | GRGPA | | X | 393 | 
+GR | GR00 | X | Paxi (Παξοί) | GRPAX | | X | 385 | 
+GR | GR00 | X | Perama (Πέραμα) | GRPER | GRPIR | | 399 | 
+GR | GR00 | X | Pessada Kefallinias (Πεσσάδα Κεφαλληνίας) | GR887 | | X | 887 | 
+GR | GR00 | X | Petra Lesvou (Πέτρα Λέσβου) | GR812 | | X | 812 | 
+GR | GR00 | X | Pireus (Πειραιάς) | GRPIR | | X | 397 | 
+GR | GR00 | X | Pissaetos Ithakis (Πισαετός Ιθάκης) | GR852 | | X | 852 | 
+GR | GR00 | X | Politika (Πολιτικά) | GRPTK | | X | 414 | 
+GR | GR00 | X | Poros Trizinias (Πόρος Τροιζηνίας) | GRPTR | | X | 417 | 
+GR | GR00 | X | Poros Kefallinias (Πόρος Κεφαλληνίας) | GRPKE | | X | 419 | 
+GR | GR00 | X | Porto Lagos (Πόρτο Λάγος) | GRPTL | | X | 421 | 
+GR | GR00 | X | Preveza (Πρέβεζα) | GRPVK | | X | 423 | 
+GR | GR00 | X | Psara (Ψαρά) | GR804 | | X | 804 | 
+GR | GR00 | X | Rafina (Ραφήνα) | GRRAF | | X | 433 | 
+GR | GR00 | X | Rethymno (Ρέθυμνο) | GRRET | | X | 437 | 
+GR | GR00 | X | Rhodes (Ρόδος) | GRRHO | | X | 439 | 
+GR | GR00 | X | Rio (Ρίο) | GRRIO | | X | | 
+GR | GR00 | X | Sami (Σάμη) | GRSMI | | X | 445 | 
+GR | GR00 | X | Samothraki (Σαμοθράκη) | GRSAM | | X | 447 | 
+GR | GR00 | X | Schinoussa Kyklades (Σχοινούσα Κυκλάδες) | GR836 | | X | 836 | 
+GR | GR00 | X | Seriphos (Σέριφος) | GRSER | | X | 451 | 
+GR | GR00 | X | Shinari Zakyntou (Σχινάρι Ζακύνθου) | GR892 | | X | 892 | 
+GR | GR00 | X | Sifnos (Σίφνος) | GRSIF | | X | 461 | 
+GR | GR00 | X | Sikinos Kyklades (Σίκινος) | GR829 | | X | 829 | 
+GR | GR00 | X | Sitia (Σητεία) | GRJSH | | X | 453 | 
+GR | GR00 | X | Skaramagas (Σκαραμαγκάς) | GRSKA | GRPIR | | | 
+GR | GR00 | X | Skiathos (Σκιάθος) | GRJSI | | X | 465 | 
+GR | GR00 | X | Skopelos (Σκόπελος) | GRSKO | | X | 467 | 
+GR | GR00 | X | Skyros (Σκύρος) | GRSKU | | X | 469 | 
+GR | GR00 | X | Souda Bay (Σούδα) | GRSUD | | X | 470 | 
+GR | GR00 | X | Sougia (Σούγια) | GR873 | | X | 873 | 
+GR | GR00 | X | Souvala Aiginas (Σουβάλα Αίγινας) | GR832 | | X | 832 | 
+GR | GR00 | X | Spetses (Σπέτσες) | GRSPE | | X | 473 | 
+GR | GR00 | X | Stratonio (Στρατώνιο Χαλκιδικής) | GRSTI | | X | 479 | 
+GR | GR00 | X | Stylida (Στυλίδα) | GRSYS | | X | 481 | 
+GR | GR00 | X | Symi (Σύμη) | GRSYM | | X | 487 | 
+GR | GR00 | X | Syros (Σύρος) | GRJSY | | X | 489 | 
+GR | GR00 | X | Thassos (Θάσος) | GRTSO | | X | 123 | 
+GR | GR00 | X | Thessaloniki (Θεσσαλονίκη) | GRSKG | | X | 125 | 
+GR | GR00 | X | Thira (Θήρα) | GRJTR | | X | 127 | 
+GR | GR00 | X | Tilos Dodekanissou (Τήλος Δωδεκανήσων) | GR837 | | X | 837 | 
+GR | GR00 | X | Tinos (Τήνος) | GRTIN | | X | 493 | 
+GR | GR00 | X | Trypiti Chalkidikis (Τρυπητή Χαλκιδικής) | GR885 | | X | 885 | 
+GR | GR00 | X | Vathy Samou (Βαθύ Σάμου) | GRVTH | | X | 449 | 
+GR | GR00 | X | Volos (Βόλος) | GRVOL | | X | 079 | 
+GR | GR00 | X | Yerakini (Γερακινή Χαλικιδικής) | GRYER | GRNMA | | | 
+GR | GR00 | X | Zakynthos (Ζάκυνθος) | GRZTH | | X | 117 | 
+GR | GR00 | X | GR Offshore installations | GR88P | | | | 
+GR | GR00 | X | Other Greece | GR888 | | X | | 
+| | | 176 | 176 | 9 | 167 | | 
+ES | ES02 | X | Alcudia | ESALD | | X | | 
+ES | ES02 | X | Algeciras | ESALG | | X | | 
+ES | ES02 | X | Alicante | ESALC | | X | | 
+ES | ES02 | X | Almería | ESLEI | | X | | 
+ES | ES02 | X | Arguineguin | ESARI | | X | | 
+ES | ES02 | X | Arrecife de Lanzarote | ESACE | | X | | 
+ES | ES01 | X | Avilés | ESAVS | | X | | 
+ES | ES02 | X | Barcelona | ESBCN | | X | | 
+ES | ES01 | X | Bilbao | ESBIO | | X | | 
+ES | ES02 | X | Cabezuela | ESCBZ | | X | | 
+ES | ES02 | X | Cádiz | ESCAD | | X | | 
+ES | ES02 | X | Cala Sabina | ESCBS | | X | | 
+ES | ES02 | X | Carboneras | ESCRS | | X | | 
+ES | ES02 | X | Cartagena | ESCAR | | X | | 
+ES | ES02 | X | Castellón | ESCAS | | X | | 
+ES | XC00 | X | Ceuta | XCCEU | | X | | 
+ES | ES02 | X | Escombreras | ESESC | | X | | 
+ES | ES01 | X | Ferrol | ESFER | | X | | 
+ES | ES02 | X | Gandía | ESGAN | | X | | 
+ES | ES01 | X | Gijón | ESGIJ | | X | | 
+ES | ES02 | X | Hierro | ESHIE | | X | | 
+ES | ES02 | X | Huelva | ESHUV | | X | | 
+ES | ES02 | X | Ibiza | ESIBZ | | X | | 
+ES | ES01 | X | La Coruña | ESLCG | | X | | 
+ES | ES02 | X | La Estaca | ESLES | | X | | 
+ES | ES02 | X | Las Palmas | ESLPA | | X | | 
+ES | ES02 | X | Los Cristianos | ESLCR | | X | | 
+ES | ES02 | X | Mahón | ESMAH | | X | | 
+ES | ES02 | X | Málaga | ESAGP | | X | | 
+ES | ES01 | X | Marín- (Pontevedra) | ESMPG | | X | | 
+ES | XL00 | X | Melilla | XLMLN | | X | | 
+ES | ES02 | X | Motril | ESMOT | | X | | 
+ES | ES02 | X | Palma de Mallorca | ESPMI | | X | | 
+ES | ES01 | X | Pasajes | ESPAS | | X | | 
+ES | ES02 | X | Puerto de Santa Maria | ESPSM | | X | | 
+ES | ES02 | X | Puerto del Rosario | ESFUE | | X | | 
+ES | ES02 | X | Rota | ESROT | | X | | 
+ES | ES02 | X | Sagunto | ESSAG | | X | | 
+ES | ES01 | X | San Ciprián | ESSCI | | X | | 
+ES | ES02 | X | San Sebastian de la Gomera | ESSSG | | X | | 
+ES | ES02 | X | Santa Cruz de la Palma | ESSPC | | X | | 
+ES | ES02 | X | Santa Cruz de Tenerife | ESSCT | | X | | 
+ES | ES01 | X | Santander | ESSDR | | X | | 
+ES | ES02 | X | Sevilla | ESSVQ | | X | | 
+ES | ES02 | X | Tarifa | ESTRF | | X | | 
+ES | ES02 | X | Tarragona | ESTAR | | X | | 
+ES | ES02 | X | Torrevieja | ESTOR | | X | | 
+ES | ES02 | X | Valencia | ESVLC | | X | | 
+ES | ES01 | X | Vigo | ESVGO | | X | | 
+ES | ES01 | X | Villagarcía (de Arosa) | ESVIL | | X | | 
+ES | ES02 | X | Vinaroz | ESVZR | | X | | 
+ES | ES02 | X | Zona Franca De Cadiz | ESZFR | | X | | 
+ES | ES01 | X | ES offshore installations | ES88P | | | | 
+ES | ES02 | X | ES offshore installations | ES88P | | | | 
+ES | ES01 | X | Other - Spain Atlantic (North of Portugal) | ES888 | | | | 
+ES | ES02 | X | Other - Spain Mediterranean | ES888 | | | | 
+ES | ES09 | X | Other - Spain (unknown MCA) | ES888 | | | | 
+| | | 52 | 52 | 0 | 52 | | 
+FR | FR02 | X | Ajaccio | FRAJA | | X | 76 | 
+FR | FR01 | X | Basse-Indre | FRBAI | FRNTE | | | 
+FR | FR01 | X | Bassens | FRBAS | FRBOD | | | 
+FR | FR04 | X | Basse-Terre (Guadeloupe) | GPBBR | GP001 | | | 
+FR | FR02 | X | Bastia | FRBIA | | X | 73 | 
+FR | FR01 | X | Bayonne | FRBAY | | X | 57 | 
+FR | FR01 | X | Bec d'Ambes | FRBEC | FRBOD | | | 
+FR | FR02 | X | Berre | FRBEE | FRMRS | | | 
+FR | FR01 | X | Blaye | FRBYE | FRBOD | | | 
+FR | FR02 | X | Bonifacio | FRBON | | X | 78 | 
+FR | FR01 | X | Bonsecours | FRBSC | FRURO | | | 
+FR | FR01 | X | Bordeaux | FRBOD | | X | 56 | 
+FR | FR01 | X | Boulogne-sur-Mer | FRBOL | | X | 04 | 
+FR | FR01 | X | Brest | FRBES | | X | 29 | 
+FR | FR01 | X | Caen | FRCFR | | X | 13 | 
+FR | FR01 | X | Calais | FRCQF | | X | 03 | 
+FR | FR02 | X | Calvi | FRCLY | | X | 75 | 
+FR | FR01 | X | Camaret | FRCAM | | X | 32 | 
+FR | FR02 | X | Cannes | FRCEQ | | X | 68 | 
+FR | FR01 | X | Carteret | FRCRT | | X | 15 | 
+FR | FR01 | X | Cherbourg | FRCER | | X | 14 | 
+FR | FR03 | X | Degrad-des Cannes (Guyane française) | GFDDC | | X | 94 | 
+FR | FR01 | X | Concarneau | FRCOC | | X | 38 | 
+FR | FR01 | X | Dieppe | FRDPE | | X | 07 | 
+FR | FR01 | X | Donges | FRDON | FRNTE | | | 
+FR | FR01 | X | Douarnenez | FRDRZ | | X | 33 | 
+FR | FR01 | X | Dunkerque | FRDKK | | X | 1 | 
+FR | FR02 | X | Étang-de-Berre | FRETB | FRMRS | | | 
+FR | FR01 | X | Fécamp | FRFEC | | X | 08 | 
+FR | FR04 | X | Fort-de-France (Martinique) | MQFDF | | X | 93 | 
+FR | FR02 | X | Fos-sur-Mer | FRFOS | FRMRS | | | 
+FR | FR01 | X | Gonfreville-l'Orcher | FRGLO | FRLEH | | | 
+FR | FR04 | X | Guadeloupe (Guadeloupe) | GP001 | | X | 90 | 
+FR | FR01 | X | Granville | FRGFR | | X | 16 | 
+FR | FR01 | X | Gravelines | FRGRV | | X | 02 | 
+FR | FR01 | X | Harfleur | FRHRF | FRLEH | | | 
+FR | FR01 | X | Hennebont | FRHET | | X | 40 | 
+FR | FR01 | X | Honfleur | FRHON | | X | 11 | 
+FR | FR04 | X | Jarry (Guadeloupe) | GPJAR | GP001 | | | 
+FR | FR03 | X | Kourou (Guyane française) | GFQKR | | X | 96 | 
+FR | FR02 | X | L'Île-Rousse | FRILR | | X | 74 | 
+FR | FR02 | X | La Ciotat | FRLCT | | X | 65 | 
+FR | FR03 | X | Larivot (Guyane française) | GFLVT | | X | 91 | 
+FR | FR01 | X | La Pallice | FRLPE | FRLRH | | | 
+FR | FR01 | X | La Rochelle | FRLRH | | X | 49 | 
+FR | FR01 | X | Landerneau | FRLDN | | X | 30 | 
+FR | FR01 | X | Lannion | FRLAI | | X | 26 | 
+FR | FR02 | X | Lavéra | FRLAV | FRMRS | | | 
+FR | FR01 | X | Le Fret (Crozon) | FRLFR | | X | 31 | 
+FR | FR01 | X | Le Guildo (Créhen) | FRLGU | | X | 20 | 
+FR | FR01 | X | Le Havre | FRLEH | | X | 09 | 
+FR | FR01 | X | Le Lègue (Saint-Brieuc) | FRSBK | | X | 22 | 
+FR | FR01 | X | Le Tréport | FRLTR | | X | 06 | 
+FR | FR01 | X | Le Verdon | FRLVE | FRBOD | | | 
+FR | FR01 | X | Les Sables-d'Olonne | FRLSO | | X | 47 | 
+FR | FR01 | X | Lézardrieux | FRLEZ | | X | 19 | 
+FR | FR01 | X | Lorient | FRLRT | | X | 39 | 
+FR | FR02 | X | Marseille | FRMRS | | X | 64 | 
+FR | FR01 | X | Montoir-de-Bretagne | FRMTX | FRNTE | | | 
+FR | FR01 | X | Morlaix | FRMXN | | X | 27 | 
+FR | FR01 | X | Mortagne-sur-Gironde | FRMSG | | X | 54 | 
+FR | FR01 | X | Nantes Saint-Nazaire | FRNTE | | X | 44 | 
+FR | FR02 | X | Nice-Villefranche | FRNCE | | X | 70 | 
+FR | FR01 | X | Paimbœuf | FRPBF | FRNTE | | | 
+FR | FR01 | X | Paimpol | FRPAI | | X | 23 | 
+FR | FR01 | X | Pauillac-Port | FRPAP | FRBOD | | | 
+FR | FR04 | X | Pointe-à-Pitre (Guadeloupe) | GPPTP | GP001 | | | 
+FR | FR01 | X | Petit-Couronne | FRPET | FRURO | | | 
+FR | FR01 | X | Pontrieux | FRPOX | | X | 24 | 
+FR | FR02 | X | Port-de-Bouc | FRPDB | FRMRS | | | 
+FR | FR01 | X | Port-Jérôme | FRPJE | FRURO | | | 
+FR | FR05 | X | Port-Réunion (ex Pointe-des-Galets) (Réunion) | REPDG | | X | 97 | 
+FR | FR02 | X | Port-Vendres | FRPOV | | X | 61 | 
+FR | FR01 | X | Port-Joinville (Île d'Yeu) | FRPRJ | | X | 46 | 
+FR | FR02 | X | Port-la-Nouvelle | FRNOU | | X | 62 | 
+FR | FR02 | X | Porto Vecchio | FRPVO | | X | 79 | 
+FR | FR02 | X | Propriano | FRPRP | | X | 77 | 
+FR | FR01 | X | Quimper | FRUIP | | X | 37 | 
+FR | FR01 | X | Redon | FRRDN | | X | 42 | 
+FR | FR01 | X | Rochefort | FRRCO | | X | 51 | 
+FR | FR01 | X | Roscoff | FRROS | | X | 28 | 
+FR | FR01 | X | Rouen | FRURO | | X | 10 | 
+FR | FR01 | X | Royan | FRRYN | | X | 53 | 
+FR | FR03 | X | Saint-Laurent-du-Maroni (Guyane française) | GFSLM | | X | 95 | 
+FR | FR02 | X | Sète | FRSET | | X | 63 | 
+FR | FR02 | X | Saint-Louis (Rhône) | FRPSL | FRMRS | | | 
+FR | FR01 | X | Saint-Malo | FRSML | | X | 17 | 
+FR | FR01 | X | Saint-Nazaire | FRSNR | FRNTE | | | 
+FR | FR02 | X | Saint-Raphaël | FRSRL | | X | 67 | 
+FR | FR01 | X | Saint-Valéry-sur-Somme | FRSVS | | X | 05 | 
+FR | FR01 | X | Saint-Wandrille | FRSWD | FRURO | | | 
+FR | FR01 | X | Tonnay Charente | FRTON | | X | 52 | 
+FR | FR02 | X | Toulon | FRTLN | | X | 66 | 
+FR | FR01 | X | Tréguier | FRTRE | | X | 25 | 
+FR | FR01 | X | Vannes | FRVNE | | X | 41 | 
+FR | FR01 | X | FR offshore installations | FR88P | | | | 
+FR | FR02 | X | FR offshore installations | FR88P | | | | 
+FR | FR01 | X | Other - France Atlantic/North Sea | FR888 | | | | 
+FR | FR02 | X | Other - France Mediterranean | FR888 | | | | 
+FR | FR03 | X | Other - France Guyane française | GF888 | | | | 
+FR | FR04 | X | Other - France Guadeloupe | GP888 | | | | 
+FR | FR04 | X | Other - France Martinique | MQ888 | | | | 
+FR | FR05 | X | Other - France Réunion | RE888 | | | | 
+FR | FR09 | X | Other - France (unknown MCA) | FR888 | | | | 
+| | | 95 | 95 | 26 | 69 | | 
+IE | IE00 | X | Arklow | IEARK | | X | 00ARKL | 
+IE | IE00 | X | Arklow Head Port | IE009 | | X | | 
+IE | IE00 | X | Bantry Bay | IEBYT | | X | | 
+IE | IE00 | X | Castletown Bere | IECTB | | X | | 
+IE | IE00 | X | Cork | IEORK | | X | 00CORK | 
+IE | IE00 | X | Drogheda | IEDRO | | X | 00DROG | 
+IE | IE00 | X | Dublin | IEDUB | | X | 00DUBL | 
+IE | IE00 | X | Dun Laoghaire | IEDLG | | X | 00DUNL | 
+IE | IE00 | X | Dundalk | IEDDK | | X | 00DUND | 
+IE | IE00 | X | Foynes | IEFOV | | X | 00FOYN | 
+IE | IE00 | X | Galway | IEGWY | | X | 00GALW | 
+IE | IE00 | X | Greenore | IEGRN | | X | 00GREE | 
+IE | IE00 | X | Killybegs | IEKBS | | X | | 
+IE | IE00 | X | Kilrush | IEKLR | | X | | 
+IE | IE00 | X | Kinsale | IEKLN | | X | | 
+IE | IE00 | X | Limerick | IELMK | | X | 00LIME | 
+IE | IE00 | X | New Ross | IENRS | | X | 00NEWR | 
+IE | IE00 | X | Rosslare Harbour | IEROS | | X | 00ROSS | 
+IE | IE00 | X | Sligo | IESLI | | X | 00SLIG | 
+IE | IE00 | X | Tralee | IETRA | | X | | 
+IE | IE00 | X | Waterford | IEWAT | | X | 00WATE | 
+IE | IE00 | X | Wicklow | IEWIC | | X | 00WICK | 
+IE | IE00 | X | Youghal | IEYOU | | X | | 
+IE | IE00 | X | IE offshore installations | IE88P | | | | 
+IE | IE00 | X | Other — Ireland | IE888 | | | | 
+| | | 23 | 23 | 0 | 23 | | 
+IT | IT00 | X | Alghero | ITAHO | | X | | 
+IT | IT00 | X | Alicudi | ITALI | | X | | 
+IT | IT00 | X | Amalfi | ITAMA | | X | | 
+IT | IT00 | X | Ancona | ITAOI | | X | | 
+IT | IT00 | X | Anzio | ITANZ | | X | | 
+IT | IT00 | X | Arbatax | ITATX | | X | | 
+IT | IT00 | X | Augusta | ITAUG | | X | | 
+IT | IT00 | X | Bari | ITBRI | | X | | 
+IT | IT00 | X | Barletta | ITBLT | | X | | 
+IT | IT00 | X | Brindisi | ITBDS | | X | | 
+IT | IT00 | X | Cagliari | ITCAG | | X | | 
+IT | IT00 | X | Calasetta | ITCLS | | X | | 
+IT | IT00 | X | Capraia | ITCPA | | X | | 
+IT | IT00 | X | Capri | ITPRJ | | X | | 
+IT | IT00 | X | Carloforte | ITCLF | | X | | 
+IT | IT00 | X | Casamicciola | ITCML | | X | | 
+IT | IT00 | X | Castellammare del Golfo | ITCTR | | X | | 
+IT | IT00 | X | Castellammare di Stabia | ITCAS | | X | | 
+IT | IT00 | X | Catania | ITCTA | | X | | 
+IT | IT00 | X | Cavo | ITCVX | | X | | 
+IT | IT00 | X | Chioggia | ITCHI | | X | | 
+IT | IT00 | X | Civitavecchia | ITCVV | | X | | 
+IT | IT00 | X | Crotone | ITCRV | | X | | 
+IT | IT00 | X | Falconara Marittima | ITFAL | | X | | 
+IT | IT00 | X | Favignana | ITFAV | | X | | 
+IT | IT00 | X | Filicudi Porto | ITFPO | | X | | 
+IT | IT00 | X | Fiumicino | ITFCO | | X | | 
+IT | IT00 | X | Formia | ITFOM | | X | | 
+IT | IT00 | X | Gaeta | ITGAE | | X | | 
+IT | IT00 | X | Gallipoli | ITGAL | | X | | 
+IT | IT00 | X | Gela | ITGEA | | X | | 
+IT | IT00 | X | Genova | ITGOA | | X | | 
+IT | IT00 | X | Giannutri | ITGII | | X | | 
+IT | IT00 | X | Giardini | ITGIA | | X | | 
+IT | IT00 | X | Gioia Tauro | ITGIT | | X | | 
+IT | IT00 | X | Golfo Aranci | ITGAI | | X | | 
+IT | IT00 | X | Gorgona | ITGOR | | X | | 
+IT | IT00 | X | Grado | ITGRD | | X | | 
+IT | IT00 | X | Isola del Giglio | ITIDG | | X | | 
+IT | IT00 | X | La Maddalena | ITMDA | | X | | 
+IT | IT00 | X | La Spezia | ITSPE | | X | | 
+IT | IT00 | X | Lampedusa | ITLMP | | X | | 
+IT | IT00 | X | Levanzo | ITLEV | | X | | 
+IT | IT00 | X | Licata | ITLIC | | X | | 
+IT | IT00 | X | Linosa | ITLIU | | X | | 
+IT | IT00 | X | Lipari | ITLIP | | X | | 
+IT | IT00 | X | Livorno | ITLIV | | X | | 
+IT | IT00 | X | Manfredonia | ITMFR | | X | | 
+IT | IT00 | X | Marettimo | ITMMO | | X | | 
+IT | IT00 | X | Marina di Carrara | ITMDC | | X | | 
+IT | IT00 | X | Marsala | ITMRA | | X | | 
+IT | IT00 | X | Mazara del Vallo | ITMAZ | | X | | 
+IT | IT00 | X | Messina | ITMSN | | X | | 
+IT | IT00 | X | Milazzo | ITMLZ | | X | | 
+IT | IT00 | X | Molfetta | ITMOL | | X | | 
+IT | IT00 | X | Monfalcone | ITMNF | | X | | 
+IT | IT00 | X | Monopoli | ITMNP | | X | | 
+IT | IT00 | X | Napoli | ITNAP | | X | | 
+IT | IT00 | X | Olbia | ITOLB | | X | | 
+IT | IT00 | X | Oneglia | ITONE | | X | | 
+IT | IT00 | X | Oristano | ITQOS | | X | | 
+IT | IT00 | X | Ortona | ITOTN | | X | | 
+IT | IT00 | X | Otranto | ITOTO | | X | | 
+IT | IT00 | X | Palau | ITPAU | | X | | 
+IT | IT00 | X | Palermo | ITPMO | | X | | 
+IT | IT00 | X | Panarea | ITPAN | | X | | 
+IT | IT00 | X | Pantelleria | ITPNL | | X | | 
+IT | IT00 | X | Pesaro | ITPES | | X | | 
+IT | IT00 | X | Pescara | ITPSR | | X | | 
+IT | IT00 | X | Peschici | ITPCH | | X | | 
+IT | IT00 | X | Pianosa | ITPIA | | X | | 
+IT | IT00 | X | Piombino | ITPIO | | X | | 
+IT | IT00 | X | Ponte Fornaci | ITPFO | | X | | 
+IT | IT00 | X | Ponza | ITPNZ | | X | | 
+IT | IT00 | X | Portiglioni | ITPGL | | X | | 
+IT | IT00 | X | Porto Azzurro | ITPAZ | | X | | 
+IT | IT00 | X | Porto d'Ischia | ITPDI | | X | | 
+IT | IT00 | X | Porto Empedocle | ITPEM | | X | | 
+IT | IT00 | X | Porto Foxi | ITPFX | | X | | 
+IT | IT00 | X | Porto Garibaldi | ITPGA | | X | | 
+IT | IT00 | X | Porto Lignano | ITPLI | | X | | 
+IT | IT00 | X | Porto Maurizio | ITPMZ | | X | | 
+IT | IT00 | X | Porto Nogaro | ITPNG | | X | | 
+IT | IT00 | X | Porto Santo Stefano | ITPSS | | X | | 
+IT | IT00 | X | Porto Torres | ITPTO | | X | | 
+IT | IT00 | X | Portoferraio | ITPFE | | X | | 
+IT | IT00 | X | Portofino | ITPTF | | X | | 
+IT | IT00 | X | Portovesme | ITPVE | | X | | 
+IT | IT00 | X | Positano | ITPOS | | X | | 
+IT | IT00 | X | Pozzallo | ITPZL | | X | | 
+IT | IT00 | X | Pozzuoli | ITPOZ | | X | | 
+IT | IT00 | X | Procida | ITPRO | | X | | 
+IT | IT00 | X | Ravenna | ITRAN | | X | | 
+IT | IT00 | X | Reggio di Calabria | ITREG | | X | | 
+IT | IT00 | X | Rimini | ITRMI | | X | | 
+IT | IT00 | X | Rio Marina | ITRMA | | X | | 
+IT | IT00 | X | Riposto | ITRPT | | X | | 
+IT | IT00 | X | Rodi Garganico | ITRGG | | X | | 
+IT | IT00 | X | Salerno | ITSAL | | X | | 
+IT | IT00 | X | Salina | ITSLA | | X | | 
+IT | IT00 | X | San Benedetto del Tronto | ITSDB | | X | | 
+IT | IT00 | X | Sanremo | ITSRE | | X | | 
+IT | IT00 | X | Santa Margherita Ligure | ITSML | | X | | 
+IT | IT00 | X | Santa Panagia | ITSPA | | X | | 
+IT | IT00 | X | Santa Teresa di Gallura | ITSTE | | X | | 
+IT | IT00 | X | Sant'Antioco | ITSAT | | X | | 
+IT | IT00 | X | San Vito Lo Capo | ITSVC | | X | | 
+IT | IT00 | X | Savona — Vado | ITSVN | | X | | 
+IT | IT00 | X | Siracusa | ITSIR | | X | | 
+IT | IT00 | X | Sorrento | ITRRO | | X | | 
+IT | IT00 | X | Stromboli | ITSTR | | X | | 
+IT | IT00 | X | Talamone | ITTAL | | X | | 
+IT | IT00 | X | Taranto | ITTAR | | X | | 
+IT | IT00 | X | Termini Imerese | ITTRI | | X | | 
+IT | IT00 | X | Termoli | ITTMI | | X | | 
+IT | IT00 | X | Terracina | ITTRC | | X | | 
+IT | IT00 | X | Torre Annunziata | ITTOA | | X | | 
+IT | IT00 | X | Torregrande | ITTGR | | X | | 
+IT | IT00 | X | Torviscosa | ITTVC | | X | | 
+IT | IT00 | X | Trani | ITTNI | | X | | 
+IT | IT00 | X | Trapani | ITTPS | | X | | 
+IT | IT00 | X | Tremiti | ITTMT | | X | | 
+IT | IT00 | X | Trieste | ITTRS | | X | | 
+IT | IT00 | X | Ustica | ITUST | | X | | 
+IT | IT00 | X | Vada | ITVDA | | X | | 
+IT | IT00 | X | Vasto | ITVSO | | X | | 
+IT | IT00 | X | Venezia | ITVCE | | X | | 
+IT | IT00 | X | Ventotene | ITVTT | | X | | 
+IT | IT00 | X | Viareggio | ITVIA | | X | | 
+IT | IT00 | X | Vibo Valentia | ITVVA | | X | | 
+IT | IT00 | X | Vieste | ITVIE | | X | | 
+IT | IT00 | X | Vulcano Porto | ITVUL | | X | | 
+IT | IT00 | X | IT offshore installations | IT88P | | | | 
+IT | IT00 | X | Other - Italy | IT888 | | | | 
+| | | 132 | 132 | 0 | 132 | | 
+CY | CY00 | X | Larnaca (Λάρνακα) | CYLCA | | X | | 
+CY | CY00 | X | Larnaca Oil Terminal (Σταθμός Πετρελαιοειδών Λάρνακας) | CY01M | | X | | 
+CY | CY00 | X | Latsi (Λατσί) | CYLAT | | | | 
+CY | CY00 | X | Lemesos (Λεμεσός) | CYLMS | | X | | 
+CY | CY00 | X | Moni Anchorage (Μονή) | CYMOI | | X | | 
+CY | CY00 | X | Pafos (Πάφος) | CYPFO | | | | 
+CY | CY00 | X | Vasilico (Βασιλικό) | CYVAS | | X | | 
+CY | CY00 | X | Zygi (Ζύγι) | CYZYY | | | | 
+CY | CY00 | X | CY offshore installations | CY88P | | | | 
+CY | CY00 | X | Other - Cyprus | CY888 | | | | 
+| | | 8 | 8 | 0 | 5 | | 
+LV | LV00 | X | Liepaja | LVLPX | | X | | 
+LV | LV00 | X | Riga | LVRIX | | X | | 
+LV | LV00 | X | Ventspils | LVVNT | | X | | 
+LV | LV00 | X | LV - offshore installations | LV88P | | | | 
+LV | LV00 | X | Other - Latvia | LV888 | | | | 
+| | | 3 | 3 | | 3 | | 
+LT | LT00 | X | Būtingė | LTBOT | | X | | 
+LT | LT00 | X | Klaipėda | LTKLJ | | X | | 
+LT | LT00 | X | LT - offshore installations | LT88P | | | | 
+LT | LT00 | X | Other - Lithuania | LT888 | | | | 
+| | | 2 | 2 | | 2 | | 
+MT | MT00 | X | Marsaxlokk | MTMAR | | X | | 
+MT | MT00 | X | Malta (Valetta) | MTMLA | | X | | 
+MT | MT00 | X | MT - offshore installations | MT88P | | | | 
+MT | MT00 | X | Other - Malta | MT888 | | | | 
+| | | 2 | 2 | | 2 | | 
+NL | NL00 | X | Alblasserdam | NLABL | | X | 0482 | 
+NL | NL00 | X | Ameland | NLAML | | X | 0060 | 
+NL | NL00 | X | Amsterdam | NLAMS | | X | 0363 | 
+NL | NL00 | X | Appingedam | NLAPP | | X | 0003 | 
+NL | NL00 | X | Bergambacht | NLBGB | | X | 0491 | 
+NL | NL00 | X | Bergen | NLBEG | | X | 0893 | 
+NL | NL00 | X | Bergen Op Zoom | NLBZM | | X | 0748 | 
+NL | NL00 | X | Beverwijk | NLBEV | | X | 0375 | 
+NL | NL00 | X | Binnenmaas | NLBNM | | X | 0585 | 
+NL | NL00 | X | Born | NLBON | | X | 0897 | 
+NL | NL00 | X | Borsele | NLBOR | | X | 0654 | 
+NL | NL00 | X | Brakel | NLBRK | | X | 0212 | 
+NL | NL00 | X | Breda | NLBRD | | X | 0758 | 
+NL | NL00 | X | Breskens | NLBRS | | X | 0692 | 
+NL | NL00 | X | Budel | NLBUD | | X | 0759 | 
+NL | NL00 | X | Capelle Aan Den Ijssel | NLCPI | | X | 0502 | 
+NL | NL00 | X | Cuijk | NLCUY | | X | 1684 | 
+NL | NL00 | X | Delfzijl/Eemshaven | NLDZL | | X | 0010 | 
+NL | NL00 | X | Den Haag (S-Gravenhage) | NLHAG | NLSCI | | | 
+NL | NL00 | X | Den Helder | NLDHR | | X | 0400 | 
+NL | NL00 | X | Deventer | NLDEV | | X | 0150 | 
+NL | NL00 | X | Dinteloord En Prinsenland | NLDIN | | X | 0851 | 
+NL | NL00 | X | Dordrecht | NLDOR | | X | 0505 | 
+NL | NL00 | X | Druten | NLDRU | | X | 0225 | 
+NL | NL00 | X | Duiven | NLDUI | | X | 1676 | 
+NL | NL00 | X | Echteld | NLECD | | X | 0227 | 
+NL | NL00 | X | Eemshaven | NLEEM | NLDZL | | | 
+NL | NL00 | X | Europoort | NLEUR | NLRTM | | | 
+NL | NL00 | X | Fijnaart En Heijninge | NLFFJ | | X | 0878 | 
+NL | NL00 | X | Franekeradeel | NLFRK | | X | 0070 | 
+NL | NL00 | X | Gennep | NLGEN | | X | 0907 | 
+NL | NL00 | X | Goerdereede | NLGDR | | X | 0511 | 
+NL | NL00 | X | Gorinchem | NLGOR | | X | 0512 | 
+NL | NL00 | X | Gouda | NLGOU | | X | 0513 | 
+NL | NL00 | X | Groningen | NLGRQ | | X | 0014 | 
+NL | NL00 | X | Haarlem | NLHAA | | X | 0392 | 
+NL | NL00 | X | Hardinxveld-Giessenda | NLHRX | | X | 0523 | 
+NL | NL00 | X | Harlingen | NLHAR | | X | 0072 | 
+NL | NL00 | X | Hasselt | NLHAS | | X | 0161 | 
+NL | NL00 | X | Hendrik-Ido-Ambacht | NLHIA | | X | 0531 | 
+NL | NL00 | X | Hengelo | NLHGL | | X | 0164 | 
+NL | NL00 | X | Hontenisse | NLHTN | | X | 0675 | 
+NL | NL00 | X | Hooge En Laage Zwaluwe | NLHOZ | NLMOE | | | 
+NL | NL00 | X | Ijmuiden | NLIJM | NLVEL | | | 
+NL | NL00 | X | Kampen | NLKAM | | X | 0166 | 
+NL | NL00 | X | Kessel | NLKSL | | X | 0929 | 
+NL | NL00 | X | Klundert | NLKLU | NLMOE | | | 
+NL | NL00 | X | Krimpen Aan Den Ijsse | NLKRP | | X | 0542 | 
+NL | NL00 | X | Lelystad | NLLEY | | X | 0995 | 
+NL | NL00 | X | Lemsterland | NLLEM | | X | 0082 | 
+NL | NL00 | X | Lienden | NLLIE | | X | 0261 | 
+NL | NL00 | X | Lith | NLLIT | | X | 0808 | 
+NL | NL00 | X | Lochem | NLLCH | | X | 0262 | 
+NL | NL00 | X | Maarssen | NLMSS | | X | 0333 | 
+NL | NL00 | X | Maasbracht | NLMSB | | X | 0933 | 
+NL | NL00 | X | Maassluis | NLMSL | | X | 0556 | 
+NL | NL00 | X | Maastricht | NLMST | | X | 0935 | 
+NL | NL00 | X | Meerlo-Wansum | NLMEW | | X | 0993 | 
+NL | NL00 | X | Meppel | NLMEP | | X | 0119 | 
+NL | NL00 | X | Middelburg | NLMID | | X | 0687 | 
+NL | NL00 | X | Middelharnis | NLMIH | | X | 0559 | 
+NL | NL00 | X | Mierlo | NLMIE | | X | 0814 | 
+NL | NL00 | X | Moerdijk | NLMOE | | X | 0878 | 
+NL | NL00 | X | Nieuw-Lekkerland | NLNLK | | X | 0571 | 
+NL | NL00 | X | Nijkerk | NLNKK | | X | 0267 | 
+NL | NL00 | X | Nijmegen | NLNIJ | | X | 0268 | 
+NL | NL00 | X | Oosterhout | NLOOS | | X | 0826 | 
+NL | NL00 | X | Oss | NLOSS | | X | 0828 | 
+NL | NL00 | X | Oud En Nieuw Gastel | NLOUG | | X | 1655 | 
+NL | NL00 | X | Ouderkerk | NLOAI | | X | 0644 | 
+NL | NL00 | X | Papendrecht | NLPAP | | X | 0590 | 
+NL | NL00 | X | Raamsdonk | NLRAA | | X | 0779 | 
+NL | NL00 | X | Reimerswaal | NLREW | | X | 0703 | 
+NL | NL00 | X | Renkum | NLRNK | | X | 0274 | 
+NL | NL00 | X | Rheden | NLRHD | | X | 0275 | 
+NL | NL00 | X | Rhenen | NLRHE | | X | 0340 | 
+NL | NL00 | X | Ridderkerk | NLRID | | X | 0597 | 
+NL | NL00 | X | Roermond | NLOMD | | X | 0957 | 
+NL | NL00 | X | Rotterdam | NLRTM | | X | 0599 | 
+NL | NL00 | X | Rozenburg | NLROZ | | X | 0600 | 
+NL | NL00 | X | Sas Van Gent | NLSVG | | X | 0704 | 
+NL | NL00 | X | Scheveningen | NLSCE | | X | 0518 | 
+NL | NL00 | X | Schiedam | NLSCI | | X | 0606 | 
+NL | NL00 | X | S-Gravendeel | NLGRA | | X | 0517 | 
+NL | NL00 | X | S-Hertogenbosch | NLHTB | | X | 0796 | 
+NL | NL00 | X | Smallingerland | NLSML | | X | 0090 | 
+NL | NL00 | X | Sneek | NLSNK | | X | 0091 | 
+NL | NL00 | X | Stein | NLSTI | | X | 0791 | 
+NL | NL00 | X | Swalmen | NLSWM | | X | 0975 | 
+NL | NL00 | X | Tegelen | NLTEG | | X | 0976 | 
+NL | NL00 | X | Terneuzen | NLTNZ | | X | 0715 | 
+NL | NL00 | X | Texel | NLTEX | | X | 0448 | 
+NL | NL00 | X | Tiel | NLTIE | | X | 0281 | 
+NL | NL00 | X | Utrecht | NLUTC | | X | 0344 | 
+NL | NL00 | X | Velsen/Ijmuiden | NLVEL | | X | 0453 | 
+NL | NL00 | X | Venlo | NLVEN | | X | 0983 | 
+NL | NL00 | X | Vierlingsbeek | NLVIE | | X | 0756 | 
+NL | NL00 | X | Vlaardingen | NLVLA | | X | 0622 | 
+NL | NL00 | X | Vlieland | NLVLL | | X | 0096 | 
+NL | NL00 | X | Vlissingen | NLVLI | | X | 0718 | 
+NL | NL00 | X | Waalwijk | NLWLK | | X | 0867 | 
+NL | NL00 | X | Wageningen | NLWGW | | X | 0289 | 
+NL | NL00 | X | Werkendam | NLWKD | | X | 0870 | 
+NL | NL00 | X | Zaanstad | NLZAA | | X | 0479 | 
+NL | NL00 | X | Zutphen | NLZUT | | X | 0301 | 
+NL | NL00 | X | Zwijndrecht | NLZWI | | X | 0642 | 
+NL | NL00 | X | Zwolle | NLZWO | | X | 0193 | 
+NL | NL00 | X | NL offshore installations | NL88P | | | | 
+NL | NL00 | X | Other - Netherlands | NL888 | | | | 
+| | | 107 | 107 | 6 | 101 | | 
+PL | PL00 | X | Darlowo (Darłowo) | PLDAR | | X | | 
+PL | PL00 | X | Elblag (Elbląg) | PLELB | | X | | 
+PL | PL00 | X | Gdańsk | PLGDN | | X | | 
+PL | PL00 | X | Gdynia | PLGDY | | X | | 
+PL | PL00 | X | Kolobrzeg (Kołobrzeg) | PLKOL | | X | | 
+PL | PL00 | X | Nowe Warpno | PLNWA | | X | | 
+PL | PL00 | X | Police | PLPLC | | X | | 
+PL | PL00 | X | Stepnica | PLSPA | | X | | 
+PL | PL00 | X | Swinoujscie (Świnoujście) | PLSWI | | X | | 
+PL | PL00 | X | Szczecin | PLSZZ | | X | | 
+PL | PL00 | X | Trzebiez (Trzebież) | PL001 | | X | | 
+PL | PL00 | X | Ustka | PLUST | | X | | 
+PL | PL00 | X | Wladyslawowo (Władysławowo) | PLWLA | | X | | 
+PL | PL00 | X | PL offhore installation | PL88P | | | | 
+PL | PL00 | X | Other - Poland | PL888 | | | | 
+| | | 13 | 13 | 0 | 13 | | 
+PT | PT00 | X | Angra do Heroísmo (ilha Terceira, Açores) | PTADH | | X | 60 | 
+PT | PT00 | X | Aveiro | PTAVE | | X | 09 | 
+PT | PT00 | X | Cais do Pico (ilha do Pico, Açores) | PTCDP | | X | 80 | 
+PT | PT00 | X | Calheta (ilha de S. Jorge, Açores) | PTCAL | | X | 67 | 
+PT | PT00 | X | Cascais | PTCAS | | X | 16 | 
+PT | PT00 | X | Douro (Oporto) | PTOPO | | X | 08 | 
+PT | PT00 | X | Faro | PTFAO | | X | 27 | 
+PT | PT00 | X | Figueira da Foz | PTFDF | | X | 10 | 
+PT | PT00 | X | Funchal (Madeira) | PTFNC | | X | 90 | 
+PT | PT00 | X | Horta (ilha das Flores, Açores) | PTHOR | | X | 75 | 
+PT | PT00 | X | Lagos | PTLOS | | X | | 
+PT | PT00 | X | Lajes das Flores (ilha das Flores, Açores) | PTLAJ | | X | | 
+PT | PT00 | X | Lajes da Picola (ilha do Pico, Açores) | PTLDP | | X | | 
+PT | PT00 | X | Leixões | PTLEI | | X | 07 | 
+PT | PT00 | X | Lisboa | PTLIS | | X | 14 | 
+PT | PT00 | X | Madalena (ilha do Pico, Açores) | PTMAD | | X | 82 | 
+PT | PT00 | X | Ponta Delgada (ilha de S. Miguel, Açores) | PTPDL | | X | 55 | 
+PT | PT00 | X | Portimão | PTPRM | | X | 25 | 
+PT | PT00 | X | Porto Santo (ilha de Porto Santo, Madeira) | PTPXO | | X | 91 | 
+PT | PT00 | X | Praia da Graciosa (ilha da Graciosa, Açores) | PTPRG | | X | 71 | 
+PT | PT00 | X | Praia da Vitória (ilha Terceira, Açores) | PTPRV | | X | 61 | 
+PT | PT00 | X | Santa Cruz da Gracioza (ilha da Gracioza, Açores) | PTSCG | | X | | 
+PT | PT00 | X | Santa Cruz das Flores (ilha das Flores, Açores) | PTSCF | | X | | 
+PT | PT00 | X | Setúbal | PTSET | | X | 20 | 
+PT | PT00 | X | Sines | PTSIN | | X | 22 | 
+PT | PT00 | X | Velas (ilha de S. Jorge, Açores) | PTVEL | | X | 65 | 
+PT | PT00 | X | Viana do Castelo | PTVDC | | X | 03 | 
+PT | PT00 | X | Vila do Porto (ilha de Santa Maria, Açores) | PTVDP | | X | | 
+PT | PT00 | X | Vila Nova do Corvo (ilha do Corvo, Açores) | PTVNC | | X | | 
+PT | PT00 | X | Vila Real de Santo António | PTVRL | | X | 32 | 
+PT | PT00 | X | Zona Franca da Madeira | PTZFM | | X | | 
+PT | PT00 | X | PT offshore installations | PT88P | | | | 
+PT | PT00 | X | Other - Portugal | PT888 | | | | 
+| | | 31 | 31 | 0 | 31 | | 
+SI | SI00 | X | Izola | SIIZO | | X | | 
+SI | SI00 | X | Koper | SIKOP | | X | | 
+SI | SI00 | X | Piran | SIPIR | | X | | 
+SI | SI00 | X | Portoroz | SIPOW | | X | | 
+SI | SI00 | X | SI - offshore installations | SI88P | | | | 
+SI | SI00 | X | Other - Slovenia | SI888 | | | | 
+| | | 4 | 4 | 0 | 4 | | 
+FI | FI00 | X | Brändö | FIBRA | | X | | 
+FI | FI00 | X | Dragsfjärd | FIDRA | | X | | 
+FI | FI00 | X | Eckerö | FIECK | | X | | 
+FI | FI00 | X | Enonkoski | FIENK | FI001 | | | 
+FI | FI00 | X | Espoo | FIESP | | X | | 
+FI | FI00 | X | Eurajoki | FIEJO | | X | | 
+FI | FI00 | X | Färjsund | FIFAR | | X | | 
+FI | FI00 | X | Föglö | FIFOG | | X | | 
+FI | FI00 | X | Förby | FIFOR | | X | | 
+FI | FI00 | X | Godby | FIGDB | | X | | 
+FI | FI00 | X | Hamina | FIHMN | | X | | 
+FI | FI00 | X | Hanko | FIHKO | | X | | 
+FI | FI00 | X | Haukipudas | FIHAU | | X | | 
+FI | FI00 | X | Helsinki | FIHEL | | X | | 
+FI | FI00 | X | Houtskär | FIHOU | | X | | 
+FI | FI00 | X | Iisalmi | FIIIS | FI001 | | | 
+FI | FI00 | X | Imatra | FIIMA | FI001 | | | 
+FI | FI00 | X | Iniö | FIINI | | X | | 
+FI | FI00 | X | Inkoo | FIINK | | X | | 
+FI | FI00 | X | Inland Ports | FI001 | | X | | 
+FI | FI00 | X | Isnäs | FIISN | | X | | 
+FI | FI00 | X | Joensuu | FIJOE | FI001 | | | 
+FI | FI00 | X | Joutseno | FIJOU | FI001 | | | 
+FI | FI00 | X | Kalajoki | FIKJO | | X | | 
+FI | FI00 | X | Kantvik | FIKNT | | X | | 
+FI | FI00 | X | Kaskinen | FIKAS | | X | | 
+FI | FI00 | X | Kemi | FIKEM | | X | | 
+FI | FI00 | X | Kemiö | FIKIM | | X | | 
+FI | FI00 | X | Kitee | FIKTQ | FI001 | | | 
+FI | FI00 | X | Kökar | FIKKR | | X | | 
+FI | FI00 | X | Kokkola | FIKOK | | X | | 
+FI | FI00 | X | Korppoo | FIKOR | | X | | 
+FI | FI00 | X | Kotka | FIKTK | | X | | 
+FI | FI00 | X | Koverhar | FIKVH | | X | | 
+FI | FI00 | X | Kristiinankaupunki | FIKRS | | X | | 
+FI | FI00 | X | Kronvik | FIKRO | | X | | 
+FI | FI00 | X | Kumlinge | FIKUM | | X | | 
+FI | FI00 | X | Kuopio | FIKUO | FI001 | | | 
+FI | FI00 | X | Kustavi | FIKUS | | X | | 
+FI | FI00 | X | Langnäs | FILAN | | X | | 
+FI | FI00 | X | Lappohja | FILAP | | X | | 
+FI | FI00 | X | Lappeenranta | FILPP | FI001 | | | 
+FI | FI00 | X | Loviisa | FILOV | | X | | 
+FI | FI00 | X | Luvia | FILUV | | X | | 
+FI | FI00 | X | Maaninka | FIMAA | FI001 | | | 
+FI | FI00 | X | Mariehamn | FIMHQ | | X | | 
+FI | FI00 | X | Merikarvia | FIMER | | X | | 
+FI | FI00 | X | Mikkeli | FIMIK | FI001 | | | 
+FI | FI00 | X | Naantali | FINLI | | X | | 
+FI | FI00 | X | Nauvo | FINAU | | X | | 
+FI | FI00 | X | Nurmes | FINUR | FI001 | | | 
+FI | FI00 | X | Oulu | FIOUL | | X | | 
+FI | FI00 | X | Parainen | FIPAR | | X | | 
+FI | FI00 | X | Pernaja | FIPER | | X | | 
+FI | FI00 | X | Pietarsaari | FIPRS | | X | | 
+FI | FI00 | X | Pohjankuru | FIPOH | | X | | 
+FI | FI00 | X | Pori | FIPOR | | X | | 
+FI | FI00 | X | Porvoo | FIPRV | | X | | 
+FI | FI00 | X | Puumala | FIPUU | FI001 | | | 
+FI | FI00 | X | Raahe | FIRAA | | X | | 
+FI | FI00 | X | Rauma | FIRAU | | X | | 
+FI | FI00 | X | Rautaruukki/Raahe | FIRTR | | X | | 
+FI | FI00 | X | Ristiina | FIRIS | FI001 | | | 
+FI | FI00 | X | Ruotsinpyhtää | FIRUO | | X | | 
+FI | FI00 | X | Rymättylä | FIRYM | | X | | 
+FI | FI00 | X | Salo | FISAL | | X | | 
+FI | FI00 | X | Savonlinna | FISVL | FI001 | | | 
+FI | FI00 | X | Siilinjärvi | FISII | FI001 | | | 
+FI | FI00 | X | Sipoonlahti | FISIP | | X | | 
+FI | FI00 | X | Sköldvik | FISKV | | X | | 
+FI | FI00 | X | Skogby | FISKB | | X | | 
+FI | FI00 | X | Strömma | FISTR | | X | | 
+FI | FI00 | X | Taalintehdas | FIDLS | | X | | 
+FI | FI00 | X | Taivassalo | FITVS | | X | | 
+FI | FI00 | X | Tammisaari | FITAI | | X | | 
+FI | FI00 | X | Teijo | FITEI | | X | | 
+FI | FI00 | X | Tolkkinen | FITOK | | X | | 
+FI | FI00 | X | Tornio | FITOR | | X | | 
+FI | FI00 | X | Turku | FITKU | | X | | 
+FI | FI00 | X | Uimaharju | FIUIM | FI001 | | | 
+FI | FI00 | X | Uusikaarlepyy | FIUKP | | X | | 
+FI | FI00 | X | Uusikaupunki | FIUKI | | X | | 
+FI | FI00 | X | Vaasa | FIVAA | | X | | 
+FI | FI00 | X | Varkaus | FIVRK | FI001 | | | 
+FI | FI00 | X | Velkua | FIVEL | | X | | 
+FI | FI00 | X | FI offshore installations | FI88P | | | | 
+FI | FI00 | X | Other - Finland | FI888 | | | | 
+| | | 85 | 85 | 17 | 68 | | 
+SE | SE01 | X | Åhus | SEAHU | | X | 51100 | 
+SE | SE01 | X | Ala | SEALA | | X | 21100 | 
+SE | SE02 | X | Älvenäs | SEALN | | X | 71703 | 
+SE | SE02 | X | Åmål | SEAMA | | X | 71600 | 
+SE | SE01 | X | Bäckviken | SEBAC | SELAA | | 56120 | 
+SE | SE01 | X | Bällstaviken | SEBLV | | X | 28143 | 
+SE | SE01 | X | Bålsta | SEBAA | | X | 30103 | 
+SE | SE01 | X | Bergkvara | SEBEA | | X | 40100 | 
+SE | SE01 | X | Bergs Oljehamn | SEBER | | X | 28213 | 
+SE | SE02 | X | Bohus | SEBOH | | X | 60123 | 
+SE | SE01 | X | Bollstabruk | SEBOL | | X | 16100 | 
+SE | SE01 | X | Borgholm | SEBOM | | X | 40210 | 
+SE | SE02 | X | Brofjorden Scanraff | SEBRO | | X | 66303 | 
+SE | SE01 | X | Bureå | SEBUR | SESFT | | | 
+SE | SE01 | X | Burgsvik | SEBUV | | X | 43910 | 
+SE | SE01 | X | Byxelkrok | SEBYX | | X | 40220 | 
+SE | SE01 | X | Degerhamn | SEDEG | | X | 40300 | 
+SE | SE01 | X | Djurön | SEDJN | SENRK | | 37910 | 
+SE | SE01 | X | Domsjö | SEDOM | | X | 15100 | 
+SE | SE02 | X | Donsö | SEDON | | X | 60910 | 
+SE | SE01 | X | Enhörna | SE954 | | X | 35903 | 
+SE | SE01 | X | Enköping | SEENK | | X | 30200 | 
+SE | SE01 | X | Fagerviken | SEFAK | | X | 23910 | 
+SE | SE02 | X | Falkenberg | SEFAG | | X | 63100 | 
+SE | SE01 | X | Fårösund | SEFSD | | X | 43920 | 
+SE | SE02 | X | Fjällbacka | SEFJA | | X | 67910 | 
+SE | SE01 | X | Forsmark | SEFOR | | X | 26923 | 
+SE | SE01 | X | Gamleby | SEGAM | | X | 38200 | 
+SE | SE01 | X | Gävle | SEGVX | | X | 22100 | 
+SE | SE02 | X | Göta | SEGOA | | X | 68323 | 
+SE | SE02 | X | Göteborg | SEGOT | | X | 59100 | 
+SE | SE02 | X | Grebbestad | SEGRE | | X | 67920 | 
+SE | SE01 | X | Grisslehamn | SEGRH | | X | 26990 | 
+SE | SE02 | X | Grundsund | SEGRD | | X | 66970 | 
+SE | SE02 | X | Gruvön (ports) | SEGRU | | X | 7211 | 
+SE | SE01 | X | Gunnebo | SEGUN | | X | 38933 | 
+SE | SE01 | X | Gustavberg | SEGUB | | X | 28923 | 
+SE | SE01 | X | Hallstavik | SEHAK | | X | 26100 | 
+SE | SE02 | X | Halmstad | SEHAD | | X | 62100 | 
+SE | SE01 | X | Haraholmen | SEHAH | SEPIT | | | 
+SE | SE01 | X | Hargshamn | SEHAN | | X | 26200 | 
+SE | SE01 | X | Härnösand | SEHND | | X | 16200 | 
+SE | SE01 | X | Hässelbyverket | SEHBV | SESTO | | 28133 | 
+SE | SE01 | X | Helsingborg | SEHEL | | X | 57100 | 
+SE | SE02 | X | Höganäs | SEHOG | | X | 58203 | 
+SE | SE01 | X | Holmsund | SEHLD | SEUME | | | 
+SE | SE02 | X | Hönsäter | SEHON | | X | 69100 | 
+SE | SE01 | X | Hudiksvall | SEHUV | SEIGG | | 20100 | 
+SE | SE02 | X | Hunnebostrand | SEHUN | | X | 66940 | 
+SE | SE01 | X | Husum | SEHUS | | X | 15200 | 
+SE | SE02 | X | Hyppeln | SEHYP | | X | 60920 | 
+SE | SE01 | X | Iggesund | SEIGG | | X | 20200 | 
+SE | SE01 | X | Jätterssön | SEJAT | | X | 39100 | 
+SE | SE01 | X | Kagghamra | SE977 | | X | 35210 | 
+SE | SE01 | X | Kalix | SEKAX | | X | 10901 | 
+SE | SE01 | X | Kalmar | SEKLR | | X | 40500 | 
+SE | SE01 | X | Kalmarsand | SE950 | | X | 30303 | 
+SE | SE01 | X | Kappelshamn | SEKPH | | X | 43930 | 
+SE | SE01 | X | Kappelskär | SEKPS | | X | 26303 | 
+SE | SE01 | X | Karlsborg Axelvik | SEKXV | | X | 10200 | 
+SE | SE01 | X | Karlshamn | SEKAN | | X | 48100 | 
+SE | SE01 | X | Karlskrona | SEKAA | | X | 47100 | 
+SE | SE02 | X | Karlstad | SEKSD | | X | 71300 | 
+SE | SE01 | X | Klintehamn | SEKLI | | X | 42300 | 
+SE | SE01 | X | Köping | SEKOG | | X | 32100 | 
+SE | SE01 | X | Kopparverkshamnen | SEKVH | SEHEL | | 57100 | 
+SE | SE02 | X | Kristinehamn | SEKHN | | X | 73100 | 
+SE | SE01 | X | Kubikenborg | SEKUB | | X | 18200 | 
+SE | SE02 | X | Kungshamn (ports) | SEKUN | | X | 6693 | 
+SE | SE01 | X | Kungsör | SEKGR | | X | 32920 | 
+SE | SE01 | X | Kvarnholmen | SEKVA | | X | 28233 | 
+SE | SE01 | X | Landskrona | SELAA | | X | 56100 | 
+SE | SE02 | X | Lidköping | SELDK | | X | 69200 | 
+SE | SE02 | X | Lilla Edet | SELED | | X | 68333 | 
+SE | SE01 | X | Limhamn | SELIM | SEMMA | | 55100 | 
+SE | SE01 | X | Lomma | SELOM | | X | 55200 | 
+SE | SE01 | X | Löten | SE951 | | X | 28153 | 
+SE | SE01 | X | Loudden | SELOU | SESTO | | 28263 | 
+SE | SE01 | X | Luleå | SELLA | | X | 11100 | 
+SE | SE01 | X | Luleå SSAB | SENJA | SELLA | | 11200 | 
+SE | SE01 | X | Lugnvik | SELUG | | X | 16400 | 
+SE | SE02 | X | Lysekil | SELYS | | X | 66100 | 
+SE | SE01 | X | Malmö | SEMMA | | X | 54100 | 
+SE | SE02 | X | Mariestad | SEMAD | | X | 69300 | 
+SE | SE01 | X | Mönsterås | SEMON | SEJAT | | | 
+SE | SE01 | X | Mörbylånga | SEMOR | | X | 40600 | 
+SE | SE02 | X | Nol (ports) | SENOL | | X | 601 | 
+SE | SE01 | X | Nordmaling | SENOG | | X | 14930 | 
+SE | SE01 | X | Norrköping | SENRK | | X | 37100 | 
+SE | SE01 | X | Norrsundet | SENOT | | X | 23100 | 
+SE | SE01 | X | Norrtälje | SENOE | | X | 26400 | 
+SE | SE01 | X | Nyköping | SENYO | | X | 36200 | 
+SE | SE01 | X | Nynäshamn (ports) | SENYN | | X | 29100 | 
+SE | SE01 | X | Nynäshamns Oljehamn | SE131 | SENYN | | 29200 | 
+SE | SE01 | X | Obbola | SEOBB | SEUME | | 14300 | 
+SE | SE02 | X | Öckerö | SEOCO | | X | 60980 | 
+SE | SE01 | X | Öregrund | SEOGR | | X | 26910 | 
+SE | SE01 | X | Örnsköldsvik | SEOER | | X | 15400 | 
+SE | SE01 | X | Ortviken | SEORT | SESDL | | 18300 | 
+SE | SE01 | X | Oskarshamn | SEOSK | | X | 39300 | 
+SE | SE01 | X | Östrand | SEOST | | X | 19300 | 
+SE | SE02 | X | Otterbäcken | SEOTT | | X | 73200 | 
+SE | SE01 | X | Oxelösund (ports) | SEOXE | | X | 36500 | 
+SE | SE01 | X | Oxelösund SSAB | SE134 | SEOXE | | 36500 | 
+SE | SE01 | X | Piteå | SEPIT | | X | 12100 | 
+SE | SE01 | X | Ronehamn | SERNH | | X | 42400 | 
+SE | SE01 | X | Ronneby | SERNB | | X | 48300 | 
+SE | SE01 | X | Rönnskär | SEROR | SESFT | | | 
+SE | SE01 | X | Rundvik | SERUV | | X | 14400 | 
+SE | SE02 | X | Säffle | SESAF | | X | 71803 | 
+SE | SE01 | X | Sandarne | SESAE | SESOO | | 21400 | 
+SE | SE01 | X | Simrishamn | SESIM | | X | 52100 | 
+SE | SE02 | X | Skattkärr | SESKT | | X | 71963 | 
+SE | SE01 | X | Skellefteå | SESFT | | X | 13200 | 
+SE | SE01 | X | Skelleftehamn | SESKE | SESFT | | | 
+SE | SE02 | X | Skoghall (ports) | SESKO | | X | 71503 | 
+SE | SE01 | X | Skutskär | SESSR | | X | 23200 | 
+SE | SE01 | X | Slite (ports) | SESLI | | X | 42500 | 
+SE | SE01 | X | Slite Industrihamn | SE139 | SESLI | | 42600 | 
+SE | SE01 | X | Söderhamn | SESOO | | X | 21200 | 
+SE | SE01 | X | Södertälje | SESOE | | X | 35200 | 
+SE | SE01 | X | Sölvesborg | SESOL | | X | 50100 | 
+SE | SE01 | X | Söråker | SESOR | | X | 18800 | 
+SE | SE02 | X | Stenungsund (ports) | SESTE | | X | 61000 | 
+SE | SE01 | X | Stockholm | SESTO | | X | 27100 | 
+SE | SE01 | X | Stockvik | SESTK | | X | 18400 | 
+SE | SE01 | X | Stora Vika | SESTV | | X | 29300 | 
+SE | SE01 | X | Storugns | SESUS | | X | 42703 | 
+SE | SE01 | X | Strängnäs | SESTQ | | X | 33100 | 
+SE | SE02 | X | Strömstad | SESMD | | X | 67100 | 
+SE | SE01 | X | Stugsund | SESTU | SESOO | | | 
+SE | SE01 | X | Sundsvall | SESDL | | X | 18500 | 
+SE | SE02 | X | Surte | SESUR | | X | 60163 | 
+SE | SE01 | X | Töre | SETOE | | X | 10400 | 
+SE | SE01 | X | Trelleborg | SETRG | | X | 53100 | 
+SE | SE02 | X | Trollhättan (ports) | SETHN | | X | 681, 688 | 
+SE | SE01 | X | Tunadal | SETUN | | X | 19100 | 
+SE | SE02 | X | Uddevalla | SEUDD | | X | 65100 | 
+SE | SE01 | X | Umeå | SEUME | | X | 14500 | 
+SE | SE01 | X | Uppsala | SEUPP | | X | 30400 | 
+SE | SE01 | X | Utansjö | SEUTA | | X | 16700 | 
+SE | SE01 | X | Väja | SEVAJ | | X | 16800 | 
+SE | SE01 | X | Valdemarsvik | SEVAK | | X | 37940 | 
+SE | SE01 | X | Vallvik | SEVAL | | X | 21300 | 
+SE | SE02 | X | Vänersborg (ports) | SEVAN | | X | 68200 | 
+SE | SE02 | X | Varberg | SEVAG | | X | 64100 | 
+SE | SE02 | X | Vargön | SEVGN | | X | 68963 | 
+SE | SE01 | X | Västerås | SEVST | | X | 31100 | 
+SE | SE01 | X | Västervik | SEVVK | | X | 38200 | 
+SE | SE01 | X | Verkebäck | SEVER | | X | 38210 | 
+SE | SE01 | X | Visby | SEVBY | | X | 43100 | 
+SE | SE01 | X | Vivstavarv | SEVIV | | X | 19200 | 
+SE | SE02 | X | Wallhamn | SEWAL | | X | 61100 | 
+SE | SE01 | X | Ystad | SEYST | | X | 52200 | 
+SE | SE01 | X | SE offshore installations | SE88P | | | | 
+SE | SE02 | X | SE offshore installations | SE88P | | | | 
+SE | SE01 | X | Other - Sweden Baltic | SE888 | | | | 
+SE | SE02 | X | Other - Sweden North Sea | SE888 | | | | 
+SE | SE09 | X | Other - Sweden (unknown MCA) | SE888 | | | | 
+| | | 154 | 154 | 21 | 133 | | 
+GB | GB01 | X | Aberdeen | GBABD | | X | 0806 | 
+GB | GB01 | X | Amble | GBAMB | | X | | 
+GB | GB01 | X | Appledore | GBAPP | | X | 0412 | 
+GB | GB01 | X | Arbroath | GBARB | | X | | 
+GB | GB01 | X | Ardrishaig | GBASG | | X | 0711 | 
+GB | GB01 | X | Ardrossan | GBARD | GBCLY | | | 
+GB | GB01 | X | Armadale | GBARE | GBUIG | | | 
+GB | GB01 | X | Arran | GB085 | GBCLY | | 0753 | 
+GB | GB01 | X | Avonmouth | GBAVO | GBBRS | | | 
+GB | GB01 | X | Ayr | GBAYR | | X | 0702 | 
+GB | GB01 | X | Ballylumford | GB017 | | X | 1310 | 
+GB | GB01 | X | Baltasound | GBBSN | GBSUL | | | 
+GB | GB01 | X | Baltic Wharf | GBBAW | GBRFD | | | 
+GB | GB01 | X | Bangor | GBBNG | GBPPE | | | 
+GB | GB01 | X | Barking | GBBKG | GBLON | | | 
+GB | GB01 | X | Barnstaple | GBBND | | X | 0414 | 
+GB | GB01 | X | Barra Castlebay | GB162 | | X | 0721 | 
+GB | GB01 | X | Barrow-in-Furness | GBBIF | | X | 0610 | 
+GB | GB01 | X | Barrow on Humber | GBBHR | GB221 | | | 
+GB | GB01 | X | Barry | GBBAD | | X | 0408 | 
+GB | GB01 | X | Barton on Humber | GBBNH | GB221 | | | 
+GB | GB01 | X | Battlesbridge | GBBAT | GBRFD | | | 
+GB | GB01 | X | Beaumaris | GBBMR | | X | | 
+GB | GB01 | X | Beckingham | GBBEC | GBSCP | | | 
+GB | GB01 | X | Belfast | GBBEL | | X | 1313 | 
+GB | GB01 | X | Bellport | GB114 | GBGWE | | | 
+GB | GB01 | X | Berwick on Tweed | GBBWK | | X | 0901 | 
+GB | GB01 | X | Bideford | GBBID | | X | 0413 | 
+GB | GB01 | X | Billingham | GBBHW | GBTEE | | | 
+GB | GB01 | X | Birkenhead | GBBRK | GBLIV | | | 
+GB | GB01 | X | Blyth | GBBLY | | X | 0903 | 
+GB | GB01 | X | Boston | GBBOS | | X | 1101 | 
+GB | GB01 | X | Bowling | GBBOW | GBCLY | | | 
+GB | GB01 | X | Braefoot Bay | GBBFB | GBFOR | | | 
+GB | GB01 | X | Bridgwater | GBBRW | | X | 0402 | 
+GB | GB01 | X | Brightlingsea | GBBLS | | X | 0109 | 
+GB | GB01 | X | Bristol | GBBRS | | X | 0403 | 
+GB | GB01 | X | Briton Ferry | GBBFY | GBNEA | | | 
+GB | GB01 | X | Brixham | GBBRX | | X | 0319 | 
+GB | GB01 | X | Bromborough | GBBHK | GBLIV | | | 
+GB | GB01 | X | Buckie | GBBUC | | X | 0815 | 
+GB | GB01 | X | Burghead | GBBUH | | X | 0813 | 
+GB | GB01 | X | Burnham-on-Crouch | GBBOC | GBRFD | | | 
+GB | GB01 | X | Burntisland | GBBTL | GBFOR | | | 
+GB | GB01 | X | Burray Pier | GB234 | | X | | 
+GB | GB01 | X | Burton upon Stather | GBBUS | GB203 | | | 
+GB | GB01 | X | Cairnryan | GBCYN | | X | 0706 | 
+GB | GB01 | X | Caldaire Terminal | GB113 | GBGOO | | | 
+GB | GB01 | X | Canvey Island | GBCAN | GBLON | | | 
+GB | GB01 | X | Cantley | GBCNL | GBGYT | | | 
+GB | GB01 | X | Cardiff | GBCDF | | X | 0406 | 
+GB | GB01 | X | Carrickfergus | GBCFG | | X | 1312 | 
+GB | GB01 | X | Cattewater Harbour | GB144 | GBPLY | | | 
+GB | GB01 | X | Charlestown | GBCHF | | X | 0312 | 
+GB | GB01 | X | Chatham | GBCTM | GBMED | | | 
+GB | GB01 | X | Chepstow | GBCHT | | X | | 
+GB | GB01 | X | Chichester | GBCST | | X | 0208 | 
+GB | GB01 | X | Cliffe | GBCLF | GBLON | | | 
+GB | GB01 | X | Cloghan | GB218 | GB017 | | | 
+GB | GB01 | X | Clydebank | GBCLY | GBCYP | | | 
+GB | GB01 | X | Clydeport | GBCYP | | X | | 
+GB | GB01 | X | Coaltainers, Belfast | GB181 | | X | 1322 | 
+GB | GB01 | X | Colchester | GBCOL | | X | 0101 | 
+GB | GB01 | X | Coleraine | GBCLR | | X | 1302 | 
+GB | GB01 | X | Coll | GB027 | | X | 0722 | 
+GB | GB01 | X | Colonsay | GBCSA | | X | 0724 | 
+GB | GB01 | X | Convoys Wharf | GB124 | GBLON | | | 
+GB | GB01 | X | Corpach | GBCOR | | X | 0713 | 
+GB | GB01 | X | Coryton | GBCOY | GBLON | | | 
+GB | GB01 | X | Cowes, Isle of Wight | GBCOW | | X | 0206 | 
+GB | GB01 | X | Craignure | GBCNU | | X | 0736 | 
+GB | GB01 | X | Creeksea | GB149 | GBRFD | | | 
+GB | GB01 | X | Cromarty Firth | GBCRN | | X | | 
+GB | GB01 | X | Cumbrae | GB086 | GBCYP | | | 
+GB | GB01 | X | Dagenham | GBDAG | GBLON | | | 
+GB | GB01 | X | Dartford | GBDFD | GBLON | | | 
+GB | GB01 | X | Dartmouth | GBDTM | | X | 0310 | 
+GB | GB01 | X | Dean Point Quarry | GBDNQ | | X | 3016 | 
+GB | GB01 | X | Deptford | GBDEP | GBLON | | | 
+GB | GB01 | X | Dover | GBDVR | | X | 0106 | 
+GB | GB01 | X | Dundee | GBDUN | | X | 0808 | 
+GB | GB01 | X | Dunoon | GBDNU | GBCYP | | | 
+GB | GB01 | X | Dutch River Wharf | GB230 | | X | | 
+GB | GB01 | X | Eastham | GBEAM | GBMNC | | | 
+GB | GB01 | X | Eday | GBEOI | GBKWL | | | 
+GB | GB01 | X | Edinburgh | GBEDI | GBFOR | | 0809 | 
+GB | GB01 | X | Egilsay | GB175 | GBKWL | | | 
+GB | GB01 | X | Eigg | GB166 | | X | 0727 | 
+GB | GB01 | X | Ellesmere Port | GBELL | GBMNC | | | 
+GB | GB01 | X | Erith | GBERI | GBLON | | | 
+GB | GB01 | X | Exeter | GBEXE | GBEXM | | | 
+GB | GB01 | X | Exmouth | GBEXM | | X | 0302 | 
+GB | GB01 | X | Falmouth | GBFAL | | X | 0307 | 
+GB | GB01 | X | Fareham | GBFHM | | X | 0207 | 
+GB | GB01 | X | Faslane | GBFAS | GBCYP | | | 
+GB | GB01 | X | Faversham | GBFAV | GBMED | | | 
+GB | GB01 | X | Fawley | GBFAW | GBSOU | | | 
+GB | GB01 | X | Felixstowe | GBFXT | | X | 1202 | 
+GB | GB01 | X | Fingringhoe | GBFRH | GBCOL | | | 
+GB | GB01 | X | Finnart | GBFNT | GBCYP | | | 
+GB | GB01 | X | Fishguard | GBFIS | | X | 0502 | 
+GB | GB01 | X | Fleetwood | GBFLE | | X | 0603 | 
+GB | GB01 | X | Flixborough | GBFLW | GB203 | | | 
+GB | GB01 | X | Flotta Terminal | GBFLH | GBKWL | | | 
+GB | GB01 | X | Folkestone | GBFOL | | X | 0107 | 
+GB | GB01 | X | Forth | GBFOR | | X | | 
+GB | GB01 | X | Fosdyke | GBFDK | | X | 1106 | 
+GB | GB01 | X | Fowey | GBFOY | | X | 0305 | 
+GB | GB01 | X | Fraserburgh | GBFRB | | X | 0817 | 
+GB | GB01 | X | Gainsborough | GBGAI | GBSCP | | | 
+GB | GB01 | X | Garston | GBGTN | | X | 0609 | 
+GB | GB01 | X | Gillingham | GBGIL | GBMED | | | 
+GB | GB01 | X | Girvan | GBGIR | | X | 0707 | 
+GB | GB01 | X | Glasgow | GBGLW | GBCYP | | 0703 | 
+GB | GB01 | X | Glasson Dock | GBGLD | GBLAN | | | 
+GB | GB01 | X | Glensanda | GBGSA | | X | 0740 | 
+GB | GB01 | X | Gloucester | GBGLO | GBSSS | | | 
+GB | GB01 | X | Goole | GBGOO | | X | 1004 | 
+GB | GB01 | X | Gourock | GBGUR | GBCYP | | | 
+GB | GB01 | X | Graemsay | GBGAE | | X | | 
+GB | GB01 | X | Grangemouth | GBGRG | GBFOR | | | 
+GB | GB01 | X | Granton | GBGRN | GBFOR | | | 
+GB | GB01 | X | Gravesend | GBGVS | GBLON | | | 
+GB | GB01 | X | Great Yarmouth | GBGTY | | X | 1104 | 
+GB | GB01 | X | Greenhithe | GBGHI | GBLON | | | 
+GB | GB01 | X | Greenock | GBGRK | GBCYP | | | 
+GB | GB01 | X | Greenwich | GBGNW | GBLON | | | 
+GB | GB01 | X | Grimsby | GBGSY | GBIMM | | | 
+GB | GB01 | X | Grove Wharves | GBGRW | GB203 | | | 
+GB | GB01 | X | Gunness | GBGUW | GB203 | | | 
+GB | GB01 | X | Hamble | GBHAM | GBSOU | | | 
+GB | GB01 | X | Hartlepool | GBHTP | GBMME | | | 
+GB | GB01 | X | Harwich | GBHRW | | X | 1203 | 
+GB | GB01 | X | Harwich Navyard | GB115 | GBHRW | | | 
+GB | GB01 | X | Hayle | GBHAY | | X | | 
+GB | GB01 | X | Heysham | GBHYM | | X | 0604 | 
+GB | GB01 | X | Hole Haven | GBHHN | GBLON | | | 
+GB | GB01 | X | Holyhead | GBHLY | | X | 0503 | 
+GB | GB01 | X | Hound Point | GBHPT | GBFOR | | | 
+GB | GB01 | X | Howdendyke | GBHDD | GB222 | | | 
+GB | GB01 | X | Hull | GBHUL | | X | 1001 | 
+GB | GB01 | X | Hunterston | GBHST | GBCYP | | | 
+GB | GB01 | X | Immingham | GBIMM | | X | 1006 | 
+GB | GB01 | X | Invergordon | GBIVG | GBCRN | | 0803 | 
+GB | GB01 | X | Inverkeithing | GBINK | | X | 0819 | 
+GB | GB01 | X | Inverness | GBINV | | X | 0804 | 
+GB | GB01 | X | Ipswich | GBIPS | | X | 1201 | 
+GB | GB01 | X | Islay | GBIYP | | X | 0737 | 
+GB | GB01 | X | Isle of Grain | GBIOG | GBMED | | | 
+GB | GB01 | X | Isle of Skye | GBSKY | GBUIG | | | 
+GB | GB01 | X | Itchenor | GBITC | GBCST | | | 
+GB | GB01 | X | Keadby | GBKEA | GB203 | | | 
+GB | GB01 | X | Kennacraig | GBKCG | | X | 0732 | 
+GB | GB01 | X | Kilchoan | GBKOA | | X | 0765 | 
+GB | GB01 | X | Killingholme | GBKGH | GBIMM | | | 
+GB | GB01 | X | Kilroot | GBKLR | | X | 1311 | 
+GB | GB01 | X | Kings Ferry | GB211 | GB203 | | | 
+GB | GB01 | X | King's Lynn | GBKLN | | X | 1103 | 
+GB | GB01 | X | Kingsnorth | GBKNK | GBMED | | | 
+GB | GB01 | X | Kingston-upon-Hull | GBKUH | GBHUL | | | 
+GB | GB01 | X | Kinlochbervie | GBKBE | | X | | 
+GB | GB01 | X | Kirkcaldy | GBKKD | GBFOR | | | 
+GB | GB01 | X | Kirkcudbright | GBKBT | | X | 0715 | 
+GB | GB01 | X | Kirkwall | GBKWL | | X | 0801 | 
+GB | GB01 | X | Lancaster | GBLAN | | X | 0608 | 
+GB | GB01 | X | Largs | GBLGS | GBCYP | | | 
+GB | GB01 | X | Larne | GBLAR | | X | 1307 | 
+GB | GB01 | X | Larne Bank Quays | GB120 | | X | 1308 | 
+GB | GB01 | X | Laxo | GBLAX | GBSUL | | | 
+GB | GB01 | X | Leigh-on-Sea | GBLOS | GBLON | | | 
+GB | GB01 | X | Leith | GBLEI | GBFOR | | | 
+GB | GB01 | X | Lerwick | GBLER | | X | 0821 | 
+GB | GB01 | X | Lismore | GB164 | | X | 0764 | 
+GB | GB01 | X | Littlehampton | GBLIT | | X | 0205 | 
+GB | GB01 | X | Liverpool | GBLIV | | X | 0601 | 
+GB | GB01 | X | Llandulas | GBLLD | | X | 0510 | 
+GB | GB01 | X | Llanelli | GBLLN | | X | | 
+GB | GB01 | X | Loch Carnan | GB231 | | X | | 
+GB | GB01 | X | Loch Katrine | GB233 | | X | | 
+GB | GB01 | X | Lochaline | GBLOL | | X | 0741 | 
+GB | GB01 | X | Lochinver | GBLOV | | X | | 
+GB | GB01 | X | Lochmaddy | GBLMA | | X | 0738 | 
+GB | GB01 | X | London | GBLON | | X | 0102 | 
+GB | GB01 | X | Londonderry | GBLDY | | X | 1301 | 
+GB | GB01 | X | Longhope | GBLHP | GBKWL | | | 
+GB | GB01 | X | Lossiemouth | GBLSS | | X | 0814 | 
+GB | GB01 | X | Lowestoft | GBLOW | | X | 1105 | 
+GB | GB01 | X | Lydney | GBLYD | GBSSS | | | 
+GB | GB01 | X | Lymington | GBLYM | | X | | 
+GB | GB01 | X | Macduff | GBMCD | | X | 0816 | 
+GB | GB01 | X | Magheramorne | GBMGO | | X | 1309 | 
+GB | GB01 | X | Maldon | GBMAL | | X | 0110 | 
+GB | GB01 | X | Mallaig | GBMLG | | X | 0719 | 
+GB | GB01 | X | Manchester | GBMNC | | X | 0602 | 
+GB | GB01 | X | Medway | GBMED | | X | 0103 | 
+GB | GB01 | X | Menai Bridge | GBMEB | | X | | 
+GB | GB01 | X | Methil | GBMTH | GBFOR | | | 
+GB | GB01 | X | Middlesbrough | GBMID | GBMME | | | 
+GB | GB01 | X | Milford Docks | GB138 | GBMLF | | | 
+GB | GB01 | X | Milford Haven | GBMLF | | X | 0501 | 
+GB | GB01 | X | Millbay Docks | GB145 | GBPLY | | | 
+GB | GB01 | X | Millom | GBMLM | | X | | 
+GB | GB01 | X | Mistley | GBMIS | | X | 1205 | 
+GB | GB01 | X | Montrose | GBMON | | X | 0807 | 
+GB | GB01 | X | Mostyn | GBCHE | | X | 0505 | 
+GB | GB01 | X | Mull | GBMUL | GBCNU | | | 
+GB | GB01 | X | Neap House | GBNEH | GB203 | | | 
+GB | GB01 | X | Neath | GBNEA | | X | 0410 | 
+GB | GB01 | X | New Holland | GBNHO | GB221 | | 1002 | 
+GB | GB01 | X | Newburgh | GBNBU | | X | | 
+GB | GB01 | X | Newcastle upon Tyne | GBNCL | GBTYN | | | 
+GB | GB01 | X | Newhaven | GBNHV | | X | 0201 | 
+GB | GB01 | X | Newlyn | GBNYL | | X | 0318 | 
+GB | GB01 | X | Newport, Gwent | GBNPT | | X | 0405 | 
+GB | GB01 | X | Newport, Isle of Wight | GBNPO | | X | 0209 | 
+GB | GB01 | X | North Ronalsday | GBNRO | | X | | 
+GB | GB01 | X | North Shields | GBNSH | GBTYN | | | 
+GB | GB01 | X | North Uist | GB153 | GBLMA | | | 
+GB | GB01 | X | Northfleet | GBNFT | GBLON | | | 
+GB | GB01 | X | Northwich | GBNTH | GBMNC | | | 
+GB | GB01 | X | Norwich | GBNRW | GBGTY | | | 
+GB | GB01 | X | Oban | GBOBA | | X | 0729 | 
+GB | GB01 | X | Otterham Quay | GB134 | GBMED | | | 
+GB | GB01 | X | Padstow | GBPAD | | X | 0311 | 
+GB | GB01 | X | Papa Westray | GBPPW | GBKWL | | | 
+GB | GB01 | X | Par | GBPAR | | X | 0306 | 
+GB | GB01 | X | Parkeston Quay | GBPST | GBHRW | | | 
+GB | GB01 | X | Partington | GBPTT | GBMNC | | | 
+GB | GB01 | X | Pembroke | GBPEM | GBMLF | | | 
+GB | GB01 | X | Pembroke Dock | GBPED | GBMLF | | | 
+GB | GB01 | X | Penryn | GBPRY | GBFAL | | | 
+GB | GB01 | X | Penzance | GBPEN | | X | 0317 | 
+GB | GB01 | X | Perth | GBPER | | X | 0810 | 
+GB | GB01 | X | Peterhead | GBPHD | | X | 0805 | 
+GB | GB01 | X | Peterhead Bay | GB143 | GBPHD | | | 
+GB | GB01 | X | Plymouth | GBPLY | | X | 0304 | 
+GB | GB01 | X | Poole | GBPOO | | X | 0301 | 
+GB | GB01 | X | Port Askaig | GBPAK | | X | 0710 | 
+GB | GB01 | X | Port Ellen | GBPLN | GBIYP | | | 
+GB | GB01 | X | Port Glasgow | GB091 | GBCYP | | | 
+GB | GB01 | X | Port Penrhyn | GBPPE | | X | 0508 | 
+GB | GB01 | X | Port Sutton Bridge | GBPSB | | X | 1109 | 
+GB | GB01 | X | Port Talbot | GBPTB | | X | 0409 | 
+GB | GB01 | X | Portbury | GBPRU | GBBRS | | | 
+GB | GB01 | X | Portishead | GBPTH | GBBRS | | | 
+GB | GB01 | X | Portland | GBPTL | GBWEY | | | 
+GB | GB01 | X | Portree | GBPRT | GBUIG | | | 
+GB | GB01 | X | Portrush | GBPTR | | X | 1303 | 
+GB | GB01 | X | Portsmouth | GBPME | | X | 0203 | 
+GB | GB01 | X | Purfleet | GBPFT | GBLON | | | 
+GB | GB01 | X | Queenborough | GBQUB | GBMED | | | 
+GB | GB01 | X | Rainham | GBRAH | GBMED | | | 
+GB | GB01 | X | Ramsgate | GBRMG | | X | 0105 | 
+GB | GB01 | X | Red Bay | GB070 | | X | 1304 | 
+GB | GB01 | X | Redcar | GBRER | GBMME | | | 
+GB | GB01 | X | Renfrew | GBREN | GBCYP | | | 
+GB | GB01 | X | Rhyl | GBRHY | | X | | 
+GB | GB01 | X | Richborough | GB188 | GBSDW | | | 
+GB | GB01 | X | Ridham Dock | GBRID | GBMED | | | 
+GB | GB01 | X | River Hull and Humber | GB221 | | X | | 
+GB | GB01 | X | River Ouse | GB222 | | X | | 
+GB | GB01 | X | Rochester | GBRCS | GBMED | | | 
+GB | GB01 | X | Rochford | GBRFD | | X | 0108 | 
+GB | GB01 | X | Rosyth | GBROY | GBEDI | | | 
+GB | GB01 | X | Rotherham | GBRTH | | X | | 
+GB | GB01 | X | Rothesay | GBRAY | GBCYP | | | 
+GB | GB01 | X | Rousay | GB170 | GBKWL | | | 
+GB | GB01 | X | Rowhedge | GBROW | GBCOL | | | 
+GB | GB01 | X | Runcorn | GBRUN | GBMNC | | | 
+GB | GB01 | X | Rye | GBRYE | | X | 0112 | 
+GB | GB01 | X | Salt End | GBSED | GBHUL | | | 
+GB | GB01 | X | Saltburn | GBSLN | GBIVG | | | 
+GB | GB01 | X | Sanday | GBNDY | GBKWL | | | 
+GB | GB01 | X | Sandwich | GBSDW | | X | 0111 | 
+GB | GB01 | X | Scalloway | GBSWY | GBSUL | | | 
+GB | GB01 | X | Scapa Flow | GBSFW | GBKWL | | | 
+GB | GB01 | X | Scarborough | GBSCA | GBWTB | | | 
+GB | GB01 | X | Scrabster | GBSCR | | X | 0811 | 
+GB | GB01 | X | Scunthorpe | GBSCP | GB203 | | 1003 | 
+GB | GB01 | X | Seaforth | GBSEF | GBLIV | | | 
+GB | GB01 | X | Seaham | GBSEA | | X | 0906 | 
+GB | GB01 | X | Selby | GBSLB | GB222 | | 1005 | 
+GB | GB01 | X | Shapinsay | GBSPY | | X | | 
+GB | GB01 | X | Sharpness | GBSSS | | X | 0404 | 
+GB | GB01 | X | Sheerness | GBSHS | GBMED | | | 
+GB | GB01 | X | Shell Haven | GBSHV | GBLON | | | 
+GB | GB01 | X | Shetlands | GB010 | GBSUL | | | 
+GB | GB01 | X | Shoreham | GBSHO | | X | 0202 | 
+GB | GB01 | X | Shotton | GBSHT | | X | 0509 | 
+GB | GB01 | X | Silloth | GBSIL | | X | 0607 | 
+GB | GB01 | X | Silvertown | GBSVT | GBLON | | | 
+GB | GB01 | X | Skerries | GB180 | GBSUL | | | 
+GB | GB01 | X | South Bank | GB215 | GBMME | | | 
+GB | GB01 | X | South Shields | GBSSH | GBTYN | | | 
+GB | GB01 | X | Southampton | GBSOU | | X | 0204 | 
+GB | GB01 | X | Southend | GBSND | GBLON | | | 
+GB | GB01 | X | Southwold | GBSWD | | X | | 
+GB | GB01 | X | St Margaret's Hope | GB232 | | X | | 
+GB | GB01 | X | Stanlow | GBSOW | GBMNC | | | 
+GB | GB01 | X | Stockton | GBSCT | GBMME | | | 
+GB | GB01 | X | Stornoway | GBSTO | | X | 0714 | 
+GB | GB01 | X | Stranraer | GBSTR | | X | 0701 | 
+GB | GB01 | X | Stromness | GBSNS | GBKWL | | | 
+GB | GB01 | X | Stronsay | GBSOY | GBKWL | | | 
+GB | GB01 | X | Strood | GBSTD | GBMED | | | 
+GB | GB01 | X | Sullom Voe | GBSUL | | X | 0802 | 
+GB | GB01 | X | Sunderland | GBSUN | | X | 0905 | 
+GB | GB01 | X | Sutton Harbour | GBSUS | GBPLY | | | 
+GB | GB01 | X | Swansea | GBSWA | | X | 0411 | 
+GB | GB01 | X | Symbister | GBSYM | GBSUL | | | 
+GB | GB01 | X | Tarbert | GBTAB | GBCYP | | 0718 | 
+GB | GB01 | X | Tayport | GBTAY | GBDUN | | | 
+GB | GB01 | X | Tees and Hartlepool | GBMME | | X | 0907 | 
+GB | GB01 | X | Tees River | GB202 | GBMME | | | 
+GB | GB01 | X | Teesport | GBTEE | GBMME | | | 
+GB | GB01 | X | Teignmouth | GBTNM | | X | 0303 | 
+GB | GB01 | X | Tetney Terminal | GBTTL | GB221 | | | 
+GB | GB01 | X | Thamesport | GBTHP | GBMED | | | 
+GB | GB01 | X | Thurso | GBTHR | GBSCR | | | 
+GB | GB01 | X | Tilbury | GBTIL | GBLON | | | 
+GB | GB01 | X | Tingwall | GBTWL | GBKWL | | | 
+GB | GB01 | X | Tobermory | GBTOB | GB031 | | | 
+GB | GB01 | X | Topsham | GBTHM | GBEXM | | | 
+GB | GB01 | X | Torquay | GBTOR | GBBRX | | | 
+GB | GB01 | X | Totnes | GBTTS | GBDTM | | | 
+GB | GB01 | X | Tranmere | GBTRA | GBLIV | | | 
+GB | GB01 | X | Trent River | GB203 | | X | | 
+GB | GB01 | X | Troon | GBTRN | | X | | 
+GB | GB01 | X | Truro | GBTRU | | X | 0313 | 
+GB | GB01 | X | Tyne | GBTYN | | X | 0904 | 
+GB | GB01 | X | Tynemouth | GBTYM | GBTYN | | | 
+GB | GB01 | X | Uig | GBUIG | | X | 0730 | 
+GB | GB01 | X | Ullapool | GBULL | | X | 0720 | 
+GB | GB01 | X | Wallasea | GBWLA | GBRFD | | | 
+GB | GB01 | X | Warrenpoint | GBWPT | | X | 1321 | 
+GB | GB01 | X | Warrington | GBWRN | GBMNC | | | 
+GB | GB01 | X | Watchet | GBWAT | | X | 0401 | 
+GB | GB01 | X | Wells | GBWLS | | X | 1107 | 
+GB | GB01 | X | Wemyss Bay | GBWMB | GBCYP | | | 
+GB | GB01 | X | Weston Point | GBWSP | GBMNC | | | 
+GB | GB01 | X | Westray | GBWRY | GBKWL | | | 
+GB | GB01 | X | Weymouth | GBWEY | | X | 0308 | 
+GB | GB01 | X | Whitby | GBWTB | | X | 0908 | 
+GB | GB01 | X | Whitehaven | GBWHV | | X | 0605 | 
+GB | GB01 | X | Whitstable | GBWTS | | X | 0104 | 
+GB | GB01 | X | Wick | GBWIC | | X | 0812 | 
+GB | GB01 | X | Wisbech | GBWIS | | X | 1102 | 
+GB | GB01 | X | Wivenhoe | GBWIV | GBCOL | | | 
+GB | GB01 | X | Workington | GBWOR | | X | 0606 | 
+GB | GB01 | X | Wyre | GB176 | GBKWL | | | 
+GB | GB01 | X | Yarmouth | GBYMO | | X | | 
+GB | GB01 | X | Yelland | GBYLL | GBBND | | | 
+GB | GB01 | X | GB offhsore installations | GB88P | | | | 
+GB | GB01 | X | Other - United Kingdom (Great Britain and Northern Ireland) | GB888 | | | | 
+GB | GB02 | X | Other - United Kingdom Isle of Man | GB888 | | | | 
+GB | GB03 | X | Other - United Kingdom Channel islands | GB888 | | | | 
+GB | GB09 | X | Other - United Kingdom (unknown MCA) | GB888 | | | | 
+| | | 352 | 352 | 177 | 175 | | 
+-------------------------------------------------- 

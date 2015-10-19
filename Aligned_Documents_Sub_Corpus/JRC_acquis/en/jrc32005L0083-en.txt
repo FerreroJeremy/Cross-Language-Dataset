@@ -1,0 +1,99 @@
+Commission Directive 2005/83/EC of 23 November 2005 amending, for the purposes of their adaptation to technical progress, Annexes I, VI, VII, VIII, IX and X to Council Directive 72/245/EEC relating to the radio interference (electromagnetic compatibility) of vehicles (Text with EEA relevance) 
+Commission Directive 2005/83/EC 
+of 23 November 2005 
+amending, for the purposes of their adaptation to technical progress, Annexes I, VI, VII, VIII, IX and X to Council Directive 72/245/EEC relating to the radio interference (electromagnetic compatibility) of vehicles 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers [1], and in particular the second indent of Article 13(2) thereof, 
+Having regard to Council Directive 72/245/EEC of 20 June 1972 relating to the radio interference (electromagnetic compatibility) of vehicles [2], and in particular Article 4 thereof, 
+Whereas: 
+(1) Directive 72/245/EEC is one of the separate directives under the type-approval procedure established by Directive 70/156/EEC. 
+(2) The Electromagnetic Compatibility requirements and test provisions for electrical and electronic equipment have been constantly updated through the standardisation work of the International Special Committee on Radio Interference (CISPR) and the International Organisation for Standardisation (ISO). Therefore Commission Directive 2004/104/EC [3], which amended Directive 72/245/EEC, introduced references to the test procedures outlined in the recent editions of the relevant standards. 
+(3) Since the entry into force of Directive 2004/104/EC, several standards have been replaced by more recent versions adapting them to technical progress. It is therefore necessary to update the references to those standards in Directive 72/245/EEC. 
+(4) In addition, some editorial corrections need to be introduced. 
+(5) Directive 72/245/EEC should therefore be amended accordingly, 
+HAS ADOPTED THIS DIRECTIVE: 
+Article 1 
+Annexes I, VI, VII, VIII, IX and X to Directive 72/245/EEC are amended in accordance with the Annex to this Directive. 
+Article 2 
+1. Member States shall adopt and publish, by 30 September 2006 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive. 
+They shall apply those provisions from 1 October 2006. 
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+2. Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field covered by this Directive. 
+Article 3 
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. 
+Article 4 
+This Directive is addressed to the Member States. 
+Done at Brussels, 23 November 2005. 
+For the Commission 
+Günter Verheugen 
+Vice-President 
+[1] OJ L 42, 23.2.1970, p. 1. Directive as last amended by Commission Directive 2005/49/EC (OJ L 194, 26.7.2005, p. 12). 
+[2] OJ L 152, 6.7.1972, p. 15. Directive as last amended by Directive 2005/49/EC. 
+[3] OJ L 337, 13.11.2004, p. 13. 
+-------------------------------------------------- 
+ANNEX 
+Directive 72/245/EEC is amended as follows: 
+1. Annex I is amended as follows: 
+(a) In point 2.1.12 (a), the words "by degradation or change in engine, gear, brake, suspension, active steering, speed limitation devices, for example" are replaced by the words "by degradation or change in: e.g. engine, gear, brake, suspension, active steering, speed limitation devices". 
+(b) In point 6.8.1, the words "ISO 7637-2:DIS2002" are replaced by the words "ISO 7637-2: 2nd edition 2004". 
+(c) In point 6.9.1, the words "ISO 7637-2: DIS2002" are replaced by the words "ISO 7637-2: 2nd edition 2004". 
+(d) Point 7. of Appendix 1 is replaced by the following: 
+"7. ISO 11451 "Road vehicles — Electrical disturbances by narrowband radiated electromagnetic energy — Vehicle test methods" 
+Part 1: | General and definitions | (ISO 11451-1: 3rd edition 2005) | 
+Part 2: | Off vehicle radiation source | (ISO 11451-2: 3rd edition 2005) | 
+Part 4: | Bulk current injection (BCI) | (ISO 11451-4: 1st edition 1995)". | 
+(e) Point 8 of Appendix 1 is replaced by the following: 
+"8. ISO 11452 "Road vehicles — Electrical disturbances by narrowband radiated electromagnetic energy — Component test methods" 
+Part 1: | General and definitions | (ISO 11452-1: 3rd edition 2005) | 
+Part 2: | Absorber lined chamber | (ISO 11452-2: 2nd edition 2004) | 
+Part 3: | Transverse electromagnetic mode (TEM) cell | (ISO 11452-3: 2nd edition 2001) | 
+Part 4: | Bulk current injection (BCI) | (ISO 11452-4: 3rd edition 2005) | 
+Part 5: | Strip line | (ISO 11452-5: 2nd edition 2002)". | 
+2. Annex VI is amended as follows: 
+(a) In point 1.2, the words "ISO DIS 11451-2: 2003" are replaced by the words "ISO 11451-2: 3rd edition 2005". 
+(b) In points 3.1, 3.1.1 and 4.1.1, the words "ISO DIS 11451-1: 2003" are replaced by the words "ISO 11451-1: 3rd edition 2005". 
+3. Point 3.1 of Annex VII is replaced by the following: 
+"3.1. The test shall be performed according to CISPR 25 (2nd edition 2002) clause 6.4 — ALSE method". 
+4. Point 3.1 of Annex VIII is replaced by the following: 
+"3.1. The test shall be performed according to CISPR 25 (2nd edition 2002) clause 6.4 — ALSE method". 
+5. Annex IX is amended as follows: 
+(a) Point 1.2.1, is replaced by the following: 
+"1.2.1. ESAs may comply with the requirements of any combination of the following test methods at the manufacturer's discretion provided that this results in the full frequency range specified in paragraph 3.1 of this Annex being covered. 
+- Absorber Chamber test: according to ISO 11452-2: 2nd edition 2004 
+- TEM cell testing: according to ISO 11452-3: 2nd edition 2001 
+- Bulk current injection testing: according to ISO 11452-4: 3rd edition 2005 
+- Stripline testing: according to ISO 11452-5: 2nd edition 2002 
+- 800 mm Stripline: according to clause 4.5 of this Annex. 
+Frequency range and general test conditions shall be based on ISO 11452-1: 3rd edition 2005." 
+(b) Point 2.1 is replaced by the following: 
+"2.1. The test conditions shall be according to ISO 11452-1: 3rd edition 2005". 
+(c) Point 3.1 is replaced by the following: 
+"3.1. Frequency range, dwell times 
+Measurements shall be made in the 20 to 2000 MHz frequency range with frequency steps according to ISO 11452-1: 3rd edition 2005. 
+The test signal modulation shall be: 
+- AM, with 1 kHz modulation and 80 % modulation depth in the 20-800 MHz frequency range, 
+- PM, t on 577 μs, period 4600 μs in the 800-2000 MHz frequency range, 
+if not otherwise agreed between technical service and ESA manufacturer. 
+Frequency step size and dwell time shall be chosen according to ISO 11452-1: 3rd edition 2005." 
+(d) Point 3.2 is replaced by the following: 
+"3.2. The technical service shall perform the test at the intervals specified in ISO 11452-1: 3rd edition 2005 throughout the frequency range 20 to 2000 MHz. 
+Alternatively, if the manufacturer provides measurement to data for the whole frequency band from a test laboratory accredited to the applicable parts of ISO 17025: 1st edition 1999 and recognised by the Approval Authority, the Technical Service may choose a reduced number of spot frequencies in the range, e.g. 27, 45, 65, 90, 120, 150, 190, 230, 280, 380, 450, 600, 750, 900, 1300, and 1800 MHz to confirm that the ESA meets the requirements of this Annex". 
+(e) Point 4.1.2 is replaced by the following: 
+"4.1.2. Test methodology 
+The "substitution method" shall be used to establish the test field conditions according to ISO 11452-2: 2nd edition 2004. 
+The test shall be performed with vertical polarisation". 
+(f) Point 4.2.2 is replaced by the following: 
+"4.2.2. Test methodology 
+The test shall be performed according to ISO 11452-3: 2nd edition 2001. 
+Depending on the ESA to be tested the technical service shall choose the method of maximum field coupling to the ESA or to the wiring harness inside the TEM-cell." 
+(g) Point 4.3.2 is replaced by the following: 
+"4.3.2. Test methodology 
+The test shall be performed according to ISO 11452-4: 3rd edition 2005 on a test bench. 
+As an alternative the ESA may be tested while installed in the vehicle according to ISO 11451-4: 1st edition 1995. 
+- The injection probe shall be positioned at a distance of 150 mm from the ESA to be tested. 
+- The reference method shall be used to calculate injected currents from forward power. 
+- The frequency range of the method is limited by the injection probe specification." 
+6. In points 2 and 3 of Annex X, "ISO 7637-2: 2002" is replaced by "ISO 7637-2: 2004". 
+-------------------------------------------------- 

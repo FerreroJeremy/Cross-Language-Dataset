@@ -1,0 +1,414 @@
+Directive 96/48/CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse 
+DIRECTIVE 96/48/CE DU CONSEIL du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse 
+LE CONSEIL DE L'UNION EUROPÉENNE, 
+vu le traité instituant la Communauté européenne, et notamment son article 129 D troisième alinéa, 
+vu la proposition de la Commission (1), 
+vu l'avis du Comité économique et social (2), 
+vu l'avis du Comité des régions (3) 
+statuant conformément à la procédure prévue à l'article 189 C du traité (4), 
+considérant que, pour permettre aux citoyens de l'Union, aux opérateurs économiques, ainsi qu'aux collectivités régionales et locales de bénéficier pleinement des avantages découlant de la mise en place d'un espace sans frontières intérieures, il y a lieu, notamment, de favoriser l'interconnexion et l'interopérabilité des réseaux nationaux de trains à grande vitesse ainsi que l'accès à ces réseaux; 
+considérant qu'un groupe à haut niveau composé de représentants des gouvernements des États membres, des chemins de fer européens et de l'industrie ferroviaire européenne, réuni par la Commission suite à la demande formulée par le Conseil dans sa résolution des 4 et 5 décembre 1989, a élaboré le schéma directeur d'un réseau transeuropéen de trains à grande vitesse; 
+considérant que la Commission, en décembre 1990, a présenté au Conseil une communication concernant ce réseau de trains à grande vitesse et que le Conseil a accueilli favorablement cette communication dans sa résolution du 17 décembre 1990 (5); 
+considérant que l'article 129 C du traité prévoit que la Communauté met en oeuvre toute action qui peut se révéler nécessaire pour assurer l'interopérabilité des réseaux, en particulier dans le domaine de l'harmonisation des normes techniques; 
+considérant que l'exploitation en service commercial de trains à grande vitesse nécessite une excellente cohérence entre les caractéristiques de l'infrastructure et celle du matériel roulant; que, de cette cohérence, dépendent le niveau des performances, la sécurité, la qualité des services et leur coût et que c'est sur cette cohérence que repose notamment l'interopérabilité du système ferroviaire transeuropéen à grande vitesse; 
+considérant que la directive 91/440/CEE du Conseil, du 29 juillet 1991, relative au développement des chemins de fer communautaires (6) implique que les entreprises ferroviaires doivent avoir un accès accru aux réseaux ferroviaires des États membres et que cela, en conséquence, nécessite l'interopérabilité des infrastructures, des équipements et du matériel roulant; 
+considérant que les États membres ont la responsabilité de s'assurer du respect des règles de sécurité, de santé et de protection des consommateurs qui s'appliquent aux réseaux de chemins de fer en général lors du projet, de la construction, de la mise en service et durant l'exploitation; qu'ils ont aussi, avec les autorités locales, des responsabilités en matière de droit des sols, d'aménagement du territoire et de protection de l'environnement; que cela est tout particulièrement pertinent en ce qui concerne les réseaux de trains à grande vitesse; 
+considérant que la directive 85/337/CEE du Conseil, du 27 juin 1985, concernant l'évaluation des incidences de certains projets publics et privés sur l'environnement (7) exige une évaluation des incidences sur l'environnement de la construction des voies pour le trafic à grande distance des chemins de fer; 
+considérant que les réglementations nationales ainsi que les règlements internes et les spécifications techniques que les chemins de fer appliquent présentent des différences importantes; que ces réglementations nationales et ces règlements internes intègrent des techniques particulières à l'industrie nationale; qu'elles prescrivent des dimensions et des dispositifs particuliers ainsi que des caractéristiques spéciales; que cette situation s'oppose notamment à ce que les trains à grande vitesse puissent circuler dans de bonnes conditions sur l'ensemble du territoire communautaire; 
+considérant que cette situation a, au fil des années, créé des liens très étroits entre les industries ferroviaires nationales et les chemins de fer nationaux, au détriment de l'ouverture effective des marchés; que ces industries doivent disposer, pour pouvoir développer leur compétitivité à l'échelle mondiale, d'un marché européen ouvert et concurrentiel; 
+considérant qu'il y a donc lieu de définir pour l'ensemble de la Communauté des exigences essentielles qui s'appliquent au système ferroviaire transeuropéen à grande vitesse; 
+considérant, compte tenu de l'étendue et de la complexité du système ferroviaire transeuropéen à grande vitesse, que, pour des raisons pratiques, il s'est révélé nécessaire de le décomposer en sous-systèmes; que pour chacun de ces sous-systèmes il faut, pour l'ensemble de la Communauté, préciser les exigences essentielles, fixer les paramètres fondamentaux et déterminer les spécifications techniques nécessaires, notamment en ce qui concerne les constituants et les interfaces, pour satisfaire aux exigences essentielles; que cependant certains sous-systèmes (environnement, usagers et exploitation) ne feront l'objet de spécifications techniques d'interopérabilité (STI) que dans la mesure où cela s'avérerait nécessaire pour assurer l'interopérabilité dans les domaines des infrastructures, de l'énergie, du contrôle-commande et de la signalisation ainsi que du matériel roulant; 
+considérant que la mise en oeuvre des dispositions relatives à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse ne devra pas créer des entraves injustifiées du point de vue du coût-bénéfice au maintien de la cohérence du réseau ferroviaire existant de chaque État membre tout en s'efforçant de préserver l'objectif de circulation des trains à grande vitesse sur l'ensemble du territoire communautaire; 
+considérant qu'il faut permettre la non-application, par l'État membre concerné, de certaines spécifications techniques d'interopérabilité dans des cas particuliers, et prévoir des procédures pour assurer que ces dérogations sont justifiées; que l'article 129 C du traité exige que l'action de la Communauté dans le domaine de l'interopérabilité tienne compte de la viabilité économique potentielle des projets; 
+considérant que, pour satisfaire aux dispositions appropriées concernant les procédures de passation des marchés dans le secteur ferroviaire et notamment à la directive 93/38/CEE (8), les entités adjudicatrices doivent inclure les spécifications techniques dans les documents généraux ou dans les cahiers des charges propres à chaque marché; qu'il est nécessaire de créer un ensemble de spécifications européennes pour servir de références à ces spécifications techniques; 
+considérant qu'une spécification européenne est, au sens de la directive 93/38/CEE, une spécification technique commune, un agrément technique européen ou une norme nationale transposant une norme européenne; qu'une norme européenne harmonisée est établie par un organisme européen de normalisation, le Comité européen de normalisation (CEN), le Comité européen de normalisation électronique (Cenélec) ou l'Institut européen de normalisation des télécommunications (ETSI), sur mandat de la Commission et que sa référence fait l'objet d'une publication au Journal officiel des Communautés européennes; 
+considérant l'intérêt, pour la Communauté, d'un système international de normalisation en mesure de produire des normes utilisées effectivement par les partenaires du commerce international et satisfaisant aux exigences de la politique communautaire; que, par conséquent, les organismes européens de normalisation doivent poursuivre leur coopération avec les organisations internationales de normalisation; 
+considérant que les entités adjudicatrices définissent les spécifications supplémentaires qui sont nécessaires pour compléter les spécifications européennes ou les autres normes; que ces spécifications ne doivent pas compromettre la satisfaction des exigences essentielles, harmonisées au plan communautaire, auxquelles doit répondre le système ferroviaire transeuropéen à grande vitesse; 
+considérant que les procédures d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants doivent être fondées sur l'utilisation des modules qui font l'objet de la décision 93/465/CEE (9); qu'il y a lieu de développer, dans toute la mesure du possible, en vue de favoriser le développement des industries concernées, les procédures faisant appel au système d'assurance qualité; que la notion de constituant recouvre des objets matériels mais aussi immatériels comme les logiciels; 
+considérant que l'évaluation de l'aptitude à l'emploi s'applique dans le cas des constituants les plus critiques pour la sécurité, la disponibilité ou l'économie du système; 
+considérant que c'est dans leurs cahiers des charges que les entités adjudicatrices fixent, notamment pour les constituants, en se référant aux spécifications européennes, les caractéristiques qui doivent être contractuellement respectées par les fabricants; que, dans ces conditions, la conformité des constituants est principalement liée à leur domaine d'utilisation en vue d'assurer et de garantir l'interopérabilité du système et pas seulement à leur libre circulation sur le marché communautaire; 
+considérant que, par conséquent, il n'est pas nécessaire que le fabricant appose le marquage «CE» sur les constituants soumis aux dispositions de la présente directive mais que, à partir de l'évaluation de la conformité et/ou de l'aptitude à l'emploi effectuée selon les procédures prévues à cet effet dans la présente directive, la déclaration de conformité du fabricant suffit; que cela ne préjuge pas l'obligation qui incombe aux fabricants d'apposer, pour certains constituants, le marquage «CE» attestant leur conformité à d'autres dispositions communautaires les concernant; 
+considérant que les sous-systèmes constituant le système ferroviaire transeuropéen à grande vitesse doivent être soumis à une procédure de vérification; que cette vérification doit permettre aux autorités responsables qui autorisent la mise en service d'être assurées que, au stade du projet, de la construction et de la mise en service, le résultat est conforme aux dispositions réglementaires, techniques et opérationnelles qui sont d'application; que cela doit aussi permettre aux constructeurs de pouvoir compter sur une égalité de traitement quel que soit le pays; qu'il faut donc établir un module définissant les principes et les conditions de la vérification «CE» des sous-systèmes; 
+considérant que la procédure de vérification «CE» est fondée sur les spécifications techniques d'interopérabilité (STI); que ces STI sont élaborées sur mandat de la Commission par l'organisme commun représentatif des gestionnaires de l'infrastructure, des entreprises ferroviaires et de l'industrie; que la référence aux STI est obligatoire pour assurer l'interopérabilité du système ferroviaire transeuropéen à grande vitesse et que ces STI sont soumises aux dispositions de l'article 18 de la directive 93/38/CEE; 
+considérant que les organismes notifiés qui sont chargés d'instruire les procédures d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants ainsi que la procédure de vérification des sous-systèmes doivent, en particulier en l'absence de spécification européenne, coordonner leurs décisions de la manière la plus étroite possible; 
+considérant que la directive 91/440/CEE du Conseil impose, sur le plan de la comptabilité, une séparation des activités relatives à l'exploitation des services de transport de celles relatives à la gestion de l'infrastructure ferroviaire; que, dans le même esprit, il convient que les services spécialisés des gestionnaires des infrastructures ferroviaires qui seraient désignés comme organismes notifiés soient structurés de manière à répondre aux critères qui doivent s'appliquer à ce type d'organismes; que d'autres organismes spécialisés peuvent être notifiés lorsqu'ils remplissent les mêmes critères; 
+considérant que l'interopérabilité du système ferroviaire transeuropéen à grande vitesse est de dimension communautaire; que les États membres pris individuellement ne sont pas en mesure de prendre les dispositions nécessaires permettant de réaliser cette interopérabilité; qu'il faut donc entreprendre, en application du principe de la subsidiarité, cette action au niveau communautaire, 
+A ARRÊTÉ LA PRÉSENTE DIRECTIVE: 
+CHAPITRE PREMIER 
+Dispositions générales 
+Article premier 
+1. Conformément aux articles 129 B et 129 C du traité, la présente directive a pour objet d'établir les conditions qui doivent être satisfaites pour réaliser, au sein du territoire communautaire, l'interopérabilité du système ferroviaire transeuropéen à grande vitesse tel qu'il est décrit à l'annexe I. 
+2. Ces conditions concernent le projet, la construction, l'aménagement ainsi que l'exploitation des infrastructures et du matériel roulant, concourant au fonctionnement de ce système, qui seront mis en service après la date d'entrée en vigueur de la présente directive. 
+Article 2 
+Aux fins de la présente directive, on entend par: 
+a) «système ferroviaire transeuropéen à grande vitesse»: l'ensemble, décrit à l'annexe I, constitué par les infrastructures ferroviaires, comprenant les lignes et les installations fixes, du réseau transeuropéen de transport, construites ou aménagées pour être parcourues à grande vitesse, et les matériels roulants conçus pour parcourir ces infrastructures; 
+b) «interopérabilité»: l'aptitude du système ferroviaire transeuropéen à grande vitesse à permettre la circulation sûre et sans rupture de trains à grande vitesse en accomplissant les performances spécifiées. Cette aptitude repose sur l'ensemble des conditions réglementaires, techniques et opérationnelles qui doivent être remplies pour satisfaire aux exigences essentielles; 
+c) «sous-systèmes»: le système ferroviaire transeuropéen à grande vitesse est subdivisé, comme indiqué à l'annexe II, en sous-systèmes de nature structurelle ou fonctionnelle pour lesquels des exigences essentielles doivent être définies; 
+d) «constituants d'interopérabilité»: tout composant élémentaire, groupe de composants, sous-ensemble ou ensemble complet de matériels incorporés ou destinés à être incorporés dans un sous-système, dont dépend directement ou indirectement l'interopérabilité du système ferroviaire transeuropéen à grande vitesse; 
+e) «exigences essentielles»: l'ensemble des conditions décrites à l'annexe III auxquelles doivent satisfaire le système ferroviaire transeuropéen à grande vitesse, les sous-systèmes et les constituants d'interopérabilité; 
+f) «spécification européenne»: une spécification technique commune, un agrément technique européen ou une norme nationale transposant une norme européenne, tels que définis à l'article 1er points 8 à 12 de la directive 93/38/CEE; 
+g) «spécifications techniques d'interopérabilité», ci-après dénommées «STI»: les spécifications dont chaque sous-système fait l'objet en vue de satisfaire aux exigences essentielles en établissant des relations fonctionnelles réciproques nécessaires entre les sous-systèmes du système ferroviaire transeuropéen à grande vitesse et en assurant la cohérence de celui-ci; 
+h) «organisme commun représentatif»: l'organisme réunissant des représentants des gestionnaires de l'infrastructure, des entreprises ferroviaires et de l'industrie, chargé d'élaborer les STI. On entend par «gestionnaires de l'infrastructure» ceux visés aux articles 3 et 7 de la directive 91/440/CEE; 
+i) «organismes notifiés»: les organismes chargés d'évaluer la conformité ou l'aptitude à l'emploi des constituants d'interopérabilité ou d'instruire la procédure de vérification «CE» des sous-systèmes. 
+Article 3 
+1. La présente directive concerne les dispositions relatives, pour chaque sous-système, aux paramètres, aux constituants d'interopérabilité, aux interfaces et aux procédures, ainsi que les conditions de cohérence globale du système ferroviaire transeuropéen à grande vitesse requises pour réaliser son interopérabilité. 
+2. Les dispositions de la présente directive s'appliquent sans préjudice d'autres dispositions communautaires pertinentes. Toutefois, dans le cas des constituants d'interopérabilité, la satisfaction des exigences essentielles de la présente directive peut nécessiter de recourir à des spécifications européennes particulières établies à cet effet. 
+Article 4 
+1. Le système ferroviaire transeuropéen à grande vitesse, les sous-systèmes et les constituants d'interopérabilité doivent satisfaire aux exigences essentielles les concernant. 
+2. Les spécifications techniques supplémentaires, visées à l'article 18 paragraphe 4 de la directive 93/38/CEE, et qui sont nécessaires pour compléter les spécifications européennes ou les autres normes, en usage dans la Communauté, ne doivent pas être contraires aux exigences essentielles. 
+CHAPITRE II 
+Spécifications techniques d'interopérabilité 
+Article 5 
+1. Chaque sous-système fait l'objet d'une STI. Pour les sous-systèmes concernant l'environnement, l'exploitation ou les usagers, des STI ne seront élaborées que dans la mesure où cela s'avérerait nécessaire pour assurer l'interopérabilité du système ferroviaire transeuropéen à grande vitesse dans les domaines des infrastructures, de l'énergie, du contrôle-commande et de la signalisation ainsi que du matériel roulant. 
+2. Les sous-systèmes doivent être conformes aux STI; cette conformité doit être maintenue en permanence au cours de l'usage de chaque sous-système. 
+3. Les STI, pour autant que nécessaire, dans le but de réaliser l'interopérabilité du système ferroviaire transeuropéen à grande vitesse: 
+a) précisent les exigences essentielles pour les sous-systèmes et leurs interfaces; 
+b) fixent les paramètres fondamentaux, décrits à l'annexe II point 3, qui sont nécessaires à la satisfaction des exigences essentielles; 
+c) fixent les conditions à respecter pour accomplir les performances spécifiées pour chacune des catégories de lignes suivantes: 
+- lignes spécialement construites pour la grande vitesse, 
+- lignes spécialement aménagées pour la grande vitesse, 
+- lignes spécialement aménagées pour la grande vitesse ayant des caractéristiques spécifiques en raison de contraintes topographiques, de relief ou d'environnement urbain; 
+d) fixent les modalités éventuelles d'application dans certains cas spécifiques; 
+e) déterminent les constituants d'interopérabilité et les interfaces qui doivent faire l'objet de spécifications européennes, dont les normes européennes, qui sont nécessaires pour réaliser l'interopérabilité du système ferroviaire transeuropéen à grande vitesse dans le respect des exigences essentielles; 
+f) indiquent, dans chaque cas envisagé, les modules, définis dans la décision 93/465/CEE ou, le cas échéant, les procédures spécifiques, qui doivent être utilisés pour évaluer soit la conformité, soit l'aptitude à l'emploi des constituants d'interopérabilité, ainsi que la vérification «CE» des sous-systèmes. 
+4. Les STI ne font pas obstacle aux décisions des États membres relatives à l'utilisation des infrastructures nouvelles ou aménagées pour la circulation d'autres trains. 
+5. Le respect de l'ensemble des STI permet de constituer un système ferroviaire transeuropéen à grande vitesse cohérent, qui préservera, de façon appropriée, la cohérence du réseau ferroviaire existant de chaque État membre. 
+Article 6 
+1. Les projets de STI sont élaborés sur mandat de la Commission, déterminé selon la procédure prévue à l'article 21 paragraphe 2, par l'organisme commun représentatif. Les STI sont adoptées et révisées selon la même procédure. Elles sont publiées par la Commission au Journal officiel des Communautés européennes. 
+2. L'organisme commun représentatif est chargé de préparer la révision et la mise à jour des STI et de faire toute recommandation utile au comité visé à l'article 21, afin de tenir compte de l'évolution des techniques ou des exigences sociales. 
+3. L'élaboration, l'adoption et la révision des STI prennent en compte le coût prévisible des solutions techniques permettant de les satisfaire, en vue de définir et de mettre en oeuvre les solutions les plus rentables. À cette fin, l'organisme commun représentatif joint à chaque projet de STI une évaluation des coûts et des avantages prévisibles de ces solutions techniques pour tous les opérateurs et agents économiques concernés. 
+4. Le comité visé à l'article 21 est tenu régulièrement informé des travaux d'élaboration des STI par l'organisme commun représentatif. Le comité peut formuler à son égard tout mandat ou toute recommandation utile concernant la conception des STI, sur la base des exigences essentielles, ainsi que sur l'évaluation des coûts. 
+5. Lors de l'adoption de chaque STI, la date d'entrée en vigueur de cette STI est fixée selon la procédure prévue à l'article 21 paragraphe 2. 
+6. L'organisme commun représentatif doit oeuvrer d'une manière ouverte et transparente en conformité avec les procédures communautaires générales de normalisation. 
+Article 7 
+Un État membre peut ne pas appliquer certaines STI, y compris celles relatives au matériel roulant, dans les cas et conditions suivants: 
+a) pour un projet de ligne nouvelle ou d'aménagement de ligne existante en vue de la grande vitesse se trouvant à un stade avancé de développement lors de la publication de ces STI. 
+L'État membre concerné notifie préalablement son intention de dérogation à la Commission, l'informe de l'état d'avancement du projet et lui communique un dossier présentant les STI ou les parties STI qu'il souhaite ne pas voir appliquées, les dispositions qu'il compte mettre en oeuvre dans la réalisation du projet pour favoriser son interopérabilité à terme, et les raisons techniques, administratives ou économiques qui justifient cette dérogation; 
+b) pour un projet d'aménagement de ligne existante en vue de la grande vitesse, lorsque le gabarit, l'écartement ou l'entraxe des voies de cette ligne ont des valeurs différentes de celles existant sur la majeure partie du réseau ferroviaire européen et lorsque cette ligne ne constitue pas une connexion directe avec le réseau à grande vitesse d'un autre État membre faisant partie du réseau transeuropéen à grande vitesse. 
+L'État membre concerné notifie préalablement son intention de dérogation à la Commission et lui communique un dossier présentant les STI ou les parties de STI concernant le (ou les) paramètre(s) physique(s) mentionné(s) au premier alinéa qu'il souhaite ne pas voir appliquées, les dispositions qu'il compte mettre en oeuvre dans la réalisation du projet pour favoriser son interopérabilité à terme, les mesures transitoires permettant d'assurer une compatibilité d'exploitation et les raisons techniques, administratives ou économiques qui justifient cette dérogation; 
+c) pour les projets de lignes nouvelles ou d'aménagement de lignes existantes en vue de la grande vitesse réalisés sur le territoire de cet État membre lorsque le réseau ferroviaire de celui-ci est enclavé ou isolé par la mer du réseau ferroviaire à grande vitesse du reste de la Communauté. 
+L'État membre concerné notifie préalablement son intention de dérogation à la Commission et lui communique un dossier contenant les pièces prévues au point b) deuxième alinéa; 
+d) pour un projet d'aménagement de ligne existante en vue de la grande vitesse lorsque l'application de ces STI compromet la viabilité économique du projet. 
+L'État membre concerné notifie préalablement son intention de dérogation à la Commission et lui communique un dossier présentant les STI ou les parties de STI qu'il souhaite ne pas voir appliquées. La Commission examine si les mesures envisagées par l'État membre sont justifiées et prend une décision selon la procédure prévue à l'article 21 paragraphe 2. 
+CHAPITRE III 
+Constituants d'interopérabilité 
+Article 8 
+Les États membres prennent toutes les mesures utiles pour que les constituants d'interopérabilité: 
+- ne soient mis sur le marché que s'ils permettent de réaliser l'interopérabilité du système ferroviaire transeuropéen à grande vitesse en satisfaisant aux exigences essentielles, 
+- soient utilisés dans leur domaine d'emploi conformément à leur destination et soient installés et entretenus convenablement. 
+Ces dispositions ne font pas obstacle à la mise sur le marché de ces constituants pour d'autres applications, ni à leur utilisation pour les lignes ferroviaires conventionnelles. 
+Article 9 
+Les États membres ne peuvent pas, sur leur territoire et aux motifs de la présente directive, interdire, restreindre ou entraver la mise sur le marché des constituants d'interopérabilité pour leur utilisation sur le système ferroviaire transeuropéen à grande vitesse lorsqu'ils satisfont aux dispositions de la directive. 
+Article 10 
+1. Les États membres considèrent comme conformes aux exigences essentielles prévues par la présente directive les concernant les constituants d'interopérabilité qui sont munis de la déclaration «CE» de conformité ou d'aptitude à l'emploi, dont les éléments sont donnés à l'annexe IV. 
+2. La conformité d'un constituant d'interopérabilité aux exigences essentielles qui le concernent est établie par rapport aux spécifications européennes pertinentes lorsqu'elles existent. 
+3. Les références des spécifications européennes font l'objet d'une publication au Journal officiel des Communautés européennes. 
+4. Les États membres publient les références des normes nationales transposant les normes européennes. 
+5. En l'absence de spécifications européennes et sans préjudice de l'article 20 paragraphe 5, les États membres communiquent aux autres États membres et à la Commission les normes et les spécifications techniques en usage pour l'application des exigences essentielles. 
+Article 11 
+Lorsqu'il apparaît à un État membre ou à la Commission que des spécifications européennes ne satisfont pas aux exigences essentielles, le retrait partiel ou total de ces spécifications des publications où elles sont inscrites, ou leur amendement, peut être décidé selon la procédure prévue à l'article 21 paragraphe 2, après consultation du comité institué par la directive 83/189/CEE du Conseil, du 28 mars 1983, prévoyant une procédure d'information dans le domaine des normes et réglementations techniques (10) lorsqu'il s'agit de normes européennes. 
+Article 12 
+1. Lorsqu'un État membre constate qu'un constituant d'interopérabilité, muni de la déclaration «CE» de conformité ou d'aptitude à l'emploi, mis sur le marché et utilisé conformément à sa destination risque de compromettre la satisfaction des exigences essentielles, il prend toutes les mesures utiles pour restreindre son domaine d'application ou pour en interdire l'emploi ou pour le retirer du marché. L'État membre informe immédiatement la Commission des mesures prises et indique les raisons de sa décision, en précisant notamment si la non-conformité résulte: 
+- d'un non-respect des exigences essentielles, 
+- d'une mauvaise application des spécifications européennes pour autant que l'application de ces spécifications soit invoquée, 
+- d'une insuffisance des spécifications européennes. 
+2. La Commission entre en consultation avec les parties concernées dans les plus brefs délais. Lorsque la Commission constate, après cette consultation, que la mesure est justifiée, elle en informe immédiatement l'État membre qui a pris l'initiative ainsi que les autres États membres. Lorsque la Commission constate, après cette consultation, que la mesure est injustifiée, elle en informe immédiatement l'État membre qui a pris l'initiative ainsi que le fabricant ou son mandataire établi dans la Communauté. Lorsque la décision visée au paragraphe 1 est motivée par l'existence d'une lacune dans les spécifications européennes, il est fait application de la procédure définie à l'article 11. 
+3. Lorsqu'un constituant d'interopérabilité muni de la déclaration «CE» de conformité se révèle non conforme, l'État membre compétent prend, à l'encontre de celui qui a établi la déclaration, les mesures appropriées et en informe la Commission et les autres États membres. 
+4. La Commission s'assure que les États membres sont tenus informés du déroulement et des résultats de cette procédure. 
+Article 13 
+1. Pour établir la déclaration «CE» de conformité ou d'aptitude à l'emploi d'un constituant d'interopérabilité, le fabricant ou son mandataire établi dans la Communauté doit appliquer les dispositions prévues par les STI le concernant. 
+2. Lorsque les STI l'imposent, l'évaluation de la conformité ou de l'aptitude à l'emploi d'un constituant d'interopérabilité est instruite par l'organisme notifié auquel le fabricant ou son mandataire établi dans la Communauté en a fait la demande. 
+3. Lorsque des constituants d'interopérabilité font l'objet d'autres directives communautaires portant sur d'autres aspects, la déclaration «CE» de conformité ou d'aptitude à l'emploi indique, dans ce cas, que les constituants d'interopérabilité répondent également aux exigences de ces autres directives. 
+4. Lorsque ni le fabricant, ni son mandataire établi dans la Communauté n'ont satisfait aux obligations des paragraphes 1, 2 et 3, ces obligations incombent à toute personne qui met sur le marché le constituant d'interopérabilité. Les mêmes obligations s'appliquent à celui qui assemble des constituants d'interopérabilité ou une partie des constituants d'interopérabilité d'origines diverses ou qui fabrique les constituants d'interopérabilité pour son propre usage, en ce qui concerne la présente directive. 
+5. Sans préjudice des dispositions de l'article 12: 
+a) tout constat par un État membre de l'établissement indu de la déclaration «CE» de conformité entraîne pour le fabricant ou son mandataire établi dans la Communauté l'obligation de remettre le constituant d'interopérabilité en conformité et de faire cesser l'infraction dans les conditions fixées par cet État membre; 
+b) dans le cas où la non-conformité persiste, l'État membre doit prendre toutes les mesures appropriées pour restreindre ou interdire la mise sur le marché du constituant d'interopérabilité concerné ou assurer son retrait du marché selon les procédures prévues à l'article 12. 
+CHAPITRE IV 
+Sous-systèmes 
+Article 14 
+Il appartient à chaque État membre d'autoriser la mise en service des sous-systèmes de nature structurelle constitutifs du système ferroviaire transeuropéen à grande vitesse qui sont implantés sur son territoire ou exploités par les entreprises ferroviaires qui y sont établies. 
+À cette fin, les États membres prennent toutes les mesures utiles pour que ces sous-systèmes ne puissent être mis en service que s'ils sont conçus, construits et installés et/ou exploités de façon à ne pas compromettre la satisfaction des exigences essentielles les concernant, lorsqu'ils sont intégrés dans le système ferroviaire transeuropéen à grande vitesse. 
+Article 15 
+Sans préjudice des dispositions de l'article 19, les États membres ne peuvent pas, sur leur territoire et pour des motifs concernant la présente directive, interdire, restreindre ou entraver la construction, la mise en service et l'exploitation de sous-systèmes de nature structurelle constitutifs du système ferroviaire transeuropéen à grande vitesse qui satisfont aux exigences essentielles. 
+Article 16 
+1. Les États membres considèrent comme interopérables et conformes aux exigences essentielles les concernant, les sous-systèmes de nature structurelle constitutifs du système ferroviaire transeuropéen à grande vitesse qui sont munis de la déclaration «CE» de vérification. 
+2. La vérification de l'interopérabilité, dans le respect des exigences essentielles, d'un sous-système de nature structurelle constitutif du système ferroviaire transeuropéen à grande vitesse, est établie par référence aux STI lorsqu'elles existent. 
+3. En l'absence de STI, les États membres communiquent aux autres États membres et à la Commission la liste des règles techniques en usage pour l'application des exigences essentielles. 
+Article 17 
+S'il apparaît que les STI ne satisfont pas entièrement aux exigences essentielles, le comité visé à l'article 21 peut être saisi à la demande d'un État membre ou à l'initiative de la Commission. 
+Article 18 
+1. En vue d'établir la déclaration «CE» de vérification, l'entité adjudicatrice ou son mandataire fait instruire la procédure de vérification «CE» par l'organisme notifié qu'elle a choisi à cet effet. 
+2. La mission de l'organisme notifié, chargé de la vérification «CE» d'un sous-système, commence au stade du projet et couvre toute la période de construction jusqu'au stade de la réception avant la mise en service du sous-système. 
+3. L'organisme notifié est responsable de la constitution du dossier technique devant accompagner la déclaration «CE» de vérification. Ce dossier technique doit contenir tous les documents nécessaires relatifs aux caractéristiques du sous-système ainsi que, le cas échéant, toutes les pièces attestant la conformité des constituants d'interopérabilité. Il doit aussi contenir tous les éléments relatifs aux conditions et limites d'utilisation, aux consignes d'entretien, de surveillance continue ou périodique, de réglage et de maintenance. 
+Article 19 
+1. Lorsqu'un État membre constate qu'un sous-système de nature structurelle, muni de la déclaration «CE» de vérification accompagnée du dossier technique, ne satisfait pas entièrement aux dispositions de la présente directive et notamment aux exigences essentielles, il peut demander que des vérifications complémentaires soient réalisées. 
+2. L'État membre à l'origine de la demande informe immédiatement la Commission des vérifications complémentaires demandées en exposant les raisons qui les justifient. La Commission engage sans délai la procédure prévue à l'article 21 paragraphe 2. 
+CHAPITRE V 
+Organismes notifiés 
+Article 20 
+1. Les États membres notifient à la Commission et aux autres États membres les organismes chargés d'effectuer la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi visée à l'article 13 et la procédure de vérification visée à l'article 18, en indiquant pour chacun d'eux le domaine de compétence. 
+La Commission leur attribue des numéros d'identification. La Commission publie au Journal officiel des Communautés européennes la liste de ces organismes avec leur numéro d'identification ainsi que leurs domaines de compétences et en assure la mise à jour. 
+2. Les États membres doivent appliquer les critères prévus à l'annexe VII pour l'évaluation des organismes à notifier. Les organismes qui satisfont aux critères d'évaluation prévus dans les normes européennes pertinentes sont présumés répondre auxdits critères. 
+3. Un État membre retire son agrément à un organisme qui ne satisfait plus aux critères visés à l'annexe VII. Il en informe immédiatement la Commission et les autres États membres. 
+4. Si un État membre ou la Commission estime qu'un organisme notifié par un autre État membre ne satisfait pas aux critères pertinents, le comité prévu à l'article 21 est saisi de la question et émet son avis dans un délai de trois mois; à la lumière de l'avis du comité, la Commission informe l'État membre concerné de toutes les modifications qui sont nécessaires pour que l'organisme notifié puisse conserver le statut qui lui a été reconnu. 
+5. Le cas échéant, la coordination des organismes notifiés est mise en oeuvre conformément à l'article 21 paragraphe 4. 
+CHAPITRE VI 
+Comité 
+Article 21 
+1. La Commission est assistée par un comité composé des représentants des États membres et présidé par le représentant de la Commission. 
+2. Le représentant de la Commission soumet au comité un projet des mesures à prendre. Le comité émet son avis sur ce projet dans un délai que le président peut fixer en fonction de l'urgence de la question en cause. L'avis est émis à la majorité prévue à l'article 148 paragraphe 2 du traité pour l'adoption des décisions que le Conseil est appelé à prendre sur proposition de la Commission. Lors des votes au sein du comité, les voix des représentants des États membres sont affectées de la pondération définie à l'article précité. Le président ne prend pas part au vote. 
+La Commission arrête les mesures envisagées lorsqu'elles sont conformes à l'avis du comité. 
+Lorsque les mesures envisagées ne sont pas conformes à l'avis du comité, ou en l'absence d'avis, la Commission soumet sans tarder au Conseil une proposition relative aux mesures à prendre. Le Conseil statue à la majorité qualifiée. 
+Si, à l'expiration d'un délai de trois mois à compter de la saisine du Conseil, celui-ci n'a pas statué, les mesures proposées sont arrêtées par la Commission, sauf dans le cas où le Conseil s'est prononcé à la majorité simple contre lesdites mesures. 
+3. Le comité peut discuter toute question relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse. 
+4. Le comité peut, le cas échéant, créer des groupes de travail pour l'aider dans l'accomplissement de ses tâches, notamment en vue d'assurer la coordination des organismes notifiés. 
+5. Le comité est constitué dès l'entrée en vigueur de la présente directive. 
+CHAPITRE VII 
+Dispositions finales 
+Article 22 
+Toute décision prise en application de la présente directive et concernant l'évaluation de la conformité ou de l'aptitude à l'emploi de constituants d'interopérabilité, la vérification de sous-systèmes constituant le système ferroviaire transeuropéen à grande vitesse ainsi que les décisions prises en application des articles 11, 12, 17 et 19 est motivée de façon précise. Elle est notifiée à l'intéressé dans les meilleurs délais, avec l'indication des voies de recours ouvertes par la législation en vigueur dans l'État membre concerné et des délais dans lesquels ces recours doivent être introduits. 
+Article 23 
+1. Les États membres modifient et adoptent leurs dispositions législatives, réglementaires et administratives de manière à autoriser l'utilisation des constituants d'interopérabilité et la mise en service et l'exploitation des sous-systèmes conformes à la présente directive au plus tard trente mois après l'entrée en vigueur de cette directive. Ils en informent immédiatement la Commission. 
+2. Lorsque les États membres adoptent les dispositions visées au paragraphe 1, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres. 
+Article 24 
+Tous les deux ans, la Commission fait rapport au Parlement européen et au Conseil sur les progrès réalisés dans la voie de l'interopérabilité du système ferroviaire transeuropéen à grande vitesse. 
+Article 25 
+La présente directive entre en vigueur le vingt et unième jour suivant celui de sa publication au Journal officiel des Communautés européennes. 
+Article 26 
+Les États membres sont destinataires de la présente directive. 
+Fait à Bruxelles, le 23 juillet 1996. 
+Par le Conseil 
+Le président 
+I. YATES 
+(1) JO n° C 134 du 17. 5. 1994, p. 6. 
+(2) JO n° C 397 du 31. 12. 1994, p. 8. 
+(3) JO n° C 210 du 14. 8. 1995, p. 38. 
+(4) Avis du Parlement européen du 19 janvier 1995 (JO n° C 43 du 20. 2. 1995, p. 60), position commune du Conseil du 8 décembre 1995 (JO n° C 356 du 30. 12. 1995, p. 43) et décision du Parlement européen du 16 avril 1996 (JO n° C 141 du 13. 5. 1996, p. 48). 
+(5) JO n° C 33 du 8. 2. 1991, p. 1. 
+(6) JO n° L 237 du 24. 8. 1991, p. 25. 
+(7) JO n° L 175 du 5. 7. 1985, p. 40. 
+(8) Directive 93/38/CEE du Conseil, du 14 juin 1993, portant coordination des procédures de passation des marchés dans les secteurs de l'eau, de l'énergie, des transports et des télécommunications (JO n° L 199 du 9. 8. 1993, p. 84), telle que modifiée par l'acte d'adhésion de 1994. 
+(9) Décision 93/465/CEE du Conseil, du 22 juillet 1993, concernant les modules relatifs aux différentes phases des procédures d'évaluation de la conformité et les règles d'apposition et d'utilisation du marquage «CE» de conformité, destinés à être utilisés dans les directives d'harmonisation technique (JO n° L 220 du 30. 8. 1993, p. 23). 
+(10) JO n° L 109 du 26. 4. 1983, p. 8. Directive telle que modifiée en dernier lieu par l'acte d'adhésion de 1994. 
+ANNEXE I 
+LE SYSTÈME FERROVIAIRE TRANSEUROPÉEN À GRANDE VITESSE 
+1. Les infrastructures 
+a) Les infrastructures du système ferroviaire transeuropéen à grande vitesse sont celles des lignes du réseau transeuropéen de transport identifiées dans le cadre des orientations visées à l'article 129 C du traité: 
+- qui sont spécialement construites pour être parcourues à grande vitesse, 
+- qui sont spécialement aménagées pour être parcourues à grande vitesse. 
+Elles peuvent inclure des lignes de maillage et de raccordement, en particulier des jonctions de lignes nouvelles ou aménagées pour la grande vitesse avec les gares des centres-villes, et pour lesquelles les vitesses doivent tenir compte des conditions locales. 
+b) Les lignes à grande vitesse comprennent: 
+- les lignes spécialement construites pour la grande vitesse, équipées pour des vitesses généralement égales ou supérieures à 250 km/h, 
+- les lignes spécialement aménagées pour la grande vitesse, équipées pour des vitesses de l'ordre de 200 km/h, 
+- les lignes spécialement aménagées pour la grande vitesse à caractère spécifique en raison de contraintes topographiques, de relief ou d'environnement urbain, dont la vitesse doit être adaptée cas par cas. 
+2. Le matériel roulant 
+Les trains à grande vitesse de technologie avancée doivent être conçus pour garantir une circulation sûre et sans rupture: 
+- à une vitesse d'au moins 250 km/h sur les lignes spécialement construites pour la grande vitesse, tout en permettant dans des circonstances appropriées d'atteindre des vitesses dépassant 300 km/h, 
+- à une vitesse de l'ordre de 200 km/h sur les lignes existantes spécialement aménagées, 
+- à la vitesse la plus élevée possible sur les autres lignes. 
+3. Cohérence des infrastructures et du matériel roulant 
+Les services de trains à grande vitesse supposent qu'une excellente cohérence existe entre les caractéristiques de l'infrastructure et celles du matériel roulant. De cette cohérence dépendent le niveau des performances, la sécurité, la qualité des services et leur coût. 
+ANNEXE II 
+SOUS-SYSTÈMES 
+1. Pour les besoins de la présente directive, le système constituant le système ferroviaire transeuropéen à grande vitesse peut être subdivisé en sous-systèmes, correspondant: 
+1.1. soit à des domaines de nature structurelle: 
+- infrastructures 
+- énergie 
+- contrôle-commande et signalisation 
+- matériel roulant 
+1.2. soit à des domaines de nature fonctionnelle: 
+- maintenance 
+- environnement 
+- exploitation 
+- usagers 
+2. Pour chacun des sous-systèmes, la liste des aspects liés à l'interopérabilité est identifiée dans les mandats confiés à l'organisme commun représentatif pour l'élaboration des projets de STI. 
+Suivant les dispositions de l'article 6 paragraphe 1, ces mandats sont déterminés conformément à la procédure prévue à l'article 21 paragraphe 2. 
+Le cas échéant, la liste des aspects liés à l'interopérabilité identifiés dans les mandats est précisée par l'organisme commun représentatif conformément aux dispositions de l'article 5 paragraphe 3 point c). 
+3. Au sens de l'article 5 paragraphe 3 point b), sont notamment considérés comme des paramètres fondamentaux pour la réalisation de l'interopérabilité les éléments suivants: 
+PARAMÈTRES FONDAMENTAUX 
+- Gabarit minimal des infrastructures 
+- Rayon de courbure minimal 
+- Écartement des rails 
+- Efforts maximaux à la voie 
+- Longueur minimale des quais 
+- Hauteur des quais 
+- Tension d'alimentation 
+- Géométrie des caténaires 
+- Caractéristiques de l'ERTMS (1*) 
+- Charge à l'essieu 
+- Longueur maximale des trains 
+- Gabarit du matériel roulant 
+- Caractéristiques minimales de freinage 
+- Caractéristiques électriques limites du matériel roulant 
+- Caractéristiques mécaniques limites du matériel roulant 
+- Caractéristiques de l'exploitation liées à la sécurité des trains 
+- Caractéristiques limites liées aux bruits extérieurs 
+- Caractéristiques limites liées aux vibrations extérieures 
+- Caractéristiques limites liées aux perturbations électromagnétiques extérieures 
+- Caractéristiques limites liées aux bruits intérieurs 
+- Caractéristiques limites liées au conditionnement d'air 
+- Caractéristiques liées au transport des personnes handicapées 
+(1*) European Rail Traffic Management System. 
+ANNEXE III 
+EXIGENCES ESSENTIELLES 
+1. Exigences de portée générale 
+1.1. Sécurité 
+1.1.1. La conception, la construction ou la fabrication, la maintenance et la surveillance des composants critiques pour la sécurité et, plus particulièrement, des éléments participant à la circulation des trains doivent garantir la sécurité au niveau correspondant aux objectifs fixés sur le réseau, y compris dans les situations dégradées spécifiées. 
+1.1.2. Les paramètres intervenant dans le contact roue-rail doivent respecter les critères de stabilité de roulement nécessaires pour garantir une circulation en toute sécurité à la vitesse maximale autorisée. 
+1.1.3. Les composants utilisés doivent résister aux sollicitations normales ou exceptionnelles spécifiées pendant leur durée de service. Leurs défaillances fortuites doivent être limitées dans leurs conséquences sur la sécurité par des moyens appropriés. 
+1.1.4. La conception des installations fixes et des matériels roulants ainsi que le choix des matériaux utilisés doivent viser à limiter la production, la propagation et les effets du feu et des fumées en cas d'incendie. 
+1.1.5. Les dispositifs destinés à être manoeuvrés par les usagers doivent être conçus de façon à ne pas compromettre leur sécurité en cas d'utilisation prévisible non conforme aux instructions affichées. 
+1.2. Fiabilité et disponibilité 
+La surveillance et la maintenance des éléments fixes ou mobiles participant à la circulation des trains doivent être organisées, menées et quantifiées de manière à maintenir leur fonction dans les conditions prévues. 
+1.3. Santé 
+1.3.1. Les matériaux susceptibles, dans leur mode d'utilisation, de mettre en danger la santé des personnes y ayant accès ne doivent pas être utilisés dans les trains et les infrastructures ferroviaires. 
+1.3.2. Le choix, la mise en oeuvre et l'utilisation de ces matériaux doivent viser à limiter l'émission de fumées ou de gaz nocifs et dangereux, notamment en cas d'incendie. 
+1.4. Protection de l'environnement 
+1.4.1. Les incidences sur l'environnement de l'implantation et de l'exploitation du système ferroviaire transeuropéen à grande vitesse doivent être évaluées et prises en compte lors de la conception de ce système selon les dispositions communautaires en vigueur. 
+1.4.2. Les matériaux utilisés dans les trains et dans les infrastructures doivent éviter l'émission de fumées ou de gaz nocifs et dangereux pour l'environnement, notamment en cas d'incendie. 
+1.4.3. Les matériels roulants et les systèmes d'alimentation en énergie doivent être conçus et réalisés pour être compatibles, en matière électromagnétique, avec les installations, les équipements et les réseaux publics ou privés avec lesquels ils risquent d'interférer. 
+1.5. Compatibilité technique 
+Les caractéristiques techniques des infrastructures et des installations fixes doivent être compatibles entre elles et avec celles des trains appelés à circuler sur le système ferroviaire transeuropéen à grande vitesse. 
+Lorsque le respect de ces caractéristiques se révèle difficile dans certaines parties du réseau, des solutions temporaires, garantissant la compatibilité future, pourraient être mises en oeuvre. 
+2. Exigences particulières à chaque sous-système 
+2.1. Infrastructures 
+2.1.1. Sécurité 
+Des dispositions adaptées doivent être prises pour éviter l'accès ou les intrusions indésirables dans les installations des lignes parcourues à grande vitesse. 
+Des dispositions doivent être prises pour limiter les dangers encourus par les personnes, notamment lors du passage dans les gares des trains circulant à grande vitesse. 
+Les infrastructures auxquelles le public a accès doivent être conçues et réalisées de manière à limiter les risques pour la sécurité des personnes (stabilité, incendie, accès, évacuation, quai, etc.). 
+Des dispositions appropriées doivent être prévues pour prendre en compte les conditions particulières de sécurité dans les tunnels de grande longueur. 
+2.2. Énergie 
+2.2.1. Sécurité 
+Le fonctionnement des installations d'alimentation en énergie ne doit compromettre la sécurité ni des trains à grande vitesse, ni des personnes (usagers, personnel d'exploitation, riverains et tiers). 
+2.2.2. Protection de l'environnement 
+Le fonctionnement des installations d'alimentation en énergie ne doit pas perturber l'environnement au-delà des limites spécifiées. 
+2.2.3. Compatibilité technique 
+Les systèmes d'alimentation en énergie électrique utilisés sur le système ferroviaire transeuropéen à grande vitesse doivent: 
+- permettre aux trains de réaliser les performances spécifiées, 
+- être compatibles avec les dispositifs de captage installés sur les trains. 
+2.3. Contrôle-commande et signalisation 
+2.3.1. Sécurité 
+Les installations et les opérations de contrôle-commande et de signalisation utilisées pour le système ferroviaire transeuropéen à grande vitesse doivent permettre une circulation des trains présentant le niveau de sécurité correspondant aux objectifs fixés sur le réseau. 
+2.3.2. Compatibilité technique 
+Toute nouvelle infrastructure à grande vitesse et tout nouveau matériel roulant à grande vitesse construits ou développés après l'adoption de systèmes de contrôle-commande et de signalisation compatibles doivent être adaptés à l'utilisation de ces systèmes. 
+Les équipements de contrôle-commande et de signalisation installés au sein des postes de conduite des trains doivent permettre une exploitation normale, dans les conditions spécifiées, sur le système ferroviaire transeuropéen à grande vitesse. 
+2.4. Matériel roulant 
+2.4.1. Sécurité 
+Les structures des matériels roulants et des liaisons entre les véhicules doivent être conçues de manière à protéger les espaces où se trouvent les passagers et les espaces de conduite en cas de collision ou de déraillement. 
+Les équipements électriques ne doivent pas compromettre la sécurité de fonctionnement des installations de contrôle-commande et de signalisation. 
+Les techniques de freinage ainsi que les efforts exercés doivent être compatibles avec la conception des voies, des ouvrages d'art et des systèmes de signalisation. 
+Des dispositions doivent être prises en matière d'accès aux constituants sous tension pour ne pas mettre en danger la sécurité des personnes. 
+En cas de danger, des dispositifs doivent permettre aux passagers d'avertir le conducteur et au personnel d'accompagnement d'entrer en contact avec celui-ci. 
+Les portes d'accès doivent être dotées d'un système de fermeture et d'ouverture qui garantisse la sécurité des passagers. 
+Des issues de secours doivent être prévues et signalées. 
+Des dispositions appropriées doivent être prévues pour prendre en compte les conditions particulières de sécurité dans les tunnels de grande longueur. 
+Un système d'éclairage de secours d'une intensité et d'une autonomie suffisantes est obligatoire à bord des trains. 
+Les trains doivent être équipés d'un système de sonorisation permettant la transmission de messages aux passagers par le personnel de bord et de contrôle au sol. 
+2.4.2. Fiabilité et disponibilité 
+La conception des équipements vitaux, de roulement, de traction et de freinage ainsi que de contrôle-commande, doit permettre, en situation dégradée spécifiée, la poursuite de la mission du train sans conséquences néfastes pour les équipements restant en service. 
+2.4.3. Compatibilité technique 
+Les équipements électriques doivent être compatibles avec le fonctionnement des installations de contrôle-commande et de signalisation. 
+Les caractéristiques des dispositifs de captage de courant doivent permettre la circulation des trains sous les systèmes d'alimentation en énergie du système ferroviaire transeuropéen à grande vitesse. 
+Les caractéristiques du matériel roulant doivent lui permettre de circuler sur toutes les lignes sur lesquelles son exploitation est prévue. 
+2.5. Maintenance 
+2.5.1. Santé 
+Les installations techniques et les procédés utilisés dans les centres de maintenance ne doivent pas porter atteinte à la santé des personnes. 
+2.5.2. Protection de l'environnement 
+Les installations techniques et les procédés utilisés dans les centres de maintenance ne doivent pas dépasser les niveaux de nuisance admissibles pour le milieu environnant. 
+2.5.3. Compatibilité technique 
+Les installations de maintenance traitant les trains à grande vitesse doivent permettre d'effectuer les opérations de sécurité, d'hygiène et de confort sur tous les trains pour lesquelles elles ont été conçues. 
+2.6. Environnement 
+2.6.1. Santé 
+L'exploitation du système ferroviaire transeuropéen à grande vitesse doit respecter les niveaux réglementaires en matière de nuisances sonores. 
+2.6.2. Protection de l'environnement 
+L'exploitation du système ferroviaire transeuropéen à grande vitesse ne doit pas être à l'origine, dans le sol, d'un niveau de vibrations inadmissible pour les activités et le milieu traversé proches de l'infrastructure et en état normal d'entretien. 
+2.7. Exploitation 
+2.7.1. Sécurité 
+La mise en cohérence des règles d'exploitation des réseaux ainsi que la qualification des conducteurs et du personnel de bord doivent garantir une exploitation internationale sûre. 
+Les opérations et périodicités d'entretien, la formation et la qualification du personnel d'entretien ainsi que le système d'assurance qualité mis en place dans les centres de maintenance des opérateurs concernés doivent garantir un haut niveau de sécurité. 
+2.7.2. Fiabilité et disponibilité 
+Les opérations et périodicités d'entretien, la formation et la qualification du personnel d'entretien et le système d'assurance qualité mis en place par les exploitants concernés dans les centres de maintenance doivent garantir un haut niveau de fiabilité et de disponibilité du système. 
+2.7.3. Compatibilité technique 
+La mise en cohérence des règles d'exploitation des réseaux ainsi que la qualification des conducteurs, du personnel de bord et du personnel chargé de la gestion de la circulation doivent garantir l'efficacité de l'exploitation sur le système ferroviaire transeuropéen à grande vitesse. 
+ANNEXE IV 
+CONSTITUANTS D'INTEROPÉRABILITÉ 
+Déclaration «CE» - de conformité - d'aptitude à l'emploi 
+1. Constituants d'interopérabilité 
+La déclaration «CE» s'applique aux constituants d'interopérabilité concernés par l'interopérabilité du système ferroviaire transeuropéen à grande vitesse, visés à l'article 3. Ces constituants d'interopérabilité peuvent être: 
+1.1. Des constituants banalisés 
+Ce sont les constituants qui ne sont pas propres au système ferroviaire et qui peuvent être utilisés tels quels dans d'autres domaines. 
+1.2. Des constituants banalisés avec des caractéristiques spécifiques 
+Ce sont les constituants qui ne sont pas en tant que tels propres au système ferroviaire mais qui doivent démontrer des performances spécifiques lorsqu'ils sont utilisés dans le domaine ferroviaire. 
+1.3. Des constituants spécifiques 
+Ce sont les constituants qui sont propres aux applications ferroviaires. 
+2. Domaine d'application 
+La déclaration «CE» concerne: 
+- soit l'évaluation, par un (des) organisme(s) notifié(s), de la conformité intrinsèque d'un constituant d'interopérabilité, considéré isolément, aux spécifications techniques qu'il doit respecter, 
+- soit l'évaluation/appréciation, par un (des) organisme(s) notifié(s), de l'aptitude à l'emploi d'un constituant d'interopérabilité, considéré dans son environnement ferroviaire, en particulier dans le cas où des interfaces sont en jeu, par rapport aux spécifications techniques, notamment de nature fonctionnelle, qui doivent être vérifiées. 
+Les procédures d'évaluation mises en oeuvre par les organismes notifiés, au stade de la conception ainsi qu'à celui de la production, font appel aux modules définis dans la décision 93/465/CEE suivant les modalités indiquées dans les STI. 
+3. Contenu de la déclaration «CE» 
+La déclaration «CE» de conformité ou d'aptitude à l'emploi et les documents qui l'accompagnent doivent être datés et signés. 
+Cette déclaration doit être rédigée dans la même langue que la notice d'instruction et comprendre les éléments suivants: 
+- références de la directive, 
+- nom et adresse du fabricant ou de son mandataire établi dans la Communauté (indiquer la raison sociale et l'adresse complète; en cas de mandataire, indiquer également la raison sociale du fabricant ou constructeur), 
+- description du constituant d'interopérabilité (marque, type, etc.), 
+- indication de la procédure suivie pour déclarer la conformité ou l'aptitude à l'emploi (article 13), 
+- toutes les descriptions pertinentes auxquelles répond le constituant d'interopérabilité et en particulier les conditions d'utilisation, 
+- nom et adresse de l'organisme (des organismes) notifié(s) qui est (sont) intervenu(s) dans la procédure suivie en ce qui concerne la conformité ou l'aptitude à l'emploi et date du certificat d'examen assortie, le cas échéant, de la durée et des conditions de validité du certificat, 
+- le cas échéant, référence des spécifications européennes, 
+- identification du signataire ayant reçu pouvoir d'engager le fabricant ou son mandataire établi dans la Communauté. 
+ANNEXE V 
+SOUS-SYSTÈMES 
+DÉCLARATION «CE» DE VÉRIFICATION 
+La déclaration «CE» de vérification et les documents qui l'accompagnent doivent être datés et signés. 
+Cette déclaration doit être rédigée dans la même langue que le dossier technique et comprendre les éléments suivants: 
+- références de la directive, 
+- nom et adresse de l'entité adjudicatrice ou de son mandataire établi dans la Communauté (indiquer la raison sociale et l'adresse complète; en cas de mandataire, indiquer également la raison sociale de l'entité adjudicatrice), 
+- description succincte du sous-système, 
+- nom et adresse de l'organisme notifié qui a procédé à la vérification «CE» visée à l'article 18, 
+- références des documents contenus dans le dossier technique, 
+- toutes les dispositions pertinentes provisoires ou définitives auxquelles doit répondre le sous-système, et en particulier, s'il y a lieu, les restrictions ou conditions d'exploitation, 
+- durée de validité de la déclaration «CE», si celle-ci est provisoire, 
+- identification du signataire. 
+ANNEXE VI 
+SOUS-SYSTÈMES 
+VÉRIFICATION «CE» 
+1. La vérification «CE» est la procédure par laquelle un organisme notifié vérifie et atteste, à la demande de l'entité adjudicatrice ou de son mandataire dans la Communauté, qu'un sous-système est: 
+- conforme aux dispositions de la directive, 
+- conforme aux autres dispositions réglementaires qui sont d'application dans le respect du traité, 
+et qu'il peut être mis en service. 
+2. La vérification du sous-système comprend les étapes suivantes: 
+- conception d'ensemble, 
+- construction du sous-système, comprenant notamment l'exécution des travaux de génie civil, le montage des constituants, le réglage de l'ensemble, 
+- essais du sous-système terminé. 
+3. L'organisme notifié qui est responsable de la vérification «CE» établit l'attestation de conformité destinée à l'entité adjudicatrice ou son mandataire dans la Communauté, qui à son tour établit la déclaration «CE» de vérification destinée à l'autorité de tutelle de l'État membre dans lequel le sous-système est implanté et/ou exploité. 
+4. Le dossier technique qui accompagne la déclaration de vérification doit être constitué comme suit: 
+- pour les infrastructures: plans des ouvrages, procès-verbaux de réception des fouilles et du ferraillage, rapports d'essai et de contrôle des bétons, 
+- pour les autres sous-systèmes: plans généraux et de détail conformes à l'exécution, schémas électriques et hydrauliques, schémas des circuits de commande, description des systèmes informatiques et des automatismes, notices de fonctionnement et d'entretien, etc., 
+- liste des constituants d'interopérabilité visés à l'article 3 incorporés dans le sous-système, 
+- copies des déclarations «CE» de conformité ou d'aptitude à l'emploi dont lesdits constituants doivent être munis conformément aux dispositions de l'article 13 de la directive, accompagnées, s'il y a lieu, des notes de calculs correspondantes et d'une copie des comptes rendus des essais et examens effectués par des organismes notifiés sur la base des spécifications techniques communes, 
+- attestation de l'organisme notifié chargé de la vérification «CE», certifiant que le projet est conforme aux dispositions de la présente directive, accompagnée des notes de calculs correspondantes et visée par ses soins, précisant, s'il y a lieu, les réserves formulées durant l'exécution des travaux qui n'auraient pas été levées; l'attestation est également accompagnée des rapports de visite et d'audit que l'organisme a établis dans le cadre de sa mission, comme précisé aux points 5.3 et 5.4. 
+5. Surveillance 
+5.1. Le but de la surveillance «CE» est de s'assurer que, pendant la réalisation du sous-système, les obligations découlant du dossier technique ont été remplies. 
+5.2. L'organisme notifié chargé de vérifier la réalisation doit avoir accès en permanence aux chantiers, aux ateliers de fabrication, aux aires de stockage et, s'il y a lieu, de préfabrication, aux installations d'essai, et plus généralement à tous les lieux qu'il pourrait juger nécessaires pour l'accomplissement de sa mission. L'entité adjudicatrice ou son mandataire dans la Communauté doit lui remettre ou lui faire remettre tous les documents utiles à cet effet, notamment les plans d'exécution et la documentation technique relative au sous-système. 
+5.3. L'organisme notifié chargé de vérifier la réalisation effectue périodiquement des audits afin de s'assurer que les dispositions de la directive sont respectées. Il fournit à cette occasion un rapport d'audit aux professionnels chargés de la réalisation. Il peut exiger d'être convoqué à certaines phases du chantier. 
+5.4. En outre, l'organisme notifié peut effectuer des visites inopinées sur le chantier ou dans les ateliers de fabrication. À l'occasion de ces visites, l'organisme notifié peut procéder à des audits complets ou partiels. Il fournit un rapport de visite et, le cas échéant, un rapport d'audit aux professionnels chargés de la réalisation. 
+6. Le dossier complet visé au point 4 est déposé auprès de l'entité adjudicatrice ou de son mandataire dans la Communauté à l'appui de l'attestation de conformité délivrée par l'organisme notifié chargé de la vérification du sous-système en ordre de marche. Le dossier est joint à la déclaration «CE» de vérification que l'entité adjudicatrice adresse à l'autorité de tutelle de l'État membre concerné. 
+Une copie du dossier est conservée par l'entité adjudicatrice pendant toute la durée de vie du sous-système. Le dossier est communiqué aux autres États membres qui en font la demande. 
+7. Chaque organisme notifié publie périodiquement les informations pertinentes concernant: 
+- les demandes de vérification «CE» reçues, 
+- les attestations de conformité délivrées, 
+- les attestations de conformité refusées. 
+8. Les dossiers et la correspondance se rapportant aux procédures de vérification «CE» sont rédigés dans une langue officielle de l'État membre où sont établis l'entité adjudicatrice ou son mandataire dans la Communauté, ou dans une langue acceptée par celle-ci. 
+ANNEXE VII 
+CRITÈRES MINIMAUX DEVANT ÊTRE PRIS EN CONSIDÉRATION PAR LES ÉTATS MEMBRES POUR LA NOTIFICATION DES ORGANISMES 
+1. L'organisme, son directeur et le personnel chargé d'exécuter les opérations de vérification ne peuvent pas intervenir, ni directement, ni comme mandataires, dans la conception, la fabrication, la construction, la commercialisation ou l'entretien des constituants d'interopérabilité ou des sous-systèmes, ni dans l'exploitation. Cela n'exclut pas la possibilité d'un échange d'informations techniques entre le fabricant ou le constructeur et l'organisme. 
+2. L'organisme et le personnel chargé du contrôle doivent exécuter les opérations de vérification avec la plus grande intégrité professionnelle et la plus grande compétence technique et doivent être libres de toutes les pressions et incitations, notamment d'ordre financier, pouvant influencer leur jugement ou les résultats de leur contrôle, en particulier de celles émanant de personnes ou de groupements de personnes intéressés par les résultats des vérifications. 
+3. L'organisme doit disposer du personnel et posséder les moyens nécessaires pour accomplir de façon adéquate les tâches techniques et administratives liées à l'exécution des vérifications; il doit également avoir accès au matériel nécessaire pour les vérifications exceptionnelles. 
+4. Le personnel chargé des contrôles doit posséder: 
+- une bonne formation technique et professionnelle, 
+- une connaissance satisfaisante des prescriptions relatives aux contrôles qu'il effectue et une pratique suffisante de ces contrôles, 
+- l'aptitude requise pour rédiger les attestations, les procès-verbaux et les rapports qui constituent la matérialisation des contrôles effectués. 
+5. L'indépendance du personnel chargé du contrôle doit être garantie. La rémunération de chaque agent ne doit être fonction ni du nombre de contrôles qu'il effectue, ni des résultats de ces contrôles. 
+6. L'organisme doit souscrire une assurance de responsabilité civile, à moins que cette responsabilité ne soit couverte par l'État sur la base du droit national ou que les contrôles ne soient effectués directement par l'État membre. 
+7. Le personnel de l'organisme est lié par le secret professionnel pour tout ce qu'il apprend dans l'exercice de ses fonctions (sauf à l'égard des autorités administratives compétentes de l'État où il exerce ses activités) dans le cadre de la présente directive ou de toute disposition de droit interne lui donnant effet. 

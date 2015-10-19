@@ -1,0 +1,621 @@
+Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices 
+DIRECTIVE 98/79/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 October 1998 on in vitro diagnostic medical devices 
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof, 
+Having regard to the proposal from the Commission (1), 
+Having regard to the opinion of the Economic and Social Committee (2), 
+Acting in accordance with the procedure laid down in Article 189b of the Treaty (3), 
+(1) Whereas measures should be adopted for the smooth operation of the internal market; whereas the internal market is an area without internal frontiers in which the free movement of goods, persons, services and capital is ensured; 
+(2) Whereas the content and scope of the laws, regulations and administrative provisions in force in the Member States with regard to the safety, health protection and performance, characteristics and authorisation procedures for in vitro diagnostic medical devices are different; whereas the existence of such disparities creates barriers to trade, and whereas the need to establish harmonised rules has been confirmed by a comparative survey of national legislations carried out on behalf of the Commission; 
+(3) Whereas the harmonisation of national legislation is the only means of removing such barriers to free trade and of preventing new barriers from arising; whereas this objective cannot be achieved in a satisfactory manner by other means by the individual Member States; whereas this Directive lays down only such requirements as are necessary and sufficient to ensure, under the best safety conditions, free movement of the in vitro diagnostic medical devices to which it applies; 
+(4) Whereas the harmonised provisions must be distinguished from measures adopted by the Member States to manage the funding of public health and sickness insurance schemes relating directly or indirectly to such devices; whereas, therefore, the harmonised provisions do not affect the ability of the Member States to implement such measures provided that they comply with Community law; 
+(5) Whereas in vitro diagnostic medical devices should provide patients, users and third parties with a high level of health protection and attain the performance levels originally attributed to them by the manufacturer; whereas, therefore, maintenance or improvement of the level of health protection attained in the Member States is one of the main objectives of this Directive; 
+(6) Whereas, in accordance with the principles set out in the Council resolution of 7 May 1985 on a new approach to technical harmonisation and standards (4), rules regarding the design, manufacture and packaging of relevant products must be confined to the provisions required to meet the essential requirements; whereas, because they are essential, such requirements should replace the corresponding national provisions; whereas the essential requirements, including requirements to minimise and reduce risks, should be applied with discretion, taking into account the technology and practice at the time of design and technical and economic considerations compatible with a high level of protection of health and safety; 
+(7) Whereas the major part of medical devices are covered by Council Directive 90/385/EEC of 20 June 1990 on the approximation of laws relating to active implantable medical devices (5) and Council Directive 93/42/EEC of 14 June 1993 concerning medical devices (6) with the exclusion of in vitro diagnostic medical devices; whereas this Directive seeks to extend the harmonisation to in vitro diagnostic medical devices and whereas, in the interest of uniform Community rules, this Directive is based largely on the provisions of the said two Directives; 
+(8) Whereas instruments, apparatus, appliances, materials or other articles, including software, which are intended to be used for research purposes, without any medical objective, are not regarded as devices for performance evaluation; 
+(9) Whereas, although internationally certified reference materials and materials used for external quality assessment schemes are not covered by this Directive, calibrators and control materials needed by the user to establish or verify performances of devices are in vitro diagnostic medical devices; 
+(10) Whereas, having regard to the principle of subsidiarity, reagents which are produced within health-institution laboratories for use in that environment and are not subject to commercialtransactions are not covered by this Directive; 
+(11) Whereas, however, devices that are manufactured and intended to be used in a professional and commercial context for purposes of medical analysis without being marketed are subject to this Directive; 
+(12) Whereas mechanical laboratory equipment especially designed for in vitro diagnostic examinations falls within the scope of this Directive and whereas, therefore, in order to harmonise the relevant directives, Directive 98/37/EC of the European Parliament and of the Council of 22 June 1998 on the approximation of the laws of the Member States relating to machinery (7), should be appropriately amended to bring it into line with this Directive; 
+(13) Whereas this Directive should include requirements regarding the design and manufacture of devices emitting ionizing radiation; whereas this Directive does not affect the application of Council Directive 96/29/Euratom of 13 May 1996 laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation (8); 
+(14) Whereas, since electromagnetic compatibility aspects form an integral part of the essential requirements of this Directive, Council Directive 89/336/EEC of 2 May 1989 on the approximation of the laws of the Member States relating to electromagnetic compatibility (9) does not apply; 
+(15) Whereas, in order to ease the task of proving conformity with the essential requirements and to enable conformity to be verified, it is desirable to have harmonised standards in respect of the prevention of risks associated with the design, manufacture and packaging of medical devices; whereas such harmonised standards are drawn up by private-law bodies and should retain their status as non-mandatory texts; whereas, to this end, the European Committee for Standardisation (CEN) and the European Committee for Electrotechnical Standardisation (Cenelec) are recognised as the competent bodies for the adoption of harmonised standards in accordance with the general guidelines on cooperation between the Commission and those two bodies signed on 13 November 1984; 
+(16) Whereas, for the purpose of this Directive, a harmonised standard is a technical specification (European standard of harmonisation document) adopted, on a mandate from the Commission, by CEN or Cenelec or by both of those bodies in accordance with Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations (10), and pursuant to the abovementioned general guidelines; 
+(17) Whereas, by way of exception to the general principles, the drawing up of common technical specifications takes account of a current practice in some Member States whereby for selected devices mainly used for the evaluation of the safety of blood supply and of organ donation, such specifications are adopted by the public authorities; whereas it is appropriate that these particular specifications should be replaced by common technical specifications; whereas these common technical specifications can be used for performance evaluation and reevaluation; 
+(18) Whereas scientific experts from various interested parties could be involved in the drafting of common technical specifications and in the examination of other specific or general questions; 
+(19) Whereas manufacturing, as covered by this Directive, also includes the packaging of the medical device, insofar as such packaging is related to the safety and performance aspects of this device; 
+(20) Whereas certain devices have a limited life owing to the decline in their performance over time, which is related, for example, to the deterioriation in their physical or chemical properties, including the sterility or integrity of the packaging; whereas the manufacturer should determine and indicate the period during which the device will perform as intended; whereas the labelling should indicate the date until which the device or one of its components can be used with complete safety; 
+(21) Whereas, in Decision 93/465/EEC of 22 July 1993 concerning the modules for the various phases of the conformity assessment procedures and the rules for the affixing and use of the CE conformity marking, which are intended to be used in the technical harmonisation directives (11), the Council laid down harmonised conformity assessment procedures; whereas the details added to these modules are justified by the nature of the verification required for in vitro diagnostic medical devices and by the need for consistency with Directives 90/385/EEC and 93/42/EEC; 
+(22) Whereas it is necessary, essentially for the purpose of the conformity assessment procedures, to group in vitro diagnostic medical devices into two main product classes; whereas, since the large majority of such devices do not constitute a direct risk to patients and are used by competently trained professionals, and the results obtained can often be confirmed by other means, the conformity assessment procedures can be carried out, as a general rule, under the sole responsibility of the manufacturer; whereas, taking account of existing national regulations and of notifications received following the procedure laid down in Directive 98/34/EC, the intervention of notified bodies is needed only for defined devices, the correct performance of which is essential to medical practice and the failure of which can cause a serious risk to health; 
+(23) Whereas, among the in vitro diagnostic medical devices for which intervention of a notified body is required, the groups of products used in blood transfusion and the prevention of AIDS and certain types of hepatitis require a conformity assessment guaranteeing, with a view to their design and manufacture, an optimum level of safety and reliability; 
+(24) Whereas the list of in vitro diagnostic medical devices to be subjected to third-party conformity assessment needs updating, taking account of technological progress and of developments in the field of health protection; whereas such updating measures must be taken in line with procedure III(a) as laid down in Council Decision 87/373/EEC of 13 July 1987 laying down the procedures for the exercise of implementing powers conferred on the Commission (12); 
+(25) Whereas an agreement on a modus vivendi between the European Parliament, the Council and the Commission concerning the implementing measures for acts adopted in accordance with the procedure laid down in Article 189b of the Treaty was reached on 20 December 1994 (13); 
+(26) Whereas medical devices should, as a general rule, bear the CE marking indicating their conformity with the provisions of this Directive to enable them to move freely within the Community and to be put into service in accordance with their intended purpose; 
+(27) Whereas manufacturers will be able, when the intervention of a notified body is required, to choose from a list of bodies published by the Commission; whereas, although Member States do not have an obligation to designate such notified bodies, they must ensure that bodies designated as notified bodies comply with the assessment criteria laid down in this Directive; 
+(28) Whereas the director and staff of the notified bodies should not, themselves or through an intermediary, have any interest in the establishments subject to assessment and verification which is likely to compromise their independence; 
+(29) Whereas the competent authorities in charge of market surveillance should be able, particularly in emergencies, to contact the manufacturer or his authorised representative established in the Community, in order to take any protection measures that should prove necessary; whereas cooperation and exchange of information between Member States are necessary with a view to uniform application of this Directive, in particular for the purpose of market surveillance; whereas to that end it is necessary to establish and manage a database containing data on manufacturers and their authorised representatives, on devices placed on the market, on certificates issued, suspended or withdrawn, and on the vigilance procedure; whereas a system of adverse incident reporting (vigilance procedure) constitutes a useful tool for surveillance of the market, including the performance of new devices; whereas information obtained from the vigilance procedure as well as from external quality assessment schemes is useful for decision-making on classification of devices; 
+(30) Whereas it is essential that manufacturers notify the competent authorities of the placing on the market of 'new products` with regard both to the technology used and the substances to be analysed or other parameters; whereas this is true in particular of high-density DNA probe devices (known as micro-chips) used in genetic screening; 
+(31) Whereas, when a Member State considers that, as regards a given product or group of products, it is necessary, in order to protect health and safety and/or ensure compliance with the imperatives of public health, in accordance with Article 36 of the Treaty, to prohibit or restrict their availability or to subject it to special conditions, it may take any transitional measures that are necessary and justified; whereas, in such cases, the Commission consults the interested parties and the Member States and, if the national measures are justified, adopts the necessary Community measures, in accordance with procedure III(a) as laid down in Decision 87/373/EEC; 
+(32) Whereas this Directive covers in vitro diagnostic medical devices manufactured from tissues, cells or substances of human origin; whereas it does not refer to the other medical devices manufactured using substances of human origin; whereas, therefore, work will have to continue in this connection in order to produce Community legislation as soon as possible; 
+(33) Whereas, in view of the need to protect the integrity of the human person during the sampling, collection and use of substances derived from the human body, it is appropriate to apply the principles laid down in the Convention of the Council of Europe for the protection of human rights and dignity of the human being with regard to the application of biology and medicine; whereas, furthermore, national regulations relating to ethics continue to apply; 
+(34) Whereas, in the interests of overall consistency between directives on medical devices, some of the provisions of this Directive should be incorporated into Directive 93/42/EEC, which needs to be amended accordingly; 
+(35) Whereas it is necessary to draw up as quickly as possible the legislation which is lacking on medical devices manufactured using substances of human origin, 
+HAVE ADOPTED THIS DIRECTIVE: 
+Article 1 Scope, definitions 
+1. This Directive shall apply to in vitro diagnostic medical devices and their accessories. For the purposes of this Directive, accessories shall be treated as in vitro diagnostic medical devices in their own right. Both in vitro diagnostic medical devices and accessories shall hereinafter be termed devices. 
+2. For the purposes of this Directive, the following definitions shall apply: 
+(a) 'medical device` means any instrument, apparatus, appliance, material or other article, whether used alone or in combination, including the software necessary for its proper application, intended by the manufacturer to be used for human beings for the purpose of: 
+- diagnosis, prevention, monitoring, treatment or alleviation of disease, 
+- diagnosis, monitoring, treatment, alleviation or compensation for an injury or handicap, 
+- investigation, replacement or modification of the anatomy or of a physiological process, 
+- control of conception, 
+and which does not achieve its principal intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its function by such means; 
+(b) 'in vitro diagnostic medical device` means any medical device which is a reagent, reagent product, calibrator, control material, kit, instrument, apparatus, equipment, or system, whether used alone or in combination, intended by the manufacturer to be used in vitro for the examination of specimens, including blood and tissue donations, derived from the human body, solely or principally for the purpose of providing information: 
+- concerning a physiological or pathological state, or 
+- concerning a congenital abnormality, or 
+- to determine the safety and compatibility with potential recipients, or 
+- to monitor therapeutic measures. 
+Specimen receptacles are considered to be in vitro diagnostic medical devices. 'Specimen receptacles` are those devices, whether vacuum-type or not, specifically intended by their manufacturers for the primary containment and preservation of specimens derived from the human body for the purpose of in vitro diagnostic examination. 
+Products for general laboratory use are not in vitro diagnostic medical devices unless such products, in view of their characteristics, are specifically intended by their manufacturer to be used for in vitro diagnostic examination; 
+(c) 'accessory` means an article which, whilst not being an in vitro diagnostic medical device, is intended specifically by its manufacturer to be used together with a device to enable that device to be used in accordance with its intended purpose. 
+For the purposes of this definition, invasive sampling devices or those which are directly applied to the human body for the purpose of obtaining a specimen within the meaning of Directive 93/42/EEC shall not be considered to be accessories to in vitro diagnostic medical devices; 
+(d) 'device for self-testing` means any device intended by the manufacturer to be able to be used by lay persons in a home environment; 
+(e) 'device for performance evaluation` means any device intended by the manufacturer to be subject to one or more performance evaluation studies in laboratories for medical analyses or in other appropriate environments outside his own premises; 
+(f) 'manufacturer` means the natural or legal person with responsibility for the design, manufacture, packaging and labelling of a device before it is placed on the market under his own name, regardless of whether these operations are carried out by that person himself or on his behalf by a third party. 
+The obligations of this Directive to be met by manufacturers also apply to the natural or legal person who assembles, packages, processes, fully refurbishes and/or labels one or more ready-made products and/or assigns to them their intended purpose as devices with a view to their being placed on the market under his own name. This subparagraph does not apply to the person who, while not a manufacturer within the meaning of the first subparagraph, assembles or adapts devices already on the market to their intended purpose for an individual patient; 
+(g) 'authorised representative` means any natural or legal person established in the Community who, explicitly designated by the manufacturer, acts and may be addressed by authorities and bodies in the Community instead of the manufacturer with regard to the latter's obligations under this Directive; 
+(h) 'intended purpose` means the use for which the device is intended according to the data supplied by the manufacturer on the labelling, in the instructions for use and/or in promotional materials; 
+(i) 'placing on the market` means the first making available in return for payment or free of charge of a device other than a device intended for performance evaluation with a view to distribution and/or use on the Community market, regardless of whether it is new or fully refurbished; 
+(j) 'putting into service` means the stage at which a device has been made available to the final user as being ready for use on the Community market for the first time for its intended purpose. 
+3. For the purposes of this Directive, calibration and control materials refer to any substance, material or article intended by their manufacturer either to establish measurement relationships or to verify the performance characteristics of a device in conjunction with the intended use of that device. 
+4. For the purposes of this Directive, the removal, collection and use of tissues, cells and substances of human origin shall be governed, in relation to ethics, by the principles laid down in the Convention of the Council of Europe for the protection of human rights and dignity of the human being with regard to the application of biology and medicine and by any Member States regulations on this matter. 
+5. This Directive shall not apply to devices manufactured and used only within the same health institution and on the premises of their manufacture or used on premises in the immediate vicinity without having been transferred to another legal entity. This does not affect the right of Member State to subject such activities to appropriate protection requirements. 
+6. This Directive shall not affect national laws which provide for the supply of devices by a medical prescription. 
+7. This Directive is a specific directive within the meaning of Article 2(2) of Directive 89/336/EEC, which shall cease to apply to devices which have complied with this Directive. 
+Article 2 Placing on the market and putting into service 
+Member States shall take all necessary steps to ensure that devices may be placed on the market and/or put into service only if they comply with the requirements laid down in this Directive when duly supplied and properly installed, maintained and used in accordance with their intended purpose. This involves the obligation of Member States to monitor the security and quality of these devices. This Article applies also to devices made available for performance evaluation. 
+Article 3 Essential requirements 
+Devices must meet the essential requirements set out in Annex I which apply to them, taking account of the intended purpose of the devices concerned. 
+Article 4 Free movement 
+1. Member States shall not create any obstacle to the placing on the market or the putting into service within their territory of devices bearing the CE marking provided for in Article 16 if these devices have undergone conformity assessment in accordance with Article 9. 
+2. Member States shall not create any obstacle to devices intended for performance evaluation being made available for that purpose to the laboratories or other institutions listed in the statement referred to in Annex VIII if they meet the conditions laid down in Article 9(4) and Annex VIII. 
+3. At trade fairs, exhibitions, demonstrations, scientific or technical gatherings, etc. Member States shall not create any obstacle to the showing of devices which do not conform to this Directive, provided that such devices are not used on specimens taken from the participants and that a visible sign clearly indicates that such devices cannot be marketed or put into service until they have been made to comply. 
+4. Member States may require the information to be supplied pursuant to Annex I, part B, section 8 to be in their official language(s) when a device reaches the final user. 
+Provided that safe and correct use of the device is ensured, Member States may authorise the information referred to in the first subparagraph to be in one or more other official Community language(s). 
+In the application of this provision, Member States shall take into account the principle of proportionality and, in particular: 
+(a) whether the information can be supplied by harmonised symbols or recognised codes or other measures; 
+(b) the type of user anticipated for the device. 
+5. Where the devices are subject to other directives concerning other aspects which also provide for the affixing of the CE marking, the latter shall indicate that the devices also fulfil the provisions of the other directives. 
+However, should one or more of these directives allow the manufacturer, during a transitional period, to choose which arrangements to apply, the CE marking shall indicate that the devices fulfil the provisions only of those directives applied by the manufacturer. In this case, the particulars of these directives, as published in the Official Journal of the European Communities, must be given in the documents, notices or instructions required by the directives and accompanying such devices. 
+Article 5 Reference to standards 
+1. Member States shall presume compliance with the essential requirements referred to in Article 3 in respect of devices which are in conformity with the relevant national standards transposing the harmonised standards the reference numbers of which have been published in the Official Journal of the European Communities; Member States shall publish the reference numbers of such national standards. 
+2. If a Member State or the Commission considers that the harmonised standards do not entirely meet the essential requirements referred to in Article 3, the measures to be taken by the Member States with regard to these standards and the publication referred to in paragraph 1 of this Article shall be adopted by the procedure defined in Article 6(2). 
+3. Member States shall presume compliance with the essential requirements referred to in Article 3 in respect of devices designed and manufactured in conformity with common technical specifications drawn up for the devices in List A of Annex II and, where necessary, the devices in List B of Annex II. These specifications shall establish appropriate performance evaluation and re-evaluation criteria, batch release criteria, reference methods and reference materials. 
+The common technical specifications shall be adopted in accordance with the procedure mentioned in Article 7(2) and be published in the Official Journal of the European Communities. 
+Manufacturers shall as a general rule be required to comply with the common technical specifications; if for duly justified reasons manufacturers do not comply with those specifications they must adopt solutions of a level at least equivalent thereto. 
+Where, in this Directive, reference is made to harmonised standards, this is also meant to refer to the common technical specifications. 
+Article 6 Committee on Standards and Technical Regulations 
+1. The Commission shall be assisted by the committee set up by Article 5 of Directive 98/34/EC. 
+2. The representative of the Commission shall submit to the committee a draft of the measures to be taken. The committee shall deliver its opinion on the draft within a time limit which the chairman may lay down according to the urgency of the matter, if necessary by taking a vote. 
+The opinion shall be recorded in the minutes; in addition, each Member State shall have the right to ask to have its position recorded in the minutes. 
+The Commission shall take the utmost account of the opinion delivered by the committee. It shall inform the committee of the manner in which its opinion has been taken into account. 
+Article 7 Committee on Medical Devices 
+1. The Commission shall be assisted by the committee set up by Article 6(2) of Directive 90/385/EEC. 
+2. The representative of the Commission shall submit to the committee a draft of the measures to be taken. The committee shall deliver its opinion on the draft within a time limit which the chairman may lay down according to the urgency of the matter. The opinion shall be delivered by the majority laid down in Article 148(2) of the Treaty in the case of decisions which the Council is required to adopt on a proposal from the Commission. The votes of the representatives of the Member States within the committee shall be weighted in the manner set out in that Article. The chairman shall not vote. 
+The Commission shall adopt the measures envisaged if they are in accordance with the opinion of the committee. 
+If the measures envisaged are not in accordance with the opinion of the committee, or if no opinion is delivered, the Commission shall, without delay, submit to the Council a proposal relating to the measures to be taken. The Council shall act by a qualified majority. 
+If, on the expiry of a period of three months from the date of referral to the Council, the Council has not acted, the proposed measures shall be adopted by the Commission. 
+3. The committee referred to in paragraph 1 may examine any question connected with the implementation of this Directive. 
+Article 8 Safeguard clause 
+1. Where a Member State ascertains that the devices referred to in Article 4(1), when correctly installed, maintained and used for their intended purpose may compromise the health and/or safety of patients, users or, where applicable, other persons, or the safety of property, it shall take all appropriate interim measures to withdraw such devices from the market or prohibit or restrict their being placed on the market or put into service. The Member State shall immediately inform the Commission of any such measures, indicating the reasons for its decision and, in particular, whether non-compliance with this Directive is due to: 
+(a) failure to meet the essential requirements referred to in Article 3; 
+(b) incorrect application of the standards referred to in Article 5, insofar as it is claimed that the standards have been applied; 
+(c) shortcomings in the standards themselves. 
+2. The Commission shall enter into consultation with the parties concerned as soon as possible. Where, after such consultation, the Commission finds that: 
+- the measures are justified, it shall immediately so inform the Member State which took the initiative and the other Member States; where the decision referred to in paragraph 1 is attributed to shortcomings in the standards, the Commission shall, after consulting the parties concerned, bring the matter before the committee referred to in Article 6(1) within two months if the Member State which has taken the decision intends to maintain it and shall initiate the procedures referred to in Article 6; where the measure referred to in paragraph 1 is attributed to problems related to the contents or to the application of the common technical specifications, the Commission shall, after consulting the parties concerned, bring the matter before the Committee referred to in Article 7(1) within two months, 
+- the measures are unjustified, it shall immediately so inform the Member State which took the initiative and the manufacturer or his authorised representative. 
+3. Where a non-complying device bears the CE marking, the competent Member State shall take appropriate action against whomsoever affixed the marking and shall inform the Commission and the other Member States thereof. 
+4. The Commission shall ensure that the Member States are kept informed of the progress and outcome of this procedure. 
+Article 9 Conformity assessment procedures 
+1. For all devices other than those covered by Annex II and devices for performance evaluation, the manufacturer shall, in order to affix the CE marking, follow the procedure referred to in Annex III and draw up the EC declaration of conformity required before placing the devices on the market. 
+For all devices for self-testing other than those covered by Annex II and devices for performance evaluation, the manufacturer shall, prior to the drawing up of the aforementioned declaration of conformity, fulfil the supplementary requirements set out in Annex III, point 6. Instead of applying this procedure, the manufacturer may follow the procedure referred to in paragraphs 2 or 3. 
+2. For all devices referred to in List A in Annex II other than those intended for performance evaluation, the manufacturer shall, in order to affix the CE marking either: 
+(a) follow the procedure relating to the EC declaration of conformity set out in Annex IV (full quality assurance), or 
+(b) follow the procedure relating to EC type-examination set out in Annex V coupled with the procedure relating to the EC declaration of conformity set out in Annex VII (production quality assurance). 
+3. For all devices referred to in List B in Annex II other than those intended for performance evaluation, the manufacturer shall for the purposes of affixing the CE marking, follow either: 
+(a) the procedure relating to the EC declaration of conformity set out in Annex IV (full quality assurance) or 
+(b) the procedure relating to EC type-examination set out in Annex V couplet with: 
+(i) the procedure relating to EC verification set out in Annex VI, or 
+(ii) the procedure relating to the EC declaration of conformity set out in Annex VII (production quality assurance). 
+4. In the case of devices for performance evaluation, the manufacturer shall follow the procedure referred to in Annex VIII and draw up the statement set out in that Annex before such devices are made available. 
+This provision does not affect national regulations relating to the ethical aspects of carrying out performance evaluation studies using tissues or substances of human origin. 
+5. During the conformity assessment procedure for a device, the manufacturer and, if involved, the notified body shall take account of the results of any assessment and verification operations which, where appropriate, have been carried out in accordance with this Directive at an intermediate state of manufacture. 
+6. The manufacturer may instruct his authorised representative to initiate the procedures provided for in Annexes III, V, VI and VIII. 
+7. The manufacturer must keep the declaration of conformity, the technical documentation referred to in Annexes III to VIII, as well as the decisions, reports and certificates, established by notified bodies, and make it available to the national authorities for inspection purposes for a period ending five years after the last product has been manufactured. Where the manufacturer is not established in the Community, the obligation to make the aforementioned documentation available on request applies to his authorised representative. 
+8. Where the conformity assessment procedure involves intervention of a notified body, the manufacturer, or authorised representative, may apply to a body of his choice within the framework of tasks for which the body has been notified. 
+9. The notified body may require, where duly justified, any information or data, which is necessary for establishing and maintaining the attestation of conformity in view of the chosen procedure. 
+10. Decisions taken by the notified bodies in accordance with Annexes III, IV, and V shall be valid for a maximum of five years and may be extended on application, made at a time agreed in the contract signed by both parties, for further periods of up to five years. 
+11. The records and correspondence relating to the procedures referred to in paragraphs 1 to 4 shall be in an official language of the Member State in which the procedures are carried out and/or in another Community language acceptable to the notified body. 
+12. By way of derogation from paragraphs 1 to 4, the competent authorities may authorise, on duly justified request, the placing on the market and putting into service, within the territory of the Member State concerned, of individual devices for which the procedures referred to in paragraphs 1 to 4 have not been carried out and the use of which is in the interest of protection of health. 
+13. The provisions of this Article shall apply accordingly to any natural or legal person who manufacturers devices covered by this Directive and, without placing them on the market, puts them into service and uses them in the context of his professional activity. 
+Article 10 Registration of manufacturers and devices 
+1. Any manufacturer who places devices on the market under his own name shall notify the competent authorities of the Member State in which he has his registered place of business: 
+- of the address of the registered place of business, 
+- of information relating to the reagents, reagent products and calibration and control materials in terms of common technological characteristics and/or analytes and of any significant change thereto including discontinuation of placing on the market; for other devices, the appropriate indications, 
+- in the case of devices covered by Annex II and of devices for self-testing, of all data allowing for identification of such devices, the analytical and, where appropriate, diagnostic parameters as referred to in Annex I, part A, section 3, the outcome of performance evaluation pursuant to Annex VIII, certificates and any significant change thereto, including discontinuation of placing on the market. 
+2. For devices covered by Annex II and for devices for self-testing, Member States may request to be informed of the data allowing identification together with the label and the instructions for use when such devices are placed on the market and/or put into service within their territory. 
+These measures cannot constitute a precondition for the placing on the market and/or putting into service of devices which are in conformity with this Directive. 
+3. Where a manufacturer who places devices on the market under his own name does not have a registered place of business in a Member State, he shall designate an authorised representative. The authorised representative shall notify the competent authorities of the Member State in which he has his registered place of business of all particulars as referred to in paragraph 1. 
+4. The notification referred to in paragraph 1 shall also include any new device. In addition, where, in the context of such notification, a device notified, bearing the CE marking, is a 'new product`, the manufacturer shall indicate this fact on his notification. 
+For the purposes of this Article, a device is 'new` if: 
+(a) there has been no such device continuously available on the Community market during the previous three years for the relevant analyte or other parameter; 
+(b) the procedure involves analytical technology not continuously used in connection with a given analyte or other parameter on the Community market during the previous three years. 
+5. Member States shall take all necessary measures to ensure that the notifications referred to in paragraphs 1 and 3 are registered immediately in the databank described in Article 12. The procedures for implementing this Article and in particular those referring to the notification and the concept of significant change shall be adopted in accordance with the procedure referred to in Article 7. 
+6. Transitionally, pending the establishment of a European databank accessible to the competent authorities of the Member States and containing the data relating to all devices available on the territory of the Community, the manufacturer shall give such notification to the competent authorities of each Member State concerned by the placing on the market. 
+Article 11 Vigilance procedure 
+1. Member States shall take the necessary steps to ensure that any information brought to their knowledge, in accordance with the provisions of this Directive, regarding the incidents mentioned below involving devices bearing the CE marking is recorded and evaluated centrally: 
+(a) any malfunction, failure or deterioration in the characteristics and/or performance of a device, as well as any inadequacy in the labelling or the instructions for use which, directly or indirectly, might lead to or might have led to the death of a patient, or user or of other persons or to a serious deterioration in their state of health; 
+(b) any technical or medical reason in relation to the characteristics or performance of a device for the reasons referred to in subparagraph (a), leading to systematic recall of devices of the same type by the manufacturer. 
+2. Where a Member State requires medical practitioners, the medical institutions or the organisers of external quality assessment schemes to inform the competent authorities of any incidents referred to in paragraph 1, it shall take the necessary steps to ensure that the manufacturer of the device concerned, or his authorised representative, is also informed of the incident. 
+3. After carrying out an assessment, if possible together with the manufacturer, Member States shall, without prejudice to Article 8, immediately inform the Commission and the other Member States of the incidents referred to in paragraph 1 for which appropriate measures, including possible withdrawal, have been taken or are contemplated. 
+4. Where, in the context of notification referred to in Article 10, a device notified, bearing the CE marking, is a 'new` product, the manufacturer shall indicate this fact on his notification. The competent authority so notified may at any time within the following two years and on justified grounds, require the manufacturer to submit a report relating to the experience gained with the device subsequent to its being placed on the market. 
+5. The Member States shall on request inform the other Member States of the details referred to in paragraphs 1 to 4. The procedures implementing this Article shall be adopted in accordance with the procedure referred to in Article 7(2). 
+Article 12 European databank 
+1. Regulatory data in accordance with this Directive shall be stored in a European databank accessible to the competent authorities to enable them to carry out their tasks relating to this Directive on a well-informed basis. 
+The databank shall contain the following: 
+(a) data relating to registration of manufacturers and devices in accordance with Article 10; 
+(b) data relating to certificates issued, modified, supplemented, suspended, withdrawn or refused according to the procedure as laid down in Annexes III to VII; 
+(c) data obtained in accordance with the vigilance procedure as defined in Article 11. 
+2. Data shall be forwarded in a standardised format. 
+3. The procedures implementing this Article shall be adopted in accordance with the procedure laid down in Article 7(2). 
+Article 13 Particular health monitoring measures 
+Where a Member State considers, in relation to a given product or group of products, that, in order to ensure protection of health and safety and/or to ensure that public health requirements are observed pursuant to Article 36 of the Treaty, the availability of such products should be prohibited, restricted or made subject to particular requirements, it may take any necessary and justified transitional measures. It shall then inform the Commission and all the other Member States, giving the reasons for its decision. The Commission shall consult the interested parties and the Member States and, where the national measures are justified, adopt necessary Community measures in accordance with the procedure referred to in Article 7(2). 
+Article 14 Amendments to Annex II, and derogation clause 
+1. Where a Member State considers that: 
+(a) the list of devices in Annex II should be amended or extended, or 
+(b) the conformity of a device or category of devices should be established, by way of derogation from the provisions of Article 9, by applying one or more given procedures taken from amongst those referred to in Article 9, 
+it shall submit a duly substantiated request to the Commission and ask it to take the necessary measures. The measures shall be adopted in accordance with the procedure laid down in Article 7(2). 
+2. When a measure is to be taken in accordance with paragraph 1, due consideration shall be given to: 
+(a) any relevant information available from the vigilance procedures and from external quality assessment schemes as referred to in Article 11; 
+(b) the following criteria: 
+(i) whether total reliance has to be placed on the result obtained with a given device, this result having a direct impact on subsequent medical action, and 
+(ii) whether action taken on the basis of an incorrect result obtained using a given device could prove to be hazardous to the patient, to a third party or to the public, in particular as a consequence of false positive or false negative results, and 
+(iii) whether the involvement of a notified body would be conducive to establishing the conformity of the device. 
+3. The Commission shall inform the Member States of the measures taken and, where appropriate, publish these measures in the Official Journal of the European Communities. 
+Article 15 Notified bodies 
+1. Member States shall notify the Commission and other Member States of the bodies which they have designated for carrying out the tasks pertaining to the procedures referred to in Article 9 and the specific tasks for which the bodies have been designated. The Commission shall assign identification numbers to these bodies, hereinafter referred to as 'notified bodies`. 
+The Commission shall publish a list of the notified bodies, together with the identification numbers it has allocated to them and the tasks for which they have been notified, in the Official Journal of the European Communities. It shall ensure that the list is kept up to date. 
+Member States shall not be obliged to designate a notified body. 
+2. Member States shall apply the criteria set out in Annex IX for the designation of bodies. Bodies that meet the criteria laid down in the national standards which transpose the relevant harmonised standards shall be presumed to meet the relevant criteria. 
+3. Member States shall apply continual surveillance of notified bodies to ensure ongoing compliance with the criteria set out in Annex IX. A Member State that has notified a body shall withdraw or restrict that notification if it finds that the body no longer meets the criteria referred to in Annex IX. It shall immediately inform the other Member States and the Commission of any withdrawal of notification or any restriction placed on it. 
+4. The notified body and the manufacturer, or his authorised representative established in the Community, shall lay down, by common accord, the time limits for completion of the assessment and verification operations referred to in Annexes III to VII. 
+5. The notified body shall inform the other notified bodies and the competent authority about all certificates suspended or withdrawn and, on request, about certificates issued or refused. It shall also make available, on request, all additional relevant information. 
+6. Where a notified body finds that pertinent requirements of this Directive have not been met or are no longer met by the manufacturer or where a certificate should not have been issued, it shall, taking account of the principle of proportionality, suspend or withdraw the certificate issued or place any restrictions on it unless compliance with such requirements is ensured by the implementation of appropriate corrective measures by the manufacturer. In the case of suspension or withdrawal of the certificate or of any restriction placed on it or in cases where an intervention of the competent authority may become necessary, the notified body shall inform its competent authority thereof. The Member State shall inform the other Member States and the Commission. 
+7. The notified body shall, on request, supply all relevant information and documents, including budgetary documents, required to enable the Member State to verify compliance with Annex IX requirements. 
+Article 16 CE marking 
+1. Devices, other than devices for performance evaluation, considered to meet the essential requirements referred to in Article 3 must bear the CE marking of conformity when they are placed on the market. 
+2. The CE marking of conformity, as shown in Annex X, must appear in a visible, legible and indelible form on the device, where practicable and appropriate, and on the instructions for use. The CE marking of conformity must also appear on the sales packaging. The CE marking shall be accompanied by the identification number of the notified body responsible for implementation of the procedures set out in Annexes III, IV, VI and VII. 
+3. It is prohibited to affix marks or inscriptions which are likely to mislead third parties with regard to the meaning or the graphics of the CE marking. Any other mark may be affixed to the device, to the packaging or to the instruction leaflet accompanying the device provided that the visibility and legibility of the CE marking is not thereby reduced. 
+Article 17 Wrongly affixed CE marking 
+1. Without prejudice to Article 8: 
+(a) where a Member State establishes that the CE marking has been wrongly affixed, the manufacturer or his authorised representative shall be obliged to end the infringement under conditions imposed by the Member State; 
+(b) where non-compliance continues, the Member State must take all appropriate measures to restrict or prohibit the placing on the market of the product in question or to ensure that it is withdrawn from the market, in accordance with the procedure in Article 8. 
+2. The provisions stated in paragraph 1 shall also apply where the CE marking has been affixed in accordance with the procedures in this Directive, but inappropriately, on products that are not covered by this Directive. 
+Article 18 Decisions in respect of refusal or restriction 
+1. Any decision taken pursuant to this Directive: 
+(a) to refuse or restrict the placing on the market or any making available or putting into service of a device, or 
+(b) to withdraw devices from the market, 
+shall state the exact grounds on which it is based. Such decisions shall be notified without delay to the party concerned, who shall at the same time be informed of the remedies available to him under the national law in force in the Member State in question and of the time limits to which such remedies are subject. 
+2. In the event of a decision as referred to in paragraph 1, the manufacturer or his authorised representative shall have an opportunity to put forward his point of view in advance, unless such consultation is not possible because of the urgency of the measure to be taken as justified in particular by public health requirements. 
+Article 19 Confidentiality 
+Without prejudice to national law and practice on medical secrecy, Member States shall ensure that all the parties involved in the application of this Directive are bound to observe confidentiality with regard to information obtained in carrying out their tasks. This does not affect the obligations of Member States and notified bodies with regard to mutual information and the dissemination of warnings, nor the obligations of the persons concerned to provide information under criminal law. 
+Article 20 Cooperation between Member States 
+Member States shall take appropriate measures to ensure that competent authorities charged with the implementation of this Directive cooperate with each other and convey to each other the information necessary to ensure application in compliance with this Directive. 
+Article 21 Amendment of directives 
+1. In Directive 89/392/EEC, the second indent of Article 1(3), 'machinery for medical use, used in direct contact with patients` shall be replaced by the following: 
+'- medical devices,`. 
+2. Directive 93/42/EEC is hereby amended as follows: 
+(a) in Article 1(2): 
+- point (c) shall be replaced by the following: 
+'(c) %quot%in vitro diagnostic medical device%quot% means any medical device which is a reagent, reagent product, calibrator, control material, kit, instrument, apparatus, equipment or system, whether used alone or in combination, intended by the manufacturer to be used in vitro for the examination of specimens, including blood and tissue donations, derived from the human body, solely or principally for the purpose of providing information: 
+- concerning a physiological or pathological state, or 
+- concerning a congenital abnormality, or 
+- to determine the safety and compatibility with potential recipients, or 
+- to monitor therapeutic measures. 
+Specimen receptacles are considered to be in vitro diagnostic medical devices. %quot%Specimen receptacles%quot% are those devices, whether vacuum-type or not, specifically intended by their manufacturers for the primary containment and preservation of specimens derived from the human body for the purpose of in vitro diagnostic examination. 
+Products for general laboratory use are not in vitro diagnostic medical devices unless such products, in view of their characteristics, are specifically intended by their manufacturer to be used for in vitro diagnostic examination;` 
+- point (i) shall be replaced by the following: 
+'(i) %quot%putting into service%quot% means the stage at which a device has been made available to the final user as being ready for use on the Community market for the first time for its intended purpose;` 
+- the following point shall be added: 
+'(j) %quot%authorised representative%quot% means any natural or legal person established in the Community who, explicitly designated by the manufacturer, acts and may be addressed by authorities and bodies in the Community instead of the manufacturer with regard to the latter's obligations under this Directive;` 
+(b) Article 2 shall be replaced by the following: 
+'Article 2 
+Placing on the market and putting into service 
+Member States shall take all necessary steps to ensure that devices may be placed on the market and/or put into service only if they comply with the requirements laid down in this Directive when duly supplied and properly installed, maintained and used in accordance with their intended purpose.` 
+(c) the following paragraph shall be added to Article 14(1): 
+'For all medical devices of classes IIb and III, Member States may request to be informed of all data allowing for identification of such devices together with the label and the instructions for use when such devices are put into service within their territory.` 
+(d) the following Articles shall be inserted: 
+'Article 14a 
+European databank 
+1. Regulatory data in accordance with this Directive shall be stored in a European database accessible to the competent authorities to enable them to carry out their tasks relating to this Directive on a well-informed basis. 
+The databank shall contain the following: 
+(a) data relating to registration of manufacturers and devices in accordance with Article 14; 
+(b) data relating to certificates issued, modified, supplemented, suspended, withdrawn or refused according to the procedures, as laid down in Annexes II to VII; 
+(c) data obtained in accordance with the vigilance procedure as defined in Article 10; 
+2. Data shall be forwarded in a standardised format. 
+3. The procedures implementing this Article shall be adopted in accordance with the procedure laid down in Article 7(2). 
+Article 14b 
+Particular health monitoring measures 
+Where a Member State considers, in relation to a given product or group of products, that, in order to ensure protection of health and safety and/or to ensure that public health requirements are observed pursuant to Article 36 of the Treaty, the availability of such products should be prohibited, restricted or subjected to particular requirements, it may take any necessary and justified transitional measures. It shall then inform the Commission and all the other Member States giving the reasons for its decision. The Commission shall, whenever possible, consult the interested parties and the Member States and, where the national measures are justified, adopt necessary Community measures in accordance with the procedure referred to in Article 7(2).` 
+(e) the following paragraphs shall be added to Article 16: 
+'5. The notified body shall inform the other notified bodies and the competent authority about all certificates suspended or withdrawn and, on request, about certificates issued or refused. It shall also make available, on request, all additional relevant information. 
+6. Where a notified body finds that pertinent requirements of this Directive have not been met or are no longer met by the manufacturer or where a certificate should not have been issued, it shall, taking account of the principle of proportionality, suspend or withdraw the certificate issued or place any restrictions on it unless compliance with such requirements is ensured by the implementation of appropriate corrective measures by the manufacturer. In the case of suspension or withdrawal of the certificate or of any restriction placed on it or in cases where an intervention of the competent authority may become necessary, the notified body shall inform its competent authority thereof. The Member State shall inform the other Member States and the Commission. 
+7. The notified body shall, on request, supply all relevant information and documents including budgetary documents, required to enable the Member State to verify compliance with Annex XI requirements.` 
+(f) the following paragraph shall be added to Article 18: 
+'Those provisions shall also apply where the CE marking has been affixed in accordance with the procedures in this Directive, but inappropriately, on products that are not covered by this Directive.` 
+(g) in Article 22(4), the first subparagraph shall be replaced by the following: 
+'4. Member States shall accept: 
+- devices which conform to the rules in force in their territory on 31 December 1994 being placed on the market during a period of five years following the adoption of this Directive, and 
+- the aforementioned devices being put into service until 30 June 2001 at the latest.` 
+(h) Annex II, section 6.2, Annex III, section 7.1, Annex V, section 5.2 and Annex VI, section 5.2 shall be deleted; 
+(i) in Annex XI, section 3 the following sentence shall be inserted after the second sentence: 
+'This presupposes the availability of sufficient scientific staff within the organisation who possess experience and knowledge sufficient to assess the medical functionality and performance of devices for which it has been notified, having regard to the requirements of this Directive and, in particular, those set out in Annex I.` 
+Article 22 Implementation, transitional provisions 
+1. Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive not later than 7 December 1999. They shall immediately inform the Commission thereof. 
+Member States shall apply these provisions with effect from 7 June 2000. 
+When Member States adopt these provisions, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States. 
+2. Member States shall communicate to the Commission the texts of the main provisions of domestic law which they adopt in the field governed by this Directive. 
+3. The Committee referred to in Article 7 may undertake its tasks from the date of entry into force of this Directive. The Member States may take the measures referred to in Article 15 as from the entry force of this Directive. 
+4. Member States shall take the necessary action to ensure that the notified bodies which are responsible pursuant to Article 9 for conformity assessment take account of any relevant information regarding the characteristics and performance of such devices, including in particular the results of any relevant test and verification already carried out under pre-existing national law, regulations or administrative provisions in respect of such devices. 
+5. During a period of five years following the entry into force of this Directive, Member States shall accept the placing on the market of devices which conform to the rules in force in their territory on the date on which this Directive enters into force. For an additional period of two years, the said devices may be put into service. 
+Article 23 
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities. 
+Article 24 
+This Directive is addressed to the Member States. 
+Done at Luxembourg, 27 October 1998. 
+For the European Parliament 
+The President 
+J. M. GIL-ROBLES 
+For the Council 
+The President 
+E. HOSTASCH 
+(1) OJ C 172, 7.7.1995, p. 21 and OJ C 87, 18.3.1997, p. 9. 
+(2) OJ C 18, 22.1.1996, p. 12. 
+(3) Opinion of the European Parliament of 12 March 1996 (OJ C 96, 1.4.1996, p. 31), Council common position of 23 March 1998 (OJ C 178, 10.6.1998, p. 7) and Decision of the European Parliament of 18 June 1998 (OJ C 210, 6.7.1998). Council Decision of 5 October 1998. 
+(4) OJ C 136, 4.6.1985, p. 1. 
+(5) OJ L 189, 20.7.1990, p. 17. Directive as last amended by Directive 93/68/EEC (OJ L 220, 30.8.1993, p. 1). 
+(6) OJ L 169, 12.7.1993, p. 1. 
+(7) OJ L 207, 23.7.1998, p. 1. 
+(8) OJ L 159, 29.6.1996, p. 1. 
+(9) OJ L 139, 23.5.1989, p. 19. Directive as last amended by Directive 93/68/EEC (OJ L 220, 30.8.1993, p. 1). 
+(10) OJ L 204, 21.7.1998, p. 37. Directive as last amended by Directive 98/48/EC (OJ L 217, 5.8.1998, p. 18). 
+(11) OJ L 220, 30.8.1993, p. 23. 
+(12) OJ L 197, 18.7.1987, p. 33. 
+(13) OJ C 102, 4.4.1996, p. 1. 
+ANNEX I 
+ESSENTIAL REQUIREMENTS 
+A. GENERAL REQUIREMENTS 
+1. The devices must be designed and manufactured in such a way that, when used under the conditions and for the purposes intended, they will not compromise, directly or indirectly, the clinical condition or the safety of the patients, the safety or health of users or, where applicable, other persons, or the safety of property. Any risks which may be associated with their use must be acceptable when weighed against the benefits to the patient and be compatible with a high level of protection of health and safety. 
+2. The solutions adopted by the manufacturer for the design and construction of the devices must conform to safety principles, taking account of the generally acknowledged state of the art. 
+In selecting the most appropriate solutions, the manufacturer must apply the following principles in the following order: 
+- eliminate or reduce risks as far as possible (inherently safe design and construction), 
+- where appropriate take adequate protection measures in relation to risks that cannot be eliminated, 
+- inform users of the residual risks due to any shortcomings of the protection measures adopted. 
+3. The devices must be designed and manufactured in such a way that they are suitable for the purposes referred to in Article 1(2)(b), as specified by the manufacturer, taking account of the generally acknowledged state of the art. They must achieve the performances, in particular, where appropriate, in terms of analytical sensitivity, diagnostic sensitivity, analytical specificity, diagnostic specificity, accuracy, repeatability, reproducibility, including control of known relevant interference, and limits of detection, stated by the manufacturer. 
+The traceability of values assigned to calibrators and/or control materials must be assured through available reference measurement procedures and/or available reference materials of a higher order. 
+4. The characteristics and performances referred to in sections 1 and 3 must not be adversely affected to such a degree that the health or the safety of the patient or the user and, where applicable, of other persons, are compromised during the lifetime of the device as indicated by the manufacturer, when the device is subjected to the stresses which can occur during normal conditions of use. When no lifetime is stated, the same applies for the lifetime reasonably to be expected of a device of that kind, having regard to the intended purpose and the anticipated use of the device. 
+5. The devices must be designed, manufactured and packed in such a way that their characteristics and performances during their intended use will not be adversely affected under storage and transport conditions (temperature, humidity, etc.) taking account of the instructions and information provided by the manufacturer. 
+B. DESIGN AND MANUFACTURING REQUIREMENTS 
+1. Chemical and physical properties 
+1.1. The devices must be designed and manufactured in such a way as to achieve the characteristics and performances referred to in section A on the 'General requirements`. Particular attention must be paid to the possibility of impairment of analytical performance due to incompatibility between the materials used and the specimens (such as biological tissues, cells, body fluids and micro-organisms) intended to be used with the device, taking account of its intended purpose. 
+1.2. The devices must be designed, manufactured and packed in such a way as to reduce as far as possible the risk posed by product leakage, contaminants and residues to the persons involved in the transport, storage and use of the devices, taking account of the intended purpose of the products. 
+2. Infection and microbial contamination 
+2.1. The devices and their manufacturing processes must be designed in such a way as to eliminate or reduce as far as possible the risk of infection to the user or other persons. The design must allow easy handling and, where necessary, reduce as far as possible contamination of, and leakage from, the device during use and, in the case of specimen receptacles, the risk of contamination of the specimen. The manufacturing processes must be appropriate for these purposes. 
+2.2. Where a device incorporates biological substances, the risks of infection must be reduced as far as possible by selecting appropriate donors and appropriate substances and by using appropriate, validated inactivation, conservation, test and control procedures. 
+2.3. Devices labelled either as 'STERILE` or as having a special microbiological state must be designed, manufactured and packed in an appropriate pack, according to procedures suitable for ensuring that they remain in the appropriate microbiological state indicated on the label when placed on the market, under the storage and transport conditions specified by the manufacturer, until the protective packaging is damaged or opened. 
+2.4. Devices labelled either as 'STERILE` or as having a special microbiological state must have been processed by an appropriate, validated method. 
+2.5. Packaging systems for devices other than those referred to in section 2.3 must keep the product without deterioration at the level of cleanliness indicated by the manufacturer and, if the devices are to be sterilised prior to use, reduce as far as possible the risk of microbial contamination. 
+Steps must be taken to reduce as far as possible microbial contamination during selection and handling of raw materials, manufacture, storage and distribution where the performance of the device can be adversely affected by such contamination. 
+2.6. Devices intended to be sterilised must be manufactured in appropriately controlled (e.g. environmental) conditions. 
+2.7. Packaging systems for non-sterile devices must keep the product without deterioration at the level of cleanliness stipulated and, if the devices are to be sterilised prior to use, minimise the risk of microbial contamination; the packaging system must be suitable taking account of the method of sterilisation indicated by the manufacturer. 
+3. Manufacturing and environmental properties 
+3.1. If the device is intended for use in combination with other devices or equipment, the whole combination, including the connection system, must be safe and must not impair the specified performances of the devices. Any restrictions on use must be indicated on the label and/or in the instructions for use. 
+3.2. Devices must be designed and manufactured in such a way as to reduce as far as possible the risks linked to their use in conjunction with materials, substances and gases with which they may come into contact during normal conditions of use. 
+3.3. Devices must be designed and manufactured in such a way as to remove or reduce as far as possible: 
+- the risk of injury linked to their physical features (in particular aspects of volume x pressure, dimension and, where appropriate, ergonomic features), 
+- risks linked to reasonably foreseeable external influences, such as magnetic fields, external electrical effects, electrostatic discharge, pressure, humidity, temperature or variations in pressure or acceleration or accidental penetration of substances into the device. 
+Devices must be designed and manufactured in such a way as to provide an adequate level of intrinsic immunity of electromagnetic disturbance to enable them to operate as intended. 
+3.4. Devices must be designed and manufactured in such a way as to reduce as far as possible the risks of fire or explosion during normal use and in single fault condition. Particular attention must be paid to devices whose intended use includes exposure to or use in association with flammable substances or substances which could cause combustion. 
+3.5. Devices must be designed and manufactured in such a way as to facilitate the management of safe waste disposal. 
+3.6. The measuring, monitoring or display scale (including colour change and other visual indicators) must be designed and manufactured in line with ergonomic principles, taking account of the intended purpose of the device. 
+4. Devices which are instruments or apparatus with a measuring function 
+4.1. Devices which are instruments or apparatus having a primary analytical measuring function must be designed and manufactured in such a way as to provide adequate stability and accuracy of measurement within appropriate accuracy limits, taking into account the intended purpose of the device and of available and appropriate reference measurement procedures and materials. The accuracy limits have to be specified by the manufacturer. 
+4.2. When values are expressed numerically, they must be given in legal units conforming to the provisions of Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to units of measurement (1). 
+5. Protection against radiation 
+5.1. Devices shall be designed, manufactured and packaged in such a way that exposure of users and other persons to the emitted radiation is minimised. 
+5.2. When devices are intended to emit potentially hazardous, visible and/or invisible radiation, they must as far as possible be: 
+- designed and manufactured in such a way as to ensure that the characteristics and the quantity of radiation emitted can be controlled and/or adjusted, 
+- fitted with visual displays and/or audible warnings of such emissions. 
+5.3. The operating instructions for devices emitting radiation must give detailed information as to the nature of the emitted radiation, means of protecting the user, and on ways of avoiding misuse and of eliminating the risks inherent in installation. 
+6. Requirements for medical devices connected to or equipped with an energy source 
+6.1. Devices incorporating electronic programmable systems, including software, must be designed to ensure the repeatability, reliability and performance of these systems according to the intended use. 
+6.2. Devices must be designed and manufactured in such a way as to minimise the risks of creating electromagnetic perturbation which could impair the operation of other devices or equipment in the usual environment. 
+6.3. Devices must be designed and manufactured in such a way as to avoid, as far as possible, the risk of accidental electric shocks during normal use and in single fault condition, provided the devices are installed and maintained correctly. 
+6.4. Protection against mechanical and thermal risks 
+6.4.1. Devices must be designed and manufactured in such a way as to protect the user against mechanical risks. Devices must be sufficiently stable under the foreseen operating conditions. They must be suitable to withstand stresses inherent in the foreseen working environment, and to retain this resistance during the expected life of the devices, subject to any inspection and maintenance requirements as indicated by the manufacturer. 
+Where there are risks due to the presence of moving parts, risks due to break-up or detachment, or leakage of substances, then appropriate protection means must be incorporated. 
+Any guards or other means included with the device to provide protection, in particular against moving parts, must be secure and must not interfere with access for the normal operation of the device, or restrict routine maintenance of the device as intended by the manufacturer. 
+6.4.2. Devices must be designed and manufactured in such a way as to reduce to the lowest possible level the risks arising from vibration generated by the devices, taking account of technical progress and of the means available for limiting vibrations, particularly at source, unless the vibrations are part of the specified performance. 
+6.4.3. Devices must be designed and manufactured in such a way as to reduce as far as possible the risks arising from the noise emitted, taking account of technical progress and of the means available to reduce noise, particularly at source, unless the noise emitted is part of the specified performance. 
+6.4.4. Terminals and connectors to electricity, gas or hydraulic and pneumatic energy supplies which the user has to handle must be designed and manufactured in such a way as to minimise all possible risks. 
+6.4.5. Accessible parts of the devices (excluding the parts of areas intended to supply heat or reach given temperatures) and their surroundings must not attain potentially dangerous temperatures under normal use. 
+7. Requirements for devices for self-testing 
+Devices for self-testing must be designed and manufactured in such a way that they perform appropriately for their intended purpose taking into account the skills and the means available to users and the influence resulting from variation that can reasonably be anticipated in users' technique and environment. The information and instructions provided by the manufacturer should be easily understood and applied by the user. 
+7.1. Devices for self-testing must be designed and manufactured in such a way as to: 
+- ensure that the device is easy to use by the intended lay user at all stages of the procedure, and 
+- reduce as far as practicable the risk of user error in the handling of the device and in the interpretation of the results. 
+7.2. Devices for self-testing must, where reasonably possible, include user control, i.e. a procedure by which the user can verify that, at the time of use, the product will perform as intended. 
+8. Information supplied by the manufacturer 
+8.1. Each device must be accompanied by the information needed to use it safely and properly, taking account of the training and knowledge of the potential users, and to identify the manufacturer. 
+This information comprises the data on the label and in the instructions for use. 
+As far as practicable and appropriate, the information needed to use the device safely and properly must be set out on the device itself and/or, where appropriate, on the sales packaging. If individual full labelling of each unit is not practicable, the information must be set out on the packaging and/or in the instructions for use supplied with one or more devices. 
+Instructions for use must accompany or be included in the packaging of one or more devices. 
+In duly justified and exceptional cases no such instructions for use are needed for a device if it can be used properly and safely without them. 
+8.2. Where appropriate, the information to be supplied should take the form of symbols. Any symbol and identification colour used must conform to the harmonised standards. In areas for which no standards exist, the symbols and colour used must be described in the documentation supplied with the device. 
+8.3. In the case of devices containing or a preparation which may be considered as being dangerous, taking account of the nature and quantity of its constituents and the form under which they are present, relevant danger symbols and labelling requirements of Directive 67/548/EEC (2) and Directive 88/379/EEC (3) shall apply. Where there is insufficient space to put all the information on the device itself or on its label, the relevant danger symbols shall be put on the label and the other information required by those Directives shall be given in the instructions for use. 
+The provisions of the aforementioned Directives on the safety data sheet shall apply, unless all relevant information as appropriate is already made available by the instructions for use. 
+8.4. The label must bear the following particulars which may take the form of symbols as appropriate: 
+(a) the name or trade name and address of the manufacturer. For devices imported into the Community with a view to their distribution in the Community, the label, the outer packaging, or the instructions for use shall contain in addition the name and address of the authorised representative of the manufacturer; 
+(b) the details strictly necessary for the user to uniquely identify the device and the contents of the packaging; 
+(c) where appropriate, the word 'STERILE` or a statement indicating any special microbiological state or state of cleanliness; 
+(d) the batch code, preceded by the word 'LOT`, or the serial number; 
+(e) if necessary, an indication of the date by which the device or part of it should be used, in safety, without degradation of performance, expressed as the year, the month and, where relevant, the day, in that order; 
+(f) in case of devices for performance evaluation, the words 'for performance evaluation only`; 
+(g) where appropriate, a statement indicating the in vitro use of the device; 
+(h) any particular storage and/or handling conditions; 
+(i) where applicable, any particular operating instructions; 
+(j) appropriate warnings and/or precautions to take; 
+(k) if the device is intended for self-testing, that fact must be clearly stated. 
+8.5. If the intended purpose of the device is not obvious to the user, the manufacturer must clearly state the intended purpose in the instructions for use and, if appropriate, on the label. 
+8.6. Wherever reasonable and practicable, the devices and separate components must be identified, where appropriate in terms of batches, to allow all appropriate action to detect any potential risk posed by the devices and detachable components. 
+8.7. Where appropriate, the instructions for use must contain the following particulars: 
+(a) the details referred to in section 8.4 with the exception of points (d) and (e); 
+(b) composition of the reagent product by nature and amount or concentration of the active ingredient(s) of the reagent(s) or kit as well as a statement, where appropriate, that the device contains other ingredients which might influence the measurement; 
+(c) the storage conditions and shelf life following the first opening of the primary container, together with the storage conditions and stability of working reagents; 
+(d) the performances referred to in section 3 of part A; 
+(e) an indication of any special equipment required including information necessary for the identification of that special equipment for proper use; 
+(f) the type of specimen to be used, any special conditions of collection, pre-treatment and, if necessary, storage conditions and instructions for the preparation of the patient; 
+(g) a detailed description of the procedure to be followed in using the device; 
+(h) the measurement procedure to be followed with the device including as appropriate: 
+- the principle of the method, 
+- the specific analytical performance characteristics (e.g. sensitivity, specificity, accuracy, repeatability, reproducibility, limits of detection and measurement range, including information needed for the control of known relevant interferences), limitations of the method and information about the use of available reference measurement procedures and materials by the user, 
+- the details of any further procedure or handling needed before the device can be used (for example, reconstitution, incubation, dilution, instrument checks, etc.), 
+- the indication whether any particular training is required; 
+(i) the mathematical approach upon which the calculation of the analytical result is made; 
+(j) measures to be taken in the event of changes in the analytical performance of the device; 
+(k) information appropriate to users on: 
+- internal quality control including specific validation procedures, 
+- the traceability of the calibration of the device; 
+(l) the reference intervals for the quantities being determined, including a description of the appropriate reference population; 
+(m) if the device must be used in combination with or installed with or connected to other medical devices or equipment in order to operate as required for its intended purpose, sufficient details of its characteristics to identify the correct devices or equipment to use in order to obtain a safe and proper combination; 
+(n) all the information needed to verify whether the device is properly installed and can operate correctly and safely, plus details of the nature and frequency of the maintenance and calibration needed to ensure that the device operates properly and safely; information about safe waste disposal; 
+(o) details of any further treatment or handling needed before the device can be used (for example, sterilisation, final assembly, etc.); 
+(p) the necessary instructions in the event of damage to the protective packaging and details of appropriate methods of resterilisation or decontamination; 
+(q) if the device is reusable, information on the appropriate processes to allow reuse, including cleaning, disinfection, packaging and resterilisation or decontamination, and any restriction on the number of reuses; 
+(r) precautions to be taken as regards exposure, in reasonably foreseeable environmental conditions, to magnetic fields, external electrical influences, electrostatic discharge, pressure or variations in pressure, acceleration, thermal ignition sources, etc.; 
+(s) precautions to be taken against any special, unusual risks related to the use or disposal of the device including special protective measures; where the device includes substances of human or animal origin, attention must be drawn to their potential infectious nature; 
+(t) specifications for devices for self-testing: 
+- the results need to be expressed and presented in a way that is readily understood by a lay person; information needs to be provided with advice to the user on action to be taken (in case of positive, negative or indeterminate result) and on the possibility of false positive or false negative result, 
+- specific particulars may be omitted provided that the other information supplied by the manufacturer is sufficient to enable the user to use the device and to understand the result(s) produced by the device, 
+- the information provided must include a statement clearly directing that the user should not take any decision of medical relevance without first consulting his or her medical practitioner, 
+- the information must also specify that when the device for self-testing is used for the monitoring of an existing disease, the patient should only adapt the treatment if he has received the appropriate training to do so; 
+(u) date of issue or latest revision of the instructions for use. 
+(1) OJ L 39, 15.2.1980, p. 40. Directive as last amended by Directive 89/617/EEC (OJ L 357, 7.12.1989, p. 28). 
+(2) Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (OJ 196, 16.8.1967, p. 1). Directive as last amended by Commission Directive 97/69/EC (OJ L 343, 13.12.1997, p. 19). 
+(3) Council Directive 88/379/EEC of 7 June 1988 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations (OJ L 187, 16.7.1988, p. 14). Directive as last amended by Commission Directive 96/65/EC (OJ L 265, 18.10.1996, p. 15). 
+ANNEX II 
+LIST OF DEVICES REFERRED TO IN ARTICLE 9(2) AND (3) 
+List A 
+- Reagents and reagent products, including related calibrators and control materials, for determining the following blood groups: ABO system, rhesus (C, c, D, E, e) anti-Kell, 
+- reagents and reagent products, including related calibrators and control materials, for the detection, confirmation and quantification in human specimens of markers of HIV infection (HIV 1 and 2), HTLV I and II, and hepatitis B, C and D. 
+List B 
+- Reagents and reagent products, including related calibrators and control materials, for determining the following blood groups: anti-Duffy and anti-Kidd, 
+- reagents and reagent products, including related calibrators and control materials, for determining irregular anti-erythrocytic antibodies, 
+- reagents and reagent products, including related calibrators and control materials, for the detection and quantification in human samples of the following congenital infections: rubella, toxoplasmosis, 
+- reagents and reagent products, including related calibrators and control materials, for diagnosing the following hereditary disease: phenylketonuria, 
+- reagents and reagent products, including related calibrators and control materials, for determining the following human infections: cytomegalovirus, chlamydia, 
+- reagents and reagent products, including related calibrators and control materials, for determining the following HLA tissue groups: DR, A, B, 
+- reagents and reagent products, including related calibrators and control materials, for determining the following tumoral marker: PSA, 
+- reagents and reagent products, including related calibrators, control materials and software, designed specifically for evaluating the risk of trisomy 21, 
+- the following device for self-diagnosis, including its related calibrators and control materials: device for the measurement of blood sugar. 
+ANNEX III 
+EC DECLARATION OF CONFORMITY 
+1. The EC declaration of conformity is the procedure whereby the manufacturer or his authorised representative who fulfils the obligations imposed by section 2 to 5 and additionally, in the case of devices for self-testing, the obligations imposed by section 6, ensures and declares that the products concerned meet the provisions of this Directive which apply to them. The manufacturer must affix the CE marking in accordance with Article 16. 
+2. The manufacturer must prepare the technical documentation described in section 3 and ensure that the manufacturing process follows the principles of quality assurance as set out in section 4. 
+3. The technical documentation must allow assessment of the conformity of the product with the requirements of the Directive. It must include in particular: 
+- a general description of the product, including any variants planned, 
+- the documentation of the quality system, 
+- design information, including the determination of the characteristics of the basic materials, characteristics and limitation of the performance of the devices, methods of manufacture and, in the case of instruments, design drawings, diagrams of components, sub-assemblies, circuits, etc., 
+- in the case of devices containing tissues of human origin or substances derived from such tissue, information on the origin of such material and on the conditions in which it was collected, 
+- the descriptions and explanations necessary to understand the abovementioned characteristics, drawings and diagrams and the operation of the product, 
+- the results of the risk analysis and, where appropriate, a list of the standards referred to in Article 5, applied in full or in part, and descriptions of the solutions adopted to meet the essential requirements of the Directive if the standards referred to in Article 5 have not been applied in full, 
+- in the case of sterile products or products with a special microbiological state or state of cleanliness, a description of the procedures used, 
+- the results of the design calculations and of the inspections carried out, etc., 
+- if the device is to be combined with other device(s) in order to operate as intended, proof must be provided that it conforms to the essential requirements when combined with any such device(s) having the characteristics specified by the manufacturer, 
+- the test reports, 
+- adequate performance evaluation data showing the performances claimed by the manufacturer and supported by a reference measurement system (when available), with information on the reference methods, the reference materials, the known reference values, the accuracy and measurement units used; such data should originate from studies in a clinical or other appropriate environment or result from relevant biographical references, 
+- the labels and instructions for use, 
+- the results of stability studies. 
+4. The manufacturer shall take necessary measures to ensure that the manufacturing process follows the principles of quality assurance as appropriate for the products manufactured. 
+The system shall address: 
+- the organisational structure and responsibilities, 
+- the manufacturing processes and systematic quality control of production, 
+- the means to monitor the performance of the quality system. 
+5. The manufacturer shall institute and keep up to date a systematic procedure to review experience gained from devices in the post-production phase and to implement appropriate means to apply any necessary corrective actions, taking account of the nature and risks in relation to the product. He shall notify the competent authorities of the following incidents immediately on learning of them: 
+(i) any malfunction, failure or deterioration in the characteristics and/or performance of a device, as well as any inadequacy in the labelling or the instructions for use which, directly or indirectly, might lead to, or might have led to, the death of a patient or user or other persons or to a serious deterioration in his or their state of health; 
+(ii) any technical or medical reason connected with the characteristics or the performance of a device for the reasons referred to in subparagraph (i) leading to systematic recall of devices of the same type by the manufacturer. 
+6. For devices for self-testing the manufacturer shall lodge an application for examination of the design with a notified body. 
+6.1. The application shall enable the design of the device to be understood and shall enable conformity with the design-related requirements of the directive to be assessed. 
+It shall include: 
+- test reports including, where appropriate, results of studies carried out with lay persons, 
+- data showing the handling suitability of the device in view of its intended purpose for self-testing, 
+- the information to be provided with the device on its label and its instructions for use. 
+6.2. The notified body shall examine the application and, if the design conforms to the relevant provisions of this Directive shall issue the applicant with an EC design-examination certificate. The notified body may require the application to be completed by further tests or proof to allow assessment of conformity with the design-related requirements of the Directive. The certificate shall contain the conclusions of the examination, the conditions of validity, the data needed for identification of the approved design and, where appropriate, a description of the intended purpose of the product. 
+6.3. The applicant shall inform the notified body which issued the EC design-examination certificate of any significant change made to the approved design. Changes to the approved design must receive further approval from the notified body which issued the EC design-examination certificate wherever the changes could affect conformity with the essential requirements of the Directive or with the conditions prescribed for use of the product. This additional approval shall take the form of a supplement to the EC design-examination certificate. 
+ANNEX IV 
+EC DECLARATION OF CONFORMITY (FULL QUALITY ASSURANCE SYSTEM) 
+1. The manufacturer must ensure application of the quality system approved for the design, manufacture and final inspection of the devices concerned, as specified in section 3, and is subject to audit as laid down in section 3.3 and to the surveillance as specified in section 5. In addition, the manufacturer must follow, for devices covered by Annex II, List A, the procedures laid down in sections 4 and 6. 
+2. The declaration of conformity is the procedure whereby the manufacturer who fulfils the obligations imposed by section 1 ensures and declares that the devices concerned meet the provisions of this Directive which apply to them. 
+The manufacturer shall affix the CE marking in accordance with Article 16 and shall draw up a declaration of conformity covering the devices concerned. 
+3. Quality system 
+3.1. The manufacturer must lodge an application for assessment of his quality system with a notified body. 
+The application must include: 
+- the name and address of the manufacturer and any additional manufacturing site covered by the quality system, 
+- adequate information on the device or device category covered by the procedure, 
+- a written declaration that no such application has been lodged with any other notified body for the same device-related quality system, 
+- the documentation on the quality system, 
+- an undertaking by the manufacturer to fulfil the obligations imposed by the quality system approved, 
+- an undertaking by the manufacturer to keep the approved quality system adequate and efficacious, 
+- an undertaking by the manufacturer to institute and keep up to date a systematic procedure to review experience gained from devices in the post-production phase and to implement appropriate means to apply any necessary corrective action and notification as referred to in Annex III, section 5. 
+3.2. Application of the quality system must ensure that the devices conform to the provisions of this Directive which apply to them at every stage, from design to final inspection. All the elements, requirements and provisions adopted by the manufacturer for his quality system must be documented in a systematic and orderly manner in the form of written policies and procedures, such as quality programmes, quality plans, quality manuals and quality records. 
+It shall include in particular an adequate description of: 
+(a) the manufacturer's quality objectives; 
+(b) the organisation of the business and in particular: 
+- the organisational structures, the responsibilities of the managerial staff and their organisational authority where quality of design and manufacture of the devices is concerned, 
+- the methods of monitoring the efficient operation of the quality system and in particular its ability to achieve the desired quality of design and of product, including control of devices which fail to conform; 
+(c) the procedures for monitoring and verifying the design of the devices and in particular: 
+- a general description of the device, including any variants planned, 
+- all documentation referred to in Annex III, section 3, indents 3 to 13, 
+- in the case of devices for self-testing, the information referred to in Annex III, section 6.1, 
+- the techniques used to control and verify the design and the processes and systematic measures which will be used when the devices are being designed; 
+(d) the inspection and quality assurance techniques at the manufacturing stage and in particular: 
+- the processes and procedures which will be used, particularly as regards sterilisation, 
+- the procedures in relation to purchasing, 
+- the product identification procedures drawn up and kept up to date from drawings, specifications or other relevant documents at every stage of manufacture; 
+(e) the appropriate tests and trials which will be carried out before, during and after manufacture, the frequency with which they will take place, and the test equipment used; it must be possible to trace back the calibration. 
+The manufacturer shall carry out the required controls and tests according to the latest state of the art. The controls and tests shall cover the manufacturing process including the characterisation of the raw material and the individual devices or each batch of devices manufactured. 
+In testing the devices covered by Annex II, List A, the manufacturer shall take into account the most recent available information, in particular as regards the biological complexity and variability of the specimens to be tested with the in vitro device concerned. 
+3.3. The notified body must audit the quality system to determine whether it meets the requirements referred to in section 3.2. It must presume that quality systems which implement the relevant harmonised standards conform to the requirements. 
+The assessment team must have experience of assessments of the technology concerned. The assessment procedure must include an inspection on the manufacturer's premises and, in duly substantiated cases, on the premises of the manufacturer's suppliers and/or subcontractors to inspect the manufacturing processes. 
+The decision shall be notified to the manufacturer. It must contain the conclusions of the inspection and a reasoned assessment. 
+3.4. The manufacturer must inform the notified body which approved the quality system of any plan for substantial changes to the quality system or the product-range covered. 
+The notified body must assess the changes proposed and verify whether after these changes the quality system still meets the requirements referred to in section 3.2. It must notify the manufacturer of its decision. This decision must contain the conclusions of the inspection and a reasoned assessment. 
+4. Examination of the design of the product 
+4.1. For devices covered by Annex II, List A, in addition to the obligations imposed by section 3, the manufacturer must lodge with the notified body an application for examination of the design dossier relating to the device which he plans to manufacture and which falls into the category referred to in section 3.1. 
+4.2. The application must describe the design, manufacture and performances of the device in question. It must include the documents needed to assess whether the device conforms to the requirements of this Directive, as referred to in section 3.2(c). 
+4.3. The notified body must examine the application and, if the device conforms to the relevant provisions of the Directive, issue the application with an EC design-examination certificate. The notified body may require the application to be completed by further tests or proof to allow assessment of conformity with the requirements of the Directive. The certificate must contain the conclusions of the examination, the conditions of validity, the data needed for the identification of the approved design and, where appropriate, a description of the intended purpose of the device. 
+4.4. Changes to the approved design must receive further approval from the notified body which issued the EC design-examination certificate wherever the changes could affect conformity with the essential requirements of the Directive or with the conditions prescribed for use of the device. The applicant shall inform the notified body which issued the EC design-examination certificate of any such changes made to the approved design. The additional approval must take the form of a supplement to the EC design-examination certificate. 
+4.5. The manufacturer shall inform the notified body without delay if it has obtained information about changes to the pathogen and markers of infections to be tested, in particular as a consequence of biological complexity and variability. In this connection, the manufacturer shall inform the notified body whether any such change is likely to affect the performance of the in vitro diagnostic medical device concerned. 
+5. Surveillance 
+5.1. The aim of surveillance is to ensure that the manufacturer duly fulfils the obligations imposed by the approved quality system. 
+5.2. The manufacturer must authorise the notified body to carry out all the necessary inspections and supply it with all relevant information, in particular: 
+- the documentation on the quality system, 
+- the data stipulated in the part of the quality system relating to design, such as the results of analyses, calculation, tests, etc., 
+- the data stipulated in the part of the quality system relating to manufacture, such as inspection reports and test data, calibration data, qualification reports of the personnel concerned, etc. 
+5.3. The notified body must periodically carry out appropriate inspections and assessments to make sure that the manufacturer applies the approved quality system and must supply the manufacturer with an assessment report. 
+5.4. In addition, the notified body may pay unannounced visits to the manufacturer. At the time of such visits, the notified body may, where necessary, carry out or ask for tests in order to check that the quality system is working properly. It must provide the manufacturer with an inspection report and, if a test has been carried out, with a test report. 
+6. Verification of manufactured products covered by Annex II, List A 
+6.1. In the case of devices covered by Annex II, List A, the manufacturer shall forward to the notified body without delay after the conclusion of the controls and tests the relevant reports on the tests carried out on the manufactured devices or each batch of devices. Furthermore, the manufacturer shall make the samples of manufactured devices or batches of devices available to the notified body in accordance with pre-agreed conditions and modalities. 
+6.2. The manufacturer may place the devices on the market, unless the notified body communicates to the manufacturer within the agreed time-frame, but not later than 30 days after reception of the samples, any other decision, including in particular any condition of validity of delivered certificates. 
+ANNEX V 
+EC TYPE-EXAMINATION 
+1. EC type-examination is the part of the procedure whereby a notified body ascertains and certifies that a representative sample of the production envisaged fulfils the relevant provisions of this Directive. 
+2. The application for EC type-examination shall be lodged by the manufacturer or by his authorised representative with a notified body. 
+The application shall include: 
+- the name and the address of the manufacturer and the name and address of the authorised representative if the application is lodged by the representative, 
+- the documentation described in section 3 needed to assess the conformity of the representative sample of the production in question, hereinafter referred to as the 'type`, with the requirements of this Directive. The applicant shall make a 'type` available to the notified body. The notified body may request other samples as necessary, 
+- a written declaration that no application has been lodged with any other notified body for the same type. 
+3. The documentation must allow an understanding of the design, the manufacture and the performances of the device. The documentation shall contain the following items in particular: 
+- a general description of the type, including any variants planned, 
+- all documentation referred to in Annex III, section 3, indents 3 to 13, 
+- in the case of devices for self testing, the information referred to in Annex III, section 6.1. 
+4. The notified body shall: 
+4.1. examine and assess the documentation and verify that the type has been manufactured in conformity with that documentation; it shall also record the items designed in conformity with the applicable provisions of the standards referred to in Article 5, as well as the items not designed on the basis of the relevant provisions of the abovementioned standards; 
+4.2. perform or have performed appropriate examinations and the tests necessary to verify whether the solutions adopted by the manufacturer meet the essential requirements of this Directive if the standards referred to in Article 5 have not been applied; if the device is to be combined with other device(s) in order to operate as intended, proof must be provided that it conforms to the essential requirements when combined with any such device(s) having the characteristics specified by the manufacturer; 
+4.3. carry out or ask for the appropriate examinations and the tests necessary to verify whether, if the manufacturer has chosen to apply the relevant standards, these have actually been applied; 
+4.4. agree with the applicant on the place where the necessary examinations and tests will be carried out. 
+5. If the type conforms to the provisions of this Directive, the notified body shall issue the applicant with an EC type-examination certificate. The certificate shall contain the name and address of the manufacturer, the conclusions of the examination, the conditions of validity and the data needed for identification of the type approved. The relevant parts of the documentation shall be annexed to the certificate and a copy shall be kept by the notified body. 
+6. The manufacturer shall inform the notified body without delay if it has obtained information about changes to the pathogen and markers of infections to be tested, in particular as a consequence of biological complexity and variability. In this connection, the manufacturer shall inform the notified body whether any such change is likely to affect the performance of the in vitro device concerned. 
+6.1. Changes to the approved device must receive further approval from the notified body which issued the EC type-examination certificate wherever the changes may affect conformity with the essential requirements of the Directive or with the conditions prescribed for use of the device. The applicant shall inform the notified body which issued the EC type-examination certificate of any such change made to the approved device. This new approval shall take the form of a supplement to the initial EC type-examination certificate. 
+7. Administrative provisions 
+Other notified bodies may obtain a copy of the EC type-examination certificates and/or the supplements thereto. The annexes to the certificates must be available to the other notified bodies on reasoned application, after the manufacturer has been informed. 
+ANNEX VI 
+EC VERIFICATION 
+1. EC verification is the procedure whereby the manufacturer or his authorised representative ensures and declares that the products which have been subject to the procedure set out in section 4 conform to the type described in the EC type-examination certificate and meet the requirements of this Directive which apply to them. 
+2.1. The manufacturer must take all the measures necessary to ensure that the manufacturing process produces products which conform to the type described in the EC type-examination certificate and the requirements of the Directive which apply to them. Before the start of manufacture, the manufacturer must prepare documents defining the manufacturing process, in particular as regards sterilisation and the suitability of starting materials, where necessary, and define the necessary testing procedures according to the state of the art. All the routine, pre-established provisions must be implemented to ensure homogeneous production and conformity of the products with the type described in the EC type-examination certificate and with the requirements of this Directive which apply to them. 
+2.2. To the extent that for certain aspects the final testing according to section 6.3 is not appropriate, adequate process testing, monitoring and control methods shall be established by the manufacturer with the approval of the notified body. The provisions of Annex IV, section 5, shall apply accordingly in relation to the abovementioned approved procedures. 
+3. The manufacturer must undertake to institute and keep up to date a systematic procedure to review experience gained from devices in the post-production phase and to implement appropriate means to apply any necessary corrective and notification action as referred to in Annex III, section 5. 
+4. The notified body must carry out the appropriate examinations and tests taking account of section 2.2 in order to verify the conformity of the product with the requirements of the Directive either by examining and testing every product as specified in section 5 or by examining and testing products on a statistical basis as specified in section 6, as the manufacturer decides. When carrying out statistical verification according to section 6, the notified body has to decide when statistical procedures for lot-by-lot inspection or isolated lot inspection have to be applied. Such decision must be taken in consultation with the manufacturer. 
+In as far as the conduct of examinations and tests on a statistical basis is not appropriate, examinations and tests may be carried out on a random basis provided that such procedure in conjunction with the measures taken in accordance with section 2.2 ensures an equivalent level of conformity. 
+5. Verification by examination and testing of every product 
+5.1. Every product is examined individually and the appropriate tests defined in the relevant standard(s) referred to in Article 5 or equivalent tests must be carried out in order to verify the conformity of the products with the EC type described in the type-examination certificate and with the requirements of the Directive which apply to them. 
+5.2. The notified body must affix, or have affixed, its identification number to each approved product and must draw up a written certificate of conformity relating to the tests carried out. 
+6. Statistical verification 
+6.1. The manufacturer must present the manufactured products in the form of homogeneous batches. 
+6.2. One or more random samples, as necessary, are taken from each batch. The products which make up the sample are examined and the appropriate tests defined in the relevant standard(s) referred to in Article 5 or equivalent tests must be carried out to verify, where appropriate, the conformity of the products with the type described in the EC type-examination certificate and with the requirements of the Directive which apply to them in order to determine whether to accept or reject the batch. 
+6.3. Statistical control of products will be based on attributes and/or variables, entailing sampling schemes with operational characteristics which ensure a high level of safety and performance according to the state of the art. The sampling scheme will be established by the harmonised standards referred to in Article 5, taking account of the specific nature of the product categories in question. 
+6.4. If the batch is accepted, the notified body affixes, or has affixed its identification number to each product and draws up a written certificate of conformity relating to the tests carried out. All products in the batch may be put on the market except any in the sample which failed to conform.If the batch is rejected the competent notified body must take appropriate measures to prevent the batch from being placed on the market. In the event of frequent rejection of batches, the notified body may suspend the statistical verification. 
+The manufacturer may, on the responsibility of the notified body, affix the notified body's identification number during the manufacturing process. 
+ANNEX VII 
+EC DECLARATION OF CONFORMITY (PRODUCTION QUALITY ASSURANCE) 
+1. The manufacturer must ensure application of the quality system approved for the manufacture of the devices concerned and carry out the final inspection, as specified in section 3, and is subject to the surveillance referred to in section 4. 
+2. The declaration of conformity is the part of the procedure whereby the manufacturer who fulfils the obligations imposed by section 1 ensures and declares that the products concerned conform to the type described in the EC type-examination certificate and meet the provisions of this Directive which apply to them. 
+The manufacturer must affix the CE marking in accordance with Article 16 and draw up a declaration of conformity covering the devices concerned. 
+3. Quality system 
+3.1. The manufacturer must lodge an application for assessment of his quality system with a notified body. 
+The application must include: 
+- all documentation and undertakings referred to in Annex IV, section 3.1, and 
+- the technical documentation on the types approved and a copy of the EC type-examination certificates. 
+3.2. Application of the quality system must ensure that the devices conform to the type described in the EC type-examination certificate. 
+All the elements, requirements and provisions adopted by the manufacturer for his quality system must be documented in a systematic and orderly manner in the form of written policy statements and procedures. This quality system documentation must permit uniform interpretation of the quality policy and procedures such as quality programmes, plans, manuals and records. 
+It must include in particular an adequate description of: 
+(a) the manufacturer's quality objectives; 
+(b) the organisation of the business and in particular: 
+- the organisational structures, the responsibilities of the managerial staff and their organisational authority where quality of manufacture of the devices is concerned, 
+- the methods of monitoring the efficient operation of the quality system and in particular its ability to achieve the desired quality of product, including control of devices which fail to conform; 
+(c) the inspection and quality assurance techniques at the manufacturing stage and in particular: 
+- the processes and procedures which will be used, particularly as regards sterilisation, 
+- the procedures in relation to purchasing, 
+- the product identification procedures drawn up and kept up to date from drawings, specifications or other relevant documents at every stage of manufacture; 
+(d) the appropriate tests and trials to be carried out before, during and after manufacture, the frequency with which they will take place, and the test equipment used; it must be possible to trace back the calibration. 
+3.3. The notified body must audit the quality system to determine whether it meets the requirements referred to in section 3.2. It must presume that quality systems which implement the relevant harmonised standards conform to these requirements. 
+The assessment team must have past experience of assessments of the technology concerned. The assessment procedure must include an inspection on the manufacturer's premises and, in duly substantiated cases, on the premises of the manufacturer's suppliers and/or subcontractors to inspect the manufacturing processes. 
+The decision must be notified to the manufacturer. It must contain the conclusions of the inspection and a reasoned assessment. 
+3.4. The manufacturer shall inform the notified body which approved the quality system of any plan for substantial changes to the quality system. 
+The notified body must assess the changes proposed and verify whether after these changes the quality system still meets the requirements referred to in section 3.2. It must notify the manufacturer of its decision. This decision must contain the conclusions of the inspection and a reasoned assessment. 
+4. Surveillance 
+The provision of Annex IV, section 5, shall apply. 
+5. Verification of manufactured products covered by Annex II, List A 
+5.1. In the case of devices covered by Annex II, List A, the manufacturer shall forward to the notified body without delay after the conclusion of the controls and tests the relevant reports on the tests carried out on the manufactured devices or each batch of devices. Furthermore, the manufacturer shall make the samples of manufactured devices or batches of devices available to the notified body in accordance with pre-agreed conditions and modalities. 
+5.2. The manufacturer may place the devices on the market, unless the notified body communicates to the manufacturer within the agreed time-frame, but not later than 30 days after reception of the samples, any other decision, including in particular any condition of validity of delivered certificates. 
+ANNEX VIII 
+STATEMENT AND PROCEDURES CONCERNING DEVICES FOR PERFORMANCE EVALUATION 
+1. For devices for performance evaluation the manufacturer or his authorised representative shall draw up the statement containing the information stipulated in section 2 and ensure that the relevant provisions of this Directive are met. 
+2. The statement shall contain the following information: 
+- data allowing identification of the device in question, 
+- an evaluation plan stating in particular the purpose, scientific, technical or medical grounds, scope of the evaluation and number of devices concerned, 
+- the list of laboratories or other institutions taking part in the evaluation study, 
+- the starting date and scheduled duration for the evaluations and, in the case of devices for self-testing, the location and number of lay persons involved, 
+- a statement that the device in question conforms to the requirements of the Directive, apart from the aspects covered by the evaluation and apart from those specifically itemised in the statement, and that every precaution has been taken to protect the health and safety of the patient, user and other persons. 
+3. The manufacturer shall also undertake to keep available for the competent national authorities the documentation allowing an understanding of the design, manufacture and performances of the product, including the expected performances, so as to allow assessment of conformity with the requirements of this Directive. This documentation must be kept for a period ending at least five years after the end of the performance evaluation. 
+The manufacturer shall take all the measures necessary for the manufacturing process to ensure that the products manufactured conform to the documentation mentioned in the first paragraph. 
+4. The provisions of Article 10(1), (3) and (5) shall apply to devices intended for performance evaluation. 
+ANNEX IX 
+CRITERIA FOR THE DESIGNATION OF NOTIFIED BODIES 
+1. The notified body, its director and the assessment and verification staff shall not be the designer, manufacturer, supplier, installer or user of the devices which they inspect, nor the authorised representative of any of these persons. They may not be directly involved in the design, construction, marketing or maintenance of the devices, nor represent the parties engaged in these activities. This in no way precludes the possibility of exchanges of technical information between the manufacturer and the body. 
+2. The notified body and its staff must carry out the assessment and verification operations with the highest degree of professional integrity and the requisite competence in the field of medical devices and must be free from all pressures and inducements, particularly financial, which might influence their judgment or the results of the inspection, especially from persons or groups of persons with an interest in the results of the verifications. 
+Should the notified body subcontract specific tasks connected with the establishment and verification of the facts, it must first ensure that the subcontractor meets the provisions of the Directive. The notified body shall keep at the disposal of the national authorities the relevant documents assessing the subcontractor's qualifications and the work carried out by the subcontractor under this Directive. 
+3. The notified body must be able to carry out all the tasks assigned to such bodies by one of Annexes III to VII and for which it has been notified, whether these tasks are carried out by the body itself or on its responsibility. In particular, it must have the necessary staff and possess the facilities needed to perform properly the technical and administrative tasks entailed in assessment and verification. This includes the availability of sufficient scientific staff within the organisation who possess adequate experience and knowledge necessary to assess the biological and medical functionality and performance of devices for which it has been notified, in relation to the requirements of this Directive and, in particular, with Annex I requirements. The notified body must also have access to the equipment necessary for the verifications required. 
+4. The inspection staff must have: 
+- sound vocational training covering all the assessment and verification operations for which the body has been designated, 
+- satisfactory knowledge of the rules on the inspections which they carry out and adequate experience of such inspections, 
+- the ability required to draw up the certificates, records and reports to demonstrate that the inspections have been carried out. 
+5. The impartiality of the inspection staff must be guaranteed. Their remuneration must not depend on the number of inspections carried out, nor on the results of the inspections. 
+6. The body must take out civil liability insurance, unless liability is assumed by the State under domestic legislation or the Member State itself carries out the inspections directly. 
+7. The staff of the inspection body are bound to observe professional secrecy with regard to all information gained in the course of their duties (except vis-Ă -vis the competent administrative authorities of the State in which their activities are carried out) under this Directive or any provision of national law putting it into effect. 
+ANNEX X 
+CE MARKING OF CONFORMITY 
+The CE conformity marking shall consist of the initials 'CE` taking the following form: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+- If the marking is reduced or enlarged the proportions given in the above graduated drawing must be respected, 
+- the various components of the CE marking must have substantially the same vertical dimension, which may not be less than 5 mm. This minimum dimension may be waived for small-scale devices. 

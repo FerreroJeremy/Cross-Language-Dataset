@@ -1,0 +1,305 @@
+Reglamento (CE) n° 552/2004 del Parlamento Europeo y del Consejo, de 10 de marzo de 2004, relativo a la interoperabilidad de la red europea de gestión del tránsito aéreo (Reglamento de interoperabilidad) (Texto pertinente a efectos del EEE) 
+Reglamento (CE) no 552/2004 del Parlamento Europeo y del Consejo 
+de 10 de marzo de 2004 
+relativo a la interoperabilidad de la red europea de gestión del tránsito aéreo 
+(Reglamento de interoperabilidad) 
+(Texto pertinente a efectos del EEE) 
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA, 
+Visto el Tratado constitutivo de la Comunidad Europea, y en particular el apartado 2 de su artículo 80, 
+Vista la propuesta de la Comisión(1), 
+Visto el dictamen del Comité Económico y Social Europeo(2), 
+Visto el dictamen del Comité de las Regiones(3), 
+De conformidad con el procedimiento establecido en el artículo 251 del Tratado, a la vista del texto conjunto aprobado por el Comité de Conciliación el 11 de diciembre de 2003(4), 
+Considerando lo siguiente: 
+(1) A fin de crear el cielo único europeo, deben adoptarse medidas en cuanto a sistemas, componentes y procedimientos asociados, con objeto de garantizar una interoperabilidad de la red europea de gestión del tránsito aéreo coherente con la prestación de servicios de navegación aérea con arreglo a lo dispuesto en el Reglamento (CE) n° 550/2004 del Parlamento Europeo y del Consejo, de 10 de marzo de 2004, relativo a la prestación de servicios de navegación aérea en el cielo único europeo(5) (denominado en lo sucesivo %quot%Reglamento de prestación de servicios%quot%) y con la organización y utilización del espacio aéreo según lo dispuesto en el Reglamento (CE) n° 551/2004 del Parlamento Europeo y del Consejo, de 10 de marzo de 2004, relativo a la organización y utilización del espacio aéreo en el cielo único europeo(6) (denominado en lo sucesivo %quot%Reglamento de espacio aéreo%quot%). 
+(2) El informe del Grupo de alto nivel sobre el cielo único europeo ha confirmado la necesidad de establecer una normativa técnica basada en un %quot%nuevo enfoque%quot% con arreglo a la Resolución del Consejo, de 7 de mayo de 1985 relativa a un nuevo enfoque en materia de armonización y de normalización(7), en la que los requisitos esenciales, reglas y normas esenciales sean complementarios y coherentes. 
+(3) El Reglamento (CE) n° 549/2004 del Parlamento Europeo y del Consejo, de 10 de marzo de de 2004, por el que se fija el marco para la creación del cielo único europeo (denominado en lo sucesivo %quot%Reglamento marco%quot%(8) fija el marco para la creación del cielo único europeo. 
+(4) El informe del Grupo de alto nivel ha confirmado que aunque en los últimos años se han conseguido avances hacia el funcionamiento continuo de la red europea de gestión del tránsito aéreo, la situación sigue siendo insatisfactoria debido al bajo nivel de integración entre los sistemas nacionales de gestión del tránsito aéreo y a la lentitud con que se introducen los nuevos conceptos de operación y tecnología necesarios para generar la capacidad adicional requerida. 
+(5) Un mayor nivel de integración en el ámbito comunitario se traduciría en una mejora de la eficacia y una reducción de costes de mantenimiento y adquisición, y en una mayor coordinación operativa. 
+(6) El predominio de las especificaciones técnicas nacionales en la adquisición de suministros ha provocado la fragmentación del mercado de sistemas y no facilita la cooperación industrial en el ámbito comunitario. Las consecuencias de esta situación afectan especialmente a la industria, que debe adaptar considerablemente sus productos a cada mercado nacional. Estas prácticas hacen que el desarrollo y la aplicación de la nueva tecnología dificulten y reduzcan innecesariamente el ritmo de introducción de los nuevos conceptos operativos que son necesarios para aumentar la capacidad. 
+(7) Por tanto, redunda en el interés de todos los que intervienen en la gestión del tránsito aéreo desarrollar un nuevo planteamiento de cooperación que permita la participación equilibrada de todas las partes, estimulando la creatividad y la puesta en común de los conocimientos, experiencias y riesgos. Dicha cooperación debe tender a definir, en colaboración con la industria, un conjunto coherente de especificaciones comunitarias capaz de satisfacer la mayor gama de necesidades. 
+(8) El mercado interior es un objetivo comunitario, por lo que las medidas que se adopten a tenor del presente Reglamento deben contribuir a su progresivo desarrollo en este sector. 
+(9) En consecuencia, es conveniente definir los requisitos esenciales que se deben aplicar a la red europea de gestión del tránsito aéreo, sus sistemas, componentes y procedimientos asociados. 
+(10) Deben aprobarse medidas de ejecución en materia de interoperabilidad de sistemas cuando sea necesario completar o perfeccionar los requisitos esenciales. También deben aprobarse dichas medidas cuando sea necesario facilitar la introducción coordinada de nuevos conceptos, acordados y validados de operación o de tecnologías. El cumplimiento de dichas normas debe mantenerse de manera permanente. Las mencionadas normas deben basarse en las reglas y las normas desarrolladas por organizaciones internacionales como Eurocontrol o la OACI. 
+(11) El desarrollo y adopción de especificaciones comunitarias sobre la red europea de gestión del tránsito aéreo, sus sistemas, componentes y procedimientos asociados constituye un medio apropiado para determinar las condiciones técnicas y operativas necesarias para cumplir los requisitos esenciales y las correspondientes medidas de ejecución en materia de interoperabilidad. El cumplimiento de las especificaciones comunitarias publicadas, que sigue teniendo un carácter voluntario, da lugar a una presunción de conformidad con los requisitos fundamentales y las correspondientes medidas de ejecución en materia de interoperabilidad. 
+(12) Las especificaciones comunitarias deben ser establecidas por organismos europeos de normalización, conjuntamente con la Organización Europea de Equipos de Aviación Civil (Eurocae), y por Eurocontrol con arreglo a los procedimientos de normalización generales de la Comunidad. 
+(13) Los procedimientos que regulan la evaluación de la conformidad o de idoneidad para el uso de los componentes deben basarse en el uso de los módulos previstos en la Decisión 93/465/CEE del Consejo, de 22 de julio de 1993, relativa a los módulos correspondientes a las diversas fases de los procedimientos de evaluación de la conformidad y a las disposiciones referentes al sistema de colocación y utilización del marcado %quot%CE%quot% de conformidad, que van a utilizarse en las directivas de armonización técnica(9). En la medida necesaria, estos módulos deben ampliarse para abarcar los requisitos específicos de las industrias afectadas. 
+(14) El mercado en cuestión es de pequeñas dimensiones, y consiste en sistemas y componentes de uso casi exclusivo por la gestión del tránsito aéreo y no destinados al gran público. En consecuencia, sería excesivo adjudicar la marca CE a estos componentes ya que, con arreglo a la evaluación de la conformidad y/o de idoneidad para el uso, es suficiente la declaración de conformidad del fabricante. Esto no debe afectar a la obligación del fabricante de colocar la marca CE en determinados componentes para certificar que cumplen otras disposiciones comunitarias aplicables. 
+(15) La entrada en servicio de sistemas de gestión del tránsito aéreo debe estar sometida a la verificación del cumplimiento de los requisitos esenciales y las correspondientes medidas de ejecución en materia de interoperabilidad. El uso de especificaciones comunitarias crea una presunción de conformidad con los requisitos esenciales y con las correspondientes medidas de ejecución en materia de interoperabilidad. 
+(16) La plena aplicación de las disposiciones del presente Reglamento debe estar acompañada de una estrategia de transición que procure alcanzar los objetivos de este Reglamento, sin crear al mismo tiempo injustificados obstáculos de costes-beneficios al mantenimiento de la infraestructura existente. 
+(17) En el marco de la legislación comunitaria aplicable se debe tener en cuenta la necesidad de garantizar: 
+- unas condiciones armonizadas en cuanto a la disponibilidad y al uso eficiente del espectro radioeléctrico necesario para crear el cielo único europeo, incluidos los aspectos de compatibilidad electromagnética, 
+- la protección de los servicios relacionados con la seguridad de la vida humana frente a las interferencias perjudiciales, 
+- un uso eficaz y adecuado de las frecuencias asignadas y gestionadas con carácter exclusivo por el sector de la aviación. 
+(18) La Directiva 93/65/CEE del Consejo, de 19 de julio de 1993, relativa a la definición y a la utilización de especificaciones técnicas compatibles para la adquisición de equipos y de sistemas de gestión del tránsito aéreo(10), se limita a las obligaciones del organismo adjudicador. El presente Reglamento es más completo porque trata de las obligaciones de todos los actores, incluidos los proveedores de servicios de navegación aérea, usuarios del espacio aéreo, industria y aeropuertos, y permite tanto dictar normas aplicables a todos como adoptar especificaciones comunitarias que, al tiempo que son de carácter voluntario, implican la presunción de conformidad con los requisitos esenciales. Procede, por tanto, derogar al término de un período transitorio la Directiva 93/65/CEE, la Directiva 97/15/CE de la Comisión, de 25 de marzo de 1997, por la que se adoptan algunas normas de Eurocontrol y se modifica la Directiva 93/65/CEE del Consejo, relativa a la definición y a la utilización de especificaciones técnicas compatibles para la adquisición de equipos y de sistemas para la gestión del tránsito aéreo(11), y los Reglamentos (CE) n° 2082/2000, de 6 de septiembre de 2000, por el que se adoptan normas de Eurocontrol y se modifica la Directiva 97/15/CE(12) por la que se adoptan algunas normas de Eurocontrol y se modifica la Directiva 93/65/CEE del Consejo, y (CE) n° 980/2002, de 4 de junio de 2002, por el que se modifica el Reglamento (CE) n° 2082/2000, ambos de la Comisión. 
+(19) Por motivos de seguridad jurídica es importante garantizar que se mantengan, en esencia, algunas disposiciones de la legislación comunitaria adoptada sobre la base de la Directiva 93/65/CEE. La adopción en virtud del presente Reglamento de las medidas de ejecución correspondientes a dichas disposiciones llevará un cierto tiempo. 
+HAN ADOPTADO EL PRESENTE REGLAMENTO: 
+CAPÍTULO I 
+DISPOSICIONES GENERALES 
+Artículo 1 
+Objetivo y ámbito de aplicación 
+1. Dentro del ámbito del Reglamento marco, el presente Reglamento trata de la interoperabilidad de la red europea de gestión del tránsito aéreo. 
+2. El presente Reglamento será aplicable a los sistemas, sus componentes y procedimientos asociados contemplados en el anexo I. 
+3. El presente Reglamento tiene por objeto lograr la interoperabilidad entre los diversos sistemas, componentes y procedimientos asociados de la red europea de gestión del tránsito aéreo, teniendo debidamente en cuenta las normas internacionales pertinentes. El presente Reglamento tiene también por objeto garantizar una rápida y coordinada introducción de nuevos conceptos de operación, acordados y validados, o tecnologías en la gestión del tránsito aéreo. 
+CAPÍTULO II 
+REQUISITOS ESENCIALES, MEDIDAS DE EJECUCIÓN EN MATERIA DE INTEROPERABILIDAD Y ESPECIFICACIONES COMUNITARIAS 
+Artículo 2 
+Requisitos esenciales 
+La red europea de gestión del tránsito aéreo, sus sistemas, sus componentes y procedimientos asociados deberán cumplir los requisitos esenciales pertinentes que figuran en el anexo II. 
+Artículo 3 
+Medidas de ejecución en materia de interoperabilidad 
+1. Se elaborarán medidas de ejecución en materia de interoperabilidad siempre que sea necesario para alcanzar de forma coherente los objetivos del presente Reglamento. 
+2. Los sistemas, componentes y procedimientos asociados cumplirán las correspondientes medidas de ejecución en materia de interoperabilidad a lo largo de todo su ciclo de vida. 
+3. Las medidas de ejecución en materia de interoperabilidad en particular: 
+a) determinarán los requisitos específicos que completen o perfeccionen los requisitos esenciales, especialmente en materia de seguridad, funcionamiento continuo y prestaciones, y/o 
+b) describirán, cuando proceda, los requisitos específicos que completen o perfeccionen los requisitos esenciales, especialmente por lo que se refiere a la introducción coordinada de nuevos conceptos de operación, acordados y validados, o tecnologías, y/o 
+c) determinarán los componentes cuando se trate de sistemas, y/o 
+d) describirán los procedimientos de evaluación de la conformidad en los que participen, cuando proceda, organismos notificados contemplados en el artículo 8, basados en los módulos definidos en la Decisión 93/465/CEE que deberán utilizarse para evaluar la conformidad o la idoneidad para el uso de componentes así como la verificación de los sistemas, y/o 
+e) especificarán las condiciones de ejecución, incluyendo, cuando proceda, la fecha en la que todas las partes interesadas pertinentes deberán cumplirlas. 
+4. La preparación, aprobación y revisión de medidas de ejecución en materia de interoperabilidad tendrán en cuenta los costes y beneficios estimados de las soluciones técnicas que permitan lograrla, con vistas a optar por la solución más viable, prestando la debida atención al mantenimiento de un alto nivel de seguridad convenido. Se adjuntará a cada uno de los proyectos de medidas de ejecución en materia de interoperabilidad una evaluación de los costes y beneficios de dichas soluciones para todas las partes interesadas pertinentes. 
+5. Las medidas de ejecución en materia de interoperabilidad se establecerán con arreglo al procedimiento previsto en el artículo 8 del Reglamento marco. 
+Artículo 4 
+Especificaciones comunitarias 
+1. Podrán establecerse especificaciones comunitarias para intentar lograr el objetivo del presente Reglamento. Estas especificaciones podrán ser: 
+a) normas europeas para sistemas o componentes, junto con los correspondientes procedimientos asociados, elaboradas por los organismos europeos de normalización en colaboración con Eurocae y por mandato de la Comisión, con arreglo al apartado 4 del artículo 6 de la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, por la que se establece un procedimiento de información en materia de las normas y reglamentaciones técnicas(13) y a las directrices generales de cooperación entre la Comisión y los organismos de normalización firmadas el 13 de noviembre de 1984, 
+o 
+b) especificaciones elaboradas por Eurocontrol en materia de coordinación operativa entre los proveedores de servicios de navegación aérea, en respuesta a una petición de la Comisión con arreglo al procedimiento previsto en el apartado 2 del artículo 5 del Reglamento marco. 
+2. Se presumirá el cumplimiento de los requisitos esenciales y/o las medidas de ejecución en materia de interoperabilidad para los sistemas, junto con los procedimientos asociados, o los componentes que cumplan las especificaciones comunitarias pertinentes, cuyos números de referencia hayan sido publicados en el Diario Oficial de la Unión Europea. 
+3. La Comisión publicará en el Diario Oficial de la Unión Europea las referencias a las normas europeas contempladas en la letra a) del apartado 1. 
+4. La Comisión publicará las referencias a las especificaciones de Eurocontrol contempladas en la letra b) del apartado 1 en el Diario Oficial la Unión Europea con arreglo al procedimiento previsto en el apartado 2 del artículo 5 del Reglamento marco. 
+5. Cuando un Estado miembro o la Comisión considere que la conformidad con una especificación comunitaria publicada no garantiza el cumplimiento de los requisitos esenciales y/o de las medidas de ejecución en materia de interoperabilidad que dicha especificación comunitaria debe abarcar, se aplicará el procedimiento contemplado en el apartado 2 del artículo 5 del Reglamento marco. 
+6. En el caso de deficiencias de las normas europeas publicadas, podrá decidirse, con arreglo al procedimiento previsto en el apartado 2 del artículo 5 del Reglamento marco, y tras consultar al comité creado mediante el apartado 2 del artículo 5 de la Directiva 98/34/CE, bien retirar parcial o totalmente las normas de que se trate de las publicaciones en que figuran, bien modificarlas, 
+7. En el caso de deficiencias de las especificaciones de Eurocontrol publicadas, podrá decidirse, con arreglo al procedimiento previsto en el apartado 2 del artículo 5 del Reglamento marco, bien retirar parcial o totalmente las especificaciones de que se trate de las publicaciones en que figuran, bien modificarlas. 
+CAPÍTULO III 
+VERIFICACIÓN DEL CUMPLIMIENTO 
+Artículo 5 
+Declaración CE de conformidad o de idoneidad para el uso de los componentes 
+1. Los componentes deberán ir acompañados de una declaración CE de conformidad o de idoneidad para el uso cuyos elementos figuran en el anexo III. 
+2. El fabricante o su representante autorizado establecido en la Comunidad deberá garantizar y declarar, mediante la declaración CE de conformidad o de idoneidad para el uso, que ha aplicado las disposiciones establecidas en los requisitos esenciales y en las correspondientes medidas de ejecución en materia de interoperabilidad. 
+3. Se presumirá el cumplimiento de los requisitos esenciales y las correspondientes medidas de ejecución en materia de interoperabilidad de aquellos componentes que vayan acompañados de la declaración CE de conformidad o de idoneidad para el uso. 
+4. Cuando proceda, las medidas de ejecución correspondientes en materia de interoperabilidad deberán determinar qué cometidos tendrán que llevar a cabo los organismos notificados contemplados en el artículo 8 en relación con la evaluación de la conformidad o idoneidad para el uso de los componentes. 
+Artículo 6 
+Declaración CE de verificación de sistemas 
+1. Los proveedores de servicios de navegación aérea someterán los sistemas a una verificación CE de conformidad con las correspondientes medidas de ejecución en materia de interoperabilidad con el fin de garantizar que cumplen los requisitos esenciales del presente Reglamento y las medidas de ejecución en materia de interoperabilidad que les son aplicables al integrarse en la red europea de gestión del tránsito aéreo. 
+2. Antes de que un sistema entre en servicio, el proveedor de servicios de navegación aérea correspondiente elaborará una declaración CE de verificación que confirme el cumplimiento y la enviará a la autoridad nacional de supervisión acompañada de un expediente técnico. Los elementos de esta declaración así como del expediente técnico figuran en el anexo IV. La autoridad nacional de supervisión podrá exigir toda la información adicional que considere necesaria para supervisar dicho cumplimiento. 
+3. Cuando proceda, las medidas de ejecución correspondientes en materia de interoperabilidad deberán determinar qué cometidos tendrán que llevar a cabo los organismos notificados contemplados en el artículo 8 en relación con la verificación de sistemas. 
+4. La declaración CE de verificación se entenderá sin perjuicio de las evaluaciones que la autoridad nacional de supervisión pueda tener que llevar a cabo en campos distintos de la interoperabilidad. 
+Artículo 7 
+Salvaguardias 
+1. Cuando la autoridad nacional de supervisión determine que: 
+a) un componente acompañado de una declaración CE de conformidad o de idoneidad para el uso, o 
+b) un sistema acompañado de una declaración CE de verificación 
+incumple los requisitos esenciales y/o las correspondientes medidas de ejecución en materia de interoperabilidad, tomará todas las medidas necesarias, atendiendo siempre a la necesidad de garantizar la seguridad y la continuidad de las operaciones, para limitar el área de aplicación del componente o sistema en cuestión o prohibir su uso por las entidades bajo responsabilidad de la autoridad. 
+2. El Estado miembro afectado informará inmediatamente de estas medidas a la Comisión, indicando las razones y, en particular, si en su opinión el incumplimiento de los requisitos esenciales se debe a: 
+a) no lograr cumplir los requisitos esenciales; 
+b) la aplicación incorrecta de las medidas de ejecución en materia de interoperabilidad y/o de las especificaciones comunitarias; 
+c) deficiencias en las medidas de ejecución en materia de interoperabilidad y/o de las especificaciones comunitarias. 
+3. La Comisión consultará lo antes posible a las partes interesadas, tras lo cual informará a los Estados miembros de sus conclusiones y de si considera que las medidas adoptadas por la autoridad nacional de supervisión están justificadas. 
+4. Si la Comisión determina que las medidas adoptadas por la autoridad nacional de supervisión no se justifican, solicitará al Estado miembro afectado que vele por que se retiren cuanto antes e informará inmediatamente al respecto al fabricante o a su representante autorizado establecido en la Comunidad. 
+5. Si la Comisión determina que el incumplimiento de los requisitos esenciales se debe a la aplicación incorrecta de las medidas de ejecución en materia de interoperabilidad y/o de las especificaciones comunitarias, el Estado miembro afectado adoptará las medidas adecuadas contra quien haya originado la declaración CE de conformidad o de idoneidad para el uso, o la declaración CE de verificación e informará de ello a la Comisión y a los demás Estados miembros. 
+6. Si la Comisión determina que el incumplimiento de los requisitos esenciales se debe a deficiencias en las especificaciones comunitarias, se aplicará el procedimiento previsto en los apartados 6 o 7 del artículo 4. 
+Artículo 8 
+Organismos notificados 
+1. Los Estados miembros notificarán a la Comisión y a los demás Estados miembros los organismos que hayan designado para el ejercicio de los cometidos relacionados con la evaluación de la conformidad o de idoneidad para el uso a que se refiere el artículo 5, y/o la verificación a que se refiere el artículo 6, indicando el ámbito de responsabilidad de cada organismo y sus números de identificación obtenidos de la Comisión. La Comisión publicará en el Diario Oficial de la Unión Europea la lista de organismos, sus números de identificación y ámbitos de responsabilidad, y mantendrá la lista actualizada. 
+2. Los Estados miembros aplicarán los criterios previstos en el anexo V para la evaluación de los organismos que deberán notificarse. Se considerará que cumplen dichos criterios los organismos que cumplan los criterios de evaluación previstos en las normas europeas aplicables. 
+3. Los Estados miembros retirarán la acreditación a un organismo notificado que haya dejado de cumplir los criterios que figuran en el anexo V. Informarán inmediatamente de ello a la Comisión y a los demás Estados miembros. 
+4. Sin perjuicio de los requisitos a que se refieren los apartados 1, 2 y 3, los Estados miembros podrán decidir designar como organismos notificados a los organismos notificados con arreglo al artículo 5 del Reglamento de prestación de servicios. 
+CAPÍTULO IV 
+DISPOSICIONES FINALES 
+Artículo 9 
+Revisión de los anexos 
+En caso de registrarse progresos técnicos u operativos, podrán realizarse modificaciones en los anexos I y II de conformidad con el procedimiento contemplado en el apartado 3 del artículo 5 del Reglamento marco. 
+Artículo 10 
+Disposiciones transitorias 
+1. A partir del 20 de octubre de 2005, los requisitos esenciales se aplicarán a la entrada en servicio de los sistemas y componentes de la red europea de gestión del tránsito aéreo, salvo en los casos en que las correspondientes medidas de ejecución en materia de interoperabilidad estipulen otra cosa. 
+2. Todos los sistemas y componentes actualmente en funcionamiento de la red europea de gestión del tránsito aéreo deberán cumplir los requisitos esenciales a más tardar el 20 de abril de 2011, siempre que las correspondientes medidas de ejecución en materia de interoperabilidad no estipulen otra cosa. 
+3. Cuando se haya efectuado un pedido de sistemas de la red europea de gestión del tránsito aéreo o se hayan firmado contratos vinculantes a tal efecto 
+- antes de la fecha de entrada en vigor del presente Reglamento, o, en su caso, 
+- antes de la fecha de entrada en vigor de una o más de las medidas de ejecución pertinentes en materia de interoperabilidad, 
+de modo que no se pueda garantizar dentro del plazo mencionado en el apartado 1 el cumplimiento de los requisitos esenciales y/o las medidas de ejecución pertinentes en materia de interoperabilidad, el Estado miembro interesado comunicará a la Comisión información pormenorizada sobre los requisitos esenciales y/o las medidas de ejecución pertinentes en materia de interoperabilidad en las que se ha observado un posible incumplimiento. 
+La Comisión consultará a las partes interesadas, tras lo cual tomará una decisión con arreglo al procedimiento previsto en el apartado 3 del artículo 5 del Reglamento marco. 
+Artículo 11 
+Derogaciones 
+Quedan derogadas las Directivas 93/65/CEE y 97/15/CE así como los Reglamentos (CE) n° 2082/2000 y (CE) n° 980/2002 con efecto a partir del 20 de octubre de 2005. 
+Artículo 12 
+Entrada en vigor 
+El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Estrasburgo, el 10 de marzo de 2004. 
+Por el Parlamento Europeo 
+El Presidente 
+P. Cox 
+Por el Consejo 
+El Presidente 
+D. Roche 
+(1) DO C 103 E de 30.4.2002, p. 41. 
+(2) DO C 241 de 7.10.2002, p. 24. 
+(3) DO C 278 de 14.11.2002, p. 13. 
+(4) Dictamen del Parlamento Europeo de 3 de septiembre de 2002 (DO C 272 E de 13.11.2003, p. 325), Posición Común del Consejo de 18 de marzo de 2003 (DO C 129 E de 3.6.2003, p. 26) y Posición del Parlamento Europeo de 3 de julio de 2003 (no publicada aún en el Diario Oficial). Resolución legislativa del Parlamento Europeo de 29 de enero de 2004 y Decisión del Consejo de 2 de febrero de 2004. 
+(5) Véase la página 10 del presente Diario Oficial. 
+(6) Véase la página 20 del presente Diario Oficial. 
+(7) DO C 136 de 4.6.1985, p. 1. 
+(8) Véase la página 1 del presente Diario Oficial. 
+(9) DO L 220 de 30.8.1993, p. 23. 
+(10) DO L 187 de 29.7.1993, p. 52; Directiva cuya última modificación la constituye el Reglamento (CE) n° 1882/2003 del Parlamento Europeo y del Consejo (DO L 284 de 31.10.2003, p. 1). 
+(11) DO L 95 de 10.4.1997, p. 16; Directiva modificada por el Reglamento (CE) n° 2082/2000 (DO L 254 de 9.10.2000, p. 1). 
+(12) DO L 254 de 9.10.2000, p. 1; Reglamento cuya última modificación la constituye el Reglamento (CE) n° 980/2002 (DO L 150 de 8.6.2002, p. 38). 
+(13) DO L 204 de 21.7.1998, p. 37; Directiva cuya última modificación la constituye la Directiva 98/48/CE (DO L 217 de 5.8.1998, p. 18). 
+ANEXO I 
+LISTA DE SISTEMAS PARA LOS SERVICIOS DE NAVEGACIÓN AÉREA 
+A los fines del presente Reglamento, la red europea de gestión del tránsito aéreo se subdividirá en ocho sistemas. 
+1. Sistemas y procedimientos de gestión del espacio aéreo. 
+2. Sistemas y procedimientos de gestión de afluencia del tránsito aéreo. 
+3. Sistemas y procedimientos para los servicios del tránsito aéreo, en particular sistemas de tratamiento de datos de vuelo, sistemas de tratamiento de datos de vigilancia y sistemas de interfaz hombre-máquina. 
+4. Sistemas y procedimientos de comunicaciones tierra-tierra, aire-tierra y aire-aire. 
+5. Sistemas y procedimientos de navegación. 
+6. Sistemas y procedimientos de vigilancia. 
+7. Sistemas y procedimientos de servicios de información aeronáutica 
+8. Sistemas y procedimientos para la utilización de información meteorológica. 
+ANEXO II 
+REQUISITOS ESENCIALES 
+Parte A: Requisitos esenciales 
+Se trata de requisitos relativos a la red en su conjunto, aplicables por lo general a cada uno de los sistemas indicados en el anexo I. 
+1. Funcionamiento continuo 
+Los sistemas de gestión del tránsito aéreo y sus componentes se diseñarán, construirán, mantendrán y operarán utilizando los procedimientos validados adecuados, de forma que garanticen el funcionamiento continuo de la red europea de gestión del tránsito aéreo en todo momento y en todas las fases de vuelo. El funcionamiento continuo se manifestará, en particular, en el uso compartido de información, incluida la información pertinente sobre el estado de operativo, la comprensión común de la información, unas prestaciones comparables de procesamiento y en los procedimientos relacionados que permitan prestaciones operativas comunes acordadas para el conjunto o para partes de la red europea de gestión del tránsito aéreo. 
+2. Apoyo a los nuevos conceptos de operación 
+La red europea de gestión del tránsito aéreo, sus sistemas y componentes apoyarán, de forma coordinada, unos nuevos conceptos de operación acordados y validados que mejoren la calidad y la eficacia de los servicios de navegación aérea, especialmente en términos de seguridad y capacidad. 
+El potencial de nuevos conceptos, como la colaboración en la toma de decisiones, una creciente automatización y métodos alternativos de delegación de la responsabilidad de separación, se estudiará teniendo debidamente en cuenta el desarrollo tecnológico y su implantación segura, previa validación. 
+3. Seguridad 
+Los sistemas y operaciones de la red europea de gestión del tránsito aéreo alcanzarán los altos niveles de seguridad convenidos. A tal fin, se adoptarán métodos de gestión de la seguridad y de reporte de información acordados. 
+Por lo que respecta a los sistemas de tierra, o partes de los mismos, dichos altos niveles de seguridad se incrementarán mediante unas redes de seguridad que deberán responder a unas características comunes de funcionamiento convenidas. 
+Se definirá un conjunto armonizado de requisitos de seguridad para el diseño, la construcción, el mantenimiento y la operación de los sistemas y sus componentes, tanto en modo normal de funcionamiento como degradado, con vistas a lograr los niveles de seguridad acordados, para todas las fases del vuelo y para la totalidad de la red europea de gestión del tránsito aéreo. 
+Los sistemas se diseñarán, construirán, mantendrán y operarán utilizando los procedimientos validados adecuados, de forma que las tareas asignadas al personal de control resulten compatibles con las capacidades humanas, tanto en los modos normales de funcionamiento como en los degradados, y coherentes con los niveles exigidos de seguridad. 
+Los sistemas se diseñarán, construirán, mantendrán y operarán utilizando los procedimientos validados adecuados, de forma que no registren interferencias perjudiciales en su entorno normal de operación. 
+4. Coordinación entre la aviación civil y la militar 
+La red europea de gestión del tránsito aéreo, sus sistemas y componentes favorecerán la implantación progresiva de una coordinación civil y militar, en la medida necesaria para una gestión eficaz del espacio aéreo y del flujo del tránsito aéreo, así como el uso seguro y eficiente del espacio aéreo por parte de todos los usuarios, mediante la aplicación del concepto de uso flexible del espacio aéreo. 
+Para alcanzar dichos objetivos, la red europea de gestión del tránsito aéreo, sus sistemas y componentes apoyarán el uso compartido y adecuado en el tiempo, entre las partes civil y militar, de la información correcta y coherente que cubra todas las fases del vuelo. 
+Deberán tenerse en cuenta los requisitos de seguridad nacionales 
+5. Requisitos medioambientales 
+Los sistemas y operaciones de la red europea de gestión del tránsito aéreo se ajustarán a la necesidad de reducir al máximo el impacto medioambiental de conformidad con la legislación comunitaria aplicable. 
+6. Principios que rigen la arquitectura lógica de los sistemas 
+Los sistemas se diseñarán y se integrarán progresivamente en el objetivo de alcanzar una arquitectura lógica coherente y cada vez más armonizada, evolutiva y validada dentro de la red europea de gestión del tránsito aéreo 
+7. Principios que rigen la construcción de sistemas 
+Los sistemas se diseñarán, construirán y mantendrán sobre la base de principios de ingeniería sólidos, en particular los relativos a la modularidad, que posibiliten el intercambio de componentes, una elevada disponibilidad, la redundancia y la tolerancia al fallo de los componentes críticos. 
+Parte B: Requisitos específicos 
+Se trata de los requisitos específicos de cada uno de los sistemas, que al mismo tiempo complementan o perfeccionan los requisitos generales. 
+1. Sistemas y procedimientos de gestión del espacio aéreo 
+1.1. Funcionamiento continuo 
+Se suministrará información sobre los aspectos pretácticos y tácticos de la disponibilidad del espacio aéreo a todas las partes interesadas, de forma correcta y oportuna en el tiempo, para garantizar la distribución y uso eficaz del espacio aéreo por todos los usuarios del espacio aéreo. Se tendrán en cuenta las exigencias nacionales de seguridad. 
+2. Sistemas y procedimientos de gestión de afluencia del tránsito aéreo 
+2.1. Funcionamiento continuo 
+Los sistemas y procedimientos de gestión de afluencia del tránsito aéreo apoyarán el uso compartido de información de vuelo correcta, coherente y pertinente de carácter estratégico, pretáctico y táctico, según proceda, que cubra todas las fases del vuelo, y ofrecerán capacidades de diálogo con vistas a lograr un uso óptimo del espacio aéreo. 
+3. Sistemas y procedimientos para los servicios del tránsito aéreo 
+3.1. Sistemas de tratamiento de datos de vuelo 
+3.1.1. Funcionamiento continuo 
+Los sistemas de tratamiento de datos de vuelo serán interoperables en términos del uso compartido y adecuado en el tiempo de información correcta y coherente y una interpretación operativa común de dicha información, a fin de garantizar un proceso de planificación coherente y completo y una coordinación táctica y eficaz de los recursos en toda la red europea de gestión del tránsito aéreo durante todas las fases del vuelo. 
+A fin de garantizar un tratamiento seguro, fluido y rápido a través de toda la red europea de gestión del tránsito aéreo, las prestaciones del tratamiento de los datos de vuelo serán equivalentes y adecuadas para cada entorno determinado [superficie, área de control terminal (TMA), ruta], con características de tránsito conocidas y aplicadas con arreglo a un concepto operativo acordado y validado, especialmente en lo que respecta a la exactitud y tolerancia de errores de los resultados del tratamiento. 
+3.1.2. Apoyo a los nuevos conceptos de operación 
+Los sistemas de tratamiento de datos de vuelo facilitarán la aplicación progresiva de conceptos avanzados, acordados y validados de operación en todas las fases de vuelo. 
+Las características de las herramientas de automatización intensiva deben permitir un tratamiento pretáctico y táctico coherente y eficaz de la información de vuelo en partes de la red europea de gestión del tránsito aéreo. 
+Los sistemas de tierra y embarcados así como sus componentes que soporten los nuevos conceptos de operación acordados y validados se diseñarán, construirán, mantendrán y operarán, utilizando los procedimientos validados adecuados, de forma que sean interoperables en términos del uso compartido y adecuado en el tiempo de la información correcta y coherente y de la misma interpretación de la situación operacional actual y prevista. 
+3.2. Sistemas de tratamiento de datos de vigilancia 
+3.2.1. Funcionamiento continuo 
+En el diseño, la construcción, el mantenimiento y el funcionamiento de los sistemas de tratamiento de datos de vigilancia se utilizarán procedimientos validados adecuados, de tal forma que ofrezcan las prestaciones y la calidad de servicio requeridos para un entorno determinado [superficie, área de control terminal (TMA), ruta] con características de tránsito conocidas, especialmente en términos de precisión y fiabilidad de los resultados computerizados, correcciones, integridad, disponibilidad, continuidad y oportunidad en el tiempo de la información en el puesto de control. 
+Los sistemas de tratamiento de datos de vigilancia facilitarán el uso compartido y adecuado en el tiempo de información pertinente, consistente y coherente entre ellos para garantizar operaciones optimizadas a través de las diferentes partes de la red europea de gestión de tránsito aéreo. 
+3.2.2. Apoyo a los nuevos conceptos de operación 
+Los sistemas de tratamiento de datos de vigilancia facilitarán la disponibilidad progresiva de nuevas fuentes de información relativas a la vigilancia a fin de mejorar la calidad global del servicio. 
+3.3. Sistemas de interfaz hombre-máquina 
+3.3.1. Funcionamiento continuo 
+El diseño, la construcción, el mantenimiento y la operación de las interfaces hombre-máquina de los sistemas de tierra de gestión del tránsito aéreo se hará utilizando procedimientos validados adecuados, de tal forma que ofrezcan un entorno de trabajo progresivamente armonizado a todo el personal de control, incluidas las funciones y la ergonomía, cumpliendo las prestaciones requeridas para un entorno determinado [superficie, área de control terminal (TMA), ruta] con características de tránsito conocidas. 
+3.3.2. Apoyo a los nuevos conceptos de operación 
+Los sistemas de interfaz hombre-máquina facilitarán la introducción progresiva de nuevos conceptos de operación acordados y validados, así como una mayor automatización, de forma que se asegure que las tareas asignadas al personal de control permanezcan compatibles con las capacidades humanas, tanto en los modos normales de operación como en los degradados. 
+4. Sistemas y procedimientos de comunicaciones tierra-tierra, aire-tierra y aire-aire 
+4.1. Funcionamiento continuo 
+En el diseño, la construcción, el mantenimiento y el funcionamiento de los sistemas de comunicaciones se utilizarán los procedimientos validados adecuados, para lograr los resultados requeridos en un volumen determinado de espacio aéreo o para una aplicación específica, especialmente en términos del tiempo de procesado de la comunicación, integridad, disponibilidad y continuidad de la función. 
+La red de comunicaciones dentro de la red europea de gestión del tránsito aéreo deberá cumplir los requisitos de calidad del servicio, cobertura y redundancia. 
+4.2. Apoyo a los nuevos conceptos de operación 
+Los sistemas de comunicación apoyarán la aplicación de conceptos avanzados, acordados y validados de operación en todas las fases de vuelo. 
+5. Sistemas y procedimientos de navegación 
+5.1. Funcionamiento continuo 
+En el diseño, la construcción, el mantenimiento y el funcionamiento de los sistemas de navegación se utilizarán procedimientos validados adecuados, de forma que alcancen las prestaciones de navegación horizontales y verticales requeridas, especialmente en términos de precisión y capacidad funcional, en un entorno determinado [superficie, área de control terminal (TMA), ruta] con características de tránsito conocidas y aplicadas según un concepto operativo acordado y validado. 
+6. Sistemas y procedimientos de vigilancia 
+6.1. Funcionamiento continuo 
+En el diseño, la construcción, el mantenimiento y el funcionamiento de los sistemas de vigilancia se utilizarán los procedimientos validados adecuados, de forma que ofrezcan las prestaciones requeridas aplicables a un entorno determinado [superficie, área de control terminal (TMA), ruta] con características de tránsito conocidas y aplicadas según un concepto operativo acordado y validado, especialmente en términos de precisión, cobertura, alcance y calidad del servicio. 
+La red de vigilancia dentro de la red europea de gestión del tránsito aéreo deberá cumplir los requisitos de precisión, oportunidad en el tiempo, cobertura y redundancia. La red de vigilancia permitirá que se compartan los datos sobre vigilancia, para mejorar la operación a través de toda la red europea de gestión del tránsito aéreo. 
+7. Sistemas y procedimientos para los servicios de información aeronáutica 
+7.1. Funcionamiento continuo 
+Se suministrará progresivamente información aeronáutica precisa, adecuada en el tiempo y coherente de forma electrónica, sobre la base de un conjunto de datos normalizado y acordado en común. 
+Se pondrá a disposición de forma adecuada en el tiempo información aeronáutica precisa y coherente, especialmente en relación con los componentes y sistemas de tierra y embarcados. 
+7.2. Apoyo a los nuevos conceptos de operación 
+Se pondrá a disposición y se utilizará de forma adecuada en el tiempo información aeronáutica cada vez más precisa, completa y actualizada, a fin de apoyar la continua mejora del nivel de eficacia en el uso del espacio aéreo y de los aeropuertos. 
+8. Sistemas y procedimientos para la utilización de información meteorológica 
+8.1. Funcionamiento continuo 
+Los sistemas y procedimientos para la utilización de información meteorológica mejorarán la coherencia y la adecuación en el tiempo de su suministro y la calidad de su presentación, mediante la utilización de un conjunto de datos acordado. 
+8.2. Apoyo a los nuevos conceptos de operación 
+Los sistemas y procedimientos para la utilización de información meteorológica mejorarán la prontitud de su disponibilidad y la rapidez con que pueda utilizarse, a fin de fomentar la continua mejora del nivel de eficacia en el uso del espacio aéreo y de los aeropuertos. 
+ANEXO III 
+COMPONENTES 
+Declaración CE 
+- de conformidad 
+- de idoneidad para el uso 
+1. Componentes 
+Los componentes se identificarán en las medidas de ejecución en materia de interoperabilidad, de conformidad con lo dispuesto en el artículo 3 del presente Reglamento. 
+2. Alcance 
+La declaración CE incluye: 
+- bien la evaluación de la conformidad intrínseca de un componente considerado aisladamente con respecto a las especificaciones comunitarias que deben cumplirse, o 
+- bien la evaluación/dictamen sobre la idoneidad para el uso de un componente, considerado en su entorno de gestión del tránsito aéreo. 
+Los procedimientos de evaluación aplicados por los organismos notificados en las fases de diseño y producción se basarán en los módulos definidos en la Decisión 93/465/CEE, de conformidad con las condiciones establecidas en las medidas de ejecución pertinentes en materia de interoperabilidad. 
+3. Contenido de la declaración CE 
+La declaración CE de conformidad o de idoneidad para el uso y sus documentos adjuntos deberán estar fechados y firmados. 
+La declaración deberá redactarse en la misma lengua de las instrucciones y deberá contener los datos siguientes: 
+- referencias del Reglamento, 
+- nombre y dirección del fabricante o de su representante autorizado establecido en la Comunidad (indicar razón social y dirección completa y, en el caso del representante autorizado, indicar también la razón social del fabricante), 
+- descripción del componente, 
+- descripción del procedimiento aplicado para declarar la conformidad o la idoneidad para el uso (artículo 5 del presente Reglamento), 
+- todas las disposiciones pertinentes a las que responde el componente, especialmente sus condiciones de uso, 
+- en su caso, nombre y dirección del organismo o de los organismos notificados que han intervenido en el procedimiento seguido para la conformidad o la idoneidad para el uso y fecha del certificado de examen así como, en su caso, el período y las condiciones de validez del certificado, 
+- si procede, referencia a las especificaciones comunitarias aplicadas, 
+- identificación del signatario facultado para contraer compromisos en nombre del fabricante o del representante autorizado del fabricante establecido en la Comunidad. 
+ANEXO IV 
+SISTEMAS 
+Declaración CE de verificación de sistemas 
+Procedimiento de verificación de sistemas 
+1. Contenido de la declaración CE de verificación de sistemas 
+La declaración CE de verificación y sus documentos adjuntos deberán estar fechados y firmados. La declaración deberá redactarse en la misma lengua del expediente técnico e incluirá los siguientes datos: 
+- referencias del Reglamento, 
+- nombre y dirección del proveedor de servicios de navegación aérea (razón social y dirección completa), 
+- breve descripción del sistema, 
+- descripción del procedimiento seguido para declarar la conformidad del sistema (artículo 6 del presente Reglamento), 
+- nombre y dirección del organismo notificado que ha llevado a cabo tareas relacionadas con el procedimiento de verificación, si procede, 
+- referencias de los documentos contenidos en el expediente técnico, 
+- en su caso, referencia de las especificaciones comunitarias, 
+- todas las disposiciones pertinentes, temporales o definitivas, que deberán cumplir los sistemas y, en particular, cuando proceda toda condición o restricción operativa, 
+- si es temporal: período de validez de la declaración CE, 
+- identificación del firmante. 
+2. Procedimiento de verificación de sistemas 
+La verificación de sistemas es un procedimiento por el que un proveedor de servicios de navegación aérea comprueba y certifica que un sistema cumple el presente Reglamento, y puede entrar en funcionamiento con arreglo a él. 
+El sistema se comprueba respecto de cada uno de los aspectos siguientes: 
+- diseño global, 
+- desarrollo e integración del sistema, incluido el montaje de componentes y los ajustes globales, 
+- integración operacional del sistema, 
+- en su caso, disposiciones sobre mantenimiento del sistema. 
+Cuando la medida de ejecución pertinente sobre interoperabilidad exija la intervención de un organismo notificado, dicho organismo, tras haber llevado a cabo las tareas que le corresponden de conformidad con dicha medida, elabora un certificado de conformidad respecto de las tareas que haya realizado. Este certificado estará destinado al proveedor de servicios de navegación aérea. Posteriormente, este proveedor preparará una declaración CE de verificación destinada a la autoridad nacional de supervisión. 
+3. Expediente técnico 
+El expediente técnico adjunto a la declaración CE de verificación debe contener todos los documentos necesarios relativos a las características del sistema, incluidas las condiciones y límites de uso, así como los documentos que certifican la conformidad de los componentes, en su caso. 
+Se incluirán, como mínimo, los documentos siguientes: 
+- indicación de las partes correspondientes de las especificaciones técnicas utilizadas en las adquisiciones que garantizan el cumplimiento de las medidas de ejecución sobre interoperabilidad y, en su caso, de las especificaciones comunitarias, 
+- lista de los componentes, tal como se recogen en el artículo 3 del presente Reglamento; 
+- copias de la declaración CE de conformidad o de idoneidad para el uso de las que irán provistos los componentes anteriormente mencionados, de conformidad con el artículo 5 del presente Reglamento, acompañadas, en su caso, de una copia de los informes de pruebas y exámenes realizados por los organismos notificados, 
+- si un organismo acreditado ha intervenido en la verificación del sistema o sistemas, un certificado refrendado por dicho organismo, que declare que el sistema cumple el presente Reglamento y mencione cualquier reserva manifestada durante el desarrollo de la actividad y no retirada, 
+- si no ha intervenido ningún organismo notificado, un informe de pruebas y configuraciones de la instalación realizadas con vistas a garantizar el cumplimiento de los requisitos esenciales y cualquier requisito particular incluido en las medidas de ejecución pertinentes sobre interoperabilidad. 
+4. Presentación 
+El expediente técnico deberá adjuntarse a la declaración CE de verificación que el proveedor de servicios de navegación aérea envía a la autoridad nacional de supervisión. 
+El proveedor deberá conservar una copia del expediente técnico durante todo el período de servicio del sistema. Deberá enviar copias a los Estados miembros que lo soliciten. 
+ANEXO V 
+ORGANISMOS NOTIFICADOS 
+1. El organismo, su Director y el personal responsable de la realización de las comprobaciones no deberán intervenir, directamente ni como representantes autorizados, en el diseño, fabricación, comercialización o mantenimiento de los componentes o sistemas ni en su utilización. Lo anterior no excluye la posibilidad de intercambio de información técnica entre el fabricante o constructor y el organismo. 
+2. El organismo y el personal responsable de las pruebas deberán realizarlas con la máxima profesionalidad y la mayor competencia técnica posible y deberán estar libres de presiones e incentivos, especialmente de tipo económico, que puedan influir en sus dictámenes sobre los resultados de las inspecciones, ejercidos, en particular, por personas o grupos de personas afectados por los resultados de las comprobaciones. 
+3. El organismo deberá contar con el personal y los medios necesarios para realizar adecuadamente las tareas técnicas y administrativas relativas a las comprobaciones. También debe tener acceso a los equipos necesarios para chequeos excepcionales. 
+4. El personal responsable de la inspección deberá: 
+- tener una sólida formación profesional y técnica, 
+- conocer suficientemente los requisitos de las inspecciones que realiza y tener experiencia adecuada en tales operaciones, 
+- estar capacitado para elaborar las declaraciones, informes y documentos que demuestren que se han realizado las inspecciones. 
+5. Deberá garantizarse la imparcialidad del personal de inspección. Sus remuneraciones no dependerán del número de inspecciones realizadas ni de los resultados de las inspecciones. 
+6. El organismo deberá contraer un seguro de responsabilidad civil, a menos que el Estado miembro asuma dicha responsabilidad de acuerdo con el Derecho nacional o que el propio Estado miembro sea directamente responsable de las inspecciones. 
+7. El personal del organismo deberá respetar el secreto profesional con respecto a toda la información obtenida en la realización de sus tareas con arreglo al presente Reglamento. 

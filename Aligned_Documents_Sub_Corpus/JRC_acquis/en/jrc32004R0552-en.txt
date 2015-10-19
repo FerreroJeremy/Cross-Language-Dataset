@@ -1,0 +1,305 @@
+Regulation (EC) No 552/2004 of the European Parliament and of the Council of 10Â March 2004 on the interoperability of the European Air Traffic Management network (the interoperability Regulation) (Text with EEA relevance) 
+Regulation (EC) No 552/2004 of the European Parliament and of the Council 
+of 10 March 2004 
+on the interoperability of the European Air Traffic Management network 
+(the interoperability Regulation) 
+(Text with EEA relevance) 
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty establishing the European Community, and in particular Article 80(2) thereof, 
+Having regard to the proposal from the Commission(1), 
+Having regard to the opinion of the European Economic and Social Committee(2), 
+Having regard to the opinion of the Committee of the Regions(3), 
+Acting in accordance with the procedure laid down in Article 251 of the Treaty(4), in the light of the joint text approved by the Conciliation Committee on 11 December 2003, 
+Whereas: 
+(1) In order to create the Single European Sky, measures should be adopted in relation to systems, constituents and associated procedures with the objective of ensuring the interoperability of the European air traffic management network (EATMN) consistent with the provision of air navigation services as provided for in Regulation (EC) No 550/2004 of the European Parliament and of the Council of 10 March 2004 on the provision of air navigation services in the Single European Sky (the service provision Regulation)(5) and the organisation and use of airspace as provided for in Regulation (EC) No 551/2004 of the European Parliament and of the Council of 10 March 2003 on the organisation and use of the airspace in the Single European Sky (the airspace Regulation)(6). 
+(2) The report of the High Level Group on the Single European Sky has confirmed the need to establish technical regulation on the basis of the %quot%new approach%quot% in accordance with the Council resolution of 7 May 1985 on a new approach to technical harmonisation and standards(7) where essential requirements, rules and standards are complementary and consistent. 
+(3) Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004 (the framework Regulation)(8) lays down the framework for the creation of the Single European Sky. 
+(4) The report of the High Level Group has confirmed that even though progress has been achieved during the last few years towards seamless operation of the EATMN, the situation still remains unsatisfactory, with a low level of integration between national air traffic management systems and a slow pace in the introduction of new concepts of operation and technology necessary to deliver the additional required capacity. 
+(5) Enhancing the level of integration at Community level would result in better efficiency and lower costs for system procurement and maintenance and in improved operational coordination. 
+(6) The predominance of national technical specifications used in procurement has led to fragmentation of the systems market and does not facilitate industrial cooperation at Community level; as a result, industry is particularly affected since it needs to considerably adapt its products for each national market; these practices render development and implementation of new technology unnecessarily difficult and slow down the introduction of new operational concepts that are required to increase capacity. 
+(7) It is therefore in the interest of all those involved in air traffic management to develop a new partnership approach allowing the balanced involvement of all parties and stimulating creativity and the sharing of knowledge, experience and risks; such partnership should aim at defining, in cooperation with industry, a coherent set of Community specifications that can fulfil the widest possible range of needs. 
+(8) The internal market is a Community objective and therefore measures taken under this Regulation should contribute to its progressive development in this sector. 
+(9) It is therefore appropriate to define essential requirements which should apply to the European air traffic management network, its systems, constituents and associated procedures. 
+(10) Implementing rules for interoperability should be drawn up for systems whenever necessary to complement or further refine the essential requirements; those rules should also be drawn up where necessary to facilitate the coordinated introduction of new, agreed and validated concepts of operation or technologies; compliance with those rules should be permanently maintained; those rules should rely on rules and standards developed by international organisations such as Eurocontrol or ICAO. 
+(11) The development and adoption of Community specifications concerning EATMN, its systems and constituents and associated procedures is an appropriate means of defining the technical and operational conditions necessary to meet the essential requirements and relevant implementing rules for interoperability; compliance with published Community specifications, which remains voluntary, creates a presumption of conformity with the essential requirements and the relevant implementing rules for interoperability. 
+(12) Community specifications should be established by the European standardisation bodies in conjunction with the European Organisation for Civil Aviation Equipment (Eurocae) and by Eurocontrol, in accordance with general Community standardisation procedures. 
+(13) The procedures governing the assessment of conformity or suitability for use of constituents should be based on the use of the modules covered by Council Decision 93/465/EEC of 22 July 1993 concerning the modules for the various phases of the conformity assessment procedures and the rules for the affixing and use of the CE conformity marking, which are intended to be used in the technical harmonisation directives(9); as far as necessary, these modules should be expanded to cover specific requirements of the industries concerned. 
+(14) The market concerned is of small size and consists of systems and constituents used almost exclusively for air traffic management purposes and not intended for the general public; it would be therefore excessive to affix the CE mark to constituents as, on the basis of the assessment of conformity and/or suitability for use, the manufacturer's declaration of conformity is sufficient; that should not affect the obligation on manufacturers to affix the CE mark to certain constituents in order to certify their compliance with other Community legislation relating to them. 
+(15) The putting into service of air traffic management systems should be subject to verification of compliance with the essential requirements and relevant implementing rules for interoperability; use of Community specifications creates a presumption of conformity with the essential requirements and relevant implementing rules for interoperability. 
+(16) The full application of this Regulation should be accomplished by means of a transitional strategy designed to attain the objectives of this Regulation while not creating unjustified cost-benefit barriers to preservation of the existing infrastructure. 
+(17) Within the framework of the relevant Community legislation, due account should be taken of the need to ensure: 
+- harmonised conditions with regard to the availability and efficient use of radio spectrum necessary for the implementation of the Single European Sky, including electromagnetic compatibility aspects, 
+- protection of the safety-of-life services from harmful interference, 
+- efficient andappropriate use of frequencies allocated to and managed exclusively by the aviation sector. 
+(18) Council Directive 93/65/EEC of 19 July 1993 on the definition and use of compatible technical specifications for the procurement of air traffic management equipment and systems(10) is limited to obligations of awarding entities; this Regulation is more comprehensive in that it addresses obligations of all actors, including air navigation service providers, airspace users, industry and airports, and provides both for rules applicable to all and for the adoption of Community specifications which, while being voluntary, creates a presumption of conformity with the essential requirements. Therefore, Directive 93/65/EEC, Commission Directive 97/15/EC of 25 March 1997 adopting Eurocontrol standards and amending Council Directive 93/65/EEC on the definition and use of compatible technical specifications for the procurement of air-traffic-management equipment and systems(11) and Commission Regulations (EC) No 2082/2000 of 6 September 2000 adopting Eurocontrol standards and amending Directive 97/15/EC(12) and (EC) No 980/2002 of 4 June 2002 amending Regulation (EC) No 2082/2000 should be repealed after a transitional period. 
+(19) For reasons of legal certainty it is important to ensure that the substance of certain provisions of Community legislation adopted on the basis of Directive 93/65/EEC remains in force unchanged. The adoption under this Regulation of the implementing rules corresponding to such provisions will necessitate a certain amount of time, 
+HAVE ADOPTED THIS REGULATION: 
+CHAPTER I 
+GENERAL PROVISIONS 
+Article 1 
+Objective and scope 
+1. Within the scope of the framework Regulation, this Regulation concerns the interoperability of the EATMN. 
+2. This Regulation shall apply to the systems, their constituents and associated procedures identified in Annex I. 
+3. The objective of this Regulation is to achieve interoperability between the different systems, constituents and associated procedures of the EATMN, taking due account of the relevant international rules. This Regulation aims also at ensuring the coordinated and rapid introduction of new agreed and validated concepts of operations or technology in air traffic management. 
+CHAPTER II 
+ESSENTIAL REQUIREMENTS, IMPLEMENTING RULES FOR INTEROPERABILITY AND COMMUNITY SPECIFICATIONS 
+Article 2 
+Essential requirements 
+The EATMN, its systems and their constituents and associated procedures shall meet essential requirements. The essential requirements are set out in Annex II. 
+Article 3 
+Implementing rules for interoperability 
+1. Implementing rules for interoperability shall be drawn up whenever necessary to achieve in a coherent way the objectives of this Regulation. 
+2. Systems, constituents and associated procedures shall comply with the relevant implementing rules for interoperability throughout their lifecycle. 
+3. Implementing rules for interoperability shall in particular: 
+(a) determine any specific requirements that complement or refine the essential requirements, in particular in terms of safety, seamless operation and performance; and/or 
+(b) describe, where appropriate, any specific requirements that complement or refine the essential requirements, in particular regarding the coordinated introduction of new, agreed and validated concepts of operation or technologies; and/or 
+(c) determine the constituents when dealing with systems; and/or 
+(d) describe the specific conformity assessment procedures involving, where appropriate, notified bodies as referred to in Article 8, based on the modules defined in Decision 93/465/EEC to be used to assess either the conformity or the suitability for use of constituents as well as the verification of systems; and/or 
+(e) specify the conditions of implementation including, where appropriate, the date by which all relevant stakeholders are required to comply with them. 
+4. The preparation, adoption and review of implementing rules for interoperability shall take into account the estimated costs and benefits of technical solutions by means of which they may be complied with, with a view to defining the most viable solution, having due regard to the maintenance of an agreed high level of safety. An assessment of the costs and benefits of those solutions for all stakeholders concerned shall be attached to each draft implementing rule for interoperability. 
+5. Implementing rules for interoperability shall be established in accordance with the procedure under Article 8 of the framework Regulation. 
+Article 4 
+Community specifications 
+1. In pursuit of the objective of this Regulation, Community specifications may be established. Such specifications may be: 
+(a) European standards for systems or constituents, together with the relevant procedures, drawn up by the European standardisation bodies in cooperation with Eurocae, on a mandate from the Commission in accordance with Article 6(4) of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations(13) and pursuant to the general guidelines on cooperation between the Commission and the standardisation bodies signed on 13 November 1984; 
+or 
+(b) specifications drawn up by Eurocontrol on matters of operational coordination between air navigation service providers, in response to a request from the Commission in accordance with the procedure referred to in Article 5(2) of the framework Regulation. 
+2. Compliance with the essential requirements and/or the implementing rules for interoperability shall be presumed for systems, together with the associated procedures, or constituents that meet the relevant Community specifications and whose reference numbers have been published in the Official Journal of the European Union. 
+3. The Commission shall publish the references to the European standards referred to in paragraph 1(a) in the Official Journal of the European Union. 
+4. The references to Eurocontrol specifications referred to in paragraph 1(b), shall be published by the Commission in the Official Journal of the European Union in accordance with the procedure referred to in Article 5(2) of the framework Regulation. 
+5. Where a Member State or the Commission considers that conformity with a published Community specification does not ensure compliance with the essential requirements and/or implementing rules for interoperability which the said Community specification is intended to cover, the procedure referred to in Article 5(2) of the framework Regulation shall apply. 
+6. In the case of shortcomings of published European standards, partial or total withdrawal of the standards concerned from the publications containing them, or amendments thereto, may be decided upon in accordance with the procedure referred to in Article 5(2) of the framework Regulation after consultation of the committee set up under Article 5 of Directive 98/34/EC. 
+7. In the case of shortcomings of published Eurocontrol specifications, partial or total withdrawal of the specifications concerned from the publications containing them, or amendment thereof, may be decided upon in accordance with the procedure referred to in Article 5(2) of the framework Regulation. 
+CHAPTER III 
+VERIFICATION OF COMPLIANCE 
+Article 5 
+EC declaration of conformity or suitability for use of constituents 
+1. Constituents shall be accompanied by an EC declaration of conformity or suitability for use. The elements of this declaration are set out in Annex III. 
+2. The manufacturer, or its authorised representative established in the Community, shall ensure and declare, by means of the EC declaration of conformity or suitability for use, that he has applied the provisions laid down in the essential requirements and in the relevant implementing rules for interoperability. 
+3. Compliance with the essential requirements and the relevant implementing rules for interoperability shall be presumed in relation to those constituents that are accompanied by the EC declaration of conformity or suitability for use. 
+4. The relevant implementing rules for interoperability shall identify, where appropriate, the tasks pertaining to the assessment of conformity or suitability for use of constituents to be carried out by the notified bodies referred to in Article 8. 
+Article 6 
+EC declaration of verification of systems 
+1. Systems shall be subject to an EC verification by the air navigation service provider in accordance with the relevant implementing rules for interoperability, in order to ensure that they meet the essential requirements of this Regulation and the implementing rules for interoperability, when integrated into the EATMN. 
+2. Before a system is put into service, the relevant air navigation service provider shall establish an EC declaration of verification, confirming compliance, and shall submit it to the national supervisory authority together with a technical file. The elements of this declaration and of the technical file are set out in Annex IV. The national supervisory authority may require any additional information necessary to supervise such compliance. 
+3. The relevant implementing rules for interoperability shall identify, where appropriate, the tasks pertaining to the verification of systems to be carried out by the notified bodies as referred to in Article 8. 
+4. The EC declaration of verification shall be without prejudice to any assessments that the national supervisory authority may need to carry out on grounds other than interoperability. 
+Article 7 
+Safeguards 
+1. Where the national supervisory authority ascertains that: 
+(a) a constituent accompanied by an EC declaration of conformity or suitability for use, or 
+(b) a system accompanied by the EC declaration of verification, 
+does not comply with the essential requirements and/or relevant implementing rules for interoperability, it shall, with due regard to the need to ensure safety and continuity of operations, take all measures necessary to restrict the area of application of the constituent or the system concerned or to prohibit its use by the entities under the responsibility of the authority. 
+2. The Member State concerned shall immediately inform the Commission of any such measures, indicating its reasons and, in particular, whether in its opinion non-compliance with the essential requirements is due to: 
+(a) failure to meet the essential requirements; 
+(b) incorrect application of the implementing rules for interoperability and/or Community specifications; 
+(c) shortcomings in the implementing rules for interoperability and/or Community specifications. 
+3. As soon as possible, the Commission shall consult the parties concerned. After such consultation, the Commission shall inform the Member State of its findings and of its opinion as to whether the measures taken by the national supervisory authority are justified. 
+4. Where the Commission establishes that the measures taken by the national supervisory authority are not justified, it shall request the Member State concerned to ensure that they are withdrawn without delay. It shall forthwith so inform the manufacturer or its authorised representative established in the Community. 
+5. Where the Commission establishes that non-compliance with the essential requirements is due to incorrect application of the implementing rules for interoperability and/or the Community specifications, the Member State concerned shall take appropriate measures against the originator of the declaration of conformity or suitability for use or the EC declaration of verification and shall inform the Commission and the other Member States thereof. 
+6. Where the Commission establishes that non-compliance with the essential requirements is due to shortcomings in the Community specifications, the procedures referred to in Article 4(6) or (7) shall apply. 
+Article 8 
+Notified bodies 
+1. Member States shall notify the Commission and the other Member States of the bodies they have appointed to carry out tasks pertaining to the assessment of conformity or suitability for use referred to in Article 5, and/or the verification referred to in Article 6, indicating each body's area of responsibility and its identification number obtained from the Commission. The Commission shall publish in the Official Journal of the European Union the list of bodies, their identification numbers and areas of responsibility, and shall keep the list updated. 
+2. Member States shall apply the criteria provided for in Annex V for the assessment of the bodies to be notified. Bodies meeting the assessment criteria provided for in the relevant European standards shall be deemed to meet the said criteria. 
+3. Member States shall withdraw notification of a notified body which no longer meets the criteria provided for in Annex V. It shall forthwith inform the Commission and the other Member States thereof. 
+4. Without prejudice to the requirements referred to in paragraphs 1, 2 and 3, Member States may decide to appoint organisations recognised in conformity with Article 3 of the service provision Regulation as notified bodies. 
+CHAPTER IV 
+FINAL PROVISIONS 
+Article 9 
+Revision of Annexes 
+In case of any technical or operational developments, adjustments may be made to Annexes I and II in accordance with the procedure referred to in Article 5(3) of the framework Regulation. 
+Article 10 
+Transitional arrangements 
+1. Starting from 20 October 2005, the essential requirements shall apply to the putting into service of systems and constituents of the EATMN, if not otherwise specified by the relevant implementing rules for interoperability. 
+2. Compliance with the essential requirements shall be required for all systems and constituents of the EATMN currently in operation by 20 April 2011, if not otherwise specified by the relevant implementing rules for interoperability. 
+3. Where systems of the EATMN have been ordered or binding contracts to that effect have been signed 
+- before the date of entry into force of this Regulation, or, where appropriate, 
+- before the date of entry into force of one or more relevant implementing rules for interoperability, 
+so that compliance with the essential requirements and/or the relevant implementing rules for interoperability cannot be guaranteed within the time limit mentioned in paragraph 1, the Member State concerned shall communicate to the Commission detailed information on the essential requirements and/or implementing rules for interoperability where uncertainty of compliance has been identified. 
+The Commission shall enter into consultation with the parties concerned, after which it shall take a decision in accordance with the procedure referred to in Article 5(3) of the framework Regulation. 
+Article 11 
+Repeal 
+Directives 93/65/EEC and 97/15/EC and Regulations (EC) Nos 2082/2000 and 980/2002 shall be repealed on 20 October 2005. 
+Article 12 
+Entry into force 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Strasbourg, 10 March 2004. 
+For the European Parliament 
+The President 
+P. Cox 
+For the Council 
+The President 
+D. Roche 
+(1) OJ C 103 E, 30.4.2002, p. 41. 
+(2) OJ C 241, 7.10.2002, p. 24. 
+(3) OJ C 278, 14.11.2002, p. 13. 
+(4) Opinion of the European Parliament of 3 September 2002 (OJ C 272 E, 13.11.2003, p. 325), Council Common Position of 18 March 2003 (OJ C 129 E, 3.6.2003, p. 26) and position of the European Parliament of 3 July 2003 (not yet published in the Official Journal). Legislative resolution of the European Parliament of 29 January 2004 and Decision of the Council of 2 February 2004. 
+(5) See page 10 of this Official Journal. 
+(6) See page 20 of this Official Journal. 
+(7) OJ C 136, 4.6.1985, p. 1. 
+(8) See page 1 of this Official Journal. 
+(9) OJ L 220, 30.8.1993, p. 23. 
+(10) OJ L 187, 29.7.1993, p. 52. Directive as last amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1). 
+(11) OJ L 95, 10.4.1997, p. 16. Directive as last amended by Regulation (EC) No 2082/2000 (OJ L 254, 9.10.2000, p. 1). 
+(12) OJ L 254, 9.10.2000, p. 1. Regulation as last amended by Regulation (EC) No 980/2002 (OJ L 150, 8.6.2002, p. 38). 
+(13) OJ L 204, 21.7.1998, p. 37. Directive as last amended by Directive 98/48/EC (OJ L 217, 5.8.1998, p. 18). 
+ANNEX I 
+LIST OF SYSTEMS FOR AIR NAVIGATION SERVICES 
+For the purpose of this Regulation the EATMN is subdivided into eight systems. 
+1. Systems and procedures for airspace management. 
+2. Systems and procedures for air traffic flow management. 
+3. Systems and procedures for air traffic services, in particular flight data processing systems, surveillance data processing systems and human-machine interface systems. 
+4. Communications systems and procedures for ground-to-ground, air-to-ground and air-to-air communications. 
+5. Navigation systems and procedures. 
+6. Surveillance systems and procedures. 
+7. Systems and procedures for aeronautical information services. 
+8. Systems and procedures for the use of meteorological information. 
+ANNEX II 
+ESSENTIAL REQUIREMENTS 
+Part A: General requirements 
+These are network-wide requirements that are generally applicable to each one of the systems identified in Annex I. 
+1. Seamless operation 
+Air traffic management systems and their constituents shall be designed, built, maintained and operated using the appropriate and validated procedures, in such a way as to ensure the seamless operation of the EATMN at all times and for all phases of flight. Seamless operation can be expressed, in particular, in terms of information-sharing, including the relevant operational status information, common understanding of information, comparable processing performances and the associated procedures enabling common operational performances agreed for the whole or parts of the EATMN. 
+2. Support for new concepts of operation 
+The EATMN, its systems and their constituents shall support, on a coordinated basis, new agreed and validated concepts of operation that improve the quality and effectiveness of air navigation services, in particular in terms of safety and capacity. 
+The potential of new concepts, such as collaborative decision-making, increasing automation and alternative methods of delegation of separation responsibility, shall be examined taking due account of technological developments and of their safe implementation, following validation. 
+3. Safety 
+Systems and operations of the EATMN shall achieve agreed high levels of safety. Agreed safety management and reporting methodologies shall be established to achieve this. 
+In respect of appropriate ground-based systems, or parts thereof, these high levels of safety shall be enhanced by safety nets which shall be subject to agreed common performance characteristics. 
+A harmonised set of safety requirements for the design, implementation, maintenance and operation of systems and their constituents, both for normal and degraded modes of operation, shall be defined with a view to achieving the agreed safety levels, for all phases of flight and for the entire EATMN. 
+Systems shall be designed, built, maintained and operated, using the appropriate and validated procedures, in such a way that the tasks assigned to the control staff are compatible with human capabilities, in both the normal and degraded modes of operation, and are consistent with required safety levels. 
+Systems shall be designed, built, maintained and operated using the appropriate and validated procedures, in such a way as to be free from harmful interference in their normal operational environment. 
+4. Civil-military coordination 
+The EATMN, its systems and their constituents shall support the progressive implementation of civil/military coordination, to the extent necessary for effective airspace and air traffic flow management, and the safe and efficient use of airspace by all users, through the application of the concept of the flexible use of airspace. 
+To achieve these objectives, the EATMN, its systems and their constituents shall support the timely sharing of correct and consistent information covering all phases of flight, between civil and military parties. 
+Account should be taken of national security requirements. 
+5. Environmental constraints 
+Systems and operations of the EATMN shall take into account the need to minimise environmental impact in accordance with Community legislation. 
+6. Principles governing the logical architecture of systems 
+Systems shall be designed and progressively integrated with the objective of achieving a coherent and increasingly harmonised, evolutionary and validated logical architecture within the EATMN. 
+7. Principles governing the construction of systems 
+Systems shall be designed, built and maintained on the grounds of sound engineering principles, in particular those relating to modularity, enabling interchangeability of constituents, high availability, and redundancy and fault tolerance of critical constituents. 
+Part B: Specific requirements 
+These are the requirements that are specific to each one of the systems and that complement or further refine the general requirements. 
+1. Systems and procedures for airspace management 
+1.1. Seamless operation 
+Information relating to pre-tactical and tactical aspects of airspace availability shall be provided to all interested parties in a correct and timely way so as to ensure an efficient allocation and use of airspace by all airspace users. This should take into account national security requirements. 
+2. Systems and procedures for air traffic flow management 
+2.1. Seamless operation 
+Systems and procedures for air traffic flow management shall support the sharing of correct, coherent and relevant strategic, pre-tactical and tactical, as applicable, flight information covering all phases of flight and offer dialogue capabilities with a view to achieving optimised use of airspace. 
+3. Systems and procedures for air traffic services 
+3.1. Flight data processing systems 
+3.1.1. Seamless operation 
+Flight data processing systems shall be interoperable in terms of the timely sharing of correct and consistent information, and a common operational understanding of that information, in order to ensure a coherent and consistent planning process and resource-efficient tactical coordination throughout the EATMN during all phases of flight. 
+In order to ensure safe, smooth and expeditious processing throughout the EATMN, flight data processing performances shall be equivalent and appropriate for a given environment (surface, terminal manoeuvring area (TMA), en-route), with known traffic characteristics and exploited under an agreed and validated operational concept, in particular in terms of accuracy and error tolerance of processing results. 
+3.1.2. Support for new concepts of operation 
+Flight data processing systems shall accommodate the progressive implementation of advanced, agreed and validated concepts of operation for all phases of flight. 
+The characteristics of automation-intensive tools must be such as to enable coherent and efficient pre-tactical and tactical processing of flight information in parts of the EATMN. 
+Airborne and ground systems and their constituents supporting new, agreed and validated concepts of operation shall be designed, built, maintained and operated, using appropriate and validated procedures, in such a way as to be interoperable in terms of timely sharing of correct and consistent information and a common understanding of the current and predicted operational situation. 
+3.2. Surveillance data processing systems 
+3.2.1. Seamless operation 
+Surveillance data processing systems shall be designed, built, maintained and operated using the appropriate and validated procedures, in such a way as to provide the required performance and quality of service within a given environment (surface, TMA, en-route) with known traffic characteristics, in particular in terms of accuracy and reliability of computed results, correctness, integrity, availability, continuity and timeliness of information at the control position. 
+Surveillance data processing systems shall accommodate the timely sharing of relevant, accurate, consistent and coherent information between them to ensure optimised operations through different parts of the EATMN. 
+3.2.2. Support for new concepts of operation 
+Surveillance data processing systems shall accommodate the progressive availability of new sources of surveillance information in such a way as to improve the overall quality of service. 
+3.3. Human-machine interface systems 
+3.3.1. Seamless operation 
+Human-machine interfaces of ground air traffic management systems shall be designed, built, maintained and operated using the appropriate and validated procedures, in such a way as to offer to all control staff a progressively harmonised working environment, including functions and ergonomics, meeting the required performance for a given environment (surface, TMA, en-route), with known traffic characteristics. 
+3.3.2. Support for new concepts of operation 
+Human-machine interface systems shall accommodate the progressive introduction of new, agreed and validated concepts of operation and increased automation, in such a way as to ensure that the tasks assigned to the control staff remain compatible with human capabilities, in both the normal and degraded modes of operation. 
+4. Communications systems and procedures for ground-to-ground, air-to-ground and air-to-air communications 
+4.1. Seamless operation 
+Communication systems shall be designed, built, maintained and operated using the appropriate and validated procedures, in such a way as to achieve the required performances within a given volume of airspace or for a specific application, in particular in terms of communication processing time, integrity, availability and continuity of function. 
+The communications network within the EATMN shall be such as to meet the requirements of quality of service, coverage and redundancy. 
+4.2. Support for new concepts of operation 
+Communication systems shall support the implementation of advanced, agreed and validated concepts of operation for all phases of flight. 
+5. Navigation systems and procedures 
+5.1. Seamless operation 
+Navigation systems shall be designed, built, maintained and operated using appropriate and validated procedures in such a way as to achieve the required horizontal and vertical navigation performance, in particular in terms of accuracy and functional capability, for a given environment (surface, TMA, en-route), with known traffic characteristics and exploited under an agreed and validated operational concept. 
+6. Surveillance systems and procedures 
+6.1. Seamless operation 
+Surveillance systems shall be designed, built, maintained and operated using appropriate and validated procedures in such a way as to provide the required performance applicable in a given environment (surface, TMA, en-route) with known traffic characteristics and exploited under an agreed and validated operational concept, in particular in terms of accuracy, coverage, range and quality of service. 
+The surveillance network within the EATMN shall be such as to meet the requirements of accuracy, timeliness, coverage and redundancy. The surveillance network shall enable surveillance data to be shared in order to enhance operations throughout the EATMN. 
+7. Systems and procedures for aeronautical information services 
+7.1. Seamless operation 
+Accurate, timely and consistent aeronautical information shall be provided progressively in an electronic form, based on a commonly agreed and standardised data set. 
+Accurate and consistent aeronautical information, in particular concerning airborne and ground-based constituents or systems, shall be made available in a timely manner. 
+7.2. Support for new concepts of operation 
+Increasingly accurate, complete and up-to-date aeronautical information shall be made available and used in a timely manner in order to support continuous improvement of the efficiency of airspace and airport use. 
+8. Systems and procedures for the use of meteorological information 
+8.1. Seamless operation 
+Systems and procedures for the use of meteorological information shall improve the consistency and timeliness of its provision and the quality of its presentation, using an agreed data set. 
+8.2. Support for new concepts of operation 
+Systems and procedures for the use of meteorological information shall improve the promptness of its availability and the speed with which it may be used, in order to support continuous improvement of the efficiency of airspace and airport use. 
+ANNEX III 
+CONSTITUENTS 
+EC declaration 
+- of conformity 
+- of suitability for use 
+1. Constituents 
+The constituents will be identified in the implementing rules for interoperability in accordance with the provisions of Article 3 of this Regulation. 
+2. Scope 
+The EC declaration covers: 
+- either the assessment of the intrinsic conformity of a constituent, considered in isolation, with the Community specifications to be met, or 
+- the assessment/judgment of the suitability for use of a constituent, considered within its air traffic management environment. 
+The assessment procedures implemented by the notified bodies at the design and production stages will draw upon the modules defined in Decision 93/465/EEC, in accordance with the conditions set out in the relevant implementing rules for interoperability. 
+3. Contents of the EC declaration 
+The EC declaration of conformity or suitability for use and the accompanying documents must be dated and signed. 
+That declaration must be written in the same language as the instructions and must contain the following: 
+- the Regulation references, 
+- the name and address of the manufacturer or its authorised representative established within the Community (give trade name and full address and, in the case of the authorised representative, also give the trade name of the manufacturer), 
+- description of the constituent, 
+- description of the procedure followed in order to declare conformity or suitability for use (Article 5 of this Regulation), 
+- all of the relevant provisions met by the constituent and in particular its conditions of use, 
+- if applicable, name and address of notified body or bodies involved in the procedure followed in respect of conformity or suitability for use and date of examination certificate together, where appropriate, with the duration and conditions of validity of the certificate, 
+- where appropriate, reference to the Community specifications followed, 
+- identification of signatory empowered to enter into commitments on behalf of the manufacturer or of the manufacturer's authorised representative established in the Community. 
+ANNEX IV 
+SYSTEMS 
+EC declaration of verification of systems 
+Verification procedure for systems 
+1. Contents of EC declaration of verification of systems 
+The EC declaration of verification and the accompanying documents must be dated and signed. That declaration must be written in the same language as the technical file and must contain the following: 
+- the Regulation references, 
+- name and address of the air navigation service provider (trade name and full address), 
+- a brief description of the system, 
+- description of the procedure followed in order to declare conformity of the system (Article 6 of this Regulation), 
+- name and address of the notified body which carried out tasks pertaining to the verification procedure, if applicable, 
+- the references of the documents contained in the technical file, 
+- where appropriate, reference to the Community specifications, 
+- all the relevant temporary or definitive provisions to be complied with by the systems and in particular, where appropriate, any operating restrictions or conditions, 
+- if temporary: duration of validity of the EC declaration, 
+- identification of the signatory. 
+2. Verification procedure for systems 
+Verification of systems is the procedure whereby an air navigation service provider checks and certifies that a system complies with this Regulation and may be put into operation on the basis of this Regulation. 
+The system is checked for each of the following aspects: 
+- overall design, 
+- development and integration of the system, including in particular constituent assembly and overall adjustments, 
+- operational system integration, 
+- specific system maintenance provisions if applicable. 
+Where involvement of a notified body is required by the relevant implementing rule for interoperability, the notified body, after having carried out the tasks incumbent upon it in accordance with the rule, draws up a certificate of conformity in relation to the tasks it carried out. This certificate is intended for the air navigation service provider. This provider then draws up the EC declaration of verification intended for the national supervisory authority. 
+3. Technical file 
+The technical file accompanying the EC declaration of verification must contain all the necessary documents relating to the characteristics of the system, including conditions and limits of use, as well as the documents certifying conformity of constituents where appropriate. 
+The following documents shall be included as a minimum: 
+- indication of the relevant parts of the technical specifications used for procurement that ensure compliance with the applicable implementing rules for interoperability and, where appropriate, the Community specifications, 
+- list of constituents as referred to in Article 3 of this Regulation, 
+- copies of the EC declaration of conformity or suitability for use with which the above mentioned constituents must be provided in accordance with Article 5 of this Regulation accompanied, where appropriate, by a copy of the records of the tests and examinations carried out by the notified bodies, 
+- where a notified body has been involved in the verification of the system(s), a certificate countersigned by itself, stating that the system complies with this Regulation and mentioning any reservations recorded during performance of activities and not withdrawn, 
+- where there has not been involvement of a notified body, a record of the tests and installation configurations made with a view to ensuring compliance with essential requirements and any particular requirements contained in the relevant implementing rules for interoperability. 
+4. Submission 
+The technical file must be attached to the EC declaration of verification which the air navigation service provider submits to the national supervisory authority. 
+A copy of the technical file must be kept by the provider throughout the service life of the system. It must be sent to any other Member States which so request. 
+ANNEX V 
+NOTIFIED BODIES 
+1. The body, its Director and the staff responsible for carrying out the checks may not become involved, either directly or as authorised representatives, in the design, manufacture, marketing or maintenance of the constituents or systems or in their use. This does not exclude the possibility of an exchange of technical information between the manufacturer or constructor and that body. 
+2. The body and the staff responsible for the checks must carry out the checks with the greatest possible professional integrity and the greatest possible technical competence and must be free of any pressure and incentive, in particular of a financial type, which could affect their judgment or the results of their inspection, in particular from persons or groups of persons affected by the results of the checks. 
+3. The body must employ staff and possess the means required to perform adequately the technical and administrative tasks linked with the checks; it should also have access to the equipment needed for exceptional checks. 
+4. The staff responsible for inspection must have: 
+- sound technical and vocational training, 
+- satisfactory knowledge of the requirements of the inspections they carry out and adequate experience of such operations, 
+- the ability required to draw up the declarations, records and reports to demonstrate that the inspections have been carried out. 
+5. The impartiality of the inspection staff must be guaranteed. Their remuneration must not depend on the number of inspections carried out or on the results of such inspections. 
+6. The body must take out liability insurance unless its liability is assumed by the Member State in accordance with national law, or the Member State itself is directly responsible for the inspections. 
+7. The staff of the body must observe professional secrecy with regard to all information acquired in carrying out their tasks under this Regulation. 

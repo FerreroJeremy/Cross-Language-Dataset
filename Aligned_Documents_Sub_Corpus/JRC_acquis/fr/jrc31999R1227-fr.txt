@@ -1,0 +1,118 @@
+R&amp;egrave;glement (CE) n&amp;deg; 1227/1999 de la Commission du 28 mai 1999 relatif au format technique de transmission des statistiques des services d'assurance (Texte pr&amp;eacute;sentant de l'int&amp;eacute;r&amp;ecirc;t pour l'EEE) 
+RÈGLEMENT (CE) N° 1227/1999 DE LA COMMISSION 
+du 28 mai 1999 
+relatif au format technique de transmission des statistiques des services d'assurance 
+(Texte présentant de l'intérêt pour l'EEE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CE, Euratom) n° 58/97 du Conseil du 20 décembre 1996 relatif aux statistiques structurelles sur les entreprises(1), modifié en dernier lieu par le règlement (CE, Euratom) n° 410/98(2), et notamment son article 12, point viii), 
+(1) considérant que le règlement (CE, Euratom) n° 58/97 a établi un cadre commun pour l'élaboration de statistiques communautaires sur la structure, l'activité, la compétitivité et les performances du secteur des assurances de la Communauté; 
+(2) considérant qu'il est nécessaire de préciser le format technique pour la transmission des statistiques des services d'assurance; 
+(3) considérant que les mesures envisagées sont conformes à l'avis du comité du programme statistique, 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+Le format technique prévu à l'article 9 du règlement (CE, Euratom) n° 58/97 est défini à l'annexe du présent règlement. 
+Article 2 
+Les États membres appliqueront ce format pour les données relatives aux années de référence 1996 et suivantes. 
+Article 3 
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel des Communautés européennes. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 28 mai 1999. 
+Par la Commission 
+Yves-Thibault de SILGUY 
+Membre de la Commission 
+(1) JO L 14 du 17.1.1997, p. 1. 
+(2) JO L 52 du 21.2.1998, p. 1. 
+ANNEXE 
+FORMAT TECHNIQUE 
+1. Nature des données 
+Les données sont envoyées sous forme d'enregistrements dont la plupart des champs décrivent les caractéristiques de la donnée (le pays, l'année, l'activité économique, etc.). La donnée est un nombre auquel sont associés des drapeaux et des commentaires expliquant la donnée et servant par exemple à décrire les agrégats de codes NACE. Les données confidentielles doivent être envoyées avec la valeur réelle enregistrée dans le champ de valeur et un drapeau indiquant la nature confidentielle de la donnée. 
+Dans le souci de préciser la nature de la donnée, il est demandé de distinguer parmi les données: 
+- les données égales à zéro (code "0"): valeurs réelles égales à zéro uniquement, 
+- les données confidentielles (code "x"): désignent les données que l'État membre ne transmet pas à Eurostat parce qu'elles sont confidentielles, 
+- les données manquantes (code "m"): ces données manquent actuellement mais l'État membre les fournira quand elles seront disponibles, 
+- données non disponibles: les données ne sont pas collectées dans l'État membre. Dans ce cas, l'enregistrement correspondant n'est pas envoyé. 
+Par défaut, si une dimension entière (une variable, un code NUTS, un code NACE, etc.) n'est pas collectée alors les enregistrements correspondants n'existent pas, sauf ceux qui font défaut parce qu'ils font partie d'un regroupement de codes NACE. C'est la raison pour laquelle il est important de distinguer les données qui font réellement défaut, en fournissant un enregistrement (un par élément manquant) dans lequel la valeur des données est codée "m", et les données qui sont réellement égales à zéro en fournissant les enregistrements correspondants dans lesquels la valeur des données est fixée à 0. 
+2. Structure de l'enregistrement 
+&gt;TABLE&gt; 
+Ce format peut être converti en format de longueur fixe en utilisant la taille maximale de chaque champ et en justifiant le contenu des champs à droite. Les champs sont complétés par des blancs si nécessaire. 
+3. Description des champs 
+3.1. Le type des séries 
+&gt;TABLE&gt; 
+3.2. Année 
+3.3. Unité territoriale 
+Ce code correspond au pays pour les séries nationales 
+&gt;TABLE&gt; 
+3.4. Activité économique 
+&gt;TABLE&gt; 
+3.5. Mesure 
+&gt;TABLE&gt; 
+3.6. Unité 
+&gt;TABLE&gt; 
+3.7. Variable 
+&gt;TABLE&gt; 
+3.8. Type d'entreprise ou d'activité d'assurance 
+&gt;TABLE&gt; 
+3.9. Classes de taille / implantation de l'entreprise mère 
+&gt;TABLE&gt; 
+&gt;TABLE&gt; 
+&gt;TABLE&gt; 
+3.10. Ventilation des produits 
+&gt;TABLE&gt; 
+3.11. Statut juridique / ventilation géographique 
+&gt;TABLE&gt; 
+&gt;TABLE&gt; 
+3.12. Valeur de la donnée 
+Les données monétaires sont exprimées en millions d'unités monétaires nationales sauf pour: 
+- l'Italie: les données sont exprimées en milliards d'unités monétaires nationales. 
+Dans le souci de préciser la nature de la donnée, il est demandé de distinguer parmi les données: 
+- les données égales à zéro (code "0"): valeurs réelles égales à zéro uniquement, 
+- les données confidentielles (code "x"): désignent les données que l'État membre ne transmet pas à Eurostat parce qu'elles sont confidentielles. Un drapeau devrait être également utilisé pour indiquer que la donnée manque pour des raisons de confidentialité (voir point 3.14 ci-dessous), 
+- les données manquantes (code "m"): ces données manquent actuellement mais l'État membre les fournira quand elles seront disponibles, 
+- les données non disponibles: il s'agit de données qui ne sont pas collectées dans l'État membre. Dans ce cas, l'enregistrement correspondant n'est pas envoyé. 
+Par défaut, si une dimension entière (une variable, un code NUTS, un code NACE, etc.) n'est pas collectée alors les enregistrements correspondants n'existent pas, sauf pour les données qui manquent parce qu'elles font partie de regroupements de codes NACE. C'est pourquoi, il est important de distinguer les données réellement manquantes en envoyant un enregistrement (un par donnée manquante) dans lequel la valeur de la donnée est codée "m". 
+3.13. Drapeau de qualité 
+&gt;TABLE&gt; 
+La donnée révisée se réfère aux données qui sont envoyées pour la deuxième fois (ou plus) et correspond à la correction de la donnée précédemment envoyée. La donnée mise à jour se réfère à la donnée qui n'était pas précédemment disponible et qui était codée comme donnée manquante dans le champ de la valeur de la donnée (voir point 3.12 ci-dessus) mais qui depuis est disponible. Le drapeau indiquant la donnée provisoire devrait être utilisé dans le but d'indiquer que la donnée qui a été transmise va probablement être révisée. 
+3.14. Confidentialité 
+Les pays sont invités à indiquer clairement les données confidentielles en utilisant les drapeaux de la liste ci-dessous. 
+Les pays qui ne peuvent pas envoyer les données confidentielles pour l'instant sont invités à laisser la valeur à "x" et à indiquer grâce à un drapeau que la donnée manque pour des raisons de confidentialité. 
+&gt;TABLE&gt; 
+3.15. Dominance 
+Valeur numérique inférieure ou égale à 100. Elle indique la "dominance" en pourcentage d'une ou de deux entreprises qui "dominent" les données et les rendent confidentielles. La valeur est arrondie au nombre entier le plus proche: par exemple, 90,3 devient 90 et 94,50 devient 95. Ce champ est blanc pour les données non confidentielles. Il est uniquement utilisé lorsque le drapeau de confidentialité B ou C est utilisé dans le champ précédent. 
+3.16. Liste 
+Les variables - charactéristiques - figurent à l'annexe du règlement (CE) no 410/98 du Conseil (JO L 52 du 21.2.1998, p. 1) dans deux listes distinctes: A et B. La distinction concerne la première année de référence pour laquelle elles sont à fournir. Il existe trois variables optionnelles. 
+&gt;TABLE&gt; 
+4. Exemples d'enregistrements 
+Exemple 1 
+&gt;TABLE&gt; 
+Dans la série 5A (statistiques annuelles sur les entreprises) et pour l'année de référence 1996, la Belgique déclare dans la classe 66.03 de la NACE Rév.1: 95 entreprises d'assurance non vie. Cette donnée, non confidentielle, figure dans la liste A. 
+5A; 1996; BE; 6603; NBR; UNIT; 11110; 2;;;; 95;;;; A 
+Exemple 2 
+&gt;TABLE&gt; 
+Dans la série 5B (statistiques annuelles sur les entreprises ventilées d'après le statut juridique) et pour l'année de référence 1996, le Danemark déclare dans la classe 66.01 de la NACE Rév.1: 49 entreprises d'assurance vie, sociétés anonymes. Cette donnée, non confidentielle, figure dans la liste A. 
+5B; 1996; DK; 6601; NBR; UNIT; 11111; 1;;; LS01; 49;;;; A 
+Exemple 3 
+&gt;TABLE&gt; 
+Dans la série 5C (statistiques annuelles sur les entreprises ventilées d'après l'implantation du siège social de l'entreprise mère) et pour l'année de référence 1996, le Portugal déclare dans la classe 66.01 de la NACE Rév.1: 47 entreprises d'assurance vie dont l'entreprise mère se situe à l'étranger. Cette donnée, non confidentielle, figure dans la liste A. 
+5C; 1996; PT; 6601; NBR; UNIT; 11115; 1; RE02;;; 47;;;; A 
+Exemple 4 
+&gt;TABLE&gt; 
+Dans la série 5D (statistiques annuelles sur les entreprises ventilées d'après les classes de taille) et pour l'année de référence 1996, la Finlande déclare dans la classe 66.03 de la NACE Rév.1: 7 entreprises d'assurance non vie dont le chiffre d'affaires est compris entre 251 et 500 millions d'euros. Cette donnée, non confidentielle, figure dans la liste A. 
+5D; 1996; FI; 6603; NBR; UNIT; 11112; 2; SC14;;; 7;;;; A 
+Exemple 5 
+&gt;TABLE&gt; 
+Dans la série 5E (statistiques annuelles sur les entreprises ventilées par produit) et pour l'année de référence 1996, l'Espagne déclare dans la classe 66.01 de la NACE Rév.1: 1410692 millions de pesetas espagnoles de primes brutes émises au titre de l'assurance directe en services d'assurances non liées par des entreprises d'assurance vie. Cette donnée, non confidentielle, figure dans la liste A. 
+5E; 1996; ES; 6601; NC; MIO; 33111; 1;; 66011;; 1410692;;;; A 
+Exemple 6 
+&gt;TABLE&gt; 
+Dans la série 5F (ventilation géographique des statistiques annuelles sur les entreprises) et pour l'année de référence 1996, la Suisse déclare dans la classe 66.01 de la NACE Rév.1: 302 millions de francs suisses de primes brutes émises au titre de l'assurance directe par le biais de succursales. Ces primes sont émises aux Pays-Bas par des entreprises d'assurance vie pour le produit "Plans de retraite collectifs". Cette donnée, non confidentielle, figure dans la liste A. 
+5F; 1996; CH; 6601; NC; MIO; 34311; 1;; 66032; NLD; 302;;;; A 
+&gt;TABLE&gt; 
+Dans la série 5F (ventilation géographique des statistiques annuelles sur les entreprises) et pour l'année de référence 2000, l'Espagne déclare dans la classe 66.04 de la NACE Rév.1: une donnée manquante pour les primes brutes émises dans les autres États membres au titre de la réassurance acceptée par des entreprises de réassurance spécialisées. Cette donnée, non confidentielle, figure dans la liste B. 
+5F; 2000; ES; 6604; NC; MIO; 34120; 4;;; OMS; M;;;; B 
+5. Type de support magnétique 
+Afin de faciliter la lecture des données, celles-ci sont fournies sur une disquette 3,5". 
+6. Autres méthodes 
+Les États membres sont invités à envoyer les données par Gesmes. 
+Eurostat peut fournir aux États membres qui en feront la demande par écrit des questionnaires électroniques du format Microsoft Excel. Il convient d'introduire la demande bien avant la date prévue de livraison des données. 

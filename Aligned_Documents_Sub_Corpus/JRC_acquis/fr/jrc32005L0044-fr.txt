@@ -1,0 +1,176 @@
+Directive 2005/44/CE du Parlement europ&amp;eacute;en et du Conseil du 7&amp;nbsp;septembre 2005 relative &amp;agrave; des services d'information fluviale (SIF) harmonis&amp;eacute;s sur les voies navigables communautaires 
+Directive 2005/44/CE du Parlement européen et du Conseil 
+du 7 septembre 2005 
+relative à des services d'information fluviale (SIF) harmonisés sur les voies navigables communautaires 
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L'UNION EUROPÉENNE, 
+vu le traité instituant la Communauté européenne, et notamment son article 71, 
+vu la proposition de la Commission, 
+vu l'avis du Comité économique et social européen [1], 
+après consultation du Comité des régions, 
+statuant conformément à la procédure visée à l'article 251 du traité [2], 
+considérant ce qui suit: 
+(1) Le déploiement des technologies de l'information et des communications sur les voies navigables contribue à accroître de façon significative la sécurité et l'efficacité des transports par voie navigable. 
+(2) Dans certains États membres, des applications nationales de services d'information sont déjà déployées sur plusieurs voies navigables. Afin de fournir des services harmonisés, interopérables et ouverts d'aide à la navigation et d'information sur le réseau de voies navigables de la Communauté, il convient donc d'établir des exigences et des spécifications techniques communes. 
+(3) Pour des raisons de sécurité et pour assurer une harmonisation à l'échelle européenne, le contenu de ces exigences et spécifications techniques communes devrait se fonder sur les travaux effectués dans ce domaine par les organisations internationales compétentes, notamment l'Association internationale de navigation (AIN), la Commission centrale pour la navigation du Rhin (CCNR) et la Commission économique des Nations unies pour l'Europe (CEE-ONU). 
+(4) Les services d'information fluviale (SIF) devraient être des systèmes interopérables élaborés à partir de normes publiques et ouvertes, accessibles à tous les opérateurs et utilisateurs sous une forme non discriminatoire. 
+(5) Sur les voies navigables nationales qui ne sont pas reliées au réseau navigable d'un autre État membre, ces exigences et spécifications techniques peuvent ne pas être obligatoires. Il est toutefois recommandé de mettre en œuvre, sur ces voies navigables, des SIF tels que définis par la présente directive et d'assurer l'interopérabilité des systèmes existants avec de tels systèmes. 
+(6) La mise au point des SIF devrait avoir pour objectifs la sécurité, l'efficacité de la navigation intérieure et le respect de l'environnement, objectifs dont la réalisation prend la forme de tâches telles que la gestion du trafic et des transports, la protection de l'environnement et des infrastructures et l'application de règles spécifiques. 
+(7) Les exigences concernant les SIF devraient au moins porter sur les services d'information devant être fournis par les États membres. 
+(8) L'établissement des spécifications techniques devrait couvrir des systèmes tels que les cartes électroniques de navigation, la notification électronique des navires, notamment un système unique de numérotation des bateaux, les avis aux capitaines et le repérage et suivi des navires. La compatibilité technique des équipements nécessaires à l'utilisation des SIF devrait être assurée par un comité. 
+(9) Il devrait être de la responsabilité des États membres, en coopération avec la Communauté, d'encourager les utilisateurs à se conformer aux procédures et aux exigences en matière d'équipement, en tenant compte du fait que les entreprises du secteur de la navigation intérieure sont des petites et moyennes entreprises (PME). 
+(10) L'introduction des SIF impliquera le traitement de données à caractère personnel. Ce traitement devrait être effectué conformément aux règles communautaires, définies notamment par la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données [3] et la directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques [4]. L'introduction des SIF ne saurait donner lieu à un traitement non contrôlé de données économiquement sensibles relatives à des participants du marché. 
+(11) Aux fins des SIF exigeant un positionnement exact, l'usage des technologies de positionnement par satellite devrait être recommandé. Il conviendrait, dans tous les cas où cela est possible, que ces technologies soient interopérables avec d'autres systèmes pertinents et que l'intégration des différents dispositifs soit assurée conformément aux décisions applicables à cet égard. 
+(12) Étant donné que l'objectif de la présente directive, à savoir l'établissement de SIF harmonisés dans la Communauté, ne peut pas être réalisé de manière suffisante par les États membres et peut donc, en raison de sa dimension européenne, être mieux réalisé au niveau communautaire, la Communauté peut prendre des mesures conformément au principe de subsidiarité consacré à l'article 5 du traité. Conformément au principe de proportionnalité, tel qu'énoncé audit article, la présente directive n'excède pas ce qui est nécessaire pour atteindre cet objectif. 
+(13) Il y a lieu d'arrêter les mesures nécessaires pour la mise en œuvre de la présente directive en conformité avec la décision 1999/468/CE du Conseil du 28 juin 1999 fixant les modalités de l'exercice des compétences d'exécution conférées à la Commission [5]. 
+(14) Conformément au point 34 de l'accord interinstitutionnel "Mieux légiférer" [6], les États membres sont encouragés à établir, pour eux-mêmes et dans l'intérêt de la Communauté, leurs propres tableaux, qui illustrent, dans la mesure du possible, la concordance entre la présente directive et les mesures de transposition, et à les rendre publics, 
+ONT ARRÊTÉ LA PRÉSENTE DIRECTIVE: 
+Article premier 
+Objet 
+1. La présente directive établit le cadre du déploiement et de l'utilisation de services d'information fluviale (SIF) harmonisés dans la Communauté afin de soutenir le développement des transports par voie navigable dans le but d'en renforcer la sécurité, l'efficacité et le respect de l'environnement, et de faciliter les interfaces avec d'autres modes de transport. 
+2. La présente directive fournit un cadre pour l'établissement et le développement ultérieur des exigences, spécifications et conditions techniques permettant d'assurer des SIF harmonisés, interopérables et ouverts sur les voies navigables communautaires. La Commission, assistée par le comité visé à l'article 11, est chargée de l'établissement et du développement ultérieur des exigences, spécifications et conditions techniques. À cet égard, la Commission tient dûment compte des mesures prises par des organisations internationales compétentes, comme l'AIN, la CCNR et la CEE-ONU. La continuité avec les services de gestion du trafic des autres modes de transport, en particulier les services de gestion et d'information du trafic maritime, est garantie. 
+Article 2 
+Champ d'application 
+1. La présente directive est applicable à la mise en œuvre et au fonctionnement des SIF sur toutes les voies navigables des États membres de classe IV et supérieure qui sont reliées par une voie navigable de classe IV ou supérieure à une voie navigable de classe IV ou supérieure d'un autre État membre, ainsi que dans les ports situés sur ces voies navigables tels que visés par la décision no 1346/2001/CE du Parlement européen et du Conseil du 22 mai 2001 modifiant la décision no 1692/96/CE en ce qui concerne les ports maritimes, les ports de navigation intérieure et les terminaux intermodaux ainsi que le projet no 8 à l'annexe III [7]. Aux fins de la présente directive, la classification des voies navigables européennes établie par la résolution no 30 de la CEE-ONU du 12 novembre 1992 est applicable. 
+2. Les États membres peuvent appliquer la présente directive aux voies navigables intérieures et aux ports de navigation intérieure non visés au paragraphe 1. 
+Article 3 
+Définitions 
+Aux fins de la présente directive, on entend par: 
+a) "services d'information fluviale (SIF)", les services d'information harmonisés favorisant la gestion du trafic et des transports dans le domaine de la navigation intérieure, y compris, dans tous les cas où cela est techniquement possible, les interfaces avec d'autres modes de transport. Les SIF ne concernent pas les activités commerciales internes entre une ou plusieurs des sociétés concernées, mais leur architecture ouverte autorise des interfaces avec ces activités. Les SIF couvrent des services tels que l'information sur les chenaux, l'information sur le trafic, la gestion du trafic, l'atténuation des catastrophes, l'information sur la gestion des transports, les statistiques et les services douaniers, les redevances de voies navigables et les taxes portuaires; 
+b) "informations sur les chenaux", les informations géographiques, hydrologiques et administratives concernant les voies navigables (chenaux). Il s'agit d'informations unidirectionnelles: rive-navire ou rive-bureau; 
+c) "informations tactiques sur le trafic", les informations qui ont une incidence immédiate sur les décisions de navigation compte tenu de la situation réelle du trafic et de l'environnement géographique proche; 
+d) "informations stratégiques sur le trafic", les informations qui ont une incidence sur les décisions à moyen et long termes des utilisateurs des SIF; 
+e) "application SIF", la fourniture de services d'information fluviale à l'aide de systèmes spécialisés; 
+f) "centre SIF", le lieu où les services sont gérés par les opérateurs; 
+g) "utilisateurs des SIF", tous les groupes d'utilisateurs, en ce compris les capitaines de navire, les opérateurs de SIF, les gestionnaires d'écluse et/ou de pont, les autorités fluviales, les gestionnaires de port et de terminal, les opérateurs des centres de lutte contre les catastrophes, de services d'urgence, les gestionnaires de flotte, les chargeurs et les transitaires; 
+h) "interopérabilité", le fait que les services, le contenu des données, les formats et fréquences d'échange des données soient harmonisés de sorte que les utilisateurs des SIF aient accès aux mêmes services et informations au niveau européen. 
+Article 4 
+Mise en place des SIF 
+1. Les États membres prennent toutes les mesures nécessaires pour mettre en œuvre les SIF sur les voies navigables relevant des dispositions de l'article 2. 
+2. Les États membres mettent au point les SIF de sorte que l'application SIF soit efficace, évolutive et interopérable afin d'interagir avec d'autres applications SIF et, si possible, avec les systèmes d'autres modes de transport. Elle fournit également des interfaces avec les systèmes de gestion des transports et les activités commerciales. 
+3. Afin de mettre en place les SIF, les États membres: 
+a) fournissent aux utilisateurs des SIF toutes les données pertinentes concernant la navigation et les plans de voyage sur les voies navigables. Ces données sont au moins fournies dans un format électronique accessible; 
+b) veillent à ce que les utilisateurs des SIF disposent, en plus des données visées au point a), de cartes électroniques adaptées à la navigation pour toutes leurs voies navigables de classe Va et supérieure conformément à la classification des voies navigables européennes; 
+c) habilitent les autorités compétentes, pour autant que la réglementation nationale ou internationale exige la notification des navires, à recevoir des comptes rendus électroniques des données que doivent fournir les navires. Pour les transports transfrontaliers, ces informations sont transmises aux autorités compétentes de l'État voisin. Ces transmissions doivent être terminées avant l'arrivée des navires à la frontière; 
+d) veillent à ce que les avis aux capitaines, en ce compris les informations relatives au niveau d'eau (ou tirant d'eau maximum autorisé) et au gel sur leurs voies navigables, soient fournis sous la forme de messages normalisés, encodés et téléchargeables. Le message normalisé contient au moins les informations nécessaires à une navigation sûre. Les avis aux capitaines sont au moins fournis dans un format électronique accessible. 
+Les États membres s'acquittent des obligations visées au présent paragraphe conformément aux spécifications définies aux annexes I et II. 
+4. Les autorités compétentes des États membres établissent des centres SIF en fonction des besoins régionaux. 
+5. Aux fins de l'utilisation du système automatique d'identification (SAI), l'arrangement régional relatif au service radiotéléphonique sur les voies de navigation intérieure conclu à Bâle le 6 avril 2000 dans le cadre du règlement des radiocommunications de l'Union internationale des télécommunications (UIT) est applicable. 
+6. Les États membres, le cas échéant en coopération avec la Communauté, encouragent les capitaines, consignataires, exploitants ou propriétaires des navires croisant sur leurs voies navigables intérieures et les chargeurs ou propriétaires des marchandises transportées à bord de ces navires à utiliser pleinement les services fournis en vertu de la présente directive. 
+7. La Commission prend les mesures nécessaires pour s'assurer de l'interopérabilité, de la fiabilité et de la sécurité des SIF. 
+Article 5 
+Orientations et spécifications techniques 
+1. Afin d'encourager les SIF et d'assurer leur interopérabilité conformément à l'article 4, paragraphe 2, la Commission définit, conformément au paragraphe 2, des orientations techniques concernant la planification, la mise en œuvre et l'exploitation opérationnelle des services (orientations SIF) ainsi que des spécifications techniques notamment dans les domaines suivants: 
+a) système de visualisation des cartes électroniques et d'informations pour la navigation intérieure (ECDIS intérieur); 
+b) notification électronique des navires; 
+c) avis aux capitaines; 
+d) systèmes de repérage et de suivi des navires; 
+e) compatibilité de l'équipement nécessaire pour l'utilisation des SIF. 
+Ces orientations et spécifications reposent sur les principes techniques posés à l'annexe II et tiennent compte des travaux réalisés dans ce domaine par les organisations internationales compétentes. 
+2. Les orientations et spécifications techniques visées au paragraphe 1 sont établies et, le cas échéant, modifiées par la Commission conformément à la procédure visée à l'article 11, paragraphe 3. Elles sont établies selon le calendrier suivant: 
+a) pour les orientations SIF, au plus tard le 20 juin 2006; 
+b) pour les spécifications techniques concernant l'ECDIS intérieur, la notification électronique des navires et les avis aux capitaines, au plus tard le 20 octobre 2006; 
+c) pour les spécifications techniques concernant les systèmes de repérage et de suivi des navires, au plus tard le 20 décembre 2006. 
+3. Les orientations et spécifications SIF sont publiées au Journal officiel de l'Union européenne. 
+Article 6 
+Positionnement par satellite 
+Aux fins des SIF, pour lesquels un positionnement exact est exigé, l'usage des technologies de positionnement par satellite est recommandé. 
+Article 7 
+Certification de l'équipement SIF 
+1. Si la sécurité de la navigation et les spécifications techniques correspondantes l'exigent, la conformité de l'équipement (terminaux et réseaux) et des applications logicielles SIF à ces spécifications est certifiée avant leur mise en service sur les voies navigables intérieures. 
+2. Les États membres notifient à la Commission les organismes nationaux responsables de la certification. La Commission communique cette information aux autres États membres. 
+3. Tous les États membres reconnaissent les certifications effectuées par les organismes nationaux des autres États membres, visés au paragraphe 2. 
+Article 8 
+Autorités compétentes 
+Les États membres désignent les autorités compétentes en matière d'applications SIF et d'échange international de données. Ces autorités sont notifiées à la Commission. 
+Article 9 
+Règles relatives au respect de la vie privée, à la sécurité et à la réutilisation des informations 
+1. Les États membres veillent à ce que les données personnelles nécessaires à l'exploitation des SIF soient traitées conformément aux règles communautaires protégeant les libertés et les droits fondamentaux des individus, ainsi qu'aux directives 95/46/CE et 2002/58/CE. 
+2. Les États membres mettent en œuvre et maintiennent des mesures de sécurité afin de protéger les messages et enregistrements SIF contre les actes préjudiciables ou utilisations abusives, notamment les accès non autorisés, modifications ou pertes. 
+3. La directive 2003/98/CE du Parlement européen et du Conseil du 17 novembre 2003 sur la réutilisation des informations du secteur public [8] est applicable. 
+Article 10 
+Procédure de modification 
+Les annexes I et II peuvent être modifiées à la lumière de l'expérience tirée de l'application de la présente directive, et adaptées au progrès technique conformément à la procédure visée à l'article 11, paragraphe 3. 
+Article 11 
+Comité 
+1. La Commission est assistée par le comité institué par l'article 7 de la directive 91/672/CEE du Conseil du 16 décembre 1991 sur la reconnaissance réciproque des certificats de conduite nationaux de bateaux pour le transport de marchandises et de personnes par navigation intérieure [9]. 
+2. Dans le cas où il est fait référence au présent paragraphe, les articles 3 et 7 de la décision 1999/468/CE s'appliquent, dans le respect des dispositions de l'article 8 de celle-ci. 
+3. Dans le cas où il est fait référence au présent paragraphe, les articles 5 et 7 de la décision 1999/468/CE s'appliquent, dans le respect des dispositions de l'article 8 de celle-ci. 
+4. La période prévue à l'article 5, paragraphe 6, de la décision 1999/468/CE est fixée à trois mois. 
+5. La Commission consulte périodiquement les représentants du secteur. 
+Article 12 
+Transposition 
+1. Les États membres possédant des voies navigables intérieures entrant dans le champ d'application de l'article 2 mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 20 octobre 2007. Ils communiquent immédiatement à la Commission le texte de ces dispositions. 
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres. 
+2. Les États membres prennent les mesures nécessaires pour satisfaire aux exigences définies à l'article 4 au plus tard trente mois après l'entrée en vigueur des orientations et spécifications techniques pertinentes visées à l'article 5. Les orientations et spécifications techniques entrent en vigueur le jour suivant celui de leur publication au Journal officiel de l'Union européenne. 
+3. À la demande d'un État membre, la Commission peut, conformément à la procédure visée à l'article 11, paragraphe 2, prolonger le délai prévu au paragraphe 2 du présent article pour satisfaire à l'une ou plusieurs des exigences de l'article 4, en ce qui concerne les voies navigables relevant des dispositions de l'article 2 mais à faible intensité de trafic ou en ce qui concerne les voies navigables pour lesquelles les dépenses nécessaires pour satisfaire à ces exigences seraient disproportionnées par rapport aux avantages. Ce délai peut être prolongé à plusieurs reprises, par simple décision de la Commission. La justification à fournir par l'État membre à l'appui de sa demande doit reposer sur l'intensité du trafic et les conditions économiques de la voie navigable en question. En attendant la décision de la Commission, l'État membre qui a demandé une prolongation peut poursuivre ses activités comme si la prolongation avait été accordée. 
+4. Les États membres communiquent à la Commission le texte des principales dispositions de droit national qu'ils adoptent dans le domaine régi par la présente directive. 
+5. Si besoin est, les États membres s'entraident pour mettre en œuvre la présente directive. 
+6. La Commission suit la mise en place des SIF dans la Communauté et fait rapport au Parlement européen et au Conseil au plus tard le 20 octobre 2008. 
+Article 13 
+Entrée en vigueur 
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne. 
+Article 14 
+Destinataires 
+Les États membres possédant des voies navigables relevant des dispositions de l'article 2 sont destinataires de la présente directive. 
+Fait à Strasbourg, le 7 septembre 2005. 
+Par le Parlement européen 
+Le président 
+J. Borrell Fontelles 
+Par le Conseil 
+Le président 
+C. Clarke 
+[1] JO C 157 du 28.6.2005, p. 56. 
+[2] Avis du Parlement européen du 23 février 2005 (non encore paru au Journal officiel). Décision du Conseil du 27 juin 2005. 
+[3] JO L 281 du 23.11.1995, p. 31. Directive modifiée par le règlement (CE) no 1882/2003 (JO L 284 du 31.10.2003, p. 1). 
+[4] JO L 201 du 31.7.2002, p. 37. 
+[5] JO L 184 du 17.7.1999, p. 23. 
+[6] JO C 321 du 31.12.2003, p. 1. 
+[7] JO L 185 du 6.7.2001, p. 1. 
+[8] JO L 345 du 31.12.2003, p. 90. 
+[9] JO L 373 du 31.12.1991, p. 29. Directive modifiée en dernier lieu par le règlement (CE) no 1882/2003 du Parlement européen et du Conseil. 
+-------------------------------------------------- 
+ANNEXE I 
+EXIGENCES MINIMALES CONCERNANT LES DONNÉES 
+En application de l'article 4, paragraphe 3, point a), il convient de fournir en particulier les données suivantes: 
+- axe fluvial avec indication kilométrique, 
+- restrictions concernant les navires ou convois en termes de longueur, largeur, tirant d'eau et tirant d'air, 
+- horaires des structures limitatives, en particulier des écluses et des ponts, 
+- emplacement des ports et des sites de transbordement, 
+- données de référence sur les jauges de niveau d'eau concernant la navigation. 
+-------------------------------------------------- 
+ANNEXE II 
+PRINCIPES DES ORIENTATIONS ET SPÉCIFICATIONS TECHNIQUES SIF 
+1. Orientations SIF 
+Les orientations SIF visées à l'article 5 respectent les principes suivants: 
+a) indication des exigences techniques concernant la planification, la mise en œuvre et l'exploitation opérationnelle des services et des systèmes connexes; 
+b) architecture et organisation des SIF, et 
+c) recommandations incitant les navires à participer aux SIF, tant pour bénéficier des services individuels que pour le développement progressif des SIF. 
+2. ECDIS intérieur 
+Les spécifications techniques à établir, conformément à l'article 5, en ce qui concerne un système de visualisation des cartes électroniques et d'informations pour la navigation intérieure (ECDIS intérieur) respectent les principes suivants: 
+a) compatibilité avec l'ECDIS maritime afin de faciliter le trafic des navires de navigation intérieure dans les zones de trafic mixte que constituent les estuaires, ainsi que le trafic fluvio-maritime; 
+b) définition des exigences minimales relatives à l'équipement ECDIS intérieur, ainsi que du contenu minimal des cartes électroniques de navigation en vue d'en assurer la sécurité, en particulier: 
+- niveau élevé de fiabilité et de disponibilité de l'équipement ECDIS intérieur utilisé, 
+- solidité de l'équipement ECDIS intérieur lui permettant de résister aux conditions ambiantes à bord d'un navire sans diminution de la qualité ni de la fiabilité, 
+- inclusion, dans la carte électronique de navigation, de tous les types de géo-objets (par exemple limites du chenal, ouvrages à terre, balises) qui sont nécessaires à une navigation sûre, 
+- contrôle de la carte électronique à l'aide d'une image radar superposée pour l'utilisation aux fins de pilotage du navire, 
+c) intégration d'informations sur la profondeur du chenal dans la carte électronique de navigation et affichage d'un niveau d'eau prédéfini ou du niveau effectif; 
+d) intégration d'autres informations (par exemple émanant de parties prenantes autres que les autorités compétentes) dans la carte électronique de navigation et affichage sur l'ECDIS intérieur sans interférence avec les informations qui sont nécessaires à une navigation sûre; 
+e) mise à disposition des cartes électroniques de navigation aux utilisateurs des SIF; 
+f) mise à disposition des données concernant les cartes électroniques de navigation à tous les fabricants d'applications, le cas échéant, pour un prix proportionné au coût. 
+3. Notification électronique des navires 
+Les spécifications techniques concernant la notification électronique des navires dans la navigation intérieure, conformément à l'article 5, respectent les principes suivants: 
+a) facilitation de l'échange de données électroniques entre les autorités compétentes des États membres, entre les parties prenantes de la navigation intérieure ainsi que de la navigation maritime et du transport multimodal lorsque celui-ci fait intervenir la navigation intérieure; 
+b) utilisation d'un message normalisé de notification de transport pour la communication navire-autorité, autorité-navire et autorité-autorité afin d'assurer la compatibilité avec la navigation maritime; 
+c) utilisation de listes de codes et de classifications internationalement reconnues, éventuellement complétées pour répondre aux exigences supplémentaires de la navigation intérieure; 
+d) utilisation d'un numéro européen unique d'identification des navires. 
+4. Avis aux capitaines 
+Les spécifications techniques concernant les avis aux capitaines, en particulier les informations sur les chenaux, les informations sur le trafic et la gestion du trafic ainsi que la planification du voyage, conformément à l'article 5, respectent les principes suivants: 
+a) structure normalisée des données reposant sur des modules de texte prédéfinis et autant que possible encodés afin de permettre une traduction automatique de l'essentiel du contenu dans d'autres langues, et de faciliter l'intégration des avis aux capitaines dans les systèmes de planification du voyage; 
+b) compatibilité de la structure normalisée des données avec la structure des données de l'ECDIS intérieur afin de faciliter l'intégration des avis aux capitaines dans l'ECDIS intérieur. 
+5. Systèmes de repérage et de suivi des navires 
+Les spécifications techniques concernant les systèmes de repérage et de suivi des navires, conformément à l'article 5, respectent les principes suivants: 
+a) définition des exigences relatives aux systèmes et aux messages standard ainsi que des procédures permettant de les délivrer de façon automatisée; 
+b) distinction entre systèmes qui répondent aux exigences concernant les informations tactiques sur le trafic et systèmes qui répondent aux exigences concernant les informations stratégiques sur le trafic en fonction tant de la précision du positionnement que de la fréquence de mise à jour requise; 
+c) description des dispositifs techniques pertinents en matière de repérage et de suivi des navires, comme le SAI intérieur (système automatique d'identification intérieur); 
+d) compatibilité des formats de données avec le système SAI maritime. 
+-------------------------------------------------- 

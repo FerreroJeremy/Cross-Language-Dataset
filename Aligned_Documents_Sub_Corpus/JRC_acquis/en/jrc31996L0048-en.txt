@@ -1,0 +1,411 @@
+Council Directive 96/48/EC of 23 July 1996 on the interoperability of the trans-European high-speed rail system 
+COUNCIL DIRECTIVE 96/48/EC of 23 July 1996 on the interoperability of the trans-European high-speed rail system 
+THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty establishing the European Community, and in particular the third paragraph of Article 129d thereof, 
+Having regard to the proposal from the Commission (1), 
+Having regard to the opinion of the Economic and Social Committee (2), 
+Having regard to the opinion of the Committee of the Regions (3), 
+Acting in accordance with the procedure laid down in Article 189c (4), 
+Whereas in order to enable citizens of the Union, economic operators and regional and local authorities to benefit to the full from the advantages deriving from establishing an area without internal frontiers, it is advisable, in particular, to improve the interlinking and interoperability of national high-speed train networks, as well as access thereto; 
+Whereas a high-level working party consisting of representatives of the governments of the Member States, of the European railways and of the European railway industry convened by the Commission in order to meet the request expressed by the Council in its resolution of 4 and 5 December 1989 drew up the master plan for a European high-speed train network; 
+Whereas in December 1990 the Commission sent to the Council a communication on the high-speed train network, and whereas the Council gave a favourable reception to that communication in its resolution of 17 December 1990 (5); 
+Whereas Article 129c of the Treaty provides that the Community shall implement any measures that may prove necessary to ensure network interoperability, in particular in the field of technical standardization; 
+Whereas the commercial operation of high-speed trains requires excellent compatibility between the characteristics of the infrastructure and those of the rolling stock; whereas performance levels, safety, quality of service and cost depend upon such compatibility as does, in particular, the interoperability of the European high-speed rail system; 
+Whereas pursuant to Council Directive 91/440/EEC of 29 July 1991 on the development of the Community's railways (6) railway companies must have increased access to the rail networks of the Member States, which in turn requires infrastructure, equipment and rolling stock interoperability; 
+Whereas the Member States are responsible for ensuring compliance with the safety, health and consumer protection rules applying to the railway networks in general during the design, construction, placing in service and operation of those railways; whereas, together with the local authorities, they also have responsibilities in respect of rights in land, regional planning and environmental protection; whereas that is also especially pertinent with regard to high-speed train networks; 
+Whereas Council Directive 85/337/EEC of 27 June 1985 on the assessment of the effects of certain public and private projects on the environment (7) requires an assessment of the impact on the environment of the construction of lines for long-distance rail traffic; 
+Whereas national regulations and the railways' internal rules and the technical specifications which the railways apply contain major differences; whereas those national regulations and internal rules incorporate techniques that are specific to the national industries; whereas they prescribe specific dimensions and devices and special characteristics; whereas this situation runs counter to high-speed trains being able to run normally throughout Community territory; 
+Whereas, over the years, this situation has created very close links between the national railway industries and the national railways, to the detriment of the genuine opening-up of contracts; whereas, in order to enhance their competitiveness at world level those industries require an open, competitive European market; 
+Whereas it is therefore appropriate to define essential requirements for the whole of the Community which will apply to the trans-European high-speed train system; 
+Whereas, in view of the extent and complexity of the trans-European high-speed rail system, it has proved necessary for practical reasons to break it down into subsystems; whereas for each of those subsystems the essential requirements must be specified, the basic parameters laid down and the technical specifications determined for the whole of the Community, particularly in respect of constituents and interfaces, in order to meet those essential requirements; whereas, however, certain subsystems (environment, users and operation) will be subject to technical specifications for interoperability (TSIs) only in so far as is necessary to ensure interoperability in the fields of infrastructure, energy, control-and-command and signalling and rolling-stock; 
+Whereas the introduction of provisions on the interoperability of the trans-European high-speed rail system must not create unjustified cost-benefit barriers to the preservation of the existing rail network of each Member State, but must endeavour to maintain the objective of the circulation of high-speed trains throughout the Community; 
+Whereas individual Member States should be allowed not to apply certain technical specifications for interoperability in specific cases, provided that there are procedures to ensure that such possibilities for derogation are justified; whereas Article 129c of the Treaty requires the Community's activities in the area of interoperability to take into account the potential economic viability of projects; 
+Whereas in order to comply with the appropriate provisions on government procurement procedures in the rail sector and in particular Directive 93/38/EEC (8), contracting entities must include technical specifications in the general documents or the contract documents relating to each contract; whereas it is necessary to build up a body of European specifications to serve as references for those technical specifications; 
+Whereas, within the meaning of Directive 93/38/EEC, a European specification is a common technical specification, a European technical approval or a national standard implementing a European standard; whereas harmonized European standards are to be drawn up by a European standardization body such as the European Committee for Standardization (CEN), the European Committee for Electrotechnical Standardization (CENELEC) or the European Telecommunications Standards Institute (ETSI), to the order of the Commission, and their references published in the Official Journal of the European Communities; 
+Whereas it would be in the Community's interests for there to be an international system of standardization capable of generating standards which are actually used by those involved in international trade and which meet the requirements of Community policy; whereas the European standardization bodies must therefore continue their cooperation with the international standardization bodies; 
+Whereas contracting entities define such further requirements as are necessary to complete European specifications or other standards; whereas those specifications must not prevent the essential requirements that have been harmonized at Community level and which the trans-European high-speed train system must satisfy, from being met; 
+Whereas the procedures governing the assessment of conformity or of suitability of use of constituents must be based on the use of the modules covered by Decision 93/465/EEC (9); whereas, as far as possible and in order to promote the development of the industries concerned, it is appropriate to expand the procedures involving a system of quality assurance; whereas the notion of constituent covers both tangible objects and intangible objects such as software; 
+Whereas the suitability for use of the most critical constituents as regards safety, availability or system economy should be assessed; 
+Whereas in their contract documents, contracting entities, lay down, in particular for constituents, by reference to the European specifications, the characteristics which must be met, in contractual terms, by the manufacturers; whereas, this being the case, constituent conformity is mainly linked to their area of use in order to ensure and guarantee the interoperability of the system, and not only to their free movement on the Community market; 
+Whereas it is therefore not necessary for a manufacturer to affix the CE mark to constituents that are subject to the provisions of this Directive as, on the basis of the assessment of conformity and/or suitability for use conducted in accordance with the procedures provided for that purpose in the Directive, the manufacturer's declaration of conformity is sufficient; whereas that does not affect the obligation on manufacturers to affix the CE mark to certain components in order to certify their compliance with other Community provisions relating to them; 
+Whereas the subsystems constituting the trans-European high-speed rail system must be subjected to a verification procedure; whereas that verification must enable the authorities responsible for authorizing their placing in service to be assured that at the stages of design, construction and placing in service the result is in line with the regulations and technical operational provisions in force; whereas that must also enable manufacturers to be able to count upon equality of treatment whatever the country; whereas it is therefore necessary to lay down a module defining the principles and conditions applying to EC verification of subsystems; 
+Whereas the EC verification procedure is based on TSIs; whereas those TSIs are drawn up to the order of the Commission by the joint body representing the infrastructure managers, the railway companies and the industry; whereas the reference to TSIs is required in order to ensure interoperability of the trans-European high-speed rail system and whereas those TSIs are subject to the provisions of Article 18 of Directive 93/38/EEC; 
+Whereas the notified bodies responsible for examining the conformity assessment procedures or that applying to the use of constituents, together with the procedure for the assessment of subsystems must, particularly in the absence of any European specification, coordinate their decisions as closely as possible; 
+Whereas Council Directive 91/440/EEC requires a separation of activities, in accounting terms, between transport service operation and those concerning railway infrastructure management; whereas, this being the case, the specialized services provided by the railway infrastructure managers designated as notified bodies should be structured in such a way as to meet the criteria which must apply to this type of body; whereas other specialized bodies may be notified where these meet the same criteria; 
+Whereas interoperability within the trans-European high-speed train system is Community wide in scale; whereas the Member States are unable, on an individual basis, to take the action needed in order to achieve that interoperability; whereas it is therefore necessary, pursuant to the principle of subsidiarity, for this action to be taken at Community level, 
+HAS ADOPTED THIS DIRECTIVE: 
+CHAPTER I 
+General provisions 
+Article 1 
+1. In accordance with Articles 129b and 129c of the Treaty, the aim of this Directive is to establish the conditions to be met in order to achieve interoperability within Community territory of the trans-European high-speed rail system as described in Annex I. 
+2. These conditions concern projects for and the construction, upgrading and operation of the infrastructures and rolling stock which will contribute to the functioning of the system to be put into service after the date of entry into force of this Directive. 
+Article 2 
+For the purposes of this Directive: 
+(a) trans-European high-speed rail system means the structure described in Annex I, composed of the railway infrastructures comprising lines and fixed installations, of the trans-European transport network, constructed or upgraded to be travelled on at high speeds, and rolling stock designed for travelling on those infrastructures; 
+(b) interoperability means the ability of the trans-European high-speed rail system to allow the safe and uninterrupted movement of high-speed trains which accomplish the specified levels of performance. This ability rests on all the regulatory, technical and operational conditions which must be met in order to satisfy essential requirements; 
+(c) subsystems means that the trans-European high-speed rail system is subdivided, as described in Annex II, into structural or functional subsystems for which essential requirements must be laid down; 
+(d) interoperability constituents means any elementary component, group of components, subassembly or complete assembly of equipment incorporated or intended to be incorporated into a subsystem, upon which the interoperability of the trans-European high-speed rail system depends either directly or indirectly; 
+(e) essential requirements means all the conditions set out in Annex III which must be met by the trans-European high-speed rail system, subsystems and their interoperability constituents; 
+(f) European specification means a common technical specification, a European technical approval or a national standard implementing a European standard, as defined in points 8 to 12 of Article 1 of Directive 93/38/EEC; 
+(g) technical specifications for interoperability (hereinafter TSIs) means the specifications by which each subsystem is covered in order to meet the essential requirements by establishing the necessary reciprocal functional relations between the subsystems of the trans-European high-speed rail system and by ensuring the latter's compatibility; 
+(h) joint representative body means the body bringing together representatives of the infrastructure managers, railway companies and industry which is responsible for drawing up TSIs. 'Infrastructure managers` means those referred to in Articles 3 and 7 of Directive 91/440/EEC; 
+(i) notified bodies means the bodies which are responsible for assessing the conformity or suitability for use of the interoperability constituents or for appraising the EC procedure for verification of the subsystems. 
+Article 3 
+1. This Directive applies to the provisions concerning, for each subsystem, the parameters, interoperability constituents, interfaces and procedures as well as the conditions for the overall compatibility of the trans-European high-speed rail system required to achieve its interoperability. 
+2. The provisions of this Directive shall apply without prejudice to other Community provisions. However, in the case of interoperability constituents, compliance with the essential requirements of this Directive may require the use of the individual European specifications drawn up for that purpose. 
+Article 4 
+1. The trans-European high-speed rail system, subsystems and their interoperability constituents must meet the relevant essential requirements. 
+2. The further technical specification referred to in Article 18 (4) of Directive 93/38/EEC, which are necessary to supplement European specifications or other standards in use within the Community, must not conflict with the essential requirements. 
+CHAPTER II 
+Technical specifications for interoperability 
+Article 5 
+1. Each of the subsystems shall be covered by a TSI. In the case of subsystems concerning the environment, operation or users, TSIs will be drawn up only to the extent necessary to ensure interoperability of the trans-European high-speed rail system in the fields of infrastructure, energy, control and command, signalling and rolling stock. 
+2. The subsystems must conform to the TSIs; this conformity must be permanently maintained while each subsystem is in use. 
+3. To the extent necessary in order to achieve interoperability of the trans-European high-speed rail system, the TSIs shall: 
+(a) specify the essential requirements for the subsystems and their interfaces; 
+(b) establish the basic parameters described in Annex II (3) necessary to meet the essential requirements; 
+(c) establish the conditions to be complied with to achieve the specified performances for each of the following categories of line: 
+- lines specially built for high speed; 
+- lines specially upgraded for high speed; 
+- lines specially upgraded for high speed which have special features as a result of topographical, relief or town-planning constraints; 
+(d) establish possible implementing provisions in certain specific cases; 
+(e) determine the interoperability constituents and interfaces which must be covered by European specifications, including European standards, which are needed in order to achieve interoperability within the trans-European high-speed rail system while meeting the essential requirements; 
+(f) state, in each case under consideration, which of the modules defined in Decision 93/465/EEC or, where appropriate, which specific procedures are to be used in order to assess either the conformity or the suitability for use of the interoperability constituents, as well as EC verification of the subsystems. 
+4. The TSIs shall not be an impediment to decisions by the Member States concerning the use of new or upgraded infrastructures for running other trains. 
+5. Compliance with all the TSIs shall enable a compatible trans-European high-speed rail system to be set up that will preserve, as appropriate, the compatibility of each Member State's existing rail network. 
+Article 6 
+1. Draft TSIs shall be drawn up to the order of the Commission, to be established in accordance with the procedure laid down in Article 21 (2) by the joint representative body. TSIs shall be adopted and reviewed by the same procedure. They shall be published by the Commission in the Official Journal of the European Communities. 
+2. The joint representative body shall be responsible for preparing the review and updating of TSIs and making recommendations to the Committee referred to in Article 21 in order to take account of developments in technology or social requirements. 
+3. The preparation, adoption and review of TSIs shall take account of the estimated cost of technical solutions by which they may be met, with a view to defining and implementing the most viable solutions. To that end, the joint representative body shall attach to each draft TSI an assessment of the estimated costs and benefits of those technical solutions for all the economic operators and agents concerned. 
+4. The Committee shall be kept regularly informed of the preparatory work on the TSIs by the joint representative body. The Committee may give the joint body any useful recommendation or brief regarding the design of the TSIs, on the basis of the essential requirements or regarding cost assessment. 
+5. When each TSI is adopted, the date of its entry into force shall be laid down in accordance with the procedure referred to in Article 21 (2). 
+6. The joint representative body must work in an open and transparent manner in accordance with general Community standardization procedures. 
+Article 7 
+A Member State need not apply certain TSIs, including those relating to rolling stock, in the following cases and circumstances: 
+(a) in the case of a project for a new line or upgrading an existing line for high speed which is at an advanced stage of development when the TSIs in question are published. 
+The Member State concerned shall notify its intended derogation to the Commission in advance, shall inform the Commission of the stage the project has reached and shall forward to it a file setting out the TSIs or parts thereof which it wishes not to apply, the provisions it intends to apply in carrying out the project in order to promote its eventual interoperability, and the technical, administrative or economic reasons which justify the derogation; 
+(b) in the case of a project for upgrading an existing line for high speed, where the loading gauge, track gauge or space between the tracks of the line are different from those on the majority of the European rail network, and where the line does not form a direct connection with the high-speed network of another Member State which is a part of the trans-European high-speed network. 
+The Member State concerned shall notify its intended derogation to the Commission in advance and shall forward to it a file setting out the TSIs or parts thereof concerning the physical parameter(s) referred to in the first subparagraph which it wishes not to apply, the provisions it intends to apply in carrying out the project in order to promote its eventual interoperability, the transitional measures it intends to take to guarantee compatibility of operation, and the technical, administrative or economic reasons which justify the derogation; 
+(c) in the case of projects for new lines or upgrading existing lines for high speed carried out in the territory of the Member State concerned where its rail network is not linked to or is isolated by sea from the high-speed rail network of the rest of the Community. 
+The Member State concerned shall notify its intended derogation to the Commission in advance and shall forward to it a file containing the documents specified in the second subparagraph of paragraph (b); 
+(d) in the case of a project for upgrading an existing line for high speed, where application of these TSIs compromises the economic viability of the project. 
+The Member State concerned shall notify its intended derogation to the Commission in advance and shall forward to it a file setting out the technical specifications or parts of specifications for interoperability which it wishes not to apply. The Commission shall examine whether the measures envisaged by the Member State are justified and shall take a decision in accordance with the procedure in Article 21 (2). 
+CHAPTER III 
+Interoperability constituents 
+Article 8 
+Member States shall take all necessary steps to ensure that interoperability constituents: 
+- are placed on the market only if they enable interoperability to be achieved within the trans-European high-speed rail system while at the same time meeting the essential requirements; 
+- are used in their area of use as intended and are suitably installed and maintained. 
+These provisions do not exclude the placing on the market of these constituents for other purposes, nor their use for conventional railway lines. 
+Article 9 
+Member States may not, in their territory and on grounds of this Directive, prohibit, restrict or hinder the placing on the market of interoperability constituents for use on the trans-European high-speed rail system if they comply with the Directive. 
+Article 10 
+1. Member States shall consider as complying with the essential requirements of this Directive applying to them those interoperability constituents which bear the EC declaration of conformity or suitability for use, the components of which are set out in Annex IV. 
+2. Compliance of an interoperability constituent with the essential requirements applying to it shall be established in relation to any relevant European specifications that may exist. 
+3. The references to European specifications shall be published in the Official Journal of the European Communities. 
+4. Member States shall publish the references to the national standards transposing the European standards. 
+5. In the absence of any European specifications and without prejudice to Article 20 (5), Member States shall inform the other Member States and the Commission of the standards and technical specifications in use in order to implement the essential requirements. 
+Article 11 
+Where it appears to a Member State or the Commission that European specifications do not meet the essential requirements, partial or total withdrawal of the specifications concerned from the publications containing them, or their amendments, may be decided upon in accordance with the procedure laid down in Article 21 (2) after consultation of the Committee set up under Council Directive 83/189/EEC of 28 March 1983 laying down a procedure for the provision of information in the field of technical standards and regulations (10) where European standards are concerned. 
+Article 12 
+1. Where a Member State confirms that an interoperability constituent covered by the EC declaration of conformity or suitability for use, and placed on the market is likely, when used as intended, not to meet the essential requirements, it shall take all necessary steps to restrict its area of application, prohibit its use or withdraw it from the market. That Member State shall forthwith inform the Commission of the measures taken and shall give the reasons for its decision, stating in particular whether the failure to conform is due to: 
+- failure to meet the essential requirements; 
+- incorrect application of the European specifications where application of the specifications is invoked; 
+- inadequacy of the European specifications. 
+2. The Commission shall consult the parties concerned as quickly as possible. Where, following that consultation, the Commission establishes that the measure is justified, it shall forthwith so inform the Member State that has taken the initiative and the other Member States. Where, following that consultation, the Commission establishes that the measure is unjustified, it shall forthwith so inform the Member State that has taken the initiative and the manufacturer or his authorized representative established within the Community. Where the decision referred to in paragraph 1 is justified by the existence of a gap in the European specifications, the procedure defined in Article 11 shall apply. 
+3. Where an interoperability constituent bearing the EC declaration of conformity fails to comply, the competent Member State shall take the appropriate measures against whomsoever has drawn up the declaration and shall inform the Commission and the other Member States thereof. 
+4. The Commission shall ensure that the Member States are kept informed of the progress and the results of that procedure. 
+Article 13 
+1. In order to draw up the EC declaration of conformity or suitability for use of an interoperability constituent, its manufacturer or his authorized representative established within the Community must apply the provisions laid down in the TSIs referring to it. 
+2. Where so required by the TSIs, the assessment of conformity or suitability for use of an interoperability constituent shall be appraised by the notified body with which the manufacturer or his authorized representative established within the Community has lodged the application. 
+3. Where the interoperability constituents are the subject of other Community Directives covering other aspects, the EC declaration of conformity or suitability for use shall, in such instances, state that the interoperability constituents also meet the requirements of those other Directives. 
+4. Where neither the manufacturer nor his authorized representative established within the Community has met the obligations of the paragraphs 1, 2 and 3, those obligations shall be incumbent on any person who places that interoperability constituent on the market. The same obligations shall apply to any person who assembles interoperability constituents or parts of interoperability constituents having diverse origins or who manufactures the interoperability constituents for his own use, for the purposes of this Directive. 
+5. Without prejudice to the provisions of Article 12: 
+(a) in each instance where a Member State finds that the EC declaration of conformity has been drawn up improperly, the manufacturer or his authorized representative established within the Community shall be required to ensure that the conformity of the interoperability constituent is re-established and that the infringement ceases under the conditions laid down by that Member State; 
+(b) where non-conformity persists, the Member State shall take all appropriate steps to restrict or prohibit the placing on the market of the interoperability constituent in question, or to ensure that it is withdrawn from the market in accordance with the procedures provided for in Article 12. 
+CHAPTER IV 
+Subsystems 
+Article 14 
+Each Member State shall authorize the placing in service of those structural subsystems constituting the trans-European high-speed rail system which are located in its territory or operated by railway undertakings established there. 
+For this purpose Member States shall take all necessary steps to ensure that these subsystems may be placed in service only if they are designed, constructed and installed and/or operated in such a way as not to hinder satisfaction of the essential requirements concerning them when integrated into the trans-European high-speed rail system . 
+Article 15 
+Without prejudice to Article 19, Member States may not, in their territory and on grounds of this Directive, prohibit, restrict or hinder the construction, placing in service and operation of structural subsystems constituting the trans-European high-speed rail system which satisfy the essential requirements. 
+Article 16 
+1. Member States shall consider as being interoperable and meeting the essential requirements concerning them those structural subsystems constituting the trans-European high-speed rail system which are covered by the EC declaration of verification. 
+2. Verification of the interoperability, in accordance with the essential requirements, of a structural subsystem constituting the trans-European high-speed rail system shall be established by reference to TSIs where these exist. 
+3. In the absence of TSIs, Member States shall send the other Member States and the Commission a list of the technical rules in use for implementing the essential requirements. 
+Article 17 
+If it emerges that the TSIs do not fully meet the essential requirements, the Committee referred to in Article 21 may be consulted at the request of a Member State or on the initiative of the Commission. 
+Article 18 
+1. In order to draw up the EC declaration of verification, the awarding authority or its official representative shall cause the EC checking procedure to be appraised by the notified body chosen by it for that purpose. 
+2. The activities of the notified body responsible for the EC verification of a subsystem shall begin at the design stage and shall cover all of the manufacturing period up to the type-approval stage before a subsystem is placed in service. 
+3. The notified body shall be responsible for compiling the technical file that has to accompany the EC declaration of verification. The technical file must contain all the necessary documents relating to the characteristics of the subsystem and, where appropriate, all the documents certifying conformity of the constituents of interoperability. It must also contain all of the elements relating to the conditions and limits of use and to the instructions concerning servicing, constant or routine monitoring, adjustment and maintenance. 
+Article 19 
+1. Where a Member State finds that a structural subsystem covered by the EC declaration of verification accompanied by the technical file does not fully comply with this Directive and in particular does not meet the essential requirements, it may request that additional checks be carried out. 
+2. The Member State making the request shall forthwith inform the Commission of any additional checks requested and set out the reasons which justify them. The Commission shall without delay initiate the procedure provided for in Article 21 (2). 
+CHAPTER V 
+Notified bodies 
+Article 20 
+1. Member States shall notify the Commission and the other Member States of the bodies responsible for carrying out the procedure for the assessment of conformity or suitability for use referred to in Article 13 and the checking procedure referred to in Article 18, indicating each body's area of responsibility. 
+The Commission shall assign identification numbers to them. It shall publish in the Official Journal of the European Communities the list of bodies, their identification numbers and the tasks entrusted to them, and shall ensure that the list is kept updated. 
+2. Member States shall apply the criteria provided for in Annex VII for the assessment of the bodies to be notified. Bodies meeting the assessment criteria provided for in the relevant European standards shall be deemed to meet the said criteria. 
+3. A Member State shall withdraw approval from a body which no longer meets the criteria referred to in Annex VII. It shall forthwith inform the Commission and the other Member States thereof. 
+4. Should a Member State or the Commission consider that a body notified by another Member State no longer meets the relevant criteria, the matter shall be referred to the Committee provided for in Article 21, which shall deliver its opinion within three months; in the light of the Committee's opinion, the Commission shall inform the Member State concerned of all the changes needed if the notified body is to maintain the status awarded to it. 
+5. Where appropriate, coordination of the notified bodies shall be implemented in accordance with Article 21 (4). 
+CHAPTER VI 
+Committee 
+Article 21 
+1. The Commission shall be assisted by a Committee, composed of the representatives of the Member States and chaired by the representative of the Commission. 
+2. The representative of the Commission shall submit to the Committee a draft of the measures to be taken. The Committee shall deliver its opinion on the draft within a time limit which the chairman may lay down according to the urgency of the matter. The opinion shall be delivered by the majority laid down in Article 148 (2) of the Treaty in the case of decisions which the Council is required to adopt on a proposal from the Commission. The votes of the representatives of the Member States within the Committee shall be weighted in the manner set out in that Article. The chairman shall not vote. 
+The Commission shall adopt the measures envisaged if they are in accordance with the opinion of the Committee. 
+If the measures envisaged are not in accordance with the opinion of the Committee, or if no opinion is delivered, the Commission shall without delay submit to the Council a proposal relating to the measures to be taken. The Council shall act by a qualified majority. 
+If, on the expiry of a period of three months from the date of referral to the Council, the Council has not acted, the proposed measures shall be adopted by the Commission, save where the Council has decided against the said measures by a simple majority. 
+3. The Committee may discuss any matter concerning the interoperability of the trans-European high-speed rail system. 
+4. Should it prove necessary, the Committee may set up working parties to aid it in carrying out its tasks, in particular with a view to coordinating the notified bodies. 
+5. The Committee shall be set up as soon as this Directive enters into force. 
+CHAPTER VII 
+Final provisions 
+Article 22 
+Any decision taken pursuant to this Directive concerning the assessment of conformity or suitability for use of interoperability constituents, the checking of subsystems constituting the trans-European high-speed rail system and any decision taken pursuant to Articles 11, 12, 17 and 19 shall set out in detail the reasons on which it is based. It shall be notified as soon as possible to the party concerned, together with an indication of the remedies available under the laws in force in the Member States concerned and of the time limits allowed for the exercise of such remedies. 
+Article 23 
+1. Member States shall amend and adopt their laws, regulations and administrative provisions so as to authorize the use of interoperability constituents and the putting into service and operation of subsystems which comply with this Directive no later than 30 months after entry into force of this Directive. They shall forthwith inform the Commission thereof. 
+2. When Member States adopt the provisions referred to in paragraph 1, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States. 
+Article 24 
+Every two years the Commission shall report to the European Parliament and the Council on the progress made towards achieving interoperability of the trans-European high-speed rail system. 
+Article 25 
+This Directive shall enter into force on the 21st day following that of its publication in the Official Journal of the European Communities. 
+Done at Brussels, 23 July 1996. 
+For the Council 
+The President 
+I. YATES 
+(1) OJ No C 134, 17. 5. 1994, p. 6. 
+(2) OJ No C 397, 31. 12. 1994, p. 8. 
+(3) OJ No C 210, 14. 8. 1995, p. 38. 
+(4) Opinion of the European Parliament of 19 January 1995 (OJ No C 43, 20. 2. 1995, p. 60), Council common position of 8 December 1995 (OJ No 356, 30. 12. 1995, p. 43) and Decision of the European Parliament of 16 April 1996 (OJ No C 141, 13. 5. 1996, p. 48). 
+(5) OJ No C 33, 8. 2. 1991, p. 1. 
+(6) OJ No L 237, 24. 8. 1991, p. 25. 
+(7) OJ No L 175, 5. 7. 1985, p. 40. 
+(8) Council Directive 93/38/EEC of 14 June 1993 coordinating the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (OJ No L 199, 9. 8. 1993, p. 84), as amended by the 1994 Act of Accession. 
+(9) Council Decision 93/465/EEC of 22 July 1993 concerning the modules for the various phases of the conformity assessment procedures and the rules for the affixing and use of the CE conformity marking, which are intended to be used in the technical harmonization directives (OJ No L 220, 30. 8. 1993, p. 23). 
+(10) OJ No L 109, 26. 4. 1983, p. 8. Directive as last amended by the 1994 Act of Accession. 
+ANNEX I 
+THE TRANS-EUROPEAN HIGH-SPEED RAIL SYSTEM 
+1. Infrastructure 
+(a) The infrastructure of the trans-European high-speed rail system shall be that on the lines of the trans-European transport network identified in the framework of the guidelines referred to in Article 129c of the Treaty: 
+- those specially built for high-speed travel, 
+- those specially upgraded for high-speed travel. 
+They may include connecting lines, in particular junctions of new lines or lines upgraded for high speed with town centre stations located on them, on which speeds must take account of local conditions. 
+(b) High-speed lines shall comprise: 
+- specially built high-speed lines equipped for speeds generally equal to or greater than 250 km/h, 
+- specially upgraded high-speed lines equipped for speeds of the order of 200 km/h, 
+- specially upgraded high-speed lines which have special features as a result of topographical, relief or town-planning constraints, on which the speed must be adapted to each case. 
+2. Rolling stock 
+The high-speed advanced-technology trains shall be designed in such a way as to guarantee safe, uninterrupted travel: 
+- at a speed of at least 250 km/h on the lines specially built for high speed, while enabling speeds of over 300 km/h to be reached in appropriate circumstances; 
+- at a speed of the order of 200 km/h on existing lines which have been or are to be specially upgraded; 
+- at the highest possible speed on other lines. 
+3. Compatibility of infrastructure and rolling stock 
+High-speed train services presuppose excellent compatibility between the characteristics of the infrastructure and those of the rolling stock. Performance levels, safety, quality of service and cost depend upon that compatibility. 
+ANNEX II 
+SUBSYSTEMS 
+1. For the purposes of this Directive, the system constituting the trans-European high-speed rail system may be broken down into subsystems, as follows: 
+1.1. basically structural areas: 
+- infrastructures 
+- energy 
+- control and command and signalling 
+- rolling stock; 
+1.2. basically operational areas: 
+- maintenance 
+- environment 
+- operation 
+- users. 
+2. For each subsystem, the list of aspects relating to interoperability is indicated in the order given to the representative joint body for drawing up draft TSIs. 
+Under the provisions of Article 6 (1), this order shall be established in accordance with the procedure laid down in Article 21 (2). 
+Where necessary, the list of aspects relating to interoperability indicated in the order is specified by the representative joint body in accordance with the provisions of Article 5 (3) (e). 
+3. Within the meaning of Article 5 (3) (b), the following are regarded as basic parameters for achieving interoperability: 
+BASIC PARAMETERS 
+- Minimum infrastructure gauges 
+- Minimum radius of curvature 
+- Track gauge 
+- Maximum track stressing 
+- Minimum platform length 
+- Platform height 
+- Power-supply voltage 
+- Catenary geometry 
+- ERTMS characteristics (1*) 
+- Axle loading 
+- Maximum train length 
+- Gauge of rolling stock 
+- Minimum braking characteristics 
+- Boundary electrical characteristics of rolling stock 
+- Boundary mechanical characteristics of rolling stock 
+- Operating characteristics linked to train safety 
+- Boundary characteristics linked to outside noise 
+- Boundary characteristics linked to outside vibrations 
+- Boundary characteristics linked to outside electromagnetic interference 
+- Boundary characteristics linked to inside noise 
+- Boundary characteristics linked to air conditioning 
+- Characteristics linked to the carriage of disabled persons. 
+(1*) European Rail Traffic Management System. 
+ANNEX III 
+ESSENTIAL REQUIREMENTS 
+1. General requirements 
+1.1. Safety 
+1.1.1. The design, construction or assembly, maintenance and monitoring of safety-critical components, and more particularly of the components involved in train movements must be such as to guarantee safety at the level corresponding to the aims laid down for the network, including those for specific degraded situations. 
+1.1.2. The parameters involved in the wheel/rail contact must meet the stability requirements needed in order to guarantee safe movement at the maximum authorized speed. 
+1.1.3. The components used must withstand any normal or exceptional stresses that have been specified during their period in service. The safety repercussions of any accidental failures must be limited by appropriate means. 
+1.1.4. The design of fixed installations and rolling stock and the choice of the materials used must be aimed at limiting the generation, propagation and effects of fire and smoke in the event of a fire. 
+1.1.5. Any devices intended to be handled by users must be so designed as not to impair their safety if used foreseeably in a manner not in accordance with the posted instructions. 
+1.2. Reliability and availability 
+The monitoring and maintenance of fixed or movable components that are involved in train movements must be organized, carried out and quantified in such a manner as to maintain their operation under the intended conditions. 
+1.3. Health 
+1.3.1. Materials likely, by virtue of the way they are used, to constitute a health hazard to those having access to them must not be used in trains and railway infrastructures. 
+1.3.2. Those materials must be selected, deployed and used in such a way as to restrict the emission of harmful and dangerous fumes or gases, particularly in the event of fire. 
+1.4. Environmental protection 
+1.4.1. The repercussions on the environment of the establishment and operation of the trans-European high-speed rail system must be assessed and taken into account at the design stage of the system in accordance with the Community provisions in force. 
+1.4.2. The materials used in the trains and infrastructures must prevent the emission of fumes or gases which are harmful and dangerous to the environment, particularly in the event of fire. 
+1.4.3. The rolling stock and energy-supply systems must be designed and manufactured in such a way as to be electromagnetically compatible with the installations, equipment and public or private networks with which they might interfere. 
+1.5. Technical compatibility 
+The technical characteristics of the infrastructures and fixed installations must be compatible with each other and with those of the trains to be used on the trans-European high-speed rail system. 
+If adherence to these characteristics proves difficult on certain sections of the network, temporary solutions, which ensure compatibility in the future, may be implemented. 
+2. Requirements specific to each subsystem 
+2.1. Infrastructures 
+2.1.1. Safety 
+Appropriate steps must be taken to prevent access to or undesirable intrusions into installations on lines travelled at high speed. 
+Steps must be taken to limit the dangers to which persons are exposed, particularly in stations through which trains pass at high speed. 
+Infrastructures to which the public has access must be designed and made in such a way as to limit any human health hazards (stability, fire, access, evacuation, platforms, etc.). 
+Appropriate provisions must be laid down to take account of the particular safety conditions in very long tunnels. 
+2.2. Energy 
+2.2.1. Safety 
+Operation of the energy-supply systems must not impair the safety either of high-speed trains or of persons (users, operating staff, trackside dwellers and third parties). 
+2.2.2. Environmental protection 
+The functioning of the energy-supply systems must not interfere with the environment beyond the specified limits. 
+2.2.3. Technical compatibility 
+The electricity supply systems used throughout the trans-European high-speed rail system must: 
+- enable trains to achieve the specified performance levels; 
+- be compatible with the collection devices fitted to the trains. 
+2.3. Control and command and signalling 
+2.3.1. Safety 
+The control and command and signalling installation and procedures used on the trans-European high-speed rail system must enable trains to travel with a level of safety which corresponds to the objectives set for the network. 
+2.3.2. Technical compatibility 
+All new high-speed infrastructures and all new high-speed rolling stock manufactured or developed after adoption of compatible control and command and signalling must be tailored to the use of those systems. 
+The control and command and signalling equipment installed within the train drivers' cabs must permit normal operation, under the specified conditions, throughout the trans-European high-speed rail system. 
+2.4. Rolling stock 
+2.4.1. Safety 
+The rolling-stock structures and those of the links between vehicles must be designed in such a way as to protect the passenger and driving compartments in the event of collision or derailment. 
+The electrical equipment must not impair the safety and functioning of the control and command and signalling installations. 
+The braking techniques and the stresses exerted must be compatible with the design of the tracks, engineering structures and signalling systems. 
+Steps must be taken to prevent access to electrically-live constituents in order not to endanger the safety of persons. 
+In the event of danger devices must enable passengers to inform the driver and accompanying staff to contact him. 
+The access doors must incorporate an opening and closing system which guarantees passenger safety. 
+Emergency exits must be provided and indicated. 
+Appropriate provisions must be laid down to take account of the particular safety conditions in very long tunnels. 
+An emergency lighting system having a sufficient intensity and duration is an absolute requirement on board trains. 
+Trains must be equipped with a public address system which provides a means of communication to the public from on-board staff and ground control. 
+2.4.2. Reliability and availability 
+The design of the vital equipment and the running, traction and braking equipment and also the control and command system must, in a specific degraded situation, be such as to enable the train to continue without adverse consequences for the equipment remaining in service. 
+2.4.3. Technical compatibility 
+The electrical equipment must be compatible with the operation of the control and command and signalling installations. 
+The characteristics of the current-collection devices must be such as to enable trains to travel under the energy-supply systems for the trans-European high-speed rail system. 
+The characteristics of the rolling stock must be such as to allow it to travel on any line on which it is expected to operate. 
+2.5. Maintenance 
+2.5.1. Health 
+The technical installations and the procedures used in the maintenance centres must not constitute a danger to human health. 
+2.5.2. Environmental protection 
+The technical installations and the procedures used in the maintenance centres must not exceed the permissible levels of nuisance with regard to the surrounding environment. 
+2.5.3. Technical compatibility 
+The maintenance installations on high-speed trains must be such as to enable safety, health and comfort operations to be carried out on all trains for which they have been designed. 
+2.6. Environment 
+2.6.1. Health 
+Operation of the trans-European high-speed rail system must remain within the statutory noise-nuisance limits. 
+2.6.2. Environmental protection 
+Operation of the trans-European high-speed rail system must not cause a level of ground vibrations which is unacceptable for activities and the immediate environment in the vicinity of the infrastructure and in a normal state of maintenance. 
+2.7. Operation 
+2.7.1. Safety 
+Alignment of the network operating rules and the qualifications of drivers and on-board staff must be such as to ensure safe international operation. 
+The operations and maintenance intervals, the training and qualifications of maintenance staff and the quality assurance system set up in the maintenance centres of the operators concerned must be such as to ensure a high level of safety. 
+2.7.2. Reliability and availability 
+The operation and maintenance periods, the training and qualifications of the maintenance staff and the quality assurance system set up by the operators concerned in the maintenance centres must be such as to ensure a high level of system reliability and availability. 
+2.7.3. Technical compatibility 
+The alignment of the operating rules of the networks and the qualifications of drivers, on-board staff and managers in charge of traffic must be such as to ensure operating efficiency on the trans-European high-speed rail system. 
+ANNEX IV 
+INTEROPERABILITY CONSTITUENTS 
+EC declaration - of conformity - of suitability for use 
+1. Interoperability constituents 
+The EC declaration applies to the interoperability constituents involved in the interoperability of the trans-European high-speed rail systems, as referred to in Article 3. These interoperability constituents may be: 
+1.1. multiple-use constituents 
+These are constituents that are not specific to the railway system and which may be used as such in other areas; 
+1.2. multiple-use constituents having specific characteristics 
+These are multiple-use constituents which are not, as such, specific to a railway system, but which must display specific performance levels when used for railway purposes; 
+1.3. specific constituents 
+These are constituents that are specific to railway applications. 
+2. Scope 
+The EC declaration covers: 
+- either the assessment by a notified body or bodies of the intrinsic conformity of an interoperability constituent, considered in isolation, to the technical specifications to be met; 
+- or the assessment/judgment by a notified body or bodies of the suitability for use of an interoperability constituent, considered within its railway environment and in particular in cases where the interfaces are involved, in relation to the technical specifications, particulary those of a functional nature, which are to be checked. 
+The assessment procedures implemented by the notified bodies at the design and production stages will draw upon the modules defined in Decision 93/465/EEC, in accordance with the conditions referred to in the TSIs. 
+3. Contents of the EC declaration 
+The EC declaration of conformity or of suitability for use, and the accompanying documents must be dated and signed. 
+That declaration must be written in the same language as the instructions and must contain the following: 
+- the Directive references; 
+- the name and address of the manufacturer or his authorized representative established within the Community (give trade name and full address and in the case of the authorized representative also give the trade name of the manufacturer or constructor); 
+- description of interoperability constituent (make, type, etc.); 
+- description of the procedure followed in order to declare conformity, suitability for use (Article 13); 
+- all of the relevant descriptions met by the interoperability constituent and in particular its conditions of use; 
+- name and address of notified body (bodies) involved in the procedure followed in respect of conformity or suitability for use and date of examination certificate together, where appropriate, with the duration and conditions of validity of the certificate; 
+- where appropriate, reference to the European specification; 
+- identification of signatory having received powers to engage the manufacturer or his authorized representative established within the Community. 
+ANNEX V 
+SUBSYSTEMS 
+EC DECLARATION OF VERIFICATION 
+The EC declaration of verification and the accompanying documents must be dated and signed. 
+That declaration must be written in the same language as the technical file and must contain the following: 
+- the Directive references; 
+- name and address of the contracting entity or its authorized representative established within the Community. (Give trade name and full address, and in the case of the authorized representative also give the trade name of the contracting entity); 
+- a brief description of the subsystem; 
+- name and address of the notified body which has conducted the EC inspection referred to in Article 18; 
+- the references of the documents contained in the technical file; 
+- all of the relevant temporary or final provisions to be complied with by the subsystems and in particular, where appropriate, any operating restrictions or conditions; 
+- if temporary: duration of validity of the EC declaration; 
+- identity of signatory. 
+ANNEX VI 
+SUBSYSTEMS 
+EC VERIFICATION 
+1. EC verification is the procedure whereby a notified body checks and certifies, at the request of a contracting entity or its authorized representative established within the Community, that a subsystem: 
+- complies with the Directive; 
+- complies with the other regulations deriving from the Treaty and may be put into operation. 
+2. The subsystem is checked at each of the following stages: 
+- overall design; 
+- structure of subsystem, including, in particular, civil-engineering activities, constituent assembly, overall adjustment; 
+- final testing of the subsystem. 
+3. The notified body responsible for EC verification draws up the certificate of conformity intended for the contracting entity or its authorized representative established within the Community, which in turn draws up the EC verification declaration intended for the supervisory authority in the Member State within which the subsystem is located and/or operates. 
+4. The technical record accompanying the verification statement must be made up as follows: 
+- for infrastructures: engineering-structure plans, approval records for excavations and reinforcement, testing and inspection reports on concrete; 
+- for the other subsystems: general and detailed drawings in line with execution, electrical and hydraulic diagrams, control-circuit diagrams, description of dat-processing and automatic systems, operating and maintenance manuals, etc.; 
+- list of interoperability constituents, as referred to in Article 3, incorporated into the subsystem; 
+- copies of the EC declarations of conformity or suitability for use with which said constituents must be provided in accordance with Article 13 of the Directive, accompanied where appropriate by the corresponding calculation notes and a copy of the records of the tests and examinations carried out by the notified bodies on the basis of the common technical specifications; 
+- certificate from the notified body responsible for EC verification, accompanied by corresponding calculation notes and countersigned by itself, stating that the project complies with this Directive and mentioning, where appropriate, reservations recorded during performance of the activities and not withdrawn; the certificate should also be accompanied by the inspection and audit reports drawn up in connection with the verification, as specified in points 5.3 and 5.4. 
+5. Monitoring 
+5.1. The aim of EC monitoring is to ensure that the obligations deriving from the technical record have been met during production of the subsystem. 
+5.2. The notified body responsible for checking production must have permanent access to building sites, production workshops, storage areas and, where appropriate, prefabrication or testing facilities and, more generally, to all premises which it considers necessary for its task. The contracting entity or its authorized representative within the Community must send it or have sent to it all the documents needed for that purpose and in particular the implementation plans and technical records concerning the subsystem. 
+5.3. The body notified responsible for checking implementation must periodically carry out audits in order to confirm compliance with the Directive. It must provide those responsible for implementation with an audit report. It may require to be present at certain stages of the building operations. 
+5.4. In addition, the notified body may pay unexpected visits to the worksite or to the production workshops. At the time of such visits the notified body may conduct complete or partial 'audits`. It must provide those responsible for implementation with an inspection report and, if appropriate, an audit report. 
+6. The complete record referred to in paragraph 4 must be lodged with the contracting entity or its authorized agent established within the Community in support of the certificate of conformity issued by the notified body responsible for checking the subsystem in working order. The record must be attached to the EC declaration of verification which the contracting entity sends to the supervisory authority in the Member State concerned. 
+A copy of the record must be kept by the contracting entity throughout the service life of the subsystem. It must be sent to any other Member States who so request. 
+7. Each body must periodically pass on relevant information concerning the following: 
+- requests for EC verification received; 
+- certificates of conformity issued; 
+- certificates of conformity refused. 
+8. The records and correspondence relating to the EC verification procedures must be written in an official language of the Member State in which the contracting entity or its authorized representative is established within the Community, or in a language accepted by the Community. 
+ANNEX VII 
+MINIMUM CRITERIA WHICH MUST BE TAKEN INTO ACCOUNT BY THE MEMBER STATES WHEN NOTIFYING BODIES 
+1. The body, its Director and the staff responsible for carrying out the checking operations may not become involved either directly or as authorized representatives in the design, manufacture, construction, marketing or maintenance of the interoperability constituents or subsystems or in their use. This does not exclude the possibility of an exchange of technical information between the manufacturer or constructor and that body. 
+2. The body and the staff responsible for inspection must carry out the checking operations with the greatest possible professional integrity and the greatest possible technical competence and must be free of any pressure and incentive, in particular of a financial type, which may affect their judgment or the results of their inspection, and in particular those generated by persons or groups of persons affected by the results of the checks. 
+3. That body must employ staff and possess the means required to perform adequately the technical and administrative tasks linked with the conducting of checks. It should also have access to the equipment needed for exceptional checks. 
+4. The staff responsible for the checks must possess: 
+- proper technical and vocational training; 
+- a satisfactory knowledge of the requirements relating to the checks that they carry out and sufficient practice in those checks; 
+- the ability to draw up the certificates, records and reports which constitute the formal record of the inspections conducted. 
+5. The independence of the staff responsible for inspections must be guaranteed. No official must be remunerated either on the basis of the number of inspections performed or of the results of those inspections. 
+6. The body must take out civil liability insurance unless that liability is covered by the State under national law or unless the inspections are carried out directly by that Member State. 
+7. The staff of that body are bound by professional secrecy with regard to everything they learn in the performance of their duties (with the exception of the competent administrative authorities in the State where they perform those activities) in pursuance of this Directive or any provision of national law implementing the Directive. 

@@ -1,0 +1,159 @@
+Council Regulation (EC) No 323/1999 of 8 February 1999 amending Regulation (EEC) No 2299/89 on a code of conduct for computer reservation systems (CRSs) 
+COUNCIL REGULATION (EC) No 323/1999 of 8 February 1999 amending Regulation (EEC) No 2299/89 on a code of conduct for computer reservation systems (CRSs) 
+THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty establishing the European Community, and in particular Articles 75 and 84(2) thereof, 
+Having regard to the proposal from the Commission, 
+Having regard to the opinion of the Economic and Social Committee (1), 
+Acting in accordance with the procedure laid down in Article 189c of the Treaty (2), 
+(1) Whereas Regulation (EEC) No 2299/89 (3) has made a major contribution to ensuring fair and unbiased conditions for air carriers in computer reservation systems, thereby protecting the interests of consumers; 
+(2) Whereas it is necessary to extend the scope of Regulation (EEC) No 2299/89 and to clarify its provisions and it is appropriate to take these measures at Community level to ensure that the objectives of the Regulation are met in all Member States; 
+(3) Whereas this Regulation is without prejudice to the application of Articles 85 and 86 of the Treaty; 
+(4) Whereas this Regulation is without prejudice to the application of Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (4); 
+(5) Whereas Commission Regulation (EC) No 3652/93 (5) exempts agreements for the common purchase, development and operation of computerised reservation systems from the provisions of Article 85(1) of the Treaty; 
+(6) Whereas it is desirable to clarify the basis on which parent carriers should be charged for bookings they are required to accept from competing CRSs; 
+(7) Whereas it is necessary to clarify the basis on which CRSs charge for the services they provide for participating carriers and subscribers, in particular as regards incentives and in order to improve transparency; 
+(8) Whereas it is necessary to ensure that third parties carrying out services on behalf of a CRS are subject to the same obligations as the code imposes on that CRS; 
+(9) Whereas the code's CRS audit requirements should also be used to check data-protection requirements arising out of Directive 95/46/EC; 
+(10) Whereas it is necessary to specify the obligations of subscribers under the code so that the reservation services they provide for their customers are not inaccurate, misleading or discriminatory; 
+(11) Whereas express provision ought to be made for a defendant's right to be heard on matters to which the Commission takes objection; 
+(12) Whereas the integration of rail services into the CRS principal display can improve the quality of information available to consumers and provide consumers with the best options for their travel arrangements; 
+(13) Whereas rail operators distributing certain well-defined categories of their services through the principal displays of CRS should be subject to conditions comparable to those imposed on air carriers; 
+(14) Whereas information or distribution facilities offered by a carrier or a group of air carriers should not be subject to certain code provisions provided that such arrangements are clearly and continuously identified, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Regulation No 2299/89 is hereby amended as follows: 
+1. Article 1 shall be replaced by the following: 
+'Article 1 
+This Regulation shall apply to any computerised reservation system, insofar as it contains air-transport products and insofar as rail-transport products are incorporated in its principal display, when offered for use or used in the territory of the Community, irrespective of: 
+- the status or nationality of the system vendor, 
+- the source of the information used or the location of the relevant central data processing unit, 
+- the geographical location of the airports between which air carriage takes place`. 
+2. Article 2 shall be amended as follows: 
+(a) paragraph (l) shall be replaced by the following: 
+'(l) %quot%subscriber%quot% shall mean a person, other than a consumer, or an undertaking, other than a participating carrier, using a CRS under contract or other financial arrangement with a system vendor. A financial arrangement shall be deemed to exist where a specific payment is made for the services of the system vendor or where an air-transport product is purchased`;(b) paragraph (m) shall be replaced by the following: 
+'(m) %quot%consumer%quot% shall mean any person seeking information about or intending to purchase an air-transport product for private use`;(c) the following paragraphs shall be added: 
+'(q) %quot%unbundled rail-transport product%quot% shall mean the carriage of a passenger between two stations by rail, including any related ancillary services and additional benefits offered for sale or sold as an integral part of that product; 
+(r) %quot%bundled rail-transport product%quot% shall mean a pre-arranged combination of an unbundled rail-transport product with other services not ancillary to rail transport, offered for sale or sold at an inclusive price; 
+(s) %quot%rail-transport product%quot% shall mean both unbundled and bundled rail-transport products; 
+(t) %quot%ticket%quot% shall mean a valid document giving entitlement to transport or an equivalent in paperless, including electronic, form issued or authorised by the carrier or its authorised agent; 
+(u) %quot%duplicate reservation%quot% shall mean a situation which arises when two or more reservations are made for the same passenger when it is evident that the passenger will not be able to use more than one.` 
+3. Article 3a shall be amended as follows: 
+(a) paragraph 1(b) shall be replaced by the following: 
+'(b) The parent carrier shall not be obliged to accept any costs in this connection except for reproduction of the information to be provided and for accepted bookings. The booking fee payable to a CRS for an accepted booking made in accordance with this Article shall not exceed the fee charged by the same CRS to participating carriers for an equivalent transaction`;(b) paragraph 2 shall be replaced by the following: 
+'2. The obligation imposed by this Article shall not apply in favour of a competing CRS when, in accordance with the procedures of Article 11, it has been decided that that CRS is in breach of Article 4a or of Article 6 concerning parent carriers' unauthorised access to information`. 
+4. In Article 4(1) the following subparagraph shall be added: 
+'The principles stated in the first and second subparagraphs shall apply to rail services in respect of data provided for inclusion in the principal display.` 
+5. In Article 4a the following paragraph shall be added: 
+'4. The system vendor shall ensure that any third parties providing CRS services in whole or in part on its behalf comply with the relevant provisions of this Regulation.` 
+6. Article 6(1)(a) shall be replaced by the following: 
+'(a) information concerning identifiable individual bookings shall be provided on an equal basis and only to the air carrier or carriers participating in the service covered by and to the subscribers involved in the booking. 
+Information under the control of the system vendor concerning identifiable individual bookings shall be archived off-line within seventy-two hours of the completion of the last element in the individual booking and destroyed within three years. Access to such data shall be allowed only for billing-dispute reasons.` 
+7. Article 6(1)(b) shall be amended as follows: 
+(a) point (ii) shall be replaced by the following: 
+'(ii) such data may and, on request, shall cover all participating carriers and/or subscribers, but shall include no identification, either directly or indirectly, of, or personal information on a passenger or a corporate user;` 
+(b) the following points shall be added: 
+'(iv) information is made available on request to participating carriers and subscribers both globally and selectively with regard to the market in which they operate; 
+(v) a group of airlines and/or subscribers is entitled to purchase data for common processing`. 
+8. Paragraphs (4) and (5) of Article 6 shall be deleted. 
+9. The following Article shall be inserted: 
+'Article 9a 
+1. (a) In the case of information provided by a CRS, a subscriber shall use a neutral display in accordance with Article 5(2)(a) and (b) unless another display is required to meet a preference indicated by a consumer. 
+(b) No subscriber shall manipulate information provided by a CRS in a manner that leads to inaccurate, misleading or discriminatory presentation of that information to any consumer. 
+(c) A subscriber shall make reservations and issue tickets in accordance with the information contained in the CRS used, or as authorised by the carrier concerned. 
+(d) A subscriber shall inform each consumer of any en route changes of equipment, the number of scheduled en route stops, the identity of the air carrier actually operating the flight, and of any changes of airport required in any itinerary provided, to the extent that that information is present in the CRS. The subscriber shall inform the consumer of the name and address of the system vendor, the purposes of the processing, the duration of the retention of individual data and the means available to the data subject of exercising his access rights. 
+(e) A consumer shall be entitled at any time to have a print-out of the CRS display or to be given access to a parallel CRS display reflecting the image that is being displayed to the subscriber. 
+(f) A person shall be entitled to have effective access free of charge to his own data regardless of whether the data is stored by the CRS or by the subscriber. 
+2. A subscriber shall use the distribution facilities of a CRS in accordance with Annex II.` 
+10. In Article 10 paragraphs 1 and 2 shall be replaced by the following: 
+'1. (a) Any fee charged to a participating carrier by a system vendor shall be non-discriminatory, reasonably structured and reasonably related to the cost of the service provided and used and shall, in particular, be the same for the same level of service. 
+The billing for the services of a CRS shall be sufficiently detailed to allow the participating carriers to see exactly which services have been used and the fees therefor; as a minimum, booking fee bills shall include the following information for each segment: 
+- type of CRS booking, 
+- passenger name, 
+- country, 
+- IATA/ARC agency identification code, 
+- city-code, 
+- city pair of segment, 
+- booking date (transaction date), 
+- flight date, 
+- flight number, 
+- status code (booking status), 
+- service type (class of service), 
+- passenger name record (PNR) locator, and 
+- booking/cancellation indicator. 
+The billing information shall be offered on magnetic media. The fee to be charged for the billing information provided in the form chosen by the carrier shall not exceed the cost of the medium itself together with its transportation costs. 
+A participating air carrier shall be offered the facility of being informed when any booking or transaction is made for which a booking fee will be charged. Where a carrier elects to be so informed, it shall be offered the option of disallowing any such booking or transaction, unless the latter has already been accepted. In the event of such a disallowance, the air carrier shall not be charged for that booking or transaction. 
+(b) Any fee for equipment rental or other service charged to a subscriber by a system vendor shall be non-discriminatory, reasonably structured and reasonably related to the cost of the service provided and used and shall, in particular, be the same for the same level of service. Productivity benefits awarded to subscribers by system vendors in the form of discount on rental charges or commission payments shall be deemed to be distribution costs of the system vendors and shall be based on ticketed segments. When, subject to paragraph 5 of Annex II the system vendor does not know whether a ticket has been issued or not, then that system vendor shall be entitled to rely upon notification of the ticket number from the subscriber. 
+The billing for the services of a CRS shall be sufficiently detailed to allow subscribers to see exactly which services have been used and what fees have been charged therefor. 
+2. A system vendor shall, on request, provide interested parties, including consumers, with details of current procedures, fees and system facilities, including interfaces, editing and display criteria used. For consumers that information shall be free of charge and cover the processing of individual data. This provision shall not, however, require a system vendor to disclose proprietary information such as software.` 
+11. Article 19(1) shall be replaced by the following: 
+'1. Before taking decisions pursuant to Article 11 or 16, the Commission shall give the undertakings or associations of undertakings concerned the opportunity of being heard on the matters to which the Commission takes or has taken objection.` 
+12. Article 21 shall be replaced by the following: 
+'Article 21 
+1. Neither Article 5, Article 9(5) nor the Annexes shall apply to a CRS used by an air carrier or a group of air carriers: 
+(a) in its or their own office or offices and sales counters clearly identified as such; 
+or 
+(b) to provide information and/or distribution facilities accessible through a public telecommunications network, clearly and continuously identifying the information provider or providers as such. 
+2. Where booking is performed directly by an air carrier, that air carrier shall be subject to Article 9a(d) and (f).` 
+13. Article 21a(1) shall be replaced by the following. 
+'1. The system vendor shall ensure that the technical compliance of its CRS with Articles 4a and 6 is monitored by an independent auditor on a calendar year basis. For that purpose, the auditor shall be granted access at all times to any programmes, procedures, operations and safeguards used on the computers or computer systems through which the system vendor provides its distribution facilities. Each system vendor shall submit its auditor's report on his inspection and findings to the Commission within four months of the end of the calendar year under review. The Commission shall examine those reports with a view to taking any action necessary in accordance with Article 11(1)`. 
+14. The following Article shall be added: 
+'Article 21b 
+1. Subject to this Article, this Regulation shall apply to the inclusion of rail-transport products. 
+2. A system vendor may decide to include rail services in the principal display of its CRS. 
+3. Where a system vendor decides to include rail products in the principal display of its CRS, it shall choose to include certain well-defined categories of rail services, while respecting the principles stated in Article 3(2). 
+4. A rail-transport operator shall be deemed to be a participating or parent carrier, as appropriate, for the purposes of the code, insofar as it has an agreement with a system vendor for the distribution of its products through the principal display of a CRS or its own reservation system is a CRS as defined in Article 2(f). Subject to paragraph 5, those products shall be treated as air-transport products and shall be incorporated in the principal display in accordance with the criteria set out in Annex I. 
+5. (a) When applying the rules laid down in paragraphs 1 and 2 of Annex I to rail services the system vendor shall adjust the ranking principles for the principal display in order to take due account of the needs of consumers to be adequately informed of rail services that represent a competitive alternative to the air services. In particular, system vendors may rank rail services with a limited number of short stops with non-stop direct air services. 
+(b) System vendors shall define clear criteria for the application of this Article to rail services. Such criteria shall cover elapsed journey time and reflect the need to avoid excessive screen padding. At least two months before their application those criteria shall be submitted to the Commission for information. 
+6. For the purposes of this Article, all references to %quot%flights%quot% in this Regulation shall be deemed to include references to %quot%rail services%quot% and references to %quot%air-transport products%quot% shall be deemed to include references to %quot%rail products%quot%. 
+7. Particular attention shall be given to an assessment of the application of this Article in the Commission's report under Article 23(1).` 
+15. Article 22(1) shall be replaced by the following: 
+'1. This Regulation shall be without prejudice to national legislation on security, public-order and data-protection measures taken in implementation of Directive 95/46/EC (*). 
+(*) OJ L 281, 23. 11. 1995, p. 31.` 
+16. Article 23 shall be replaced by the following: 
+'Article 23 
+Within two years of the entry into force of this Regulation, the Commission shall draw up a report on the application of this Regulation which shall, inter alia, take account of economic developments in the relevant market. That report may be accompanied by proposals for the revision of this Regulation.` 
+17. The Annex shall be replaced by Annexes I and II set out in the Annex hereto. 
+Article 2 
+This Regulation shall enter into force on the thirtieth day after that of its publication in the Official Journal of the European Communities, with the exception of the new Article 10(1)(b) of Regulation (EEC) No 2299/89, which shall enter into force six months after the publication of this Regulation. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 8 February 1999. 
+For the Council 
+The President 
+O. LAFONTAINE 
+(1) OJ C 95, 30. 3. 1998, p. 27. 
+(2) Opinion of the European Parliament of 15 May 1998 (OJ C 167, 1. 6. 1998, p. 293), Council Common Position of 24 September 1998 (OJ C 360, 23. 11. 1998, p. 69) and Decision of the European Parliament of 3 December 1998 (OJ C 398, 21. 12. 1998). 
+(3) OJ L 220, 29. 7. 1989, p. 1. Regulation as amended by Regulation (EEC) No 3089/93 (OJ L 278 11. 11. 1993, p. 1). 
+(4) OJ L 281, 23. 11. 1995, p. 31. 
+(5) OJ L 333, 31. 12. 1993, p. 37. Regulation as amended by the Act of Accession of 1994. 
+ANNEX 
+'ANNEX I 
+Principal display ranking criteria for flights (1) offering unbundled air transport products 
+1. Ranking of flight options in a principal display, for the day or days requested, must be in the following order unless requested in a different way by a consumer for an individual transaction: 
+(i) all non-stop direct flights between the city-pairs concerned; 
+(ii) all other direct flights, not involving a change of aircraft or train, between the city pairs concerned; 
+(iii) connecting flights. 
+2. A consumer must at least be afforded the possibility of having, on request, a principal display ranked by departure or arrival time and/or elapsed journey time. Unless otherwise requested by a consumer, a principal display must be ranked by departure time for group (i) and elapsed journey time for groups (ii) and (iii). 
+3. Where a system vendor chooses to display information for any city-pair in relation to the schedules or fares of non-participating carriers, but not necessarily all such carriers, such information must be displayed in an accurate, non-misleading and non-discriminatory manner between carriers displayed. 
+4. If, to the system vendor's knowledge, information on the number of direct scheduled air services and the identity of the air carriers concerned is not comprehensive, that must be clearly stated on the relevant display. 
+5. Flights other than scheduled air services must be clearly identified. 
+6. Flights involving stops en route must be clearly identified. 
+7. Where flights are operated by an air carrier which is not the air carrier identified by the carrier designator code, the actual operator of the flight must be clearly identified. That requirement will apply in all cases, except for short-term ad hoc arrangements. 
+8. A system vendor must not use the screen space in a principal display in a manner which gives excessive exposure to one particular travel option or which displays unrealistic travel options. 
+9. Except as provided in paragraph 10, the following will apply: 
+(a) for direct services, no flight may be featured more than once in any principal display; 
+(b) for multi-sector services involving a change of aircraft, no combination of flights may be featured more than once in any principal display; 
+(c) flights involving a change of aircraft must be treated and displayed as connecting flights, with one line per aircraft segment. 
+Nevertheless, where the flights are operated by the same carrier with the same flight number and where a carrier requires only one flight coupon and one reservation, a CRS should issue only one coupon and should charge for only one reservation. 
+10. 1. Where participating carriers have joint-venture or other contractual arrangements requiring two or more of them to assume separate responsibility for the offer and sale of air-transport products on a flight or combination of flights, the terms %quot%flight%quot% (for direct services) and %quot%combination of flights%quot% (for multi-sector services) used in paragraph 9 must be interpreted as allowing each of the carriers concerned - not more than two - to have a separate display using its individual carrier-designator code. 
+2. Where more than two carriers are involved, designation of the two carriers entitled to avail themselves of the exception provided for in subparagraph 1 must be a matter for the carrier actually operating the flight. In the absence of information from the operating carrier sufficient to identify the two carriers to be designated, a system vendor must designate the carriers on a non-discriminatory basis. 
+11. A principal display must, wherever practicable, include connecting flights on scheduled services which are operated by participating carriers and are constructed by using a minimum number of nine connecting points. A system vendor must accept a request by a participating carrier to include an indirect service, unless the routing is in excess of 130 % of the great circle distance between the two airports or unless that would lead to the exclusion of services with a shorter elapsed journey time. Connecting points with routings in excess of 130 % of that great circle distance need not be used. 
+ANNEX II 
+Use of distribution facilities by subscribers 
+1. A subscriber must keep accurate records covering all CRS reservation transactions. Those records must include flight numbers, reservations booking designators, date of travel, departure and arrival times, status of segments, names and initials of passengers with their contact addresses and/or telephone numbers and ticketing status. When booking or cancelling space, the subscriber must ensure that the reservation designator being used corresponds to the fare paid by the passenger. 
+2. A subscriber should not deliberately make duplicate reservations for the same passenger. Where confirmed space is not available on the customer's choice, the passenger may be wait-listed on that flight (if wait-list is available) and confirmed on an alternative flight. 
+3. When a passenger cancels a reservation, the subscriber must immediately release that space. 
+4. When a passenger changes an itinerary, the subscriber must ensure that all space and supplementary services are cancelled when the new reservations are made. 
+5. A subscriber must, where practicable, request or process all reservations for a specific itinerary and all subsequent changes through the same CRS. 
+6. No subscriber may request or sell airline space unless requested to do so by a consumer. 
+7. A subscriber must ensure that a ticket is issued in accordance with the reservation status of each segment and in accordance with the applicable time limit. A subscriber must not issue a ticket indicating a definite reservation and a particular flight unless confirmation of that reservation has been received. 
+(1) All references to %quot%flights%quot% in this Annex are in accordance with Article 21b(6).` 

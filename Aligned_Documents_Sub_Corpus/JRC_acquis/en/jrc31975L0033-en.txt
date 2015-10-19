@@ -1,0 +1,139 @@
+Council Directive 75/33/EEC of 17 December 1974 on the approximation of the laws of the Member States relating to cold-water meters 
+COUNCIL DIRECTIVE of 17 December 1974 on the approximation of the laws of the Member States relating to cold-water meters (75/33/EEC) 
+THE COUNCIL OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof; 
+Having regard to the proposal from the Commission; 
+Having regard to the Opinion of the European Parliament (1); 
+Having regard to the Opinion of the Economic and Social Committee (2); 
+Whereas in the Member States the construction and the methods of control of cold-water meters are subject to mandatory provisions which differ from one Member State to another and consequently hinder trade in such instruments ; whereas it is therefore necessary to approximate these provisions; 
+Whereas Council Directive No 71/316/EEC (3) of 26 July 1971 on the approximation of the laws of the Member States relating to common provisions for both measuring instruments and methods of metrological control, as amended by the Act of Accession (4), laid down the EEC pattern approval and EEC initial verification procedures ; whereas, in accordance with that Directive, the technical requirements for the design and functioning of cold-water meters should be laid down ; whereas such requirements must be met, and the controls must be carried out, and the appropriate signs and marks affixed, before these instruments can be freely imported, marketed and used, 
+HAS ADOPTED THIS DIRECTIVE: 
+Article 1 
+This Directive shall apply to cold-water meters, which are integrating measuring instruments for continuously determining the volume of water (and no other liquid) passing through them, and which comprise a measuring device linked to an indicating device. Water shall be considered to be %quot%cold%quot% when its temperature is in the range 0º to 30º C. 
+Article 2 
+Cold-water meters which may bear the EEC marks and signs are described in the Annex to this Directive. They shall be subject to EEC pattern approval and submitted to EEC initial verification. 
+Article 3 
+No Member State may refuse, prohibit or restrict the placing on the market or entry into service of (1)OJ No C 2, 9.1.1974, p. 62. (2)OJ No C 8, 31.1.1974, p. 6. (3)OJ No L 202, 6.9.1971, p. 1. (4)OJ No L 73, 27.3.1972, p. 14. cold-water meters bearing the EEC pattern approval symbol and the EEC initial verification mark, on the grounds of their metrological properties. 
+Article 4 
+1. Member States shall put into force the laws, regulations and administrative provisions needed in order to comply with this Directive within 18 months of its notification and shall forthwith inform the Commission thereof. 
+2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. 
+Article 5 
+This Directive is addressed to the Member States. 
+Done at Brussels, 17 December 1974. 
+For the Council 
+The President 
+M. DURAFOUR 
+ANNEX 
+I. TERMINOLOGY AND DEFINITIONS 1.0. This Annex applies only to cold-water meters based on a direct mechanical process involving the use of volumetric chambers with mobile walls or the action of the velocity of the water on the rotation rate of a moving part (turbine, impeller etc...). 
+1.1. Flowrate 
+The flowrate is the volume of water passing through the meter per unit of time, the volume being expressed in cubic metres or litres and the time in hours, minutes or seconds. 
+1.2. Volume delivered 
+The volume delivered is the total volume of water which has passed through the meter in a given time. 
+1.3. Maximum flowrate (Qmax) 
+The maximum flowrate, Qmax, is the highest flowrate at which the meter can function over limited periods without damage, and without exceeding the maximum permissible errors and the maximum permissible value for loss of pressure. 
+1.4. Nominal flowrate (Qn) 
+The nominal flowrate, Qn, is equal to half the maximum flowrate, Qmax. It is expressed in cubic metres per hour and is used to designate the meter. 
+At the nominal flowrate, Qn, the meter should be able to function in normal use, i.e., in continuous and intermittent operating conditions, without exceeding the maximum permissible errors. 
+1.5. Minimum flowrate (Qmin) 
+The minimum flowrate, (Qmin), is the flowrate above which the meter must not exceed the maximum permissible errors, and is fixed as a function of Qn. 
+1.6. Flowrate range 
+The flowrate range of a water meter is bounded by the maximum and minimum flowrates, Qmax and Qmin. It is divided into two regions, termed upper and lower, with different maximum permissible errors. 
+1.7. Transitional flowrate : (Qt) 
+The transitional flowrate, Qt, is the flowrate which divides the upper and lower regions of the flow range and the rate at which the maximum permissible errors become discontinuous. 
+1.8. Maximum permissible error 
+The maximum permissible error is the limit of the error permitted by this Directive for EEC pattern approval and EEC initial verification of a water meter. 
+1.9. Loss of pressure 
+Loss of pressure means the loss which is caused by the presence of the water meter in the conduit. 
+II. METROLOGICAL CHARACTERISTICS 2.1. Maximum permissible errors 
+The maximum error permitted in the lower region, from Qmin inclusive to Qt non-inclusive, is ± 5 %. 
+The maximum error permitted in the upper region, from Qt inclusive to Qmax inclusive, is ± 2 %. 
+2.2. Metrological classes 
+Water meters are divided, according to the values of Qmin and Qt defined above, into the three metrological classes in the following table: %gt%PIC FILE= %quot%T0006670%quot%%gt% 
+III. TECHNOLOGICAL CHARACTERISTICS 3.1. Construction - General provisions 
+The meters must be constructed in such a way as to: (1) give long service and guarantee proof against fraud, 
+(2) conform with the provisions of this Directive, under normal conditions of use. 
+Where meters may be subjected to an accidental reversal of flows they must be capable of withstanding it without any deterioration or change in their metrological properties, and at the same time should record such a reversal. 
+3.2. Materials 
+The water meter must be made of materials of adequate strength and stability for the purpose for which the water meter is to be used. It must be constructed throughout of materials which are resistant to internal and normal external corrosion and if necessary be protected by some suitable surface treatment. Water temperature variations within the working temperature range must not adversely affect the materials used in the construction of the water meter. 
+3.3. Soundness - pressure tightness 
+A meter must be able to withstand constantly - without defects in its functioning, leakage, seepage through the walls or permanent deformation - the continuous water pressure for which it is designed, termed the maximum operating pressure. The minimum value for this pressure is 10 bars. 
+3.4. Loss of pressure 
+Loss of pressure through the meter is determined by EEC pattern approval tests, and must not exceed 0.25 bars at the nominal flowrate and one bar at the maximum flowrate. 
+On the basis of the test results meters are divided into one of four groups with the following maximum values for pressure loss : 1, 0.6, 0.3 and 0.1 bars. The relevant value must be indicated in the EEC pattern approval certificate. 
+3.5. Indicating mechanisms 
+The indicator must allow, by simple juxtaposition of its various constituent elements, a reliable, easy and unambiguous reading of the volume of water measured, expressed in cubic metres. The volume is given either by: (a) the position of one or more pointers on circular scales; 
+(b) reading off a row of in-line consecutive digits in one or more apertures; 
+(c) a combination of these two systems. 
+The cubic metre and its multiples are indicated in black, and sub-multiples of the cubic metre in red. 
+The actual or apparent height of the digits must not be less than 4 mm. 
+On digital indicators (types (b) and (c)) visible displacement of all digits must be upwards in value. The advance of any given digital unit must be completed while the digit of the immediately next lower value describes the last tenth of its course ; the roller showing the digits of lowest value may move continuously in the case of type (c). The whole number of cubic metres must be clearly indicated. 
+Indicators with pointers (types (a) and (c)) should rotate in a clockwise direction. The value in cubic metres for each scale divison should be expressed as 10n, where n is a positive or negative whole number or zero, thereby establishing a system of consecutive decades. The following should be shown near each part of the scale : × 1000 - × 100 - × 10 - × 1 - × 0.1 - × 0.01 - × 0.001. 
+In both cases (dial and digital indicators): - the unit symbol m3 should be shown either on the dial or in the immediate vicinity of the digital indication; 
+- the fastest-moving visible graduated element, the control element, the scale interval of which is known as the %quot%verification scale interval%quot%, should move continuously. This control element may be permanent or may be fitted temporarily by adding detachable parts. These parts must not have any significant influence on the metrological properties of the meter. 
+The length of the verification scale interval should be not less than 1 mm and not more than 5 mm. The scale shall consist: - either of lines of equal thickness not exceeding one quarter of the distance between the axes of two consecutive lines and differing only in length; 
+- or of contrasting bands of a constant width equal to the length of the scale division. 
+However, for a period of 6 1/2 years from the notification of this Directive: (a) the downward movement of digits will be permitted, this movement being indicated by an arrow; 
+(b) the length of the scale division may be 0.8 mm. 
+3.6. Number of figures in the verification scale division and their values 
+It must be possible for the indicating device to record a volume, expressed in cubic metres, corresponding to at least 1 999 hours' operation at the nominal flowrate, without returning to zero. 
+The size of the verification scale division must be based on the formula 1 × 10n or 2 × 10n or 5 × 10n. During verification, it must be small enough to ensure a measurement inaccuracy of not more than 0.5 % (allowing for a possible reading error of not more than half the length of the smallest scale division) and small enough so that at the minimum flowrate the test does not take more than 1 1/2 hours. 
+However, for a period of 6 1/2 years from the notification of this Directive a maximum duration of seven hours shall be permitted. 
+A supplementary device (star, disc with a reference mark, etc.) may be added in order to show the movement of the measuring device before this becomes clearly visible on the indicator. 
+3.7. Adjustment device 
+The meters may be fitted with an adjustment device with which it is possible to alter the relationship between the volume indicated and the volume actually passed. This device is compulsory for meters which make use of the action of the velocity of the water on the rotation of a moving part. 
+3.8. Accelerating device 
+The use of an accelerating device for increasing the speed of the meter below Qmin is prohibited. 
+IV. MARKS AND INSCRIPTIONS 4.1. Identification inscriptions 
+It is compulsory for all meters to carry, in a legible and indelible manner, either separately or grouped together on the meter casing, the indicator dial, or the indication plate, the following information: (a) the name or trade name of the manufacturer or his trademark; 
+(b) the metrological class and nominal flowrate Qn in cubic metres per hour; 
+(c) the year of manufacture, individual serial number; 
+(d) one or two arrows showing direction of flow; 
+(e) the EEC pattern approval symbol; 
+(f) the maximum operating pressure in bars if this can exceed 10 bars; 
+(g) the letter %quot%V%quot% or %quot%H%quot% if the meter can operate properly only in either the vertical (V) or horizontal (H) positions. 
+4.2. Placing of verification marks 
+Space for the EEC verification marks should be provided on an essential part (normally the meter casing), which is visible without dismantling. 
+4.3. Sealing 
+Water meters shall have protective devices which can be sealed in such a way that after sealing, both before and after the water meter has been properly installed, there is no possibility of dismantling or altering the water meter or its adjustment device without damaging the protective devices. 
+V. EEC PATTERN APPROVAL 5.1. Procedure 
+The procedure for EEC pattern approval will be carried out in accordance with Directive No 71/316/EEC. 
+5.2. Pattern tests 
+When it has been ascertained from the application file that the pattern conforms to the provisions of this Directive, laboratory tests will be carried out on a number of instruments under the following conditions: 5.2.1. Number of meters to be tested 
+The number of meters to be submitted by the manufacturer is as shown in the following table: %gt%PIC FILE= %quot%T0006671%quot%%gt% 
+5.2.2. Pressure 
+For the metrological tests (point 5.2.4), the pressure at the meter outlet should be sufficiently high to prevent cavitation. 
+5.2.3. Test equipment 
+In general meters shall be tested individually and, in all cases, in such a way as to demonstrate the individual characteristics of each. 
+The metrological service of the Member State will take the necessary steps to ensure that the maximum relative inaccuracy in measuring the volume of water delivered does not exceed 0.2 %, including the various causes of error in installation. 
+The maximum permissible inaccuracy is 5 % in the case of measurement of pressure and 2.5 % in the case of measurement of loss of pressure. 
+During each test, the relative variation in the flowrates should not exceed 2.5 % between Qmin and Qt and 5 % between Qt and Qmax. 
+The equipment must be approved by the metrological service of the Member State concerned no matter where these tests are carried out. 
+5.2.4. Test procedure 
+The tests comprise the following operations, carried out in the order shown: (1) pressure tightness test; 
+(2) determination of the error curves on the basis of the flowrate by ascertaining the effect of the pressure and taking into account the normal installation conditions for this type of meter (straight sections of piping upstream and downstream of the meter, constrictions, obstacles, etc.) stipulated by the manufacturer; 
+(3) determination of pressure losses; 
+(4) accelerated endurance test. 
+The pressure tightness test consists of two parts: (a) each meter should be able to withstand, without leakage or seepage through the walls, a pressure of 16 bars or 1.6 times the maximum operating pressure, applied for a period of 15 minutes (see point 4.1 (f)); 
+(b) each meter should be able to withstand, without any damage or blockage, a pressure of 20 bars or twice the maximum operating pressure, applied for a period of one minute (see point 4.1 (f)); 
+The results of tests (2) and (3) should provide a sufficient number of points to enable the curves to be plotted accurately throughout the range. 
+The accelerated endurance test is to be carried out as follows: %gt%PIC FILE= %quot%T0006672%quot%%gt% 
+Before the first test and after each series of tests the measuring errors must be determined, as a minimum requirement, at the following flowrates: 
+Qmin, Qt, 0.3 Qn, 0.5 Qn, 1 Qn, 2 Qn 
+In each test, the volume of water passed through the meter must be sufficient to rotate the pointer or the roller on the verification scale through one or more complete revolutions and to eliminate the effects of cyclic distortion. 
+5.2.5. Conditions for EEC pattern approval 
+A water meter pattern will be approved if it fulfils the following conditions: (a) it conforms with the administrative, technical and metrological provisions of this Directive and its Annex; 
+(b) tests 1, 2 and 3 under point 5.2.4 show that it conforms with Parts II and III of this Annex as regards metrological and technological characteristics; 
+(c) after each accelerated endurance test: 1. no variation in relation to the initial curve greater than 1.5 % between Qt and Qmax or greater than 3 % between Qmin and Qt has been observed; 
+2. the maximum error of the meter between Qmin and Qt is ± 6 % and between Qt and Qmax ± 2.5 %. 
+VI. EEC INITIAL VERIFICATION 
+This will be carried out in a place approved by the metrological service of the Member State. The layout of the premises and the test equipment should be such that verification may be carried out in safe, reliable conditions, and with no loss of time for the person responsible for the control. The provisions of point 5.2.3 should be complied with, but the meters may be tested in series if desired. If this method is employed the exit pressure of all the meters should be sufficient to prevent cavitation and special measures may be required to prevent interference between meters. 
+The complete unit may include automatic devices, by-pass valves, flow-restrictors, etc., provided that each test circuit between the meters to be verified and the control tanks is clearly defined and that it is possible to verify at any time its internal pressure absorption. 
+Any type of water supply system may be used, but if several test circuits are operated in parallel, there should be no interference incompatible with the provisions of point 5.2.3. 
+If a control tank is divided into several chambers, the separating walls should be sufficiently rigid to ensure that the volume of a chamber does not vary by more than 0.2 % according to whether the adjacent chambers are full or empty. 
+Verification includes an accuracy test at at least three flowrates: (a) between 0.9 Qmax and Qmax; 
+(b) between Qt and 1.1 Qt; 
+(c) between Qmin and 1.1 Qmin. 
+The first of these tests involves the determination of pressure loss, which should be less than the value indicated in the EEC pattern approval certificate. 
+The maximum permissible errors are as shown in point 2.1. 
+In each test, the volume of water passed through the meter should be sufficient to rotate the pointer or roller on the verification scale through one or more complete revolutions and to eliminate the effects of cyclic distortion. 
+If all the errors are found to lie in one direction, then the water meter shall be adjusted so that not all the errors exceed one-half of the maximum permissible error. 

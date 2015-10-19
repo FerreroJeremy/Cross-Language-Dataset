@@ -1,0 +1,469 @@
+Commission Regulation (EC) No 1737/2005 of 21 October 2005 amending Regulation (EC) No 1726/1999 as regards the definition and transmission of information on labour costs (Text with EEA relevance) 
+Commission Regulation (EC) No 1737/2005 
+of 21 October 2005 
+amending Regulation (EC) No 1726/1999 as regards the definition and transmission of information on labour costs 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC) No 530/1999 of 9 March 1999 concerning structural statistics on earnings and on labour costs [1] and in particular Article 11(ii) and (iii) thereof, 
+Whereas: 
+(1) Commission Regulation (EC) No 1726/1999 of 27 July 1999 implementing Council Regulation (EC) No 530/1999 concerning structural statistics on earnings and on labour costs as regards the definition and transmission of information on labour costs [2] sets out implementing measures concerning the definition and breakdown of the information to be provided and the appropriate technical format for the transmission of the results as provided for in Article 11 of Regulation (EC) No 530/1999. 
+(2) The labour cost survey for the reference year 2000 was the first survey based on Regulation (EC) No 1726/1999. The experience with this survey has demonstrated the need to improve the provisions of Regulation (EC) No 1726/1999, in order to bring them into line with the corresponding provisions of Commission Regulation (EC) No 1916/2000 of 8 September 2000 on implementing Council Regulation (EC) No 530/1999 concerning structural statistics on earnings and on labour costs as regards the definition and transmission of information on structure of earnings [3] and to improve the links between the data from the various surveys on earnings and on labour costs every second year. 
+(3) Regulation (EC) No 1726/1999 should therefore be amended accordingly. 
+(4) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The Annexes to Regulation (EC) No 1726/1999 are replaced by the text in the Annexes to this Regulation. 
+Article 2 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 21 October 2005. 
+For the Commission 
+Joaquín Almunia 
+Member of the Commission 
+[1] OJ L 63, 12.3.1999, p. 6. Regulation as amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1). 
+[2] OJ L 203, 3.8.1999, p. 28. 
+[3] OJ L 229, 9.9.2000, p. 3. 
+-------------------------------------------------- 
+ANNEX I 
+LIST OF VARIABLES 
+Structural statistics on labour costs 
+Table A — National data 
+Table B — National data by size class of enterprise 
+Table C — Regional data 
+For the variables listed below, either Table A only or all three tables must be provided. Mandatory delivery is indicated by "m" and optional delivery by "o". The transmission codes belonging to the different categories of qualitative variables or size classes of quantitative variables are set by Eurostat in an implementation paper. 
+Variable | Only A | A-C [1] | 
+A.Number of employees 
+A.1Total number of employees | | m | 
+A.11Full-time employees (excluding apprentices) | | m | 
+A.12Part-time employees (excluding apprentices) | | m | 
+A.121Part-time employees converted into full-time units (excluding apprentices) | | m | 
+A.13Apprentices | | m | 
+A.131Apprentices converted into full-time units | | m | 
+B.Hours actually worked 
+B.1Total hours actually worked | | m | 
+B.11Hours actually worked by full-time employees (excluding apprentices) | | m | 
+B.12Hours actually worked by part-time employees (excluding apprentices) | | m | 
+B.13Hours actually worked by apprentices | | m | 
+C.Paid hours 
+C.1Total hours paid | m | | 
+C.11Paid hours for full-time employees (excluding apprentices) | m | | 
+C.12Paid hours for part-time employees (excluding apprentices) | m | | 
+C.13Paid hours for apprentices | m | | 
+D.Labour costs (for details see Figure 1 below) 
+D.1Compensation of employees | | m | 
+D.11Wages and salaries (for details see Figure 2 below) | | m | 
+D.111Wages and salaries (excluding apprentices) | | m | 
+D.1111Direct remuneration, bonuses and allowances | | m | 
+D.11111Direct remuneration, bonuses and allowances paid in each pay period | m | | 
+D.11112Direct remuneration, bonuses and allowances not paid in each pay period [2] | m | | 
+D.1112Payments to employees’ savings schemes | | m | 
+D.1113Payments for days not worked | | m | 
+D.1114Wages and salaries in kind | | m | 
+D.11141Company products (optional) | o | | 
+D.11142Staff housing [3] (optional) | o | | 
+D.11143Company cars (optional) | o | | 
+D.11144Stock options and share purchase schemes (optional) | o | | 
+D.11145Other (optional) | o | | 
+D.112Wages and salaries of apprentices | | m | 
+D.12Employers' social contributions (for details see Figure 3 below) | | m | 
+D.121Employers' actual social contributions (excluding apprentices) | | m | 
+D.1211Statutory social-security contributions | m | | 
+D.1212Collectively agreed, contractual and voluntary social-security contributions | m | | 
+D.122Employers' imputed social contributions (excluding apprentices) | | m | 
+D.1221Guaranteed remuneration in the event of sickness (optional) | o | | 
+D.1222Employers' imputed social contributions for pensions and health care (optional) | o | | 
+D.1223Payments to employees leaving the enterprise (optional) | o | | 
+D.1224Other imputed social contributions of the employer (optional) | o | | 
+D.123Employers' social contributions for apprentices | | m | 
+D.2Vocational training costs | | m | 
+D.3Other expenditure paid by the employer | | m | 
+D.4Taxes | | m | 
+D.5Subsidies received by the employer | | m | 
+E.Information on units 
+E.1Local units, universe | | m | 
+E.2Local units, sample | | m | 
+Optionally, Member States may record more detailed data for the following variables (transmission to Eurostat only on request): 
+A.11 Full-time employees 
+A.12 Part-time employees 
+D.11112 Direct remuneration, bonuses and allowances not paid in each pay period 
+D.1113 Payments for days not worked 
+D.1211 Statutory social-security contributions 
+D.1212 Collectively agreed, contractual and voluntary social-security contributions 
+D.1223 Payments to employees leaving the enterprise 
+Figure 1 
+Labour costs and their main components 
++++++ TIFF +++++ 
+Labour costs D(D = D1 + D2 + D3 + D4 – D5)Compensation of employeesD1Vocational training(excluding wages and salaries for apprentices)D2Other expenditures paid by the employerD3Taxes paid by the employerD4Subsidies received by the employerD5Wages and salariesD11Further disaggregation:Figure 2Employers' social contributionsD12Further disaggregation:Figure 3 
+Figure 2 
+Disaggregation of the component "Wages and salaries" (D.11) 
++++++ TIFF +++++ 
+Wages and salariesD11Wages and salaries (excluding apprentices)D111Wages and salaries of apprenticesD112Direct remuneration, bonuses and allowancesD1111Payments to employees'savings schemesD1112Payments for days not workedD1113Wages and salaries in kindD1114Direct remuneration, bonuses and allowances paid in each pay periodD11111Direct remuneration, bonuses and allowances not paid in each pay periodD11112Company productsD11141Staff housingD11142Company carsD11143Stock options and share purchase schemesD11144Other paymentsin kindD11145 
+Figure 3 
+Disaggregation of the component "Employers’ social contributions" (D.12) 
++++++ TIFF +++++ 
+Employers' social contributionsD12Employers' actual social contributions (excluding apprentices)D121Employers' imputed social contributions (excluding apprentices)D122Employers' social contributions for apprenticesD123Statutory social security contributionsD1211Collectively agreed, contractual and voluntary social security contributionsD1212Guaranteed remuneration in the event of sicknessD1221Employers' imputed social contributions for pensions and health careD1222Payments to employees leaving the enterpriseD1223Other imputed social contributions of the employerD1224= optional variables 
+[1] Tables C are relevant only to countries with NUTS 1 regions. 
+[2] Except payments to employee savings schemes. 
+[3] Except removal allowances. 
+-------------------------------------------------- 
+ANNEX II 
+DEFINITIONS OF THE VARIABLES 
+A. NUMBER OF EMPLOYEES 
+Employees are all persons irrespective of their nationality or the length of their working time in the country who have a direct employment contract with the enterprise or local unit (whether the agreement is formal or informal) and receive remuneration, irrespective of the type of work performed, the number of hours worked (full-time or part-time) and the duration of the contract (fixed or indefinite). The remuneration of employees can take the form of wages and salaries including bonuses, pay for piecework and shift work, allowances, fees, tips and gratuities, commission and remuneration in kind. 
+This definition of employees covers manual and non-manual workers and management personnel in the private and public sectors in economic activities classified to Sections C-K and M-O of NACE Rev. 1.1 in enterprises with at least 10 employees [1]. 
+The following list gives illustrative examples of categories of employees that are included: 
+- sales representatives, provided they are on the payroll and receive another form of remuneration in addition to any commission, 
+- paid working proprietors, 
+- apprentices, 
+- students and trainees (articled clerks, student nurses, research or teaching assistants, hospital interns, etc.) who have a formal commitment whereby they contribute to the unit’s production process in return for remuneration, 
+- interim or temporary workers (e.g. secretarial staff) recruited, employed and remunerated by employment agencies to work elsewhere, often for temporary periods [2]; seasonal and occasional workers, if they have a formal or informal agreement with the enterprise or local unit and pre-defined working hours, 
+- employees for whom labour costs were incurred in the reference year but who were temporarily not at work because of illness or injury, holiday or vacation, strike or lock-out, educational or training leave, maternity or parental leave, reduced economic activity, suspension of work due to bad weather, mechanical breakdowns, lack of materials, fuels or power, or other temporary absence with or without leave, 
+- those working abroad if they continue to receive remuneration from the statistical unit, 
+- outworkers [3], including home workers and tele-workers, if there is an explicit agreement that such workers are remunerated on the basis of the work done: that is, the amount of labour which is contributed as an input into some process of production. 
+The following categories should be excluded: 
+- sales representatives and other persons who are wholly remunerated by way of fees or commission, are not on the payroll, or who are self-employed, 
+- owners, directors or managers whose remuneration wholly takes the form of a share in profits, 
+- family workers who are not employees (as defined above) of the enterprise or local unit, 
+- own-account workers, 
+- unpaid voluntary workers (e.g. those who typically work for non-profit institutions such as charities). 
+Reference ESA 95: 11.12 to 11.14 
+A.1 Total number of employees 
+This variable covers full-time employees (A.11), part-time employees (A.12) and apprentices (A.13) 
+Reference SBS: code 16130 (number of employees) 
+A.11 Full-time employees (excluding apprentices) 
+This covers employees (except apprentices) whose regular working hours are the same as the collectively agreed or customary hours worked in the enterprise or local unit, even if their contract is for less than one year. The number of employees required is the average monthly number of full-time employees employed in the reporting unit during the reference year. 
+A.12 Part-time employees (excluding apprentices) 
+This covers employees (except apprentices) whose regular working hours are less than the collectively agreed or customary hours worked in the enterprise or local unit, whether daily, weekly or monthly (half-day, three-quarter time, four-fifths time, etc.) The number of employees required is the average monthly number of part-time employees employed in the reporting unit during the reference year. 
+A.121 Part-time employees converted into full-time units 
+This conversion is to be carried out either directly by the enterprise or local unit making returns or by the collecting agency/national statistical institute on the basis of the normal working hours of full-time workers in this enterprise/local unit, using the method they consider most appropriate. The number of employees required is the average monthly number of part-time employees (converted into full-time units) employed in the reporting unit during the reference year. 
+Reference ESA 95: 11.32 to 11.34 
+A.13 Apprentices 
+This covers all employees, full-time or part-time, who do not yet fully participate in the production process and who work either under an apprenticeship contract or in a situation in which vocational training predominates over productivity. The number of apprentices required is the average monthly number employed in the reporting unit during the reference year. 
+A.131 Part-time apprentices converted into full-time units 
+This conversion is to be carried out either directly by the enterprise or local unit making returns or by the collecting agency/national statistical institute, using the method they consider most appropriate. The hours spent in training either in the enterprise/local unit or in educational establishments should be excluded. The number of apprentices required is the average monthly number of part-time apprentices (converted into full-time units) employed in the reporting unit during the reference year [4]. 
+References ESA 95: 11.32 to 11.34; SBS: code 16140 (A.11 + A.121 + A.131 corresponds to the SBS variable "number of employees in full-time units") 
+B. HOURS ACTUALLY WORKED 
+The statistics cover the total number of hours worked by all employees during the year. The total number of hours actually worked (B.1) is recorded separately for full-time employees (B.11), part-time employees (B.12) and apprentices (B.13). 
+Hours actually worked are defined as the sum of all periods spent on direct and ancillary activities to produce goods and services. 
+Hours actually worked include: 
+- hours worked during normal periods of work, 
+- periods of paid overtime, i.e. hours worked in addition to normal working hours, irrespective of the hourly pay rate applied (e.g. one hour worked at double the normal hourly pay rate should be entered as one hour), 
+- periods of unpaid overtime [5], 
+- time spent on tasks such as: work and site preparation; preparing, maintaining, repairing and cleaning tools and machines; making out receipts and invoices; writing up work cards and reports, etc., 
+- time spent at the place of work during which no work is done owing to, for example, machine stoppages, accidents or occasional lack of work but for which payment is made in accordance with the employment contract, 
+- short rest periods at the place of work, including tea and coffee breaks, 
+- hours spent in training either in the enterprise/local unit or in educational establishments (this item is excluded for apprentices). 
+Hours actually worked exclude the following, however: 
+- hours paid but not worked, for example: paid holidays/vacation, public holidays, absence due to sickness, maternity leave, etc., 
+- hours not worked and not paid, for example, during sickness and maternity, etc., 
+- hours not worked (whether paid or not) during special leave for medical examinations, marriages, funerals, moving house, following an accident, etc., 
+- main meal breaks (i.e. not short rest periods or refreshment breaks), 
+- hours not worked (whether paid or not) during short-time working, labour disputes, lock-outs, etc., 
+- time spent by the employee travelling between home and place of work, 
+- hours spent by apprentices in training either in the enterprise/local unit or in educational establishments. 
+References ESA 95: 11.26 to 11.29; SBS: code 16150 (number of hours worked by employees) 
+C. PAID HOURS 
+This variable covers the total number of hours paid during the year. The total number of paid hours (C.1) is recorded separately for full-time (C.11), part-time employees (C.12) and apprentices (C.13). 
+The annual number of paid hours is defined as: 
+- normal and overtime hours remunerated during the year, 
+- any hours for which the employee was paid at a reduced rate, even if the difference was made up by payments from social-security funds, 
+- hours not worked during the reference period but nevertheless paid (annual holidays/vacation, absence due to sickness, public holidays and other hours paid, including time off for medical examinations, births, weddings, funerals, moving house, etc). 
+Calculation of annual hours actually worked and annual paid hours 
+These calculations are to be carried out either directly by the enterprises or local units making returns or by the collecting agencies/national statistical institutes, using the method they consider most appropriate. The following models illustrate how hours actually worked and paid hours can be estimated, by making use of information that is available. 
+Annual hours actually worked for full-time employees (B.11) 
+Suppose that information is available for the variables listed below: 
+(A.11) Average monthly number of full-time employees 
+(a) Average annual normal contractual hours of a full-time employee, excluding overtime and main meal breaks 
+(b) Average annual overtime (both paid and unpaid) of a full-time employee 
+(c) Average daily number of contractual plus overtime hours worked by a full-time employee, excluding main meal breaks 
+(d) Average annual number of days of holidays/vacation per full-time employee, granted by the employer 
+(e) Average annual number of days of official public holidays per full-time employee 
+(f) Average annual number of days of sickness and maternity leave per full-time employee 
+(g) Average annual number of days of short-time working and labour disputes per full-time employee 
+(h) Average annual number of other days not actually worked per full-time employee (e.g. special leave for medical examinations, births, marriage, funerals, moving house, following an accident, etc.). 
+The total annual number of hours worked by full-time employees (before corrections for days not actually worked) results to be (A.11) × (a+b). If one subtracts the total annual number of hours not actually worked which is defined by (A.11) × c × (d + e + f + g + h) one gets (B.11), the total annual hours actually worked by full-time employees: 
+(B.11) = (A.11) × [(a+b) – c (d + e + f + g + h)]. 
+Annual hours actually worked for part-time employees (B.12) and for apprentices (B.13) 
+Similar models can be used for the calculation of hours worked by part-time employees and by apprentices. 
+Annual paid hours for full-time employees (C.11) 
+Where information is available for the variables listed below 
+(A.11) Average monthly number of full-time employees 
+(a1) Average annual paid contractual hours of a full-time employee, excluding overtime and main meal breaks 
+(b1) Average annual paid overtime hours of a full-time employee 
+the total annual number of paid hours for full-time employees is expressed by the equation 
+(C.11) = (A.11) × (a1 + b1). 
+Annual paid hours for part-time employees (C.12) and for apprentices (C.13) 
+Similar models can be used to calculate paid hours for part-time employees and for apprentices. 
+D. LABOUR COSTS 
+Labour costs mean the total expenditure borne by employers in order to employ staff, a concept which has been adopted in the Community framework and complies broadly with the international definition of the International Conference of Labour Statisticians (Geneva, 1966). Labour costs include compensation of employees (D.1) with wages and salaries in cash or in kind and employers' social contributions, vocational-training costs (D.2), other expenditures (D.3), taxes relating to employment regarded as labour costs (D.4), less any subsidies received (D.5). The costs for persons employed by temporary employment agencies are to be included in the industry of the agency which employs them (NACE Rev. 1.1, 74.50) and not in the industry of the enterprise for which they actually work. 
+A breakdown at a glance of total labour costs by component is provided by Figures 1 to 3 in Annex I. 
+D.1 Compensation of employees 
+Compensation of employees is defined as the total remuneration, in cash or in kind, payable by an employer to an employee in return for work done by the latter during the reference period. It is broken down into: 
+- wages and salaries (D.11), mainly consisting of wages and salaries (excluding apprentices) (D.111) and wages and salaries of apprentices (D.112) 
+- employers' social contributions (D.12), mainly consisting of employers' actual social contributions (excluding apprentices) (D.121), employers' imputed social contributions (excluding apprentices) (D.122) and employers' social contributions for apprentices (D.123). 
+References ESA 95: 4.02 (code D.1), SBS: code 13310 (personnel costs) 
+D.11 Wages and salaries 
+Wages and salaries include bonuses, pay for piecework and shift work, allowances, fees, tips and gratuities, commission and remuneration in kind. They are recorded in the period during which the work is done. However, ad hoc bonuses or other exceptional payments (13th month pay, back-dated pay arrears, etc.) are recorded when they are due to be paid. 
+A full breakdown of wages and salaries by component is given in Figure 2 in Annex I. 
+References ESA 95: 4.03 to 4.07 and 4.12(a) (code D.11); SBS: code 13320 (wages and salaries) 
+D.111 Wages and salaries (excluding apprentices) 
+D.1111 Direct remuneration, bonuses and allowances 
+Direct remuneration, bonuses and allowances include the values of any social contributions, income taxes, etc., payable by the employee even if they are actually withheld by the employer and paid directly to social-insurance schemes, tax authorities etc. on behalf of the employee. 
+A bonus is a form of reward or recognition granted by an employer. When an employee receives a bonus payment, there is no expectation or assumption that the bonus will be used to cover any specific expense. The value and timing of a bonus payment can be at the discretion of the employer or stipulated in workplace agreements. 
+An allowance is an entitlement granted by the employer to an employee and intended to cover a specific expense, not work-related, incurred by the employee. It is often stipulated in workplace agreements and is normally paid at the time of entitlement. 
+D.11111 Direct remuneration, bonuses and allowances paid in each pay period 
+This means remuneration in the form of regular cash payments paid regularly at each pay period during the year. For most employees, the pay period is weekly or monthly. Hence, payments received less frequently (monthly in the case of weekly regular payments, quarterly, bi-annually, annually) or on an ad hoc basis should not be included here. Payments to employees’ savings schemes should be excluded here and are to be included under D.1112. 
+Specifically, the variable refers to: 
+- basic wages and salaries, 
+- direct remuneration calculated on the basis of time worked, output or piecework and paid to employees for hours worked, 
+- remuneration and additional payments for overtime, night work, working on Sundays and public holidays, and shift work, 
+- bonuses and allowances paid regularly at each pay period, such as: 
+- workplace bonuses for noise, risk, difficult work, shift or continuous work, night work and working on Sundays and public holidays, 
+- individual performance bonuses, bonuses for output, production, productivity, responsibility, diligence, punctuality; regularly paid length-of-service bonuses; qualifications and special knowledge. 
+Further examples of pay items which should be included here are given in the Appendix to Annex II. 
+Variable D.11111 refers to gross amounts before deduction of taxes and social-security contributions payable by employees. 
+D.11112 Direct remuneration, bonuses and allowances not paid in each pay period 
+All payments to employees which are not paid regularly at each (weekly or monthly) pay period. These include bonuses and allowances paid at fixed periods (e.g. paid monthly where regular payments are weekly, or paid quarterly, bi-annually or annually), and bonuses linked to individual or collective performance. Exceptional payments to employees who leave the enterprise are included here, provided that such payments are not linked to a collective agreement. If no information about a possible linkage with a collective agreement is available or if it is known that such a linkage exists, exceptional leave payments are excluded here and should be included under D.1223. Payments to employees’ savings schemes are also excluded and covered by D.1112. 
+Examples of pay items belonging to D.11112 are listed in the Appendix to Annex II. 
+Variable D.11112 likewise refers to gross amounts before deduction of taxes and social-security contributions payable by employees. 
+D.1112 Payments to employees' savings schemes 
+This refers to sums paid into savings schemes for employees (such as company savings schemes). 
+Reference ESA 95: 4.03(i) 
+D.1113 Payments for days not worked 
+Remuneration paid for statutory, contractual or voluntarily granted leave and public holidays or other paid days not worked. The Appendix to Annex II provides examples. 
+D.1114 Wages and salaries in kind 
+This variable refers to an estimate of the value of all goods and services made available to employees through the enterprise or local unit. It includes company products, staff housing, company cars, stock options and share purchase schemes. If information is available on personal income taxation on wages and salaries in kind, this could be used as a proxy. 
+The Appendix to Annex II gives examples of wages and salaries in kind. 
+Reference ESA 95: 4.04, 4.05, 4.06 (code D.11) 
+D.11141 Company products 
+These are supplied free of charge for private use or sold to staff below their cost to the enterprise. For example, food and drink (excluding expenditure on canteens and meal vouchers), coal, gas, electricity, fuel oil, heating, footwear and clothing (excluding working clothes), micro-computers, etc. 
+The net price to the enterprise should be entered, i.e. the cost of products supplied free of charge or the difference between the cost and the price at which the products are sold to staff. Compensatory payments or benefits in kind which are not taken up must also be entered. 
+D.11142 Staff housing 
+This refers to expenditure by the enterprise to assist employees with housing, including: expenditure on housing owned by the enterprise (expenditure on the maintenance and administration of housing, and tax and insurance relating to such housing) and reduced-interest loans for the construction or purchase of housing by staff (the difference between the interest payment at market rates and at the rate granted), allowances and subsidies granted to employees in connection with their housing, and installation, but excluding removal allowances. 
+D.11143 Company cars 
+Company cars, or the cost to the enterprise of company cars supplied to employees for their private use. This should include the net running costs incurred by the enterprise (the annual cost of leasing and interest payments – depreciation, insurance, maintenance and repairs and parking). It should not include the capital expenditure involved in purchasing the vehicles or any income derived from their resale. 
+Estimates should be calculated from information available in the enterprises, such as records of the fleet of vehicles of this type, the assessment of the average cost per vehicle, and the estimate of the proportion attributable to the private use of the vehicle by the employee. 
+D.11144 Stock options and share purchase schemes 
+This optional variable refers to all forms of payments in kind linked to share-based compensation. Stock options, share purchase schemes and other equity instruments possibly evolving in the future belong to this category. A typical feature of such instruments is that they are equity-settled, i.e. they represent a transfer of equity instruments from the enterprise/local unit to the employee. The forms of compensation covered by D11144 are identical to those covered by the heading "Equity-settled share-based payment transactions" of the International Financial Reporting Standard 2 "Share-based payment". 
+Share purchase schemes typically transfer shares from the employing enterprise to employees. The transfer takes place in the present (grant date) and is based on a price below today’s market price (the "strike price"). The costs to the enterprise are equivalent to the product of the amount of shares and the difference between the market price and the "strike price". 
+Stock options schemes typically transfer the right to buy the employing enterprise's shares not before a well-defined point of time in the future (vesting date) to a favourable "strike price" already fixed in the present (grant date). Employees will make use of this right only if the market price on or after the vesting date exceeds the "strike price". The costs to the enterprise are again equivalent to the product of the amount of shares and the difference between the market price and the "strike price". In both labour costs statistics and accounting, the costs are assigned to and distributed over the "vesting period", which is the period between the grant date and the vesting date. These values are uncertain during the vesting period and therefore have to be estimated. 
+An estimate of the variable D.11144 for the reference year could ideally be arrived at with the help of guidelines from International Financial Reporting Standard 2, "Share-based payment". If such an estimate is not available, values according to accounting standards or the tax regulation of the Member State can be taken, provided that they cover the equity instruments of D.11144 and refer to the Labour Cost Survey reference period. 
+Payments made to set up a special fund for purchasing company shares for employees, even if they do not have immediate access to such assets, must be reduced by the amount of any tax exemption which might apply to them. Cash-settled share-based compensation such as stock-appreciation rights are covered not by variable D.11144, but by D.11112. 
+D.11145 Other 
+This covers in particular indirect benefits chargeable to the employer: 
+- canteens and meal vouchers, 
+- cultural, sporting and leisure facilities and services, 
+- kindergartens and day nurseries, 
+- staff shops, 
+- transport costs for journeys between home and the usual place of work, 
+- payments into trade union funds and the costs of works committees. 
+All such expenditure includes small repairs and regular maintenance of buildings and installations devoted to social, cultural or leisure services and facilities as listed above. Salaries and wages paid by the enterprise directly to staff working in these services and facilities are not entered under the heading of variable D.11145. 
+D.112 Wages and salaries of apprentices 
+See D.11. 
+D.12 Employers' social contributions 
+This variable refers to an amount equal to the value of the social contributions incurred by employers in order to secure for their employees the entitlement to social benefits. Employers' social contributions may be either actual or imputed. 
+A full breakdown of employer’s social contributions by component is provided by Figure 3 in Annex I. 
+References ESA 95: 4.08 (code D.12); SBS: code 13330 (social-security costs) 
+D.121 Employers' actual social contributions (excluding apprentices) 
+These consist of payments made by employers for the benefit of their employees to insurers (social-security funds and private funded schemes such as occupational-pension schemes). These payments cover statutory, conventional, contractual and voluntary contributions in respect of insurance against social risks or needs. Employers' actual social contributions are recorded in the period during which the work is done. 
+Examples are given in the Appendix to Annex II. 
+Reference ESA 95: 4.09 (code D.121) and 4.12(b) 
+D.1211 Statutory social-security contributions 
+Contributions paid to social-security institutions payable by the employer and made compulsory by law. The amounts of such contributions must be entered net of any subsidies. They include: 
+- contributions to insurance schemes for retirement pension, sickness, maternity and disability, 
+- statutory contributions to unemployment insurance schemes, 
+- statutory contributions to insurance schemes for occupational accidents and diseases, 
+- statutory contributions to family allowance schemes, 
+- all other statutory contributions not mentioned elsewhere. 
+D.1212 Collectively agreed, contractual and voluntary social-security contributions payable by the employer 
+These are all contributions paid by the employer to social-security schemes which are supplementary to those which are compulsory by law. Account should be taken of any tax exemptions which might apply. They include: 
+- supplementary pension schemes, occupational pension schemes (insured plans, self-administered funds, book reserves or provisions, all other expenditure intended to fund supplementary pension schemes), 
+- supplementary sickness insurance schemes, 
+- supplementary unemployment insurance schemes, 
+- all other non-compulsory supplementary social-security schemes not mentioned elsewhere. 
+D.122 Employers’ imputed social contributions (excluding apprentices) 
+Employers' imputed social contributions are needed in order to get a complete measure of labour costs at the time the work is done. They represent the counterpart to the observable unfunded social benefits paid. 
+Unfunded social benefits are paid directly by employers to their employees or former employees and other eligible persons without involving a social-security fund, an insurance enterprise or an autonomous pension fund, and without creating a special fund or segregated reserve for the purpose. Instead, the benefits are paid out of the own resources of the employers that operate unfunded schemes. The fact that certain social benefits are paid directly by employers, and not through the medium of social-security funds or other insurers, in no way detracts from their character as social welfare benefits. D.122 may be particularly relevant when the employer is a non-market producer (government sector). 
+The amount of D.122 is determined by reference to the employers’ future obligations to provide social benefits. The ideal source for calculating D.122 for employers operating unfunded social-insurance schemes are estimates based on actuarial considerations. If such actuarial estimates are not available, other estimation methods should be applied. Some countries, for example, use the observable unfunded social benefits paid, less eventual employees' social contributions, as an estimate for D.122. 
+Variable D.122 includes in particular imputed employers’ social contributions for pensions and health care. It also includes an amount equal in value to the wages and salaries which employers temporarily continue to pay in the event of sickness, maternity, industrial injury, disability, redundancy, etc. of their employees, if that amount can be separated. 
+Examples are given in the Appendix to Annex II. 
+Reference ESA 95: 4.10 (code D.122) and 4.12(c) 
+D.1221 Guaranteed remuneration in the event of sickness 
+This variable covers sums paid directly by the employer to employees to maintain remuneration in the event of sickness, maternity or occupational accident to compensate for loss of earnings, minus any reimbursements paid by social-security institutions. 
+D.1222 Employers' imputed social contributions for pensions and health care 
+This component of D.122 covers imputed payments to unfunded pension and health care schemes, in particular in the government sector. In some European countries, employers in the general government sector operate unfunded pension schemes either for all employees or for specific groups (officials). In these cases, the employer does not create special reserves or accumulate assets to pay future pensions. For these employees, imputed employers’ payments to pension and health-care schemes must be taken into account. 
+D.1223 Payments to employees leaving the enterprise 
+This component represents sums actually paid to dismissed workers (severance pay and compensation in lieu of notice) if these payments are linked to a collective agreement or if the existence of such a linkage is unknown. Payments not linked to a collective agreement are included in D.11112. 
+Payments made to employees on retirement, e.g. as part of their pension entitlement, should not be included in D.1223. 
+D.1224 Other imputed social contributions 
+This item refers to all other imputed social contributions of the employer not mentioned elsewhere, such as study grants for employees and their families or guaranteed remuneration in the event of short-time working. The latter is defined as direct payments of the employer to employees to maintain remuneration in the event of short-time working minus any reimbursements paid to the employer by social-security institutions. 
+D.123 Employers’ social contributions for apprentices 
+This variable is the sum of contributions actually paid and any imputed contributions for apprentices. Imputed social contributions for apprentices, if any, are usually tiny. 
+Reference ESA 95: 4.09 (code D.121), 4.10 (code D.122) and 4.12(b) 
+D.2 Vocational training costs paid by the employer 
+These include: expenditure on vocational-training services and facilities (also those for apprentices but not their wages and salaries), small repairs and maintenance of buildings and installations, excluding staff costs; expenditure on participation in courses; the fees of instructors from outside the enterprise; expenditure on teaching aids and tools used for training; sums paid by the enterprise to vocational-training organisations, etc. Subsidies linked to vocational training should be deducted. 
+Reference ESA 95: Intermediate consumption 
+D.3 Other expenditure paid by the employer 
+This includes in particular: 
+- recruitment costs (these are the sums paid to recruitment agencies, expenditure on job advertisements in the press, travel expenses paid to candidates called for interview, installation allowances paid to newly recruited staff, etc. This does not include administrative running costs (office expenses, staff wages, etc.), 
+- working clothes provided by the employer. 
+The Appendix to Annex II provides examples. 
+Reference ESA 95: Intermediate consumption 
+D.4 Taxes paid by the employer 
+This variable covers all taxes based on the wage and salary bill or on employment. These taxes are regarded as labour costs. 
+Variable D4 also covers penalty taxes to be paid in some European countries by employers for employing too few handicapped persons, and similar taxes or fees. 
+Reference ESA 95: 4.23(c) (code D.29) 
+D.5 Subsidies received by the employer 
+These are all amounts received in the form of subsidies of a general nature intended to refund part or all of the cost of direct remuneration but not intended to cover social-security or vocational-training costs. They do not include refunds paid to the employer by social-security institutions or supplementary insurance funds. 
+Reference ESA 95: 4.37(a) (code D.39) 
+[1] The coverage of Section L of NACE Rev.1.1 is optional. The coverage of employees in enterprises with less than 10 employees is optional as well. The transmission codes for the economic activities of NACE Rev. 1.1, the country or region according to the NUTS classification in force and the size classes of enterprises are set by Eurostat in an implementation paper. 
+[2] To avoid double counting, the hours worked by persons employed by employment agencies are to be included in the NACE category of the employment agency (NACE Rev.1.1, 74.50) and not in the NACE category of the enterprise for which they actually work. 
+[3] An outworker is a person who agrees to work for a particular enterprise or to supply a certain quantity of goods or services to a particular enterprise by prior arrangement or contract with that enterprise, but whose place of work is not within it (Reference ESA 95: 11.13(g)). Hours actually worked by outworkers might be estimated. 
+[4] If preferred, the average can be based on the weekly (or daily) numbers of employees over the reference year. An average based on quarterly figures on employees is also admissible. 
+[5] Unpaid hours worked as a component of "hours actually worked" often have to be estimated, for example from household survey data. 
+-------------------------------------------------- 
+Appendix to Annex II 
+Illustrative examples for the classification of certain labour cost items 
+D.11111: Direct remuneration, bonuses and allowances paid in each pay period 
+(see also ESA 95, 4.03 (a-c, e, g, k), code D.11) 
+Payments that belong under labour cost item D.11111 have the following characteristics: 
+They are: cash transactions from an employer to an employee. 
+They are not: 
+- paid on an ad hoc basis or with a frequency below that of the regular remuneration payments (these belong to D.11112) 
+- payments in kind (these belong to D.1114) 
+- payments to an employee savings scheme (these belong to D.1112) 
+- payments intended to cover a specific period that is not worked (these belong to D.1113 or, in the case of sickness, to D.1221). 
+They can: 
+- be bonuses paid for work risks or shift work 
+- be paid weekly or monthly depending on the normal pay period 
+- reflect performance of an employee or group of employees 
+Examples: Payments that come under variable D.11111 
+Item | Description | 
+Expatriation allowance/cost-of-living allowance | Payment to employees working outside their usual country of origin or residence/their usual domicile to reflect the difference in the costs of living | 
+Household allowance | Payment towards the costs of accommodation | 
+Duty or on-call payments | Payment for employees who must be available to work during periods outside normal working hours | 
+Additional pay for risks or hazards | Bonus paid to employees where there are specific risks associated with the work, e.g. dangerous chemicals | 
+Reduced working time allowance | Extra payment (non-guaranteed) to compensate employees in full or in part for a reduction in the normal working time. (Guaranteed payments belong to D.1224) | 
+Sales commissions | Bonus linked to the number of products sold | 
+Overtime pay | Bonus payment for hours worked beyond the normal working hours | 
+Retention allowance | Continuous payment to encourage or commit existing employees to stay with the employer | 
+Payment by results | Bonus payment dependent on the number of products processed by the employee, e.g. the number of garments made | 
+Shift pay | Bonus payment for working non-standard hours, e.g. during the night | 
+D.11112: Direct remuneration, bonuses and allowances not paid in each pay period 
+(see also ESA 95, 4.03 (f, h, j), code D.11) 
+Payments that belong under labour cost item D.11112 have the following characteristics: 
+They are: cash transactions from an employer to an employee. 
+They are not: 
+- paid in every pay period (these may belong to D.11111) 
+- payments in kind (these belong to D.1114) 
+- payments to an employee savings scheme (these belong to D.1112) 
+- payments intended to cover a specific period that is not worked (these belong to D.1113 or, in the case of sickness, to D.1221). 
+They can: 
+- be an allowance towards specific costs or expenses 
+- reflect the performance of an employee or group of employees 
+- be an obligatory payment stipulated in the employment contract or collective agreement 
+- be a discretionary payment 
+- be paid either at variable time points or at fixed points during the year 
+Examples: Payments that come under variable D.11112 
+Item | Description | 
+Exceptional length-of-service award | Paid once when an employee has worked a specific number of years for the employer | 
+Leaving or retirement bonus | Payment on leaving or retiring from employment, not associated with pension entitlements, if those payments are not linked to a collective agreement. (Otherwise, or if no information about a possible linkage with a collective agreement is available, these payments belong to D.1223) | 
+Golden handshake | Exceptional payments to employees leaving the enterprise if those payments are not linked to a collective agreement. (Otherwise or if no information about a possible linkage is available, exceptional leave payments are assigned to D.1223) | 
+Recruitment incentive | Single payment paid to a new employee at the start of employment | 
+Backdated pay arrears | Payments which represent increases in direct remuneration that are applied retrospectively | 
+Company merger bonus | One-off payment made to employees as a result of a company merger | 
+Employee recognition awards | Exceptional payment awarded by the employer to distinguish individuals or groups of employees | 
+Productivity bonuses/awards for meeting performance targets | Payments which depend on an employee or group of employees achieving pre-set targets, e.g. relating to sales, customer service or budgets | 
+Special festive bonus | Paid at the time of certain festivals, e.g. Christmas | 
+Company profit-sharing and stock-appreciation rights | Payment in cash dependent on company's profit. Stock appreciation rights represent a form of company profit-sharing where an employee becomes entitled to a future cash payment based on the increase in the company’s share price from a specified level over a specified period of time. Stock-appreciation rights are to be evaluated at and refer to the time of the cash payment, regardless of the value at grant date or the duration of the vesting period. | 
+Quarterly company bonus | Paid every quarter, based on employer's profit or performance (pay period assumed not to be each quarter) | 
+13th or 14th month pay | Annual extra payments | 
+Annual company bonus | Paid once each year and dependent on employer's profit or performance | 
+D.1113: Payments for days not worked 
+Examples: Payments that fall under variable D.1113 
+Item | Description | 
+Holiday pay | Payments to employees to cover days not worked owing to annual, national or local holidays. (Payments made by the employer to cover absence of employees due to sickness or maternity leave are treated as employers' social contributions under D.1221) | 
+Special leave | Payments to employees to cover days not worked for special personal reasons, e.g. marriage, death of family members, union representation, military or jury service. (Payments made by the employer to cover absence of employees due to sickness or maternity leave are treated as employers' social contributions under D.1221) | 
+D.1114: Wages and salaries in kind and their components 
+(see ESA 95, 4.04, 4.05, 4.06 (code D.11)) 
+Examples: Wages and salaries that fall under variable D.1114 
+Item | Description | Further breakdown | 
+Product discounts | Employer sells products to employees at reduced rates. The income in kind is equal to the difference between the market price and the reduced price | D.11141 | 
+Free or subsidised housing | Employer pays employees’ housing costs in full or in part. Again, the income in kind is arrived at by comparing with the market price | D.11142 | 
+Use of a car owned by the employer | Employer meets the running costs for a car owned by the employer and made available to the employee for business as well as private use (The income in kind refers to the value of the use of the private car) | D.11143 | 
+Free or subsidised petrol | Employer pays all or part of the employee's private fuel costs associated with the use of a car owned by the employer. The income in kind is equal to the cash value of this benefit | D.11143 | 
+Share purchase schemes | Share-based payments in kind where shares are granted to employees as part of their compensation packages. The employee receives the shares without delay at a price below the market price (Stock appreciation rights are cash-settled forms of share-based compensation and should come under D.11112) | D.11144 | 
+Stock options | Share-based payments in kind where shares are granted to employees as part of their compensation packages. The employee receives the right to buy shares at a well-defined point of time in the future for a price already fixed in the present (Stock-appreciation rights are cash-settled forms of share-based compensation and should come under D.11112) | D.11144 | 
+Free or subsidised parking at work | Employer provides parking facilities for employees at reduced or zero cost to the employee. The income in kind is equal to the cash value of this benefit | D.11145 | 
+Free or subsidised use of a mobile telephone | Employer provides a mobile phone for business and private use and pays all the associated costs. The income corresponds to the cash value of this benefit | D.11145 | 
+Free or subsidised travel to and from work | Employees' travel costs to and from work are paid in full or in part. The income in kind is equal to the cash value, as above | D.11145 | 
+Free or subsidised meals | Meals are provided by the employer at reduced or zero cost to the employee. The income in kind is equal to the cash value, as above | D.11145 | 
+D.121: Employers’ actual social contributions 
+(see ESA 95, 4.08 (code D.121), and 4.12(b)) 
+Examples: Payments that fall under variable D.121 
+Item | Description | Further breakdown | 
+Employers’ payments to an insurance scheme for disability | Regular funded payments of the employer into the insurance scheme | D.1211 | 
+Employers’ statutory payments to pension funds | The employer pays during occupation into a pension scheme involving a social-security fund, an insurance enterprise or an autonomous pension fund | D.1211 | 
+Enhanced employer pension contributions | Employer pays an extra contribution to the employee's pension scheme | D.1212 | 
+D.122: Employers’ imputed social contributions 
+(see ESA 95, 4.10 (code D.122), and 4.12(c)) 
+Examples: Payments that come under variable D.122 
+Item | Description | Further breakdown | 
+Payments during maternity leave | Employer pays directly to the employee during maternity as compensation for loss of earnings | D.1221 | 
+Employers’ imputed social contributions for pensions of civil servants | The employer does not make payments into a pension scheme during the person’s employment. Pensions are later paid out from the employer’s own resources | D.1222 | 
+Payments in early-retirement schemes for part-timers | Additional payments made by the employer into part-time early retirement schemes | D.1222 | 
+Severance payments based on a collective agreement | Employer pays directly to employees leaving the enterprise | D.1223 | 
+Study grants | Employer meets part or all of the cost of non-work-related training undertaken outside the enterprise | D.1224 | 
+Marriage or childbirth award | Payment made to the employee following the event | D.1224 | 
+Free or subsidised child education | Education fees for the employee's children are paid in full or in part | D.1224 | 
+Reduced working time allowance | Guaranteed payment to compensate employees in full or in part for a reduction in the normal working time. (Additional payments, paid in each pay period, belong to D.11111) | D.1224 | 
+D.2: Vocational training paid by the employer 
+(see ESA 95, intermediate consumption) 
+Examples: Payments that come under variable D.2 
+Item | Description | 
+Fees for instructors from outside the enterprise | Costs related to vocational training for employees, e.g. organised in the form of in-house seminars (subsidies, if any, belong to D.5 and must be excluded) | 
+Expenditure on teaching aids | Costs related to vocational training, e.g. in the form of Intranet-based e-courses developed by specialist companies (subsidies, if any, belong to D.5 and must be excluded) | 
+D.3: Other expenditure by the employer 
+(see ESA 95, intermediate consumption) 
+Examples: Payments that come under variable D.3 
+Item | Description | 
+Clothing allowance | Paid in occupations where special clothing is required, e.g. for protection or presentation and not intended for personal use | 
+Recruitment costs | Costs of recruitment agencies or job advertisements | 
+Installation or relocation allowance | Paid when the employee is required to change the place of residence | 
+-------------------------------------------------- 
+ANNEX III 
+TRANSMISSION OF DATA INCLUDING BREAKDOWNS BY ECONOMIC ACTIVITY, ENTERPRISE SIZE CLASS AND COUNTRY OR REGION 
+Three files are to be provided, corresponding to Tables A, B and C: 
+- Table A contains national data (one record for each economic activity at the section and division levels of NACE Rev. 1.1) 
+- Table B contains national data by size class (one record for each economic activity at the section and division levels of NACE Rev. 1.1, for each of the size classes) 
+- Table C contains regional data at the NUTS 1 level (one record for each economic activity at the section and division levels of NACE Rev. 1.1, for each of the regions). 
+Table C is not required for those countries where NUTS 1 corresponds to the national level. For a subset of variables listed in Annex I, only table A is required. These variables are marked in Annex I. 
+Identification of a record 
+The records are sorted by an identification sequence containing the following items: 
+- the year of the survey, 
+- the type of table, 
+- the country or region code, 
+- the economic activity and 
+- the size class. 
+The transmission codes for 
+- the economic activities of NACE Rev. 1.1, 
+- the size classes for enterprises and 
+- the countries or regions 
+are set by Eurostat in an implementation paper. 
+Confidentiality Flag 
+The individual records transmitted for Tables A, B and C consist of grossed-up data, i.e. population estimates. When strictly necessary, individual records may be flagged as "confidential". A breach of confidentiality may arise in Tables A, B or C if the number of enterprises or local units in the population is tiny for an individual record relating to a given economic activity, size class or region. Clearly, the risks are greater when the individual record relates to one or two large units. Likewise, the confidentiality risk may be higher for Tables B or C because of the additional breakdown by size class and region respectively. Two codes are to be used to identify confidential records: 
+"1": if the data for an individual record in Table A, B or C are confidential [1]; 
+" ": if the data are not confidential, insert a space " " (not a zero or a dash "–"). 
+Variables 
+The variables requested are defined in Annex I. Figures should be inserted without spaces, points or commas (for example, 13967 is correct; the following are incorrect: 13 967 or 13.967 or 13,967). 
+Missing (or zero) variables should be coded according to the following rules: 
+"NA" when the variable is not available (even though it definitely exists and is greater than zero). 
+"OPT" when the variable is optional and is not completed. 
+"0" for zero values, or for those variables which do not exist in the country concerned. 
+The variables for number of employees, working time and number of statistical units should be expressed in absolute terms, i.e. by giving the numbers in full (not in decimals, tens, thousands, millions, etc). 
+The variables relating to expenditure should be expressed in the national currency of the country concerned. For the euro-zone countries, the figures should be expressed in euros. The units used in each country should be identical for all variables and should be expressed in absolute terms, i.e. by giving the numbers in full (not in decimals, or in tens, thousands, millions, etc). 
+Transmission 
+Member States shall transmit to the Commission (Eurostat) the data and metadata required by this regulation in an electronic format compliant with an interchange standard proposed by Eurostat. Eurostat will make available detailed documentation in relation to approved standards and will supply guidelines on how to implement these standards according to the requirements of this regulation. 
+[1] When an individual record is flagged as confidential, Eurostat takes appropriate action to protect the confidentiality of the data submitted for Tables A, B and C. 
+-------------------------------------------------- 

@@ -1,0 +1,102 @@
+Reglamento (CE) n° 1981/2003 de la Comisión, de 21 de octubre de 2003, por el que se aplica el Reglamento (CE) n° 1177/2003 del Parlamento Europeo y del Consejo relativo a las estadísticas comunitarias sobre la renta y las condiciones de vida (EU-SILC) en lo que respecta a las características del trabajo de campo y los procedimientos de imputación (Texto pertinente a efectos del EEE.) 
+Reglamento (CE) no 1981/2003 de la Comisión 
+de 21 de octubre de 2003 
+por el que se aplica el Reglamento (CE) n° 1177/2003 del Parlamento Europeo y del Consejo relativo a las estadísticas comunitarias sobre la renta y las condiciones de vida (EU-SILC) en lo que respecta a las características del trabajo de campo y los procedimientos de imputación 
+(Texto pertinente a efectos del EEE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) n° 1177/2003 del Parlamento Europeo y del Consejo, de 16 de junio de 2003, relativo a las estadísticas comunitarias sobre la renta y las condiciones de vida (EU-SILC)(1) y, en particular, la letra e) del apartado 2 de su artículo 15, 
+Considerando lo siguiente: 
+(1) El Reglamento (CE) n° 1177/2003 estableció un marco común para la elaboración sistemática de estadísticas comunitarias sobre la renta y las condiciones de vida, que incluyan datos transversales y longitudinales comparables y actualizados sobre la renta y el nivel y composición de la pobreza y la exclusión social a nivel nacional y europeo. 
+(2) De conformidad con la letra e) del apartado 2 del artículo 15 del Reglamento (CE) n° 1177/2003, son necesarias medidas de aplicación para armonizar métodos y definiciones en relación con las características del trabajo de campo y los procedimientos de imputación. 
+(3) Las medidas contempladas en el presente Reglamento se ajustan al dictamen del Comité del programa estadístico. 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+Los aspectos del trabajo de campo, incluyendo los números de identificación del hogar y personal, las reglas y directrices de sustitución y los procedimientos de imputación, serán conformes a lo dispuesto en el anexo. 
+Artículo 2 
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 21 de octubre de 2003. 
+Por la Comisión 
+Pedro Solbes Mira 
+Miembro de la Comisión 
+(1) DO L 165 de 3.7.2003, p. 1. 
+ANEXO 
+1. DEFINICIONES 
+A efectos del presente Reglamento, se aplicarán las siguientes definiciones al componente longitudinal de EU-SILC: 
+a) Muestra inicial: se refiere a la muestra de hogares o personas en el momento de la selección para su inclusión en EU-SILC. 
+b) Personas panel: se refiere a la totalidad o a un subconjunto de los miembros de los hogares de la muestra inicial que superan una determinada edad. 
+c) Límite de edad utilizada para definir a las personas panel: 
+En el caso de un panel de cuatro años, ese límite de edad no será superior a 14 años. En países con un panel de cuatro años que utilice una muestra de direcciones u hogares, todos los miembros del hogar que tengan 14 años o más en la muestra inicial serán personas panel. En países con un panel de cuatro años que utilice una muestra de personas, ésta deberá incluir la selección de al menos una de esas personas por hogar. 
+El límite de edad anteriormente mencionado será menor en el caso de un panel de mayor duración. Si la duración de un panel es superior a ocho años, los miembros de todas las edades de la muestra inicial serán personas panel, y mientras la madre esté en el panel se incluirán como personas panel los niños nacidos de madres panel. 
+d) Hogar panel: se refiere a un hogar que contenga al menos una persona panel. Un hogar panel deberá incluirse en EU-SILC para la recogida o recopilación de información detallada cuando contenga al menos una persona panel que tenga 16 años o más. 
+e) Corresidentes (personas no panel): son todos los residentes actuales de un hogar panel diferentes a los definidos anteriormente como personas panel. 
+f) Miembros actuales del hogar: hace referencia a los miembros actuales del hogar en el momento de la recogida o recopilación de datos. Las condiciones para clasificar a una persona como miembro del hogar se establecen en el anexo I del Reglamento (CE) n° 1980/2003 de la Comisión(1) relativo a las definiciones y las definiciones actualizadas. 
+g) Antiguo miembro del hogar: hace referencia a una persona que no es un miembro actual del hogar y que no fue registrado como miembro de dicho hogar en el ciclo anterior, pero que vivió en el hogar durante al menos tres meses en el período de referencia de la renta. 
+h) Hogar completo: 
+Se dice que un hogar de la muestra está completo si permanece como hogar único, sin formar un hogar adicional y sin desaparecer, aunque pueda haber cambios en su composición desde el ciclo anterior a causa de fallecimientos, traslado de miembros fuera del ámbito objeto de estudio, corresidentes que hayan abandonado el hogar, personas que entran en el hogar o nacimientos. 
+i) Hogar inicial/rama: 
+Se dice que un hogar de la muestra se ha %quot%ramificado%quot% desde el ciclo x si las personas panel del ciclo x residen en el momento del ciclo x+1 en más de un hogar privado dentro de los territorios nacionales incluidos en la población objetivo. 
+Cuando se produce una ramificación, uno (y sólo uno) de los hogares resultantes se definirá como el hogar %quot%inicial%quot%, mientras los demás se denominan hogares %quot%rama%quot%. 
+Se aplicará el siguiente criterio para distinguir entre hogares %quot%iniciales%quot% y %quot%rama%quot%: 
+- Si alguna persona panel del ciclo x sigue viviendo en la misma dirección del ciclo anterior, su hogar se definirá como el hogar %quot%inicial%quot%. Todas las personas panel que se hayan trasladado formarán uno o más hogares %quot%rama%quot%. 
+- Si ninguna persona panel vive en la dirección del ciclo anterior, el hogar de la persona panel que tenía el número personal más bajo en el registro del ciclo anterior será el hogar inicial. Cuando esa persona ya no esté viva o no forme parte de un hogar privado dentro del territorio nacional de la población objetivo, el hogar inicial será el hogar de la persona panel con el número personal más bajo. 
+j) Fusión: 
+Personas panel procedentes de diferentes hogares de la muestra del ciclo anterior se unen para formar un nuevo hogar. 
+Para los componentes transversal y longitudinal de EU-SILC se aplicarán las siguientes definiciones: 
+k) Número personal: se refiere al número asignado a la persona en %quot%el registro del hogar%quot% la primera vez que se registra como miembro del hogar. En el componente transversal, y en nuevos hogares del componente longitudinal, debería corresponderse con la posición que ocupa la persona en %quot%el registro del hogar%quot%. 
+2. NÚMERO DE IDENTIFICACIÓN DE LAS PERSONAS Y DE LOS HOGARES 
+2.1. Número de identificación del hogar 
+1. En el componente transversal, el número de identificación fijo del hogar (ID) es un número secuencial. 
+2. En el componente longitudinal, el número de identificación del hogar (ID) se compone del número del hogar y del número de rama. El número del hogar es un número secuencial. El número de rama del primer ciclo tomará siempre el valor %quot%00%quot%. 
+Cuando el hogar permanezca completo, conservará el número del hogar y el número de rama de un ciclo al siguiente. 
+En caso de ramificación, el hogar inicial conservará el número del hogar y el número de rama de un ciclo al siguiente. Los demás hogares, es decir los hogares rama, utilizarán el mismo número de hogar, pero se les asignará por orden el siguiente número de rama disponible, que será único. 
+En caso de fusión de dos hogares de la muestra, si el nuevo hogar sigue estando en la dirección anterior, conservará el número del hogar y el número de rama del hogar que estaba en esa dirección en el ciclo anterior. Si el nuevo hogar está en una nueva dirección, se utilizará el número del hogar y el número de rama del hogar de la persona de la muestra que tiene ahora el número personal más bajo en %quot%el registro de hogares%quot%. 
+2.2. Número de identificación personal 
+1. En los componentes transversal y longitudinal, el número de identificación personal se compone del ID del hogar y del número personal. 
+2. En el componente longitudinal, el número personal para cualquier nuevo miembro del hogar se obtendrá añadiendo un 1 al número personal más alto utilizado para todos los años de la encuesta y el ID del hogar. 
+3. Para el componente longitudinal, el ID del hogar será %quot%el número de identificación del hogar%quot% del hogar en el que la persona aparece por primera vez en el panel. 
+4. En el componente longitudinal, el ID personal permanecerá fijo durante todo el tiempo que la persona forme parte de la encuesta. 
+3. INFORMACIÓN RECOPILADA 
+1. En el hogar inicial, se recopilará la totalidad de la información necesaria para los miembros actuales del hogar, la información básica sobre antiguos miembros del hogar y la información básica sobre miembros del hogar en el ciclo anterior que ya no forman parte del hogar en la actualidad. 
+2. En el hogar rama, sólo se recopilará la totalidad de la información necesaria para los miembros actuales del hogar. 
+3. La lista de principales variables objetivo incluida en el Reglamento (CE) n° 1983/2003 de la Comisión(2), recoge la totalidad de la información necesaria para los miembros actuales del hogar, la información básica sobre antiguos miembros del hogar y la información básica sobre miembros del hogar en el ciclo anterior que ya no forman parte del hogar en la actualidad. 
+4. Cuando una persona panel forme parte de la encuesta durante más de un año, se obtendrá información sobre si esta persona ha permanecido en la misma dirección o se ha trasladado a una dirección diferente de un año al siguiente. 
+4. EL INFORMANTE DEL CUESTIONARIO DEL HOGAR 
+1. La información relativa al hogar en su conjunto y a las características generales de cada miembro del mismo obtenida mediante entrevista la facilitarán uno o varios miembros del hogar. El informante del hogar se elegirá de acuerdo con las siguientes prioridades: 
+- Prioridad 1): la persona responsable de la vivienda. 
+- Prioridad 2): un miembro del hogar de 16 años o más que sea el más apropiado para facilitar la información. 
+2. Para el segundo y siguientes ciclos del componente longitudinal de EU-SILC, se elegirá al informante del hogar de acuerdo con la siguiente lista de prioridades: 
+- Prioridad 1): el informante en el ciclo anterior. 
+- Prioridad 2): una %quot%persona panel%quot% de 16 años o más, dando prioridad a la persona responsable de la vivienda o que sea el más apropiado para facilitar la información. 
+- Prioridad 3): una %quot%persona no panel%quot% de 16 años o más. 
+5. FUNCIONAMIENTO DE LA MUESTRA 
+1. Cada Estado miembro seguirá los procedimientos adecuados para maximizar la tasa de respuesta a alcanzar, con arreglo a sus propias %quot%mejores prácticas%quot%. En caso de una encuesta por entrevistas, deberán hacerse al menos tres intentos de contacto para que se considere que un hogar o una persona no responden, a menos que haya razones concluyentes (como una negativa total a colaborar, circunstancias que pongan en peligro la seguridad del entrevistador, etc.) que lo impidan. 
+2. EU-SILC se basará en la selección y utilización de una muestra probabilística. Por lo general, las unidades enumeradas en la encuesta serán exactamente las mismas unidades que las seleccionadas a tal efecto de conformidad con el diseño muestral, es decir no sustituidas por otras unidades. 
+3. Deberá llevarse un registro de los resultados de cada hogar y persona seleccionados para la muestra, distinguiendo i) las unidades elegibles enumeradas con éxito, ii) las unidades elegibles no enumeradas con éxito, iii) las unidades seleccionadas no consideradas elegibles para la encuesta y iv) las unidades no enumeradas con éxito en las que no se ha podido determinar su situación de elegibilidad. Deberán registrarse los motivos por los que no se han podido enumerar con éxito las unidades elegibles, indicando al menos las principales categorías como falta de contacto, negativa e incapacidad para responder (por ejemplo en caso de enfermedad). También se registrarán las circunstancias de las unidades consideradas no elegibles o clasificadas en la categoría de elegibilidad incierta. 
+4. La tasa de entrevista a través de otro miembro del hogar (proxy) se mantendrá lo más baja posible para las variables de la renta personales y para toda variable requerida para al menos un miembro del hogar de 16 años o más. 
+5. En el componente transversal y durante el primer año de cada panel del componente longitudinal, se pueden permitir sustituciones controladas sólo cuando la tasa de respuesta no supere el 60 % y se presente una de las siguientes situaciones: 
+- no se ha contactado la dirección porque no se puede localizar o es inaccesible, o 
+- se ha contactado la dirección, pero no se ha realizado la entrevista porque el hogar no quiere colaborar, todo el hogar está temporalmente ausente, o el hogar no puede responder. 
+No se permitirán sustituciones en el segundo ciclo y los siguientes de un panel en el componente longitudinal. 
+Se adoptarán procedimientos para garantizar que se controla el proceso de sustitución al máximo nivel posible. Entre ellos, la utilización de un diseño muestral que garantice que los sustitutos se seleccionan en la medida en que corresponden fielmente a las unidades sustituidas en lo que se refiere a las características importantes. Las sustituciones sólo se permitirán una vez que se hayan realizado esfuerzos especiales para convencer a quienes se negaban a colaborar y se haya vuelto a contactar con aquéllos que no han respondido, de acuerdo con una programación adecuada. No se sustituirá un hogar por otro que no forme parte de la muestra que resida en la misma dirección. 
+6. DURACIÓN Y CALENDARIO DE LA ENCUESTA 
+1. El intervalo entre el final del período de referencia de la renta y el momento de la entrevista al informante correspondiente se limitará a 8 meses en la medida de lo posible. Esto se aplicará tanto a las muestras de hogares como a las de personas, y sin tener en cuenta si el período de referencia utilizado se fija en términos de fechas de calendario para toda la muestra o se trata de un período de referencia móvil determinado según el momento de la entrevista al hogar o persona correspondiente. 
+2. Sin perjuicio de lo dispuesto en el apartado 1, si las variables de renta se recopilan a partir de registros, el intervalo entre el final del período de referencia de la renta y el momento de la entrevista para las variables actuales se limitará a 12 meses. 
+3. Si todos los datos se recopilan mediante entrevistas personales y se utiliza un período de referencia de la renta fijo, la duración total de la recogida de datos de la muestra se limitará a 4 meses en la medida de lo posible. 
+4. Si los datos se recopilan mediante entrevistas personales que utilizan un período de referencia de la renta móvil y la duración del trabajo de campo es superior a 3 meses, la muestra total anual se distribuirá en partes aproximadamente iguales entre los meses del trabajo de campo. En tal caso, la duración total del trabajo de campo para el componente transversal y para cada ciclo del componente longitudinal no será superior a 12 meses. 
+5. Para el componente longitudinal, el intervalo entre la recopilación o elaboración de los datos para una determinada unidad (hogar o persona) se mantendrá lo más aproximado que sea posible a 12 meses entre un ciclo y el siguiente. 
+7. PROCEDIMIENTOS DE IMPUTACIÓN 
+7.1. Tipos de datos omitidos 
+1. Errores de cobertura y de selección de la muestra: dichos errores se presentan, por ejemplo, cuando hay unidades de la población objetivo que no están representadas en el marco de muestreo, cuando las probabilidades de selección de las unidades están distorsionadas, o cuando se producen otros errores de selección de la muestra. 
+2. Falta de respuesta de las unidades de muestreo: hace referencia a la ausencia de información en unidades completas (hogares y/o personas) seleccionadas para la muestra. 
+3. Falta de respuesta parcial de las unidades de muestreo: hace referencia a la situación en la que algunos pero no todos los miembros del hogar elegibles y seleccionados para la entrevista individual se han registrado con éxito. 
+4. Falta de respuesta en determinadas características: hace referencia a la situación en la que una unidad de la muestra se ha registrado con éxito, pero no se ha obtenido toda la información requerida. 
+7.2. Características de un procedimiento de imputación 
+A los datos se les pueden aplicar dos tipos de métodos (que se pueden usar en combinación): 
+- Imputación: hace referencia a la generación de la información omitida a partir de relaciones estadísticas internas del conjunto de datos. 
+- Modelización: utiliza relaciones fundamentales e información externa al conjunto de datos. 
+El procedimiento aplicado a los datos debería preservar la variabilidad de las variables y la correlación entre ellas. Los métodos que incluyen un %quot%componente de error%quot% en los valores imputados serán preferibles a los que imputen simplemente un valor determinado. 
+Los métodos que tengan en cuenta la estructura de las correlaciones (u otras características de la distribución conjunta de las variables) serán preferibles al enfoque marginal o univariante. 
+(1) Véase la página 1 del presente Diario Oficial. 
+(2) Véase la página 34 del presente Diario Oficial. 

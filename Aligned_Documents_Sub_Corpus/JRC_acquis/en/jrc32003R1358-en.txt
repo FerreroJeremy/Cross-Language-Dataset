@@ -1,0 +1,256 @@
+Commission Regulation (EC) No 1358/2003 of 31 July 2003 implementing Regulation (EC) No 437/2003 of the European Parliament and of the Council on statistical returns in respect of the carriage of passengers, freight and mail by air and amending Annexes I and II thereto (Text with EEA relevance) 
+Commission Regulation (EC) No 1358/2003 
+of 31 July 2003 
+implementing Regulation (EC) No 437/2003 of the European Parliament and of the Council on statistical returns in respect of the carriage of passengers, freight and mail by air and amending Annexes I and II thereto 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Regulation (EC) No 437/2003 of the European Parliament and of the Council of 27 February 2003 on statistical returns in respect of the carriage of passengers, freight and mail by air(1), and in particular Article 10 thereof, 
+Whereas: 
+(1) In accordance with Article 10 of Regulation (EC) No 437/2003, the Commission should lay down the arrangements for implementing that Regulation. 
+(2) It is necessary to establish the list of Community airports, apart from those having only occasional commercial traffic, and the derogations to be provided. 
+(3) It is necessary to specify the format in which the data are to be transmitted, in sufficient detail to ensure that such data can be processed rapidly and in a cost-effective way. 
+(4) The arrangements concerning the dissemination of the statistical results should be drawn up. 
+(5) In accordance with the first indent of Article 10 of Regulation (EC) No 437/2003, the Commission should also adapt the specifications in the Annexes thereto. 
+(6) The record structure for data transmission, the codes and the definitions set out in Annexes I and II to Regulation (EC) No 437/2003 need to be adapted. 
+(7) Regulation (EC) No 437/2003 should therefore be amended accordingly. 
+(8) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee set up by Decision 89/382/EEC/Euratom(2), 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+For the purposes of Article 3(2), (4) and (5) of Regulation (EC) No 437/2003, the list of Community airports, apart from those having only occasional commercial traffic, and the derogations, shall be as specified in Annex I to this Regulation. 
+Article 2 
+For the purposes of Article 7 of Regulation (EC) No 437/2003, the results shall be transmitted according to the description of the data files and transmission medium defined in Annex II to this Regulation. 
+Article 3 
+For the purposes of Article 8(1) of Regulation (EC) No 437/2003, the Commission shall disseminate all data not declared as confidential by the Member States, on any medium and with any data structure. 
+Article 4 
+Annexes I and II to Regulation (EC) No 437/2003 are replaced by the text set out in Annex III to this Regulation. 
+Article 5 
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 31 July 2003. 
+For the Commission 
+Pedro Solbes Mira 
+Member of the Commission 
+(1) OJ L 66, 11.3.2003, p. 1. 
+(2) OJ L 181, 28.6.1989, p. 47. 
+ANNEX I 
+AIRPORT CATEGORIES, LISTS OF COMMUNITY AIRPORTS AND DEROGATIONS 
+I. Airport categories and reference periods taken into account 
+Four categories of Community airports can be defined: 
+- category 0: Airports with less than 15000 passenger units per year are considered as having only "occasional commercial traffic", so have, according to Article 3(3), no obligation to report, 
+- category 1: Airports with between 15000 and 150000 passenger units per year shall transmit only table C1, 
+- category 2: Airports with more than 150000 passenger units and less than 1500000 passenger units per year shall transmit all tables listed in Annex I, but may, according to the terms of Article 3(4), benefit from complete or partial derogations until year 2003, 2004 or 2005, 
+- category 3: Airports with at least 1500000 passenger units per year shall transmit all tables listed in Annex I, but may, according to the terms of Article 3(5), benefit from a complete or partial derogation on table B1, in year 2003 only. 
+For the purpose of defining the airport category in year N, the reference year taken into account for the calculation of the passenger units is: 
+- for category 0, 1 and 2 airports: year N-2, 
+- for category 3 airports: year N (except for the reporting of year 2003 tables where 2001 passenger units are taken into account and for the reporting of year 2004 tables where 2003 passenger units are taken into account). 
+Airports for which passenger units decreased between year N-2 and year N-1 may use year N-1 as the reference year for their classification. 
+II. Permitted derogations 
+Summary table by reporting year and according to the Community airport size category. 
+&gt;TABLE&gt; 
+Derogations can be either partial or total. 
+Partial derogations can only be granted for the following fields: "airline information" and "passenger seats available". 
+In case a partial derogation is granted for these fields, an "unknown code" shall be reported instead of the expected code (for the "Passenger seats available" field, the unknown code to be used is "999999999999"). 
+If a derogation was granted for an airport in year N but the airport changes category in year N, then the derogation is no longer valid for that year. 
+III. List of Community airports covered and derogations 
+Community airports having only occasional commercial traffic (category 0) have no obligation to report. They are therefore excluded from the following lists. 
+Category 1 airports are mentioned in italic font in the following lists. 
+Category 2 airports are mentioned in normal font in the following lists. 
+Category 3 airports are mentioned in bold font in the following lists. 
+Category 3 airports for which a derogation for table B1 is granted in 2003 are marked with an X in column (4) in case of a total derogation and a P in column (4) in case of a partial derogation. 
+Category 2 airports for which a derogation for table A1 and/or B1 is granted until year N (year 2003, 2004 or 2005) are marked with "year N" in column (5.1) and/or (5.2). In case only a partial derogation is granted, a "P" follows the year. 
+Category "1" or "2" airports for which a derogation for table C1 is granted until year N (year 2003, 2004 or 2005) are marked with "year N" in column (5.3). In case only a partial derogation is granted, a "P" follows the year. 
+Details related to partial derogations (if any) follow the tables. 
+Belgium: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Denmark: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Partial derogations are applicable to the "passenger seats available" (table A1) field. 
+Germany: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Greece: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Spain: List of Community airports and derogations 
+&gt;TABLE&gt; 
+France: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Partial derogations are applicable to the "passenger seats available" (Table A1) field. 
+Ireland: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Partial derogations are applicable to the "airline information" field. 
+Italy: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Luxembourg: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Netherlands: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Partial derogations are applicable to the "passenger seats available" and "airline information" fields. 
+Austria: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Portugal: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Finland: List of Community airports and derogations 
+&gt;TABLE&gt; 
+Sweden: List of Community airports and derogations 
+&gt;TABLE&gt; 
+United Kingdom: List of Community airports and derogations 
+&gt;TABLE&gt; 
+ANNEX II 
+DESCRIPTION OF THE DATA FILES AND TRANSMISSION MEDIUM 
+Two EDI compatible formats are acceptable for the transmission of the regulation tables: "CSV" (Comma Separated Values) with semicolon (;) as field separator and GESMES-EDIFACT. 
+List and description of the fields to be used for each table of the Regulation: 
+The following summary table gives for each table of the regulation (A1, B1 and C1) and each record (line), the list of fields to be provided. Two different types of fields are marked in the column associated to the relevant table: 
+- "X": fields that have to be provided for a table, 
+- " " (space): fields not relevant for the table. These fields should normally not be provided in the related tables. Nevertheless empty fields (two fields separator without data between) are also acceptable in this case. 
+Format and size of the fields: 
+The format of each field is either numeric (n) or alphabetic (a) or alphanumeric (an) 
+The size is either fixed ("format + number" - e.g.: "n4") or variable with a maximum number of positions ("format + '..' + maximum number of positions - e.g.: 'n..12'"). 
+&gt;TABLE&gt; 
+One table (for one period) should correspond to one file (or "consignment") transmitted to Eurostat 
+Each file (table) should be named according to the following standard: "CCYYPPTT.csv" (for csv format) or: "CCYYPPTT.ges" (for gesmes format): where "CC" represents the Country Code (ISO alpha2), "YY" the Year, "PP" the period (AN, Q1..Q4 or 01..12) and "TT", the Table-ID ("A1", "B1" or "C1"). 
+In case the file is compressed, the ".zip" suffix should be used instead of ".csv" or ".ges". 
+The transmission mean shall be compatible with an automatic monitoring and processing of data in Eurostat. 
+EDI compatible tools should be favoured. Nevertheless, "Pre-EDI" tools as well as structured e-mail sent to an address given by Eurostat could also be accepted in a transitional period. 
+In case a structured e-mail is used, then: 
+- the subject field of the e-mail should contain the name of the file (table) to be transmitted, 
+- the file (table) should be attached to the e-mail (only one file attached per e-mail is acceptable), 
+- comments on data can be entered as plain text in the body of the message to which a table is attached (formatted text shall not be used). 
+ANNEX III 
+Amendments to the Annexes of Regulation (EC) No 437/2003 
+"ANNEX I 
+RECORD STRUCTURE FOR DATA TRANSMISSION TO EUROSTAT 
+The scope of the data to be reported is limited to civil aviation. 
+State flights and movements by surface modes of either passengers travelling with a flight code or freight shipped using an air waybill are excluded. 
+A. Flight stage table (monthly data(1)) 
+Data reported in this table refer to commercial air services only. 
+Data file record format 
+&gt;TABLE&gt; 
+B. On flight origin/destination table (monthly data(2)) 
+Data reported in this table refer to commercial air services only. 
+Data file record format 
+&gt;TABLE&gt; 
+C. Airports table (at least annual data) 
+Data reported in this table refer to commercial air services only, with the exception of "total commercial aircraft movements" which also refers to all commercial general aviation operations and "total aircraft movements" which refers to all civil aircraft movements (except State flights). 
+Data file record format 
+&gt;TABLE&gt; 
+CODES 
+1. Reporting country 
+The coding system to be used is derived from the ICAO index to nationality letters for location indicators. If several ICAO prefixes exist for the same country, only the main ICAO prefix of the mainland is applicable. 
+Belgium EB 
+Denmark EK 
+Germany ED 
+Greece LG 
+Spain LE 
+France LF 
+Ireland EI 
+Italy LI 
+Luxembourg EL 
+Netherlands EH 
+Austria LO 
+Portugal LP 
+Finland EF 
+Sweden ES 
+United Kingdom EG 
+2. Reference period 
+AN (or 45) year 
+Q1 (or 21) January-March (first quarter) 
+Q2 (or 22) April-June (second quarter) 
+Q3 (or 23) July-September (third quarter) 
+Q4 (or 24) October-December (fourth quarter) 
+01 to 12 January to December (month) 
+3. Airports 
+Airports shall be coded according to the ICAO four-letter codes as listed in ICAO document 7910. Unknown airports should be coded as "ZZZZ". 
+4. Airline information 
+"1EU" for airlines licensed in the European Union, 
+"1NE" for airlines not licensed in the European Union, 
+"ZZZ" for unknown airlines, 
+"888" for "confidential" (to be used in tables A1 and B1 if an "information on the airline" is not allowed for confidentiality reasons), 
+"999" for all airlines (to be used in table C1 only). 
+Airlines partly licensed in EU shall be reported as "EU airlines". 
+On a voluntary basis, the code "2"+Iso alpha 2 country code (country of licensing of the airline) could also be used as well as the ICAO airline code. 
+5. Aircraft type 
+Aircraft types shall be coded according to ICAO aircraft type designators as listed in ICAO document 8643. 
+Unknown aircraft types should be coded as "ZZZZ". 
+(1) In 2003 quarterly data can be accepted. 
+(2) In 2003 quarterly data can be accepted. 
+ANNEX II 
+DEFINITIONS AND STATISTICS TO BE REPORTED 
+Following the header of each definition, the list of articles or tables of the regulation where a reference to the term is made can be found. 
+I. DEFINITIONS AND VARIABLES OF GENERAL INTEREST 
+1. Community airport (Articles 1 and 3) 
+A defined area on land or water in a Member State subject to the provisions of the treaty, which is intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft and open for commercial air services(see -4-). 
+2. State flight (Article 1 and table C1) 
+Any flight performed by aircraft for military, customs, police or other law enforcement services of a State. 
+Any flight declared as a "State flight" by State authorities. 
+The expression "except for flights by States aircraft" in Article 1 should be interpreted as "except for State flights". 
+3. Passenger unit (Article 3(2), (4) and (5)) 
+One passenger unit is equivalent to either one passenger or 100 kilograms of freight and mail. 
+For the purpose of drawing up the list of Community airports(see-1-) as referred to in Article 3(2) and for the transitional period referred to in Article 3(4) and (5), the calculation of thresholds using "passenger units" has to take into account at Community airports(see-1-), the total passengers carried(see-16-) plus the total direct transit passengers(see-18-) (counted once) plus the total freight and mail loaded and unloaded(see-17-). 
+4. Commercial air service (Article 1 and tables A1, B1, C1) 
+An air transport flight or series of flights for the public transport of passengers and/or freight and mail, for remuneration or for hire. 
+The air service may be either scheduled(-5-) or non-scheduled(-6-). 
+5. Scheduled air service (Tables A1 and B1) 
+A commercial air service(see-4-) operated according to a published timetable, or with such a regular frequency that it constitutes an easily recognisable systematic series of flights. 
+Includes extra section flights occasioned by overflow traffic from scheduled flights. 
+6. Non-scheduled air service (Tables A1 and B1) 
+A commercial air service(see-4-) other than scheduled air service(see-5-). 
+7. Passenger air service (Tables A1 and B1) 
+Scheduled(see-5-) or non-scheduled air service(see-6-) performed by aircraft carrying one or more revenue passengers and any flights listed in published timetables as open to passengers. 
+Includes flights carrying both revenue passengers and revenue freight and mail. 
+8. All-freight and mail air service (Tables A1 and B1) 
+Scheduled(see-5-) or non-scheduled air service(see-6-) performed by aircraft carrying revenue loads other than revenue passengers, i.e. freight and mail. 
+Excludes flights carrying one or more revenue passengers and flights listed in published timetables as open to passengers. 
+9. Airline (Commercial air transport operator) (Tables A1, B1 and C1) 
+An air transport undertaking with a valid operating licence for operating commercial air flights(see-13-). 
+Where airlines have joint-venture or other contractual arrangements requiring two or more of them to assume separate responsibility for the offer and sale of air transport products for a flight or combination of flights, the airline actually operating the flight shall be reported. 
+II. DEFINITIONS AND VARIABLES OF INTEREST FOR TABLE A1 (FLIGHT STAGE) 
+10. Flight stage (Table A1) 
+The operation of an aircraft from take-off to its next landing. 
+11. Passengers on board (Table A1) 
+All passengers on board of the aircraft upon landing at the reporting airport or at taking off from the reporting airport. 
+All revenue and non revenue passengers on board an aircraft during a flight stage(see-10-). 
+Includes direct transit passengers(see-18-) (counted at arrivals and departures). 
+12. Freight and mail on board (Table A1) 
+All freight and mail on board of the aircraft upon landing at the reporting airport or at taking off from the reporting airport. 
+All freight and mail on board an aircraft during a flight stage(see-10-). 
+Includes direct transit freight and mail (counted at arrivals and departures). 
+Includes express services and diplomatic bags. 
+Excludes passenger baggage. 
+13. Commercial air flight (Table A1) 
+An air transport flight performed for the public transport of passengers and/or freight and mail, for remuneration and for hire. 
+In table A1, the commercial air flights are aggregated to calculate the other "indicator fields" ("Passengers on board(see-11-)", "Freight and mail on board(see-12-)" and "Passenger seats available(see-14-)"). 
+14. Passenger seats available (Table A1) 
+The total number of passenger seats available for sale on an aircraft operating a flight stage(see-10-) between a pair of airports. 
+On a flight stage(-10-), the total number of revenue passengers should not exceed the total number of passenger seats available for sale. 
+Includes seats which are already sold on a flight stage i.e. including those occupied by direct transit passengers(see-18-). 
+Excludes seats not actually available for the carriage of passengers because of maximum gross weight limitations. 
+If information on this basis is not available, then one of the following estimates should be provided in order of preference (from more to less adequate): 
+1. the specific aircraft configuration expressed in number of passenger seats available in the aircraft (identified by aircraft registration number), 
+2. the average aircraft configuration expressed in average number of passenger seats available for the type of aircraft for the airline, 
+3. the average aircraft configuration expressed in average number of passenger seats available for the type of aircraft. 
+III. DEFINITIONS AND VARIABLES OF INTEREST FOR TABLE B1 (ON FLIGHT ORIGIN AND DESTINATION) AND TABLE C1 (AIRPORTS) 
+15. On flight origin and destination (Table B1) 
+Traffic on a commercial air service(see-4-) identified by a unique flight number subdivided by airport pairs in accordance with point of embarkation and point of disembarkation on that flight. 
+For passengers, freight or mail where the airport of embarkation is not known, the aircraft origin should be deemed to be the point of embarkation; similarly, if the airport of disembarkation is not known, the aircraft destination should be deemed to be the point of disembarkation. 
+16. Passengers carried (Tables B1 and C1) 
+All passengers on a particular flight (with one flight number) counted once only and not repeatedly on each individual stage of that flight. 
+All revenue and non revenue passengers whose journey begins or terminates at the reporting airport and transfer passengers joining or leaving the flight at the reporting airport. 
+Excludes direct transit passengers(see-18-). 
+17. Freight and mail loaded or unloaded (Tables B1 and C1) 
+All freight and mail loaded onto or unloaded from an aircraft. 
+Includes express services and diplomatic bags. 
+Excludes passenger baggage. 
+Excludes direct transit freight and mail. 
+18. Direct transit passengers (Table C1) 
+Passengers who, after a short stop, continue their journey on the same aircraft on a flight having the same flight number as the flight on which they arrive. 
+In total airport statistics as well as for the calculation of the passenger units(see-3-), passengers in direct transit are counted once only. 
+Passengers who change aircraft because of technical problems but continue on a flight with the same flight number are counted as direct transit passengers. 
+On some flights with intermediate stops, the flight number changes at an airport to designate the change between an inbound and outbound flight. An example is a flight from Barcelona to Hamburg where the flight continues to Frankfurt before returning to Barcelona. Where passengers for an intermediate destination continue their journey on the same aircraft in such circumstances, they should be counted as direct transit passengers. 
+19. Total commercial aircraft movements (Table C1) 
+All take-offs and landings for flights performed for remuneration and for hire. 
+Includes commercial air services(-4-) as well as all commercial general aviation operations. 
+20. Total aircraft movements (Table C1) 
+All take-offs and landings of aircraft. 
+Includes total commercial aircraft movements(-19-) as well as non-commercial general aviation operations. 
+Excludes State flights(-2-). 
+Excludes Touch and goes, overshoots and unsuccessful approaches." 

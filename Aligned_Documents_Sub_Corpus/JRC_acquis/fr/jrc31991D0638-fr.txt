@@ -1,0 +1,46 @@
+91/638/CEE: Décision de la Commission, du 3 décembre 1991, relative à la désignation d'un centre serveur commun au réseau informatisé ANIMO 
+DÉCISION DE LA COMMISSION du 3 décembre 1991 relative à la désignation d'un centre serveur commun au réseau informatisé ANIMO (91/638/CEE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté économique européenne, 
+vu la directive 90/425/CEE du Conseil, du 26 juin 1990, relative aux contrôles vétérinaires et zootechniques applicables dans les échanges intracommunautaires de certains animaux vivants et produits dans la perspective du marché intérieur (1), modifiée en dernier lieu par la directive 91/496/CEE (2), et notamment son article 20 paragraphe 3, 
+considérant que la Commission a adopté le 19 juillet 1991 la décision 91/398/CEE (3) relative à un réseau informatisé de liaison entre autorités vétérinaires (ANIMO); 
+considérant qu'il importe, afin d'assurer le fonctionnement du réseau informatisé ANIMO de prévoir l'utilisation d'un centre serveur commun; que, dans un premier temps, il convient de préciser la procédure devant être suivie pour la désignation d'un tel centre; que la désignation du centre serveur commun interviendra, dans un second temps, conformément à la procédure visée à l'article 20 paragraphe 3 de la directive 90/425/CEE; 
+considérant que le centre serveur commun doit répondre à des prescriptions techniques précises; 
+considérant que les mesures prévues à la présente décision sont conformes à l'avis du comité vétérinaire permanent, 
+A ARRÊTÉ LA PRÉSENTE DÉCISION: 
+Article premier 
+1. La Commission est chargée de procéder à un appel d'offres en vue du choix d'un centre serveur commun au réseau informatisé ANIMO. 
+2. L'appel d'offres visé au paragraphe 1 inclura les prescriptions techniques définies en annexe. 
+3. À la suite de l'appel d'offres prévu au paragraphe 1 et en vue de la désignation du centre serveur, la Commission sélectionnera au moins trois candidatures répondant aux prescriptions visées au paragraphe 2. 
+Article 2 
+Les États membres sont destinataires de la présente décision. 
+Fait à Bruxelles, le 3 décembre 1991. Par la Commission 
+Ray MAC SHARRY 
+Membre de la Commission 
+(1) JO no L 224 du 18. 8. 1990, p. 29. (2) JO no L 268 du 24. 9. 1991, p. 56. (3) JO no L 221 du 9. 8. 1991, p. 30. 
+ANNEXE 
+PRESCRIPTIONS TECHNIQUES RELATIVES AU CENTRE SERVEUR COMMUN 
+1. Description 
+Le centre serveur doit être opérationnel au plus tard le 1er juillet 1992. 
+Il devra notamment disposer des éléments constitutifs suivants: 
+- des mémoires de stockage de l'information. Il est envisagé de stocker les messages pendant quatre semaines, 
+- des calculateurs capables de gérer de grandes masses de données; consultables par de nombreux utilisateurs, simultanément, 
+- des logiciels de gestion et de documentation afin de permettre la répartition des informations, 
+- des équipements (matériels et logiciel) assurant la gestion des communications entre les réseaux publics (réseau X 25 et réseau téléphonique), 
+- des services de messageries électroniques conformes aux standards internationaux, 
+- des services de transfert de fichiers, 
+- des dispositifs d'archivage pendant un an, 
+- des dispositifs de reprise en cas de défaillance. 
+Le centre serveur devra être interopérable avec des systèmes existants ou qui existeront dans les administrations vétérinaires nationales en conformité avec les standards internationaux. 
+Le centre serveur devra être disponible 7 jours sur 7 et 24 heures sur 24. 
+2. Règles de sécurité 
+Le centre serveur doit disposer d'un ensemble de dispositions strictes et cohérentes pour la protection et l'intégrité des données. L'accès au système doit être contrôlé par une série de procédures de sécurité, notamment avec des mots de passe, susceptibles d'être modifiés et avec des règles relatives aux essais de l'utilisateur, afin de limiter les risques de consultation accidentelle ou malveillante. 
+3. Taille et format de l'information 
+La taille du message formaté à transmettre pourrait atteindre environ 4 000 caractères. Le format du message formaté sera en ASCII avec des caractères délimités. Le nombre estimé de messages par jour serait d'environ 3 000. La gestion estimée impliquera environ 3 000 opérations d'entrée et 6 000 opérations de sortie par jour. 
+4. Capacité du système 
+Le système doit assurer la gestion de 2 450 utilisateurs potentiels. Toutefois, les fourchettes de temps d'utilisation pourront être différentes. Le nombre estimé d'utilisateurs en simultané (envoi et réception) serait en moyenne d'environ 70 et au maximum de 100. Cette capacité devrait pouvoir être accrue si nécessaire. Le système doit être en mesure d'assurer la gestion des codes d'attente. 
+5. Assistance 
+Un centre d'aide doit être disponible 12 heures par jour, de 7 heures du matin à 7 heures du soir, au siège du centre serveur, afin de répondre à tout problème de communication. 
+6. Maintenance 
+Une série de mesures de sauvegarde et de restauration des fichiers du système doivent être disponibles et opérationnelles au centre serveur de telle sorte qu'aucune information ne soit perdue. 
+Le centre serveur doit disposer de tout le personnel qualifié nécessaire. 

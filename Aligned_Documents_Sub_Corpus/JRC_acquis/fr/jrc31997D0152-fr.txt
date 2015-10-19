@@ -1,0 +1,78 @@
+97/152/CE: Décision de la Commission du 10 février 1997 relative aux données à introduire dans le fichier informatisé des lots d'animaux ou de produits animaux en provenance des pays tiers ayant fait l'objet d'une réexpédition (Texte présentant de l'intérêt pour l'EEE) 
+DÉCISION DE LA COMMISSION du 10 février 1997 relative aux données à introduire dans le fichier informatisé des lots d'animaux ou de produits animaux en provenance des pays tiers ayant fait l'objet d'une réexpédition (Texte présentant de l'intérêt pour l'EEE) (97/152/CE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu la décision 92/438/CEE du Conseil, du 13 juillet 1992, relative à l'informatisation des procédures vétérinaires d'importation (projet Shift), modifiant les directives 90/675/CEE, 91/496/CEE et 91/628/CEE et la décision 90/424/CEE et abrogeant la décision 88/192/CEE (1), modifiée en dernier lieu par l'acte d'adhésion de l'Autriche, de la Finlande et de la Suède, et notamment son article 12, 
+considérant qu'il importe d'assurer la mise en place d'un régime d'information en cas de réexpédition d'un lot par le vétérinaire officiel d'un poste d'inspection frontalier; 
+considérant que chaque autorité concernée doit pouvoir consulter de manière sélective un fichier informatisé relatif aux lots d'animaux ou de produits ayant fait l'objet d'une réexpédition; 
+considérant qu'il convient de définir les données à introduire dans ce fichier informatisé de façon à pouvoir identifier avec précision les lots réexpédiés et les motifs de réexpédition; 
+considérant que les mesures arrêtées par la présente décision sont conformes à l'avis du comité vétérinaire permanent, 
+A ARRÊTÉ LA PRÉSENTE DÉCISION: 
+Article premier 
+Les données à introduire dans le fichier informatisé des lots d'animaux ou de produits animaux en provenance des pays tiers ayant fait l'objet d'une réexpédition sont définies à l'annexe de la présente décision. 
+Article 2 
+Les États membres sont destinataires de la présente décision. 
+Fait à Bruxelles, le 10 février 1997. 
+Par la Commission 
+Franz FISCHLER 
+Membre de la Commission 
+(1) JO n° L 243 du 25. 8. 1992, p. 27. 
+ANNEXE 
+DONNÉES À INTRODUIRE DANS LE FICHIER INFORMATISÉ DES LOTS D'ANIMAUX OU DE PRODUITS ANIMAUX EN PROVENANCE DES PAYS TIERS AYANT FAIT L'OBJET D'UNE RÉEXPÉDITION 
+1. Identification du poste d'inspection frontalier 
+a) Nom du poste d'inspection et code (Animo ) 
+b) Nom du vétérinaire responsable 
+2. Identification du lot 
+a) Nature de la marchandise et code (Animo ) 
+b) Nombre/quantité/unités 
+c) Certificat sanitaire 
+i) numéro 
+ii) date 
+iii) nom du vétérinaire signataire et service dont il dépend 
+iv) service d'origine du vétérinaire 
+v) pays d'origine 
+d) Numéro de l'«annexe B» 
+3. Identification des opérateurs 
+a) Nom et adresse de l'exploitation et/ou de l'établissement d'origine (numéro d'agrément éventuel) 
+b) Nom et adresse de l'exportateur 
+c) Nom et adresse de l'importateur 
+4. Identification du mouvement du lot 
+a) Pays tiers d'origine 
+b) Pays tiers d'expédition 
+c) Région d'origine (éventuellement) 
+d) État membre de destination/Pays de destination 
+e) Destinataire et adresse du lieu de destination (éventuellement numéro d'agrément) 
+f) Moyen de transport 
+%gt%TABLE%gt% 
+5. Identification de la réexpédition 
+a) Date et si possible heure de la réexpédition 
+b) Point de sortie (s'il est différent du poste d'inspection frontalier d'entrée) 
+c) Destination (si possible) 
+d) Moyen de transport 
+%gt%TABLE%gt% 
+6. Motifs de la réexpédition 
+a) Contrôle documentaire 
+i) absence de compétence du poste d'inspection 
+ii) absence de certificat 
+iii) certificat non conforme 
+- copie au lieu de l'original 
+- autres défauts formels 
+iv) défauts documentaires 
+- pays tiers 
+- région 
+- établissement 
+- garanties additionnelles 
+- clause de sauvegarde 
+b) Contrôle d'identité 
+i) absence de concordance entre le certificat et la marchandise 
+ii) absence de marque ou d'estampille réglementaire 
+iii) examen visuel défavorable 
+- marchandise 
+- moyen de transport 
+- bien-être des animaux 
+c) Contrôle physique 
+marchandise non conforme 
+- examen du vétérinaire 
+- examen de laboratoire 
+- bien-être des animaux 
+7. Commentaires 

@@ -1,0 +1,21 @@
+Modificación de la relación de normas y/o especificaciones para las redes y los servicios de comunicaciones electrónicas y los recursos y servicios asociados (Texto pertinente a efectos del EEE) 
+Modificación de la relación de normas y/o especificaciones para las redes y los servicios de comunicaciones electrónicas y los recursos y servicios asociados 
+(2006/C 71/04) 
+(Texto pertinente a efectos del EEE) 
+EXPOSICIÓN DE MOTIVOS RELATIVA A LA MODIFICACIÓN DE LA RELACIÓN DE NORMAS Y/O ESPECIFICACIONES PARA LAS REDES Y LOS SERVICIOS DE COMUNICACIONES ELECTRÓNICAS Y LOS RECURSOS Y SERVICIOS ASOCIADOS 
+La Comisión había indicado en la Comunicación sobre la interoperabilidad de los servicios de televisión digital interactiva [1] su intención de añadir otras dos normas de televisión digital interactiva, MHEG-5 y WTVML, a la relación de normas siempre que fueran aprobadas por el Instituto Europeo de Normas de Telecomunicación (ETSI). 
+Toda vez que estas dos normas, MHEG-5 y WTVML, han sido ya aprobadas por el ETSI, se procede a la anunciada modificación de la relación de normas. 
+El capítulo VI de la relación de normas y/o especificaciones para las redes y los servicios de comunicaciones electrónicas y los recursos y servicios asociados publicada en el Diario Oficial de la Unión Europea, referencia DO C 331 de 31.12.2002, p. 47, queda modificado como sigue: 
+Se suprimen el epígrafe INTERFACES DE PROGRAMAS DE APLICACIÓN (API) y la totalidad del texto de la página 47 que integra dicho epígrafe, y se sustituyen por el epígrafe y el texto siguientes: 
+TELEVISIÓN DIGITAL INTERACTIVA 
+El artículo 18, apartado 1, letra a), de la Directiva marco exige que los Estados miembros alienten, de conformidad con lo dispuesto en el artículo 17, apartado 2, a los proveedores de servicios de televisión digital interactiva para la distribución al público en la Comunidad a través de plataformas de televisión digital interactiva, independientemente del modo de transmisión, a que utilicen una API abierta. 
+Interfaces de programación de aplicaciones (API) 
+Interfaces técnicas y/o características de servicio | Referencia | Notas | 
+Radiodifusión de vídeo digital (DVB); Plataforma doméstica multimedia (MHP) especificación 1.1.1 | —ETSI TS 102812 | versión 1.2.1 | 
+Radiodifusión de vídeo digital (DVB); Plataforma doméstica multimedia (MHP) especificación 1.0.3 | —ETSI ES 201812 | versión 1.1.1 anteriormente TS 101812 v. 1.3.1 | 
+Perfil de radiodifusión MHEG-5 | —ETSI ES 202184 | versión 1.1.1 | 
+Normas para la realización de contenidos de televisión interactiva 
+Interfaces técnicas y/o características de servicio | Referencia | Notas | 
+WTVML, Especificación de un micronavegador ligero para aplicaciones de televisión interactiva, basado en WML y compatible con él | —ETSITS 102322 | versión 1.1.1 | 
+[1] COM(2004) 541. 
+-------------------------------------------------- 

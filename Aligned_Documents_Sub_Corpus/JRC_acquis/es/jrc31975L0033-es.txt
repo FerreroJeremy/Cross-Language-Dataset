@@ -1,0 +1,187 @@
+Directiva 75/33/CEE del Consejo, de 17 de diciembre de 1974, relativa a la aproximación de las legislaciones de los Estados Miembros sobre los contadores de agua fría 
+DIRECTIVA DEL CONSEJO 
+de 17 de diciembre de 1974 
+relativa a la aproximación de las legislaciones de los Estados miembros sobre los contadores de agua fría 
+( 75/33/CEE ) 
+EL CONSEJO DE LAS COMUNIDADES EUROPEAS , 
+Visto el Tratado constitutivo de la Comunidad Económica Europea y , en particular , su artículo 100 , 
+Vista la propuesta de la Comisión , 
+Visto el dictamen del Parlamento Europeo (1) , 
+Visto el dictamen del Comité Económico y Social (2) , 
+Considerando que , en los Estados miembros , tanto la fabricación como los procedimientos de control de los contadores de agua fría están sometidos a disposiciones imperativas que difieren de un Estado miembro a otro , lo que obstaculiza , en consecuencia , los intercambios comerciales de tales instrumentos ; que es necesario , por consiguiente , proceder a la aproximación de dichas disposiciones ; 
+Considerando que la Directiva 71/316/CEE del Consejo , de 26 de julio de 1971 , relativa a la aproximación de las legislaciones de los Estados miembros sobre las disposiciones comunes a los instrumentos de medida y a los métodos de control metrológico (3) , modificada por el Acta de adhesión (4) , estableció los procedimientos de aprobación CEE de modelo y de primera comprobación CEE ; que , con arreglo a dicha Directiva , conviene establecer respecto a los contadores de agua fría prescripciones técnicas de fabricación y funcionamiento a las que deberán atenerse dichos instrumentos para poder ser importados , comercializados y utilizados libremente tras haber pasado los controles y habérseles estampado las marcas y signos previstos , 
+HA ADOPTADO LA PRESENTE DIRECTIVA : 
+Artículo 1 
+La presente Directiva se aplicará a los contadores de agua fría , que son aparatos de medición integrada mediante los que se determina de manera continua el volumen de agua que los atraviesa ( excluido cualquier otro líquido ) . Dichos contadores incluyen un dispositivo medidor que acciona un dispositivo indicador . Se considerará que el agua está fría cuando su temperatura oscile entre 0 ° C y 30 ° C . 
+Artículo 2 
+Los contadores de agua fría que podrán llevar las marcas y signos CEE se describen en el Anexo de la presente Directiva . Serán objeto de una aprobación CEE de modelo y estarán sometidos a la primera comprobación CEE . 
+Artículo 3 
+Los Estados miembros no podrán denegar , prohibir o restringir la comercialización ni la entrada en servicio de los contadores de agua fría que vayan provistos del signo de aprobación CEE de modelo y de la marca de primera comprobación CEE por causas relacionadas con sus cualidades metrológicas . 
+Artículo 4 
+1 . Los Estados miembros aplicarán las disposiciones legales , reglamentarias y administrativas necesarias para cumplir la presente Directiva en un plazo de dieciocho meses a partir del día de su notificación e informarán de ello inmediatamente a la Comisión . 
+2 . Los Estados miembros comunicarán a la Comisión el texto de las disposiciones básicas de derecho interno que adopten en el ámbito regulado por la presente Directiva . 
+Artículo 5 
+Los destinatarios de la presente Directiva serán los Estados miembros . 
+Hecho en Bruselas , el 17 de diciembre de 1974 . 
+Por el Consejo 
+El Presidente 
+M. DURAFOUR 
+(1) DO n º C 2 de 9 . 1 . 1974 , p. 62 . 
+(2) DO n º C 8 de 31 . 1 . 1974 , p. 6 . 
+(3) DO n º L 202 de 6 . 9 . 1971 , p. 1 . 
+(4) DO n º L 73 de 27 . 3 . 1972 , p. 14 . 
+ANEXO 
+I . TERMINOLOGÍA Y DEFINICIONES 
+1.0 . El presente Anexo se aplicará únicamente a los contadores de agua fría que utilizan un procedimiento mecánico directo en el que intervienen cámaras volumétricas de paredes móviles o la acción de la velocidad del agua sobre la rotación de un órgano móvil ( turbina , hélice , etc. ) . 
+1.1 . Caudal 
+El caudal es el cociente resultante de dividir el volumen de agua que atraviesa el contador por el tiempo de paso de dicho volumen , expresado este último en metros cúbicos o litros y el tiempo , en horas , minutos o segundos . 
+1.2 . Volumen suministrado 
+El volumen suministrado correspondiente a un tiempo determinado es el volumen total de agua que atraviesa el contador durante dicho tiempo . 
+1.3 . Caudal máximo : Q máx 
+El caudal máximo Q máx es el caudal máximo al que el contador debe poder funcionar sin deterioro , durante períodos de tiempo limitados , sin sobrepasar los errores máximos tolerados ni sobrepasar el valor máximo tolerado para la pérdida de presión . 
+1.4 . Caudal nominal : Q n 
+El caudal nominal Q n es igual a la mitad del caudal máximo Q máx . Se expresa en metros cúbicos por hora , y sirve para designar el contador . 
+Al caudal nominal Q n , el contador deberá poder funcionar en régimen normal de uso , es decir , de manera permanente e intermitente , sin sobrepasar los errores máximos tolerados . 
+1.5 . Caudal mínimo : Q mín 
+El caudal mínimo Q mín es el caudal a partir del cual ningún contador podrá sobrepasar los errores máximos tolerados . Se fija en función de Q n . 
+1.6 . Amplitud de la carga 
+La amplitud de la carga de un contador de agua es la comprendida entre el caudal máximo Q máx y el caudal mínimo Q mín . Dicha amplitud se divide en dos zonas , llamadas inferior y superior , en las que los errores máximos tolerados son diferentes . 
+1.7 . Caudal de transición : Q t 
+El caudal de transición Q t es el caudal que separa las zonas inferior y superior de la amplitud de la carga , y en la que los errores máximos tolerados se vuelven discontinuos . 
+1.8 . Error máximo tolerado 
+El error máximo tolerado es el valor más alto del error tolerado por la presente Directiva en el momento de la aprobación CEE de modelo y de la primera comprobación CEE de un contador de agua . 
+1.9 . Pérdida de presión 
+Por pérdida de presión hay que entender la que es causada por la presencia del contador de agua en el conducto . 
+II . CARACTERÍSTICAS METROLÓGICAS 
+2.1 . Errores máximos tolerados 
+El error máximo tolerado en la zona inferior comprendida entre Q mín inclusive y Q t exclusive será de ± 5 % . 
+El error máximo tolerado en la zona superior comprendida entre Q t inclusive y Q máx inclusive será de ± 2 % . 
+2.2 . Clases metrológicas 
+Los contadores de agua se distribuirán , según los valores de Q mín y Q t anteriormente definidos , en tres clases metrológicas , con arreglo al cuadro siguiente : 
+Clases * Q n * 
+* %lt% 15 m³/h * * 15 m³/h * 
+Clase A * * * 
+Valor de Q mín * 0,04 Q n * 0,08 Q n * 
+Valor de Q t * 0,10 Q n * 0,30 Q n * 
+Clase B * * * 
+Valor de Q mín * 0,02 Q n * 0,03 Q n * 
+Valor de Q t * 0,08 Q n * 0,20 Q n * 
+Clase C * * * 
+Valor de Q mín * 0,01 Q n * 0,006 Q n * 
+Valor de Q t * 0,015 Q n * 0,015 Q n * 
+III . CARACTERÍSTICAS TECNOLÓGICAS 
+3.1 . Fabricación - Disposiciones generales 
+Los contadores deberán fabricarse de manera que : 
+1 . aseguren un servicio prolongado y excluyan la posibilidad de fraude ; 
+2 . se ajusten a las prescripciones de la presente Directiva en condiciones normales de uso . 
+Cuando los contadores estén expuestos a un reflujo accidental de agua , deberán poder resistirlo sin deterioro ni alteración de sus cualidades metrológicas , registrando al mismo tiempo la inversión producida . 
+3.2 . Materiales 
+El contador de agua deberá fabricarse con materiales que posean una resistencia y una estabilidad adecuadas al fin al que se destinan . El conjunto del contador deberá fabricarse con materiales que resistan las corrosiones internas y externas normales , y que en caso de necesidad se protegerán mediante un tratamiento adecuado de la superficie . Las variaciones de temperatura del agua que se produzcan dentro de los límites de la amplitud de las temperaturas de servicio no deberán alterar los materiales que se utilicen en su fabricación . 
+3.3 . Hermeticidad - Resistencia a la presión 
+Los contadores deberán resistir , de modo permanente , y sin que se produzcan defectos de funcionamiento , escapes externos , filtraciones a través de las paredes ni deformación permanente , la presión continua del agua para la que están previstos , denominada presión máxima de servicio . El valor mínimo de esta presión será de 10 bares . 
+3.4 . Pérdida de presión 
+La pérdida de presión a través del contador se fijará mediante las pruebas de la aprobación CEE de modelo y no habrá de superar en ningún caso 0,25 bares al caudal nominal y 1 bar al caudal máximo . 
+De acuerdo con los resultados de las pruebas , los modelos se distribuirán en cuatro grupos , según que su pérdida de presión se atenga a alguno de los valores máximos siguientes : 1 - 0,6 - 0,3 y 0,1 bares . Este valor se consignará en el certificado de aprobación CEE de modelo . 
+3.5 . Dispositivo indicador 
+El dispositivo indicador deberá permitir , mediante la simple yuxtaposición de las indicaciones de los diferentes elementos que lo constituyen , una lectura segura , fácil e inequívoca del volumen de agua medido , expresado en metros cúbicos . 
+El volumen vendrá dado : 
+a ) bien por la posición de una o varias agujas sobre las escalas circulares , 
+b ) bien por la lectura de cifras alineadas consecutivamente que aparecen en una o varias aberturas , 
+c ) bien por la combinación de ambos sistemas . 
+El color negro indicará los metros cúbicos y sus múltiplos , y el rojo , los submúltiplos del metro cúbico . 
+La altura real o aparente de las cifras alineadas no será inferior a 4 mm . 
+En los indicadores de cifras alineadas ( tipos b ) y c ) ) , el desplazamiento visible deberá producirse de abajo a arriba en todas las cifras . 
+El avance de una cifra en una unidad , cualquiera que sea el orden de aquélla , deberá producirse completamente mientras la cifra de orden inmediatamente inferior recorra el último décimo de la vuelta (3) ; el rodillo en el que se indican las cifras del orden más bajo podrá moverse continuamente en los contadores de tipo c ) . El número entero de metros cúbicos se indicará claramente . 
+En los indicadores de agujas ( tipos a ) y c ) ) , el sentido de giro será el de las agujas del reloj . El valor expresado en metros cúbicos del intervalo de cada escala adoptará la forma 10n , siendo n un número entero positivo , negativo o cero con el fin de que constituya un sistema de decenas consecutivas . Al lado de cada escala se indicarán las designaciones × 1 000 - × 100 - × 10 - × 1 - × 0,1 - × 0,01 - × 0,001 . 
+En ambos casos ( agujas y cifras alineadas ) : 
+- deberá figurar en el cuadrante o inmediatamente al lado de la indicación cifrada , el símbolo de la unidad m³ , 
+- el elemento graduado más rápido que se pueda observar visualmente , que constituye el elemento controlador , y cuyo intervalo se denomina intervalo de comprobación , deberá tener un movimiento continuo . El elemento controlador podrá ser permanente o estar acoplado temporalmente mediante la agregación de piezas amovibles . Estas últimas no habrán de ejercer ninguna influencia apreciable sobre las cualidades metrológicas del contador . 
+La longitud del intervalo de comprobación no será inferior a 1 mm ni superior a 5 mm . La escala constará : 
+- bien de trazos de igual grosor que no rebasen la cuarta parte de la distancia entre los ejes de dos trazos consecutivos , sin que éstos se distingan entre sí más que por su longitud ; 
+- bien de bandas de contraste cuya anchura constante sea igual a la longitud del intervalo . 
+No obstante , durante un plazo de seis años y seis meses a partir de la notificación de la presente Directiva : 
+a ) se tolerará el desplazamiento de las cifras alineadas de arriba a abajo , indicándolo mediante una flecha ; 
+b ) la longitud del intervalo podrá ser igual a 0,8 mm . 
+3.6 . Número de cifras y valores del intervalo de comprobación 
+El dispositivo indicador deberá poder registrar , sin volver al cero , un volumen por lo menos igual al correspondiente a 1 999 horas de funcionamiento a caudal nominal , expresado en metros cúbicos . 
+El intervalo de comprobación deberá adoptar la forma 1 × 10n , 2 × 10n ó 5 × 10n . Deberá ser lo suficientemente pequeño para que , en el momento de la comprobación , pueda garantizarse una imprecisión de medición no superior al 0,5 % ( se admite un error posible de lectura no superior a la mitad de la longitud del intervalo más pequeño ) y no se requiera más que un volumen bastante escaso al caudal mínimo para que la prueba no dure más de 1 h 30 a dicho caudal . 
+En los seis años y seis meses siguientes a la notificación de la presente Directiva , se tolerará una duración máxima de siete horas . 
+Podrá acoplarse un dispositivo complementario ( estrella , disco con señal de referencia , etc. ) con el fin de señalar el movimiento del dispositivo de medición , antes de que el desplazamiento de este último resulte claramente perceptible en el dispositivo indicador . 
+3.7 . Dispositivo de regulación 
+Los contadores podrán estar dotados de un dispositivo de regulación que permita modificar la relación entre el volumen indicado y el volumen suministrado . Dicho dispositivo será obligatorio para los contadores que utilizan la acción de la velocidad del agua para hacer girar un órgano móvil . 
+3.8 . Dispositivo acelerador 
+Quedan prohibidos los dispositivos que aceleren la velocidad del contador por debajo de Q min . 
+IV . INSCRIPCIONES Y MARCAS 
+4.1 . Inscripciones de identificación 
+Todo contador llevará obligatoriamente , de manera visible e indeleble , agrupadas o distribuidas en la caja , el cuadrante del dispositivo indicador o la placa descriptiva , las indicaciones siguientes : 
+a ) el nombre o la razón social del fabricante o su marca de fábrica ; 
+b ) la clase metrológica y el caudal nominal Qn en metros cúbicos por hora ; 
+c ) el año de fabricación y el número individual de fabricación ; 
+d ) una o dos flechas que indiquen el sentido del flujo ; 
+e ) el signo de aprobación CEE de modelo ; 
+f ) la presión máxima de servicio en bares , si pudiere ser superior a 10 bares ; 
+g ) la letra V o H cuando el contador sólo pueda funcionar correctamente en posición vertical ( V ) o en posición horizontal ( H ) . 
+4.2 . Lugar de las marcas de comprobación 
+Las marcas de comprobación CEE deberán estamparse en alguna pieza esencial ( en principio la caja ) que resulte visible sin necesidad de desmontar el aparato . 
+4.3 . Precinto 
+Los contadores deberán estar dotados de dispositivos de protección que puedan ser precintados a fin de impedir , tanto antes como después de la instalación correcta del contador , el desmontaje o la modificación del contador o de su dispositivo de regulación , sin deterioro de dichos dispositivos . 
+V . APROBACIÓN CEE DE MODELO 
+5.1 . Procedimiento 
+El procedimiento de la aprobación CEE de modelo se llevará a cabo con arreglo a la Directiva 71/316/CEE . 
+5.2 . Pruebas del modelo 
+Una vez se haya comprobado , de acuerdo con el expediente de la solicitud de aprobación , que el modelo se ajusta a las prescripciones de la presente Directiva , se someterá a pruebas de laboratorio un cierto número de aparatos en las condiciones siguientes : 
+5.2.1 . Número de contadores que se someterán a prueba : 
+En el cuadro que se inserta a continuación se fija el número de contadores que deberá presentar el fabricante : 
+Caudal nominal Q n en m³/h * Número de contadores * 
+Q n * 5 * 10 * 
+5 %lt% Q n * 50 * 6 * 
+50 * Q n * 1 000 * 2 * 
+Q n %gt% 1 000 * 1 * 
+5.2.2 . Presión 
+En las pruebas metrológicas ( número 5.2.4 ) , la presión a la salida del contador deberá ser suficiente para impedir la formación de cavidades . 
+5.2.3 . Material de prueba 
+En general , los contadores se probarán individualmente y , en todo caso , de modo que queden inequívocamente patentes las características individuales de cada uno de ellos . 
+El servicio de metrología del Estado miembro adoptará las disposiciones necesarias para que , teniendo en cuenta las diferentes causas de error de la instalación , la incertidumbre máxima de precisión relativa sea del 0,2 % en la medición del volumen suministrado . 
+La incertidumbre máxima de precisión relativa de la instalación será del 5 % en la medición de la presión y del 2,5 % en la medición de la pérdida de presión . 
+La variación relativa del valor de los caudales , durante cada prueba , no deberá sobrepasar el 2,5 % entre Q mín y Q t y el 5 % entre Q t y Q máx . 
+Con independencia del lugar en que se efectúen las pruebas , la instalación deberá ser aprobada por el servicio de metrología del Estado miembro interesado . 
+5.2.4 . Ejecución de las pruebas 
+Las pruebas consistirán en las operaciones siguientes , efectuadas en el orden que se indica : 
+1 . pruebas de hermeticidad ; 
+2 . determinación de las curvas de error en función del caudal , determinando la influencia de la presión y teniendo en cuenta las condiciones normales de instalación ( longitudes de canalización en línea recta , en dirección de la corriente y a contracorriente ; estrangulamientos , obstáculos , etc. ) previstas por el fabricante para este tipo de contador ; 
+3 . determinación de las pérdidas de presión ; 
+4 . estudio acelerado del desgaste . 
+La prueba de hermeticidad constará de las dos pruebas siguientes : 
+a ) cada contador deberá resistir , sin que se produzcan escapes ni filtraciones a través de las paredes , una presión igual a 16 bares o 1,6 veces la presión máxima de servicio aplicada durante 15 minutos [ véase la letra f ) del número 4.1 . ] ; 
+b ) cada contador deberá resistir , sin que se produzcan deterioros no bloqueos , una presión de 20 bares o el doble de la presión máxima de servicio aplicada durante un minuto [ véase la letra f ) del número 4.1 . ] ; 
+Los resultados de las pruebas 2 y 3 deberán proporcionar un número de puntos suficiente para trazar con precisión las curvas en toda la amplitud de la carga . 
+El estudio acelerado del desgaste se realizará con arreglo a las condiciones siguientes : 
+Caudal nominal Q n en m³/h * Caudal de prueba * Naturaleza de la prueba * Número de interrupciones * Duración de las paradas en segundos * Duración de marcha al caudal de prueba * Duración del arranque y de la reducción de la velocidad en segundos * 
+Q n * 10 * Q n * discontinua * 100 000 * 15 * 15 segundos * 0,15 ( Q n ) (*) segundos con un mínimo de un segundo * 
+* 2 Q n * continua * * * 100 h * * 
+Q n %gt% 10 * Q n * continua * * * 800 h * * 
+* 2 Q n * continua * * * 200 h * * 
+(*) ( Q n ) es un número igual al valor de Q n expresado en m³/h . 
+Antes de la primera prueba y después de cada serie de pruebas , se determinarán los errores de medición , por lo menos a los caudales siguientes : 
+Q mín - Q t - 0,3 Q n - 0,5 Q n - 1 Q n - 2 Q n 
+En cada prueba , el volumen suministrado deberá ser suficiente para que la aguja o el rodillo del intervalo de comprobación efectúe una o varias vueltas completas y que los defectos de la distorsión cíclica queden suprimidos . 
+5.2.5 . Condiciones de la aprobación CEE de modelo 
+Se aprobará el modelo de contador de agua : 
+a ) cuando cumpla las prescripciones administrativas , técnicas y metrológicas de la Directiva y de su Anexo ; 
+b ) cuando las pruebas 1 , 2 y 3 previstas en el número 5.2.4 dejen patente que el contador cumple las características metrológicas y tecnológicas de las partes II y III del presente Anexo , y 
+c ) cuando , después de cada prueba del programa de desgaste acelerado : 
+1 . no se observen , en relación con la curva inicial , variaciones de medición superiores al 1,5 % entre Q t y Q máx y superiores al 3 % entre Q mín y Q t ; 
+2 . el contador registre un error máximo de ± 6 % entre Q mín y Q t y de ± 2,5 % entre Q t y Q máx . 
+VI . PRIMERA COMPROBACIÓN CEE 
+El lugar de la primera comprobación CEE será el autorizado por el servicio de metrología del Estado miembro . La disposición de los locales y del material de prueba deberá permitir una comprobación precisa y segura , sin pérdidas de tiempo para la persona encargada del control . Deberán cumplirse las prescripciones del número 5.2.3 ; no obstante , los contadores podrán colocarse en serie . En tal caso , la presión de salida de todos los contadores deberá ser suficiente para evitar la formación de cavidades , y podrán exigirse disposiciones especiales para impedir interacciones entre los contadores . 
+La instalación podrá incluir dispositivos automáticos , derivaciones , reducciones de sección , etc. , siempre que los circuitos de pruebas entre contadores que deban comprobarse y depósitos de control se hallen claramente definidos , y que en todo momento pueda comprobarse su hermeticidad interna . 
+Queda autorizado cualquier sistema de alimentación de agua , pero en caso de que funcionen varios circuitos de prueba en paralelo , no habrán de producirse entre ellos interacciones incompatibles con las prescripciones del número 5.2.3 . 
+Si un depósito de control estuviere dividido en varias cámaras , la rigidez de los tabiques de separación deberá ser suficiente para que el volumen de una cámara no varíe más del 0,2 % , según que las cámaras adyacentes estén llenas o vacías . 
+La comprobación incluye una prueba de precisión que se efectuará , por lo menos , a tres caudales incluidos respectivamente : 
+a ) entre 0,9 Q máx y Q máx 
+b ) entre Q t y 1,1 Q t 
+c ) entre Q mín y 1,1 Q mín 
+Mediante la primera de dichas pruebas se observará la pérdida de presión , que deberá ser inferior al valor indicado en el certificado de aprobación CEE de modelo . 
+Los errores máximos tolerados son los que se indican en el número 2.1 . 
+En cada prueba , el volumen suministrado deberá ser tal que la aguja o el rodillo del intervalo de comprobación efectúe una o varias vueltas completas y se supriman los efectos de la distorsión cíclica . 
+Cuando todos los errores sean del mismo signo , se ajustará el contador de manera que no todos los errores rebasen la mitad del error máximo tolerado . 

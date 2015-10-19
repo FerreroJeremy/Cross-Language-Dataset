@@ -1,0 +1,308 @@
+Commission Regulation (EC) No 1738/2005 of 21 October 2005 amending Regulation (EC) No 1916/2000 as regards the definition and transmission of information on the structure of earnings (Text with EEA relevance) 
+Commission Regulation (EC) No 1738/2005 
+of 21 October 2005 
+amending Regulation (EC) No 1916/2000 as regards the definition and transmission of information on the structure of earnings 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC) No 530/1999 of 9 March 1999 concerning structural statistics on earnings and on labour costs [1], and in particular Article 11(ii) and (iii) thereof, 
+Whereas: 
+(1) Commission Regulation (EC) No 1916/2000 of 8 September 2000 on implementing Council Regulation (EC) No 530/1999 concerning structural statistics on earnings and on labour costs as regards the definition and transmission of information on structure of earnings [2] sets out implementing measures concerning the definition and breakdown of the information to be provided and the appropriate technical format for the transmission of the results as provided for in Article 11 of Regulation (EC) No 530/1999. 
+(2) The structure of earnings survey for the reference year 2002 was the first survey based on Regulation (EC) No 1916/2000. The experience with this survey has demonstrated the need to improve the provisions of Regulation (EC) No 1916/2000, in order to bring them into line with the corresponding provisions of Commission Regulation (EC) No 1726/1999 of 27 July 1999 implementing Council Regulation (EC) No 530/1999 concerning structural statistics on earnings and on labour costs as regards the definition and transmission of information on labour costs [3] and to improve the links between the data from the various surveys on earnings and on labour costs every second year. 
+(3) Regulation (EC) No 1916/2000 should therefore be amended accordingly. 
+(4) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The Annexes to Regulation (EC) No 1916/2000 are replaced by the text in the Annexes to this Regulation. 
+Article 2 
+This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 21 October 2005. 
+For the Commission 
+Joaquín Almunia 
+Member of the Commission 
+[1] OJ L 63, 12.3.1999, p. 6. Regulation as amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1). 
+[2] OJ L 229, 9.9.2000, p. 3. 
+[3] OJ L 203, 3.8.1999, p. 28. 
+-------------------------------------------------- 
+ANNEX I 
+LIST OF VARIABLES 
+1. Information about the local unit to which the sampled employees are attached 
+1.1. Geographical location of the local unit (NUTS-1) 
+1.2. Size of the enterprise to which the local unit belongs 
+1.3. Principal economic activity of the local unit (NACE Rev. 1.1.) 
+1.4. Form of economic and financial control 
+1.5. Collective pay agreement 
+1.6. Total number of employees in the local unit in the reference month (optional) 
+1.7. Affiliation of the local unit to a group of enterprises (optional) 
+2. Information on individual characteristics of each employee in the sample relating to the reference month 
+2.1. Sex 
+2.2. Age 
+2.3. Occupation (ISCO-88 (COM)) 
+2.4. Managerial or supervisory position (optional) 
+2.5. Highest successfully completed level of education and training (ISCED 97) 
+2.6. Length of service in the enterprise 
+2.7. Contractual working time (full-time or part-time) 
+2.7.1. Share of a full-timer’s normal hours 
+2.8. Type of employment contract 
+2.9. Citizenship (optional) 
+3. Information on working periods for each employee in the sample 
+3.1. Number of weeks in the reference year to which the gross annual earnings relate 
+3.2. Number of hours paid during the reference month 
+3.2.1. Number of overtime hours paid in the reference month 
+3.3. Annual days of holiday leave 
+3.4. Other annual days of paid absence (optional) 
+4. Information on earnings for each employee in the sample (see also the figure below) 
+4.1. Gross annual earnings in the reference year 
+4.1.1. Annual bonuses and allowances not paid in each pay period 
+4.1.2. Annual payments in kind (optional) 
+4.2. Gross earnings in the reference month 
+4.2.1. Earnings related to overtime 
+4.2.2. Special payments for shift work 
+4.2.3. Compulsory social contributions and taxes paid by the employer on behalf of the employee (optional) 
+4.2.3.1. Compulsory social-security contributions (optional) 
+4.2.3.2. Taxes (optional) 
+4.3. Average gross hourly earnings in the reference month 
+5. Grossing-up factors 
+5.1. Grossing-up factor for the local unit 
+5.2. Grossing-up factor for the employees 
+Optionally, Member States may record more detailed information related to the categories of variable 2.8. They may also record data for the following components of variable 3.4.: Annual days of sick leave and Annual days of vocational training (transmission to Eurostat only on request). 
+Earnings variables of the SES 
++++++ TIFF +++++ 
+-------------------------------------------------- 
+ANNEX II 
+DEFINITION OF VARIABLES 
+1. Information about the local unit to which the sampled employees are attached 
+The compilation of structural statistics on earnings shall be based on local units and enterprises, as defined in Council Regulation (EEC) No 696/93 [1], and shall provide information on employees in enterprises with 10 or more employees classified by size and principal activity. Information for employees in enterprises with fewer than 10 employees is optional. The statistics shall cover all activities defined in sections C to K and M to O of the general industrial classification of economic activities within the European Communities (hereinafter "NACE Rev. 1.1") in enterprises with at least 10 employees [2]. 
+1.1. Geographical location of the statistical unit (NUTS-1) 
+The region in which the local unit is located should be classified according to the nomenclature of territorial statistical units (NUTS, level 1). 
+The transmission codes for the different NUTS categories will be presented in an implementation paper to be distributed by Eurostat. 
+1.2. Size of the enterprise to which the local unit belongs 
+The size of the enterprise in terms of the number of employees should be assigned to one of the following bands: 1 to 9, 10 to 49, 50 to 249, 250 to 499, 500 to 999, and 1000 or more employees. The size class 1 to 9 is optional. 
+The transmission codes for the size classes listed above will be presented in an implementation paper to be distributed by Eurostat. 
+1.3. Principal economic activity of the local unit (NACE rev. 1.1) 
+The main economic activity of the local unit should be coded at the 2-digit level of NACE Rev. 1.1 (division level). 
+The transmission codes for the different NACE categories will be presented in an implementation paper to be distributed by Eurostat. 
+1.4. Form of economic and financial control of the enterprise 
+This variable distinguishes only between the categories "public control" and "private control". The first category refers to any undertaking over which the public authorities may exercise, directly or indirectly, a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it. A dominant influence (or control) on the part of the public authorities shall be presumed when these authorities directly or indirectly: 
+- hold the major part of the undertaking's subscribed capital (%gt% 50 %), or 
+- control the majority of the votes attached to shares issued by the undertaking or can appoint more than half of the members of the undertaking's administrative, managerial or supervisory body. 
+The second category is defined analogously. Balanced public and private ownership (50/50 "shared control") is very rare in practice. Such cases will not therefore be coded separately and should, if they occur, be treated as being under "private control". 
+The transmission codes for the two categories of variable 1.4 will be presented in an implementation paper to be distributed by Eurostat. 
+1.5. Collective pay agreement 
+Collective pay agreements covering the majority of employees in the statistical unit may fall into one of the categories listed below. If no collective agreement exists, this should also be indicated. The categories are as follows: 
+- an agreement at national level, or an interconfederal agreement, covering employees of more than one industry, and usually signed by one or more trade-union confederations and by one or more national employers’ organisations, 
+- an industry agreement setting the terms and conditions of employment for all or most workers and employees in an individual industry or economic sector, 
+- an agreement for individual industries in individual regions, 
+- an enterprise or single-employer agreement covering only those employees with the same employer, regardless of size. The agreement may cover only certain local units or groups of employees within the enterprise, 
+- an agreement applying only to the employees in one local unit, 
+- any other type of agreement not covered above, 
+- no collective pay agreement exists. 
+One of the above categories must be chosen ("yes" answer) if more than 50 % of the employees in the local unit are covered. Several categories may apply simultaneously. 
+Instead of directly asking for the type of collective agreement, the unit may be asked what collective provisions are applied and the type of collective agreement determined on the basis of the answers. 
+The transmission codes for the categories of variable 1.5 listed above will be presented in an implementation paper to be distributed by Eurostat. 
+1.6. Number of employees in the local unit (optional) 
+This variable represents a head count of the total number of employees in the reference month (e.g. on 1 or 31 October) and covers all employees, including apprentices, paid trainees and students. 
+1.7. Affiliation of the local unit to a group of enterprises (optional) 
+This variable is a binary variable ("yes"/"no") and indicates whether a local unit belongs to a group of enterprises. The transmission codes for the two categories are set out by Eurostat in an implementation paper. 
+The group of enterprises is a statistical unit defined in Regulation (EEC) No 696/93. The group of enterprises should be considered at world level. In most cases the local unit belongs to an enterprise which is not controlled by any national or foreign group. If local units belong to an enterprise group, this is generally well known. A practical guideline that can be given to respondents is whether the accounts of the enterprise concerned are fully consolidated in the accounts of its group of enterprises. 
+2. Information on the individual characteristics of each employee in the sample relating to the reference month 
+Employees are all persons, irrespective of their nationality or the length of their working time in the country, who have a direct employment contract with the enterprise or local unit (whether the agreement is formal or informal) and receive remuneration, irrespective of the type of work performed, the number of hours worked (full-time or part-time) and the duration of the contract (fixed or indefinite). The remuneration of employees can take the form of wages and salaries including bonuses, pay for piecework and shift work, allowances, fees, tips and gratuities, commission and remuneration in kind. The employees to be included in the sample are those who actually received remuneration during the reference month. Employees who did not receive remuneration in the reference month should be excluded. 
+The definition of employees covers manual and non-manual workers and management personnel in the private and public sectors in economic activities classified to Sections C to K and M to O of NACE Rev. 1.1 in enterprises with at least 10 employees [3]. 
+The following list gives illustrative examples of categories of employees that are included: 
+- sales representatives, providing they are on the payroll and receive other forms of remuneration in addition to any commission, 
+- paid working proprietors, 
+- apprentices, 
+- students and trainees (articled clerks, student nurses, research or teaching assistants, hospital interns, etc.) who have a formal commitment to contribute to the unit’s production process in return for remuneration, 
+- interim or temporary workers (e.g. secretarial staff) recruited, employed and remunerated by employment agencies to work elsewhere, often for temporary periods [4], 
+- seasonal and occasional workers, if they have a formal or informal agreement with the enterprise or local unit and pre-defined working hours, 
+- employees for whom labour costs were incurred in the reference period but who were temporarily not at work because of illness or injury, holiday or vacation, strike or lock-out, educational or training leave, maternity or parental leave, reduced economic activity, suspension of work due to bad weather, mechanical breakdowns, lack of materials, fuels or power, or other temporary absence with or without leave, 
+- those working abroad if they continue to receive remuneration from the reporting unit, 
+- outworkers [5], including home workers and teleworkers if there is an explicit agreement that such workers are remunerated on the basis of the work done: that is, the amount of labour which is contributed as an input into some process of production. 
+The following categories should be excluded: 
+- sales representatives and other persons who are wholly remunerated by way of fees or commission, are not on the payroll, or are self-employed, 
+- owners, directors or managers whose remuneration wholly takes the form of a share in profits, 
+- family workers who are not employees (as defined above) of the enterprise or local unit, 
+- own-account workers, 
+- unpaid voluntary workers (e.g. those who typically work for non-profit institutions such as charities). 
+2.1. Sex 
+The transmission codes for the two categories are set out by Eurostat in an implementation paper. 
+2.2. Age 
+Only the year of birth is to be given here. The age is then calculated as the difference between the reference year of the survey and the year of birth. 
+2.3. Occupation in the reference month (ISCO-88 (COM)) 
+The occupation is to be coded according to the International Standard Classification of Occupations, 1988 version (ISCO-88 (COM)) at the two-digit level and, if possible, at the three-digit level. The essential information for determining the occupation is usually the employee’s job title and a description of the main tasks undertaken in the course of his/her duties. 
+Trainees or students with an employment contract and apprentices are classified in the occupation for which they carry out their apprenticeship or training period. Foremen are also classified in the occupation in which they supervise. 
+The transmission codes for the categories of variable 2.3 are set out by Eurostat in an implementation paper. 
+2.4. Managerial or supervisory position (optional) 
+This binary variable (categories "yes"/"no") indicates whether an employee has some form of managerial or supervisory function. The word "managerial" is not identical to "supervisory" because some managers do not supervise other employees. Further, employees who do have a "supervisory" position do not belong exclusively to ISCO-88 (COM), major group 1 (legislators, senior officials and managers). Many employees coded to group 2 (professionals) and group 3 (technicians and associate professionals) may have supervisory responsibilities. A supervisory position can occur in any of the ISCO-88 (COM) groups, including manual workers. 
+Managerial functions are related to determining, formulating, implementing, directing or advising policies and activities of enterprises or institutions. They often include supervisory responsibilities. 
+A person is considered to have a supervisory position when he or she supervises the work of at least one person (other than apprentices). Typically such a person might have a job title/description of "foreman" or "supervisor" together with the name of the occupation. 
+The transmission codes for the two categories are set out by Eurostat in an implementation paper. 
+2.5. Highest successfully completed level of education and training (ISCED 97) 
+This variable concerns the level of general, professional or higher education which the employee has received according to the International Standard Classification of Education, 1997 version (ISCED 97). The expression "level successfully completed" must be associated with obtaining a certificate or a diploma, when there is certification. In cases where there is no certification, successful completion must be associated with full attendance. 
+The following ISCED 97 levels should be distinguished: 
+ISCED 0 and 1 (code 01): Pre-primary education and primary education or first stage of basic education 
+Programmes at this level are normally designed on a unit or project basis to give children a sound basic education in reading, writing and mathematics along with an elementary understanding of other subjects such as history, geography, natural science, social science, art and music. This level usually covers six years of full-time schooling. 
+ISCED 2 (code 02): Lower secondary education or second stage of basic education 
+The programmes at this level usually follow a more subject-oriented pattern, using more specialised teachers and often several teachers conducting classes in their field of specialisation. The full implementation of basic skills occurs at this level. 
+ISCED 3 and 4 (code 03): Upper secondary and post-secondary non-tertiary education 
+The educational programmes at upper secondary level (ISCED 3) typically require the completion of some nine years of full-time education since the beginning of ISCED level 1, or a combination of education and vocational or technical experience. 
+Post-secondary non-tertiary education (ISCED 4) captures programmes that straddle the boundary between upper-secondary and post-secondary education from an international point of view, even though they might clearly be considered as upper-secondary or post-secondary programmes in a national context. From the point of view of their content these programmes cannot be regarded as tertiary programmes. They are often not significantly more advanced than programmes at ISCED level 3, but they serve to broaden the knowledge of participants who have already completed a programme at ISCED level 3. Typical examples are programmes designed to prepare students for studies at ISCED level 5 who, although having completed ISCED level 3, did not follow a curriculum which would allow entry to level 5, i.e. pre-degree foundation courses or short vocational programmes. Second-cycle programmes may be included as well. 
+ISCED 5B (code 04): First stage of tertiary education (not leading to an advanced research qualification) — Technical 
+Unlike 5A, these programmes are practically oriented/occupationally specific, and are mainly designed to enable participants to acquire the practical skills and know-how needed for employment in a particular occupation or trade or class of occupations or trades, the successful completion of which usually provides the participants with a labour-market relevant qualification. 
+ISCED 5A (code 05): First stage of tertiary education (not leading to an advanced research qualification) — General 
+This level consists of tertiary programmes having an educational content more advanced than those offered at ISCED levels 3 and 4. Entry to these programmes normally requires the successful completion of ISCED level 3 or a similar qualification at ISCED level 4. They do not lead to the award of an advanced research qualification. These programmes must have a cumulative duration of at least two years. 5A programmes are largely theoretically based and are intended to provide sufficient qualifications for gaining entry into advanced research programmes and professions with high skills requirements. 
+ISCED 6 (code 06): Second stage of tertiary education (leading to an advanced research qualification) 
+This level is reserved for tertiary programmes which lead to the award of an advanced research qualification. The programmes are therefore devoted to advanced study and original research and not based on coursework only. They typically require the submission of a thesis or dissertation of publishable quality which is the product of original research and represents a significant contribution to knowledge. 
+The transmission codes for the categories of variable 2.5 listed above are set out by Eurostat in an implementation paper. 
+2.6. Length of service in the enterprise 
+The total length of service in the reference month should be based on the number of completed years of service. Any point of time during the reference month will suffice as a qualifying date (e.g. 1 or 31 October). The total length of service relates to the period since the employee joined the enterprise, which may have been in another local unit. Career breaks will not be subtracted. Where enterprises have been merged or there have been changes of ownership, the length of service is to be recorded as counted by the enterprise. 
+Size bands for variable 2.6 and transmission codes for the bands are set out by Eurostat in an implementation paper. 
+2.7. Contractual working time (full-time or part-time) 
+Full-time employees are those whose normal working hours are the same as the collectively agreed or customary hours worked in the local unit under consideration, even if their contract is for less than one year. Part-time employees are those who work fewer hours than the normal working hours of full-time employees. 
+The transmission codes for the two categories of variable 2.7 are set out by Eurostat in an implementation paper. 
+2.7.1. Share of a full-timer’s normal hours 
+For a full-time employee, this share is always 100 %. For a part-time employee, the hours contractually worked should be expressed as a percentage of the number of normal hours worked by a full-time employee in the local unit (in an job equivalent to that of the part-time employee). 
+2.8. Type of employment contract 
+The following information on the type of employment contract is requested: 
+- indefinite duration, 
+- temporary/fixed duration (except apprentices, including trainees or students receiving remuneration), 
+- apprentice. 
+An indefinite duration contract of employment is a contract between the employee and the employer, for which the actual duration of the contract has not been agreed in advance. 
+An employment contract is regarded as temporary or of fixed duration if it was the intention of the employer and employee that the duration of the contract was to be determined by certain conditions such as a definite time schedule for the completion of the work, the completion of a certain task, or the return to work of an another employee who was currently being replaced. Trainees and students who are paid for their work belong to this category. 
+Apprenticeship contracts are specific fixed-duration contracts drawn up between the employer and the apprentice. The purpose of the contract is to enable the apprentice to acquire practical experience in a specific field. 
+The transmission codes for the three categories of variable 2.8 are set out by Eurostat in an implementation paper. 
+2.9. Citizenship (optional) 
+Citizenship is defined as the legal nationality of each person, and a citizen is a person who is a legal national by birth or naturalisation, whether by declaration, option, marriage or other means. 
+One of the following should be selected: 
+- resident with citizenship, 
+- resident with foreign citizenship, 
+- commuter from another country. 
+The transmission codes for the three categories of variable 2.9 are set out by Eurostat in an implementation paper. 
+3. Information on working periods for each employee in the sample 
+The following variables relating to time are used for calculating the number of hours paid. The latter are defined as: 
+- normal and overtime hours remunerated during the reference period, 
+- any hours for which the employee was paid at a reduced rate, even if the difference was made up of payments from social-security funds, 
+- hours not worked during the reference period but nevertheless paid (annual holidays/vacation, absence due to sickness, public holidays and other hours paid, including time off for medical examinations, births, weddings, funerals, moving house, etc.). 
+3.1. Number of weeks to which the gross annual earnings relate 
+Variable 3.1 refers to the employee’s working time actually paid during the year and should correspond to the actual gross annual earnings (variable 4.1). It will be used to gross up the actual gross annual earnings and the annual bonuses and allowances where the employee has worked for less than a full year, i.e. less than 52 weeks. 
+Part-time employees should be treated like full-time employees, irrespective of the hours worked. If a part-timer has been paid for a full year, insert "52" weeks. If a part-timer has been paid for 6 months, insert "26" weeks. 
+3.2. Number of hours actually paid during the reference month 
+What is required here is the number of hours actually paid during the reference month, not the number of hours in a standard working month. Hours actually paid include all normal and overtime hours worked and remunerated by the employer during the month. Hours not worked but nevertheless paid are counted as "paid hours" (e.g. for annual leave, public holidays, paid sick leave, paid vocational training, paid special leave etc.). 
+Variable 3.2 should be consistent with the gross earnings for the reference month (variable 4.2). This implies that hours paid by the employer at a reduced rate for periods of absence are not counted. 
+If the employee’s paid hours are affected by unpaid absence, then they should be adjusted to obtain paid hours for a full month. If, for example, the information is available that an employee had 20 % of the reference month as unpaid absence, variable 3.2 will be multiplied by the correction factor 1,25. 
+3.2.1. Number of overtime hours paid in the reference month 
+Overtime hours include those worked in addition to those of the normal or conventional working month. If, for example, four hours are paid at a rate of 1,5 times the normal rate, enter 4, not 6. Only those overtime hours corresponding to overtime pay registered in 4.2.1 should be included. Hence, variable 3.2.1 should be consistent with overtime earnings in the reference month (variable 4.2.1). Time off in lieu of unpaid work periods and travel time are not regarded as overtime. 
+The adjustment procedure applied to variable 3.2 implies that the grossing-up procedure also concerns the variable 3.2.1, which is a component of 3.2. If, for example, it is known that an employee had 20 % of the reference month as unpaid absence, variable 3.2.1 should be multiplied by the correction factor 1,25. 
+3.3. Annual days of holiday leave 
+This refers to the total number of paid annual holidays, excluding sick leave and public holidays, expressed in days. It relates to the annual total of all normal paid-leave days, including those granted to the employee on the grounds of age, performance of special duties, seniority etc. 
+It is recognised that many employers are unable to state the number of holidays actually taken by the employee during the year. For this reason variable 3.3 refers to annual holiday entitlement, which acts as a proxy for annual holidays actually taken. 
+The following are not regarded as holidays: 
+- sick leave, 
+- training leave, 
+- paid special leave granted for personal reasons, 
+- additional time off granted under working-time reduction agreements. 
+For purposes of comparison, each week of holiday corresponds to five days. Saturdays and Sundays should not be included. For example, if a full-time employee is normally entitled to five weeks’ annual holiday, this corresponds to 25 days. 
+In contrast, five weeks’ holiday entitlement for a part-timer who works 60 % of the normal full-timer’s hours (variable 2.7.1) represents an entitlement to only 15 "full" days of leave. 
+3.4. Other annual days of paid absence (optional) 
+This variable is again expressed in days. It includes, for example: 
+- the total number of paid sick leave days actually taken during the year, 
+- paid special leave granted for personal reasons, 
+- public holidays. 
+It excludes paid days which are treated as being equivalent to days actually worked, such as paid annual days spent by the employee on vocational training. 
+4. Information on earnings for each employee in the sample 
+The employees to be included in all the following variables on annual, monthly and hourly earnings are those who actually received remuneration during the reference month. Employees who did not receive remuneration in the reference month should be excluded. 
+Further, if the employee’s gross earnings in the reference month (variable 4.2) are affected by unpaid absence (due to sickness, maternity or study leave, etc.) and cannot be suitably adjusted in order to provide a satisfactory estimate of the employee’s earnings for a full month, then that employee should also be excluded. 
+The grossing-up factor for employees (variable 5.2) should strictly relate to those sampled employees for whom soundly-based estimates of gross monthly earnings can be provided. 
+4.1. Gross annual earnings in the reference year 
+Gross annual earnings cover remuneration in cash and in kind paid during the reference year before any tax deductions and social-security contributions payable by wage earners and retained by the employer. 
+The main difference between annual and monthly earnings is that annual earnings are not only the sum of the direct remuneration, bonuses and allowances paid to an employee in each pay period. Annual earnings hence usually exceed the figure produced by multiplying the "standard monthly package" by 12. 
+The "standard monthly package" includes those bonuses and allowances which occur in every pay period, even if the amount for these "regular" bonuses and allowances varies, but excludes bonuses and allowances not occurring in every pay period. Furthermore, monthly earnings leave payments in kind out of consideration. However, annual earnings also cover all "non-standard payments", i.e. payments not occurring in each pay period (variable 4.1.1), and payments in kind (variable 4.1.2). 
+Data for variable 4.1 should be provided for all employees for whom gross monthly earnings (variable 4.2) can be supplied, i.e. variable 4.1 should not be provided for employees for whom an estimate of an employee’s gross monthly earnings is not feasible. These employees will be excluded from the sample. 
+It does not matter if the employee’s earnings do not always relate to a full year. Some employees will have periods of unpaid absence, or will have joined or left the enterprise during the year. The actual gross earnings in the reference year are required. When variable 3.1 (number of weeks to which the annual earnings relate) is less than 52 weeks, variable 3.1 will be used to gross up variable 4.1 and its components. 
+4.1.1. Annual bonuses and allowances not paid at each pay period 
+This variable covers items which do not occur each pay period, such as: 
+- 13th or 14th month pay, 
+- holiday bonuses, 
+- quarterly or annual company bonuses, 
+- productivity bonuses depending on pre-set targets, employee recognition awards, recruitment incentives, 
+- leaving or retirement bonuses, 
+- back-dated arrears. 
+4.1.2. Annual payments in kind (optional) 
+This variable refers to an estimate of the value of all goods and services made available to employees through the enterprise or local unit during the reference year. Included are company products, staff housing, company cars, stock options and share purchase schemes. If information is available from personal income taxation on wages and salaries in kind, this may be used as a proxy. 
+When variable 3.1 is less than 52 weeks, do not adjust variable 4.1.2. 
+4.2. Gross earnings for the reference month 
+This variable covers remuneration in cash paid during the reference month before any tax deductions and social-security contributions payable by wage earners and retained by the employer. Variable 4.2 should be consistent with the number of hours paid during the reference month (variable 3.2). 
+The following elements are included: 
+- all payments relating to this period (even if actually paid outside the representative month), including any overtime pay, shift premium, bonus, commission, etc., 
+- payments for overtime, allowances for teamwork, night work, weekend work, commissions etc., 
+- bonuses and allowances paid regularly in each pay period, even if the amount varies monthly, 
+- payments for periods of absence and work stoppage paid for entirely by the employer, 
+- family allowances and other gratuities in cash fixed by collective agreements or voluntarily agreed, 
+- payments to employees’ savings scheme. 
+The following are excluded: 
+- payments paid in this period but relating to other periods, such as arrears, advances or pay for holiday or sickness absences outside this period, 
+- periodic bonuses and gratuities not paid regularly at each pay date, 
+- payments for periods of absence paid by the employer at a reduced rate, 
+- statutory family allowances, 
+- allowances for work clothes or tools, 
+- reimbursements or payments for travel, subsistence etc., and expenses incurred in carrying out the employer's business, 
+- payments in kind. 
+Where the employee’s gross monthly earnings are affected by unpaid absence (due to sickness, maternity or study leave etc. or simply because the employee joined or left the enterprise during the reference month), then the earnings should be suitably adjusted in order to provide an estimate of the employee’s earnings for a full month. Where it is not feasible to adjust the employee’s monthly earnings so that the estimated figure corresponds to a full month’s earnings, then the employee should be excluded from the sample. 
+4.2.1. Earnings related to overtime 
+The amount of overtime earnings paid for overtime hours. The full rate should be counted, not just the premium element added to the normal hourly rate. Variable 4.2.1 should be consistent with variable 3.2.1 (number of overtime hours paid in the reference month). 
+4.2.2. Special payments for shift work 
+This relates to the special premium payments for shift work, night work or weekend work where these are not treated as overtime. The amount to include is the premium element or supplementary payment, not the total payment for such shift work. 
+4.2.3. Compulsory social contributions and taxes paid by the employer on behalf of the employee (optional) 
+This variable refers to the total amount of compulsory social contributions and taxes paid by the employer on behalf of the employee to government authorities during the reference month. This information is requested in order to obtain net monthly earnings for each employee (see the figure "Variables on earnings" at the end of Annex I). 
+If the employee’s monthly earnings are affected by unpaid absence, then variable 4.2.3 (together with its sub-components 4.2.3.1 and 4.2.3.2) should be adjusted to obtain the estimated deductions for a full month. 
+4.2.3.1. Compulsory social-security contributions (optional) 
+This refers to the amount of the employee’s social security contribution laid down by law or by collective agreements and withheld by the employer. 
+4.2.3.2. Taxes (optional) 
+This refers to the amount of all taxes on the employee’s earnings withheld by the employer for the reference month and paid by the employer to the tax authorities on behalf of the employee. 
+4.3. Average gross hourly earnings in the reference month 
+The figure required is the average gross earnings per hour paid to the employee in the reference month. This figure should be consistent with the average gross hourly earnings derived from gross earnings for the reference month (variable 4.2) divided by the number of hours paid during the same period (variable 3.2). 
+5. Grossing-up factors 
+The data collection for the structure-of-earnings survey usually follows a two-stage sampling scheme. In this case, the total population of local units is first divided into non-overlapping subpopulations (strata) and a sample of local units is drawn from each stratum. After that, a sample of employees is drawn from each local unit. 
+The grossing-up factor 5.1 is needed to draw conclusions from the data collected on the sampled local units to the population of all local units in the stratum concerned. Analogously, the grossing-up factor 5.2 allows conclusions to be drawn from data on sampled employees to the population of all employees in the same stratum. 
+In general, whenever it is decided that the micro-data for an individual business or individual employee should be withdrawn (for whatever reason) or are not available, then the grossing-up factors should be recalculated by suitable methods such as calibration, in order to adjust the initial weights of local units and employees respectively. 
+5.1. Grossing-up factor for the local unit 
+The grossing-up factor 5.1 for each local unit is calculated within each sampling stratum. It gives an indication of the number of local units in the stratum represented by each local unit in the sample. Hence, variable 5.1 is (at least before applying any method of reweighting the local units) the factor by which the number of local units in the sample needs to be multiplied to obtain estimates for the population of all local units in the stratum concerned. 
+Whenever it is decided that a local unit should be withdrawn from the sample (owing to non-response, coverage error, post-stratification etc.), the grossing-up factor 5.1 needs to be recalculated to take account of the local units excluded. 
+5.2. Grossing-up factor for the employees 
+The grossing-up factor for employees is calculated for each local unit in the sample. Variable 5.2 is (at least before applying any method for reweighting the initial weights of employees) the factor by which the number of employees in the sample needs to be multiplied in order to obtain population estimates for the stratum concerned. 
+It is essential for the number of employees in the sample drawn from the local unit to be the same as the number of employees who have received a full month’s remuneration in the reference month. Where it is necessary to exclude some of the sampled employees who have periods of unpaid absence(s) in the reference month, then the grossing-up factor 5.2 supplied should be recalculated to take account of the employees excluded. 
+[1] OJ L 76, 30.3.1993, p. 1. Regulation as last amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council. 
+[2] The coverage of section L of NACE Rev. 1.1 is optional. The coverage of employees in enterprises with less than 10 employees is optional as well. 
+[3] The coverage of Section L of NACE Rev. 1.1 is optional. The coverage of employees in enterprises with less than 10 employees is optional as well. 
+[4] To avoid double counting, the hours worked by persons employed by employment agencies are to be included in the NACE category of the employment agency (NACE Rev. 1.1, 74.50) and not in the NACE category of the enterprise for which they actually work. 
+[5] An outworker is a person who agrees to work for a particular enterprise or to supply a certain quantity of goods or services to a particular enterprise by prior arrangement or contract with that enterprise, but whose place of work is not within it (European system of national and regional accounts in the European Community, ESA 95: 11.13(g). 
+-------------------------------------------------- 
+ANNEX III 
+TRANSMISSION OF RESULTS 
+The individual data concerning each local unit and each employee should be provided in the form of two types of micro-data record: 
+A : records for the local units 
+B : records for the employees. 
+The employee records should be linked to the local unit records by a key which does not disclose the identity of the business. This could be an artificial number or an existing key, provided the same key is used for both the local unit and the employee records. Additionally, for easy identification of an employee, a key for each employee should be provided which does not identify the person. 
+Variables 
+All items for records A and B should be completed in full. There should be entries for all individual items, including optional variables (see below). "Blank" information is not acceptable. 
+Mandatory variables 
+Complete information should be supplied for all mandatory variables on all micro-data records. Otherwise, the grossing-up factors supplied will not be suitable for all variables. 
+Optional variables 
+These should be coded strictly according to the following rules: 
+When information is available for an optional variable, data should preferably be provided (as for mandatory variables) for all observation units or employees. 
+When information is not available for an optional variable, insert "OPT" for alphanumeric variables and "99999999" for numeric variables (the number of "nines" corresponds to the length of the field). 
+Zero values 
+"0": this should strictly be used only for those variables where a zero value may sometimes genuinely occur (e.g. when an employee has no overtime in the reference month). 
+Categories for SES variables 
+The SES variables listed in Annex I are either qualitative or quantitative variables. Most of the variables related to the local unit and to individual characteristics of the employees are qualitative variables. These SES variables are linked to a limited number of categories. 
+The quantitative SES variables are either count variables (number of employees, number of hours, days or weeks) or variables related to earnings. 
+The categories of the qualitative SES variables as well as bands for quantitative SES variables are set out by Eurostat in an implementation paper. 
+Content of records A and B 
+The content and sequence of the variables in records A and B and the codes to be used will be specified in separate documents. 
+The records should contain one field per variable. Numeric variables should be expressed in absolute terms, that is, giving the numbers in full (not in decimals, or in tens, hundreds, thousands, millions, etc.). However, because of the need for precision, the values for variables 4.3, 5.1 and 5.2 should be given to two decimal places. 
+There is one numeric variable that is different. This is the "share of a full-timer’s normal hours" (variable 2.7.1), which should be expressed as a percentage and also given to two decimal places, e.g. 43,27. 
+Where numeric variables relate to money values (e.g. hourly, monthly annual earnings and bonuses, taxes, social-security contributions, payments in kind), these should be expressed in units of the national currency of the country concerned. 
+Transmission 
+Member States shall transmit to the Commission (Eurostat) the data and metadata required by this Regulation in an electronic format compliant with an interchange standard proposed by Eurostat. Eurostat will make available detailed documentation in relation to approved standard(s) and will supply guidelines on how to implement this (these) standard(s) according to the requirements of this regulation. 
+-------------------------------------------------- 

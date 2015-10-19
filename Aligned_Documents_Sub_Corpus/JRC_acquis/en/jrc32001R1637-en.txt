@@ -1,0 +1,77 @@
+Commission Regulation (EC) No 1637/2001 of 23 July 2001 amending Council Regulation (EEC) No 3880/91 on the submission of nominal catch statistics by Member States fishing in the North-East Atlantic 
+Commission Regulation (EC) No 1637/2001 
+of 23 July 2001 
+amending Council Regulation (EEC) No 3880/91 on the submission of nominal catch statistics by Member States fishing in the North-East Atlantic 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EEC) No 3880/91 of 17 December 1991 on the submission of nominal catch statistics by Member States fishing in the North-East Atlantic(1), and in particular Article 2(3) and Article 4 thereof, 
+Whereas: 
+(1) The Ninth Meeting of the Conference of Parties of the Convention on International Trade in Endangered Species (CITES) in 1994 requested the monitoring of catch and trade data on elasmobranch fish species (sharks, skates and rays) be undertaken by the Food and Agriculture Organisation of the United Nations (FAO) and by regional fishery agencies. 
+(2) At its 87th Statutory Meeting in 1999 the International Council for the Exploration of the Sea (ICES) resolved to adopt the species groupings for elasmobranch fishes as described in the report of the Study Group on Elasmobranch Species and to request FAO to include these species on its Statlant 27A questionnaire on catch statistics for the North-East Atlantic. 
+(3) The ICES has extended its list of species for which catches in the North-East Atlantic are recorded in its database and thus Member States should be encouraged to submit available catch statistics for these additional species. 
+(4) Article 4(2) of Regulation (EEC) No 3880/91 provides that Member States, with the prior approval of Eurostat, may submit data in a different form or on a different medium from that laid down in Annex IV to the Regulation. 
+(5) Several Member States have requested submission of data in a different form or through a different medium from that specified in Annex IV to Regulation (EEC) No 3880/91 (the equivalent of the abovementioned Statlant questionnaires). 
+(6) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee for Agricultural Statistics set up by Council Decision 72/279/EEC(2). 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Annex I to Regulation (EEC) No 3880/91 shall be replaced by Annex I to this Regulation. 
+Article 2 
+Member States may submit data following that in the format detailed in Annex II to this Regulation. 
+Article 3 
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 23 July 2001. 
+For the Commission 
+Pedro Solbes Mira 
+Member of the Commission 
+(1) OJ L 365, 31.12.1991, p. 1. 
+(2) OJ L 179, 7.8.1972, p. 1. 
+ANNEX I 
+LIST OF SPECIES WHICH HAVE BEEN REPORTED IN THE COMMERCIAL CATCH STATISTICS FOR THE NORTH-EAST ATLANTIC 
+Member States must report the nominal catches of those species marked with an asterisk (*). The reporting of nominal catches of the remaining species is optional as concerns the identification of the individual species. However, where data for individual species are not submitted the data shall be included in aggregate categories. Member States may submit data for species not in the list provided that the species are clearly identified. 
+Note: 
+%quot%n.e.i.%quot% is the abbreviation for %quot%not elsewhere identified%quot%. 
+%gt%TABLE%gt% 
+ANNEX II 
+FORMAT FOR THE SUBMISSION OF CATCH DATA FOR THE NORTH-EAST ATLANTIC ON MAGNETIC MEDIA 
+A. CODING FORMAT 
+The data should be submitted as variable length records with a colon (:) between the fields of the record. The following flields should be included in each record: 
+%gt%TABLE%gt% 
+(a) The catch is to be recorded in the live weight equivalent of the landings, to the nearest metric tonne. 
+(b) Quantities of less than half a unit should be recorded as %quot%-1%quot%. 
+(c) Country codes: 
+Austria AUT 
+Belgium BEL 
+Denmark DNK 
+Finland FIN 
+France FRA 
+Germany DEU 
+Greece GRC 
+Ireland IRL 
+Italy ITA 
+Luxembourg LUX 
+Netherlands NLD 
+Portugal PRT 
+Spain ESP 
+Sweden SWE 
+United Kingdom GBR 
+England and Wales GBRA 
+Scotland GBRB 
+Northern Ireland GBRC 
+Iceland ISL 
+Norway NOR 
+Bulgaria BGR 
+Cyprus CYP 
+Czech Republic CZE 
+Estonia EST 
+Hungary HUN 
+Latvia LVA 
+Lithuania LTU 
+Malta MLT 
+Poland POL 
+Romania ROM 
+Slovak Republic SVK 
+Slovenia SVN 
+Turkey TUR 
+B. METHOD OF TRANSMISSION OF THE DATA TO THE EUROPEAN COMMISSION 
+As far as is possible, the data should be transmitted in an electronic format (for example, as an e-mail attachment). Failing this, the submission of a file on a 3.5%quot% HD floppy disk will be accepted. 

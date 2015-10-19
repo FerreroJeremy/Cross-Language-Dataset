@@ -1,0 +1,40 @@
+Reglamento (CE) n° 1500/94 del Consejo de 21 de junio de 1994 por el que se modifica el Reglamento (CEE) n° 2454/93 de la Comisión por el que se establecen determinadas disposiciones de aplicación del Reglamento (CEE) n° 2913/92 del Consejo por el que se aprueba el código aduanero comunitario 
+REGLAMENTO (CE) No 1500/94 DEL CONSEJO de 21 de junio de 1994 por el que se modifica el Reglamento (CEE) no 2454/93 de la Comisión por el que se establecen determinadas disposiciones de aplicación del Reglamento (CEE) no 2913/92 del Consejo por el que se aprueba el código aduanero comunitario 
+EL CONSEJO DE LA UNIÓN EUROPEA, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CEE) no 2913/92 del Consejo, de 12 de octubre de 1992, por el que se aprueba el código aduanero comunitario (1) y, en particular, su artículo 249, 
+Vista la propuesta de la Comisión, 
+Considerando que el apartado 4 del artículo 20 del Reglamento (CEE) no 2913/92 establece que las medidas arancelarias preferenciales contenidas en los acuerdos que la Comunidad ha celebrado con determinados países o grupos de países que prevén la concesión de un tratamiento arancelario preferencial o aprobadas unilateralmente por la Comunidad en favor de ciertos países, grupos de países o territorios, así como las medidas autónomas de suspensión que permitan la reducción o la exoneración de los derechos de importación aplicables a determinadas mercancías, se aplicarán únicamente a petición del declarante y sólo en el caso de que las mercancías en cuestión cumplan las condiciones previstas por estas medidas; 
+Considerando que, en el marco de la política comercial de la Comunidad, es importante disponer de estadísticas completas sobre el volumen de intercambios de mercancías que se benefician de estas medidas; 
+Considerando que el uso de estas estadísticas hace necesaria la utilización en la casilla 36 del DAU de una codificación común a todos los Estados miembros; 
+Considerando, por tanto, que conviene dar a los Estados miembros la posibilidad de adaptar sus sistemas informáticos aduaneros; que por tanto debe preverse un período transitorio durante el cual podrán utilizarse los códigos nacionales compatibles con los códigos comunitarios; 
+Considerando que resulta oportuno prever, para el 1 de enero de 1996, la recogida de información sobre las mercancías para las que se haya solicitado una restitución a la exportación; 
+Considerando que a falta de dictamen del Comité del código aduanero corresponde al Consejo adoptar las disposiciones necesarias, 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+Se modifican los Anexos 37 y 38 del Reglamento (CEE) no 2454/93 (2) según lo dispuesto en el Anexo del presente Reglamento. 
+Artículo 2 
+El presente Reglamento entrará en vigor el tercer día siguiente al de su publicación en el Diario Oficial de las Comunidades Europeas. 
+Será aplicable a partir del 1 de enero de 1995. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Luxemburgo, el 21 de junio de 1994. 
+Por el Consejo 
+El Presidente 
+G. MORAITIS 
+(1) DO no L 302 de 19. 10. 1992, p. 1. 
+(2) DO no L 253 de 11. 10. 1993, p. 1. Reglamento cuya última modificación la constituye el Reglamento (CE) no 655/94 (DO no L 82 de 25. 3. 1994, p. 15). 
+ANEXO 
+1. El Anexo 37 del Reglamento (CEE) no 2454/93 queda modificado de la siguiente manera: 
+a) en el título I, punto B, 2, el número « 36 » debe introducirse en la lista de casillas que se vayan a utilizar para una declaración de despacho a libre práctica; 
+b) el texto relativo a la casilla 36, título II, C se sustituye por el texto siguiente: 
+« 36. Preferencia 
+Indicar el código previsto a este efecto. 
+Hasta el 1 de enero de 1996, los Estados miembros pueden utilizar códigos diferentes a los previstos en el Anexo 38, en la medida en que permitan recoger la información estadística con un grado de precisión al menos equivalente a éstos. ». 
+2. Al Anexo 38 del Reglamento (CEE) no 2454/93 se añade el texto siguiente, relativo a la casilla 36: 
+« Casilla 36: Preferencia 
+Los códigos aplicables son: 
+1. La primera cifra del código 
+%quot%%quot% ID=%quot%1%quot%%gt%1%gt% ID=%quot%2%quot%%gt%Régimen arancelario erga omnes (sin certificado preferencial)%quot%%gt% ID=%quot%1%quot%%gt%2%gt% ID=%quot%2%quot%%gt%Sistema de preferencias generalizadas (SPG)%quot%%gt% ID=%quot%1%quot%%gt%3%gt% ID=%quot%2%quot%%gt%Otras preferencias arancelarias (EUR 1, ATR o documentos equivalentes)%quot%%gt% 
+2. Las dos cifras siguientes del código 
+%quot%%quot% ID=%quot%1%quot%%gt%00%gt% ID=%quot%2%quot%%gt%Ninguno de los casos siguientes%quot%%gt% ID=%quot%1%quot%%gt%10%gt% ID=%quot%2%quot%%gt%Suspensión arancelaria%quot%%gt% ID=%quot%1%quot%%gt%15%gt% ID=%quot%2%quot%%gt%Suspensión arancelaria con destino especial%quot%%gt% ID=%quot%1%quot%%gt%18%gt% ID=%quot%2%quot%%gt%Suspensión arancelaria con certificado sobre la naturaleza particular del producto%quot%%gt% ID=%quot%1%quot%%gt%20%gt% ID=%quot%2%quot%%gt%Contingente arancelario (1)%quot%%gt% ID=%quot%1%quot%%gt%23%gt% ID=%quot%2%quot%%gt%Contingente arancelario con destino especial (1)%quot%%gt% ID=%quot%1%quot%%gt%25%gt% ID=%quot%2%quot%%gt%Contingente arancelario con certificado sobre la naturaleza particular del producto (1)%quot%%gt% ID=%quot%1%quot%%gt%28%gt% ID=%quot%2%quot%%gt%Contingente arancelario tras perfeccionamiento pasivo (1)%quot%%gt% ID=%quot%1%quot%%gt%40%gt% ID=%quot%2%quot%%gt%Destino especial conforme al arancel aduanero común%quot%%gt% ID=%quot%1%quot%%gt%50%gt% ID=%quot%2%quot%%gt%Certificado relativo a la naturaleza particular del producto.%quot%%quot%%gt% 
+(1) En caso de que esté agotado el contingente solicitado, los Estados miembros pueden prever que la solicitud sirva para la aplicación de cualquier otra preferencia existente. ». 

@@ -1,0 +1,141 @@
+Commission Regulation (EC) No 341/2006 of 24 February 2006 adopting the specifications of the 2007 ad hoc module on accidents at work and work-related health problems provided for by Council Regulation (EC) No 577/98 and amending Regulation (EC) No 384/2005 (Text with EEA relevance) 
+Commission Regulation (EC) No 341/2006 
+of 24 February 2006 
+adopting the specifications of the 2007 ad hoc module on accidents at work and work-related health problems provided for by Council Regulation (EC) No 577/98 and amending Regulation (EC) No 384/2005 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC) No 577/98 of 9 March 1998 on the organisation of a labour force sample survey in the Community [1], and in particular Article 4(2) thereof, 
+Whereas: 
+(1) Commission Regulation (EC) No 384/2005 of 7 March 2005 adopting the programme of ad hoc modules, covering the years 2007 to 2009, to the labour force sample survey provided by Council Regulation (EC) No 577/98 [2] includes an ad hoc module on accidents at work and work-related health problems. 
+(2) Council Resolution No 2002/C 161/01 of 3 June 2002 on a new Community strategy on health and safety at work (2002-2006) [3] called on the Commission and the Member States to step up work in hand on harmonisation of statistics on accidents at work and occupational illnesses, so as to have available comparable data from which to make an objective assessment of the impact and effectiveness of the measures taken under the new Community strategy. 
+(3) Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work [4], states that employers must keep a list of occupational accidents resulting in a worker being unfit for work for more than three working days and must draw up, for the responsible authorities and in accordance with national laws and/or practices, reports on occupational accidents suffered by his workers. In its Recommendation 2003/670/EC of 19 September 2003 concerning the European schedule of occupational diseases [5], the Commission recommended that Member States should ensure that all cases of occupational diseases are reported and should progressively make their statistics on occupational diseases compatible with the European schedule, in accordance with the work being done on the system of harmonising European statistics on occupational diseases. The Commission Communication of 11 March 2002 on a new Community strategy on health and safety at work 2002-2006 [6] underlines that the statistical information should cover not just recognised occupational accidents and illnesses, their causes and consequences, but should also introduce some quantifiable elements relating to working environment factors which are likely to cause the problems. Statistical data should also be available for emerging phenomena, like stress-related complaints or musculoskeletal problems. 
+(4) It is also necessary to update the specification of the sample set out in Section 1 of the Annex to Regulation (EC) No 384/2005, in order to ensure that the sample available for analysis in the ad hoc module is as revealing as possible. 
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The detailed list of information to be collected in 2007 by the ad hoc module on accidents at work and work-related health problems, required for Section 1 of the Annex to Regulation (EC) No 384/2005, shall be as set out in the Annex to this Regulation. 
+Article 2 
+In Section 1 of the Annex to Regulation (EC) No 384/2005, the point "Sample" is replaced by the following: 
+"Sample : The target age group for the sample for this module consists of persons aged 15 or more." 
+Article 3 
+This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 24 February 2006. 
+For the Commission 
+Joaquín Almunia 
+Member of the Commission 
+[1] OJ L 77, 14.3.1998, p. 3. Regulation as last amended by Regulation (EC) No 2257/2003 of the European Parliament and of the Council (OJ L 336, 23.12.2003, p. 6). 
+[2] OJ L 61, 8.3.2005, p. 23. 
+[3] OJ C 161, 5.7.2002, p. 1. 
+[4] OJ L 183, 29.6.1989, p. 1. Directive as amended by Regulation (EC) No 1882/2003 of the European Parlament and of the Council (OJ L 284, 31.10.2003, p. 1). 
+[5] OJ L 238, 25.9.2003, p. 28. 
+[6] COM(2002) 118 final of 11.3.2002. 
+-------------------------------------------------- 
+ANNEX 
+LABOUR FORCE SURVEY 
+Specifications of the 2007 ad hoc module on accidents at work and work-related health problems 
+1. Member States and regions concerned: all. 
+2. The variables shall be coded as follows: 
+The numbering of the variables of the labour force survey in the column "Filters" refers to Commission Regulation (EC) No 430/2005 [1]. 
+Column | Code | Description | Filters/remarks | 
+ACCIDENTS AT WORK ENCOUNTERED BY PERSONS HAVING WORKED IN THE LAST 12 MONTHS 
+209 | | Accidental injury(ies), apart from illnesses, occurred during the past 12 months, at work or in the course of work | (Col. 24 = 1, 2) or (Col. 84 = 1 and Col. 85/88 and Col. 89/90 is not prior to one year before the date of the interview) | 
+0 | None | 
+1 | One | 
+2 | Two or more | 
+9 | Not applicable (Col. 24 = 3-9 and (Col. 84 ≠ 1 or (Col. 85/88 and Col. 89/90 is more than one year before the date of the interview, or is blank))) | 
+blank | No answer | 
+210 | | Type of the most recent accidental injury at work or in the course of work | Col. 209 = 1-2 | 
+1 | A road traffic accident | 
+2 | Accident other than road traffic accident | 
+9 | Not applicable (Col. 209 = 0, 9, blank) | 
+blank | No answer | 
+211/212 | | Date when the person was able to start to work again after the most recent accidental injury | Col. 209 = 1-2 | 
+00 | Still off work because has not yet recovered from the accident, but expects to resume work later | 
+01 | Expects never to work again because of the accident | 
+02 | No time off or the same day as the accident | 
+03 | The day after the accident | 
+04 | From the second but before the fifth day after the accident | 
+05 | From the fifth day but before two weeks after the accident | 
+06 | From two weeks but before one month after the accident | 
+07 | From one month but before three months after the accident | 
+08 | From three months but before six months after the accident | 
+09 | From six months but before nine months after the accident | 
+10 | Nine months or later after the accident | 
+99 | Not applicable (Col. 209 = 0, 9 or blank) | 
+blank | No answer | 
+213 | | Job done when the most recent accidental injury occurred (code first that applies) | Col. 209 = 1-2 | 
+1 | Main current (first) job | 
+2 | Second current job | 
+3 | Last job (person not in employment) | 
+4 | Job one year ago | 
+5 | Some other job | 
+9 | Not applicable (Col. 209 = 0, 9, blank) | 
+blank | No answer | 
+WORK-RELATED HEALTH PROBLEMS SUFFERED DURING THE LAST 12 MONTHS(apart from accidental injuries) 
+214 | | Illness(es), disability(ies) or other physical or psychic health problem(s), apart from accidental injuries, suffered by the person during the past 12 months (from the date of the interview) and that was (were), caused or made worse by work | (Col. 24 = 1, 2 or Col. 84 = 1) | 
+0 | None | 
+1 | One | 
+2 | Two or more | 
+9 | Not applicable (Col. 24 = 3-9 and Col. 84 ≠ 1) | 
+blank | No answer | 
+215/216 | | Type of the most serious complaint caused or made worse by work | Col. 214 = 1-2 | 
+00 | Bone, joint or muscle problem which mainly affects neck, shoulders, arms or hands | 
+01 | Bone, joint or muscle problem which mainly affects hips, legs or feet | 
+02 | Bone, joint or muscle problem which mainly affects back | 
+03 | Breathing or lung problem | 
+04 | Skin problem | 
+05 | Hearing problem | 
+06 | Stress, depression or anxiety | 
+07 | Headache and/or eyestrain | 
+08 | Heart disease or attack, or other problems in the circulatory system | 
+09 | Infectious disease (virus, bacteria or other type of infection) | 
+10 | Other types of complaint | 
+99 | Not applicable (Col. 214 = 0, 9, blank) | 
+blank | No answer | 
+217 | | Whether the most serious complaint caused or made worse by work limits the ability to carry out normal day-to-day activities either at work or outside work | Col. 214 = 1-2 | 
+0 | No | 
+1 | Yes, to some extent | 
+2 | Yes, considerably | 
+9 | Not applicable (Col. 214 = 0, 9, blank) | 
+blank | No answer | 
+218/219 | | Number of days off work during the last 12 months due to the most serious complaint caused or made worse by work | Col. 214 = 1-2 | 
+00 | The person has not been working during the past 12 months, but for reasons not related to the complaint caused or made worse by work (e.g. normal retirement) | 
+01 | Expects never to work again due to this illness | 
+02 | Less than one day or no time off | 
+03 | At least one day but less than four days | 
+04 | At least four days but less than two weeks | 
+05 | At least two weeks but less than one month | 
+06 | At least one month but less than three months | 
+07 | At least three months but less than six months | 
+08 | At least six months but less than nine months | 
+09 | At least nine months | 
+99 | Not applicable (Col. 214 = 0, 9, blank) | 
+blank | No answer | 
+220 | | Job that caused or made worse the most serious complaint (code first that applies) | Col. 214 = 1-2 and (Col. 85/88 is not prior to eight years before the year of the interview) | 
+1 | Main current (first) job | 
+2 | Second current job | 
+3 | Last job (person not in employment) | 
+4 | Job one year ago | 
+5 | Some other job | 
+9 | Not applicable (Col. 214 = 0, 9, blank) | 
+blank | No answer | 
+FACTORS AT WORK THAT CAN ADVERSELY AFFECT MENTAL WELL-BEING OR PHYSICAL HEALTH 
+221 | | Whether at the workplace the person has particular exposure to selected factors that can adversely affect his/her mental well-being | Col. 24 = 1, 2 | 
+0 | No | 
+1 | Yes, mainly to harassment or bullying | 
+2 | Yes, mainly to violence or threat of violence | 
+3 | Yes, mainly to time pressure or overload of work | 
+9 | Not applicable (Col. 24 = 3-9) | 
+blank | No answer | 
+222 | | Whether at the workplace the person has particular exposure to selected factors that can adversely affect his/her physical health | Col. 24 = 1, 2 | 
+0 | No | 
+1 | Yes, mainly to chemicals, dusts, fumes, smoke or gases | 
+2 | Yes, mainly to noise or vibration | 
+3 | Yes, mainly to difficult work postures, work movements or handling of heavy loads | 
+4 | Yes, mainly to risk of accident | 
+9 | Not applicable (Col. 24 = 3-9) | 
+blank | No answer | 
+[1] OJ L 71, 17.3.2005, p. 36. 
+-------------------------------------------------- 

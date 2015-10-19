@@ -1,0 +1,188 @@
+90/515/EEC: Commission Decision of 26 September 1990 laying down the reference methods for detecting residues of heavy metals and arsenic 
+***** 
+COMMISSION DECISION 
+of 26 September 1990 
+laying down the reference methods for detecting residues of heavy metals and arsenic 
+(90/515/EEC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Economic Community, 
+Having regard to Council Directive 64/433/EEC of 26 June 1964 on health problems affecting intra-Community trade in fresh meat (1), as last amended by Directive 89/662/EEC (2), and in particular Article 4 (1) (b) thereof, 
+Having regard to the opinion of the Scientific Veterinary Committee, 
+Whereas, pursuant to Article 4 (1) (b) of Directive 64/433/EEC, reference methods should be laid down for assessing the results of the examination for residues; 
+Whereas Article 1 of Commission Decision 89/610/EEC of 14 November 1989 laying down the reference methods and the list of national reference laboratories for detecting residues (3) excludes coverage of heavy metals and arsenic; 
+Whereas, pursuant to the second subparagraph of Article 8 (3) of Council Directive 86/469/EEC of 16 December 1986 concerning the examination of animals and fresh meat for the presence of residues (4), all positive findings must, if challenged, be confirmed using the reference methods established pursuant to Article 4 (1) (b) of Directive 64/433/EEC; 
+Whereas the determination of reference methods includes the definition of the analytical reference procedures to be followed and the criteria to be applied when carrying out the analyses; 
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+The analytical reference procedures to be applied for confirmation of the presence of residues shall be the following: 
+1. for arsenic: 
+- atomic absorption spectrometry (AAS) (graphite furnace or hydride generation technique), 
+- colorimetry (after complexation). 
+2. for cadmium and lead: 
+- atomic absorption spectrometry (AAS) (graphite furnace or flame) 
+- anodic stripping voltammetry by derivative pulse polarography (DPASV). 
+3. for mercury: cold vapour phase atomic absorption spectrometry (AAS). 
+Article 2 
+The analytical reference procedure of choice must be based preferably on atomic absorption spectrometry (AAS) and must have a limit of detection which is equal to or lower than that of the procedure used for routine analyses. 
+Article 3 
+The criteria applicable to the analytical reference procedure are set out in the Annex. 
+Article 4 
+This Decision shall be reexamined before 1 January 1996 in order to take account of developments in scientific and technical knowledge. 
+Article 5 
+This Decision is addressed to the Member States. 
+Done at Brussels, 26 September 1990. 
+For the Commission 
+Ray MAC SHARRY 
+Member of the Commission 
+(1) OJ No 121, 29. 7. 1964, p. 2012/64. 
+(2) OJ No L 395, 30. 12. 1989, p. 13. 
+(3) OJ No L 351, 2. 12. 1989, p. 39. 
+(4) OJ No L 275, 26. 9. 1986, p. 36. 
+ANNEX 
+1. 
+DEFINITIONS AND GENERAL CRITERIA 
+1.1. 
+Parameters 
+The parameters provided for in the Annex to Council Directive 85/591/EEC (1) as defined in this report shall apply to reference methods of analysis for residues of heavy metals and arsenic. 
+1.2. 
+Definitions 
+1.2.1. 
+Analyte: a component of a test sample the content of which has to be measured. The term 'analyte' includes derivatives formed from the analyte during the analysis wherever this is necessary. 
+1.2.2. 
+Standard material: a well defined substance of recognized analytical purity to be used to prepare calibrant solutions and calibration curves. 
+1.2.3. 
+Certified reference material: a sample of substance or a single manufactured object of which one, or several, properties are determined with sufficient accuracy, so that it can be used to calibrate an apparatus or to verify a method of measurement. The certification must be based on technically valid procedures. If no certified reference material is available, relevant parameters may be evaluated by analysing fortified sample material. For the purpose of this document reference materials are used to verify the accuracy of the analysis. 
+Note: 
+CRMs suitable for the verification of methods for heavy metals and arsenic in muscle, liver and kidney are available from the Community Bureau of Reference, Commission of the European Communities, Brussels. 
+1.2.4. 
+Selectivity: the ability of a method to distinguish between the analyte to be measured and other substances. This characteristic is predominantly a function of the measuring principle used, but can vary according to class of compound or matrix. A specific method is one exhibiting the ultimate in selectivity. 
+1.2.5. 
+Accuracy: in this document this refers to accuracy of the mean. The definition which shall be used is laid down in ISO 3534-1977 under 2.83 (accuracy of the mean: the closeness of agreement between the true value and the mean result which would be obtained by applying the experimental procedure a very large number of times). 
+The principal limitations on the accuracy of a determination are both random error and systematic error, though where the result is derived from a very large number of determinations, the random errors tend to cancel out and the accuracy of the mean approaches the systematic error. 
+For desk review of a method therefore, the number of repeated determinations must be specified. 
+The measure of accuracy is the difference between the mean value obtained analyzing a certified reference material and its certified value expressed as a percentage of the certified value. 
+1.2.6. 
+Precision: repeatability intra-laboratory (within laboratory) and reproducibility inter-laboratory (within and between laboratories) variabilities. 
+The general statistical term 'precision' shall be used as defined in ISO 3534-1977 2.84 (precision: the closeness of agreement between the results obtained by applying the experimental procedure several times under prescribed conditions). 
+According to the Annex to Directive 85/591/EEC the precision values for methods of analysis which are to be considered for adoption under the provisions of that Directive shall be obtained from a collaborative trial which has preferably been conducted in accordance with ISO 5725-1986. For this purpose, the terms repeatability and reproducibility are defined in ISO 5725-1986. For conducting such trials sample materials having analyte contents ranging around the tolerance level to be enforced shall be used. 
+Until such time as the reproducibility of a method has been established by a collaborative trial, then for the purpose of preselection of candidate methods by desk review, it is necessary that data on repeatability, recovery and results obtained for certified reference materials are available. For this purpose the term repeatability is used here as defined in ISO 3534-1977 under 2.85a) (repeatability: the closeness of agreement between successive results obtained with the same method on identical test material, under the same conditions (same operator, same apparatus, same laboratory and short intervals of time)). 
+The measure of repeatability to be used is the coefficient of variation as defined in ISO 3534-1977, 2.35 (coefficient of variation: the ratio of the standard deviation to the absolute value of the arithmetic mean). 
+1.2.7. 
+Limit of detection: the smallest measured content from which it is possible to deduce the presence of the analyte with reasonable statistical certainty. The detection limit has to be reported in the contents domain, i.e. expressed as ug/kg or mg/kg (analyte/product), together with the amount of test portion (in grams) typically used in the analysis. The limit of detection is numerically equal to three times the standard deviation of the means of blank determinations (n 20). A blank determination is defined as the complete analytical procedure, with omission of the test portion, or taking instead of it an equivalent amount of distilled water. 
+1.2.8. 
+Sensitivity: a measure of the ability of a method to discriminate between small differences in analyte content. In this document, sensitivity is defined as the slope (response/concentration) of the calibration curve at the level of interest. 
+1.2.9. 
+Practicability: a non-standard characteristic of an analytical procedure. It is dependent on the scope of the method and is determined by requirements such as sample throughout and costs. For reference methods, most aspects of practicability are of minor signififance compared with the other criteria defined in this document. It is usually sufficient that the required reagents and equipment are commercially available. 
+1.2.10. 
+Aplicability: a list of the commodities to which the candidate method can be applied as presented or with minor modifications. 
+1.2.11. 
+Other criteria selected in connection with the determination of heavy metals and arsenic. 
+1.2.11.1. 
+Quantification 
+1.2.11.1.1. 
+Limit of quantitification: the lowest content of the analyte which can be measured with reasonably statistical certainty. If both accuracy and precision are constant over a concentration range around the limit of detection, then the limit of quantification is numerically equal to six times the standard deviation of the means of blank determination (n 20, see 1.2.7). 
+1.2.11.1.2. 
+Accuracy: in the case of repeated analysis of a certified reference material, the deviation of the mean from the certified value, expressed as a percentage of the certified value, shall not lie outside the limits ± 10 %. 
+1.2.11.3. 
+Precision, expressed as repeatability: in the case of repeated analysis of a sample, the coefficient of variation (CV) (1.2.6.) of the mean shall not exceed the following values: 
+CV 
+- mean over 10 and up to 100 mg/kg: 0,20 
+- mean over 100 mg/kg and up to 1000 mg/kg 0,15 
+- mean over 1000 mg/kg: 0,10 
+1.2.11.1.4. 
+Calibration curves 
+If the method depends on a calibration curve then the following information must be given: 
+- for a linear calibration curve the ranges within which a linear relationship exists between the contents of the analyte in the standard solutions and the magnitude of the signals produced by the measuring instrument (linear range of the calibration curve), 
+- if the quantitifcation is based upon a non-linear calibration curve, the mathematical formula which describes the calibration curve, 
+- acceptable ranges within which the magnitude of the signal produced by the measuring instruments for a standard solution in the working range of the calibration curve mayvary from day to day, 
+- a copy of a representative calibration curve with all the data points, and indications of the ranges where the curve can be used (working range). 1.2.11.2. 
+Susceptibility to interference 
+For all experimental conditions which could in practice be subject to flucutation (e.g. stability of reagents, composition of the sample, pH, temperature) any variations which could affected the analytical result should be indicated. The method description shall include means of overcoming any foreseaable interference. When ever possible, a means of confirming the contents shall be described. It is of prime importance that interference which might arise from matrix components should be investigated. Therefore, at least the largest amount of sample which has no interfering effect on the quantitifcation of the analyte (after proper decomposition and 'clean-up') shall be indicated. 
+In atomic absorption spectrometry, especially, with the graphite furnace technique, erroneous (too high) values can be obtained due to inadequate background correction. Reference methods therefore must contain detailed information about the effectiveness of the background correction system employed. In general, background correction based upon the Zeeman principle is currently considered the most reliable, but also deuterium lamp and Smith-Hieftje correctors may fulfil the needs. 
+1.2.11.3. 
+Relationship between maximum permitted levels and analytical limits 
+For elements with an established maximum permitted level, the limit of quantitifaction shall not exceed that level minus three times the repeatability standard deviation which the method produces for a sample at the maximum permitted level. 
+Typical residue levels in various sample materials are listed in the EEC Handbook of experimental data for reference methods (to be published). 
+2. 
+CRITERIA FOR THE QUANTIFICATION OF RESIDUES OF HEAVY METALS AND ARSENIC 
+2.1. 
+General requirement 
+Laboratories carrying out analyses for the quantitative determination of heavy metals and arsenic, shall ensure that the criteria for the interpretation of results are fulfilled in accordance with the requirements of this section. The criteria are designed for the identification and quantification of the analyte and aim to prevent false positive results. For a positive conclusion, the analytical results have to fulfil the criteria laid down for the particular analytical procedure. 
+2.2. 
+Interpretation of results: definition of a positive and a negative result 
+2.2.1. 
+Positive result: if, according to the analytical procedure, the measured content of the analyte in the sample is equal to or higher than the established maximum permitted level plus n times the standard deviation corresponding to the maximum coefficient of variation allowed for the method as stated in section 1.2.11.1.3 for the level concerned, the sample has a content exceeding the maximum permitted level. The result of the analysis is 'positive'. 
+2.2.2. 
+Negative result: if, according to the analytical procedure, the measured content of the analyte in the sample is lower than the established maximum permitted level plus n times the standard deviation corresponding to the maximum coefficient of variation allowed concerned, the sample is considered to have a content below the maximum permitted level. The result of the analysis is 'negative'. 
+Note 1: A negative result does not prove that the true content of the analyte is below the maximum permitted level. 
+Note 2: The value of n should be defined according to the risk, acceptable by the authorities for false positive or false negative results. 
+2.3. 
+General considerations for the whole analytical procedure 
+2.3.1. 
+Preparation of the sample 
+The sample should be obtained and handled in such a way that the composition does not change due to for example dessication, evaporation, deterioration or contamination. 
+2.3.2. 
+Susceptibility to interference 
+Information as detailed under 1.2.11.2. (Susceptibility to interference) should be submitted. 
+2.3.3. 
+General criteria for the whole analytical procedure 
+2.3.3.1. 
+The selectivity (1.2.4) of the method shall be indicated together with the numerical values of the limit of detection (1.2.7.) and the limit of quantitifaction (1.2.11.1.1) of the procedure for the analyte and matrix under investigation. 
+Note: This information can be obtained from experimental data and taking account of theoretical considerations. 
+(1) OJ No L 372, 31. 12. 1985, p. 50. 
+2.3.3.2. 
+The positive or negative result of the analysis will hold only within the restrictions of selectivity and limit of quantification of the procedure for the analyte and matrix under investigation. 
+2.3.3.3. 
+Analytical quality control 
+Reference samples containing reliably known amounts of analyte must be carried through the entire procedure simultaneously with each series of test samples analysed. When appropriate certified reference materials or reference samples are not available, the method must be validated by doing recovery experiments in parallel with each series of test samples analysed. (See also sections 1.2.11.1.2 and 1.2.11.1.3, for accuracy and precision requirements). 
+2.4. 
+Criteria for decomposition of samples 
+Depending upon the measuring system to be used a more or less through digestion of the organic matter in the sample may be necessary. Decomposition by dry ashing, wet digestion in an open system and bomb digestion can be considered. 
+Cleaning of glassware and of other equipment used needs special attention when elements have to be determined at trace levels; each method must give an outline of the cleaning procedure. 
+Decomposition procedures often include potentially hazardous manipulations, therefore every method must contain a safety paragraph. 
+2.4.1. 
+Reagents 
+Mineral acids, hydrogen peroxide and ashing aids, e.g. magnesium nitrate, should be of a high purity, in general better than analytical grade, Several manufacturers produce chemicals especially suitable for trace determinations of heavy metals. Every now batch of a reagent should be tested in a blank experiment for its actual content of the element to be measured, and the results compared with those of a previous batch. 
+2.4.2. 
+Testing for losses of analyte 
+Possible losses of analytes due to the presence or formation of volatile compounds or insoluble precipitates must be checked. Preferably this is done by analyzing a certified reference material, whose matrix matches the sample to be analyzed as closely as possible, and in addition by recovery experiments with the actual sample material. If no appropriate certified reference material is available, recovery experiments at various levels must be done. 
+2.4.3. 
+Dry ashing techniques (not applicable to mercury determinations) 
+Stringent control of the temperature is important in dry ashing to avoid losses of analyte by volatilization. A muffle furnace with a programmable temperature controller is essential to obtain repeatable ashing conditions. 
+In the first stage of the ashing, until ca. 350 °C, the temperature rise must be slow, about 50 °C per hour, in order to prevent burning of the organic material in the sample, which results locally in much higher temperatures (up to 800 °C to 900 °C) and thus to loss of analytes. 
+If no ashing aids are used, the maximum ashing temperature must be no higher than 450 °C to 500 °C. 
+If ashing aids, e.g. sulphuric acid, magnesium nitrate, magnesium oxide are added to the sample, higher ashing temperatures can be used without losses of the elements of interest. However, use of ashing aids may cause dissolution problems of the ash. 
+When necessary, ashing should be repeated for a short time, after addition of some nitric acid to the ash, until no more residual carbon (black particles) is visible in the ash. 
+To minimize the chance of contamination, the lining of the furnace may not contain high levels of the elements to be determined. 
+2.4.4. 
+Atmospheric pressure with mineral acids 
+In atmospheric pressure digestion methods relatively large amounts of reagents are used which means that their contamination levels must be as low as possible (see 2.4.1). During digestion oxidizing conditions must be maintained to avoid charring; if charring occurs, immediately a few ml of oxidizing acid (nit acid, perchloric acid) should be added. A severely charred sample is very difficult to digest any further; also charring may lead to loss of analytes (arsenic, mercury) by volatilisation. If the final digest, after dilution, is to be directly analyzed by flame-AAS or graphite furnace AAS, the presence of residues of low-molecular weight organic molecules might not interfere in the measurement. In these cases diegestion with mixtures of sulphuric acid/nitric acid may be sufficient. Digests which have to be analyzed by DPASV or from which the analyte is to be extracted with organic complexation agents, must be free from any residual organic material. In these cases final digestion with perchloric acid and/or hydrogen peroxide is appropriate. 2.4.5. 
+Pressure digestion 
+Only appropriate designed pressure vessels and ovens must be used for these techniques. Microwave devices especially should be of the type specifically designed for laboratory use. This message must be clearly stated in any reference method protocol that advocates or permits the use of these techniques. 
+The main restriction of this technique is the small amount of test portion that can be digested in the most common types of commercially available bombs. 
+Usually the digests obtained can be analyzed after dilution directly by flame-AAS or graphite furnace AAS. Supplementary digestion with perchloric acid and/or hydrogen peroxide will be necessary when the digest has to be analyzed by DPASV or has to be extracted with organic complexing agents. 
+2.5 
+Criteria for atomic absorption spectrometry (AAS) 
+In general, instrument settings of the spectrometer should be chosen according to the recommendations of the manufacturer. The performance of the complete equipment must be checked before and after each series of sample measurements by analyzing standard solutions and preparing a calibration graph from the results. Whenever possible results must be checked by repeating the measurements at an alternative absorption lilne. If quantification is done by the method of standard additions, care should be taken not to exceed the linear range of the calibration curve. 
+2.5.1. 
+Flame-AAS 
+Calibration standard must be prepared in a solution matrix that matches as colsely as possible that of sample measurement solutions (e.g. in terms of acid concentration) to ensure comparible instrument response. 
+If a separation procedure, such as an extraction, is used, to separate analyte from interferents or for concentration, the efficiency of each step must be checked for every new type of sample matrix. 
+While background absorption tends to be much less of a problem with flame as opposed to graphite furnace AAS nonetheless a check must always be made whether or not background correction is required. 
+2.5.2. 
+Graphite furnace AAS 
+Matrix modifiation in combination with the use of L'vov platform atomization may allow quantification by means of a calibration curve based upon measuring of aqueous standard solutions. To avoid high blank values, the reagents used as matrix modifier must be of the highest purity available. 
+Lack of effective and reliable background correction is the main source of error in graphite furnace AAS. Therefore the effectiveness of the background correction aspect of the measurement must be checked very carefully. Results must, where ever appropriate, be checked by diluting the measuring solution two or threefold and measuring again. 
+2.5.3. 
+Cold vapour atomic absorption spectrometry for mercury 
+Due to losses by volatilization, dry ashing cannot be used as a decomposition technique for mercury determinations. Volatile organic substances in the measuring solution can lead to false positive results. This possibility must be ruled out by analyzing two aliquots of each sample solution, with and without a tube filled with palladium chloride on glass wool connected in the gas stream between the solution and the absorption cell of the detector. With the palladium chloride tube connected no peak should appear. If the measurement is based upon absorption of elemental mercury on gold wool, followed by thermal desorption, the check with palladium chloride can be deleted. 
+2.5.4. 
+Hydride generation atomic absorption spectrometrey for arsenic (As) 
+Organic compounds containing arsenic can be very stable and require a very thorough oxidative decomposition procedure to ensure that correct results for total As are obtained. Wet digestion must include and bomb digestion must be followed by a final digestion step with perchloric acid, hydrogen peroxide or other strong oxidizing reagents like potass permanganate. Dry ashing with a mixture of magnesium nitrate/magnesium oxide as ashing aids also is suitable for arsenic determinations. 
+One needs to be aware that in this technique the heights and areas of the absorption peaks can be strongly influenced by matrix constituents in the measuring solution and quantification by the method of standard additions is usually required. The yield and speed of formation of AsH3 in hydrochloric acid solution with NaBH4 depends as the oxidation state of As, As III in general reacting preparation procedures must be designed to render all As present to AsIII or As V and the measurement must be calibrated with As III or AsV solutions as appropriate. 2.6. 
+Criteria for differential pulse anodic stripping voltammetry (DPASV) 
+Complete destruction of organic matter in samples prior to DPASV determinations is of utmost importance. In this respect dry ashing is quite appropriate. In the voltammograms peaks originating from cadmium and lead should be completely separated. No broad signals, due to the presence of organic materials, should be seen in the voltammogram. Peak heights in DPASV may be influenced by inorganic matrix constituents. Therefore quantification has to be done by the method of standard additions. A specimen of a typical voltammogram of a sample solution should be supplied with the method. 
+2.7. 
+Criteria for calorimetric methods (for arsenic) 
+As for the hydride generation technique, complete destruction of all organic materials, including organo-arsenic compounds, is of utmost importance here (see 2.5.4). 

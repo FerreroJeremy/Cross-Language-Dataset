@@ -1,0 +1,59 @@
+2006/804/EC: Commission Decision of 23 November 2006 on harmonisation of the radio spectrum for radio frequency identification (RFID) devices operating in the ultra high frequency (UHF) band (notified under document number C(2006) 5599) 
+Commission Decision 
+of 23 November 2006 
+on harmonisation of the radio spectrum for radio frequency identification (RFID) devices operating in the ultra high frequency (UHF) band 
+(notified under document number C(2006) 5599) 
+(2006/804/EC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Decision No 676/2002/EC of the European Parliament and of the Council of 7 March 2002 on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision) [1], and in particular Article 4(3) thereof, 
+Whereas: 
+(1) Radio frequency identification (RFID) technology, a specific type of short-range devices, offers potentially significant economic and societal benefits in Europe. Different RFID applications are possible, such as automatic article identification, asset tracking, security and alarm systems, waste management, proximity sensors, anti-theft systems, location systems, data transfer to handheld devices and wireless control systems. The development of devices based on ultra high frequency (UHF) RFID in the EC will contribute to development of the information society and to promotion of innovation. 
+(2) Harmonised conditions and legal certainty for the availability of radio spectrum for UHF RFID devices are necessary to allow the identification of products incorporating UHF RFID or services relating to RFID to function throughout Europe. Ensuring a functioning internal market will assist the successful and rapid uptake of RFID technology by supporting economies of scale and cross-border use. 
+(3) The purpose of this Decision is limited to RFID systems in which the devices attached to the items to be identified have no autonomous source of energy for radio transmission and transmit solely by reusing the energy radiated onto them by reader devices. So their potential to cause interference to other spectrum users is typically limited. Therefore such devices can share frequency bands with other services which are, or are not, subject to authorisation, without causing harmful interference, and can co-exist with other short range devices. Their use should therefore not be subject to an individual authorisation pursuant to the Authorisation Directive 2002/20/EC of the European Parliament and of the Council [2]. In addition, radio communications services, as defined in the International Telecommunications Union Radio Regulations, have priority over such RFID devices and are not required to ensure the protection of RFID devices against interference and RFID systems shall not cause interference to these radio communications services. Since no protection against interference can therefore be guaranteed to users of RFID devices, it is the responsibility of manufacturers of RFID devices to protect such devices against harmful interference from radio communications services as well as from other short range devices operating in accordance with the applicable Community or national regulations. Pursuant to Directive 1999/5/EC of the European Parliament and of the Council of 9 March 1999 on radio equipment and telecommunications terminal equipment and the mutual recognition of their conformity [3] (the R%amp%TTE Directive) manufacturers should ensure, that RFID devices effectively use the radio frequency spectrum so as to avoid harmful interference to other short-range devices. 
+(4) On 11 March 2004 the Commission therefore issued a mandate [4] to the CEPT, pursuant to Article 4(2) of the Radio Spectrum Decision, to harmonise frequency use for short-range devices, including RFID devices. In response to that mandate, in its report [5] of 15 November 2004 the CEPT established the list of voluntary harmonisation measures which exist in the European Community for short-range devices and stated that a more binding commitment is required from Member States in order to ensure the legal stability of the frequency harmonisation achieved in the CEPT, in particular for the UHF spectrum used by RFIDs. 
+(5) The bands proposed by CEPT for harmonisation are covered for use by RFID by harmonised standard EN 302 208 adopted pursuant to Directive 1999/5/EC. This standard describes a listen-before-talk technique meant to provide appropriate mitigation levels to avoid harmful interference to other users in the band. The use of this standard or other relevant harmonised standards gives the presumption of conformity with the essential requirements of the R%amp%TTE Directive. 
+(6) Harmonisation under this Decision does not exclude the possibility for a Member State to apply, where justified, transitional periods or radio spectrum-sharing arrangements pursuant to Article 4(5) of the Radio Spectrum Decision. 
+(7) The use of spectrum is subject to the requirements of Community law for public health protection in particular Directive 2004/40/EC of the European Parliament and of the Council [6] and Council Recommendation 1999/519/EC [7]. Health protection for radio equipment is ensured by conformity of such equipment to the essential requirements pursuant to the R%amp%TTE Directive. 
+(8) Due to rapid technological change, new UHF RFID and similar devices will emerge, which will require updates of spectrum harmonisation conditions, taking into account their economic benefits and the requirements of industry and users. Updates of this Decision will therefore be necessary to respond to new developments in the market and technology. If a review reveals the necessity to adapt the Decision, changes will be decided following the procedures specified in the Radio Spectrum Decision for the adoption of implementing measures. The updates could include transition periods to accommodate legacy situations. 
+(9) The measures provided for in this Decision are in accordance with the opinion of the Radio Spectrum Committee, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+The purpose of this Decision is to harmonise the conditions for the availability and efficient use of radio spectrum for RFID devices operating in the ultra high frequency (UHF) band. 
+Article 2 
+For the purpose of this Decision: 
+1. %quot%RFID devices%quot% means devices for, inter alia, tracking and identification of items by the use of a radio system, consisting on the one hand of passive devices (tags) mounted on items and, on the other, of transmitter/receiver units (readers) which activate the tags and receive data back; 
+2. %quot%non-interference, and non-protected basis%quot% means that no harmful interference may be caused to any radio communications service and that no claim may be made for protection of these devices against harmful interference originating from radio communications services. 
+Article 3 
+1. Member States shall designate and make available, within six months after the entry into force of this Decision and on a non-exclusive, non-interference and non-protected basis, the frequency bands for RFID devices, subject to the specific conditions, as laid down in the Annex to this Decision. 
+2. Notwithstanding paragraph 1, Member States may request transitional periods and/or radio spectrum-sharing arrangements, pursuant to Article 4(5) of the Radio Spectrum Decision. 
+3. This Decision is without prejudice to the right of Member States to allow the use of the frequency bands under less restrictive conditions than specified in the Annex to this Decision. 
+Article 4 
+Member States shall keep the use of the relevant bands under scrutiny and report their findings to the Commission to allow a timely review of the Decision. 
+Article 5 
+This Decision is addressed to the Member States. 
+Done at Brussels, 23 November 2006. 
+For the Commission 
+Viviane Reding 
+Member of the Commission 
+[1] OJ L 108, 24.4.2002, p. 1. 
+[2] OJ L 108, 24.4.2002, p. 21. 
+[3] OJ L 91, 7.4.1999, p. 10. 
+[4] Mandate to CEPT to analyse further harmonisation of frequency bands in use for short-range devices. 
+[5] Final report by the ECC in response to the EC mandate to the CEPT on radio frequency identification radio spectrum harmonisation. 
+[6] OJ L 159, 30.4.2004, p. 1. 
+[7] OJ L 199, 30.7.1999, p. 59. 
+-------------------------------------------------- 
+ANNEX 
+UHF Frequency band | Specific conditions | 
+Max. power/Field strength | Channel spacing | 
+Sub-band A: 865-865,6 MHz | 100 mW e.r.p. | 200 kHz | 
+Sub-band B: 865,6-867,6 MHz | 2 W e.r.p. | 200 kHz | 
+Sub-band C. 867,6-868 MHz | 500 mW e.r.p. | 200 kHz | 
+Channel centre frequencies are 864,9 MHz + (0,2 MHz Ă&#x2014; channel number). 
+The available channel numbers for each sub-band are: 
+Sub-band A: channel numbers 1 to 3; 
+Sub-band B: channel numbers 4 to 13; 
+Sub-band C: channel numbers 14 and 15. 
+Note: The same equipment is allowed to operate in several sub-bands. 
+-------------------------------------------------- 

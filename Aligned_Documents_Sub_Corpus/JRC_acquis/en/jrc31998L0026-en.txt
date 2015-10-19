@@ -1,0 +1,130 @@
+Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems 
+DIRECTIVE 98/26/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 May 1998 on settlement finality in payment and securities settlement systems 
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof, 
+Having regard to the proposal from the Commission (1), 
+Having regard to the opinion of the European Monetary Institute (2), 
+Having regard to the opinion of the Economic and Social Committee (3), 
+Acting in accordance with the procedure laid down in Article 189b of the Treaty (4), 
+(1) Whereas the Lamfalussy report of 1990 to the Governors of the central banks of the Group of Ten Countries demonstrated the important systemic risk inherent in payment systems which operate on the basis of several legal types of payment netting, in particular multilateral netting; whereas the reduction of legal risks associated with participation in real time gross settlement systems is of paramount importance, given the increasing development of these systems; 
+(2) Whereas it is also of the utmost importance to reduce the risk associated with participation in securities settlement systems, in particular where there is a close connection between such systems and payment systems; 
+(3) Whereas this Directive aims at contributing to the efficient and cost effective operation of cross-border payment and securities settlement arrangements in the Community, which reinforces the freedom of movement of capital in the internal market; whereas this Directive thereby follows up the progress made towards completion of the internal market, in particular towards the freedom to provide services and liberalisation of capital movements, with a view to the realisation of Economic and Monetary Union; 
+(4) Whereas it is desirable that the laws of the Member States should aim to minimise the disruption to a system caused by insolvency proceedings against a participant in that system; 
+(5) Whereas a proposal for a Directive on the reorganisation and winding-up of credit institutions submitted in 1985 and amended on 8 February 1988 is still pending before the Council; whereas the Convention on Insolvency Proceedings drawn up on 23 November 1995 by the Member States meeting within the Council explicitly excludes insurance undertakings, credit institutions and investment firms; 
+(6) Whereas this Directive is intended to cover payment and securities settlement systems of a domestic as well as of a cross-border nature; whereas the Directive is applicable to Community systems and to collateral security constituted by their participants, be they Community or third country participants, in connection with participation in these systems; 
+(7) Whereas Member States may apply the provisions of this Directive to their domestic institutions which participate directly in third country systems and to collateral security provided in connection with participation in such systems; 
+(8) Whereas Member States should be allowed to designate as a system covered by this Directive a system whose main activity is the settlement of securities even if the system to a limited extent also deals with commodity derivatives; 
+(9) Whereas the reduction of systemic risk requires in particular the finality of settlement and the enforceability of collateral security; whereas collateral security is meant to comprise all means provided by a participant to the other participants in the payment and/or securities settlement systems to secure rights and obligations in connection with that system, including repurchase agreements, statutory liens and fiduciary transfers; whereas regulation in national law of the kind of collateral security which can be used should not be affected by the definition of collateral security in this Directive; 
+(10) Whereas this Directive, by covering collateral security provided in connection with operations of the central banks of the Member States functioning as central banks, including monetary policy operations, assists the European Monetary Institute in its task of promoting the efficiency of cross-border payments with a view to the preparation of the third stage of Economic and Monetary Union and thereby contributes to developing the necessary legal framework in which the future European central bank may develop its policy; 
+(11) Whereas transfer orders and their netting should be legally enforceable under all Member States' jurisdictions and binding on third parties; 
+(12) Whereas rules on finality of netting should not prevent systems testing, before the netting takes place, whether orders that have entered the system comply with the rules of that system and allow the settlement of that system to take place; 
+(13) Whereas nothing in this Directive should prevent a participant or a third party from exercising any right or claim resulting from the underlying transaction which they may have in law to recovery or restitution in respect of a transfer order which has entered a system, e.g. in case of fraud or technical error, as long as this leads neither to the unwinding of netting nor to the revocation of the transfer order in the system; 
+(14) Whereas it is necessary to ensure that transfer orders cannot be revoked after a moment defined by the rules of the system; 
+(15) Whereas it is necessary that a Member State should immediately notify other Member States of the opening of insolvency proceedings against a participant in the system; 
+(16) Whereas insolvency proceedings should not have a retroactive effect on the rights and obligations of participants in a system; 
+(17) Whereas, in the event of insolvency proceedings against a participant in a system, this Directive furthermore aims at determining which insolvency law is applicable to the rights and obligations of that participant in connection with its participation in a system; 
+(18) Whereas collateral security should be insulated from the effects of the insolvency law applicable to the insolvent participant; 
+(19) Whereas the provisions of Article 9(2) should only apply to a register, account or centralized deposit system which evidences the existence of proprietary rights in or for the delivery or transfer of the securities concerned; 
+(20) Whereas the provisions of Article 9(2) are intended to ensure that if the participant, the central bank of a Member State or the future European central bank has a valid and effective collateral security as determined under the law of the Member State where the relevant register, account or centralized deposit system is located, then the validity and enforceability of that collateral security as against that system (and the operator thereof) and against any other person claiming directly or indirectly through it, should be determined solely under the law of that Member State; 
+(21) Whereas the provisions of Article 9(2) are not intended to prejudice the operation and effect of the law of the Member State under which the securities are constituted or of the law of the Member State where the securities may otherwise be located (including, without limitation, the law concerning the creation, ownership or transfer of such securities or of rights in such securities) and should not be interpreted to mean that any such collateral security will be directly enforceable or be capable of being recognised in any such Member State otherwise than in accordance with the law of that Member State; 
+(22) Whereas it is desirable that Member States endeavour to establish sufficient links between all the securities settlement systems covered by this Directive with a view towards promoting maximum transparency and legal certainty of transactions relating to securities; 
+(23) Whereas the adoption of this Directive constitutes the most appropriate way of realising the abovementioned objectives and does not go beyond what is necessary to achieve them, 
+HAVE ADOPTED THIS DIRECTIVE: 
+SECTION I 
+SCOPE AND DEFINITIONS 
+Article 1 
+The provisions of this Directive shall apply to: 
+(a) any system as defined in Article 2(a), governed by the law of a Member State and operating in any currency, the ecu or in various currencies which the system converts one against another; 
+(b) any participant in such a system; 
+(c) collateral security provided in connection with: 
+- participation in a system, or 
+- operations of the central banks of the Member States in their functions as central banks. 
+Article 2 
+For the purpose of this Directive: 
+(a) 'system` shall mean a formal arrangement: 
+- between three or more participants, without counting a possible settlement agent, a possible central counterparty, a possible clearing house or a possible indirect participant, with common rules and standardised arrangements for the execution of transfer orders between the participants, 
+- governed by the law of a Member State chosen by the participants; the participants may, however, only choose the law of a Member State in which at least one of them has its head office, and 
+- designated, without prejudice to other more stringent conditions of general application laid down by national law, as a system and notified to the Commission by the Member State whose law is applicable, after that Member State is satisfied as to the adequacy of the rules of the system. 
+Subject to the conditions in the first subparagraph, a Member State may designate as a system such a formal arrangement whose business consists of the execution of transfer orders as defined in the second indent of (i) and which to a limited extent executes orders relating to other financial instruments, when that Member State considers that such a designation is warranted on grounds of systemic risk. 
+A Member State may also on a case-by-case basis designate as a system such a formal arrangement between two participants, without counting a possible settlement agent, a possible central counterparty, a possible clearing house or a possible indirect participant, when that Member State considers that such a designation is warranted on grounds of systemic risk; 
+(b) 'institution` shall mean: 
+- a credit institution as defined in the first indent of Article 1 of Directive 77/780/EEC (5) including the institutions set out in the list in Article 2(2) thereof, or 
+- an investment firm as defined in point 2 of Article 1 of Directive 93/22/EEC (6) excluding the institutions set out in the list in Article 2(2)(a) to (k) thereof, or 
+- public authorities and publicly guaranteed undertakings, or 
+- any undertaking whose head office is outside the Community and whose functions correspond to those of the Community credit institutions or investment firms as defined in the first and second indent, 
+which participates in a system and which is responsible for discharging the financial obligations arising from transfer orders within that system. 
+If a system is supervised in accordance with national legislation and only executes transfer orders as defined in the second indent of (i), as well as payments resulting from such orders, a Member State may decide that undertakings which participate in such a system and which have responsibility for discharging the financial obligations arising from transfer orders within this system, can be considered institutions, provided that at least three participants of this system are covered by the categories referred to in the first subparagraph and that such a decision is warranted on grounds of systemic risk; 
+(c) 'central counterparty` shall mean an entity which is interposed between the institutions in a system and which acts as the exclusive counterparty of these institutions with regard to their transfer orders; 
+(d) 'settlement agent` shall mean an entity providing to institutions and/or a central counterparty participating in systems, settlement accounts through which transfer orders within such systems are settled and, as the case may be, extending credit to those institutions and/or central counterparties for settlement purposes; 
+(e) 'clearing house` shall mean an entity responsible for the calculation of the net positions of institutions, a possible central counterparty and/or a possible settlement agent; 
+(f) 'participant` shall mean an institution, a central counterparty, a settlement agent or a clearing house. 
+According to the rules of the system, the same participant may act as a central counterparty, a settlement agent or a clearing house or carry out part or all of these tasks. 
+A Member State may decide that for the purposes of this Directive an indirect participant may be considered a participant if it is warranted on the grounds of systemic risk and on condition that the indirect participant is known to the system; 
+(g) 'indirect participant` shall mean a credit institution as defined in the first indent of (b) with a contractual relationship with an institution participating in a system executing transfer orders as defined in the first indent of (i) which enables the abovementioned credit institution to pass transfer orders through the system; 
+(h) 'securities` shall mean all instruments referred to in section B of the Annex to Directive 93/22/EEC; 
+(i) 'transfer order` shall mean: 
+- any instruction by a participant to place at the disposal of a recipient an amount of money by means of a book entry on the accounts of a credit institution, a central bank or a settlement agent, or any instruction which results in the assumption or discharge of a payment obligation as defined by the rules of the system, or 
+- an instruction by a participant to transfer the title to, or interest in, a security or securities by means of a book entry on a register, or otherwise; 
+(j) 'insolvency proceedings` shall mean any collective measure provided for in the law of a Member State, or a third country, either to wind up the participant or to reorganise it, where such measure involves the suspending of, or imposing limitations on, transfers or payments; 
+(k) 'netting` shall mean the conversion into one net claim or one net obligation of claims and obligations resulting from transfer orders which a participant or participants either issue to, or receive from, one or more other participants with the result that only a net claim can be demanded or a net obligation be owed; 
+(l) 'settlement account` shall mean an account at a central bank, a settlement agent or a central counterparty used to hold funds and securities and to settle transactions between participants in a system; 
+(m) 'collateral security` shall mean all realisable assets provided under a pledge (including money provided under a pledge), a repurchase or similar agreement, or otherwise, for the purpose of securing rights and obligations potentially arising in connection with a system, or provided to central banks of the Member States or to the future European central bank. 
+SECTION II 
+NETTING AND TRANSFER ORDERS 
+Article 3 
+1. Transfer orders and netting shall be legally enforceable and, even in the event of insolvency proceedings against a participant, shall be binding on third parties, provided that transfer orders were entered into a system before the moment of opening of such insolvency proceedings as defined in Article 6(1). 
+Where, exceptionally, transfer orders are entered into a system after the moment of opening of insolvency proceedings and are carried out on the day of opening of such proceedings, they shall be legally enforceable and binding on third parties only if, after the time of settlement, the settlement agent, the central counterparty or the clearing house can prove that they were not aware, nor should have been aware, of the opening of such proceedings. 
+2. No law, regulation, rule or practice on the setting aside of contracts and transactions concluded before the moment of opening of insolvency proceedings, as defined in Article 6(1) shall lead to the unwinding of a netting. 
+3. The moment of entry of a transfer order into a system shall be defined by the rules of that system. If there are conditions laid down in the national law governing the system as to the moment of entry, the rules of that system must be in accordance with such conditions. 
+Article 4 
+Member States may provide that the opening of insolvency proceedings against a participant shall not prevent funds or securities available on the settlement account of that participant from being used to fulfil that participant's obligations in the system on the day of the opening of the insolvency proceedings. Furthermore, Member States may also provide that such a participant's credit facility connected to the system be used against available, existing collateral security to fulfil that participant's obligations in the system. 
+Article 5 
+A transfer order may not be revoked by a participant in a system, nor by a third party, from the moment defined by the rules of that system. 
+SECTION III 
+PROVISIONS CONCERNING INSOLVENCY PROCEEDINGS 
+Article 6 
+1. For the purpose of this Directive, the moment of opening of insolvency proceedings shall be the moment when the relevant judicial or administrative authority handed down its decision. 
+2. When a decision has been taken in accordance with paragraph 1, the relevant judicial or administrative authority shall immediately notify that decision to the appropriate authority chosen by its Member State. 
+3. The Member State referred to in paragraph 2 shall immediately notify other Member States. 
+Article 7 
+Insolvency proceedings shall not have retroactive effects on the rights and obligations of a participant arising from, or in connection with, its participation in a system earlier than the moment of opening of such proceedings as defined in Article 6(1). 
+Article 8 
+In the event of insolvency proceedings being opened against a participant in a system, the rights and obligations arising from, or in connection with, the participation of that participant shall be determined by the law governing that system. 
+SECTION IV 
+INSULATION OF THE RIGHTS OF HOLDERS OF COLLATERAL SECURITY FROM THE EFFECTS OF THE INSOLVENCY OF THE PROVIDER 
+Article 9 
+1. The rights of: 
+- a participant to collateral security provided to it in connection with a system, and 
+- central banks of the Member States or the future European central bank to collateral security provided to them, 
+shall not be affected by insolvency proceedings against the participant or counterparty to central banks of the Member States or the future European central bank which provided the collateral security. Such collateral security may be realised for the satisfaction of these rights. 
+2. Where securities (including rights in securities) are provided as collateral security to participants and/or central banks of the Member States or the future European central bank as described in paragraph 1, and their right (or that of any nominee, agent or third party acting on their behalf) with respect to the securities is legally recorded on a register, account or centralised deposit system located in a Member State, the determination of the rights of such entities as holders of collateral security in relation to those securities shall be governed by the law of that Member State. 
+SECTION V 
+FINAL PROVISIONS 
+Article 10 
+Member States shall specify the systems which are to be included in the scope of this Directive and shall notify them to the Commission and inform the Commission of the authorities they have chosen in accordance with Article 6(2). 
+The system shall indicate to the Member State whose law is applicable the participants in the system, including any possible indirect participants, as well as any change in them. 
+In addition to the indication provided for in the second subparagraph, Member States may impose supervision or authorisation requirements on systems which fall under their jurisdiction. 
+Anyone with a legitimate interest may require an institution to inform him of the systems in which it participates and to provide information about the main rules governing the functioning of those systems. 
+Article 11 
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 11 December 1999. They shall forthwith inform the Commission thereof. 
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States. 
+2. Member States shall communicate to the Commission the text of the provisions of domestic law which they adopt in the field governed by this Directive. In this Communication, Member States shall provide a table of correspondence showing the national provisions which exist or are introduced in respect of each Article of this Directive. 
+Article 12 
+No later than three years after the date mentioned in Article 11(1), the Commission shall present a report to the European Parliament and the Council on the application of this Directive, accompanied where appropriate by proposals for its revision. 
+Article 13 
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities. 
+Article 14 
+This Directive is addressed to the Member States. 
+Done at Brussels, 19 May 1998. 
+For the European Parliament 
+The President 
+J.M. GIL-ROBLES 
+For the Council 
+The President 
+G. BROWN 
+(1) OJ C 207, 18. 7. 1996, p. 13, and OJ C 259, 26. 8. 1997, p. 6. 
+(2) Opinion delivered on 21 November 1996. 
+(3) OJ C 56, 24. 2. 1997, p. 1. 
+(4) Opinion of the European Parliament of 9 April 1997 (OJ C 132, 28. 4. 1997, p. 74), Council Common Position of 13 October 1997 (OJ C 375, 10. 12. 1997, p. 34) and Decision of the European Parliament of 29 January 1998 (OJ C 56, 23. 2. 1998). Council Decision of 27 April 1998. 
+(5) First Council Directive 77/780/EEC of 12 December 1977 on the coordination of the laws, regulations and administrative provisions relating to the taking up and pursuit of the business of credit institutions (OJ L 322, 17. 12. 1977, p. 30). Directive as last amended by Directive 96/13/EC (OJ L 66, 16. 3. 1996, p. 15). 
+(6) Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities field (OJ L 141, 11. 6. 1993, p. 27). Directive as last amended by Directive 97/9/EC (OJ L 84, 26. 3. 1997, p. 22). 

@@ -1,0 +1,894 @@
+2006/66/CE: Decisi%oacute%n de la Comisi%oacute%n, de 23 de diciembre de 2005 , sobre la especificaci%oacute%n t%eacute%cnica de interoperabilidad referente al subsistema material rodante-ruido del sistema ferroviario transeuropeo convencional [notificada con el n%uacute%mero C(2005)5666] (Texto pertinente a efectos del EEE) 
+Decisión de la Comisión 
+de 23 de diciembre de 2005 
+sobre la especificación técnica de interoperabilidad referente al subsistema "material rodante-ruido" del sistema ferroviario transeuropeo convencional 
+[notificada con el número C(2005) 5666] 
+(Texto pertinente a efectos del EEE) 
+(2006/68/CE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Vista la Directiva 2001/16/CE del Parlamento Europeo y del Consejo, de 19 de marzo de 2001, relativa a la interoperabilidad del sistema ferroviario transeuropeo convencional [1], y, en particular, su artículo 6, apartado 1, 
+Considerando lo siguiente: 
+(1) De conformidad con lo dispuesto en el artículo 2, letra c), de la Directiva 2001/16/CE, el sistema ferroviario transeuropeo convencional está subdividido en subsistemas de carácter estructural y funcional. 
+(2) De conformidad con el artículo 23, apartado 1, de la Directiva, el subsistema "ruido" debe ser objeto de una especificación técnica de interoperabilidad (ETI). 
+(3) El primer paso para establecer esta especificación es que la Asociación Europea para la Interoperabilidad Ferroviaria (AEIF), que fue nombrada organismo común representativo, prepare un proyecto de ETI. 
+(4) La AEIF ha recibido el mandato de elaborar un proyecto de ETI para el subsistema "ruido" de conformidad con el artículo 6, apartado 1, de la Directiva. Los parámetros fundamentales para este proyecto de ETI fueron aprobados por la Decisión 2004/446/CE de la Comisión, de 29 de abril de 2004, por la que se especifican los parámetros fundamentales sobre ruido, vagones para el transporte de mercancías y aplicaciones telemáticas al servicio del transporte de mercancías para las especificaciones técnicas de interoperabilidad contempladas en la Directiva 2001/16/CE [2]. 
+(5) El proyecto de ETI preparado a partir de los parámetros fundamentales iba acompañado de un informe introductorio con el análisis coste-beneficio previsto en el artículo 6, apartado 5, de la Directiva. 
+(6) Este proyecto ha sido examinado, a la luz del informe introductorio, por el Comité creado en virtud del artículo 21 de la Directiva 96/48/CE del Consejo, de 23 de julio de 1996, sobre la interoperabilidad del sistema ferroviario transeuropeo de alta velocidad [3]. 
+(7) La Directiva 2001/16/CE y las ETI se aplican ciertamente a las renovaciones pero no a las sustituciones relacionadas con el mantenimiento. No obstante, se alienta a los Estados miembros a que apliquen las ETI a las renovaciones y sustituciones relacionadas con el mantenimiento, siempre que les sea posible y esté justificado por el ámbito del trabajo relacionado con el mantenimiento. 
+(8) La ETI sobre material rodante-ruido no debe obligar al uso de soluciones técnicas o tecnologías específicas excepto cuando sea estrictamente necesario para la interoperabilidad del sistema ferroviario transeuropeo convencional. 
+(9) La ETI se basa en los mejores conocimientos expertos disponibles en el momento de la elaboración del proyecto correspondiente. La evolución de los requisitos tecnológicos, operativos, sociales o de seguridad puede exigir la modificación o complementación de esta especificación. Cuando proceda, se iniciará, con arreglo al artículo 6, apartado 3, de la Directiva 2001/16/CE, un procedimiento de revisión o actualización. 
+(10) Para alentar la innovación e incorporar la experiencia adquirida, la ETI adjunta podría estar sujeta a revisión a intervalos regulares. Esta disposición se detalla en el capítulo 7 de la ETI. 
+(11) Actualmente se aplican al material rodante del ferrocarril convencional los acuerdos nacionales, bilaterales, multinacionales o internacionales en vigor. Es importante que estos acuerdos no dificulten los progresos actuales o futuros hacia la interoperabilidad. Con este fin, es necesario que la Comisión los examine con objeto de determinar si procede revisar la ETI que figura en el anexo. 
+(12) A fin de evitar cualquier confusión, es necesario dejar sentado que las disposiciones de la Decisión 2004/446/CE que afectan a los parámetros fundamentales del sistema ferroviario transeuropeo convencional no son ya aplicables. 
+(13) Las disposiciones de la presente Decisión se ajustan al dictamen emitido por el Comité establecido con arreglo al artículo 21de la Directiva 96/48/CE. 
+HA ADOPTADO LA PRESENTE DECISIÓN: 
+Artículo 1 
+La especificación técnica de interoperabilidad (en lo sucesivo denominada "ETI") referente al subsistema "ruido" del sistema ferroviario transeuropeo convencional mencionado en el artículo 6, apartado 1, de la Directiva 2001/16/CE será la que figura en el anexo de la presente Decisión. 
+La ETI será plenamente aplicable al material rodante del sistema ferroviario transeuropeo convencional definido en el anexo I de la Directiva 2001/16/CE. 
+Artículo 2 
+La ETI comprenderá una actuación en dos fases, según lo especificado en el capítulo 7 del anexo. Sin perjuicio del mecanismo de revisión regular establecido en el capítulo 7, la Comisión entregará al Comité creado en virtud del artículo 21 de la Directiva 96/48/CE, en un plazo de siete años a partir de la fecha en que sea aplicable la presente Decisión, un informe y, en su caso, una propuesta de revisión del punto 7.2 del anexo. 
+Artículo 3 
+Cuando los Estados miembros sean signatarios de acuerdos que impliquen obligaciones sobre límites de emisión de ruido, dichos Estados los notificarán a la Comisión en un plazo de seis meses a partir de la entrada en vigor de la presente Decisión. Los tipos de acuerdos que deberán notificarse son: 
+a) los acuerdos nacionales entre los Estados miembros y las empresas ferroviarias o los administradores de infraestructuras, suscritos con carácter permanente o temporal y requeridos por las características específicas o locales del servicio de transporte correspondiente; 
+b) los acuerdos bilaterales o multilaterales entre las empresas ferroviarias, los administradores de infraestructuras o las autoridades de seguridad que aporten niveles significativos de interoperabilidad regional o local; 
+c) los acuerdos internacionales entre uno o más Estados miembros y, al menos, un tercer país, o bien entre empresas ferroviarias o administradores de infraestructuras de Estados miembros y, al menos, una empresa ferroviaria o administrador de infraestructura de un tercer país que aporten niveles significativos de interoperabilidad regional o local. 
+Artículo 4 
+Las disposiciones de la Decisión 2004/446/CE que se refieren a los parámetros fundamentales del sistema ferroviario transeuropeo convencional dejarán de aplicarse a partir de la fecha en que sea aplicable la presente Decisión. 
+Artículo 5 
+La presente Decisión será aplicable a los seis meses de su fecha de notificación. 
+Artículo 6 
+Los destinatarios de la presente Decisión serán los Estados miembros. 
+Hecho en Bruselas, el 23 de diciembre de 2005. 
+Por la Comisión 
+Jacques Barrot 
+Vicepresidente 
+[1] DO L 110 de 20.4.2001, p. 1. Directiva modificada por la Directiva 2004/50/CE (DO L 164 de 30.4.2004, p. 114). Directiva corregida en el DO L 220 de 21.6.2004, p. 40. 
+[2] DO L 155 de 30.4.2004, p. 1. Decisión corregida en el DO L 193 de 1.6.2004, p. 1. 
+[3] DO L 235 de 17.9.1996, p. 6. Directiva modificada en último lugar por la Directiva 2004/50/CE. 
+-------------------------------------------------- 
+ANEXO 
+Especificación técnica de interoperabilidad referente al subsistema "material rodante-ruido" del sistema ferroviario transeuropeo convencional 
+1. INTRODUCCIÓN 
+1.1. ÁMBITO DE APLICACIÓN TÉCNICO 
+1.2. ÁMBITO GEOGRÁFICO 
+1.3. CONTENIDO DE LA PRESENTE ETI 
+2. DEFINICIÓN DEL SUBSISTEMA/ÁMBITO DE APLICACIÓN 
+2.1. DEFINICIÓN DEL SUBSISTEMA 
+2.2. INTERFACES DEL SUBSISTEMA 
+3. REQUISITOS ESENCIALES 
+3.1. GENERALIDADES 
+3.2. REQUISITOS ESENCIALES 
+3.3. REQUISITOS ESENCIALES GENERALES 
+3.3.1. Protección del medio ambiente 
+3.4. ASPECTOS RELATIVOS A LOS REQUISITOS ESENCIALES ESPECÍFICAMENTE APLICABLES AL SUBSISTEMA "MATERIAL RODANTE" 
+4. CARACTERIZACIÓN DEL SUBSISTEMA 
+4.1. INTRODUCCIÓN 
+4.2. ESPECIFICACIONES FUNCIONALES Y TÉCNICAS DEL SUBSISTEMA 
+4.2.1. Ruido emitido por los vagones de mercancías 
+4.2.1.1. Límites aplicables al ruido de paso 
+4.2.1.2. Límites aplicables al ruido estacionario 
+4.2.2. Ruido emitido por locomotoras, unidades acopladas y coches de pasajeros 
+4.2.2.1. Introducción 
+4.2.2.2. Límites aplicables al ruido estacionario 
+4.2.2.3. Límites aplicables al ruido de puesta en marcha 
+4.2.2.4. Límites aplicables al ruido de paso 
+4.2.3. Ruido interior de las locomotoras, unidades acopladas y remolques automotores 
+4.3. ESPECIFICACIONES FUNCIONALES Y TÉCNICAS DE LAS INTERFACES 
+4.3.1. Subsistema "Material rodante ferroviario convencional" 
+4.3.2. Subsistemas "Locomotoras", "Unidades acopladas" y "Vagones de pasajeros" 
+4.4. NORMAS DE FUNCIONAMIENTO 
+4.5. NORMAS DE MANTENIMIENTO 
+4.6. CUALIFICACIONES PROFESIONALES 
+4.7. CONDICIONES DE SALUD Y SEGURIDAD 
+4.8. REGISTROS DE INFRAESTRUCTURAS Y MATERIAL RODANTE 
+4.8.1. Registro de infraestructuras 
+4.8.2. Registro de material rodante 
+5. COMPONENTES DE INTEROPERABILIDAD 
+5.1. DEFINICIÓN 
+6. EVALUACIÓN DE CONFORMIDAD E IDONEIDAD DE LOS COMPONENTES Y VERIFICACIÓN DEL SUBSISTEMA 
+6.1. COMPONENTES DE INTEROPERABILIDAD 
+6.2. SUBSISTEMA "MATERIAL RODANTE" EN RELACIÓN CON EL RUIDO EMITIDO POR EL MATERIAL RODANTE 
+6.2.1. Procedimientos de evaluación 
+6.2.2. Módulos 
+6.2.3. Aspecto "Ruido" del subsistema "Material rodante" 
+7. EJECUCIÓN 
+7.1. GENERALIDADES 
+7.2. REVISIÓN DE LAS ETI 
+7.3. UN PROCESO EN DOS ETAPAS 
+7.4. PROGRAMA DE ADAPTACIÓN PARA LA REDUCCIÓN DEL RUIDO 
+7.5. APLICACIÓN DE LA PRESENTE ETI AL MATERIAL RODANTE NUEVO 
+7.5.1. Período transitorio para el ruido exterior 
+7.5.2. Ruido de puesta en marcha 
+7.5.3. Ruido en la cabina del conductor 
+7.5.4. Excepciones para acuerdos nacionales, bilaterales, multilaterales o multinacionales 
+7.5.4.1. Acuerdos existentes 
+7.5.4.2. Acuerdos futuros o modificación de acuerdos existentes 
+7.6. APLICACIÓN DE LA PRESENTE ETI AL MATERIAL RODANTE EXISTENTE 
+7.6.1. Renovación o acondicionamiento de los vagones de mercancías existentes 
+7.6.2. Renovación o acondicionamiento de locomotoras, unidades acopladas y coches de pasajeros 
+7.7. CASOS ESPECÍFICOS 
+7.7.1. Introducción 
+7.7.2. Lista de casos específicos 
+7.7.2.1. Límite para el ruido estacionario "de aplicación rigurosamente exclusiva en la red británica e irlandesa" 
+7.7.2.2. Finlandia 
+7.7.2.3. Límites del ruido de puesta en marcha "de aplicación rigurosamente exclusiva en la red británica e irlandesa" 
+7.7.2.4. Límites del ruido de paso de vagones de mercancías en Finlandia, Noruega, Estonia, Letonia y Lituania 
+7.7.2.5. Caso específico de Grecia 
+7.7.2.6. Caso específico de Estonia, Letonia y Lituania 
+ANEXO A CONDICIONES DE MEDICIÓN 
+A.1. DESVIACIONES DE LA NORMA PREN ISO 3095: 2001 
+A.1.1. RUIDO ESTACIONARIO 
+A.1.2. RUIDO DE PUESTA EN MARCHA 
+A.1.3. RUIDO DE PASO 
+A.1.4. VÍA DE REFERENCIA PARA EL RUIDO DE PASO 
+A.2. CARACTERIZACIÓN DEL COMPORTAMIENTO DINÁMICO DE LAS VÍAS DE REFERENCIA 
+A.2.1. PROCEDIMIENTO DE MEDICIÓN 
+A.2.2. SISTEMA DE MEDICIÓN 
+A.2.3. PROCESO DE DATOS 
+A.2.4. INFORME DE ENSAYO 
+ANEXO B MÓDULOS PARA LA VERIFICACIÓN "CE" DE SUBSISTEMAS: ASPECTO RUIDO 
+B.1. MÓDULO SB: EXAMEN DE TIPO 
+B.2. MÓDULO SD: SISTEMA DE GESTIÓN DE LA CALIDAD DE LA PRODUCCIÓN 
+B.3. MÓDULO SF: VERIFICACIÓN DEL PRODUCTO 
+B.4. MÓDULO SH2: SISTEMA DE GESTIÓN DE LA CALIDAD TOTAL CON EXAMEN DEL DISEÑO 
+SISTEMA FERROVIARIO TRANSEUROPEO CONVENCIONAL 
+Especificación técnica de interoperabilidad 
+Subsistema: Material rodante convencional 
+Ámbito de aplicación: Ruido 
+Aspecto: Ruido emitido por vagones de mercancías, locomotoras, unidades acopladas y coches de pasajeros 
+1. INTRODUCCIÓN 
+1.1. Ámbito de aplicación técnico 
+La presente ETI se refiere al subsistema "Material rodante" que aparece en el punto 1 del anexo II de la Directiva 2001/16/CE. 
+Para más información sobre el subsistema "Material rodante", véase el capítulo 2. 
+Esta ETI trata del ruido emitido por vagones de mercancías, locomotoras, unidades acopladas y coches de pasajeros. 
+1.2. Ámbito geográfico 
+El ámbito geográfico de aplicación de la presente ETI es el sistema ferroviario transeuropeo convencional descrito en el anexo I de la Directiva 2001/16/CE. 
+1.3. Contenido de la presente ETI 
+De conformidad con el artículo 5, apartado 3, de la Directiva 2001/16/CE, en esta ETI: 
+a) se define el ámbito de aplicación previsto (parte de la red o del material rodante mencionados en el anexo I de la Directiva y el subsistema o parte del subsistema mencionado en el anexo II de la Directiva) (capítulo 2); 
+b) se precisan los requisitos esenciales aplicables al subsistema en cuestión y sus interfaces con otros subsistemas (capítulo 3); 
+c) se establecen las especificaciones funcionales y técnicas que deben respetar el subsistema y sus interfaces respecto de otros subsistemas. En caso necesario, dichas especificaciones podrán diferir según el uso del subsistema, por ejemplo según las categorías de líneas, nudos o material rodante previstas en el anexo I de la Directiva (capítulo 4); 
+d) se determinan los componentes de interoperabilidad e interfaces que son objeto de especificaciones europeas, incluidas las normas europeas, que son necesarias para lograr la interoperabilidad del sistema ferroviario transeuropeo convencional (capítulo 5); 
+e) se indican, en cada uno de los casos previstos, los procedimientos de evaluación de la conformidad o de la idoneidad para el uso. Esto implica, en particular, los módulos definidos en la Decisión 93/465/CEE o, en su caso, los procedimientos específicos que deberán utilizarse para evaluar la conformidad o la idoneidad de los componentes de interoperabilidad, así como la verificación "CE" de los subsistemas (capítulo 6); 
+f) se indica la estrategia de aplicación de la ETI. En concreto, es necesario especificar las etapas que deben franquearse para pasar gradualmente de la situación existente a la situación final, en la cual se habrá generalizado el cumplimiento de la ETI (capítulo 7); 
+g) se indican, para el personal afectado, las condiciones de cualificación profesional y de seguridad e higiene en el trabajo requeridas para la explotación y el mantenimiento del subsistema en cuestión, así como para la puesta en práctica de la ETI (capítulo 4). 
+Además, en virtud del artículo 5, apartado 5, en cada ETI podrán preverse casos específicos, recogidos en el capítulo 7. 
+Por último, esta ETI también comprende, en el capítulo 4, las normas de explotación y mantenimiento específicas del ámbito de aplicación indicado en los puntos 1.1 y 1.2. 
+2. DEFINICIÓN DEL SUBSISTEMA/ÁMBITO DE APLICACIÓN 
+2.1. Definición del subsistema 
+El material rodante objeto de la presente ETI engloba las locomotoras, las unidades acopladas, los vagones de mercancías y los de pasajeros que pueden circular por la totalidad o parte de la red ferroviaria transeuropea convencional. Dentro de los vagones de mercancías se incluye el material rodante destinado al transporte de camiones. 
+Este material rodante incluye el destinado a un uso internacional y el destinado a un uso nacional (específico) exclusivamente, teniendo debidamente en cuenta el uso local, regional o de largo recorrido del material rodante. 
+La ETI relativa al ruido del subsistema "Material rodante" incluye límites para el ruido estacionario, el ruido de puesta en marcha, el ruido de paso y el ruido interior en la cabina del conductor que emita el material rodante convencional. 
+2.2. Interfaces del subsistema 
+La presente ETI "Ruido" tiene interfaces con: 
+- - ruido de paso, 
+- ruido estacionario, 
+- - ruido estacionario, 
+- ruido de puesta en marcha, 
+- ruido de paso, 
+- ruido interior en la cabina del conductor, en su caso. 
+3. REQUISITOS ESENCIALES 
+3.1. Generalidades 
+En el ámbito de aplicación de la presente ETI, el cumplimiento de los requisitos esenciales señalados en el capítulo 3 se garantizará mediante la conformidad con las especificaciones descritas en el capítulo 4 relativas al subsistema, demostrada por el resultado positivo de la evaluación de la verificación del subsistema, según se describe en el capítulo 6. 
+No obstante, si una parte de los requisitos esenciales se recoge en la normativa nacional por alguno de los siguientes motivos: 
+- aspectos abiertos y reservados declarados en la ETI, 
+- excepciones en virtud del artículo 7 de la Directiva 2001/16/CE, 
+- casos concretos descritos en el punto 7.6 de la presente ETI, 
+la correspondiente evaluación de la conformidad se realizará de acuerdo con procedimientos establecidos bajo la responsabilidad del Estado miembro afectado. 
+En virtud del artículo 4, apartado 1, de la Directiva 2001/16/CE, el sistema ferroviario transeuropeo convencional, los subsistemas y los componentes de interoperabilidad, incluidas las interfaces, deberán cumplir los requisitos esenciales definidos en el anexo III de la Directiva. 
+3.2. Requisitos esenciales 
+Los requisitos esenciales se refieren a los siguientes aspectos: 
+- seguridad, 
+- fiabilidad y disponibilidad, 
+- salud, 
+- protección del medio ambiente, 
+- compatibilidad técnica. 
+Estos requisitos pueden ser generales y específicos de cada subsistema. 
+3.3. Requisitos esenciales generales 
+3.3.1. Protección del medio ambiente 
+Requisito esencial 1.4.4 del anexo III de la Directiva 2001/16/CE: la explotación del sistema ferroviario transeuropeo convencional debe respetar los niveles reglamentarios en materia de molestias sonoras. 
+Por lo que respecta al subsistema "Material rodante" en relación con el ruido emitido por el material rodante, este requisito esencial se aborda en las especificaciones de los siguientes subapartados: 
+- ruido de paso (parámetros básicos 4.2.1.1 y 4.2.2.4), 
+- ruido estacionario (parámetros básicos 4.2.1.2 y 4.2.2.2), 
+- ruido de puesta en marcha (parámetro básico 4.2.1.3), 
+- ruido interior de locomotoras, unidades acopladas y remolques automotores (parámetro básico 4.2.3). 
+3.4. Aspectos relativos a los requisitos esenciales específicamente aplicables al subsistema "Material rodante" 
+Los requisitos esenciales específicos del subsistema "Material rodante" no son pertinentes por lo que respecta al ruido emitido por el material rodante. 
+4. CARACTERIZACIÓN DEL SUBSISTEMA 
+4.1. Introducción 
+El sistema ferroviario transeuropeo convencional (al que se aplica la Directiva 2001/16/CE y del cual forma parte el subsistema "Material rodante") es un sistema integrado cuya coherencia debe verificarse. Esta coherencia debe verificarse, en particular, con respecto a las especificaciones del subsistema y sus interfaces con el sistema en el que está integrado, así como a las normas de explotación y mantenimiento. 
+Teniendo en cuenta todos los requisitos esenciales aplicables, en el presente capítulo 4 se caracteriza el subsistema "Material rodante" en relación con el ruido emitido por el material rodante. 
+Esta ETI es aplicable a los vehículos nuevos y al material rodante renovado o acondicionado, si así lo exigen las disposiciones del punto 7.2. 
+El punto 4.2 de la presente ETI sólo será aplicable a la puesta en servicio de material rodante en virtud del artículo 14, apartados 1 o 3, de la Directiva 2001/16/CE. 
+4.2. Especificaciones funcionales y técnicas del subsistema 
+De acuerdo con los requisitos esenciales del capítulo 3, las especificaciones funcionales y técnicas del subsistema "Material rodante" en relación con el ruido emitido por el material rodante son las siguientes: 
+- ruido estacionario (parámetros básicos 4.2.1.2 y 4.2.2.2), 
+- ruido de puesta en marcha (parámetro básico 4.2.2.3), 
+- ruido de paso (parámetros básicos 4.2.1.1 y 4.2.2.4), 
+- ruido interior de locomotoras, unidades acopladas y remolques automotores (parámetro básico 4.2.3). 
+Las máquinas de mantenimiento de infraestructuras han de considerarse locomotoras durante los recorridos de transferencia, pero no han de cumplir la presente ETI en funcionamiento. 
+4.2.1. Ruido emitido por los vagones de mercancías 
+El ruido emitido por los vagones de mercancías se subdivide en ruido de paso y ruido estacionario. 
+El ruido de paso de los vagones de mercancías viene determinado en gran parte por el ruido de rodadura (ruido producido por el contacto entre ruedas y carriles), que depende de la velocidad. 
+El ruido de rodadura se produce, a su vez, debido a la irregularidad combinada de ruedas y carriles y al comportamiento dinámico de la vía y de los ejes montados. 
+El ruido de paso se caracteriza por el siguiente conjunto de parámetros: 
+- nivel de presión acústica, de acuerdo con un método de medición definido, 
+- posición del micrófono, 
+- velocidad del vagón, 
+- irregularidad del carril, 
+- comportamiento dinámico y de radiación de la vía. 
+El ruido estacionario de los vagones de mercancías sólo será pertinente si el vagón está equipado con dispositivos auxiliares, como motores, generadores o sistemas de refrigeración. Fundamentalmente ocurre en vagones refrigerados. 
+El ruido estacionario se caracteriza por el siguiente conjunto de parámetros: 
+- nivel de presión acústica, de acuerdo con un método de medición definido y la posición del micrófono, 
+- condiciones de funcionamiento. 
+4.2.1.1. Límites aplicables al ruido de paso 
+El indicador del ruido de paso será el nivel de presión acústica continua equivalente LpAeq, Tp ponderado por A, medido durante el tiempo de paso a una distancia de 7,5 m de la línea central de la vía, 1,2 m por encima de la cota de cabeza del carril. Las mediciones se realizarán con arreglo a la norma prEN ISO 3095: 2001, excepto que la vía de referencia deberá cumplir las condiciones establecidas en el anexo A.1.4. La vía de referencia deberá estar disponible de forma no discriminatoria. 
+Los valores límite LpAeq, Tp para el ruido de paso de los vagones de mercancías en las condiciones antes mencionadas figuran en el cuadro 1. 
+Cuadro 1 
+Valores límite LpAeq, Tp aplicables al ruido de paso de vagones de mercancías 
+Vagones | LpAeq, Tp | 
+Vagones nuevos con un número medio de ejes por unidad de longitud (APL) de hasta 0,15 m-1 a 80 km/h | %lt% = 82 dB(A) | 
+Vagones renovados o acondicionados en virtud del artículo 14, apartado 3, de la Directiva 2001/16/CE con un número medio de ejes por unidad de longitud (APL) de hasta 0,15 m-1 a 80 km/h | %lt% = 84 dB(A) | 
+Vagones nuevos con un número medio de ejes por unidad de longitud (APL) superior a 0,15 m-1 y de hasta 0,275 m-1 a 80 km/h | %lt% = 83 dB(A) | 
+Vagones renovados o acondicionados en virtud del artículo 14, apartado 3, de la Directiva 2001/16/CE con un número medio de ejes por unidad de longitud (APL) superior a 0,15 m-1 y de hasta 0,275 m-1 a 80 km/h | %lt% = 85 dB(A) | 
+Vagones nuevos con un número medio de ejes por unidad de longitud (APL) superior a 0,275 m-1 a 80 km/h | %lt% = 85 dB(A) | 
+Vagones renovados o acondicionados en virtud del artículo 14, apartado 3, de la Directiva 2001/16/CE con un número medio de ejes por unidad de longitud (APL) superior a 0,275 m-1 a 80 km/h | %lt% = 87 dB(A) | 
+APL es el número de ejes dividido por la longitud entre topes. 
+El ruido de paso de un tren se medirá a 80 km/h y a velocidad máxima, pero a menos de 190 km/h. Los valores que se compararán con los límites (véase el cuadro 1) serán el valor máximo medido a 80 km/h y el valor medido a velocidad máxima, pero referido a una velocidad de 80 km/h mediante la ecuación LpAeq, Tp(80 km/h) = LpAeq, Tp(v)–30*log (v/80 km/h). No se tomarán en consideración las demás velocidades mencionadas en la norma prEN ISO 3095: 2001. 
+4.2.1.2. Límites aplicables al ruido estacionario 
+El ruido estacionario se define por el nivel de presión acústica continuo equivalente LpAeq, T ponderado por A, con arreglo al capítulo 7.5 de la norma prEN ISO 3095: 2001, con las desviaciones definidas en el anexo A. El cuadro 2 recoge el valor límite aplicable al ruido estacionario de los vagones de mercancías a una distancia de 7,5 m de la línea central de la vía y 1,2 m por encima de la cota de cabeza del carril. El indicador de la presión acústica será LpAeq, T. 
+Cuadro 2 
+Valor límite LpAeq, T aplicable al ruido estacionario de vagones de mercancías 
+Vagones | LpAeq, T | 
+Todos los vagones de mercancías | %lt% = 65 dB(A) | 
+El nivel especificado de ruido estacionario es la media energética de todos los valores medidos en los puntos de medición definidos en el anexo A.1.1 de la presente ETI. 
+4.2.2. Ruido emitido por locomotoras, unidades acopladas y coches de pasajeros 
+4.2.2.1. Introducción 
+El ruido emitido por las locomotoras, unidades acopladas y coches de pasajeros se subdivide en ruido estacionario, ruido de puesta en marcha y ruido de paso. Asimismo, se considerará el ruido interior de la cabina del conductor. 
+El ruido estacionario viene determinado, en gran medida, por los sistemas auxiliares, como los sistemas de refrigeración, aire acondicionado y compresores. 
+El ruido de puesta en marcha combina aportaciones de componentes de tracción como los motores diésel y de los ventiladores de refrigeración, de los sistemas auxiliares y, a veces, del patinaje de las ruedas. 
+El ruido de paso viene determinado, en gran medida, por el ruido de rodadura relacionado con la interacción entre las ruedas y el carril, que depende de la velocidad del vehículo. 
+El ruido de rodadura se produce, a su vez, debido a la irregularidad combinada de ruedas y carriles y al comportamiento dinámico de la vía y de los ejes de ruedas. 
+A menor velocidad, el ruido de los sistemas auxiliares y de los equipos de tracción también es significativo. 
+El nivel de ruido emitido se caracteriza por los siguientes parámetros: 
+- nivel de presión acústica, de acuerdo con un método de medición definido, 
+- posición del micrófono, 
+- velocidad del vagón, 
+- irregularidad del carril, 
+- comportamiento dinámico y de radiación de la vía. 
+El ruido estacionario se caracteriza por el siguiente conjunto de parámetros: 
+- nivel de presión acústica, de acuerdo con un método de medición definido y la posición del micrófono, 
+- condiciones de funcionamiento. 
+Las unidades acopladas son composiciones fijas con tracción distribuida o con uno o más motrices o coches motorizados. Las unidades acopladas con tracción eléctrica se identificarán con las siglas "EMU" (Electrical Multiple Unit) y las provistas de tracción diésel con las siglas "DMU" (Diesel Multiple Unit). En el presente documento, el término "diésel" o "locomotoras diésel" hará referencia a todas las locomotoras térmicas utilizadas para el arrastre de vagones. Los trenes de composición indeformable constituidos por dos locomotoras y coches de pasajeros no se considerarán unidades acopladas si las locomotoras pueden funcionar en diferentes configuraciones de trenes. 
+4.2.2.2. Límites aplicables al ruido estacionario 
+Los límites aplicables al ruido estacionario se definirán a una distancia de 7,5 m de la línea central de la vía, 1,2 m por encima de la cota de cabeza del carril. Las condiciones de medición serán las definidas en la norma prEN ISO 3095: 2001 con las desviaciones que figuran en el anexo A. El indicador de la presión acústica será LpAeq, T. Los valores límite de la emisión de ruido de los vehículos en las condiciones antes mencionadas figuran en el cuadro 3. 
+Cuadro 3 
+Valores límite LpAeq, T aplicables al ruido estacionario de locomotoras eléctricas y diésel, EMU, DMU y coches de pasajeros 
+Vehículo | LpAeq, T | 
+Locomotoras eléctricas | 75 | 
+Locomotoras diésel | 75 | 
+EMU | 68 | 
+DMU | 73 | 
+Vagones de pasajeros | 65 | 
+El nivel especificado de ruido estacionario es la media energética de todos los valores medidos en los puntos de medición definidos en el anexo A.1.1 de la presente ETI. 
+4.2.2.3. Límites aplicables al ruido de puesta en marcha 
+Los límites aplicables al ruido de puesta en marcha se definirán a una distancia de 7,5 m de la línea central de la vía, 1,2 m por encima de la cota de cabeza del carril. Las condiciones de medición serán las definidas en la norma prEN ISO 3095: 2001 con las desviaciones que figuran en el anexo A.1.2. El indicador de nivel acústico será LpAFmax. Los valores límite aplicables al ruido de puesta en marcha de los vehículos en las condiciones antes mencionadas figuran en el cuadro 4. 
+Cuadro 4 
+Valores límite LpAFmax aplicables al ruido de puesta en marcha de las locomotoras eléctricas y diésel, EMU y DMU 
+Vehículo | LpAFmax | 
+Locomotoras eléctricas P %lt% 4500 kW en la llanta | 82 | 
+Locomotoras eléctricas P %gt%/= 4500 kW en la llanta | 85 | 
+Locomotoras diésel P %lt% 2000 kW en el eje | 86 | 
+Locomotoras diésel P %gt%/= 2000 kW en el eje | 89 | 
+EMU | 82 | 
+DMU P %lt% 500 kW/motor | 83 | 
+DMU P %gt%/= 500 kW/motor | 85 | 
+4.2.2.4. Límites aplicables al ruido de paso 
+Los límites aplicables al ruido de paso se definirán a una distancia de 7,5 m de la línea central de la vía, 1,2 m por encima de la cota de cabeza del carril para una velocidad del vehículo de 80 km/h. El indicador del nivel acústico continuo equivalente ponderado por A es LpAeq, Tp. 
+Las mediciones se realizarán con arreglo a la norma prEN ISO 3095: 2001, con las desviaciones especificadas en el anexo A.1.3 y A.1.4. La vía de referencia deberá ser fácilmente accesible. 
+El ruido de paso de un tren se medirá a 80 km/h y a velocidad máxima, pero a menos de 190 km/h. No se tomarán en consideración las demás velocidades mencionadas en la norma prEN ISO 3095: 2001. El valor que se comparará con los límites (véase el cuadro 5) será el valor máximo medido a 80 km/h y el valor medido a velocidad máxima, pero normalizado a una velocidad de 80 km/h mediante la siguiente ecuación: 
+LpAeq, Tp(80 km/h) = LpAeq, Tp(v)–30*log (v/80 km/h). 
+Los valores límite aplicables a la emisión de ruido de las locomotoras eléctricas y diésel, EMU, DMU y coches de pasajeros en las condiciones antes mencionadas figuran en el cuadro 5. 
+Cuadro 5 
+Valores límite LpAeq, Tp aplicables al ruido de paso de las locomotoras eléctricas y diésel, EMU, DMU y coches de pasajeros 
+Vehículo | LpAeq, Tp @ 7,5 m | 
+Locomotoras eléctricas | 85 | 
+Locomotoras diésel | 85 | 
+EMU | 81 | 
+DMU | 82 | 
+Vagones de pasajeros | 80 | 
+4.2.3. Ruido interior de las locomotoras, unidades acopladas y remolques automotores 
+El nivel de ruido en el interior de los vehículos de pasajeros no se considera un parámetro básico. Sin embargo, el nivel de ruido en la cabina del conductor es un aspecto importante. Los niveles de ruido en la cabina deberán mantenerse lo más bajos posible, limitando el ruido en origen y adoptando las medidas adicionales apropiadas (aislamiento acústico o absorción de sonido). Los valores límite se definen en el cuadro 6. 
+Cuadro 6 
+Valores límite LpAeq, T aplicables al ruido en la cabina del conductor de locomotoras eléctricas y diésel, EMU, DMU y remolques automotores 
+Ruido en la cabina del conductor | LpAeq, T | Intervalo de medición T | 
+En reposo [durante un aviso acústico externo con la máxima presión acústica de la bocina, pero inferior a 125 dB(A) hasta 5 m por delante del vehículo y 1,6 m por encima de la cabeza del carril] | 95 | 3 s | 
+Velocidad máxima, aplicable para velocidades inferiores a 190 km/h (en campo abierto sin avisos interiores ni exteriores) | 78 | 1 min | 
+Las mediciones se realizarán en las siguientes condiciones: 
+- puertas y ventanas cerradas, 
+- las cargas transportadas deben ser iguales, como mínimo, a las dos terceras partes del valor máximo admisible. 
+En las mediciones a máxima velocidad, el micrófono se colocará al nivel del oído del conductor sentado, en el centro del plano horizontal que va desde la luna del parabrisas hasta la pared posterior de la cabina. 
+Para las mediciones de impacto de la bocina, se instalará el micrófono en 8 posiciones equidistantes entre sí alrededor de la posición de la cabeza del conductor sentado, con un radio de 25 cm, en un plano horizontal. La media aritmética de los 8 valores se comparará con el límite. 
+Los valores de este cuadro son aplicables a la cabina del conductor. En todo caso, las empresas ferroviarias y su personal deberán aplicar la Directiva 2003/10/CE del Parlamento Europeo y del Consejo, de 6 de febrero de 2003, sobre las disposiciones mínimas de seguridad y de salud relativas a la exposición de los trabajadores a los riesgos derivados de los agentes físicos (ruido), pero el cumplimiento de esta Directiva no afecta a la verificación "CE" del material rodante con cabina de conductor. 
+4.3. Especificaciones funcionales y técnicas de las interfaces 
+4.3.1. subsistema "Material rodante ferroviario convencional" 
+Los límites aplicados por la presente ETI al ruido emitido por los vagones de mercancías se tendrán en cuenta como parámetro de diseño en el punto 4.2.4 (Frenado) y en el marco de la aprobación del subsistema en el punto 6.2 (Subsistema "Vagones de mercancías del material rodante ferroviario convencional") de la ETI "Material rodante ferroviario convencional". 
+4.3.2. Subsistemas "Locomotoras", "Unidades acopladas" y "Vagones de pasajeros" 
+Estas ETI no existen todavía. Con respecto al ruido emitido por locomotoras, unidades acopladas y coches de pasajeros, su diseño ha de ajustarse a los límites especificados en el capítulo 4 (Caracterización del subsistema) de estas ETI. 
+4.4. Normas de funcionamiento 
+De acuerdo con los requisitos esenciales del capítulo 3, no hay normas de explotación específicamente aplicables al subsistema "Material rodante" en relación con el ruido emitido por el material rodante. 
+4.5. Normas de mantenimiento 
+- Parámetros de contacto rueda/carril (perfil de la rueda). 
+- Defectos de las ruedas (planos, defectos de circularidad). 
+Véase el expediente de mantenimiento especificado en el punto 4.2.8 de la ETI "Material rodante ferroviario convencional". 
+4.6. Cualificaciones profesionales 
+No existen requisitos adicionales a la legislación europea vigente ni a las normas nacionales compatibles con la legislación europea sobre cualificaciones profesionales. 
+4.7. Condiciones de salud y seguridad 
+La Directiva 2003/10/CE (decimoséptima Directiva específica con arreglo al artículo 16, apartado 1, de la Directiva 89/391/CEE) recoge en su artículo 3 los valores inferiores de exposición que dan lugar a una acción y que se cumplen con los actuales límites de ruido interior en la cabina del conductor: 
+- en lo que respecta a los valores pico, 
+- y, con carácter general, en lo que respecta a los valores promedio, en condiciones de explotación estándar. 
+4.8. Registros de infraestructuras y material rodante 
+4.8.1. Registro de infraestructuras 
+No aplicable a la presente ETI. 
+4.8.2. Registro de material rodante 
+Por lo que respecta al subsistema "Material rodante" en relación con el ruido emitido por el material rodante, se incluirá la siguiente información en el registro de material rodante: 
+- ruido de paso (parámetros básicos 4.2.1.1 y 4.2.2.4), 
+- ruido estacionario (parámetros básicos 4.2.1.2 y 4.2.2.2), 
+- ruido de puesta en marcha (parámetros básicos 4.2.2.3), 
+- ruido interior en la cabina del conductor. 
+5. COMPONENTES DE INTEROPERABILIDAD 
+5.1. Definición 
+De acuerdo con el artículo 2, letra d), de la Directiva 2001/16/CE, los componentes de interoperabilidad son "todo componente elemental, grupo de componentes, subconjunto o conjunto completo de materiales incorporados o destinados a ser incorporados en un subsistema, de los que dependa directa o indirectamente la interoperabilidad del sistema ferroviario transeuropeo convencional. El concepto de "componente" engloba no sólo objetos materiales, sino también inmateriales, como los programas informáticos.". 
+En la presente ETI no se especifica ningún componente de interoperabilidad. 
+6. EVALUACIÓN DE CONFORMIDAD E IDONEIDAD DE LOS COMPONENTES Y VERIFICACIÓN DEL SUBSISTEMA 
+6.1. Componentes de interoperabilidad 
+No procede. 
+6.2. Subsistema "Material rodante" en relación con el ruido emitido por el material rodante 
+6.2.1. Procedimientos de evaluación 
+A petición de la entidad contratante o de su mandatario establecido en la Comunidad, el organismo notificado tramitará la verificación "CE" con arreglo al anexo VI de la Directiva 2001/16/CE. 
+La entidad contratante deberá redactar la declaración "CE" de verificación para el subsistema "Material rodante", incluido el aspecto del ruido, de conformidad con el artículo 18, apartado 1, y el anexo V de la Directiva 2001/16/CE . 
+6.2.2. Módulos 
+Para el procedimiento de verificación de los requisitos relativos al ruido, especificados en el capítulo 4, la entidad contratante o su mandatario establecido en la Comunidad podrán elegir los siguientes módulos: 
+- - ya sea el procedimiento del sistema de gestión de la calidad de la producción (módulo SD), 
+- o el procedimiento de verificación de producto (módulo SF), 
+- o bien el sistema de gestión de la calidad total con procedimiento de examen de diseño (módulo SH2). 
+Estos módulos están descritos en el anexo B de la presente ETI. 
+La evaluación de conformidad de los requisitos de ruido de los vagones de mercancías podrá llevarse a cabo al mismo tiempo que los procedimientos de verificación de los demás requisitos de dichos vagones, que están especificados en la ETI de material rodante ferroviario convencional. 
+El módulo SD sólo podrá elegirse cuando la entidad contratante o los contratistas principales, en su caso, dispongan de un sistema de gestión de la calidad aplicado a la fabricación, la inspección y el ensayo final del producto, aprobado y supervisado por un organismo notificado de su elección. 
+El módulo SH2 sólo podrá elegirse cuando la entidad contratante o los contratistas principales, en su caso, dispongan de un sistema de gestión de la calidad aplicado al diseño, la fabricación, la inspección y el ensayo final de la producción, aprobado y supervisado por un organismo notificado de su elección. 
+Para el uso de los módulos se tendrán en cuenta los siguientes datos complementarios: 
+- fase de diseño: módulo SB, con referencia al punto 4.3 del módulo, se exige una revisión del diseño, 
+- fase de producción: la aplicación de los módulos SD, SF y SH2 a la fase de producción habilitará la conformidad de los vehículos con el tipo aprobado descrito en el certificado de examen de tipo. En particular, dicha aplicación demostrará que la fabricación y el montaje se realizan con los mismos componentes y las mismas soluciones técnicas que el tipo aprobado. 
+6.2.3. Aspecto "Ruido" del subsistema "Material rodante" 
+En relación con el subsistema "Material rodante", en el aspecto "Ruido emitido por vagones de mercancías, locomotoras, unidades acopladas y coches de pasajeros", la verificación se basa en este capítulo. 
+Procedimientos para la verificación "CE": anexo A de la presente ETI. 
+Lista de especificaciones, descripción de los procedimientos de ensayo: 
+- A1. Condiciones de medición, desviaciones de la norma prEN ISO 3095: 2001, 
+- A1.1. Ruido estacionario, 
+- A1.2. Ruido de puesta en marcha, 
+- A1.3. Ruido de paso, 
+- A1.4. Vía de referencia para el ruido de paso. 
+7. EJECUCIÓN 
+7.1. Generalidades 
+Al ejecutar las ETI hay que tener en cuenta la migración general de la red ferroviaria convencional hacia la plena interoperabilidad. 
+A fin de facilitar esta migración, las ETI permiten una aplicación gradual y escalonada y una puesta en práctica coordinada con otras ETI. 
+7.2. Revisión de las ETI 
+De conformidad con el artículo 6, apartado 3, de la Directiva 2001/16/CE, modificada por la Directiva 2004/50/CE, la Agencia deberá preparar la revisión y actualización de las ETI y formular recomendaciones oportunas al Comité contemplado en el artículo 21 de la Directiva con objeto de tener en cuenta la evolución tecnológica o exigencias sociales. Además, la progresiva adopción y revisión de otras ETI también podrá afectar a la presente ETI. Las propuestas de modificación de la presente ETI serán objeto de una revisión rigurosa y las ETI actualizadas se publicarán con una periodicidad indicativa de tres años. 
+En cualquier caso, la CE presentará un informe al Comité del artículo 21 en un plazo máximo de siete años a partir de la fecha de entrada en vigor de la presente ETI y, si procede, una propuesta de revisión de la presente ETI en relación con los siguientes aspectos: 
+1) la evaluación de la puesta en práctica de la ETI y, en particular, de sus costes y beneficios; 
+2) el uso de una curva continua de valores límite LpAeq, Tp del ruido de paso de los vagones de mercancías en función de los APL (ejes por unidad de longitud), siempre que ello no impida la innovación técnica, en particular para ramas de vagones; 
+3) la segunda etapa para los límites del ruido de paso de vagones de mercancías, locomotoras, unidades acopladas y coches de pasajeros (véase el punto 7.2), de acuerdo con los resultados de campañas de mediciones precisas de ruido, teniendo en cuenta en particular los avances técnicos y las tecnologías disponibles para la vía y el material rodante y los análisis de coste-beneficio; 
+4) eventualmente, una segunda etapa para los valores límite del ruido de puesta en marcha para locomotoras diésel y unidades acopladas; 
+5) la inclusión de la infraestructura en el ámbito de aplicación de la ETI "Ruido", en coordinación con la ETI "Infraestructura"; 
+6) la inclusión en la ETI de un sistema de supervisión de los defectos de las ruedas, ya que afectan a las emisiones acústicas. 
+7.3. Un proceso en dos etapas 
+Se recomienda que, en caso de realizarse un pedido de material rodante nuevo diez años después de la entrada en vigor de la presente ETI o de proceder a su puesta en servicio 12 años después de la entrada en vigor de la presente ETI, los puntos 4.2.1.1 y 4.2.2.4 de la ETI se apliquen con una reducción de 5 dB(A), salvo en las DMU y EMU. En estos dos últimos casos, la reducción será de 2 dB(A). Esta recomendación servirá únicamente de base para la revisión de los puntos 4.2.1.1 y 4.2.2.4 en el contexto del proceso de revisión de las ETI mencionado en el punto 7.2. 
+7.4. Programa de adaptación para la reducción del ruido 
+Dada la larga vida útil de los vehículos ferroviarios, también es necesario tomar medidas con respecto a la flota de material rodante ya existente, prioritariamente los vagones de mercancías, a fin de promover una reducción notable del nivel de ruido percibido en un período de tiempo razonable. La Comisión tomará iniciativas para debatir las posibilidades de adaptación de los vagones de mercancías con las partes interesadas correspondientes, a fin de llegar a un acuerdo general con el sector. 
+7.5. Aplicación de la presente ETI al material rodante nuevo 
+Las especificaciones recogidas en la presente ETI se aplican a todo el material rodante nuevo en el ámbito de la presente ETI. 
+En el caso de los vagones nuevos también deberá aplicarse la ETI "Material rodante ferroviario convencional" en todos sus términos. 
+7.5.1. Período transitorio para el ruido exterior 
+Durante un período transitorio de 24 meses a partir de la fecha de entrada en vigor de la presente ETI, está permitido aplicar valores límite que superen en 2 dB(A) los establecidos en los capítulos 4 y 7 de la presente ETI para el ruido exterior de las locomotoras eléctricas, locomotoras diésel, EMU, DMU y coches de pasajeros. Este permiso se limita a los siguientes casos: 
+- contratos que ya estén firmados o se hallen en la fase final del procedimiento de licitación en la fecha de entrada en vigor de la presente ETI, y opciones a tales contratos para la compra de vehículos adicionales, o 
+- contratos para la compra de material rodante nuevo, de un tipo de diseño ya existente, que se firmen durante este período transitorio. 
+7.5.2. Ruido de puesta en marcha 
+Los valores límite aplicables al ruido de puesta en marcha podrán incrementarse en 2 dB(A) para todas las DMU con una potencia superior a 500 kW por motor que entren en servicio durante un período transitorio de cinco años a partir de la fecha de entrada en vigor de la presente ETI. Este incremento no es acumulable a los 2 dB(A) del punto 7.5.1. 
+7.5.3. Ruido en la cabina del conductor 
+Se admite que el nivel de ruido en las cabinas de diseño nuevo o antiguo en estado parado cuando suene la bocina de aviso exterior pueda ser 2 dB(A) más elevado durante los tres primeros años desde la fecha de entrada en vigor de la presente ETI. Esto afecta a los siguientes casos: 
+- contratos que ya estén firmados o se hallen en la fase final del procedimiento de licitación en la fecha de entrada en vigor de la presente ETI, y opciones a tales contratos para la compra de vehículos adicionales, o 
+- contratos para la compra de material rodante nuevo, de un tipo de diseño ya existente, que se firmen durante este período transitorio. 
+7.5.4. Excepciones para acuerdos nacionales, bilaterales, multilaterales o multinacionales 
+7.5.4.1. Acuerdos existentes 
+Cuando estén vigentes acuerdos que contengan requisitos en materia de ruido, los Estados miembros notificarán a la Comisión, en el plazo de seis meses a partir de la entrada en vigor de la presente ETI, los siguientes acuerdos en virtud de los cuales operen vagones de mercancías, locomotoras, DMU, EMU y coches de pasajeros, relativos al ámbito de aplicación de la ETI: 
+a) acuerdos nacionales, bilaterales o multilaterales entre Estados miembros y empresas ferroviarias o administradores de infraestructuras, adoptados con carácter permanente o temporal y que sean necesarios debido a la naturaleza muy específica o local del servicio de transporte previsto; 
+b) acuerdos bilaterales o multilaterales entre empresas ferroviarias, administradores de infraestructuras o autoridades de seguridad que ofrezcan niveles significativos de interoperabilidad local o regional; 
+c) acuerdos internacionales entre uno o varios Estados miembros y, como mínimo, un tercer país, o entre empresas ferroviarias o administradores de infraestructuras de Estados miembros y, como mínimo, una empresa ferroviaria o administrador de infraestructuras de un tercer país, que ofrezcan niveles significativos de interoperabilidad local o regional. 
+Se evaluará la compatibilidad de estos acuerdos con la legislación comunitaria, incluido su carácter no discriminatorio, y, en particular, con la presente ETI, y la Comisión adoptará las medidas necesarias, como por ejemplo la revisión de la presente ETI, para incorporar posibles casos específicos o medidas transitorias. 
+Estos acuerdos seguirán admitiéndose hasta que se adopten las medidas necesarias, incluidos los acuerdos de ámbito comunitario relativos a la presente ETI con la Federación Rusa y todos los demás países de la CEI fronterizos con la UE. 
+No será necesario notificar el Acuerdo RIV ni los instrumentos COTIF porque son conocidos. 
+7.5.4.2. Acuerdos futuros o modificación de acuerdos existentes 
+Todo acuerdo futuro o modificación de un acuerdo existente deberá tener en cuenta la legislación de la UE y, en particular, la presente ETI. Los Estados miembros notificarán dichos acuerdos o modificaciones a la Comisión. Se aplicará entonces el procedimiento descrito en el punto 7.5.4.1. 
+7.6. Aplicación de la presente ETI al material rodante existente 
+7.6.1. Renovación o acondicionamiento de los vagones de mercancías existentes 
+En caso de renovación o acondicionamiento de un vagón de mercancías, el Estado miembro, en virtud del artículo 14, apartado 3, de la Directiva 2001/16/CE, modificada por la Directiva 2004/50/CE, deberá decidir si es necesaria una nueva autorización de puesta en servicio. Si durante la renovación o acondicionamiento se modifica el funcionamiento del sistema de freno del vagón y es necesaria una nueva autorización de puesta en servicio, se aplicará el requisito de que el nivel de ruido de paso del vagón habrá de ajustarse al nivel pertinente señalado en el cuadro 1 del punto 4.2.1.1. Si durante la renovación o acondicionamiento se equipa un vagón de mercancías con zapatas de material compuesto, sin añadir fuentes de ruido adicionales, se presupondrá que se cumplen los valores del punto 4.2.1.1 sin necesidad de realizar pruebas. 
+No es obligatorio el acondicionamiento para la reducción de emisiones acústicas exclusivamente, pero si se realiza el acondicionamiento por otra razón, deberá demostrarse que la renovación o acondicionamiento no aumenta el ruido de paso en comparación con el del vehículo antes de dicha renovación o acondicionamiento. 
+Por lo que respecta al ruido estacionario, deberá demostrarse que la adaptación no aumenta el ruido en comparación con el emitido por el vehículo antes de su renovación o acondicionamiento. 
+Sin embargo, si se equipa el vagón de mercancías con una fuente de ruido adicional durante la renovación o acondicionamiento, deberá respetarse el límite establecido en el punto 4.2.1.2 (ruido estacionario). 
+Los vagones de mercancías renovados o acondicionados que requieran una nueva autorización de puesta en servicio a efectos del artículo 14, apartado 3, de la Directiva 2001/16/CE, deberán cumplir los requisitos de la ETI "Material rodante ferroviario convencional" con arreglo a las disposiciones del punto 7.3 de la presente ETI. 
+7.6.2. Renovación o acondicionamiento de locomotoras, unidades acopladas y coches de pasajeros 
+Por lo que respecta al ruido estacionario, deberá demostrarse que la adaptación no aumenta el ruido en comparación con el generado por el vehículo antes de su renovación o acondicionamiento. 
+7.7. Casos específicos 
+7.7.1. Introducción 
+Se autorizan las siguientes disposiciones particulares en los casos específicos indicados a continuación. 
+Estos casos específicos pertenecen a dos categorías: las disposiciones se aplican de forma permanente (caso "P") o temporal (caso "T"). En los casos temporales, se recomienda que los Estados miembros afectados se ajusten al subsistema pertinente en 2010 (caso "T1"), que es el objetivo establecido en la Decisión 1692/96/CE del Parlamento Europeo y del Consejo, de 23 de julio de 1996, sobre orientaciones comunitarias para el desarrollo de la red transeuropea de transporte, o en 2020 (caso "T2"). 
+7.7.2. Lista de casos específicos 
+7.7.2.1. Límite para el ruido estacionario "de aplicación rigurosamente exclusiva en la red británica e irlandesa" 
+Categoría "P", permanente. 
+Cuadro 7 
+Valor límite LpAeq, T aplicable al ruido estacionario de los DMU 
+Vehículos | LpAeq, T | 
+DMU | 77 | 
+7.7.2.2. Finlandia 
+Categoría "T", temporal. 
+En el territorio de Finlandia, los límites establecidos en el punto 4.2.1.2 para el ruido estacionario no se aplicarán a los vagones de mercancías equipados con un grupo diésel de generación eléctrica de más de 100 kW cuando se utilice el grupo. En este caso, el límite de ruido estacionario podrá incrementarse 7 dB(A) debido a que la gama de temperaturas desciende hasta - 40 oC, con heladas y peligro de congelación. 
+7.7.2.3. Límites del ruido de puesta en marcha "de aplicación rigurosamente exclusiva en la red británica e irlandesa" 
+Categoría "P", permanente. 
+Cuadro 8 
+Valores límite LpAFmax aplicables al ruido de puesta en marcha de locomotoras eléctricas, diésel y DMU 
+Vehículo para | LpAFmax | 
+locomotoras eléctricas de menos de 4500 kW en la llanta | 84 | 
+locomotoras diésel Menos de 2000 kW en el eje | 89 | 
+DMU P %lt% 500 kW/motor | 85 | 
+7.7.2.4. Límites del ruido de paso de vagones de mercancías en Finlandia, Noruega, Estonia, Letonia y Lituania 
+Categoría "T1", temporal. 
+Los límites de emisión de ruidos aplicables a los vagones de mercancías no serán válidos en Finlandia, Noruega, Estonia, Letonia y Lituania. El motivo radica en los aspectos de seguridad que requieren las condiciones invernales de los países nórdicos. Este caso específico será válido hasta que se incorpore la especificación funcional y el método de evaluación de zapatas de freno de material compuesto en la versión revisada de la ETI de material rodante ferroviario convencional. 
+Ello no impedirá que los vagones de mercancías de otros Estados miembros operen en los Estados nórdicos y bálticos. 
+7.7.2.5. Caso específico de Grecia 
+Categoría "T1", temporal: material rodante para el ancho de vía de 1000 mm o inferior. 
+Con respecto al actual ancho de vía aislado de 1000 mm, que no es objeto de la presente ETI, se aplicarán las normas nacionales. 
+7.7.2.6. Caso específico de Estonia, Letonia y Lituania 
+Categoría "T1", temporal. 
+Los límites de emisión de ruido aplicables a todo el material rodante (locomotoras, coches de pasajeros, EMU y DMU) no serán válidos para Estonia, Letonia y Lituania hasta la revisión de la presente ETI. Mientras tanto, se realizarán campañas de medición en estos Estados; la revisión de la presente ETI tendrá en cuenta los resultados de dichas campañas. 
+-------------------------------------------------- 
+Anexo A 
+CONDICIONES DE MEDICIÓN 
+A.1. DESVIACIONES DE LA NORMA PREN ISO 3095: 2001 
+A.1.1. Ruido estacionario 
+Las mediciones del ruido estacionario se realizarán de conformidad con la norma prEN ISO 3095: 2001, con las siguientes desviaciones (véase el cuadro A1). 
+Por funcionamiento normal se entiende el que se produce a una temperatura de 20 °C. El fabricante facilitará los parámetros de diseño para forzar el funcionamiento a fin de simular condiciones de 20 °C. 
+Cuadro A1 
+Ruido estacionario, desviaciones de la norma prEN ISO 3095: 2001 
+Apartado (prEN ISO 3095: 2001) | Asunto | Desviación (marcada en negrita y cursiva) | 
+6.2.3 | Posiciones de los micrófonos, mediciones en vehículos estacionarios | Las mediciones se realizarán de conformidad con la norma prEN ISO 3095: 2001, anexo A, figura A.1. | 
+6.3.1 | Condiciones del vehículo | Antes de realizar las mediciones se eliminará toda suciedad en rejillas, filtros y ventiladores. | 
+7.5.1 | Generalidades | El tiempo de medición será de 60 s. | 
+7.5.2 | Vagones de mercancías y pasajeros y automotores eléctricos | Todos los equipos que puedan funcionar con el vehículo estacionario, incluido el equipo de tracción principal si procede, pero no el compresor neumático de freno, estarán en funcionamiento. Los equipos auxiliares funcionarán a carga normal. | 
+7.5.3.1 | Automotores con motores de combustión interna | Motor al ralentí sin carga, ventilador a velocidad normal, equipos auxiliares con carga normal, compresor neumático de freno sin funcionar. | 
+7.5.3.2 | Automotores con motores de combustión interna | Esta cláusula no es aplicable a las locomotoras diésel y DMU. | 
+7.5.1 | Mediciones en vehículos estacionarios, generalidades | El nivel acústico del ruido estacionario es la media energética de todos los valores de medición registrados en los puntos de medición con arreglo a la norma prEN ISO 3095: 2001, anexo A, figura A.1. | 
+A.1.2. Ruido de puesta en marcha 
+Las mediciones de ruido de puesta en marcha se realizarán de conformidad con la norma prEN ISO 3095: 2001, con las siguientes desviaciones (véase el cuadro A2). 
+Por funcionamiento normal se entiende el que se produce a una temperatura de 20 °C. El fabricante facilitará los parámetros de diseño para forzar el funcionamiento a fin de simular condiciones de 20 °C. 
+Cuadro A2 
+Ruido de puesta en marcha, desviaciones de la norma prEN ISO 3095: 2001 
+Apartado (prEN ISO 3095: 2001) | Asunto | Desviación (marcada en negrita y cursiva) | 
+6.1.2 | Condiciones meteorológicas | Las mediciones en vehículos en aceleración se realizarán únicamente con el carril en seco. | 
+6.3.1 | Condiciones del vehículo | Antes de realizar las mediciones, se eliminará toda suciedad en rejillas, filtros y ventiladores. | 
+6.3.3 | Puertas, ventanas y equipos auxiliares | En los trenes en aceleración, los ensayos se realizarán con todos los equipos auxiliares funcionando bajo carga normal. No se tendrán en cuenta las emisiones acústicas de los compresores neumáticos de freno. | 
+7.3.1 | Generalidades | Los ensayos deberán realizarse con el máximo esfuerzo de tracción, sin patinaje de las ruedas y sin macrodeslizamiento. Si el tren sometido a la prueba no comprende una formación fija, la carga deberá ser definida. Será la típica del servicio normal. | 
+7.3.2 | Trenes con automotor individual | En los trenes en aceleración, los ensayos se realizarán con todos los equipos auxiliares funcionando bajo carga normal. No se tendrán en cuenta las emisiones acústicas de los compresores neumáticos de freno. | 
+A.1.3. Ruido de paso 
+Apartado (prEN ISO 3095: 2001) | Asunto | Desviación (marcada en negrita y cursiva) | 
+6.2 | Posición del micrófono | No habrá ninguna vía entre la vía de circulación y el micrófono. | 
+6.3.1 | Condiciones del vehículo | Antes de realizar las mediciones, se eliminará toda suciedad en rejillas, filtros y ventiladores. | 
+7.2.3 | Procedimiento de ensayo | Se utilizará un tacómetro que mida la velocidad de paso con suficiente precisión, de modo que si la velocidad del tren no se ajusta a la velocidad de ensayo establecida con un margen de tolerancia del ± 3 %, se determine correctamente que está fuera de dicho margen y se rechace. Se mantendrá el esfuerzo mínimo de tracción para mantener una velocidad constante durante al menos 60 s antes y durante la medición del ruido de paso. | 
+A.1.4. Vía de referencia para el ruido de paso 
+Las especificaciones de la vía de referencia se han estudiado exclusivamente para permitir la evaluación del material rodante a la luz de los valores límite del ruido de paso. En esta sección no se especifica ni el diseño ni el mantenimiento ni las condiciones de funcionamiento de las vías "normales", que no son vías "de referencia". 
+La vía de referencia se aprobará con arreglo a la norma prEN ISO 3095: 2001, con las siguientes desviaciones: 
+- la irregularidad del carril será inferior al espectro límite definido en la figura F1. Esta curva de valores límite sustituye a la especificación de la norma prEN ISO 3095: 2001, apartado 6.4.2 (figura 4), anexo C "Procedimiento para determinar el espectro límite de irregularidad del carril". El anexo D "Especificaciones de medición de la irregularidad del carril" sólo será aplicable en sus apartados D.1.2 (método de adquisición directa) y D.2.1 (procesado de datos de irregularidades: medición directa), con las siguientes desviaciones, y D4 (presentación de los datos): 
+Apartado (prEN ISO 3095: 2001) | Asunto | Desviación (marcada en negrita y cursiva) | 
+D.1.2.2 | Medición directa de las irregularidades | El ancho de banda de longitudes de onda será como mínimo de [0,003; 0,10] metros. El número de trazas que se utilice para caracterizar la irregularidad se elegirá en función de la superficie de rodadura real. El número de trazas será coherente con: la posición de contacto real, yel ancho real de la superficie de rodadura ("banda de rodadura"), de modo que sólo se tengan en cuenta las trazas que estén dentro del ancho real de la superficie de rodadura para calcular el valor medio de la irregularidad total.Sin una justificación técnica de estos dos parámetros, será aplicable la cláusula D.1.2.2 de la norma prEN ISO 3095: 2001. | 
+D.2.1 | Medición directa | Los espectros de irregularidades de longitud de onda de un tercio de banda de octava serán procesados a partir de la media cuadrática de cada espectro de las secciones elementales de la vía de referencia. | 
+Estos métodos, utilizados en el proyecto NOEMIE, han demostrado obtener resultados coherentes en las vías que cumplen los límites propuestos de irregularidades del carril. Sin embargo, puede utilizarse cualquier otro método de medición directa disponible y probado, capaz de proporcionar resultados comparables, 
+- el comportamiento dinámico de la vía de referencia (vía de pruebas) se describirá por medio de las "tasas de atenuación de la vía (TDR)", que cuantifican la atenuación de la vibración del carril en función de la distancia a lo largo de la vía. El método de medición utilizado en el proyecto NOEMIE se describe en el punto A.2. Este método ha demostrado que permite discriminar correctamente las características dinámicas de la vía. También es admisible utilizar un método equivalente de medición de la caracterización de la vía, si está disponible y ha demostrado su eficacia. En tal caso, deberá demostrarse que las tasas de atenuación vertical y lateral de la vía de pruebas son equivalentes a las del tipo de vía mencionado en la presente ETI, medidas de conformidad con la hoja de especificaciones del punto A.2. Las tasas de atenuación de la vía de referencia serán superiores a los límites inferiores indicados en la figura F2, 
+- la vía de referencia tendrá una superestructura coherente a lo largo de una longitud mínima de 100 m. Las tasas medidas de atenuación de la vía deberán corresponder a 40 m a cada lado de la posición del micrófono. La comprobación de irregularidades se realizará con arreglo a la norma prEN ISO 3095: 2001. 
+Figura F1 
+Espectro límite de irregularidades del carril de la vía de referencia 
++++++ TIFF +++++ 
+Nivel irregularidad 1/3 banda octavare 1µm20,017,115,015,013,0Irregul. carril11,09,010,07,0ETI+4,95,02,90,9-1,10,0-3,2-5,0-5,0-5,6-6,2-6,8-7,4-10,0-8,0-8,6-9,2-9,8-10,4-11,0-15,00,5000,4000,3150,2500,2000,1600,1250,1000,0800,0630,0500,0400,0320,0250,0200,0160,0130,0100,0080,0060,0050,0040,003Longitud de onda, m 
+Figura F2 
+Tasa de atenuación vertical y lateral, espectro límite inferior de la vía de referencia 
++++++ TIFF +++++ 
+TDR (dB/M)1066332210,80,80,8ETI+ TDR verticalETI+ TDR lateral0,50,50,20,20,1801001251602002503154005006308001 0001 2501 6002 0002 5003 1504 0005 000Frecuencia (Hz) 
+A.2. Caracterización del comportamiento dinámico de las vías de referencia 
+A.2.1. Procedimiento de medición 
+El procedimiento siguiente se aplicará sucesivamente en sentido lateral y vertical en cada vía que haya que caracterizar. 
+Se fijarán dos acelerómetros (encolados o clavados) al carril, en el tramo central entre dos traviesas (véase la figura F3): 
+- uno en sentido perpendicular al eje longitudinal del carril, colocado en la cabeza del carril (preferiblemente) o debajo del patín del carril, 
+- y otro en sentido transversal, colocado en la cara exterior de la cabeza del carril. 
+Figura F3 
+Localización del sensor en la sección transversal del carril 
++++++ TIFF +++++ 
+Fvertical1Flateral2Acelerómetro 
+Se aplica un impulso de fuerza medido sobre la cabeza del carril, en cada sentido, con un mazo instrumentado provisto de una punta de dureza adecuada para permitir una buena medición de la fuerza y la respuesta en la gama de frecuencias [50; 6000 Hz]. (Hace falta una punta de acero templado para el nivel superior de la gama de frecuencias y suele bastar, aunque no siempre, para aplicar la fuerza suficiente para el nivel inferior. Puede que sea necesaria una medición adicional con una punta más blanda.) 
+La transferencia, denominada acelerancia si se obtiene mediante la función de respuesta en frecuencia de aceleración/fuerza o movilidad en el caso de velocidad/fuerza, se mide en sentido vertical y latero-transversal para la fuerza aplicada en la misma dirección correspondiente en una serie de puntos situados a diversas distancias a lo largo del carril (definidas más adelante). No es necesario medir los términos cruzados (fuerza vertical a respuesta lateral o viceversa). Si se dispone de integración analógica para la medición con acelerómetro, se ha demostrado que se obtienen mediciones de mayor calidad si se registra la función de respuesta de frecuencia (FRF) de la movilidad en lugar de la acelerancia. De este modo se obtienen datos de mayor calidad a baja frecuencia, donde la respuesta medida es muy pequeña en comparación con la alta frecuencia, ya que reduce la gama dinámica de los datos antes del registro o digitalización. Conviene medir una FRF media de 4 impulsos válidos como mínimo. La calidad de cada FRF medida (reproducibilidad, linealidad, etc.) debe controlarse utilizando la función de coherencia. Ésta también deberá registrarse. 
+Las FRF de transferencia deberán realizarse a la posición de montaje del acelerómetro desde cada una de las posiciones indicadas en la figura F4. Las posiciones de medición pueden dividirse en grupos, como la posición de medición "puntual", el grupo "campo próximo" y el grupo "campo lejano", de la forma siguiente: 
+- el índice de posición 0 está asociado con el punto medio del eje longitudinal del primer cajón. Cuando se aplica el impulso en este punto (en la práctica, lo más cerca posible de este punto), se mide la FRF puntual, 
+- las mediciones de campo próximo se realizan aplicando el impulso, partiendo de la FRF puntual, a intervalos de cuarto de traviesa hasta el final del cajón 2; desde ahí, a un intervalo de media traviesa hasta el punto medio del cajón 4; y después en cada posición de media traviesa hasta el cajón 8, 
+- en la medición de campo lejano se utilizan posiciones de impulso desde una distancia del cajón 8 con respecto a la posición del acelerómetro hacia afuera en las posiciones intertraviesas, con los índices 10, 12, 16, 20, 24, 30, 36, 42, 48, 54, 66, etc., como se indica en la figura F4. Sólo es necesario realizar mediciones hasta el punto en el que la respuesta en todas las frecuencias de la gama se hace insignificante (con respecto al ruido de la medición). La función de coherencia sirve de orientación en este sentido. Lo ideal es que el nivel de respuesta en cada tercio de banda de octava sea, al menos, 10 dB inferior al nivel de la misma banda en la posición 0. 
+Figura F4 
+Tasas de atenuación de vía, localización de los puntos de excitación 
++++++ TIFF +++++ 
+Impulso del mazo sobre la traviesaImpulso del mazo entre traviesas0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15Índice intertraviesasPosición del acelerómetro15 16 20 24 30 36 42 48 54 66 67 68 (…)0 1 2 3 
+La experiencia demuestra que la variabilidad de los resultados es tal que conviene repetir toda la medición de atenuación con el acelerómetro en otra posición de la vía. Basta con que las dos posiciones del acelerómetro estén separadas por una distancia de 10 m. 
+Dado que las tasas de atenuación dependen de la rigidez de la almohadilla del carril y que los materiales con los que se fabrican estas almohadillas suelen ser muy termosensibles, durante la medición deberá registrarse la temperatura de la almohadilla. 
+A.2.2. Sistema de medición 
+Cada sensor y sistema de adquisición debe tener un certificado de calibración conforme a la norma EN ISO 17025 [1]. 
+Todo el sistema de medición deberá ser calibrado antes y después de cada serie de mediciones (y, sobre todo, si se modifica el sistema de medición, el de adquisición o la localización de las mediciones). 
+A.2.3. Proceso de datos 
+La potencia acústica total irradiada por un carril inducido a vibrar es el producto de la tasa de irradiación (eficiencia de radiación) del carril y la amplitud de la velocidad al cuadrado sumada sobre el área de radiación. Si se supone que las ondas verticales y laterales se atenúan exponencialmente desde el punto de excitación (contacto con la rueda) en función de la distancia a lo largo del carril, entonces A(z) ≈ A(0)e-ßz, donde β es la constante de atenuación de la amplitud de la respuesta, A, con la distancia z a lo largo del carril desde el punto de excitación. β puede convertirse a una tasa de atenuación expresada en dB por metro, Δ, como Δ = 20log10(eß ) = 8,686ß dB/m. 
++++++ TIFF +++++ 
+Si A se refiere a la respuesta de velocidad, entonces la potencia acústica emitida por la vía es proporcional a ∫x0| A(z) |2 dz. Existe una relación sencilla entre esta cantidad y la tasa de atenuación, ya sea para ondas verticales o laterales, de la siguiente forma: 
++++++ TIFF +++++ 
+∫x0| A(z) |2 dz = | A(0) |2 ∫x0 e-2ß dz = | A(0) |2 1 2ß | (A2.1) | 
+Esto demuestra la relación entre la tasa de atenuación y el comportamiento de radiación acústica de la estructura de la vía. Debe expresarse como valor en dB/m por cada tercio de banda de octava. 
+En principio, la tasa de atenuación puede evaluarse como la pendiente de un gráfico de amplitud de respuesta en dB en función de la distancia z. Sin embargo, en la práctica es mejor evaluar la tasa de atenuación en función de una estimación directa de la respuesta sumada: 
++++++ TIFF +++++ 
+∫x0| A(z) |2| A(0) |2 dz = 1 2ß ≃ Σz maxz=0 | A(z) |2| A(0) |2Δz | (A2.2) | 
+donde zmax es la distancia de medición máxima y la suma se realiza para las localizaciones de medición de respuesta, siendo Δz el intervalo entre los puntos de media distancia y las localizaciones de medición en cada lado. La influencia del intervalo tomado para la medición en zmax debe ser pequeña, pero aquí se requiere que sea simétrica en torno a zmax. 
+De este modo, para la respuesta promediada en cada tercio de banda de octava se evalúa la tasa de atenuación de la forma siguiente: 
++++++ TIFF +++++ 
+Δ (in dB/m) ≃ 4.343Σz maxz=0| A(z) |2| A(0) |2Δz | (A2.3) | 
+Con esto queda claro que no es fundamental si A representa la respuesta en términos de acelerancia o movilidad, ya que sólo difieren por el factor 2πf, donde f es la frecuencia. El promedio del espectro de tercios de banda de octava puede calcularse antes de evaluar la tasa de atenuación de las FRF o después sobre la función Δ(f). Obsérvese la importancia de medir A(0) con precisión, ya que aparece como un factor constante de la suma. De hecho, ésta es la FRF que resulta más fácil de medir con precisión. La experiencia demuestra que no se introduce un error significativo por el hecho de no tener en cuenta las ondas de campo próximo en este sencillo análisis. 
+Este método de evaluación es muy fiable para tasas de atenuación elevadas, pero puede estar sujeto a error si el valor práctico de zmax trunca la respuesta en algún tercio de banda de octava antes de que se haya producido una atenuación suficiente para que la suma de zmax represente una buena aproximación a la integral infinita. Por lo tanto, una tasa de atenuación mínima que se puede evaluar para un determinado valor de zmax es: 
++++++ TIFF +++++ 
+Δmin = 4.343zmax | (A2.4) | 
+La tasa de atenuación evaluada debe compararse con este valor y, si es similar al mismo, la estimación de la tasa de atenuación debe considerarse insegura. Con un valor de zmax en torno a 40 m debe ser posible evaluar una tasa de atenuación de vía acorde con el mínimo especificado en la figura F2. Sin embargo, algunas vías no conformes presentan tasas de atenuación notablemente inferiores en algunas bandas y, para evitar la escalada de esfuerzo en la medición, puede ser necesario recurrir a una pendiente lineal para algunas bandas. En el caso de que las tasas de atenuación sean bajas, los datos de respuesta tenderán a no sufrir algunos de los problemas antes indicados. Deberán ser comprobados trazándolos juntos con la FRF medida con respecto a la distancia, por cada tercio de banda de octava. 
+A.2.4. Informe de ensayo 
+La TDR espacial (en sentido vertical y transversal) del tercio de octava de banda debe representarse en un gráfico de acuerdo con la presentación especificada en las normas Pr EN ISO 3740 [2] y CEI 60263 [3] con una escala de 3/4 entre los ejes horizontal y vertical, respectivamente, para 1 octava de banda y una tasa de atenuación de 5 dB/m. 
+[1] EN ISO CEI 17025: Requisitos generales para la competencia de los laboratorios de ensayos y calibración, 2000. 
+[2] EN ISO 3740: 2000: Acústica-Determinación de los niveles de potencia acústica de las fuentes de ruido-Guía para la utilización de las normas básicas. 
+[3] CEI 60263: Escalas y dimensiones para trazar características de frecuencias y diagramas polares. 
+-------------------------------------------------- 
+Anexo B 
+MÓDULOS PARA LA VERIFICACIÓN "CE" DE SUBSISTEMAS: ASPECTO RUIDO 
+MÓDULOS PARA LA VERIFICACIÓN "CE" DE SUBSISTEMAS 
+Módulo SB: Examen de tipo. 
+Módulo SD: Sistema de gestión de la calidad del producto. 
+Módulo SF: Verificación del producto. 
+Módulo SH2: Sistema de gestión de la calidad total con examen del diseño. 
+B.1. Módulo SB: Examen de tipo 
+1. En este módulo se describe el procedimiento de verificación "CE" mediante el cual un organismo notificado verifica y certifica, por encargo de una entidad contratante o de su mandatario establecido en la Comunidad, que el aspecto "Ruido" de un subsistema "Material rodante" representativo de la producción prevista: 
+- se ajusta a lo dispuesto en la presente y en cualquier otra ETI aplicable, que acreditan el cumplimiento de los requisitos esenciales [1] de la Directiva 2001/16/CE [2], 
+- cumple las demás disposiciones reglamentarias derivadas del Tratado. 
+El examen de tipo que se define en este módulo podría incluir fases específicas de evaluación: revisión del diseño, ensayo de tipo o revisión del proceso de fabricación, que se especifican en la ETI correspondiente. 
+2. La entidad contratante [3] debe presentar una solicitud de verificación "CE" del subsistema (mediante examen de tipo) a un organismo notificado de su elección. Dicha solicitud comprenderá: 
+el nombre y dirección de la entidad contratante o de su mandatario, y 
+- la documentación técnica descrita en el punto 3. 
+3. El solicitante pondrá a disposición del organismo notificado una muestra del subsistema [4] que sea representativa de la producción, en lo sucesivo denominada "tipo". 
+Un tipo puede abarcar varias versiones del subsistema, a condición de que las diferencias entre versiones no afecten a las disposiciones de la ETI. 
+El organismo notificado podrá solicitar otras muestras si el programa de ensayo lo requiere. 
+Si fuera necesario para un método de ensayo o examen concreto y se especifica en la ETI o en las especificaciones europeas [5] referenciadas en la ETI, también se entregarán una o varias muestras de un conjunto o subconjunto o una muestra del subsistema premontado. 
+La documentación técnica y las muestras deberán permitir la comprensión del diseño, la fabricación, la instalación, el mantenimiento y el funcionamiento del subsistema y la evaluación de su conformidad con los requisitos de la ETI. 
+La documentación técnica contendrá: 
+- una descripción general del subsistema, de su diseño de conjunto y de su construcción, 
+- el registro de material rodante, incluidas todas las informaciones especificadas en la ETI, 
+- información sobre el diseño y la fabricación, como planos, esquemas de componentes, subconjuntos, conjuntos, circuitos, etc., 
+- las descripciones y explicaciones necesarias para comprender la información sobre el diseño y la fabricación, el mantenimiento y el funcionamiento del subsistema, 
+- las especificaciones técnicas aplicadas, incluidas las especificaciones europeas, 
+- las pruebas que puedan ser necesarias para demostrar la aplicación de las especificaciones mencionadas, sobre todo en caso de no haber aplicado plenamente las especificaciones europeas y las cláusulas pertinentes, 
+- una lista de los componentes de interoperabilidad que han de incorporarse al subsistema, 
+- copias de las declaraciones "CE" de conformidad o de idoneidad de los componentes de interoperabilidad y todos los elementos necesarios definidos en el anexo VI de las Directivas, 
+- prueba de conformidad con el resto de reglamentaciones derivadas del Tratado (incluidos los certificados), 
+- documentación técnica relativa a la fabricación y el montaje del subsistema, 
+- la lista de fabricantes que han intervenido en el diseño, la fabricación, el montaje y la instalación del subsistema, 
+- las condiciones de utilización del subsistema (restricciones de tiempo o distancia de funcionamiento, límites de desgaste, etc.), 
+- condiciones de mantenimiento y documentación técnica relativa al mantenimiento del subsistema, 
+- todo requisito técnico que deba tenerse en cuenta durante la producción, el mantenimiento o la explotación del subsistema, 
+- los resultados de los cálculos de diseño, controles efectuados, etc., 
+- los informes de ensayo. 
+Si la ETI exige que la documentación técnica incluya información complementaria, ésta deberá incluirse. 
+4. El organismo notificado: 
+4.1) examinará la documentación técnica; 
+4.2) verificará que las muestras del subsistema, o de sus conjuntos o subconjuntos, se hayan fabricado de conformidad con la documentación técnica, y realizará o habrá realizado los ensayos de tipo de conformidad con las disposiciones de la ETI y de las especificaciones europeas aplicables. Dicha fabricación se verificará aplicando un módulo de evaluación adecuado; 
+4.3) si la ETI contempla una revisión del diseño, examinará los métodos, instrumentos y resultados del diseño, a fin de evaluar su capacidad para satisfacer los requisitos de conformidad del subsistema al final del proceso de diseño; 
+4.4) identificará los elementos que hayan sido diseñados de conformidad con las disposiciones aplicables de la ETI y de las especificaciones europeas, así como los elementos cuyo diseño no se base en las disposiciones pertinentes de dichas especificaciones europeas; 
+4.5) efectuará o hará efectuar los controles que procedan y los ensayos que sean necesarios de conformidad con los puntos 4.2 y 4.3, a fin de verificar que se han aplicado efectivamente las especificaciones europeas, en el caso de que se haya optado por esta solución; 
+4.6) efectuará o hará efectuar los controles que procedan y los ensayos que sean necesarios de conformidad con los puntos 4.2 y 4.3, a fin de verificar si las soluciones adoptadas satisfacen los requisitos de la ETI cuando no se hayan aplicado las especificaciones europeas correspondientes; 
+4.7) acordará con el solicitante el lugar en que se realizarán los controles y los ensayos necesarios. 
+5. Cuando el tipo cumpla las disposiciones de la ETI, el organismo notificado expedirá un certificado de examen de tipo para el solicitante. El certificado llevará el nombre, apellidos y dirección de la entidad contratante y de los fabricantes que figuren en la documentación técnica, las conclusiones del examen, las condiciones de validez del certificado y los datos necesarios para la identificación del tipo aprobado. 
+Se adjuntará al certificado una lista de las partes pertinentes de la documentación técnica, y el organismo notificado conservará una copia. 
+Si se deniega la expedición del certificado de tipo a la entidad contratante, el organismo notificado detallará los motivos de su negativa. Deberá preverse un procedimiento de recurso. 
+6. Cada organismo notificado comunicará a los demás organismos notificados la información útil relativa a los certificados de examen de tipo que haya expedido, retirado o denegado. 
+7. Los demás organismos notificados recibirán, previa petición, una copia de los certificados de examen de tipo expedidos o de sus complementos. Los anexos de los certificados se mantendrán a disposición de los demás organismos notificados. 
+8. La entidad contratante deberá conservar, junto con la documentación técnica, copias de los certificados de examen de tipo y todos sus complementos durante toda la vida útil del subsistema. Esta documentación será remitida a cualquier Estado miembro que lo solicite. 
+9. El solicitante comunicará al organismo notificado que conserve la documentación técnica relativa al certificado de examen de tipo todas las modificaciones que puedan afectar a la conformidad con los requisitos de la ETI o a las condiciones de utilización previstas del subsistema. En estos casos, el subsistema deberá recibir una nueva aprobación. Esta nueva aprobación se expedirá en forma de un complemento del certificado original de examen de tipo, o bien se expedirá un nuevo certificado previa retirada del antiguo. 
+B.2. Módulo SD: Sistema de gestión de la calidad de la producción 
+1. En este módulo se describe el procedimiento de verificación "CE" mediante el cual un organismo notificado verifica y certifica, por encargo de una entidad contratante o de su mandatario establecido en la Comunidad, que el aspecto "Ruido" de un subsistema "Material rodante", para el que un organismo notificado ya haya emitido un certificado de examen de tipo: 
+- se ajusta a lo dispuesto en la presente ETI y en cualquier otra ETI aplicable, que acreditan el cumplimiento de los requisitos esenciales [6] de la Directiva 2001/16/CE [7], 
+- es conforme a las demás reglamentaciones derivadas del Tratado y puede ponerse en servicio. 
+2. El organismo notificado llevará a cabo el procedimiento, a condición de que: 
+- el certificado de examen de tipo expedido antes de la evaluación siga siendo válido para el subsistema objeto de la solicitud, 
+- la entidad contratante [8] y los contratistas principales cumplan las obligaciones indicadas en el punto 3. 
+Los "contratistas principales" son las empresas cuyas actividades contribuyen al cumplimiento de los requisitos esenciales de la ETI. Concretamente: 
+- la empresa responsable del proyecto de subsistema en su conjunto (en particular, de la integración del subsistema), 
+- otras empresas que intervengan únicamente en una parte del proyecto de subsistema (por ejemplo, que se ocupen de su montaje o instalación). 
+Este término no hace referencia a los subcontratistas del fabricante que suministren componentes de interoperabilidad o de otro tipo. 
+3. Para el subsistema que sea objeto del procedimiento de verificación "CE", la entidad contratante, o los contratistas principales, en su caso, utilizarán un sistema aprobado de gestión de la calidad de la fabricación y la inspección y el ensayo final del producto, tal como se especifica en el punto 5, y que será objeto de la vigilancia especificada en el punto 6. 
+Cuando la propia entidad contratante sea la responsable del proyecto de subsistema completo (incluida, en particular, la responsabilidad de integración del subsistema), o cuando la entidad contratante participe directamente en la producción (incluidos el montaje y la instalación), deberá utilizar un sistema aprobado de gestión de la calidad de dichas actividades, que será objeto de la vigilancia especificada en el punto 6. 
+Si el contratista principal tiene la responsabilidad del proyecto de subsistema completo (incluida, en particular, la responsabilidad de la integración del subsistema), deberá utilizar en todos los casos un sistema aprobado de gestión de la calidad de la fabricación y la inspección y el ensayo final del producto, que será objeto de la vigilancia especificada en el punto 6. 
+4. Procedimiento de verificación "CE" 
+4.1. La entidad contratante deberá presentar a un organismo notificado de su elección una solicitud de verificación "CE" del subsistema (mediante un sistema de gestión de la calidad de la producción), incluida la coordinación de la vigilancia de los sistemas de gestión de la calidad, tal como se indica en los puntos 5.3 y 6.5. La entidad contratante deberá comunicar su elección e informar de la solicitud a los fabricantes implicados. 
+4.2. La solicitud deberá permitir la comprensión del diseño, la fabricación, el montaje, la instalación, el mantenimiento y el funcionamiento del subsistema, así como la evaluación de su conformidad con el tipo descrito en el certificado del examen de tipo y con los requisitos de la ETI. 
+Dicha solicitud comprenderá: 
+- el nombre y dirección de la entidad contratante o de su mandatario, 
+- la documentación técnica relativa al tipo aprobado, incluido el certificado del examen de tipo emitido al término del procedimiento definido en el módulo SB, 
+y, si no se incluye en dicha documentación: 
+- una descripción general del subsistema, de su diseño de conjunto y de su construcción, 
+- las especificaciones técnicas aplicadas, incluidas las especificaciones europeas, 
+- las pruebas que puedan ser necesarias para demostrar la aplicación de las especificaciones mencionadas, sobre todo en caso de no haber aplicado plenamente las especificaciones europeas y las cláusulas pertinentes. Estas pruebas deberán incluir los resultados de los ensayos efectuados por el laboratorio del fabricante o por cuenta del mismo, 
+- el registro de material rodante, incluidas todas las informaciones especificadas en la ETI, 
+- la documentación técnica relativa a la fabricación y el montaje del subsistema, 
+- acreditación de la conformidad con otras reglamentaciones derivadas del Tratado (incluidos los certificados) para la fase de producción, 
+- la lista de los componentes de interoperabilidad que vayan a incorporarse al subsistema, 
+- copias de las declaraciones "CE" de conformidad o de idoneidad para el uso que deben acompañar a los componentes de interoperabilidad, y todos los elementos necesarios definidos en el anexo VI de las Directivas, 
+- la lista de fabricantes que han intervenido en el diseño, la fabricación, el montaje y la instalación del subsistema, 
+- la demostración de que todas las etapas definidas en el punto 5.2 están cubiertas por los sistemas de gestión de la calidad de la entidad contratante, en su caso, o de los contratistas principales, y la prueba de su eficacia, 
+- la indicación del organismo notificado encargado de la aprobación y la vigilancia de estos sistemas de gestión de la calidad. 
+4.3. El organismo notificado examinará primero la solicitud en relación con la validez del examen de tipo y el certificado del examen de tipo. 
+Si el organismo notificado considera que el certificado de examen de tipo ya no es válido o no es adecuado y que hace falta un nuevo examen de tipo, justificará su decisión. 
+5. Sistema de gestión de la calidad 
+5.1. La entidad contratante, en su caso, y los contratistas principales que se hayan empleado deberán presentar una solicitud de evaluación de sus sistemas de gestión de la calidad a un organismo notificado de su elección. 
+Dicha solicitud comprenderá: 
+- toda la información pertinente para el subsistema de que se trate, 
+- la documentación relativa al sistema de gestión de la calidad, 
+- la documentación técnica del tipo aprobado y una copia del certificado del examen de tipo, emitido al término del procedimiento de examen de tipo previsto para el módulo SB. 
+Quienes intervengan únicamente en una parte del proyecto del subsistema, sólo deberán facilitar información sobre esa parte en concreto. 
+5.2. Por lo que respecta a la entidad contratante o el contratista principal responsable del proyecto del subsistema completo, los sistemas de gestión de la calidad garantizarán que el subsistema se ajusta plenamente al tipo descrito en el certificado de examen de tipo y a los requisitos de la ETI. Por lo que respecta a los demás contratistas principales, sus sistemas de gestión de la calidad deberán garantizar que su contribución al subsistema se ajusta al tipo descrito en el certificado del examen de tipo y a los requisitos de la ETI. 
+Todos los elementos, requisitos y disposiciones adoptados por los solicitantes deberán reunirse de forma sistemática y ordenada en una documentación compuesta por políticas, procedimientos e instrucciones escritas. Esta documentación relativa al sistema de gestión de la calidad deberá permitir una interpretación uniforme de las políticas y los procedimientos de calidad, como programas, planes, manuales y expedientes de calidad. 
+En dicha documentación se describirán de forma suficiente los puntos siguientes para todos los solicitantes, en particular: 
+- los objetivos de calidad y la estructura de la organización, 
+- las correspondientes técnicas, procesos y acciones sistemáticas que se utilizarán para la fabricación, el control de la calidad y la gestión de la calidad, 
+- los exámenes, controles y ensayos que se efectuarán antes, durante y después de la fabricación, el montaje y la instalación, con indicación de su frecuencia de ejecución, 
+- los expedientes de calidad, como informes de inspección y datos de los ensayos, datos de calibración, informes de cualificación del personal afectado, etc., y también de la entidad contratante o del contratista principal responsable del proyecto de subsistema completo, 
+- las responsabilidades y facultades de que dispone la dirección para garantizar la calidad global del subsistema, en particular en lo que se refiere a la gestión de la integración del subsistema. 
+Los exámenes, ensayos y controles abarcarán todas las etapas siguientes: 
+- la construcción del subsistema, en particular las actividades de ingeniería civil, el montaje de los componentes y la puesta a punto final, 
+- los ensayos finales del subsistema, 
+- y, si se especifica en la ETI, la validación en plenas condiciones de funcionamiento. 
+5.3. El organismo notificado elegido por la entidad contratante comprobará si en la aprobación y vigilancia del sistema de gestión de la calidad del solicitante [9] están suficiente y adecuadamente incluidas todas las etapas del subsistema mencionadas en el punto 5.2. 
+Si la conformidad del subsistema con el tipo descrito en el certificado de examen de tipo y con los requisitos de la ETI se basa en más de un sistema de gestión de la calidad, el organismo notificado comprobará, en particular: 
+- si las relaciones y las interfaces entre los sistemas de gestión de la calidad están claramente documentadas, 
+- y si están suficiente y adecuadamente definidas, con respecto a los contratistas principales, las responsabilidades y facultades de que dispone la dirección para garantizar la conformidad del conjunto del subsistema. 
+5.4. El organismo notificado mencionado en el punto 5.1 evaluará el sistema de gestión de la calidad para determinar si satisface las exigencias contempladas en el punto 5.2. Dará por supuesto que se cumplen estas exigencias si el solicitante establece un sistema de calidad de la producción, la inspección y el ensayo final del producto conforme con la norma EN/ISO 9001-2000 que tenga en cuenta la especificidad del subsistema para el cual se ha establecido. 
+Si un solicitante utiliza un sistema certificado de gestión de la calidad, el organismo notificado lo tendrá en cuenta en su evaluación. 
+La auditoría deberá ser específica del subsistema de que se trate, teniendo en cuenta, al mismo tiempo, la contribución específica del solicitante al subsistema. El equipo de auditores incluirá, al menos, un miembro experimentado en evaluación de la tecnología del subsistema. El procedimiento de evaluación comprenderá una visita de evaluación a las dependencias del fabricante. 
+La decisión se notificará al solicitante. La notificación contendrá las conclusiones del examen y la decisión de evaluación motivada. 
+5.5. La entidad contratante, en su caso, y los contratistas principales se comprometerán a cumplir las obligaciones derivadas del sistema de gestión de la calidad, tal como haya sido aprobado, y a mantenerlo de modo que siga siendo adecuado y eficaz. 
+Deberán mantener informado al organismo notificado que haya aprobado el sistema de gestión de la calidad con respecto a cualquier cambio significativo que afecte al cumplimiento de los requisitos de la ETI por el subsistema. 
+El organismo notificado evaluará los cambios propuestos y decidirá si el sistema de gestión de la calidad así modificado sigue respondiendo a las exigencias contempladas en el punto 5.2 o si debe procederse a una nueva evaluación. 
+El organismo notificado comunicará su decisión al solicitante. La notificación contendrá las conclusiones del examen y la decisión de evaluación motivada. 
+6. Vigilancia del sistema o sistemas de gestión de la calidad bajo la responsabilidad del organismo notificado 
+6.1. El objetivo de la vigilancia es garantizar que la entidad contratante, en su caso, y los contratistas principales cumplan debidamente las obligaciones derivadas del sistema de gestión de la calidad aprobado. 
+6.2. La entidad contratante, en su caso, y los contratistas principales deberán enviar (o hacer que se envíen) al organismo notificado mencionado en el punto 5.1 todos los documentos necesarios a este fin, incluidos los planes de puesta en práctica y los expedientes técnicos relativos al subsistema (en la medida en que sean pertinentes para la contribución específica de los solicitantes al subsistema), en particular: 
+- la documentación relativa al sistema de gestión de la calidad, incluidos los medios concretos empleados para asegurar que: 
+- por lo que respecta a la entidad contratante o contratista principal responsable del conjunto del proyecto de subsistema, se hayan definido suficiente y adecuadamente las responsabilidades y competencias generales de la gestión para la conformidad de todo el subsistema, 
+- por lo que respecta a cada solicitante, que el sistema de gestión de la calidad se gestione correctamente para conseguir la integración en el subsistema, 
+- los expedientes de calidad previstos en la parte del sistema de gestión de la calidad de la fabricación (incluido el montaje y la instalación), como informes de inspección y datos de ensayo, datos de calibración, informes sobre la cualificación del personal afectado, etc. 
+6.3. El organismo notificado efectuará periódicamente auditorías con el fin de asegurarse de que la entidad contratante, en su caso, y los contratistas principales mantengan y apliquen el sistema de gestión de la calidad, y deberá remitirles un informe de auditoría. Si utilizan un sistema certificado de gestión de la calidad, el organismo notificado lo tendrá en cuenta en la vigilancia. 
+Las auditorías se realizarán al menos una vez al año, y como mínimo en una ocasión durante la ejecución de las actividades (fabricación, montaje o instalación) relativas al subsistema objeto del procedimiento de verificación "CE" contemplado en el punto 8. 
+6.4. Además, el organismo notificado podrá efectuar visitas imprevistas a las dependencias correspondientes del solicitante o solicitantes. Con ocasión de estas visitas, el organismo notificado podrá efectuar auditorías completas o parciales y podrá efectuar o hacer efectuar ensayos para verificar el buen funcionamiento del sistema de gestión de la calidad donde lo juzgue necesario. Deberá facilitar al solicitante un informe de inspección y, además, informes de ensayos o auditorías, según proceda. 
+6.5. En caso de que el organismo notificado elegido por la entidad contratante y responsable de la verificación "CE" no se encargue de la vigilancia de todos los sistemas de gestión de la calidad involucrados, dicho organismo deberá coordinar las actividades de vigilancia de cualquier otro organismo notificado al que se haya encomendado esa tarea, a fin de: 
+- asegurarse de que la gestión de las interfaces entre los distintos sistemas de gestión de la calidad relativos a la integración de subsistemas se haya realizado correctamente, 
+- recopilar, en colaboración con la entidad contratante, los elementos necesarios para que la evaluación garantice la coherencia y la supervisión general de los distintos sistemas de gestión de la calidad. 
+Esta coordinación incluye los derechos del organismo notificado a: 
+- recibir toda la documentación (aprobación y vigilancia) expedida por los demás organismos notificados, 
+- asistir a las auditorías de vigilancia previstas en el punto 6.3, 
+- llevar a cabo auditorías adicionales, de conformidad con el punto 6.4, bajo su responsabilidad y conjuntamente con los demás organismos notificados. 
+7. El organismo notificado mencionado en el punto 5.1 dispondrá de un derecho de acceso permanente, con fines de inspección, auditoría y vigilancia, a las zonas de construcción, talleres de fabricación, lugares de montaje e instalaciones, zonas de almacenamiento y, en su caso, instalaciones de prefabricación o de ensayo y, de un modo más general, a todos los lugares que estime necesarios para su misión, habida cuenta de la contribución específica del solicitante al proyecto de subsistema. 
+8. La entidad contratante, en su caso, y los contratistas principales mantendrán a disposición de las autoridades nacionales durante un período de diez años a partir de la fecha de fabricación del último subsistema: 
+- la documentación contemplada en el segundo guión del párrafo segundo del punto 5.1, 
+- las adaptaciones contempladas en el párrafo segundo del punto 5.5, 
+- las decisiones e informes emitidos por el organismo notificado contemplados en los puntos 5.4, 5.5 y 6.4. 
+9. Si el subsistema satisface los requisitos de la ETI, el organismo notificado, sobre la base del examen de tipo y de la aprobación y la vigilancia del sistema de gestión de la calidad, expedirá el certificado de conformidad destinado a la entidad contratante, que a su vez expedirá la declaración "CE" de verificación destinada a la autoridad tutelar del Estado miembro en el que esté situado o funcione el subsistema. 
+La declaración "CE" de verificación y los documentos que la acompañen deberán ir fechados y firmados. La declaración deberá estar redactada en la misma lengua que el expediente técnico y comprenderá, por lo menos, la información indicada en el anexo V de la Directiva. 
+10. El organismo notificado elegido por la entidad contratante será responsable de la constitución del expediente técnico que deberá acompañar la declaración "CE" de verificación. El expediente técnico incluirá, como mínimo, la información indicada en el artículo 18, apartado 3, de la Directiva y, en particular, lo siguiente: 
+- todos los documentos necesarios relativos a las características del subsistema, 
+- la lista de los componentes de interoperabilidad incorporados al subsistema, 
+- las copias de las declaraciones "CE" de conformidad y, en su caso, de las declaraciones "CE" de idoneidad para el uso que deben poseer dichos componentes en virtud del artículo 13 de la Directiva, acompañadas, si procede, de los documentos correspondientes (certificados, documentos de aprobación y vigilancia del sistema de gestión de la calidad) expedidos por los organismos notificados, 
+- todos los elementos relativos al mantenimiento, condiciones y límites de utilización del subsistema, 
+- todos los elementos relativos a las instrucciones de mantenimiento, vigilancia continua o periódica, reglaje y conservación, 
+- el certificado de examen de tipo referente al subsistema y la documentación técnica correspondiente, definida en el módulo SB, 
+- acreditación de la conformidad con las demás reglamentaciones derivadas del Tratado (incluidos los certificados), 
+- - el registro de material rodante, incluidas todas las informaciones especificadas en la ETI. 
+11. Cada organismo notificado comunicará a los demás organismos notificados la información útil relativa a las aprobaciones del sistema de gestión de la calidad que haya expedido, retirado o denegado. 
+Los demás organismos notificados recibirán, previa petición, copias de las aprobaciones del sistema de gestión de la calidad que se hayan emitido. 
+12. Los expedientes que acompañen al certificado de conformidad deberán presentarse a la entidad contratante. 
+La entidad contratante o su mandatario establecido en la Comunidad conservarán una copia del expediente técnico durante toda la vida útil del subsistema. El expediente será remitido a los demás Estados miembros que así lo soliciten. 
+B.3. Módulo SF: Verificación del producto 
+1. En este módulo se describe el procedimiento de verificación "CE" mediante el cual un organismo notificado verifica y certifica, por encargo de una entidad contratante o de su mandatario establecido en la Comunidad, que el aspecto "Ruido" de un subsistema "Material rodante", para el que un organismo notificado ya haya emitido un certificado de examen de tipo: 
+- se ajusta a lo dispuesto en la presente y en cualquier otra ETI aplicable, que acreditan el cumplimiento de los requisitos esenciales [10] de la Directiva 2001/16/CE [11], 
+- cumple las demás disposiciones reglamentarias derivadas del Tratado, 
+y puede entrar en servicio. 
+2. La entidad contratante [12] debe presentar una solicitud de verificación "CE" del subsistema (mediante una verificación del producto) a un organismo notificado de su elección. Dicha solicitud comprenderá: 
+- el nombre y dirección de la entidad contratante o de su mandatario, y 
+- la documentación técnica. 
+3. En esa parte del procedimiento, la entidad contratante verifica y declara que el subsistema en cuestión se ajusta al tipo descrito en el certificado de examen de tipo y satisface los requisitos de la ETI que le son aplicables. 
+El organismo notificado ejecutará el procedimiento a condición de que el certificado de examen de tipo expedido antes de la evaluación siga siendo válido para el subsistema objeto de la solicitud. 
+4. La entidad contratante tomará todas las medidas necesarias para que el procedimiento de fabricación (incluido el montaje y la integración de los componentes de interoperabilidad por el contratista principal [13], en su caso) garantice la conformidad del subsistema con el tipo descrito en el certificado de examen de tipo y con los requisitos de la ETI que le son aplicables. 
+5. La solicitud deberá permitir la comprensión del diseño, la fabricación, la instalación, el mantenimiento y el funcionamiento del subsistema, así como la evaluación de su conformidad con el tipo descrito en el certificado del examen de tipo y con los requisitos de la ETI. 
+Dicha solicitud comprenderá: 
+- la documentación técnica relativa al tipo aprobado, incluido el certificado del examen de tipo emitido al término del procedimiento definido en el módulo SB, 
+y, si no se incluye en dicha documentación: 
+- una descripción general del subsistema, de su diseño de conjunto y de su construcción, 
+- el registro de material rodante, incluidas todas las informaciones especificadas en la ETI, 
+- información sobre el diseño y la fabricación, como planos, esquemas de componentes, subconjuntos, conjuntos, circuitos, etc., 
+- la documentación técnica relativa a la fabricación y el montaje del subsistema, 
+- las especificaciones técnicas aplicadas, incluidas las especificaciones europeas, 
+- las pruebas que puedan ser necesarias para demostrar la aplicación de las especificaciones mencionadas, sobre todo en caso de no haber aplicado plenamente las especificaciones europeas y las cláusulas pertinentes, 
+- pruebas de conformidad con otras reglamentaciones derivadas del Tratado (incluidos los certificados) para la fase de producción, 
+- la lista de los componentes de interoperabilidad que vayan a incorporarse al subsistema, 
+- copias de las declaraciones "CE" de conformidad o de idoneidad para el uso que deben acompañar a los mencionados componentes de interoperabilidad, y todos los elementos necesarios definidos en el anexo VI de las Directivas, 
+- la lista de fabricantes que han intervenido en el diseño, la fabricación, el montaje y la instalación del subsistema. 
+Si la ETI exige que la documentación técnica incluya información complementaria, ésta deberá incluirse. 
+6. El organismo notificado examinará primero la solicitud en relación con la validez del examen de tipo y el certificado del examen de tipo. 
+Si el organismo notificado considera que el certificado de examen de tipo ya no es válido o no es adecuado y que hace falta un nuevo examen de tipo, justificará su decisión. 
+El organismo notificado efectuará los exámenes y ensayos pertinentes a fin de verificar la conformidad del subsistema con el tipo descrito en el certificado de examen de tipo y con los requisitos de la ETI. El organismo notificado examinará y verificará todos los subsistemas fabricados como producto en serie, tal como se especifica en el punto 4. 
+7. Verificación mediante control y ensayo de cada subsistema (como producto en serie) 
+7.1. El organismo notificado efectuará los ensayos, exámenes y verificaciones necesarios para asegurar la conformidad de los subsistemas, fabricados como productos en serie, con arreglo a la ETI. Los exámenes, ensayos y controles abarcarán las fases previstas en la ETI. 
+7.2. Cada subsistema (como producto en serie) deberá someterse a un examen, ensayo y verificación individuales [14] para verificar su conformidad con el tipo descrito en el certificado de examen de tipo y con los requisitos de la ETI que le son aplicables. Si un ensayo no está recogido en la ETI (o en una norma europea citada en la ETI), se aplicarán las especificaciones europeas o ensayos equivalentes. 
+8. El organismo notificado podrá ponerse de acuerdo con la entidad contratante (y los contratistas principales) para determinar dónde se realizarán los ensayos y convenir que los ensayos finales del subsistema y, si lo prevé la ETI, los ensayos o validaciones en plenas condiciones de funcionamiento sean efectuados por la entidad contratante bajo la vigilancia directa y en presencia del organismo notificado. 
+El organismo notificado tendrá derecho de acceso, con fines de ensayo y de verificación, a las zonas de construcción, talleres de fabricación, lugares de montaje e instalaciones y, en su caso, a las instalaciones de prefabricación y de ensayo, para el desempeño de su misión de conformidad con la ETI. 
+9. Si el subsistema cumple los requisitos de la ETI, el organismo notificado expedirá el certificado de conformidad destinado a la entidad contratante, que a su vez expedirá la declaración "CE" de verificación destinada a la autoridad supervisora del Estado miembro donde esté situado o funcione el subsistema. 
+Estas actividades del organismo notificado se basarán en el examen de tipo y en los ensayos, verificaciones y controles realizados con todos los productos fabricados en serie, tal como se indica en el punto 7 y se establece en la ETI o en las especificaciones europeas pertinentes. 
+La declaración "CE" de verificación y los documentos que la acompañen deberán ir fechados y firmados. La declaración deberá estar redactada en la misma lengua que el expediente técnico y comprenderá, por lo menos, la información indicada en el anexo V de la Directiva. 
+10. El organismo notificado será responsable de la constitución del expediente técnico que debe acompañar la declaración "CE" de verificación. El expediente técnico incluirá, como mínimo, la información indicada en el artículo 18, apartado 3, de la Directiva y, en particular, lo siguiente: 
+- todos los documentos necesarios relativos a las características del subsistema, 
+- el registro de material rodante, incluidas todas las informaciones especificadas en la ETI, 
+- la lista de los componentes de interoperabilidad incorporados al subsistema, 
+- las copias de las declaraciones "CE" de conformidad y, en su caso, de las declaraciones "CE" de idoneidad para el uso que deben poseer dichos componentes en virtud del artículo 13 de la Directiva, acompañadas, si procede, de los documentos correspondientes (certificados, documentos de aprobación y vigilancia del sistema de gestión de la calidad) expedidos por los organismos notificados, 
+- todos los elementos relativos al mantenimiento, condiciones y límites de utilización del subsistema, 
+- todos los elementos relativos a las instrucciones de mantenimiento, vigilancia continua o periódica, reglaje y conservación, 
+- el certificado de examen de tipo referente al subsistema y la documentación técnica correspondiente, definida en el módulo SB, 
+- el certificado de conformidad del organismo notificado mencionado en el punto 9, acompañado de las notas de cálculo correspondientes y visado por éste, indicando que el proyecto es conforme a la Directiva y a la ETI, y precisando, si procede, las reservas formuladas durante la ejecución de las actividades y que no hayan sido retiradas. El certificado también deberá ir acompañado, si procede, de los informes de inspección y auditoría elaborados en relación con la verificación. 
+11. Los expedientes que acompañen al certificado de conformidad deberán presentarse a la entidad contratante. 
+La entidad contratante conservará una copia del expediente técnico durante toda la vida útil del subsistema. El expediente será remitido a los demás Estados miembros que así lo soliciten. 
+B.4. Módulo SH2: Sistema de gestión de la calidad total con examen del diseño 
+1. En este módulo se describe el procedimiento de verificación "CE" mediante el cual un organismo notificado verifica y certifica, por encargo de una entidad contratante o de su mandatario establecido en la Comunidad, que el aspecto "Ruido" de un subsistema "Material rodante": 
+- se ajusta a lo dispuesto en la presente ETI y en cualquier otra ETI aplicable, que acreditan el cumplimiento de los requisitos esenciales [15] de la Directiva 2001/16/CE [16], 
+- cumple las demás disposiciones reglamentarias derivadas del Tratado, 
+y puede entrar en servicio. 
+2. El organismo notificado ejecutará el procedimiento, incluido un examen de diseño del subsistema, a condición de que la entidad contratante [17] y los contratistas principales cumplan las obligaciones especificadas en el punto 3. 
+Los "contratistas principales" son las empresas cuyas actividades contribuyen al cumplimiento de los requisitos esenciales de la ETI. Concretamente: 
+- la empresa responsable del proyecto de subsistema en su conjunto (en particular, de la integración del subsistema), 
+- otras empresas que intervengan únicamente en una parte del proyecto de subsistema (por ejemplo, que se ocupen de su montaje o instalación). 
+Este término no hace referencia a los subcontratistas del fabricante que suministren componentes de interoperabilidad o de otro tipo. 
+3. Para el subsistema que sea objeto del procedimiento de verificación "CE", la entidad contratante, o los contratistas principales, en su caso, utilizarán un sistema aprobado de gestión de la calidad del diseño, la fabricación y la inspección y el ensayo final del producto, tal como se especifica en el punto 5, y que será objeto de la vigilancia especificada en el punto 6. 
+El contratista principal responsable del proyecto del conjunto del subsistema (y, en particular, de la integración del subsistema) deberá aplicar, en todos los casos, un sistema aprobado de gestión de la calidad del diseño, la fabricación y la inspección y el ensayo final del producto, sistema que se someterá a la vigilancia prevista en el punto 6. 
+Si es la propia entidad contratante la responsable del conjunto del proyecto de subsistema (y, en particular, de la integración del subsistema), o si participa directamente en su diseño o producción (incluidas las tareas de montaje e instalación), deberá aplicar un sistema aprobado de gestión de la calidad para tales actividades, que se someterá a la vigilancia prevista en el punto 6. 
+Los solicitantes que participen únicamente en el montaje y la instalación sólo podrán utilizar un sistema aprobado de gestión de la calidad que abarque la fabricación y la inspección y el ensayo final del producto. 
+4. Procedimiento de verificación "CE" 
+4.1. La entidad contratante deberá presentar a un organismo notificado de su elección una solicitud de verificación "CE" del subsistema (mediante un sistema de gestión de la calidad total con examen del diseño), que incluya la coordinación de la vigilancia de los sistemas de gestión de la calidad conforme a lo dispuesto en los puntos 5.4 y 6.6. La entidad contratante deberá comunicar su elección e informar de la solicitud a los fabricantes implicados. 
+4.2. La solicitud deberá permitir comprender el diseño, la fabricación, el montaje, la instalación, el mantenimiento y el funcionamiento del subsistema y evaluar su conformidad con los requisitos de la ETI. 
+Dicha solicitud comprenderá: 
+- el nombre y dirección de la entidad contratante o de su mandatario, 
+- la documentación técnica, incluyendo: 
+- una descripción general del subsistema, de su diseño de conjunto y de su construcción, 
+- las especificaciones técnicas de diseño aplicadas, incluidas las especificaciones europeas, 
+- las pruebas que puedan ser necesarias para demostrar la aplicación de las especificaciones mencionadas, sobre todo en caso de no haber aplicado plenamente las especificaciones europeas y las cláusulas pertinentes, 
+- el programa de ensayos, 
+- el registro de material rodante, incluidas todas las informaciones especificadas en la ETI, 
+- la documentación técnica relativa a la fabricación y el montaje del subsistema, 
+- la lista de los componentes de interoperabilidad que vayan a incorporarse al subsistema, 
+- copias de las declaraciones "CE" de conformidad o de idoneidad para el uso que deben acompañar a los componentes de interoperabilidad, y todos los elementos necesarios definidos en el anexo VI de las Directivas, 
+- pruebas de conformidad con las demás reglamentaciones derivadas del Tratado (incluidos los certificados), 
+- la lista de todos los fabricantes que intervengan en el diseño, la fabricación, el montaje y la instalación del subsistema, 
+- las condiciones de utilización del subsistema (restricciones de tiempo o distancia de funcionamiento, límites de desgaste, etc.), 
+- condiciones de mantenimiento y documentación técnica relativa al mantenimiento del subsistema, 
+- todo requisito técnico que deba tenerse en cuenta durante la producción, el mantenimiento o el funcionamiento del subsistema, 
+- la explicación del modo en que todas las etapas definidas en el punto 5.2 están cubiertas por los sistemas de gestión de la calidad del contratista o de los contratistas principales o de la entidad contratante, en su caso, y la prueba de su efectividad, 
+- la indicación del organismo u organismos notificados encargados de la aprobación y la vigilancia de estos sistemas de gestión de la calidad. 
+4.3 La entidad contratante presentará los resultados de los exámenes, controles y ensayos [18], incluidos los ensayos de tipo, si procede, que realice su laboratorio adecuado u otro en su nombre. 
+4.4. El organismo notificado examinará la solicitud en relación con el examen de diseño y evaluará los resultados de los ensayos. Si el diseño cumple las disposiciones de la Directiva y de la ETI que le sean aplicables, el organismo notificado deberá remitir un informe de examen del diseño al solicitante. El informe contendrá las conclusiones del examen del diseño, sus condiciones de validez, las indicaciones necesarias para la identificación del diseño examinado y, en su caso, una descripción del funcionamiento del subsistema. 
+Si se deniega la expedición del informe del examen de diseño a la entidad contratante, el organismo notificado detallará los motivos de su negativa. Deberá preverse un procedimiento de recurso. 
+5. Sistema de gestión de la calidad 
+5.1. La entidad contratante, en su caso, y los contratistas principales que se hayan empleado deberán presentar una solicitud de evaluación de sus sistemas de gestión de la calidad a un organismo notificado de su elección. 
+Dicha solicitud comprenderá: 
+- toda la información pertinente para el subsistema de que se trate, 
+- la documentación relativa al sistema de gestión de la calidad. 
+Quienes intervengan únicamente en una parte del proyecto del subsistema, sólo deberán facilitar información sobre esa parte en concreto. 
+5.2. Por lo que respecta a la entidad contratante o al contratista principal responsable del conjunto del proyecto de subsistema, el sistema de gestión de la calidad deberá garantizar que el subsistema cumpla todos los requisitos de la ETI. 
+El sistema de gestión de la calidad de otros contratistas principales deberá garantizar que su contribución al subsistema cumpla los requisitos de la ETI. 
+Todos los elementos, exigencias y disposiciones adoptados por los solicitantes deberán reunirse de forma sistemática y ordenada en una documentación compuesta por políticas, procedimientos e instrucciones escritas. Esta documentación relativa al sistema de gestión de la calidad deberá permitir una interpretación uniforme de las políticas y los procedimientos de calidad, como programas, planes, manuales y expedientes de calidad. 
+El sistema debe contener, en particular, una descripción suficiente de los aspectos siguientes: 
+- por lo que respecta a todos los solicitantes: 
+- los objetivos de calidad y la estructura de la organización, 
+- las correspondientes técnicas, procesos y acciones sistemáticas que se utilizarán para la fabricación, el control de la calidad y la gestión de la calidad, 
+- los exámenes, controles y ensayos que se efectuarán antes, durante y después del diseño, la fabricación, el montaje y la instalación, con indicación de su frecuencia de ejecución, 
+- expedientes de calidad, como los informes de inspección y datos de los ensayos, los datos de calibrado, los informes sobre la cualificación del personal, etc., 
+- por lo que respecta a los contratistas, en la medida en que afecte a su contribución al diseño del subsistema: 
+- las especificaciones técnicas de diseño, incluidas las especificaciones europeas [19] que se aplicarán y, en caso de que no se apliquen íntegramente las especificaciones europeas, los medios que se utilizarán para asegurar que se respeten los requisitos de la ETI aplicables al subsistema, 
+- las técnicas, procesos y acciones sistemáticas de control y verificación del diseño que se utilizarán para el diseño del subsistema, 
+- los medios para verificar si se ha alcanzado el nivel de calidad requerido del diseño y del subsistema, así como el buen funcionamiento de los sistemas de gestión de la calidad en todas las fases, incluida la producción, 
+- y además, por lo que respecta a la entidad contratante o al contratista principal responsable del proyecto de subsistema completo: 
+- las responsabilidades y facultades de que dispone la dirección para garantizar la calidad global del subsistema, en particular en lo que se refiere a la gestión de la integración del subsistema. 
+Los exámenes, ensayos y controles abarcarán todas las etapas siguientes: 
+- el diseño de conjunto, 
+- la construcción del subsistema, en particular las actividades de ingeniería civil, el montaje de los componentes y la puesta a punto final, 
+- los ensayos finales del subsistema, 
+- y, si se especifica en la ETI, la validación en plenas condiciones de funcionamiento. 
+5.3. El organismo notificado elegido por la entidad contratante comprobará si en la aprobación y vigilancia del sistema de gestión de la calidad del solicitante [20] están suficiente y adecuadamente incluidas todas las etapas del subsistema mencionadas en el punto 5.2. 
+Si la conformidad del subsistema con los requisitos de la ETI se basa en más de un sistema de gestión de la calidad, el organismo notificado comprobará, en particular: 
+- si las relaciones y las interfaces entre los sistemas de gestión de la calidad están claramente documentadas, 
+- y si están suficiente y adecuadamente definidas, con respecto al contratista general, las responsabilidades y facultades de la dirección para garantizar la conformidad del conjunto del subsistema. 
+5.4. El organismo notificado mencionado en el punto 5.1 evaluará el sistema de gestión de la calidad para determinar si satisface las exigencias del punto 5.2. Dará por supuesto que se cumplen estas exigencias si el solicitante establece un sistema de calidad de la producción, la inspección y el ensayo del producto final conforme con la norma EN/ISO 9001-2000 que tenga en cuenta la especificidad del subsistema para el cual se ha establecido. 
+Si un solicitante utiliza un sistema certificado de gestión de la calidad, el organismo notificado lo tendrá en cuenta en su evaluación. 
+La auditoría deberá ser específica del subsistema de que se trate, teniendo en cuenta, al mismo tiempo, la contribución específica del solicitante al subsistema. El equipo de auditores incluirá, al menos, un miembro experimentado en evaluación de la tecnología del subsistema. El procedimiento de evaluación comprenderá una visita de evaluación a las dependencias del solicitante. 
+La decisión se notificará al solicitante. La notificación contendrá las conclusiones del examen y la decisión de evaluación motivada. 
+5.5. La entidad contratante, en su caso, y los contratistas principales se comprometerán a cumplir las obligaciones derivadas del sistema de gestión de la calidad, tal como haya sido aprobado, y a mantenerlo de modo que siga siendo adecuado y eficaz. 
+Deberán mantener informado al organismo notificado que haya aprobado su sistema de gestión de la calidad con respecto a cualquier cambio significativo que afecte al cumplimiento de los requisitos por el subsistema. 
+El organismo notificado evaluará los cambios propuestos y decidirá si el sistema de gestión de la calidad así modificado sigue respondiendo a las exigencias del punto 5.2 o si debe procederse a una nueva evaluación. 
+Notificará su decisión al solicitante. La notificación contendrá las conclusiones del examen y la decisión de evaluación motivada. 
+6. Vigilancia del sistema de gestión de la calidad bajo la responsabilidad del organismo notificado 
+6.1. El objetivo de la vigilancia es garantizar que la entidad contratante, en su caso, y los contratistas principales cumplan debidamente las obligaciones derivadas del sistema o sistemas de gestión de la calidad aprobados. 
+6.2. La entidad contratante, en su caso, y los contratistas principales deberán enviar (o hacer que se envíen) al organismo notificado mencionado en el punto 5.1 todos los documentos necesarios a este fin, incluidos los planes de puesta en práctica y los expedientes técnicos relativos al subsistema (en la medida en que sean pertinentes para la contribución específica del solicitante al subsistema), en particular: 
+- la documentación relativa al sistema de gestión de la calidad, incluidos los medios concretos empleados para asegurar que: 
+- por lo que respecta a la entidad contratante o contratista principal responsable del conjunto del proyecto de subsistema, se hayan definido suficiente y adecuadamente las responsabilidades y competencias generales de la gestión para la conformidad de todo el subsistema, 
+- por lo que respecta a cada solicitante, el sistema de gestión de la calidad se gestione correctamente para conseguir la integración a nivel del subsistema, 
+- los expedientes de calidad previstos en la parte del sistema de gestión de la calidad del diseño, como los resultados de análisis, cálculos, ensayos, etc., 
+- los expedientes de calidad previstos en la parte del sistema de gestión de la calidad de la fabricación (incluido el montaje y la instalación), como informes de inspección y datos de ensayo, datos de calibración, informes sobre la competencia del personal afectado, etc. 
+6.3. El organismo notificado efectuará periódicamente auditorías con el fin de asegurarse de que la entidad contratante, en su caso, y los contratistas principales mantengan y apliquen el sistema de gestión de la calidad, y deberá remitirles un informe de auditoría. Si utilizan un sistema certificado de gestión de la calidad, el organismo notificado lo tendrá en cuenta en la vigilancia. 
+Las auditorías se realizarán al menos una vez al año, y como mínimo en una ocasión durante la ejecución de las actividades (diseño, fabricación, montaje o instalación) relativas al subsistema objeto del procedimiento de verificación "CE" contemplado en el punto 4. 
+6.4. Además, el organismo u organismos notificados podrán efectuar visitas imprevistas a los emplazamientos mencionados en el punto 5.2 del solicitante o solicitantes. Con ocasión de estas visitas, el organismo notificado podrá efectuar auditorías completas o parciales y podrá efectuar o hacer efectuar ensayos para verificar el buen funcionamiento del sistema de gestión de la calidad donde lo juzgue necesario. Deberá facilitar al solicitante o solicitantes un informe de inspección e informes de ensayo o auditoría, según proceda. 
+6.5. El organismo notificado elegido por la entidad contratante y responsable de la verificación "CE", si no se encarga de la vigilancia de todos los sistemas de gestión de la calidad que se vean afectados, como se indica en el punto 5, deberá coordinar las actividades de vigilancia de cualquier otro organismo notificado encargado de esa tarea, a fin de: 
+- asegurarse de que la gestión de las interfaces entre los distintos sistemas de gestión de la calidad relativos a la integración de subsistemas se haya realizado correctamente, 
+- recopilar, en colaboración con la entidad contratante, los elementos necesarios para que la evaluación garantice la coherencia y la supervisión general de los distintos sistemas de gestión de la calidad. 
+Esta coordinación incluye el derecho del organismo notificado: 
+- a recibir toda la documentación (aprobación y vigilancia) expedida por los demás organismos notificados, 
+- a asistir a las auditorías de vigilancia previstas en el punto 5.4, 
+- a emprender auditorías complementarias de conformidad con el punto 5.5, bajo su responsabilidad y junto con los demás organismos notificados. 
+7. El organismo notificado mencionado en el punto 5.1 tendrá derecho de acceso, con fines de inspección, auditoría y vigilancia, a las zonas de diseño y construcción, talleres de fabricación, lugares de montaje e instalación, zonas de almacenamiento y, en su caso, a las instalaciones de prefabricación o de ensayo y, de un modo más general, a todos los lugares que estime necesarios para su misión, habida cuenta de la contribución específica del solicitante al proyecto de subsistema. 
+8. La entidad contratante, en su caso, y los contratistas principales mantendrán a disposición de las autoridades nacionales durante un período de diez años a partir de la fecha de fabricación del último subsistema: 
+- la documentación contemplada en el segundo guión del segundo párrafo del punto 5.1, 
+- las adaptaciones contempladas en el párrafo segundo del punto 5.5, 
+- las decisiones e informes emitidos por el organismo notificado contemplados en los puntos 5.4, 5.5 y 6.4. 
+9. Si el subsistema satisface los requisitos de la ETI, el organismo notificado, sobre la base del examen del diseño y de la aprobación y la vigilancia del sistema de gestión de la calidad, expedirá el certificado de conformidad destinado a la entidad contratante, que a su vez expedirá la declaración "CE" de verificación destinada a la autoridad tutelar del Estado miembro en el que esté situado o funcione el subsistema. 
+La declaración "CE" de verificación y los documentos que la acompañen deberán ir fechados y firmados. La declaración deberá estar redactada en la misma lengua que el expediente técnico y comprenderá, por lo menos, la información indicada en el anexo V de la Directiva. 
+10. El organismo notificado elegido por la entidad contratante será responsable de la constitución del expediente técnico que deberá acompañar la declaración "CE" de verificación. El expediente técnico incluirá, como mínimo, la información indicada en el artículo 18, apartado 3, de la Directiva y, en particular, lo siguiente: 
+- todos los documentos necesarios relativos a las características del subsistema, 
+- la lista de los componentes de interoperabilidad incorporados al subsistema, 
+- las copias de las declaraciones "CE" de conformidad y, en su caso, de las declaraciones "CE" de idoneidad para el uso que deben poseer dichos componentes en virtud del artículo 13 de la Directiva, acompañadas, si procede, de los documentos correspondientes (certificados, documentos de aprobación y vigilancia del sistema de gestión de la calidad) expedidos por los organismos notificados, 
+- pruebas de conformidad con las demás reglamentaciones derivadas del Tratado (incluidos los certificados), 
+- todos los elementos relativos al mantenimiento, condiciones y límites de utilización del subsistema, 
+- todos los elementos relativos a las instrucciones de mantenimiento, vigilancia continua o periódica, reglaje y conservación, 
+- el certificado de conformidad del organismo notificado mencionado en el punto 9, acompañado de las notas de cálculo correspondientes y visado por éste, indicando que el proyecto es conforme a la Directiva y a la ETI, y precisando, si procede, las reservas formuladas durante la ejecución de las actividades y que no hayan sido retiradas. El certificado también deberá ir acompañado, si procede, de los informes de inspección y auditoría expedidos en relación con la verificación, mencionados en los puntos 6.4. y 6.5, 
+- el registro de material rodante, incluidas todas las informaciones especificadas en la ETI. 
+11. Cada organismo notificado comunicará a los demás organismos notificados la información pertinente sobre las aprobaciones de los sistemas de gestión de la calidad y los certificados de examen de diseño "CE" que haya expedido, retirado o denegado. 
+Los demás organismos notificados recibirán, previa solicitud, una copia: 
+- de las aprobaciones del sistema de gestión de la calidad y de las aprobaciones complementarias expedidas, y 
+- de los certificados de examen "CE" del diseño expedidos y sus complementos. 
+12. Los expedientes que acompañen al certificado de conformidad deberán presentarse a la entidad contratante. 
+La entidad contratante conservará una copia del expediente técnico durante toda la vida útil del subsistema. El expediente será remitido a los demás Estados miembros que así lo soliciten. 
+[1] Los requisitos esenciales se reflejan en los parámetros técnicos, interfaces y requisitos de rendimiento que se establecen en el capítulo 4 de la ETI. 
+[2] Este módulo podría utilizarse en el futuro cuando se actualicen las ETI de la Directiva 96/48/CE de alta velocidad. 
+[3] En este módulo, "entidad contratante" significa "la entidad contratante del subsistema, definida en la Directiva, o su mandatario establecido en la Comunidad". 
+[4] En este sentido, la ETI podrá definir requisitos específicos en el punto que corresponda. 
+[5] La definición de "especificación europea" se encuentra en las Directivas 96/48/CE y 2001/16/CE. La guía de aplicación de las ETI de alta velocidad explica cómo utilizar las especificaciones europeas. 
+[6] Los requisitos esenciales se reflejan en los parámetros técnicos, interfaces y requisitos de rendimiento que se establecen en el capítulo 4 de la ETI. 
+[7] Este módulo podría utilizarse en el futuro cuando se actualicen las ETI de la Directiva 96/48/CE de alta velocidad. 
+[8] En este módulo, "entidad contratante" significa "la entidad contratante del subsistema, definida en la Directiva, o su mandatario establecido en la Comunidad". 
+[9] En relación con la ETI "Material rodante", el organismo notificado podrá participar en el ensayo definitivo de las locomotoras o composiciones que debe efectuarse en servicio, en las condiciones especificadas en el capítulo correspondiente de la ETI. 
+[10] Los requisitos esenciales se reflejan en los parámetros técnicos, interfaces y requisitos de rendimiento que se establecen en el capítulo 4 de la ETI. 
+[11] Este módulo podría utilizarse en el futuro cuando se actualicen las ETI de la Directiva 96/48/CE de alta velocidad. 
+[12] En este módulo, "entidad contratante" significa "la entidad contratante del subsistema, definida en la Directiva, o su mandatario establecido en la Comunidad". 
+[13] Los "contratistas principales" son las empresas cuyas actividades contribuyen al cumplimiento de los requisitos esenciales de la ETI. Este término se refiere a la empresa que puede ser responsable del proyecto de subsistema completo u otras empresas que sólo intervengan en una parte del proyecto de subsistema (por ejemplo, que se encarguen del montaje o instalación del subsistema). 
+[14] En particular, en relación con la ETI "Material rodante", el organismo notificado participará en el ensayo final en servicio del material rodante o composición. Esto se indicará en el capítulo correspondiente de la ETI. 
+[15] Los requisitos esenciales se reflejan en los parámetros técnicos, interfaces y requisitos de rendimiento que se establecen en el capítulo 4 de la ETI. 
+[16] Este módulo podría utilizarse en el futuro cuando se actualicen las ETI de la Directiva 96/48/CE de alta velocidad. 
+[17] En este módulo, "entidad contratante" significa "la entidad contratante del subsistema, definida en la Directiva, o su mandatario establecido en la Comunidad". 
+[18] Los resultados de los ensayos podrán presentarse junto con la solicitud o posteriormente. 
+[19] La definición de "especificación europea" se encuentra en las Directivas 96/48/CE y 2001/16/CE y en las directrices de aplicación de las ETI de alta velocidad. 
+[20] En relación con la ETI "Material rodante", el organismo notificado podrá participar en el ensayo final en servicio del material rodante o composición en las condiciones especificadas en el capítulo correspondiente de la ETI. 
+-------------------------------------------------- 

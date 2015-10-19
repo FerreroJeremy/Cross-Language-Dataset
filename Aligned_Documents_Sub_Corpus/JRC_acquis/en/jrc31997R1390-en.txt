@@ -1,0 +1,244 @@
+Commission Regulation (EC) No 1390/97 of 18 July 1997 amending Regulation (EC) No 1091/94 laying down certain detailed rules for the implementation of Council Regulation (EEC) No 3528/86 on the protection of forests against atmospheric pollution 
+COMMISSION REGULATION (EC) No 1390/97 of 18 July 1997 amending Regulation (EC) No 1091/94 laying down certain detailed rules for the implementation of Council Regulation (EEC) No 3528/86 on the protection of forests against atmospheric pollution 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EEC) No 3528/86 of 17 November 1986 on the protection of Community's forests against atmospheric pollution (1), as last amended by Regulation (EC) No 307/97 (2), and in particular Article 3 (2) thereof, 
+Whereas, pursuant to the third indent of Article 2 (1) of Regulation (EEC) No 3528/86, the purpose of the Community scheme is to help the Member States to conduct intensive and continuous surveillance of forest ecosystems on the permanent observation plots; 
+Whereas, pursuant to Article 2 (2) of Regulation (EEC) No 3528/86 the Member States are required to forward to the Commission the data gathered by the network of permanent observation plots for intensive and continuous surveillance; 
+Whereas this network has been installed by the Member States in accordance with Annex I to Commission Regulation (EC) No 1091/94 (3), as last amended by Regulation (EC) No 690/95 (4); whereas the common methodology and the format for the submission of data for the continuous inventory of the crown condition, the inventory of soil and foliar condition, increment and deposition measurements and meteorological observations have been laid down in Annexes III to IX to Regulation (EC) No 1091/94; 
+Whereas the results of the collection and the analysis of soil solution are already recorded and the common methodology and the format for the data submission are to be added to Regulation (EC) No 1091/94; 
+Whereas the results of the observations on permanent observation plots for the continuous surveillance of forest ecosystems should be forwarded to the Commission on a yearly basis; 
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Standing Forestry Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Regulation (EC) No 1091/94 is hereby amended as follows: 
+1. Article 1 (2) is replaced by the following: 
+'2. On the permanent observation plots intensive and continuous surveillance of the forest ecosystems shall be carried out. This contains the continuous inventory on the crown condition, the inventory of soil and foliar condition and measurements on increment changes, deposition rates, meteorology and soil solution sampling and analysis in accordance with objective sampling methods and analysed in accordance with established methods.` 
+2. Article 1 (3) is replaced by the following: 
+'3. Member States shall forward to the Commission in standardized form before the end of every year at least all data measured during the year before for each permanent observation plot as specified in Annex VIIa together with a data accompanying report as specified in Annex VIIb. In addition, an annual progress report on evaluations and interpretations of results carried out on national level shall be forwarded to the Commission before 31 December every year as specified in Annex VIIb.` 
+3. Article 1 (4) is replaced by the following: 
+'4. Technical details are set out in Annexes III to X.` 
+4. In Article 2 (1) the following indent is added after the last indent: 
+'- to carry out the sampling and analysis of soil solution.` 
+5. Annex II, forms 2a and 2b, are replaced by Annex I to this Regulation. 
+6. Annex III is amended in accordance with Annex II to this Regulation. 
+7. Annex VIIa is amended in accordance with Annex III to this Regulation. 
+8. Annex VIIb is replaced by Annex IV to this Regulation. 
+9. Annex V to this Regulation is added as Annex X. 
+Article 2 
+This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 18 July 1997. 
+For the Commission 
+Franz FISCHLER 
+Member of the Commission 
+(1) OJ No L 326, 21. 11. 1986, p. 2. 
+(2) OJ No L 51, 21. 2. 1997, p. 9. 
+(3) OJ No L 125, 18. 5. 1994, p. 1. 
+(4) OJ No L 71, 31. 3. 1995, p. 25. 
+ANNEX I 
+Forms 2a and 2b of Annex II of Regulation (EC) No 1091/94 are replaced by the following forms: 
+Form 2a 
+%gt%START OF GRAPHIC%gt% 
+COST BREAKDOWN AND PROPOSED FINANCING (intensive monitoring) 
+%gt%END OF GRAPHIC%gt% 
+Form 2b 
+%gt%START OF GRAPHIC%gt% 
+FORWARD PLAN FOR THE EXECUTION OF THE PROJECT 
+(to be completed for each project proposal) 
+%gt%END OF GRAPHIC%gt% 
+ANNEX II 
+Annex III of Regulation (EC) No 1091/94 is amended as follows: 
+- Paragraph II.3 of Annex III is replaced by the following paragraph: 
+'II.3 General background information 
+The following plot and tree information shall be collected: 
+- plot number, 
+- exposure, 
+- tree number, 
+- information on removals and mortality, 
+- tree species, 
+- social class, 
+- crown shading, 
+- visibility, 
+and the date of assessment.` 
+- To paragraph II.4 (1), the following sentences are added: 
+'A tree with between 95 % and 100 % defoliation, which is still alive, is scored as 99. The score 100 is reserved for dead trees.` 
+- Paragraph II.5 is renumbered II.6 and the following new paragraph is added: 
+'II.5 Methods 
+In the sub-manual on visual assessment of tree condition on intensive monitoring plots (ICP Forests) additional details on the selection of trees and the execution of assessments are laid down. Moreover, the sub-manual contains technical information on the additional parameters to be assessed as well as on the submission of these parameters. It is advised to follow the technical details laid down in this sub-manual and to submit on optional basis the results of the assessments of the optional parameters to the Commission by applying the relevant details of the sub-manual.` 
+ANNEX III 
+To Annex VIIa of Regulation (EC) No 1091/94 the following part is added: 
+- To paragraph 1 (Review of File names per survey) the following words are added: 
+%gt%TABLE%gt% 
+- and the last subparagraph is replaced by: 
+'Each filename consists of the two-letter country code (represented by XX in the list of file names) followed by the year of assessment (in the example 1996) or GENER when the information is given only once, the dot (.) and in the extension a three-letter code. This three-letter code for the plotfiles consists of the letter PL (or P) and the first letter(s) of the assessment Soil, Foliage, Increment, Deposition, Meteorology and Soil Solution. The three-letter code for the data file consists of two (or one) letter(s) for Soil, Foliage, Increment, Deposition, Meteorology or Soil Solution and one (or two) letter(s) to indicate Mandatory, Optional or the different parts of the increment assessment (Evaluation), deposition assessment (Air) or Meteorology (Climate or Damage).` 
+- The following 3 forms (XX1996.PSS, XX1996.SSM and XX1996.SSO) are added: 
+- Forms 3a and 3b are replaced by forms 3a and 3b enclosed. 
+- In the 'Code lists for the survey data of the permanent observation plots to be forwarded to the Commission` the following parts are added: 
+- To point (1) Country codes the following 3 codes are added: 
+'13 Sverige 
+14 Österreich 
+15 Suomi-Finland` 
+and after point 50: 
+- 'Information with regard to the soil solution monitoring 
+(51) Sampler number 
+The samplers in the plot shall be numbered in a permanent way (1 - 99). 
+(52) Sampler code 
+The following codes shall be used for the samplers for soil solution: 
+1: Tension lysimeter 
+2: Zero tension lysimeter 
+3: Centrifugation 
+4: Saturation extraction 
+(53) Sampling depth 
+The sampling depth in metres below the surface (e.g. -0.40) 
+- Information with regard to the tree condition assessment 
+(54) Exposure 
+1 No special exposure (plot located within a larger forest area with no or gentle relief) 
+2 Limited exposure (plots near forest edge, on slopes, etc.) 
+3 Severely exposed plots (on mountain tops, etc.) 
+(55) Removals %amp% Mortality 
+The tree has been cut and removed, only its stump has been left 
+11 planned utilization, e.g. thinning 
+12 utilization for biotic reasons, e.g. insect damage 
+13 utilization for abiotic reasons, e.g. windthrow 
+18 reason for disappearance unknown 
+Tree is still standing and alive, but condition parameters are no longer assessed 
+21 lop-sided or hanging tree 
+22 heavy crown break (over 50 % of the crown) or broken stem 
+23 tree is no longer in Kraft class 1, 2 or 3 (not applicable to the first inventory in a plot) 
+29 other reason (specify) 
+Standing dead tree 
+31 biotic reason, e.g. bark beetle attack 
+32 abiotic reason, e.g. drought, lightning 
+38 unknown cause of death 
+Trees that have fallen (living or dead) 
+41 abiotic reason, e.g. storm 
+42 biotic reason, e.g. beavers 
+48 unknown cause 
+Notes: 
+- class 22 is only applicable in those countries that do not record trees with more than 50 % crown damage 
+- class 23 is only applicable in those countries who restrict sampling to Kraft classes 1, 2 and 3 
+(56) Social Class 
+1 pre-dominant (including free standing trees) trees with upper crown standing above the general level of the canopy 
+2 dominant - trees with crowns forming the general level of the canopy 
+3 co-dominant - trees extending into the canopy and receiving some light from above but shorter than 1 or 2 
+4 suppressed - trees with crowns below the general level of the canopy, receiving no direct light from above 
+(57) Crown shading 
+1 crown significantly affected (shaded or physical interactions) on one side 
+2 crown significantly affected (shaded or physical interactions) on two sides 
+3 crown significantly affected (shaded or physical interactions) on three sides 
+4 crown significantly affected (shaded or physical interactions) on four sides 
+5 crown open-grown or with no evidence of shading effects 
+6 suppressed trees 
+(58) Visibility 
+1 whole crown is visible 
+2 crown only partially visible 
+3 crown only visible with backlighting (i.e. in outline) 
+4 crown not visible`. 
+Form 9a 
+%gt%START OF GRAPHIC%gt% 
+XX1996.PSS 
+Contents of reduced plot file to be used in combination with the soil solution measurements 
+%gt%END OF GRAPHIC%gt% 
+Form 9b 
+%gt%START OF GRAPHIC%gt% 
+XX1996.SSM 
+Contents of datafile with soil solution measurements (mandatory) 
+%gt%END OF GRAPHIC%gt% 
+Form 9 c 
+%gt%START OF GRAPHIC%gt% 
+XX1996.SSO 
+Contents of datafile with soil solution measurements (Optional) 
+%gt%END OF GRAPHIC%gt% 
+Form 3a 
+%gt%START OF GRAPHIC%gt% 
+XX1996.PLT 
+Contents of file with the information on Plot level to be used with the crown assessment 
+%gt%END OF GRAPHIC%gt% 
+Form 3b 
+%gt%START OF GRAPHIC%gt% 
+XX1996.TRM 
+Contents of file with the information on Tree level (Mandatory) to be used with the tree condition assessment 
+%gt%END OF GRAPHIC%gt% 
+ANNEX IV 
+'ANNEX VII B 
+DETAILS FOR THE SUBMISSION OF BACKGROUND INFORMATION ON THE MONITORING METHODS APPLIED AND THE RESULTS OF EVALUATION/INTERPRETATION OBTAINED ON NATIONAL LEVEL 
+I. General remarks 
+In addition to the submission of the data from the intensive monitoring of forest ecosystems, Member States shall prepare and submit to the Commission a document with the background information on the monitoring methods applied (Data Accompanying Report, DAR) and an annual report on the progress made in the interpretation/evaluation of results on national level (annual progress report). 
+The DAR consists of two parts: the part describing the actually applied methods of the sampling lay-out, the equipment used, the assessment, the analysis, etc. (for details see paragraph II.1) and the part on exceptions and disturbances encountered (for details see paragraph II.2). 
+Member States shall submit to the Commission every year a report on progress made in the interpretation/evaluation of results on national level, starting from 1997 onwards. This report shall comprise 
+- information on the achievements of the National Focal Centre (NFC) itself, 
+- an (up-dated) description of the national evaluation strategy, 
+- a summary of the results achieved on national level, and 
+- information on publications made in this field on national or international level by the NFC or other institutions involved. 
+Recommendations for interpretation and evaluation of results on national level are given below in paragraph III. 
+II. Data Accompanying Report 
+II.1 Part of the DAR describing the methods actually applied, etc. 
+This part of the DAR describes the sampling lay-out methods actually applied, the equipment used, the assessment, the analysis, etc. The following details are given: 
+Inventory/Sampling methods 
+In many surveys of the intensive monitoring of forest ecosystems there is a large freedom in the selection of equipment, sampling depths, timing, intensity of the survey, etc. The details of the equipment actually applied, the actual depth, timing and frequency of the survey/sampling shall be stated. Whenever samples have been taken, details on this sampling including the storage and transport, shall be stated. 
+Any applied control measurements shall be described in short. 
+Methods for analysis and calculation of results 
+With regard to the analysis of samples, details of the preparation of the samples and methods applied in the analysis shall be given. In most surveys, certain methods for preparation and analysis are recommended. Whenever methods different from the recommended methods have been applied, exact details of these methods shall be given including possibilities for (re-) calculation of the obtained data. Any applied control measurements (participation in ring tests, etc.) shall be described in short. 
+As a basis for the description of the methods, the DAR questionnaires that have been developed by Forest Intensive Monitoring Coordination Institute of the European Commission, in close collaboration with the chairmen of the expert panels of ICP Forests (UN/ECE), can be used for the general description of the data assessment. The information submitted with the help of the DAR questionnaires will remain valid over the years until the applied methods are changed. 
+Special attention shall be given to observe and document changes in the applied methods of the inventory, transport and analysis. Regional differences shall be stated and explained in full detail (e.g. different laboratories used for analysis). 
+II.2 Part of the DAR dealing with exceptions and disturbances encountered (annual DAR) 
+In addition to the general information on the methods described by using the DAR questionnaire, the specific problems, exceptions, disturbances and validation problems of the data submitted each year, are to be described. 
+Exceptions and disturbances 
+Exceptional situations and important disturbances from the routine shall be reported. Besides the description of the applied methods for the sampling, analysis, etc., as presented in the DAR questionnaires, good documentation of the exceptions, exceptional situations and disturbances is needed. This will be documented in an annual DAR report and submitted to the Commission together with the submitted data. 
+Data validation and data management 
+The procedures applied for data quality control shall be given, including limits of data rejection (plausibility checks) as well as the procedures that have been applied to check the consistency of the national data sets. 
+When gaps exist in the data, estimates based on results from other sources can be made in certain cases. These estimated data shall be indicated and the used assumptions shall be carefully documented. 
+III. Annual report on progress made in the interpretation/evaluation of results on national level 
+This report provides information on progress made in the interpretation/evaluation of results on national level. For the interpretation/evaluation of results on national level the following details are given: 
+General information 
+Member States shall execute an evaluation and interpretation of the monitoring data on national level. 
+Member States are free to decide which evaluation and interpretation is carried out on national level and reported to the Commission. However, the following suggestions are given for this evaluation: 
+Single survey evaluation and interpretation 
+Whenever results from earlier surveys are available an attempt should be made to determine trends. The results of the single survey should be reviewed and compared to results from other (similar) surveys carried out in the (same) region/country. Differences and similarities are to be indicated and when applicable the differences should be evaluated. Also relevant data from other sources, which could explain certain relations in parameters should be included in the evaluation here. 
+Integrated evaluation and interpretation 
+With the completion of the different surveys, possibilities arise for integrated evaluation. In the NFC, all survey results and evaluation reports are collected. The NFC shall coordinate the integrated evaluation and the interpretation of the different survey results on national level. 
+Evaluation and interpretation with external data 
+The results of the integrated evaluation and interpretation found should be reviewed and compared to results from other sources. Differences and similarities should be noted and explained whenever possible. 
+IV. Timing for the submission of the DAR and the report on progress made in the interpretation/evaluation of results on national level 
+IV.1 Timing for the DAR 
+The DAR questionnaire shall be completed and submitted to the Commission with the first data submission. If the methods are changed the information on the changes shall be submitted. The part of the DAR dealing with descriptions of noted disturbances and exceptions shall be submitted to the Commission together with the annually submitted data. 
+IV.2 Timing for the report on progress made in the interpretation/evaluation of results on national level 
+Progress reports on evaluations and interpretations carried out on national level shall be forwarded to the Commission before 31 December each year.` 
+ANNEX V 
+'ANNEX X 
+COMMON METHODS FOR SOIL SOLUTION MONITORING ON THE PERMANENT OBSERVATION PLOTS 
+I. General remarks 
+Monitoring of soil solution is to be carried out on at least 10 % of permanent observation plots. It is recommended that soil solution be monitored on plots where deposition is also monitored. Installation of the soil solution equipment shall be completed by 30 June 1998. 
+This Annex is based on technical recommendations of the Soil Expert Panel of the UN/ECE International Cooperative Programme on Assessment and Monitoring of Air Pollution Effects on Forests (ICP Forests). Reference is made to the sub-manual (1996) prepared by this expert panel. 
+II. Inventory methodology 
+II.1 Selection of sample location 
+Soil solution samplers should be installed close to where crown condition assessment is conducted. It is recommended that the lysimeters be randomly or systematically distributed over the whole plot although this may be limited by the presence of stones or stems (distance from a tree is not specified). Because of disturbances to the soil, zero-tension lysimeters should not be installed in the central part of the plot where tree parameters are monitored. For practical reasons, a representative subplot can be used. Lysimeters that have already been installed can be maintained, but new installations should be made as proposed above. 
+II.2 Sampling depths 
+It is recommended that the lysimeters be installed at fixed depths but installation by horizons is also acceptable. 
+- Soil solution collectors 
+It is strongly advised that lysimeters be placed at at least two depths, i.e one within the rooting zone (suggested depth is 10 to 20 cm) to gain insight into concentrations of nutrients and toxic elements near the fine roots (aim 1) and one below the rooting zone (suggested depth is 40-80 cm), to estimate the element output (aim 2). It is also advised that a third lysimeter be placed immediately below the humus layer. 
+- Soil samples 
+If centrifugation or saturation extract methods are used, the soil layers to be sampled are those mentioned in the soil manual: humus layer, 0 - 10, 10 - 20, 20 - 40 and 40 - 80 cm. A selection or aggregation of some layers can be made. 
+II.3 Sampling frequency 
+On plots where other intensive monitoring programmes are carried out, e.g. deposition and meteorological measurements, the sampling of the soil solution should be done monthly or bi-weekly. In case of soil sampling followed by extraction of the soil solution, four times per year is a maximum because of the destructive sampling procedure. Sampling should be done at the same month of the year. 
+II.4 Transport, storage and preparation 
+The samples shall be transported and stored in such a way that chemical changes are minimized. 
+Cool (4 °C) and dark storage of the soil solution within the lysimeter system will diminish biological activity. In many cases, and especially during colder season, keeping the bottle dark is sufficient. Organic or inorganic preservatives may be used, but they may interfere with the analysis. To diminish possible changes in the samples, the soil solution should be collected as soon as possible after the suction has been applied. 
+Transport and storage procedures (including waiting periods) shall be reported. Where applicable the problems and deviations of these procedures shall be reported in detail. 
+For determination of trace metals, aliquots of the sample should be transported to the laboratory in acid washed bottles. 
+If soil samples are collected, they should be kept cool in plastic or polyethylene bags and stored at 4 °C until centrifugation or the preparation of the saturation extract. Centrifugation or extraction should take place within one day (18 - 30 hours) after collection of the soil samples. 
+II.5 General background Information 
+The following information shall be collected: 
+- plot number, 
+- information on sampler (type, depth), 
+- first date of monitoring period, 
+- last date of monitoring period, 
+- number of (equal) measuring periods in monitoring period. 
+II.6 Analysis methods 
+In the %quot%Sub-manual on soil solution collection and analysis%quot% prepared by the Soil Expert Panel of the ICP-Forests, the approved methods for the analysis of the various soil solution parameters are described. 
+It is advised that the approved methods be used. If other (national) methods are applied, comparability of the analysis results shall be reported in detail together with the presentation of the analysis results. The inventory of the forest soil solution monitoring will distinguish between mandatory and optional parameters (See list below). 
+List of parameters 
+%gt%TABLE%gt% 
+II.7 Data transfer 
+The Member States shall forward to the Commission for each plot this information in a standardized form (see Annex VIIa, Form 9a, 9b, and 9c).` 

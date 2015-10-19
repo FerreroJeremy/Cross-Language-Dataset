@@ -1,0 +1,405 @@
+98/574/CE: Decisión de la Comisión de 16 de septiembre de 1998 sobre una reglamentación técnica común relativa a los requisitos generales de conexión aplicables a las comunicaciones móviles terrestres celulares digitales paneuropeas públicas, fase II (edición 2) [notificada con el número C(1998) 2720] (Texto pertinente a los fines del EEE) 
+DECISIÓN DE LA COMISIÓN de 16 de septiembre de 1998 sobre una reglamentación técnica común relativa a los requisitos generales de conexión aplicables a las comunicaciones móviles terrestres celulares digitales paneuropeas públicas, fase II (edición 2) [notificada con el número C(1998) 2720] (Texto pertinente a los fines del EEE) (98/574/CE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Vista la Directiva 98/13/CE del Parlamento Europeo y del Consejo, de 12 de febrero de 1998, relativa a los equipos terminales de telecomunicaciones y a los equipos de estaciones terrenas de comunicaciones por satélite, incluido el reconocimiento mutuo de su conformidad (1), y, en particular, el segundo guión del apartado 2 de su artículo 7, 
+Considerando que la Comisión ha adoptado la medida por la que se identifica el tipo de equipo terminal de telecomunicaciones para el que es necesaria una reglamentación técnica común, así como la declaración sobre el alcance de dicha reglamentación, con arreglo a lo preceptuado en el primer guión del apartado 2 del artículo 7 de la Directiva 98/13/CE; 
+Considerando que deben adoptarse las correspondientes normas armonizadas o partes de dichas normas que incorporan los requisitos esenciales que deben transformarse en reglamentaciones técnicas comunes; 
+Considerando que, para garantizar a los fabricantes un acceso ininterrumpido al mercado, es necesario establecer disposiciones transitorias en relación con los equipos homologados con arreglo a la Decisión 96/630/CE de la Comisión (2); 
+Considerando que debe derogarse la Decisión 96/630/CE con efectos a partir del término del período transitorio; 
+Considerando que debe derogarse la Decisión 97/526/CE de la Comisión (3) el 24 de octubre de 1998; 
+Considerando que la proposición se ha sometido al Comité de aprobación de equipos de telecomunicación (CAET), de conformidad con el apartado 2 del artículo 29; 
+Considerando que la reglamentación técnica común prevista en la presente Decisión se ajusta al dictamen del CAET, 
+HA ADOPTADO LA PRESENTE DECISIÓN: 
+Artículo 1 
+1. La presente Decisión será aplicable a los equipos terminales destinados a ser conectados a una red pública de telecomunicación que entren en el ámbito de aplicación de la norma armonizada indicada en el apartado 1 del artículo 2. 
+2. La presente Decisión establece una reglamentación técnica común referida a los requisitos de acceso de los equipos terminales a la red de telecomunicaciones móviles terrestres digitales celulares paneuropeas con modulación de envolvente constante y que funcionan en la banda de 900 MHz con separación de canales de 200 kHz y transportan canales de tráfico conforme al principio TDMA. 
+Artículo 2 
+1. La reglamentación técnica común incluirá la norma armonizada que haya sido preparada por el organismo de normalización competente para la aplicación, en la medida que proceda, de los requisitos esenciales contemplados en las letras c), d), e) y f) del artículo 5 de la Directiva 98/13/CE. La referencia a la norma figura en el anexo I. Las partes aplicables aparecen en el anexo II. 
+2. Los equipos terminales que entren en el ámbito de aplicación de la presente Decisión deberán ajustarse a la reglamentación técnica común a que se refiere el apartado 1, cumplir los requisitos esenciales a que se refieren las letras a) y b) del artículo 5 de la Directiva 98/13/CE y cumplir los requisitos de cualquier otra directiva aplicable, en particular las Directivas 73/23/CEE (4) y 89/336/CEE (5) del Consejo. 
+Artículo 3 
+Con relación a los equipos terminales del apartado 1 del artículo 1 de la presente Decisión, los organismos notificados designados para llevar a cabo los procedimientos a que se refiere el artículo 10 de la Directiva 98/13/CE utilizarán, o velarán por que se utilicen, las partes aplicables de la norma armonizada del apartado 1 del artículo 2, cuando entre en vigor de la presente Decisión. 
+Artículo 4 
+1. La Decisión 96/630/CE quedará derogada a los tres meses de la entrada en vigor de la presente Decisión. 
+2. Podrán seguir siendo comercializados y puestos en servicio los equipos terminales homologados con arreglo a la Decisión 96/630/CE si dicha homologación se ha concedido en un plazo no superior a tres meses después de la entrada en vigor de la presente Decisión. 
+3. La Decisión 97/526/CE quedará derogada el 24 de octubre de 1998. 
+Artículo 5 
+Los destinatarios de la presente Decisión serán los Estados miembros. 
+Hecho en Bruselas, el 16 de septiembre de 1998. 
+Por la Comisión 
+Martin BANGEMANN 
+Miembro de la Comisión 
+(1) DO L 74 de 12. 3. 1998, p. 1. 
+(2) DO L 282 de 1. 11. 1996, p. 79. 
+(3) DO L 215 de 7. 8. 1997, p. 54. 
+(4) DO L 77 de 26. 3. 1973, p. 29. 
+(5) DO L 139 de 23. 5. 1989, p. 19. 
+ANEXO I 
+Referencia a la norma armonizada aplicable 
+La norma armonizada a que se refiere el artículo 2 de la presente Decisión es: 
+European digital cellular telecommunications system (Phase 2); 
+Attachment requirements for Global System for Mobile communications (GSM) mobile stations; 
+Access 
+[Sistema europeo de telecomunicaciones celulares digitales (Fase 2); 
+Requisitos de conexión para las estaciones móviles del Sistema global de comunicaciones móviles (GSM); 
+Acceso] 
+ETSI 
+Instituto Europeo de Normas de Telecomunicación 
+Secretaría del ETSI 
+TBR 19 (edición 5) - marzo de 1998 
+(excluido el prefacio) 
+Información complementaria 
+El ETSI (Instituto Europeo de Normas de Telecomunicación) está reconocido con arreglo a la Directiva 83/189/CEE del Consejo (1). 
+La norma armonizada se ha elaborado con arreglo a una petición formulada de conformidad con los procedimientos pertinentes de la Directiva 83/189/CEE. 
+El texto completo de la norma armonizada arriba mencionada puede solicitarse a: 
+European Telecommunications Standards Institute 
+650, route des Lucioles 
+F-06921 Sophia Antipolis Cedex 
+Comisión Europea 
+DG XIII/A/2 - (BU 31, 1/7) 
+Rue de la Loi/Wetstraat 200 
+B-1049 Bruxelles/Brussel 
+o a cualquier otro organismo competente para la difusión de las normas del ETSI; una lista de tales organismos se puede consultar en la dirección de Internet www.ispo.cec.be. 
+(1) DO L 109 de 26. 4. 1983, p. 8. 
+ANEXO II 
+Partes aplicables de la TBR 19 (edición 5) 
+Requisito TBR 19 
+11.1.1 
+11.1.2 
+11.2 
+11.3 
+11.4 
+11.5 
+12.1.1 
+12.1.2 
+12.2.1 
+12.2.2 
+13.1 
+13.2 
+13.3-1 
+13.4 
+14.1.1.2 
+14.1.2.2 
+14.2.1 
+14.2.2 
+14.2.3 
+14.2.4 
+14.3 
+14.4.1 
+14.4.2 
+14.4.4 
+14.4.5 
+14.5.1 
+14.5.2 
+14.6.1 
+14.6.2 
+14.7.1 
+14.8.1 
+14.8.2 
+15 
+16 
+17.1 
+17.2 
+18 
+19.1 
+19.2 
+19.3 
+20.1 
+20.2 
+20.3 
+20.4 
+20.5 
+20.6 
+20.7 
+20.8 
+20.9 
+20.10 
+20.11 
+20.12 
+20.13 
+20.15 
+20.16 
+20.17 
+20.19 
+21.1 
+21.2 
+21.3.1 
+21.3.2 
+21.4 
+22 
+25.2.1.1.1 
+25.2.1.1.2.1 
+25.2.1.1.2.2 
+25.2.1.1.2.3 
+25.2.1.1.3 
+25.2.1.1.4 
+25.2.1.2.1 
+25.2.1.2.2 
+25.2.1.2.3 
+25.2.1.2.4 
+25.2.2.1 
+25.2.2.2 
+25.2.2.3 
+25.2.3 
+25.2.4.3 
+25.2.5.1 
+25.2.5.2 
+25.2.6.1 
+25.2.6.2 
+25.2.7 
+26.2.1.1 
+26.2.1.2 
+26.2.1.3 
+26.2.2 
+26.2.3 
+26.2.4 pr1 
+26.2.4 pr2 
+26.2.4 pr3 
+26.2.4 pr4 
+26.2.4 pr5 
+26.2.4 pr6 
+26.2.4 pr7 
+26.2.4 pr8 
+26.5.1 
+26.5.2.1.1 
+26.5.2.1.2 
+26.5.2.2 
+26.5.2.3 
+26.5.3.1 
+26.5.3.2 
+26.5.3.3 
+26.5.3.4 
+26.5.4.1 
+26.5.5.1.1.1 
+26.5.5.1.1.2 
+26.5.5.1.2 
+26.5.5.2.1 
+26.5.5.2.3 
+26.5.5.3.1.1 
+26.5.5.3.2 
+26.5.6.1.1 
+26.5.6.1.2 
+26.5.6.2.1 
+26.5.6.2.4 
+26.5.6.3 
+26.5.7.1.1 
+26.5.7.1.3 
+26.5.7.1.4 
+26.5.7.2 
+26.5.7.3 
+26.6.1.1 
+26.6.1.2 
+26.6.1.3 
+26.6.1.4 
+26.6.2.1.1 
+26.6.2.1.2 
+26.6.2.1.3 
+26.6.2.2 
+26.6.2.3.1 
+26.6.2.3.2 
+26.6.2.4 
+26.6.2.5 
+26.6.3.1 
+26.6.3.2 
+26.6.3.3 
+26.6.3.4 
+26.6.3.6 
+26.6.4.1 
+26.6.4.2.2 
+26.6.5.1-1 
+26.6.5.1-2 
+26.6.5.1-3 
+26.6.5.1-4 
+26.6.5.1-5 
+26.6.5.1-6 
+26.6.5.1-7 
+26.6.5.1-8 
+26.6.5.2-1 
+26.6.5.2-2 
+26.6.5.2-3 
+26.6.5.2-4 
+26.6.5.2-5 
+26.6.5.2-6 
+26.6.5.2-7 
+26.6.5.2-8 
+26.6.5.2-9 
+26.6.5.2-10 
+26.6.5.3-1 
+26.6.5.3-2 
+26.6.5.4-1 
+26.6.5.4-2 
+26.6.5.4-3 
+26.6.5.4-4 
+26.6.5.5.1 
+26.6.5.5.2 
+26.6.5.6 
+26.6.5.7 
+26.6.5.8 
+26.6.5.9 
+26.6.6.1 
+26.6.7.1 
+26.6.8.4 
+26.6.8.5 
+26.6.12.1 
+26.6.12.2 
+26.6.12.3 
+26.6.12.4 
+26.6.13.3 
+26.6.13.5 
+26.6.13.6 
+26.6.13.8 
+26.6.13.9 
+26.6.13.10 
+26.7.1 
+26.7.2.1 
+26.7.2.2 
+26.7.3.1 
+26.7.3.2 
+26.7.4.1 
+26.7.4.2.1 
+26.7.4.2.2-1 
+26.7.4.2.2-2 
+26.7.4.2.3 
+26.7.4.2.4 pr1 
+26.7.4.3.1 
+26.7.4.3.2 
+26.7.4.3.3 
+26.7.4.3.4 
+26.7.4.5.1 
+26.7.4.5.2 
+26.7.4.6 
+26.7.5.3 
+26.7.5.5 
+26.7.5.7.1 
+26.8.1.2.2.1 
+26.8.1.2.2.2 
+26.8.1.2.3.2 
+26.8.1.2.3.5 
+26.8.1.2.3.6 
+26.8.1.2.4.2 
+26.8.1.2.4.3 
+26.8.1.2.4.4 
+26.8.1.2.4.5 
+26.8.1.2.4.6 
+26.8.1.2.4.7 
+26.8.1.2.4.8 
+26.8.1.2.4.13 
+26.8.1.2.5.2 
+26.8.1.2.5.3 
+26.8.1.2.6.2 
+26.8.1.2.6.3 
+26.8.1.2.6.5 
+26.8.1.2.6.6 
+26.8.1.2.7.1 
+26.8.1.2.7.3 
+26.8.1.2.8.1 
+26.8.1.2.9.1 
+26.8.1.2.9.2 
+26.8.1.2.9.4 
+26.8.1.3.1.1 
+26.8.1.3.3.1 
+26.8.1.3.3.3 
+26.8.1.3.3.4 
+26.8.1.3.4.2 
+26.8.1.3.4.3 
+26.8.1.3.4.8 
+26.8.1.3.5.2 
+26.8.1.3.5.3 
+26.8.1.3.5.4 
+26.8.1.3.5.5 
+26.8.1.4.2.1 
+26.8.1.4.3.1 
+26.8.1.4.3.2 
+26.8.1.4.5.1 
+26.8.2.1 
+26.8.2.2 
+26.8.2.3 
+26.8.3 
+26.9.2 
+26.9.3 
+26.9.4 
+26.9.5 
+26.9.6.1.1 
+26.9.6.1.2 
+26.9.6.2.1 
+26.9.6.2.2 
+26.10.2.1 
+26.10.2.4.1 
+26.10.2.4.2 
+26.12.1 
+26.12.2.1 
+26.10.2.2 
+26.10.2.3 
+26.10.2.5 
+26.10.3.1 
+26.12.2.2 
+26.12.3 
+26.12.4 
+26.12.5 
+27.3 
+27.4 
+27.5 
+27.6 
+27.7 
+27.10 
+27.11.1.1 
+27.11.1.2 
+27.11.1.3 
+27.11.1.4 
+27.11.1.5 
+27.11.2.1 
+27.11.2.2 
+27.11.2.3 
+27.11.2.4 
+27.11.3 
+27.12.1 
+27.12.2 
+27.14.3 
+27.14.4 
+27.17.1.1 
+27.17.1.2 
+27.17.1.3 
+27.17.1.4 
+27.17.1.5.1 
+27.17.1.5.2 
+27.17.1.5.3 
+27.17.1.5.4 
+27.17.2.1.1 
+27.17.2.1.2 
+27.17.2.2 
+27.17.2.3 
+27.17.2.5 
+27.18.1 
+27.18.2 
+27.19 
+27.20. 
+27.21.1 
+27.21.3 
+27.21.4 
+29.3.2.6.7 
+29.3.2.6.9 
+29.3.3.2 
+29.3.3.3 
+29.3.3.5 
+31.6.1.1 
+31.6.1.2 
+31.6.1.5 
+31.6.1.6 
+31.6.1.7 
+31.6.1.8 
+31.6.2.1 
+31.6.2.2 
+31.6.2.3 
+31.6.2.4 
+31.6.2.5 
+31.8.1.1 
+31.8.3.1 
+31.10 
+32.11 
+32.12 
+33.6 
+34.2.1 
+34.2.2 
+34.2.3 
+34.2.5.3 
+34.3 

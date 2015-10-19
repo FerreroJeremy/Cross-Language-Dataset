@@ -1,0 +1,921 @@
+Propuesta de Reglamento del Parlamento Europeo y del Consejo que establece reglas comunes para el suministro de informaci%oacute%n b%aacute%sica sobre las Paridades de Poder Adquisitivo, y para su c%aacute%lculo y difusi%oacute%n /* COM/2006/0135 final - COD 2006/0042 */ 
+[pic] | COMISIÓN DE LAS COMUNIDADES EUROPEAS | 
+Bruselas, 22.3.2006 
+COM(2006) 135 final 
+2006/0042 (COD) 
+Propuesta de 
+REGLAMENTO DEL PARLAMENTO EUROPEO Y DEL CONSEJO 
+que establece reglas comunes para el suministro de información básica sobre las Paridades de Poder Adquisitivo, y para su cálculo y difusión 
+(presentada por la Comisión) 
+EXPOSICIÓN DE MOTIVOS 
+1. NECESIDAD DE UN REGLAMENTO SOBRE PARIDADES DE PODER ADQUISITIVO (PPA) 
+Las PPA son tipos de conversión de monedas que transforman los indicadores económicos expresados en monedas nacionales en una moneda común, teniendo en cuenta al mismo tiempo las diferencias de nivel de precios, para poder comparar entre países el volumen puro del Producto Interior Bruto (PIB) y sus agregados. 
+El objetivo del Reglamento sobre PPA es codificar los trabajos de elaboración de PPA anuales que ya están realizando la Unión Europea (UE), los Estados miembros y Eurostat, y proporcionarles un fundamento jurídico. El Reglamento en sí mismo no debería suponer una carga de trabajo adicional, salvo la introducción de nuevos elementos de control de calidad, ni se propone abarcar otros temas como las comparaciones de precios en general. 
+El Reglamento (CE) n° 1260/1999 del Consejo sobre los Fondos Estructurales confiere a la Comisión la responsabilidad legal de calcular el PIB basándose en el poder adquisitivo. Un nuevo acto jurídico en este ámbito permite clarificar la función y las responsabilidades de las autoridades nacionales a la hora de recopilar esas estadísticas y transmitirlas a Eurostat. 
+La fijación de un fundamento jurídico para las PPA debería mejorar la transparencia, oportunidad y calidad de todo el proceso de elaboración de PPA, tanto en los institutos nacionales de estadística como en Eurostat. La utilización de un Reglamento como medio para mejorar la calidad global de las PPA puede entenderse como un objetivo no sólo para Eurostat, como productor de los resultados coordinados, sino también para los propios países. 
+2. ANTECEDENTES ECONÓMICOS 
+2.1 Comparaciones del PIB 
+El PIB, que es uno de los principales agregados de las cuentas nacionales, muestra de manera concisa el resultado del conjunto de actividades de los operadores económicos de un territorio económico en un periodo determinado, generalmente un año. El PIB se calcula conforme a un sistema de cuentas nacionales, que en el caso de la UE es el sistema europeo de cuentas económicas integradas 1995 (SEC-95). El PIB y sus agregados son unos indicadores fundamentales para el análisis macroeconómico y la política económica. El PIB se puede medir desde el punto de vista de la producción, el gasto o la renta. A efectos de las PPA, medir el gasto reviste una especial importancia, ya que revela en qué medida los bienes y servicios producidos (o importados) por la economía de un país se usan para el consumo privado, el consumo público, la formación de capital o la exportación. 
+Las comparaciones internacionales de agregados económicos como el PIB requieren, en primer lugar, que la base para medir los agregados sea coherente para los países que se están comparando y, en segundo lugar, que se utilice una unidad de medida comparable. Para que los principios de medida de los agregados sean coherentes, éstos deben ajustarse a la SEC-95. 
+Las diferencias observadas entre países en los valores de gasto del PIB corresponden no sólo al componente de «volumen de bienes y servicios», sino también al de «nivel de precios», que a veces puede adquirir proporciones considerables (valor es el producto de precio y volumen). Por tanto, para obtener una comparación real de volumen es esencial utilizar factores de conversión (deflactores espaciales) que reflejen las diferencias de nivel de precios entre países. 
+El uso de tipos de cambio como factores de conversión no permite esa comparación real de volúmenes de bienes y servicios producidos y consumidos en distintos países, ya que los tipos de cambio están determinados por numerosos factores que actúan sobre la oferta y la demanda de divisas, como el comercio internacional y los diferenciales de tipos de interés. En otras palabras, los tipos de cambio suelen reflejar otros elementos además de las diferencias de precios. 
+Se han elaborado PPA específicas entre las monedas de diversos países para que se puedan utilizar adecuadamente como factores espaciales de conversión. 
+2.2 ¿Qué son las PPA? 
+Las PPA son tipos de conversión de monedas que transforman los indicadores económicos expresados en monedas nacionales nominales en una moneda común artificial, denominada Estándar de Poder Adquisitivo (EPA), que iguala el poder adquisitivo de las distintas monedas nacionales, permitiendo así una comparación significativa entre países del volumen puro del PIB y sus agregados. En otras palabras, las PPA son a la vez deflactores de precios y conversores de monedas; eliminan las diferencias de los niveles de precios entre países en el proceso de conversión. 
+Los agregados de volumen económico en EPA se obtienen dividiendo su valor original en unidades de moneda nacional por la correspondiente PPA. Con un EPA se puede comprar el mismo volumen de bienes y servicios en todos los países, mientras que hacen falta diferentes cantidades de unidades de moneda nacional para poder comprar el mismo volumen de bienes y servicios en cada país, en función del nivel de precios nacionales. Por tanto, utilizando PPA como factores de conversión es posible comparar el volumen puro del PIB de los países expresado en EPA, al haberse eliminado el componente de nivel de precios. 
+Con la implantación del euro en los Estados miembros de la zona euro, por primera vez se pueden comparar directamente los precios entre dichos países. No obstante, el euro tiene un poder adquisitivo diferente en cada país de la zona euro, en función de los niveles de precios nacionales. Por consiguiente, sigue siendo necesario calcular las PPA para elaborar los agregados en volumen puro en EPA. Dicho de otra manera, para los países que no pertenecen a la zona euro, las PPA son conversores de monedas y eliminan los efectos de los distintos niveles de precios, mientras que para los países de la zona euro sólo cumplen la segunda función de deflactores de precios. 
+En un ejercicio anual multilateral, las PPA se calculan como medias de las ratios de precios entre los distintos países para una cesta de bienes y servicios comparables, seleccionados de forma que representen la totalidad de un conjunto de clasificaciones de gastos bien definidas y reflejen los patrones de consumo de los distintos países. 
+3. UTILIZACIÓN DE LAS PPA EN LA COMISIÓN 
+3.1 Fondos Estructurales y Fondos de Cohesión 
+La reforma de los Fondos Estructurales y su ampliación a los nuevos Estados miembros se materializó en el Reglamento nº 1260/99 del Consejo y en el anexo II del Acta de adhesión de 2003, cuya parte 15 se titula «Política regional y coordinación de los instrumentos estructurales». El primero fija disposiciones generales sobre los Fondos Estructurales para el periodo actual y establece que las regiones cuyo PIB per cápita, medido en PPA, sea inferior al 75% de la media comunitaria tendrán derecho a recibir asignaciones de los Fondos Estructurales. También afirma que los criterios se calcularán sobre bases estadísticas objetivas. Se puede suponer que durante el periodo siguiente, que empieza en 2007, se aplicarán disposiciones similares. El segundo texto modifica dichos principios para que se apliquen también a los nuevos Estados miembros. 
+Este nuevo fundamento jurídico contrasta con la situación anterior, en la cual la única referencia jurídica los Fondos Estructurales a las PPA se encontraba en un considerando del Reglamento 2052/88 del Consejo, que sólo mencionaba lo siguiente: «considerando [...] que a fin de elaborar la lista de las regiones menos desarrolladas, conviene determinar las regiones denominadas NUTS II, en términos administrativos, cuyo PIB per cápita, calculado en términos de paridades de poder adquisitivo es inferior al 75% de la media comunitaria...». No había cláusula de aplicación en el articulado del Reglamento. Actualmente, las exigencias relativas a los Fondos Estructurales se satisfacen combinando los valores regionales del PIB con las PPA nacionales. 
+El Reglamento (CE) nº 1164/94 del Consejo, de 25 de mayo de 1994, por el que se crea el Fondo de cohesión afirma que la misión de la Comunidad es promover la cohesión económica y social y la solidaridad entre los Estados miembros, y que el Fondo de Cohesión constituye un instrumento para lograrlo. El artículo 2, apartado 1, del Reglamento establece que «el Fondo aportará su participación financiera a proyectos que contribuyan a la realización de los objetivos fijados en el Tratado de la Unión Europea, en los sectores del medio ambiente y de las redes transeuropeas de infraestructuras en los Estados miembros cuyo Producto Nacional Bruto per cápita sea inferior al 90 % de la media comunitaria, calculada a partir de las paridades del poder adquisitivo». Por consiguiente, el Reglamento sobre los Fondos de Cohesión también atribuye a la Comisión la responsabilidad jurídica de calcular las Paridades de Poder Adquisitivo. 
+3.2 Coeficientes correctores 
+Aunque el Reglamento se centra en el objetivo específico de obtener información sobre precios para realizar comparaciones internacionales del PIB, también establece el fundamento jurídico de la actividad de recopilación de precios que la Comisión necesita para cumplir una buena parte de los requisitos legales relacionados con el artículo 64 del Estatuto de los funcionarios. Dicho de otro modo, los precios recopilados en el contexto del ejercicio PPA se utilizan también para elaborar los coeficientes correctores aplicados a las remuneraciones y pensiones de los funcionarios y demás agentes de las Comunidades Europeas de conformidad con el Estatuto de los funcionarios y el régimen aplicable a los otros agentes de las Comunidades Europeas. El anexo XI, artículo 1, del Estatuto de los funcionarios establece que «las paridades económicas se calcularán de modo que cada componente básico pueda (…) verificarse mediante encuesta directa al menos una vez cada cinco años». 
+3.3 Comparaciones de precios 
+La Comisión tiene una necesidad creciente de datos que permitan comparaciones espaciales de precios, especialmente de precios al consumo. Esta necesidad se debe a razones políticas, en particular las relativas al seguimiento de la convergencia de precios en el mercado único, la mejora de los indicadores de precios para controlar el funcionamiento de los mercados de contratos públicos y el seguimiento de la convergencia de precios en la zona euro desde la introducción del euro. Los índices de niveles de precios del consumo privado global de los hogares, procedentes del ejercicio PPA, ya figuran como indicadores estructurales en la Comunicación de la Comisión sobre indicadores estructurales y en el informe anual de síntesis de la Comisión al Consejo Europeo. 
+Desde el punto de vista de la protección de los consumidores, también es necesario controlar las diferencias de precios de una amplia gama de productos de consumo en toda la UE. Gran parte de esas necesidades, especialmente a un nivel más agregado, pueden satisfacerse como subproducto del programa global de PPA. 
+Por ello, las comparaciones de precios revisten especial importancia para diferentes políticas comunitarias, como el desarrollo del mercado único, el control de la convergencia de precios en la UEM, y la protección de los consumidores mediante la identificación de diferencias de precios. Aunque el programa de elaboración de PPA previsto en la presente propuesta de Reglamento no necesariamente facilitará todos los datos necesarios para esos otros usos, al menos establecerá un marco que podrá utilizarse como base para un futuro trabajo de comparación de precios. Además, el presente Reglamento no impide que la Comisión investigue y analice nuevas fuentes alternativas de datos sobre precios. Actualmente, la Comisión lleva a cabo ese tipo de estudios para analizar si los datos extraídos de la lectura de códigos de barras y de Internet sirven como fuente de comparaciones internacionales de precios. 
+4. CONCLUSIONES 
+Los agregados económicos convertidos en una moneda común gracias a las PPA tienen muchos y variados usos en la Comisión. Las PPA son unos indicadores vitales para la UE desde un punto de vista económico y político. 
+La Comisión es jurídicamente responsable de calcular el PIB basándose en el poder adquisitivo; no obstante, los Estados miembros de la UE no tienen actualmente la obligación legal de cooperar. Teniendo en cuenta que la naturaleza de este trabajo es multilateral, si un solo país retirara su apoyo, la validez de todo el ejercicio se resentiría. Por esa razón, es importante establecer un marco jurídico estable, vinculante y fiable, que garantice que la información esté disponible a su debido tiempo. 
+2006/0042 (COD) 
+Propuesta de 
+REGLAMENTO DEL PARLAMENTO EUROPEO Y DEL CONSEJO 
+que establece reglas comunes para el suministro de información básica sobre las Paridades de Poder Adquisitivo, y para su cálculo y difusión 
+(Texto pertinente a efectos del EEE) 
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNION EUROPEA, 
+Visto el Tratado constitutivo de la Comunidad Europea, y, en particular, su artículo 285, apartado 1, 
+Vista la propuesta de la Comisión[1], 
+Visto el dictamen del Comité Económico y Social Europeo[2], 
+De conformidad con el procedimiento establecido en el artículo 251 del Tratado[3], 
+Considerando lo siguiente: 
+1. Con objeto de obtener una comparación del Producto Interior Bruto (PIB) en términos de volumen entre Estados miembros, es esencial que la Comunidad cuente con Paridades de Poder Adquisitivo (PPA) que reflejen las diferencias en el nivel de precios entre Estados miembros. 
+2. Las PPA comunitarias deben elaborarse siguiendo una metodología armonizada, de acuerdo con el Reglamento (CE) nº 2223/1996, de 25 de junio de 1996, relativo al Sistema Europeo de Cuentas Nacionales y Regionales de la Comunidad[4] (SEC-95), que establece un marco para la elaboración de cuentas nacionales en los Estados miembros. 
+3. El artículo 3, apartado 1, del Reglamento (CE) n° 1260/1999 del Consejo, de 21 de junio de 1999, por el que se establecen disposiciones generales sobre los Fondos Estructurales[5] debe leerse en conjunción con la parte 15 del anexo II del Acta de adhesión de 2003, titulada «Política regional y coordinación de los instrumentos estructurales». Dicho artículo 3, apartado 1, establece que serán regiones del objetivo nº 1 las correspondientes al nivel II de la NUTS cuyo PIB per cápita, medido en PPA y calculado a partir de los datos comunitarios, sea inferior al 75 % de la media comunitaria. Cuando no se dispone de PPA regionales, deben utilizarse las PPA nacionales para establecer la lista de regiones que pueden beneficiarse de los Fondos Estructurales. También pueden utilizarse para determinar la cuantía de los fondos que deben asignarse a cada región. 
+4. El artículo 2, apartado 1, del Reglamento (CE) n° 1164/94 del Consejo, de 16 de mayo de 1994, por el que se crea el Fondo de cohesión[6] debe leerse en conjunción con la parte 15 del anexo II del Acta de adhesión de 2003, titulada «Política regional y coordinación de los instrumentos estructurales». Dicho artículo 2, apartado 1, establece que el Fondo aportará su participación financiera a proyectos, que contribuyan a la realización de los objetivos fijados en el Tratado de la Unión Europea, en los sectores del medio ambiente y de las redes transeuropeas de infraestructuras de transporte en los Estados miembros cuyo Producto Nacional Bruto per cápita sea inferior al 90 % de la media comunitaria, calculada a partir de las Paridades de Poder Adquisitivo, y que cuenten con un programa cuyo objetivo sea cumplir las condiciones de convergencia económica a que se refiere el artículo 104 C del Tratado. 
+5. El artículo 1 del anexo XI del Estatuto de los funcionarios de las Comunidades Europeas establece que, a efectos del examen previsto en el artículo 65, apartado 1, del Estatuto, Eurostat elaborará cada año, antes de que finalice el mes de octubre, un informe sobre la evolución del coste de la vida en Bruselas, sobre las paridades económicas entre Bruselas y determinadas zonas geográficas en los Estados miembros, y sobre la evolución del poder adquisitivo de las retribuciones de los funcionarios nacionales de las administraciones centrales. 
+6. En el futuro será necesario compilar en un marco jurídico las metodologías y prácticas vigentes en la Unión Europea, reguladas actualmente como programas estadísticos específicos mediante el Reglamento (CE) nº 322/97 del Consejo, de 17 de febrero de 1997, sobre la estadística comunitaria[7]. 
+7. Procede aprobar las medidas necesarias para la ejecución del presente Reglamento con arreglo a la Decisión 1999/468/CE del Consejo, de 28 de junio de 1999, por la que se establecen los procedimientos para el ejercicio de las competencias de ejecución atribuidas a la Comisión[8]. 
+8. Se ha consultado al Comité del programa estadístico , de conformidad con el artículo 3 de la Decisión 89/382/CEE, Euratom, del Consejo, de 19 de junio de 1989, por la que se crea un Comité del programa estadístico de las Comunidades Europeas [9], 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+Objetivo 
+El objetivo del presente Reglamento consiste en establecer reglas comunes para el suministro de información básica sobre las Paridades de Poder Adquisitivo (PPA), y sobre su cálculo y difusión. Las PPA sólo reflejarán diferencias de niveles de precios y ponderaciones de gasto. 
+Artículo 2 
+Ámbito de aplicación 
+1. La información básica que debe suministrarse será la necesaria para calcular y garantizar la calidad de las PPA. 
+Dicha información básica incluirá información sobre precios, desglose de los gastos del PIB y otros datos que figuran en el anexo I. 
+2. Las PPA se calcularán sobre la base de los precios nacionales medios anuales de los bienes y servicios, utilizando información básica relativa al territorio económico de los Estados miembros de acuerdo con el sistema SEC-95, instaurado por el Reglamento (CE) nº 2223/1996, de 25 de junio de 1996, relativo al sistema europeo de cuentas nacionales y regionales de la Comunidad (SEC-95). 
+3. Las PPA se calcularán de conformidad con las posiciones elementales que figuran en el anexo II, consistentes con las correspondientes clasificaciones del PIB definidas en el Reglamento (CE) nº 2223/1996. 
+Artículo 3 
+Definiciones 
+A efectos del presente Reglamento, se aplicarán las siguientes definiciones: 
+a) «Paridades de Poder Adquisitivo (PPA)»: deflactores espaciales y conversores de monedas, que eliminan los efectos de las diferencias de niveles de precios entre países, lo que permite comparaciones de volumen de los componentes del PIB y comparaciones de niveles de precios. 
+b) «Poder Adquisitivo Estándar (PAE)»: unidad monetaria de referencia común artificial utilizada en la Unión Europea para expresar el volumen de agregados económicos a efectos de las comparaciones espaciales, de manera que desaparezcan las diferencias de nivel de precios entre países. 
+c) «Precios»: precios de adquisición pagados por los consumidores finales. 
+d) «Ponderaciones de gasto»: proporciones del gasto de los componentes del PIB a precios corrientes. 
+e) « Posición Elemental»: nivel más bajo de agregación de artículos en el desglose del PIB para el que se calculan las paridades. 
+f) « Artículo»: bien o servicio claramente definido para su uso en la recogida de los precios. 
+g) «Alquileres reales e imputados»: tendrán el significado que se les asigna en la Decisión 95/309/CE, Euratom de la Comisión[10]. 
+h) «Remuneración de los asalariados»: tendrá el significado que se le asigna en la Reglamento (CE) nº 2223/1996 del Consejo[11]. 
+i) «Coeficientes de ajuste temporal»: coeficientes utilizados para ajustar los precios medios obtenidos en el momento de la encuesta a los precios medios anuales. 
+j) « Coeficientes de ajuste espacial»: coeficientes utilizados para ajustar los precios medios obtenidos a partir de una o más zonas geográficas dentro del territorio económico de un Estado miembro a los precios medios nacionales. 
+k) « Artículos representativos»: aquellos que están, o se considera que están, en términos de gasto relativo total dentro de una posición elemental, entre los artículos adquiridos más importantes en los mercados nacionales. 
+l) «Indicadores de representatividad»: marcadores u otros indicadores que identifiquen los artículos que los países han seleccionado como representativas. 
+m) «Equirrepresentatividad»: propiedad necesaria de la composición de la lista de artículos para una posición elemental ; cada país puede tomar un número de precios de productos representativos que corresponda a la heterogeneidad de los productos y niveles de precios cubiertos por la posición elemental y su gasto en la misma. 
+(n) «Transitivo»: propiedad por la que una comparación directa entre dos países cualesquiera da el mismo resultado que una comparación indirecta a través de cualquier otro país. 
+o) «Error»: uso de información básica incorrecta o aplicación inadecuada del procedimiento de cálculo. 
+p) «Año de referencia»: año natural al que se refieren los resultados anuales. 
+q) «Fijeza»: cuando se calculen los resultados inicialmente para un grupo de países y, posteriormente, se calculen los resultados para un grupo de países más amplio, deberán conservarse de todas formas las PPA entre el grupo inicial de países. 
+Artículo 4 
+Funciones y responsabilidades 
+1. La Comisión tendrá la responsabilidad de: 
+a) coordinar el suministro de la información básica; 
+b) calcular y publicar las PPA; 
+c) garantizar la calidad de las PPA, de conformidad con lo dispuesto en el artículo 7; 
+d) elaborar la metodología, previa consulta con los Estados miembros; 
+e) garantizar que los Estados miembros tengan la oportunidad de presentar sus observaciones sobre los resultados de las PPA antes de su publicación y que la Comisión (Eurostat) tome debidamente en cuenta dichas observaciones. 
+Dichas tareas las llevará a cabo Eurostat en nombre de la Comisión. 
+2. Los Estados miembros seguirán el procedimiento expuesto en el anexo I al suministrar la información básica. 
+Los Estados miembros facilitarán la aprobación por escrito de los resultados de las encuestas de las que son responsables, una vez terminado el proceso de validación de datos, según lo especificado en el anexo I, punto 5.2. 
+Aprobarán la metodología de recogida de datos y comprobarán la verosimilitud de los datos, incluidas las unidades de información básica facilitadas por la Comisión (Eurostat). 
+Artículo 5 
+Transmisión de la información básica 
+1. Los Estados miembros transmitirán a la Comisión (Eurostat) la información básica que figura en el anexo I de conformidad con las disposiciones comunitarias vigentes sobre transmisión de datos. 
+2. La información básica que figura en el anexo I se transmitirá en el formato técnico y dentro de los plazos especificados en dicho anexo. 
+3. Cuando la Comisión (Eurostat) envíe unidades de información básica a los Estados miembros, la Comisión facilitará una descripción metodológica que permita a los Estados miembros comprobar su viabilidad. 
+Artículo 6 
+Unidades estadísticas 
+1. La información básica que figura en el anexo I se obtendrá a partir de unidades estadísticas según la definición del Reglamento (CE) nº 696/1993 del Consejo[12], o a partir de otras fuentes que proporcionen datos que reúnan los requisitos de calidad especificados en el anexo I, punto 5.1. 
+2. Las unidades estadísticas a las que los Estados miembros soliciten que faciliten datos o que cooperen en su recogida permitirán el control de los precios realmente facturados y proporcionarán información veraz y completa en el momento en que se los solicite. 
+Artículo 7 
+Criterios y control de calidad 
+1. La Comisión (Eurostat) y los Estados miembros deberán establecer un sistema de control de calidad basado en informes y evaluaciones de acuerdo con el punto 5.3 del anexo I. 
+2. Los Estados miembros transmitirán a la Comisión (Eurostat), cuando ésta lo solicite, toda la información necesaria para evaluar la calidad de la información básica que figura en el anexo I. 
+Los Estados miembros facilitarán asimismo a la Comisión (Eurostat) información detallada de cualquier modificación posterior de los métodos empleados. 
+3. Todos los Estados miembros facilitarán a la Comisión (Eurostat) informes de calidad sobre las encuestas de las que son responsables, de acuerdo con el anexo I, punto 5. 
+Artículo 8 
+Periodicidad 
+La Comisión (Eurostat) calculará las PPA relativas a cada año natural. 
+Artículo 9 
+Difusión 
+1. La Comisión (Eurostat) publicará los resultados finales anuales dentro de un plazo de 36 meses a partir del final del año de referencia. 
+La publicación se basará en los datos de que disponga la Comisión (Eurostat) a más tardar tres meses antes de la fecha de publicación. 
+Lo dispuesto en el presente apartado no afectará al derecho de la Comisión (Eurostat) de publicar resultados preliminares en un plazo de 36 meses a partir del final del año de referencia. 
+2. Los resultados publicados por la Comisión (Eurostat) a nivel agregado para cada Estado miembro incluirán como mínimo: 
+a) las PPA a nivel del PIB, 
+b) las PPA del gasto en consumo privado de los hogares y del consumo individual real, 
+c) los índices de niveles de precios relativos a la media comunitaria, 
+d) el PIB, el gasto en consumo privado de los hogares, el consumo individual real y las cifras per cápita correspondientes en PAE. 
+3. Si se calculan los resultados para un grupo de países más amplio, deberán conservarse de todas formas las PPA de los Estados miembros, en virtud del principio de fijeza. 
+4. Generalmente, las PPA finales publicadas no se revisarán. 
+No obstante, si se detectan errores en el ámbito del punto 10 del anexo I, se publicarán resultados corregidos de acuerdo con el procedimiento allí establecido. 
+Se podrán realizar revisiones generales de carácter excepcional si, por cambios en los conceptos fundamentales del SEC-95 que afecten a los resultados de las PPA, el índice de volumen del PIB de un Estado miembro varía en más de un punto porcentual. 
+Artículo 10 
+Coeficientes correctores 
+No se exigirá a los Estados miembros realizar encuestas cuyo único fin sea elaborar los coeficientes correctores aplicables a las remuneraciones y pensiones de los funcionarios y otros agentes de las Comunidades Europeas de conformidad con el Estatuto de los funcionarios y el régimen aplicable a los otros agentes de las Comunidades Europeas. 
+Artículo 11 
+Procedimiento del Comité 
+1. La Comisión estará asistida por el Comité del programa estadístico, instituido por el artículo 1 de la Decisión 89/382/CEE, Euratom del Consejo. 
+2. En toda referencia al presente apartado, se aplicará el procedimiento de reglamentación al que se refieren los artículos 5 y 7 de la Decisión 1999/468/CE, observando lo dispuesto en el artículo 8 de la misma. 
+El plazo contemplado en el apartado 6 del artículo 5 de la Decisión 1999/468/CE queda fijado en tres meses. 
+3. El Comité aprobará su reglamento interno. 
+Artículo 12 
+Medidas de aplicación 
+Las medidas necesarias para la aplicación de lo dispuesto en el presente Reglamento, incluidas las medidas para tener en cuenta los cambios económicos y técnicos, se establecerán, en la medida en que ello no implique un incremento desproporcionado de costes para los Estados miembros, de conformidad con el procedimiento especificado en el del artículo 11, apartado 2. 
+Dichas medidas harán referencia en particular a: 
+a) la adaptación de las definiciones; 
+b) el conjunto de normas mínimas necesarias para conseguir la comparabilidad y representatividad fundamentales de los datos; 
+c) los requisitos concretos en cuanto a la metodología que debe utilizarse; 
+d) el ajuste de la lista de posiciones elementales y la elaboración y el ajuste de descripciones detalladas del contenido de las posiciones elementales, siempre que sean compatibles con el SEC-95 o cualquier otro sistema futuro. 
+Artículo 13 
+Revisión e informe 
+Las disposiciones del presente Reglamento se revisarán cinco años después de la fecha de su entrada en vigor y se adaptarán, en caso necesario, sobre la base de un informe y una propuesta de la Comisión, sometidos al Parlamento Europeo y al Consejo. 
+Artículo 14 
+Entrada en vigor 
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea . 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 
+Por el Parlamento Europeo Por el Consejo 
+El Presidente El Presidente 
+ANEXO I - METODOLOGÍA 
+1. MANUAL METODOLÓGICO Y PROGRAMA DE TRABAJO 
+1.1 La Comisión (Eurostat) facilitará un manual metodológico, previa consulta con los Estados miembros, en el que se describirán los métodos utilizados en las distintas fases de la elaboración de las PPA, incluidos los métodos de estimación de la falta información básica y de las paridades que faltan. El manual metodológico se revisará siempre que se haga un cambio significativo en la metodología y podrá introducir nuevos métodos para mejorar la calidad de los datos, reducir costes, o disminuir la carga para los proveedores de datos. 
+1.2 La Comisión (Eurostat) fijará, antes del 31 de octubre de cada año, previa consulta con los Estados miembros, un Programa de Trabajo anual para el año natural siguiente en el que se establezca el calendario para la especificación y el suministro de la información básica requerida para ese año. 
+1.3 El Programa de Trabajo anual definirá el formato para el suministro de datos que deben emplear los Estados miembros, así como cualquier acción necesaria para el cálculo y publicación de las PPA. 
+1.4 La información básica suministrada de acuerdo con el punto 1.2 se podrá revisar, pero los resultados para el año de referencia se calcularán a partir de la información disponible de conformidad con el calendario previsto en el artículo 9. Cuando la información no sea completa o no esté disponible en esa fecha, la Comisión (Eurostat) estimará la información básica que falta. 
+2. INFORMACIÓN BÁSICA 
+2.1 UNIDADES DE INFORMACIÓN BÁSICA 
+A efectos del presente Reglamento, la información básica de conformidad con los artículos 2 y 4 y la frecuencia de transmisión mínima de los nuevos datos será la siguiente: 
+Información básica | Frecuencia mínima | 
+Valores de gasto del PIB | Anual | 
+Alquileres reales e imputados | Anual | 
+Remuneración de los asalariados | Anual | 
+Coeficientes de ajuste temporal | Anual | 
+Precios de los bienes y servicios de consumo e indicadores de representatividad correspondientes | 3 años1 | 
+Precios de los bienes de equipo | 3 años | 
+Precios de los proyectos de construcción | 3 años | 
+Coeficientes de ajuste espacial | 6 años | 
+1) La frecuencia mínima hace referencia al suministro de datos para un grupo de productos específicos, en relación con el ciclo continuo de las encuestas. 
+2.2 PROCEDIMIENTO DE OBTENCIÓN DE LA INFORMACIÓN BÁSICA 
+La Comisión (Eurostat), tras tener en cuenta las opiniones de los Estados miembros, determinará las fuentes y proveedores de datos a los que se va a acudir para cada una de las unidades de información básica anteriormente mencionadas. Si la Comisión (Eurostat) obtiene información básica de un proveedor de datos distinto de un Estado miembro, este último estará exento de las obligaciones contempladas en los puntos 5.1.4 a 5.1.13. 
+3. PRECIOS MEDIOS NACIONALES 
+3.1 No obstante lo dispuesto en el artículo 2, apartado 2, la recogida de datos podrá limitarse a una o más zonas geográficas dentro del territorio económico. Esos datos podrán usarse para los cálculos de las PPA siempre que vayan acompañados por los coeficientes de ajuste espacial correspondientes. Éstos se usarán para ajustar los datos de la encuesta de esas zonas geográficas a los de la media nacional. 
+3.2 Los coeficientes de ajuste espacial se suministrarán a nivel de las posiciones elementales y su antigüedad no superará los seis años con respecto al periodo de referencia de la encuesta. 
+4. PRECIOS MEDIOS ANUALES 
+No obstante lo dispuesto en el artículo 2, apartado 2, la recogida de datos podrá limitarse a un periodo de tiempo específico. Esos datos podrán usarse para los cálculos de las PPA siempre que vayan acompañados por los coeficientes de ajuste temporal correspondientes. Éstos se usarán para ajustar los datos de la encuesta de ese periodo a los datos medios anuales. 
+5. CALIDAD 
+5.1 NORMAS MÍNIMAS PARA LA INFORMACIÓN BÁSICA 
+5.1.1 La lista de artículos cuyo precio deberá ser tomado se diseñará para que incluya artículos cuyas especificaciones garanticen la comparabilidad entre países. 
+5.1.2 La lista de artículos cuyo precio debe tomarse se diseñará de forma que cada Estado miembro pueda indicar al menos un artículo representativo, cuyo precio se pueda tomar al menos en otro país para cada posición elemental. 
+5.1.3 La lista de artículos se diseñará con objeto de conseguir el mayor nivel de equirrepresentatividad factible, de tal manera que, como mínimo, cada país deberá comunicar el precio de un artículo representativo para cada posición elemental y al menos otro país tomará el precio de ese artículo representativo. 
+5.1.4 Cada Estado miembro tomará precios de los artículos de acuerdo con las especificaciones de la lista de artículos. 
+5.1.5 Cada Estado miembro tomará el precio de un número suficiente de artículos dentro de cada posición elemental que estén disponibles en su mercado, incluso si no pueden considerarse como representativos de esa posición elemental. 
+5.1.6 Cada Estado miembro tomará precios de al menos un artículo representativo dentro de cada posición elemental. Los artículos representativos se indicarán mediante un indicador de representatividad. 
+5.1.7 Cada Estado miembro recopilará un número suficiente de referencias de precios para cada artículo tomado con fin de garantizar un precio medio fiable por artículo teniendo en cuenta su estructura de mercado. 
+5.1.8 La selección de los tipos de establecimientos se diseñará de manera que se refleje adecuadamente el patrón de consumo interior en el Estado miembro, de acuerdo con el artículo. 
+5.1.9 La selección de los establecimientos en un lugar específico se concebirá de manera que se refleje adecuadamente el patrón de consumo de los residentes en ese lugar y la disponibilidad de los artículos. 
+5.1.10 Cada Estado miembro suministrará a la Comisión (Eurostat) datos sobre la remuneración de los asalariados en profesiones seleccionadas con referencia al sector de las Administraciones públicas (S 13) según la definición del SEC-95. 
+5.1.11 Cada Estado miembro suministrará a la Comisión (Eurostat) coeficientes de ajuste temporal que permitan el cálculo de las PPA a partir de los precios recogidos en un momento determinado para reflejar adecuadamente el nivel de precios medios anual. 
+5.1.12 Cada Estado miembro suministrará a la Comisión (Eurostat) coeficientes de ajuste espacial que permitan el cálculo de las PPA a partir de los precios recogidos en zonas geográficas determinadas para reflejar adecuadamente el nivel de precios medios nacional. 
+5.1.13 Cada Estado miembro suministrará a la Comisión (Eurostat) ponderaciones relativas a cada posición elemental de acuerdo con el anexo II que reflejen el patrón del gasto del Estado miembro para el año de referencia. 
+5.2 NORMAS MÍNIMAS PARA LA VALIDACIÓN DE LOS RESULTADOS DE LAS ENCUESTAS SOBRE PRECIOS 
+5.2.1 Cada Estado miembro, antes de transmitir los datos a la Comisión (Eurostat), llevará a cabo una revisión de la validez de los datos basada en: 
+- los precios máximos y mínimos, 
+- el precio medio y el coeficiente de variación, 
+- el número de artículos con precio recogido por posición elemental, 
+- el número de artículos representativos con precio recogido por posición elemental, 
+- el número de precios observados por artículo. 
+5.2.2 La Comisión (Eurostat) suministrará a los Estados miembros un instrumento electrónico comúnmente aceptado que contenga los algoritmos necesarios a efectos del punto 5.2.1. 
+5.2.3 La Comisión (Eurostat), antes de finalizar los resultados de la encuesta, realizará comprobaciones de su validez, conjuntamente con los Estados miembros, basándose en indicadores que incluyan 
+para cada posición elemental: 
+- el número de artículos con precio recogido en cada país, 
+- el número de artículos a los que se asigna un indicador de representatividad por cada país, 
+- el índice de nivel de precios, 
+- los resultados de la encuesta anterior que cubran la misma posición elemental, 
+- los índices de nivel de precios en términos de PPA para cada país; 
+y para cada artículo: 
+- el número de precios observados por cada país, 
+- los coeficientes de variación de: 
+i) los precios medios en moneda nacional, 
+ii) los índices de nivel de precios en términos de PPA, 
+iii) los índices de nivel de precios en términos de PPA para cada país. 
+5.2.4 La Comisión (Eurostat), antes de finalizar los resultados de las PPA a nivel agregado, realizará comprobaciones de su validez basándose en indicadores que incluyan 
+a nivel del PIB total y sus principales agregados: 
+- la coherencia de los valores de gasto del PIB y las estimaciones de población con los datos publicados, 
+- una comparación de los índices de volumen per cápita entre los cálculos actuales y los anteriores, 
+- una comparación de los índices de nivel de precios entre los cálculos actuales y los anteriores; 
+y a nivel de cada posición elemental: 
+- una comparación de la estructura de ponderación del PIB entre los cálculos actuales y los anteriores, 
+- las estimaciones de los datos que faltan, cuando sean relevantes. 
+5.3 INFORMES Y EVALUACIONES 
+5.3.1 Cada Estado miembro mantendrá una documentación en la que se describa detalladamente de qué forma se ha aplicado el presente Reglamento. Dicha documentación deberá estar disponible para la Comisión (Eurostat) y los demás Estados miembros. 
+5.3.2 La Comisión (Eurostat) deberá evaluar el proceso de elaboración de las PPA de cada Estado miembro al menos una vez cada seis años. Las evaluaciones, que se planificarán anualmente y se incluirán en el Programa de Trabajo anual, comprobarán la conformidad con el presente Reglamento. La Comisión (Eurostat) elaborará un informe basado en la evaluación. 
+5.3.3 De conformidad con el artículo 7, apartado 3, poco después de cada encuesta sobre precios de consumo, el Estado miembro entregará a la Comisión (Eurostat) un informe en el que se indique de qué forma se ha realizado la encuesta. La Comisión (Eurostat) proporcionará a cada Estado miembro un resumen de dichos informes. 
+6. REALIZACIÓN DE LAS ENCUESTAS SOBRE PRECIOS DE CONSUMO 
+6.1 Los Estados miembros realizarán las encuestas sobre precios de conformidad con el Programa de Trabajo. 
+6.2 Para cada encuesta, la Comisión (Eurostat) preparará la lista de artículos de la misma, basándose en propuestas formuladas por cada Estado miembro para cada posición elemental. 
+6.3 La Comisión (Eurostat) facilitará, junto con la lista de artículos, una traducción de la totalidad de las especificaciones de cada lista de encuesta en todas las lenguas oficiales de la Unión Europea. 
+7. PROCEDIMIENTO DE CÁLCULO 
+7.1 CÁLCULO DE PARIDADES BILATERALES A NIVEL DE POSICIONES ELEMENTALES 
+a) El cálculo de paridades multilaterales EKS (Èltetò-Köves-Szulc) a nivel de posiciones elementales se basará en una matriz de paridades bilaterales para cada par de países participantes. 
+b) El cálculo de paridades bilaterales se llevará a cabo haciendo referencia a los precios observados para los artículos subyacentes, así como a los indicadores de representatividad correspondientes. 
+c) El precio medio de encuesta para cada artículo se establecerá como la media aritmética simple de los precios observados para ese artículo. 
+d) El precio medio anual nacional se estimará, en caso necesario, a partir del precio medio de la encuesta, utilizando los coeficientes de ajuste espacial y temporal correspondientes. 
+e) Se calcularán entonces las ratios de los precios medios ajustados, si es posible, para los artículos y los pares de países participantes, junto con su inversa. 
+f) A continuación se calculará, cuando sea posible, las PPA de todos los pares de países participantes para la posición elemental. Para cada par de países participantes, las PPA se calcularán como media geométrica ponderada de 
+- la media geométrica de los cocientes de precios para los artículos que se indican como representativos de ambos países; 
+- la media geométrica de los cocientes de precios para los artículos que se indican como representativos del primer país, pero no del segundo; 
+- la media geométrica de los cocientes de precios para los artículos que se indican como representativos del segundo país, pero no del primero; 
+utilizando ponderaciones que reflejen la representatividad relativa de todos los artículos cuyo precio haya sido comunicado por ambos países. 
+7.2 ESTIMACIÓN DE LAS PARIDADES BILATERALES QUE FALTAN 
+En caso de que no sea posible calcular alguna PPA bilateral para una posición elemental, se estimarán las PPA bilaterales que faltan, si es posible utilizando el procedimiento estándar de cálculo de la media geométrica de las paridades obtenidas indirectamente a través de terceros países. Si la matriz de las PPA bilaterales para una posición elemental sigue incluyendo valores que faltan tras este procedimiento de estimación, el cálculo de las paridades multilaterales «EKS» no será entonces posible para los países para los que falten PPA bilaterales. Esas paridades EKS que faltan las estimará entonces la Comisión (Eurostat) utilizando PPA de referencia de posiciones elementales similares o cualquier otro método de estimación apropiado. 
+7.3 CÁLCULO DE LAS PARIDADES BILATERALES A NIVEL AGREGADO 
+a) Las paridades bilaterales a un nivel particular de agregación de las cuentas nacionales se calcularán utilizando las paridades EKS (véase el punto 7.4) y los valores de gasto del PIB relativos a las posiciones elementales principales. 
+b) A continuación se calculará una paridad de tipo Laspeyres para el nivel de agregación seleccionado como media aritmética de las paridades relativas a las posiciones elementales principales, ponderada en función de los porcentajes relativos (o valores nominales) para el segundo país de cada par de países participantes. 
+c) A continuación se calculará una paridad de tipo Paasche para el nivel de agregación seleccionado como media armónica de las paridades relativas a las posiciones elementales principales, ponderada en función de los porcentajes relativos (o valores nominales) para el primer país de cada par de países participantes. 
+d) A continuación se calculará una paridad de tipo Fisher para el nivel de agregación seleccionado como media geométrica de las paridades de los tipos Laspeyres y Paasche elaboradas para cada par de países participantes. 
+7.4 CÁLCULO DE LAS PPA TRANSITIVAS MULTILATERALES 
+El cálculo de paridades multilaterales transitivas se llevará a cabo a nivel de las posiciones elementales o a cualquier nivel agregado utilizando el procedimiento EKS basado en una matriz completa de las paridades de tipo Fisher entre cada par de países participantes según la fórmula: 
+[pic] 
+donde [pic]representa la paridad EKS entre el país s y el país t ; 
+[pic] representa la paridad de tipo Fisher entre el país s y el país t ; 
+z representa el número de países participantes. 
+8. TRANSMISIÓN 
+8.1 La Comisión (Eurostat) proporcionará a los Estados miembros las plantillas para la transmisión electrónica de la información básica necesaria para calcular las PPA. 
+8.2 Los Estados miembros suministrarán la información básica a la Comisión (Eurostat) de conformidad con las plantillas. 
+9. PUBLICACIÓN 
+Además de lo dispuesto en el artículo 9, apartado 2, la Comisión (Eurostat) podrá publicar resultados a un nivel más detallado previa consulta con los Estados miembros. 
+10. CORRECCIONES 
+10.1 Cuando un Estado miembro detecte un error, proporcionará a la Comisión (Eurostat) inmediatamente y por su propia iniciativa la información básica correcta. Además, el Estado miembro informará a la Comisión (Eurostat) sobre cualquier aplicación del procedimiento de cálculo que considere inadecuada. 
+10.2 Cuando haya detectado un error, cometido por un Estado miembro o por la Comisión (Eurostat), la Comisión (Eurostat) informará a los Estados miembros y volverá a calcular las PPA en el plazo de un mes. 
+10.3 Si los errores detectados dan lugar a un cambio de al menos 0,5 puntos porcentuales a nivel del PIB per capita en PAE de cualquier Estado miembro, la Comisión (Eurostat) publicará una corrección lo antes posible, a menos que dichos errores se detecten una vez transcurridos tres meses a partir de la publicación de los resultados. 
+10.4 Cuando se produzca un error, el organismo responsable tomará las medidas adecuadas para evitar que vuelva a suceder. 
+10.5 Las revisiones efectuadas a los valores de gasto del PIB o a las estimaciones de población una vez transcurridos 21 meses a partir del final del año de referencia no requerirán correcciones a los resultados de las PPA. 
+ANEXO II – Posiciones elementales según la definición del artículo 3 
+PE | Descripción | 
+nº | 
+GASTO DE CONSUMO INDIVIDUAL DE LOS HOGARES | 
+ALIMENTOS Y BEBIDAS NO ALCOHÓLICAS | 
+Alimentos | 
+Pan y cereales [COICOP 01.1.1] | 
+1 | Arroz | 
+2 | Otros cereales, harina y otros productos de cereal | 
+3 | Pan | 
+4 | Otros productos de panadería | 
+5 | Pasta | 
+Carne [COICOP 01.1.2] | 
+6 | Carne de bovino | 
+7 | Porcino | 
+8 | Ovino y caprino | 
+9 | Aves | 
+10 | Otras carnes y despojos comestibles | 
+11 | Productos de charcutería y otros preparados a base de carne | 
+Pescado y marisco [COICOP 01.1.3] | 
+12 | Pescado y marisco fresco, refrigerado o congelado | 
+13 | Pescado y marisco conservado o procesado | 
+Leche, queso y huevos [COICOP 01.1.4] | 
+14 | Leche fresca | 
+15 | Leche en conserva y otros productos lácteos | 
+16 | Queso | 
+17 | Huevos y productos a base de huevos | 
+Aceites y grasas [COICOP 01.1.5] | 
+18 | Mantequilla | 
+19 | Margarina | 
+20 | Otros aceites y grasas comestibles | 
+Frutas [COICOP 01.1.6] | 
+21 | Frutas frescas o refrigeradas | 
+22 | Frutas congeladas, conservadas o procesadas y productos a base de frutas | 
+Verduras y hortalizas [COICOP 01.1.7] | 
+23 | Verduras y hortalizas frescas o refrigeradas distintas de las patatas | 
+24 | Patatas frescas o refrigeradas | 
+25 | Verduras y hortalizas congeladas, en conserva o procesadas y productos a base de legumbres y hortalizas | 
+Azúcar, mermelada, miel, chocolate y confitería [COICOP 01.1.8] | 
+26 | Azúcar | 
+27 | Mermeladas y miel | 
+28 | Dulces, chocolate y otros preparados a base de cacao | 
+29 | Hielo comestible, helados y sorbetes | 
+Productos alimenticios n.c.o.p. [COICOP 01.1.9] | 
+30 | Productos alimenticios n.c.o.p. | 
+Bebidas no alcohólicas | 
+Café, té y cacao [COICOP 01.2.1] | 
+31 | Café, té y cacao | 
+Aguas minerales, refrescos, zumos de frutas y de vegetales [COICOP 01.2.2] | 
+32 | Aguas minerales | 
+33 | Refrescos y concentrados | 
+34 | Zumos de frutas y de vegetales | 
+BEBIDAS ALCOHÓLICAS, TABACO Y NARCÓTICOS | 
+Bebidas alcohólicas | 
+Espirituosos y licores [COICOP 02.1.1] | 
+35 | Espirituosos y licores | 
+Vino [COICOP 02.1.2] | 
+36 | Vino | 
+Cerveza [COICOP 02.1.3] | 
+37 | Cerveza | 
+Tabaco | 
+Tabaco [COICOP 02.2.0] | 
+38 | Tabaco | 
+Narcóticos | 
+Narcóticos [COICOP 02.3.0] | 
+39 | Narcóticos | 
+ARTÍCULOS DE VESTIR Y CALZADO | 
+Artículos de vestir | 
+Telas [COICOP 03.1.1] | 
+40 | Telas | 
+Prendas de vestir [COICOP 03.1.2] | 
+41 | Prendas de vestir para hombres | 
+42 | Prendas de vestir para señoras | 
+43 | Prendas de vestir para niños y bebés | 
+Otros artículos y accesorios de vestir [COICOP 03.1.3] | 
+44 | Otros artículos y accesorios de vestir | 
+Limpieza, reparación y alquiler de ropa[COICOP 03.1.4] | 
+45 | Limpieza, reparación y alquiler de ropa | 
+Calzado | 
+Zapatos y otro tipo de calzado [COICOP 03.2.1] | 
+46 | Calzado para hombres | 
+47 | Calzado para señoras | 
+48 | Calzado para niños y bebés | 
+Reparación y alquiler de calzado [COICOP 03.2.2] | 
+49 | Reparación y alquiler de calzado | 
+VIVIENDA, AGUA , ELECTRICIDAD, GAS Y OTROS COMBUSTIBLES | 
+Alquileres efectivos de viviendas | 
+Alquileres reales de viviendas [COICOP 04.1.1 y 04.1.2] | 
+50 | Alquileres reales de viviendas | 
+Alquileres imputados de viviendas | 
+Alquileres imputados de viviendas [COICOP 04.2.1 y 04.2.2] | 
+51 | Alquileres imputados de viviendas | 
+Conservación y reparación de la vivienda | 
+Materiales para el mantenimiento y reparaciones corrientes de la vivienda [COICOP 04.3.1] | 
+52 | Materiales para el mantenimiento y reparaciones corrientes de la vivienda | 
+Servicios de mantenimiento y reparación de la vivienda [COICOP 04.3.2] | 
+53 | Servicios de mantenimiento y reparación de la vivienda | 
+Agua corriente y servicios diversos relacionados con la vivienda | 
+Agua corriente [COICOP 04.4.1] | 
+54 | Agua corriente | 
+Otros servicios relacionados con la vivienda [COICOP 04.4.2, 04.4.3 y 04.4.4] | 
+55 | Otros servicios diversos relacionados con la vivienda | 
+Electricidad, gas y otros combustibles | 
+Electricidad [COICOP 04.5.1] | 
+56 | Electricidad | 
+Gas [COICOP 04.5.2] | 
+57 | Gas | 
+Combustibles líquidos [COICOP 04.5.3] | 
+58 | Combustibles líquidos | 
+Combustibles sólidos [COICOP 04.5.4] | 
+59 | Combustibles sólidos | 
+Energía calórica [COICOP 04.5.5] | 
+60 | Energía calórica | 
+MOBILIARIO, ENSERES DOMÉSTICOS Y GASTOS CORRIENTES DE CONSERVACIÓN DE LA VIVIENDA | 
+Muebles y accesorios, alfombras y otros recubrimientos para suelos | 
+Muebles y artículos de amueblamiento[COICOP 05.1.1] | 
+61 | Muebles de cocina | 
+62 | Muebles de dormitorio | 
+63 | Muebles de salón y comedor | 
+64 | Otros muebles y accesorios | 
+Alfombras y otros revestimientos de suelos [COICOP 05.1.2] | 
+65 | Alfombras y otros revestimientos de suelos | 
+Reparación de muebles, artículos de amueblamiento y revestimiento de suelos [COICOP 05.1.3] | 
+66 | Reparación de muebles, artículos de amueblamiento y revestimiento de suelos | 
+Artículos textiles para el hogar | 
+Artículos textiles para el hogar [COICOP 05.2.0] | 
+67 | Artículos textiles para el hogar | 
+Aparatos domésticos | 
+Grandes electrodomésticos, eléctricos o no [COICOP 05.3.1] | 
+68 | Grandes electrodomésticos, eléctricos o no | 
+Pequeños aparatos electrodomésticos [COICOP 05.3.2] | 
+69 | Pequeños aparatos electrodomésticos | 
+Reparación de aparatos del hogar[COICOP 05.3.3] | 
+70 | Reparación de aparatos del hogar | 
+Cristalería, vajilla, cubertería y utensilios para el hogar | 
+Cristalería, vajilla, cubertería y utensilios para el hogar [COICOP 05.4.0] | 
+71 | Cristalería, vajilla, cubertería y utensilios para el hogar | 
+Herramientas y equipos para el hogar y el jardín | 
+Grandes herramientas eléctricas y sus reparaciones [COICOP 05.5.1] | 
+72 | Grandes herramientas eléctricas y sus reparaciones | 
+Pequeñas herramientas y accesorios diversos y sus reparaciones [COICOP 05.5.2] | 
+73 | Pequeñas herramientas y accesorios diversos y sus reparaciones | 
+Bienes y servicios para el mantenimiento corriente del hogar | 
+Artículo no duraderos para el hogar [COICOP 05.6.1] | 
+74 | Artículos no duraderos para el hogar | 
+Servicios domésticos y otros servicios para la vivienda[COICOP 05.6.2] | 
+75 | Servicios domésticos | 
+76 | Otros servicios para la vivienda | 
+SANIDAD | 
+Productos, aparatos y equipos médicos | 
+Productos farmacéuticos [COICOP 06.1.1] | 
+77 | Productos farmacéuticos | 
+Otros productos médicos [COICOP 06.1.2] | 
+78 | Otros productos médicos | 
+Aparatos y material terapéutico [COICOP 06.1.3] | 
+79 | Aparatos y material terapéutico | 
+Servicios ambulatorios | 
+Servicios médicos [COICOP 06.2.1] | 
+80 | Servicios médicos | 
+Servicios dentales [COICOP 06.2.2] | 
+81 | Servicios dentales | 
+Servicios paramédicos no hospitalarios [COICOP 06.2.3] | 
+82 | Servicios paramédicos no hospitalarios | 
+Servicios hospitalarios | 
+Servicios hospitalarios[COICOP 06.3.0] | 
+83 | Servicios hospitalarios | 
+TRANSPORTE | 
+Compra de vehículos | 
+Automóviles [COICOP 07.1.1] | 
+84 | Automóviles de gasóleo | 
+85 | Automóviles de gasolina con una cilindrada inferior a 1200 cc | 
+86 | Automóviles de gasolina con una cilindrada de 1200 cc a 1699 cc | 
+87 | Automóviles de gasolina con una cilindrada de 1700 cc a 2999 cc | 
+88 | Automóviles de gasolina con una cilindrada igual o superior a 3000 cc | 
+Motos [COICOP 07.1.2] | 
+89 | Motos | 
+Bicicletas [COICOP 07.1.3] | 
+90 | Bicicletas | 
+Vehículos de tracción animal [COICOP 07.1.4] | 
+91 | Vehículos de tracción animal | 
+Gastos de utilización de vehículos privados | 
+Piezas de repuesto y accesorios para vehículos personales para reparaciones realizadas por los miembros del hogar[COICOP 07 2.1] | 
+92 | Piezas de repuesto y accesorios para vehículos personales para reparaciones realizadas por los miembros del hogar | 
+Combustibles y lubricantes [COICOP 07.2.2] | 
+93 | Combustibles y lubricantes | 
+Mantenimiento y reparaciones[COICOP 07.2.3] | 
+94 | Mantenimiento y reparaciones | 
+Otros servicios relativos con los vehículos personales [COICOP 07.2.4] | 
+95 | Otros servicios relativos a los vehículos personales | 
+Servicios de transporte | 
+Transporte por ferrocarril [COICOP 07.3.1] | 
+96 | Transporte por ferrocarril | 
+Transporte por carretera [COICOP 07.3.2] | 
+97 | Transporte por carretera | 
+Transporte aéreo[COICOP 07.3.3] | 
+98 | Transporte aéreo | 
+Transporte de pasajeros por mar y por vías interiores [COICOP 07.3.4] | 
+99 | Transporte de pasajeros por mar y por vías interiores | 
+Otros servicios de transporte [COICOP 07.3.5] | 
+100 | Otros servicios de transporte | 
+Otros servicios de transporte adquiridos [COICOP 07.3.6] | 
+101 | Otros servicios de transporte adquiridos | 
+COMUNICACIONES | 
+Servicios postales | 
+Servicios postales [COICOP 08.1.0] | 
+102 | Servicios postales | 
+Equipos de telefonía y fax | 
+Equipos de telefonía y fax [COICOP 08.2.0] | 
+103 | Equipos de telefonía y fax | 
+Servicios de telefonía y fax | 
+Servicios de teléfono, telégrafo y fax [COICOP 08.3.0] | 
+104 | Servicios de teléfono, telégrafo y fax | 
+OCIO Y CULTURA | 
+Equipos audiovisuales, fotográficos y de procesamiento de información | 
+Aparatos receptores, registradores y reproductores de sonido e imagen [COICOP 09.1.1] | 
+105 | Aparatos receptores, registradores y reproductores de sonido e imagen | 
+Equipos fotográficos y cinematográficos e instrumentos ópticos [COICOP 09.1.2] | 
+106 | Equipos fotográficos y cinematográficos e instrumentos ópticos | 
+Material de tratamiento de información [COICOP 09.1.3] | 
+107 | Material de tratamiento de información | 
+Sistemas de grabación [COICOP 09.1.4] | 
+108 | Sistemas de grabación pregrabados | 
+109 | Sistemas de grabación vírgenes | 
+Reparación de equipos audiovisuales, fotográficos y de procesamiento de información[COICOP 09.1.5] | 
+110 | Reparación de equipos audiovisuales, fotográficos y de procesamiento de información | 
+Otros bienes duraderos importantes para ocio y cultura | 
+Otros bienes duraderos importantes para ocio y cultura [COICOP 09.2.1] | 
+111 | Otros bienes duraderos importantes para ocio y cultura | 
+Instrumentos musicales y otros bienes duraderos importantes para ocio y cultura [COICOP 09.2.2] | 
+112 | Instrumentos musicales y otros bienes duraderos importantes para ocio y cultura | 
+Conservación y reparación de otros productos duraderos importantes para ocio y cultura [COICOP 09.2.3] | 
+113 | Conservación y reparación de otros productos duraderos importantes para ocio y cultura | 
+Otros artículos y equipamiento recreativo, flores, jardinería y mascotas | 
+Juegos, juguetes y hobbies [COICOP 09.3.1] | 
+114 | Juegos, juguetes y hobbies | 
+Equipos de deportes, de acampada y de ocio al aire libre [COICOP 09.3.2] | 
+115 | Equipos de deportes, de acampada y de ocio al aire libre | 
+Jardinería y flores [COICOP 09.3.3] | 
+116 | Jardinería y flores | 
+Animales domésticos y productos relacionados [COICOP 09.3.4] | 
+117 | Animales domésticos y productos relacionados | 
+Servicios de veterinaria y de otro tipo para animales domésticos [COICOP 09.3.5] | 
+118 | Servicios de veterinaria y de otro tipo para animales domésticos | 
+Servicios recreativos y culturales | 
+Servicios recreativos y deportivos [COICOP 09.4.1] | 
+119 | Servicios recreativos y deportivos | 
+Servicios culturales [COICOP 09.4.2] | 
+120 | Servicios fotográficos | 
+121 | Otros servicios culturales | 
+Juegos de azar [COICOP 09.4.3] | 
+122 | Juegos de azar | 
+Periódicos, libros y artículos de papelería | 
+Libros [COICOP 09.5.1] | 
+123 | Libros | 
+Prensa [COICOP 09.5.2] | 
+124 | Prensa | 
+Otro material impreso y materiales de papelería y pintura [COICOP 09.5.3 y 09.5.4] | 
+125 | Otros materiales impresos y materiales de papelería y pintura | 
+Paquetes turísticos | 
+Paquetes turísticos [COICOP 09.6.0] | 
+126 | Paquetes turísticos | 
+EDUCACIÓN | 
+Educación preescolar y primaria | 
+Educación preescolar y primaria [COICOP 10.1.0] | 
+127 | Educación preescolar y primaria | 
+Enseñanza secundaria | 
+Enseñanza secundaria [COICOP 10.2.0] | 
+128 | Enseñanza secundaria | 
+Enseñanza postsecundaria no terciaria | 
+Enseñanza postsecundaria no terciaria [COICOP 10.3.0] | 
+129 | Enseñanza postsecundaria no terciaria | 
+Enseñanza terciaria | 
+Enseñanza terciaria [COICOP 10.4.0] | 
+130 | Enseñanza terciaria | 
+Enseñanza no atribuible a ningún nivel | 
+Enseñanza no atribuible a ningún nivel [COICOP 10.5.0] | 
+131 | Enseñanza no atribuible a ningún nivel | 
+RESTAURANTES Y HOTELES | 
+Restauración colectiva | 
+Restaurantes, cafés y establecimientos similares [COICOP 11.1.1] | 
+132 | Servicios de restauración independientemente del tipo de establecimiento | 
+133 | Pubs, bares, cafés, salones de té y establecimientos similares | 
+Comedores [COICOP 11.1.2] | 
+134 | Comedores | 
+Servicios de alojamiento | 
+Servicios de alojamiento [COICOP 11.2.0] | 
+135 | Servicios de alojamiento | 
+OTROS BIENES Y SERVICIOS | 
+Cuidados personales | 
+Salones de peluquería y establecimientos de cuidados personales [COICOP 12.1.1] | 
+136 | Salones de peluquería y establecimientos de cuidados personales | 
+Aparatos, artículos y productos de cuidados personales [COICOP 12.1.2] | 
+137 | Aparatos, artículos y productos eléctricos de cuidados personales | 
+Otros aparatos, artículos y productos de cuidados personales [COICOP 12.1.3] | 
+138 | Otros aparatos, artículos y productos de cuidados personales | 
+Prostitución | 
+Prostitución [COICOP 12.2.0] | 
+139 | Prostitución | 
+Efectos personales n.c.o.p. | 
+Joyería, bisutería y relojería[COICOP 12.3.1] | 
+140 | Joyería, bisutería y relojería | 
+Otros efectos personales [COICOP 12.3.2] | 
+141 | Otros efectos personales | 
+Protección social | 
+Protección social [COICOP 12.4.0] | 
+142 | Protección social | 
+Seguros | 
+Seguros [COICOP 12.5.1, 12.5.2, 12.5.3, 12.5.4 y 12.5.5] | 
+143 | Seguros | 
+Servicios financieros n.c.o.p. | 
+SIFMI [COICOP 12.6.1] | 
+144 | SIFMI | 
+Servicios financieros n.c.o.p. [COICOP 12.6.2] | 
+145 | Servicios financieros n.c.o.p. | 
+Otros servicios n.c.o.p. | 
+Otros servicios n.c.o.p. [COICOP 12.7.0] | 
+146 | Otros servicios n.c.o.p. | 
+SALDO DEL GASTO DE LOS RESIDENTES EN EL EXTRANJERO Y DEL GASTO DE LOS NO RESIDENTES EN EL TERRITORIO ECONÓMICO | 
+Gasto en consumo final de los hogares residentes en el resto del mundo | 
+Gasto en consumo final de los hogares residentes en el resto del mundo | 
+147 | Gasto en consumo final de los hogares residentes en el resto del mundo | 
+Gasto en consumo final de los hogares no residentes en el territorio económico | 
+Gasto en consumo final de los hogares no residentes en el territorio económico | 
+148 | Gasto en consumo final de los hogares no residentes en el territorio económico | 
+GASTO DE CONSUMO INDIVIDUAL DE LAS ISFLSH | 
+VIVIENDA | 
+Vivienda | 
+Vivienda [COPNI 01.0.0] | 
+149 | Vivienda | 
+SALUD | 
+Salud | 
+Salud [COPNI 02.1.1 a 02.6.0] | 
+150 | Salud | 
+ACTIVIDADES RECREATIVAS Y CULTURALES | 
+Actividades recreativas y culturales | 
+Actividades recreativas y culturales [COPNI 03.1.0 y 03.2.0] | 
+151 | Actividades recreativas y culturales | 
+EDUCACIÓN | 
+Educación | 
+Educación [COPNI 04.1.0 a 04.7.0] | 
+152 | Educación | 
+PROTECCIÓN SOCIAL | 
+Protección social | 
+Protección social [COPNI 05.1.0 y 05.2.0] | 
+153 | Protección social | 
+OTROS SERVICIOS | 
+Otros servicios | 
+Otros servicios [COPNI 06.0.0 a 09.2.0] | 
+154 | Otros servicios | 
+GASTO DE CONSUMO INDIVIDUAL DE LAS ADMINISTRACIONES PÚBLICAS | 
+VIVIENDA | 
+Vivienda | 
+Vivienda | 
+155 | Vivienda | 
+SALUD | 
+Prestaciones sanitarias y reembolsos | 
+Productos, aparatos y equipos médicos | 
+156 | Productos farmacéuticos | 
+157 | Otros productos médicos | 
+158 | Aparatos y equipos terapéuticos | 
+Servicios sanitarios | 
+159 | Servicios médicos ambulatorios | 
+160 | Servicios dentales ambulatorios | 
+161 | Servicios paramédicos ambulatorios | 
+162 | Servicios hospitalarios | 
+Producción de servicios sanitarios | 
+Remuneración de los asalariados | 
+163 | Médicos | 
+164 | Personal de enfermería y otro personal médico | 
+165 | Personal no médico | 
+Consumo intermedio | 
+166 | Productos farmacéuticos | 
+167 | Otros bienes médicos | 
+168 | Aparatos y equipos terapéuticos | 
+169 | Consumo intermedio n.c.o.p. | 
+Excedente bruto de explotación | 
+170 | Excedente bruto de explotación | 
+Impuestos netos sobre la producción | 
+171 | Impuestos netos sobre la producción | 
+Ingresos por ventas | 
+172 | Ingresos por ventas | 
+ACTIVIDADES RECREATIVAS Y CULTURALES | 
+Actividades recreativas y culturales | 
+Actividades recreativas y culturales | 
+173 | Actividades recreativas y culturales | 
+EDUCACIÓN | 
+Prestaciones educativas y reembolsos | 
+Prestaciones educativas y reembolsos | 
+174 | Prestaciones educativas y reembolsos | 
+Producción de servicios educativos | 
+Remuneración de los asalariados | 
+175 | Enseñanza preescolar y primaria | 
+176 | Enseñanza secundaria | 
+177 | Enseñanza postsecundaria no terciaria | 
+178 | Enseñanza terciaria | 
+Consumo intermedio | 
+179 | Consumo intermedio | 
+Excedente bruto de explotación | 
+180 | Excedente bruto de explotación | 
+Impuestos netos sobre la producción | 
+181 | Impuestos netos sobre la producción | 
+Ingresos por ventas | 
+182 | Ingresos por ventas | 
+PROTECCIÓN SOCIAL | 
+Protección social | 
+Protección social | 
+183 | Protección social | 
+GASTO EN CONSUMO COLECTIVO DE LAS ADMINISTRACIONES PÚBLICAS | 
+SERVICIOS COLECTIVOS | 
+Servicios colectivos | 
+Remuneración de los asalariados | 
+184 | Remuneración de los asalariados (servicios colectivos relativos a la defensa) | 
+185 | Remuneración de los asalariados (servicios colectivos distintos de la defensa) | 
+Consumo intermedio | 
+186 | Consumo intermedio (servicios colectivos relativos a la defensa) | 
+187 | Consumo intermedio (servicios colectivos distintos de la defensa) | 
+Excedente bruto de explotación | 
+188 | Excedente bruto de explotación (servicios colectivos relativos a la defensa) | 
+Impuestos netos sobre la producción | 
+189 | Impuestos netos sobre la producción (servicios colectivos relativos a la defensa) | 
+Ingresos por ventas | 
+190 | Ingresos por ventas (servicios colectivos relativos a la defensa) | 
+GASTOS EN FORMACIÓN BRUTA DE CAPITAL FIJO | 
+MAQUINARIA Y EQUIPO | 
+Productos y equipos metálicos | 
+Productos metálicos, excepto maquinaria y equipo [CPA 28.11 a 28.75] | 
+191 | Productos metálicos, excepto maquinaria y equipo | 
+Maquinaria de uso general [CPA 29.11 a 29.24] | 
+192 | Motores y turbinas, bombas y compresores | 
+193 | Otra maquinaria de uso general | 
+Maquinaria para usos específicos [CPA 29.31 a 29.72] | 
+194 | Maquinaria agraria y para la silvicultura | 
+195 | Herramientas mecánicas | 
+196 | Maquinaria para la industria metalúrgica, minera, extractiva y de la construcción | 
+197 | Maquinaria para la industria de la alimentación, bebidas y tabaco | 
+198 | Maquinaria para la industria textil, de la confección y del cuero | 
+199 | Otra maquinaria para usos específicos | 
+Material y equipo eléctrico, electrónico y óptico [CPA 30.01 a 33.50] | 
+200 | Maquinaria de oficina | 
+201 | Ordenadores y otro equipo informático | 
+202 | Maquinaria y material eléctrico | 
+203 | Equipos y aparatos de radio, televisión y comunicaciones | 
+204 | Equipo e instrumentos médico-quirúrgicos, de medida, ópticos y relojes | 
+Manufacturas diversas n.c.o.p. [CPA 36.11 a 36.63] | 
+205 | Manufacturas diversas n.c.o.p. | 
+Equipos de transporte | 
+Equipo de transporte por carretera [CPA 34.10 a 34.30 y 35.41 a 35.50] | 
+206 | Vehículos de motor, remolques y semirremolques | 
+207 | Otros transportes por carretera | 
+Otros equipos de transporte [CPA 35.11 a 35.30] | 
+208 | Barcos, buques, buques de vapor, remolcadores, plataformas flotantes y de perforación | 
+209 | Locomotoras y material rodante | 
+210 | Aeronaves, helicópteros y otros equipos aeronáuticos | 
+CONSTRUCCIÓN | 
+Edificios residenciales | 
+Edificios de una o dos viviendas [CPA división 45] | 
+211 | Edificios de una o dos viviendas | 
+Edificios de varias viviendas [CPA división 45] | 
+212 | Edificios de varias viviendas | 
+Edificios no residenciales | 
+Edificios agrícolas [CPA división 45] | 
+213 | Edificios agrícolas | 
+Edificios industriales y almacenes [CPA división 45] | 
+214 | Edificios industriales y almacenes | 
+Edificios comerciales [CPA división 45] | 
+215 | Edificios comerciales | 
+Otros edificios no residenciales [CPA división 45] | 
+216 | Otros edificios no residenciales | 
+Obras públicas | 
+Infraestructuras del transporte [CPA división 45] | 
+217 | Infraestructuras del transporte | 
+Redes de comunicación y conducción de energía [CPA división 45] | 
+218 | Redes de comunicación y conducción de energía | 
+Otras obras públicas [CPA división 45] | 
+219 | Otras obras públicas | 
+OTROS PRODUCTOS | 
+Los demás productos | 
+Productos de la agricultura, la silvicultura, la pesca y la acuicultura [CPA divisiones 01, 02 y 05] | 
+220 | Productos de la agricultura, la silvicultura, la pesca y la acuicultura | 
+Programas informáticos [CPA 72.20] | 
+221 | Programas informáticos | 
+Otros productos n.c.o.p. [CPA n.c.o.p.] | 
+222 | Otros productos n.c.o.p. | 
+VARIACIÓN DE EXISTENCIAS Y ADQUISICIONES MENOS CESIONES DE OBJETOS VALIOSOS | 
+VARIACIÓN DE EXISTENCIAS | 
+Variación de existencias | 
+Variación de existencias | 
+223 | Variación de existencias | 
+ADQUISICIONES MENOS CESIONES DE OBJETOS VALIOSOS | 
+Adquisiciones menos cesiones de objetos valiosos | 
+Adquisiciones menos cesiones de objetos valiosos | 
+224 | Adquisiciones menos cesiones de objetos valiosos | 
+SALDO DE EXPORTACIONES E IMPORTACIONES | 
+EXPORTACIONES DE BIENES Y SERVICIOS | 
+Exportaciones de bienes | 
+Exportaciones de bienes a la UE e instituciones de la UE | 
+225 | Exportaciones de bienes a países de la UE | 
+226 | Exportaciones de bienes a instituciones de la UE | 
+Exportaciones de bienes a terceros países y organizaciones internacionales | 
+227 | Exportaciones de bienes a terceros países y organizaciones internacionales | 
+Exportaciones de servicios | 
+Exportaciones de servicios a la UE e instituciones de la UE | 
+228 | Exportaciones de servicios a países de la UE | 
+229 | Exportaciones de servicios a instituciones de la UE | 
+Exportaciones de servicios a terceros países y organizaciones internacionales | 
+230 | Exportaciones de servicios a terceros países y organizaciones internacionales | 
+IMPORTACIONES DE BIENES Y SERVICIOS | 
+Importaciones de bienes | 
+Importaciones de bienes desde la UE e instituciones de la UE | 
+231 | Importaciones de bienes desde países de la UE | 
+232 | Importaciones de bienes desde instituciones de la UE | 
+Importaciones de bienes desde terceros países y organizaciones internacionales | 
+233 | Importaciones de bienes desde terceros países y organizaciones internacionales | 
+Importaciones de servicios | 
+Importaciones de servicios desde la UE e instituciones de la UE | 
+234 | Importaciones de servicios desde países de la UE | 
+235 | Importaciones de servicios desde instituciones de la UE | 
+Importaciones de servicios desde terceros países y organizaciones internacionales | 
+236 | Importaciones de servicios desde terceros países y organizaciones internacionales | 
+FICHA FINANCIERA LEGISLATIVA 
+DENOMINACIÓN DE LA PROPUESTA 
+Reglamento del Parlamento Europeo y del Consejo que establece reglas comunes para el suministro de información básica sobre las Paridades de Poder Adquisitivo, y para su cálculo y difusión. 
+MARCO GPA/PPA (gestión/presupuestación por actividades) 
+Ámbitos políticos afectados y actividades asociadas: 
+Título 01: Asuntos económicos y financieros: Unión económica y monetaria (204) 
+Título 13: Política regional: Fondo Europeo de Desarrollo Regional y otras intervenciones regionales (1603), Fondo de Cohesión (1604) 
+Título 26: Administración: Política y gestión de personal, gestión de pensiones 
+Título 27: Presupuestos: Política presupuestaria 
+Título 29: Estadísticas: Producción de estadísticas (3403) 
+LÍNEAS PRESUPUESTARIAS 
+Líneas presupuestarias (líneas operativas y líneas correspondientes de asistencia técnica y administrativa (antiguas líneas BA)), incluidas sus denominaciones: 
+29.01.01 Gastos de personal en activo correspondientes a la política de estadística 
+29 01 02 Personal exterior y otros gastos de gestión de la política de estadística 
+29.02.01 Política de información estadística 
+Duración de la acción y de la incidencia financiera: 
+La propuesta no contempla un término para la acción. Las subvenciones a los Estados miembros se limitan a cinco años (2007-2011), a excepción de las acciones necesarias para establecer los coeficientes correctores que se aplican a la remuneración y a las pensiones en la CE (artículo 64 del Estatuto de los funcionarios). 
+Características presupuestarias 
+Línea presupuestaria | Tipo de gasto | Nuevo | Participación de la AELC | Participación de los países candidatos | Rúbrica de las perspectivas financieras | 
+29.01.01 | GNO | CND | No | No | No | N° 3 | 
+29 01 02 | GNO | CND | No | No | No | N° 3 | 
+29.02.01 | GNO | CD | No | Sí | No | N° 3 | 
+SÍNTESIS DE LOS RECURSOS 
+Recursos financieros 
+La incidencia financiera indicada en esta ficha es orientativa, ya que los recursos y el presupuesto necesarios para las actividades que se llevan a cabo con arreglo al Reglamento de las Paridades de Poder Adquisitivo (PPA) están incluidos en los programas estadísticos quinquenales de la Comisión (actualmente Decisión n° 2367/2002/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 2002, por la que se aprueba el Programa Estadístico Comunitario 2003-2007, DO L 358, p. 1). La ficha financiera del Reglamento de las PPA indica el importe de los recursos que las Paridades de Poder Adquisitivo requieren del total de la política de información estadística. 
+Síntesis de los créditos de compromiso (CC) y de los créditos de pago (CP) 
+millones de euros (al tercer decimal) 
+Institutos nacionales de estadística de los Estados miembros | f | 1,191 | 0,628 | 0,628 | 0,628 | 0,628 | 1,978 | 1,978 | 7,659 | 
+TOTAL CC, incluida la cofinanciación | a+c+d+e+f | 7,551 | 5,423 | 5,123 | 5,123 | 5,123 | 5,123 | 5,123 | 38,589 | 
+Compatibilidad con la programación financiera 
+( La propuesta es compatible con la programación financiera vigente. 
+( La propuesta requiere una reprogramación de la rúbrica correspondiente de las perspectivas financieras. 
+( La propuesta puede requerir la aplicación de las disposiciones del Acuerdo Interinstitucional[16] (relativas al instrumento de flexibilidad o a la revisión de las perspectivas financieras). 
+Incidencia financiera en los ingresos 
+( La propuesta no tiene incidencia financiera en los ingresos 
+( La propuesta tiene incidencia financiera. 
+Recursos humanos equivalentes a tiempo completo (ETC) (incluidos funcionarios, personal temporal y externo) – véase el desglose en el punto 8.2.1. 
+Necesidades anuales | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 
+Cantidad total de recursos humanos | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 
+CARACTERÍSTICAS Y OBJETIVOS 
+Las precisiones sobre el contexto de la propuesta han de figurar en la exposición de motivos. 
+Realización necesaria a corto o largo plazo 
+Satisfacer las necesidades de las políticas de la Comisión en materia de datos, particularmente en el ámbito de la política regional. 
+Valor añadido de la acción comunitaria, coherencia de la propuesta con otros instrumentos financieros y posibles sinergias 
+Sin la participación comunitaria no podrían elaborarse estas estadísticas. 
+Objetivos de la propuesta, resultados esperados e indicadores de los mismos en el contexto de la gestión por actividades 
+Garantizar la elaboración anual continua de Paridades de Poder Adquisitivo de todos los Estados miembros. 
+Método de ejecución (indicativo) 
+Gestión centralizada, por la Comisión 
+SEGUIMIENTO Y EVALUACIÓN 
+Sistema de seguimiento 
+Se realizará un seguimiento de la aplicación del Reglamento mediante informes normalizados que describen los métodos y las prácticas nacionales. Los informes se realizarán en intervalos de seis años. La Comisión evaluará los informes de los países. 
+También se realizará un seguimiento permanente de las encuestas sobre precios PPA. Después de cada encuesta, los institutos nacionales de estadística presentarán a la Comisión un informe sobre la misma. 
+La aplicación del Reglamento y sus posibles modificaciones técnicas se llevará a cabo mediante el procedimiento de comitología previsto en el artículo 11 del Reglamento. 
+Evaluación 
+Evaluación ex ante 
+La propuesta de Reglamento es una continuación de acciones existentes, llevadas a cabo actualmente de forma voluntaria por los Estados miembros. 
+Medidas adoptadas sobre la base de una evaluación intermedia/ex post (enseñanzas extraídas de anteriores experiencias similares) 
+No procede. 
+Condiciones y frecuencia de evaluaciones futuras 
+Las disposiciones del Reglamento se revisarán cinco años después de la fecha de su entrada en vigor y se adaptarán, en caso necesario, sobre la base de un informe transmitido al Parlamento Europeo y al Consejo y de una propuesta de la Comisión. 
+M EDIDAS ANTIFRAUDE 
+A RAÍZ DE LA INICIATIVA DE REFORMA DE LA GESTIÓN FINANCIERA DE LA COMISIÓN, SE HA PUESTO EN MARCHA UN SISTEMA REVISADO DE GESTIÓN Y CONTROL INTERNOS. ESTE SISTEMA INCLUYE UNA CAPACIDAD DE AUDITORÍA INTERNA REFORZADA. 
+Para garantizar la existencia y el funcionamiento de procedimientos de prevención y detección de fraudes e irregularidades, se ha elaborado un sistema de seguimiento anual de los avances obtenidos en la aplicación de las normas de control interno de la Comisión. 
+Se han adoptado nuevas normas y procedimientos para los principales procedimientos presupuestarios: licitaciones, subvenciones, compromisos, contratos y pagos. 
+DETALLE DE LOS RECURSOS 
+Objetivos de la propuesta en términos de coste financiero 
+Créditos de compromiso en millones de euros (al tercer decimal) 
+Personal financiado[19] con cargo al artículo 29 01 04/05 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+TOTAL | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 
+Descripción de las tareas derivadas de la acción 
+Tareas relacionadas con la elaboración de estadísticas: 
+- Tareas metodológicas destinadas a asegurar la comparabilidad de los resultados 
+- Ayuda metodológica a los institutos nacionales de estadística 
+- Elaboración de cuestionarios y directrices 
+- Recopilaciones de datos efectuadas por los Estados miembros y por otros países participantes 
+- Verificación y validación de los datos 
+- Difusión y publicación de los datos 
+- Análisis cualitativo 
+- Supervisión de los contratistas 
+Tareas administrativas: 
+- Gestión de contratos / subvenciones 
+Origen de los recursos humanos (estatutarios) 
+( Puestos actualmente asignados a la gestión del programa que se va a sustituir o ampliar 
+( Puestos preasignados en el ejercicio EPA/AP del año n 
+( Puestos que se pedirán en el próximo procedimiento EPA/AP 
+( Puestos que se reasignan utilizando recursos existentes en el servicio gestor (reasignación interna) 
+( Puestos necesarios en el año n, pero no previstos en el ejercicio EPA/AP del año en cuestión 
+Otros gastos administrativos incluidos en el importe de referencia(29 01 04/05 - Gastos de gestión administrativa) 
+millones de euros (al tercer decimal) 
+Línea presupuestaria (n° y denominación) | Año n | Año n+1 | Año n+2 | Año n+3 | Año n+4 | Año n+5 y ss. | TOTAL | 
+Otros tipos de asistencia técnica y administrativa | 
+intramuros | 
+extramuros | 
+Total asistencia técnica y administrativa | 
+Coste financiero de los recursos humanos y costes asociados no incluidos en el importe de referencia 
+En millones de euros (cifra aproximada al tercer decimal) 
+Tipo de recursos humanos | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 
+Funcionarios y agentes temporales (29 01 01) | 0,648 | 0,648 | 0,648 | 0,648 | 0,648 | 0,648 | 0,648 | 
+Personal financiado con cargo al artículo 29 01 02 (auxiliares, END, contratados, etc.) | 0,432 | 0,432 | 0,432 | 0,432 | 0,432 | 0,432 | 0,432 | 
+Coste total de los recursos humanos y costes afines (NO incluidos en el importe de referencia) | 1,080 | 1,080 | 1,080 | 1,080 | 1,080 | 1,080 | 1,080 | 
+Cálculo - Funcionarios y agentes temporales 
+Una media de 0,108 millones de euros por persona y año 
+Cálculo - Personal financiado con cargo al artículo 29 01 02 
+Una media de 0,108 millones de euros por persona y año 
+Otros gastos administrativos no incluidos en el importe de referencia 
+millones de euros (al tercer decimal) 
+| 2007 |2008 |2009 |2010 |2011 |2012 |2013 |TOTAL | |29 01 02 11 01 Misiones |0,050 |0,050 |0,050 |0,050 |0,050 |0,050 |0,050 |0,350 | |29 01 02 11 02 Reuniones y conferencias |0,050 |0,050 |0,050 |0,050 |0,050 |0,050 |0,050 |0,350 | |29 01 02 11 03 Comités | | | | | | | | | |29 01 02 11 04 Estudios y asesoramiento | | | | | | | | | |29 01 02 11 05 Sistemas de información | | | | | | | | | | 2. Total otros gastos de gestión (29 01 02 11) | 0,100 |0,100 | 0,100 | 0,100 | 0,100 | 0,100 | 0,100 |0,700 | | 3 Otros gastos de naturaleza administrativa (especifique e indique la línea presupuestaria) | | | | | | | | | | Total gastos administrativos, excepto recursos humanos y costes afines (NO incluidos en el importe de referencia) | 0,100 |0,100 | 0,100 | 0,100 | 0,100 | 0,100 | 0,100 |0,700 | | Cálculo - Otros gastos administrativos no incluidos en el importe de referencia 
+[1] DO C […] de […], p. […]. 
+[2] DO C […] de […], p. […]. 
+[3] DO C […] de […], p. […]. 
+[4] DO L 310 de 30.11.1996, p. 1. Reglamento modificado en último lugar por el Reglamento (CE) nº 995/2001 de la Comisión (DO L 139 de 23.5.2001, p. 3). 
+[5] DO L 161 de 26.6.1999, p. 1. Reglamento modificado en último lugar por el Acta de adhesión de 2003. 
+[6] DO L 130 de 25.5.1994, p. 1. Reglamento modificado en último lugar por el Acta de adhesión de 2003. 
+[7] DO L 52 de 22.2.1997, p. 1. Reglamento modificado en último lugar por el Reglamento (CE) n° 1882/2003 (DO L 284 de 31.10.2003, p. 1). 
+[8] DO L 184 de 17.7.1999, p. 23. 
+[9] DO L 181 de 28.6.1989, p. 47. 
+[10] DO L 186 de 5.8.1995, p. 59. 
+[11] DO L 310 de 30.11.1996, p. 1. 
+[12] DO L 76 de 30.3.1993, p. 1. 
+[13] Gastos no cubiertos por el capítulo 1 del título 29 correspondiente. 
+[14] Gastos correspondientes al artículo 29 1 04. 
+[15] Gastos correspondientes a los artículos 29 1 01 y 29 1 02. 
+[16] Véanse los puntos 19 y 24 del Acuerdo Interinstitucional. 
+[17] Coste NO cubierto por el importe de referencia. 
+[18] Coste NO cubierto por el importe de referencia. 
+[19] Coste incluido en el importe de referencia. 

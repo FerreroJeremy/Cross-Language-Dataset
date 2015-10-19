@@ -1,0 +1,43 @@
+80/765/EEC: Commission Decision of 8 July 1980 laying down a code and standard rules for the transcription into a machine-readable form of the data relating to intermediate statistical surveys of areas under vines 
+COMMISSION DECISION of 8 July 1980 laying down a code and standard rules for the transcription into a machine-readable form of the data relating to intermediate statistical surveys of areas under vines (80/765/EEC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Economic Community, 
+Having regard to Council Regulation (EEC) No 357/79 of 5 February 1979 on statistical surveys of areas under vines (1), and in particular Articles 5 (6) and Article 6 (7) thereof, 
+Whereas Article 5 (6) of Regulation (EEC) No 357/79 provides that Member States which process the results of their basic surveys electronically shall submit the results in a machine-readable form; 
+Whereas the equipment which the Commission has available for analyzing the results of the statistical surveys of the areas under vines and the need for its rational use require that a standard format be prescribed for the transcription of the data into a machine-readable form to be determined in accordance with the procedure laid down in Article 8 of the said Regulation; 
+Whereas for practical reasons the Member States should forward the data referred to in Article 6 of Regulation (EEC) No 357/79 also in machine-readable form; 
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee for Agricultural Statistics, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+The machine-readable form for submission of the data provided for in Articles 5 and 6 of Regulation (EEC) No 357/79 by those Member States which process their survey results electronically shall be magnetic tape. 
+Article 2 
+The code and rules governing the transcription on to magnetic tape of the data provided for in Articles 5 and 6 of Regulation (EEC) No 357/79 shall be as set out in the Annexes hereto. 
+Article 3 
+This Decision is addressed to the Member States. 
+Done at Brussels, 8 July 1980. 
+For the Commission 
+Franรงois-Xavier ORTOLI 
+Vice-President (1)OJ No L 54, 5.3.1979, p. 124. 
+ANNEX I MAGNETIC TAPE SPECIFICATION FOR THE DELIVERY TO EUROSTAT OF THE DATA ON THE BASIC SURVEYS OF THE AREAS UNDER VINES (Council Regulation (EEC) No 357/79) 
+GENERAL PROVISIONS 
+I. The information recorded in accordance with the characteristics referred to in Articles 5 and 6 of Regulation (EEC) No 357/79 is to be delivered to Eurostat in the following form by those Member States which process their information electronically: 1. The information shall refer to summaries of holdings if the survey is exhaustive (or to raised summaries of holdings if the survey is based on random sampling) and not to individual holdings. 
+2. The information shall be delivered on nine-track magnetic tape/1600 BPI (630 bytes/cm) standard label. 
+3. The information shall be of fixed record length consisting of 145 positions, and shall be recorded in EBCDIC. 
+4. The first two fields of each record shall contain information to permit identification. The first field (three positions) identifies the geographical unit, the codification of which is given in the detailed provisions and in Annex II. 
+5. The second field (two positions) identifies the table in the schedule of tables provided for in Council Regulation (EEC) No 357/79. The codification of these tables is given in the detailed provisions. 
+6. The number and size of the fields in each record vary according to the table. If all the 145 positions are not filled in the case of certain tables, the record shall be completed by blanks. 
+7. The information shall be entered right justified in each field and noughts added to fill in. If any optional information is not supplied the record shall be completed by blanks in the corresponding bytes. 
+8. Surface area data shall be given in areas, production data in hl. 
+9. Member States shall have a choice of blocking factor and shall inform Eurostat which blocking factor has been used. 
+10. The record shall be sorted according to geographical unit, table and changes in that order. 
+11. Standard administrative procedures governing the transmission of the magnetic tape files to Eurostat shall be established jointly by Eurostat and the Member States. 
+II. The following pages give for each table and for the various items of a record: (a) the codes which are to be used; 
+(b) the maximum number of digits required for the item in question; 
+(c) the consecutive numbering of the positions for the various items. 
+DETAILED PROVISIONS 
+The first two fields of each record contain the following information: %gt%PIC FILE= %quot%T0013529%quot%%gt% 
+%gt%PIC FILE= %quot%T0013530%quot%%gt% 
+%gt%PIC FILE= %quot%T0013531%quot%%gt% 
+%gt%PIC FILE= %quot%T0013532%quot%%gt% 
+ANNEX II GEOGRAPHICAL UNITS PROVIDED FOR IN ARTICLE 4 (3) OF COUNCIL REGULATION (EEC) No 357/79 
+%gt%PIC FILE= %quot%T0013533%quot%%gt% %gt%PIC FILE= %quot%T0013534%quot%%gt% 

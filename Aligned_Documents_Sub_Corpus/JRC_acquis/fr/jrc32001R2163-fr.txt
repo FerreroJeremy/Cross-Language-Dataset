@@ -1,0 +1,90 @@
+Règlement (CE) n° 2163/2001 de la Commission du 7 novembre 2001 relatif aux modalités techniques de la transmission des données en vue de l'établissement de statistiques du transport de marchandises par route (Texte présentant de l'intérêt pour l'EEE) 
+Règlement (CE) no 2163/2001 de la Commission 
+du 7 novembre 2001 
+relatif aux modalités techniques de la transmission des données en vue de l'établissement de statistiques du transport de marchandises par route 
+(Texte présentant de l'intérêt pour l'EEE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CE) n° 1172/98 du Conseil du 25 mai 1998 relatif au relevé statistique des transports de marchandises par route(1), modifié par le règlement (CE) n° 2691/1999 de la Commission(2), et notamment son article 5, paragraphe 2, et son article 9, 
+considérant ce qui suit: 
+(1) Conformément à l'article 5, paragraphe 2, du règlement (CE) n° 1172/98, la Commission arrête les modalités de transmission des données par les États membres. 
+(2) Il convient de spécifier de manière suffisamment détaillée le format dans lequel les données doivent être transmises à Eurostat afin de garantir un traitement rapide des données au meilleur coût. 
+(3) Le présent règlement ne modifie en rien le statut des variables qualifiées de facultatives dans le règlement (CE) n° 1172/98. 
+(4) Les mesures définies dans le présent règlement sont conformes à l'avis du comité du programme statistique, institué par la décision 89/382/CEE, Euratom du Conseil(3), 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+Le format technique applicable lors de la transmission de données à la Commission (Eurostat) est défini à l'annexe du présent règlement. 
+Les États membres utilisent ce format pour les données relatives aux années de référence 2002 et suivantes. 
+Article 2 
+Les États membres transmettent à la Commission (Eurostat) les données et métadonnées requises au titre du présent règlement, sous forme électronique, en respectant une norme d'échange proposée par la Commission (Eurostat). 
+Article 3 
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel des Communautés européennes. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 7 novembre 2001. 
+Par la Commission 
+Pedro Solbes Mira 
+Membre de la Commission 
+(1) JO L 163 du 6.6.1998, p. 1. 
+(2) JO L 326 du 18.12.1999, p. 39. 
+(3) JO L 181 du 28.6.1989, p. 47. 
+ANNEXE 
+MODALITÉS TECHNIQUES DE LA TRANSMISSION DES DONNÉES 
+1. STRUCTURE DES DONNÉES 
+Les données individuelles trimestrielles à transmettre à Eurostat sont réparties en trois ensembles liés entre eux et couvrant: 
+A1 les variables relatives au véhicule; 
+A2 les variables relatives au parcours; 
+A3 les variables relatives à la marchandise (dans l'opération élémentaire de transport). 
+Chaque %quot%enregistrement de véhicule%quot% de l'ensemble A1 est lié à un ou plusieurs %quot%enregistrement(s) de parcours%quot% (ensemble A2) contenant des informations sur les parcours effectués par le véhicule durant la période d'enquête (généralement une semaine). Chaque enregistrement de parcours est à son tour lié à zéro, un ou plusieurs %quot%enregistrement(s) de marchandises%quot% (ensemble A3) contenant des données sur les opérations élémentaires de transport qui constituent le parcours total. 
+La figure 1 illustre la structure des données. 
+Notons qu'il n'y a pas toujours plusieurs enregistrements de marchandises pour chaque enregistrement de parcours. En ce qui concerne les parcours en charge, il est possible qu'il n'y ait 
+%gt%PIC FILE= %quot%L_2001291FR.001402.TIF%quot%%gt% 
+qu'un seul enregistrement de marchandises par enregistrement de parcours. Cela dépend de la méthode utilisée pour enregistrer les parcours et/ou du type de parcours. Pour ce qui est des parcours à vide, aucun enregistrement de marchandises n'y est normalement lié (bien qu'il soit possible de lier une opération de transport à vide à un parcours à vide). 
+L'%quot%appendice méthodologique%quot% contenu à l'annexe A du règlement (CE) n° 1172/98 fournit des informations plus détaillées. 
+2. LISTE DES CHAMPS 
+Les informations suivantes sont fournies pour chaque champ: 
+- numéro de champ: identifie la position du champ dans l'enregistrement, 
+- variable: soit référence à la variable du règlement (CE) n° 1172/98, soit identificateur interne, 
+- description: brève description du contenu du champ, 
+- codification: les variables doivent être codées conformément aux dispositions des annexes A à G du règlement (CE) n° 1172/98. Les règles de codification supplémentaires sont définies ici. Eurostat peut fournir des recommandations et des explications supplémentaires en matière de codification dans le cadre du manuel de référence pour la mise en oeuvre du règlement (CE) n° 1172/98, 
+- type de champ: indique si le champ contient des informations numériques ou textuelles, 
+- sauf pour la variable A1.9, tous les champs numériques doivent contenir un nombre entier, 
+- pour la variable A1.9, il conviendra d'utiliser la virgule (%quot%,%quot%) comme séparateur décimal, 
+- variable facultative: indique si la variable est facultative en vertu de l'annexe A du règlement (CE) n° 1172/98, 
+- longueur maximale: longueur maximale prévue des données dans ce champ. Les données qui sont trop longues ne peuvent être chargées, 
+- champ-clé: la combinaison des valeurs des champs-clés d'un ensemble de données doit permettre d'aboutir à une valeur-clé unique dans cet ensemble de données. La présence de deux valeurs-clés identiques bloque le chargement de l'ensemble de données et des ensembles qui y sont liés, étant donné que les liens entre les enregistrements du véhicule, des parcours et des marchandises ne peuvent être établis correctement. 
+Ensemble de données A1: Variables relatives au véhicule 
+%gt%TABLE%gt% 
+Ensemble de données A2: Variables relatives au parcours 
+%gt%TABLE%gt% 
+Ensemble de données A3: Variables relatives à la marchandise (dans l'opération élémentaire de transport) 
+%gt%TABLE%gt% 
+3. DONNÉES MANQUANTES 
+Par défaut, les données manquantes des enregistrements sont représentées par un champ vide (pas de données entre deux séparateurs de champs successifs). Pour certains champs, Eurostat peut recommander l'utilisation de codes spécifiques pour les données manquantes ou d'autres données spéciales (voir la colonne %quot%Codes spécifiques pour les valeurs manquantes%quot%). 
+Des informations complémentaires se trouvent dans le manuel de référence pour la mise en oeuvre du règlement (CE) n° 1172/98 relatif au relevé statistique des transports de marchandises par route. 
+4. CHANGEMENT DE CONFIGURATION OU DE TYPE DE TRANSPORT 
+Conformément à l'annexe A du règlement (CE) n° 1172/98, pendant la période d'enquête, il peut y avoir un changement de la configuration du véhicule (ajout d'une remorque modifiant la configuration des essieux et la charge utile) ou du type de transport selon les parcours. Il est recommandé d'enregistrer ces changements (même si aucune obligation n'existe en la matière). 
+Afin de permettre la transmission de ces données conformément aux structures normales définies ici, les données concernant les variables A1.2, A1.4, A1.5 et A1.7 sont transmises dans l'ensemble A2 (variables relatives aux parcours). 
+5. VALIDATION DES DONNÉES PAR EUROSTAT 
+Eurostat soumet les données transmises par les États Membres à des contrôles de validation avant de les charger dans la base de données production. Si de nombreux enregistrements se révèlent non valides, Eurostat les signale à l'État membre et indique les raisons de leur non-acceptation. L'État membre est invité à rectifier les erreurs signalées et à transmettre de nouveau les trois ensembles complets pour le trimestre en question (et pas uniquement les enregistrements erronés). C'est nécessaire si l'on veut garantir l'exactitude des facteurs de pondération ainsi que la cohérence entre les données relatives au véhicule, aux parcours effectués et aux marchandises transportées. 
+Si le fichier ne comporte qu'un très petit nombre d'erreurs qui n'auront qu'une incidence minime sur les analyses, Eurostat charge les enregistrements valides et ne tient pas compte des enregistrements erronés. Dans ce cas, les enregistrements qui ne satisfont pas aux contrôles et les raisons de leur non-acceptation son signalés à l'État membre concerné qui est invité à corriger les erreurs détectées s'il le souhaite et à transmettre de nouveau les trois ensembles complets pour le trimestre en question (et pas uniquement les enregistrements erronés). En cas de nouvelle transmission des données, Eurostat charge les données corrigées. En revanche, si l'État membre choisit de ne pas renvoyer de données, Eurostat utilise les données déjà acceptées pour la confection des tableaux agrégés. 
+6. IDENTIFICATION DES ENSEMBLE DE DONNÉES 
+Le nom des ensembles de données (%quot%CCYYQnROADAx.ZZZ%quot%, conformément aux exigences de Stadium) contient les éléments suivants: 
+%gt%TABLE%gt% 
+Exemples: 
+1) L'ensemble de données %quot%ES99Q2ROADA1.zip%quot% est un fichier compressé d'extension %quot%.zip%quot% contenant l'ensemble de données A1 de l'Espagne pour le deuxième trimestre de l'année 1999 (%quot%ES99Q2ROADA1.dat%quot%). 
+2) L'ensemble de données %quot%UK99Q3ROADA2.dat%quot% contient les données A2 du Royame-Uni pour le troisième trimestre de l'année 1999. 
+Le nom des ensembles de données susmentionné doit figurer dans le champ %quot%Objet%quot% du message électronique. 
+7. SUPPORT DE TRANSMISSION 
+Le support de transmission de référence est Stadium. L'adresse est fournie par Eurostat. Il convient de noter que les messages électroniques ne peuvent dépasser une taille bien définie. Par conséquent, les gros fichiers de données ne peuvent pas être transmis par cette voie. 
+8. PÉRIODE DE TRANSITION 
+Pendant une période de transition, les données peuvent aussi être transmises dans des ensembles de données de type ASCII comportant des champs de longueur variable. Le point-virgule (%quot%;%quot%) est utilisé pour séparer les champs. 
+Tous les champs doivent être présents même s'ils sont vides (deux séparateurs de champs consécutifs). 
+Les espaces supplémentaires contenus dans les champs de données sont ignorés, sauf si les instructions spécifiques relatives à un champ interdissent la présence d'espaces supplémentaires. 
+En outre, pendant cette période de transition, Eurostat accepte également les disquettes ou les CD enregistrables (CD-R) qui lui sont envoyés par courrier. Les bandes magnétiques et les supports papier ne sont pas acceptés. 
+Pendant la période de transition, les différentes étapes de la transmission, par courrier électronique, des ensembles de données à Eurostat sont les suivantes: 
+- les données sont envoyées sous forme d'ensembles de données joints, 
+- il n'est possible de joindre qu'un seul ensemble de données par message, 
+- le nom de l'ensemble de données est mentionné dans le champ %quot%Objet%quot% du message, 
+- si vous souhaitez ajouter des commentaires (notes méthodologiques, remarques concernant la qualité des données, etc.) au sujet d'un ensemble de données joint en annexe à un message éléctronique, nous vous conseillons de le faire sous forme de texte dans le corps du message. L'utilisation de texte formaté n'est pas autorisée, 
+- si vous souhaitez faire des commentaires concernant un ensemble de données qui n'est pas joint au message électronique, indiquez la référence %quot%CCYYQnROADAx.rem%quot% dans le champ %quot%Objet%quot% et ajoutez vos remarques sous forme de texte dans le corps du message. L'utilisation de texte formaté n'est pas autorisée, 
+- si vous souhaitez corriger un ensemble de données déjà transmis à Eurostat, renvoyez l'ensemble complet dûment corrigé sous le même nom et tapez une note explicative dans le corps du message. 

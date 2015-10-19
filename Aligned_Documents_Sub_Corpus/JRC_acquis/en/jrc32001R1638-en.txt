@@ -1,0 +1,82 @@
+Commission Regulation (EC) No 1638/2001 of 24 July 2001 amending Council Regulation (EC) No 2597/95 on the submission of nominal catch statistics by Member States fishing in certain areas other than those of the North Atlantic 
+Commission Regulation (EC) No 1638/2001 
+of 24 July 2001 
+amending Council Regulation (EC) No 2597/95 on the submission of nominal catch statistics by Member States fishing in certain areas other than those of the North Atlantic 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC) No 2597/95 of 23 October 1995 on the submission of nominal catch statistics by Member States fishing in certain areas other than those of the North Atlantic(1), and in particular Articles 2(5) and 4 thereof, 
+Whereas: 
+(1) The ninth meeting of the Conference of Parties of the Convention on International Trade in Endangered Species (CITES) in 1994 requested the monitoring of catch and trade data on elasmobranch fish species (sharks, skates and rays) be undertaken by the Food and Agriculture Organisation of the United Nations (FAO) and by regional fishery agencies. 
+(2) The FAO, in collaboration with the appropriate regional fishery agencies, has established a list of elasmobranch species for which catch statistics should be collected on the Statlant system of questionnaires. 
+(3) Article 4 of Regulation (EC) No 2597/95 provides that Member States, with the prior approval of Eurostat, may submit data in a different form or through a different medium from that laid down in Annex 5 to the Regulation. 
+(4) Several Member States have requested submission of data in a different form or through a different medium from that specified in Annex 5 to Regulation (EC) No 2597/95 (the equivalent of the abovementioned Statlant questionnaires). 
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee for Agricultural Statistics set up by Council Decision 72/279/EEC(2), 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Annex 4 to Regulation (EC) No 2597/95 shall be replaced by Annex I to this Regulation. 
+Article 2 
+Member States may submit data following that of the format detailed in Annex II to this Regulation. 
+Article 3 
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 24 July 2001. 
+For the Commission 
+Pedro Solbes Mira 
+Member of the Commission 
+(1) OJ L 270, 13.11.1995, p. 1. 
+(2) OJ L 179, 7.8.1972, p. 1. 
+ANNEX I 
+LIST OF SPECIES FOR WHICH DATA ARE TO BE SUBMITTED FOR EACH MAJOR FISHING AREA 
+The species listed below are those for which captures have been reported in the official statistics. Member States should submit data for each of the identified species if available. Where individual species cannot be identified the data should be aggregated and submitted in the item representing the highest degree of detail possible. 
+Note: 
+n.e.i. = not elsewhere indicated. 
+Eastern Central Atlantic (Major fishing area 34) 
+%gt%TABLE%gt% 
+Mediterranean and Black Sea (Major fishing area 37) 
+%gt%TABLE%gt% 
+Southwest Atlantic (Major fishing area 41) 
+%gt%TABLE%gt% 
+Southeast Atlantic (Major fishing area 47) 
+%gt%TABLE%gt% 
+Western Indian Ocean (Major fishing area 51) 
+%gt%TABLE%gt% 
+ANNEX II 
+FORMAT FOR THE SUBMISSION OF CATCH DATA FOR REGIONS OTHER THAN THE NORTH ATLANTIC ON MAGNETIC MEDIA 
+A. CODING FORMAT 
+The data should be submitted as variable length records with a colon (:) between the fields of the record. The following fields should be included in each record: 
+%gt%TABLE%gt% 
+(a) The catch is to be recorded in the live weight equivalent of the landings, to the nearest metric tonne. 
+(b) Quantities of less than half a unit should be recorded as %quot%-1%quot%. 
+(c) Country codes: 
+Austria AUT 
+Belgium BEL 
+Denmark DNK 
+Finland FIN 
+France FRA 
+Germany DEU 
+Greece GRC 
+Ireland IRL 
+Italy ITA 
+Luxembourg LUX 
+Netherlands NLD 
+Portugal PRT 
+Spain ESP 
+Sweden SWE 
+United Kingdom GBR 
+Iceland ISL 
+Norway NOR 
+Bulgaria BGR 
+Cyprus CYP 
+Czech Republic CZE 
+Estonia EST 
+Hungary HUN 
+Latvia LVA 
+Lithuania LTU 
+Malta MLT 
+Poland POL 
+Romania ROM 
+Slovak Republic SVK 
+Slovenia SVN 
+Turkey TUR 
+B. METHOD OF TRANSMISSION OF THE DATA TO THE EUROPEAN COMMISSION 
+As far as is possible, the data should be transmitted in an electronic format (for example, as an e-mail attachment). Failing this the submission of a file on a 3,5%quot% HD floppy disk will be accepted. 

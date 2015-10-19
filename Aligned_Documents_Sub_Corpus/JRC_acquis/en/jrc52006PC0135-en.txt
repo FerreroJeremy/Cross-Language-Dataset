@@ -1,0 +1,919 @@
+Proposal for a Regulation of the European Parliament and of the Council establishing common rules for the provision of basic information on Purchasing Power Parities and for their calculation and dissemination /* COM/2006/0135 final - COD 2006/0042 */ 
+[pic] | COMMISSION OF THE EUROPEAN COMMUNITIES | 
+Brussels, 22.3.2006 
+COM(2006) 135 final 
+2006/0042 (COD) 
+Proposal for a 
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+establishing common rules for the provision of basic information on Purchasing Power Parities and for their calculation and dissemination 
+(presented by the Commission) 
+EXPLANATORY MEMORANDUM 
+1. Why a Purchasing Power Parities (PPPs) regulation? 
+PPPs are currency conversion rates that convert economic indicators expressed in national currencies to a common currency and, at the same time, take account of price level differences and thus allow pure volume comparisons of Gross Domestic Product (GDP) and its aggregates between countries. 
+The purpose of a PPP Regulation would be to codify what is already being done by the European Union (EU) Member States and Eurostat to calculate annual PPPs, and hence to give the work a statutory basis. It would not of itself call for any new work to be done, except to introduce new elements of quality control; nor would it seek to encompass other matters, such as price comparisons in general. 
+The Structural Funds Regulation, Council Regulation (EC) No 1260/1999, gives statutory responsibility to the Commission for calculating GDP on a purchasing power basis. A new legal act in this domain provides the opportunity to clarify the role and responsibilities of national authorities in compiling these statistics and transmitting them to Eurostat. 
+The setting-up of a legal basis for PPPs should improve the transparency, timeliness and quality of the entire process of PPP production, both within the national statistical institutes (NSIs) and in Eurostat. The use of a Regulation as a means of improving PPP quality overall may be seen as a target not only for Eurostat as producer of the co-ordinated results, but also for the countries themselves. 
+2. Economic background 
+2.1 GDP comparisons 
+GDP, which is one of the vital national accounts aggregates, represents in a concise form the results of all activities of economic operators within a given economic territory and within a given period, usually a year. GDP is calculated in accordance with a system of national accounts which, for the EU, is the European system of integrated economic accounts 1995 (ESA-95). GDP and its aggregates are essential indicators for macroeconomic analysis and economic policy. GDP can be measured from the production, the expenditure and the income side. For PPP purposes the expenditure measure is particularly important. It reveals the extent to which the goods and services produced (or imported) by the economy of a country are used for private consumption, public consumption, capital formation or export. 
+International comparisons of economic aggregates such as GDP require firstly that the basis for measuring the aggregates is consistent for the countries under comparison, and secondly that a comparable unit of measurement is employed. Consistency in the basis for measuring the aggregates is achieved through compliance with ESA95. 
+The differences in GDP expenditure values between countries correspond not only to a “volume of goods and services” component but also to a “level of prices” component, which can sometimes assume sizeable proportions (value is the product of price and volume). In order to obtain a real comparison of volumes, therefore, it is essential to use conversion factors (spatial deflators) which reflect the differences in the level of prices between countries. 
+The use of exchange rates as conversion factors does not allow such a real comparison of the volumes of goods and services produced and used in the different countries. This is because exchange rates are determined by the many factors which affect demand and supply for currencies, such as international trade and interest rate differentials. In other words, exchange rates usually reflect elements other than price differences alone. 
+PPPs between various countries’ currencies have been specifically developed to be appropriate for use as spatial conversion factors. 
+2.2 What are PPPs? 
+PPPs are currency conversion rates that convert economic indicators, expressed in nominal national currencies, to a common artificial currency called Purchasing Power Standard (PPS), which equalises the purchasing power of different national currencies and thus allows meaningful pure volume comparison of GDP and its aggregates between countries. In other words, PPPs are both price deflators and currency converters; they remove the differences in price levels between countries in the process of conversion. 
+Economic volume aggregates in PPS are obtained by dividing their original value in national currency units by the respective PPP. 1 PPS buys the same given volume of goods and services in all countries, whereas different amounts of national currency units are needed to buy the same volume of goods and services in individual countries, depending on the national price level. Thus, GDPs of countries expressed in PPS by using PPPs as conversion factors reflect a pure volume comparison, since the price level component has been eliminated. 
+With the launch of the euro in the euro-zone Member States, for the first time prices can be compared directly between those countries. However, the euro has different purchasing power in the individual euro-zone countries, depending on the national price levels. Therefore, in order to determine pure volume aggregates in PPS it is still necessary to calculate PPPs. In other words, for the non-euro-zone countries PPPs are currency converters and eliminate the effects of different price levels, while for the euro-zone countries they fulfil only the latter, price-deflator function. 
+In an annual multilateral exercise, PPPs are obtained as the averages of the price ratios between the different countries for a basket of comparable goods and services. These are selected to represent an entire set of well-defined expenditure classifications, and to be representative of consumption patterns in the various countries. 
+3. Uses of PPPs in the Commission 
+3.1 Structural and Cohesion Funds 
+The reform of the Structural Funds, and their extension to new Member States, has been embodied in Council Regulation (EC) No 1260/1999 and in Annex II to the 2003 Act of Accession, of which Section 15 is entitled “Regional Policy and coordination of structural instruments”. The first of these lays down general provisions on the Structural Funds for the current period, stating that regions whose per capita GDP measured in PPPs is less than 75% of the Community average are eligible for Structural Funds allocations. It also says that the criteria are to be calculated using objective statistical data. It may be assumed that similar provisions would govern the following period, beginning in 2007. The second of these acts amends those principles to cover new Member States too. 
+This new legal basis contrasts with the previous situation, in which the only statutory reference to PPPs in relation to the Structural Funds was in the recital of Council Regulation (EEC) No 2052/88, which simply stated: “Whereas [. . .] this list should comprise administrative level NUTS II regions where per capita GDP measured in terms of purchasing power parity is less than 75% of the Community average, . . . ”. There was no implementing clause in the body of the Regulation. Currently, the Structural Funds requirements are met by combining regional GDP values and national PPPs. 
+The Regulation establishing a Cohesion Fund (Council Regulation (EC) No 1164/94 of 25 May 1994) states that it is the Community’s task to promote economic and social cohesion and solidarity between the Member States, and Cohesion Fund is an instrument to accomplish this. Article 2(1) of the Regulation states that: “the Fund shall provide financial contributions to projects, which contribute to achieving the objectives laid down in the Treaty on European Union, in the fields of environment and trans-European infrastructure networks in Member States with a per capita gross national product (GNP), measured in purchasing power parity, of less than 90% of the Community average.” Therefore, the Cohesion Fund Regulation, too, gives to the Commission the statutory responsibility for calculating purchasing power parities. 
+3.2 Correction coefficients 
+Although the Regulation focuses on the specific aim of obtaining price data for making international GDP comparisons, it is also a means of establishing a statutory basis for the price collection activity which is necessary in order to fulfil a large part of the Commission's legal requirements in connection with Article 64 of the Staff Regulations. In other words, the prices collected in the realm of the PPP exercise are also used for establishing the correction coefficients to be applied to the remuneration and pensions of officials and other servants of the European Communities in accordance with the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities. Article 1 of Annex XI of the Staff Regulations requires that “the economic parities shall be calculated in such a way that each basic component can be checked by a direct survey at least once every five years”. 
+3.3 Price comparisons 
+There is a growing need within the Commission for data concerning spatial price comparisons – particularly for consumer prices. This requirement is prompted by a number of policy needs, in particular the monitoring of price convergence in the Single Market, the improvement of price indicators to monitor the functioning of public procurement markets and the monitoring of price convergence in the euro-zone since the introduction of the euro. Price level indices at the level of overall private household consumption, coming from the PPP exercise, already feature as Structural Indicators in the Commission’s Communication on Structural Indicators and Commission’s annual Synthesis Report to the European Council. 
+From the point of view of consumer protection, there is also a need to monitor price differences for a wide range of consumer products across the EU. A substantial part of these requirements, particularly at more aggregated level, can be met as a by-product of the wider PPP programme. 
+Thus, price comparisons are of special importance for several Community policies, such as development of the single market and monitoring of the EMU with regard to convergence of prices and consumer protection concerning the identification of price differences. The PPP work programme, as outlined in this proposed Regulation, would not necessarily provide all the data required for these other uses, but it would at least put in place a framework which could be used as a basis for additional price comparison work. Moreover, nothing in this Regulation prevents the Commission from investigating and studying new alternative sources of price data. These kinds of studies are currently being undertaken in the Commission to investigate the appropriateness of bar-code scanner data and the Internet as a source for international price comparisons. 
+4. Conclusions 
+Economic aggregates converted into a common currency using PPPs have a wide range of uses in the Commission. PPPs are economically and politically vital indicators for the EU. 
+The Commission has a statutory responsibility for calculating GDP on a purchasing power basis; however, the Member States currently have no legal obligation to co-operate. Given that the very nature of this work is multilateral, if only one country withdrew its support the validity of the whole exercise would be impaired. It is therefore important to provide a stable, binding and reliable legal framework capable of ensuring the timely availability of these data. 
+2006/0042 (COD) 
+Proposal for a 
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+establishing common rules for the provision of basic information on Purchasing Power Parities and for their calculation and dissemination 
+(Text with EEA relevance) 
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty establishing the European Community, and in particular Article 285(1) thereof, 
+Having regard to the proposal from the Commission[1], 
+Having regard to the opinion of the European Economic and Social Committee[2], 
+Acting in accordance with the procedure laid down in Article 251 of the Treaty[3], 
+Whereas: 
+1. In order to obtain a comparison of Gross Domestic Product (GDP) in volume terms between Member States, there is an essential need for the Community to have Purchasing Power Parities (PPPs) which reflect the differences in the level of prices between Member States. 
+2. The Community PPPs need to be produced in accordance with a harmonised methodology, consistent with Regulation (EC) No 2223/1996 of 25 June 1996 on the European system of national and regional accounts in the Community[4], (ESA 95) which lays down a framework for the construction of national accounts in the Member States. 
+3. Article 3(1) of Council Regulation (EC) No 1260/1999 of 21 June 1999 laying down general provisions on the Structural Funds[5], – must be read in conjunction with Part 15 of Annex II of the 2003 Act of Accession, entitled “Regional Policy and coordination of structural instruments”. That Article 3(1) states that the regions covered by Objective 1 are to be regions corresponding to level II of NUTS whose per capita GDP, measured in PPPs and calculated on the basis of Community figures, is less than 75% of the Community average. In the absence of regional PPPs, national PPPs should serve to establish the list of regions which could benefit from the Structural Funds; they can also be used to determine the amount of funds to be allocated to each region. 
+4. Article 2(1) of Council Regulation (EC) No 1164/94 of 16 May 1994 establishing a Cohesion Fund[6], – must be read in conjunction with Part 15 of Annex II of the 2003 Act of Accession, entitled “Regional Policy and coordination of structural instruments”. That Article 2(1) states that the Fund shall provide financial contributions to projects, which contribute to achieving the objectives laid down in the Treaty on European Union, in the fields of the environment and trans-European transport infrastructure networks in Member States with a per capita gross national product (GNP), measured in purchasing power parities, of less than 90 % of the Community average which have a programme leading to the fulfilment of the conditions of economic convergence referred to in Article 104c of the Treaty. 
+5. Article 1 of Annex XI to the Staff Regulations of Officials of the European Communities states that, for the purposes of the review provided for in Article 65(1) of the Staff Regulations, Eurostat must draw up every year before the end of October a report on changes in the cost of living in Brussels, the economic parities between Brussels and certain places in the Member States, and changes in the purchasing power of salaries in national civil services in central government. 
+6. The existing methodologies and practices operating within the European Union, at present governed as individual statistical programmes by Council Regulation (EC) No 322/1997 of 17 February 1997 on Community statistics,[7] need in future to be put into a legal framework. 
+7. The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission[8]. 
+8. The Statistical Programme Committee, established by Council Decision 89/382/EEC, Euratom of 19 June 1989 establishing a Committee on the Statistical Programmes of the European Communities [9], has been consulted in accordance with Article 3 of that Decision, 
+HAVE ADOPTED THIS REGULATION: 
+Article 1 
+Objective 
+The objective of this Regulation is to establish common rules for the provision of basic information on Purchasing Power Parities (PPPs), and for their calculation and dissemination. PPPs shall reflect only differences in price levels and expenditure weights. 
+Article 2 
+Scope 
+1. The basic information to be provided shall be those data necessary to calculate and ensure the quality of PPPs. 
+That basic information shall include prices, GDP expenditure breakdown and other data as listed in Annex I. 
+2. PPPs shall be calculated from the national annual average prices of goods and services, using basic information relating to the economic territory of the Member States as laid down under the “ESA 95” system instituted by Regulation (EC) No 2223/1996 of 25 June 1996 on the European system of national and regional accounts in the Community (ESA 95). 
+3. PPPs shall be calculated according to the basic headings as listed in Annex II, consistent with the related GDP classifications defined in Regulation (EC) No 2223/1996. 
+Article 3 
+Definitions 
+For the purpose of this Regulation the following definitions shall apply: 
+(a) “Purchasing Power Parities” or “PPPs” means spatial deflators and currency converters, which eliminate the effects of the differences in price levels between countries, thus allowing volume comparisons of GDP components and comparisons of price levels. 
+(b) "PPS” (Purchasing Power Standard) means the artificial common reference currency unit used in the European Union to express the volume of economic aggregates for the purpose of spatial comparisons in such a way that price level differences between countries are eliminated. 
+(c) “Prices“ means the purchaser prices paid by the final consumers. 
+(d) “Expenditure weights” means the shares of expenditure components in current-price GDP. 
+(e) “Basic heading” means the lowest level of aggregation of items in the GDP breakdown for which parities are calculated. 
+(f) “Item” means a product or service precisely defined for use in price observation. 
+(g) “Actual and imputed rentals” shall have the meaning attributed to it in Commission Decision 95/309/EC, Euratom[10]. 
+(h) “Compensation of employees” shall have the meaning attributed to it in Council Regulation (EC) No 2223/1996[11] . 
+(i) “Temporal adjustment factors” means factors used to adjust average prices obtained at the time of survey to annual average prices. 
+(j) “Spatial adjustment factors” means factors used to adjust average prices obtained from one or more locations within the economic territory of a Member State to national average prices. 
+(k) “Representative items” means those which are, or are considered to be, in terms of relative total expenditure within a basic heading, among the most important items purchased in national markets. 
+(l) “Representativity indicators” means markers or other indicators identifying those items that countries have selected as representative. 
+(m) “Equi-representativity” means a property required of the composition of the item list for a basic heading, each country being able to price that number of representative products which is commensurate with the heterogeneity of the products and price levels covered by the basic heading and its expenditure on the basic heading. 
+(n) “Transitive” means the property whereby a direct comparison between any two countries yields the same result as an indirect comparison via any other country. 
+(o) “Mistake” means a use of incorrect basic information or an inappropriate application of the calculation procedure. 
+(p) “Reference year” means a calendar year to which the annual results refer. 
+(q) “Fixity” means that, when results are calculated originally for a group of countries and then later the results are calculated for a wider group of countries, the PPPs between the original group of countries shall nevertheless be preserved. 
+Article 4 
+Roles and responsibilities 
+1. The Commission shall be responsible for: 
+(a) co-ordinating the provision of the basic information; 
+(b) calculating and publishing PPPs; 
+(c) ensuring the quality of PPPs, in accordance with Article 7; 
+(d) developing methodology, in consultation with Member States; 
+(e) ensuring that the Member States have the opportunity to comment on PPP results prior to publication and that the Commission (Eurostat) takes due account of any such comment. 
+These tasks shall be carried out by Eurostat on behalf of the Commission. 
+2. Member States shall follow the procedure set out in Annex I when providing basic information. 
+Member States shall provide written approval of the survey results for which they are responsible, once the process of data validation has been completed, as specified in Annex I, point 5.2. 
+They shall approve the data collection methodology and check the plausibility of data, including items of basic information provided by the Commission (Eurostat). 
+Article 5 
+Transmission of basic information 
+1. Member States shall transmit the basic information listed in Annex I to the Commission (Eurostat) in accordance with the existing Community provisions on transmission of data. 
+2. The basic information listed in Annex I shall be transmitted in the technical format and within the time periods specified in that Annex. 
+3. In cases where items of basic information are supplied to Member States by the Commission (Eurostat), the Commission shall transmit a method statement to enable the Member States to conduct a plausibility check. 
+Article 6 
+Statistical units 
+1. The basic information listed in Annex I shall be obtained either from statistical units as defined in Council Regulation (EC) No 696/1993[12] or from other sources which yield data meeting the quality requirements specified in Annex I, point 5.1. 
+2. The statistical units called upon by the Member States to provide data or to co-operate in data collection shall allow monitoring of the prices actually charged and shall give honest and complete information at the time at which it is requested. 
+Article 7 
+Quality criteria and control 
+1. The Commission (Eurostat) and the Member States shall set up a system for quality control based on reports and assessments as specified under subheading 5.3 of Annex I. 
+2. Member States shall provide the Commission (Eurostat), at its request, with all information necessary to evaluate the quality of the basic information listed in Annex I. 
+Member States shall also provide the Commission (Eurostat) with the details of any subsequent changes in the methods used. 
+3. Each Member State shall provide the Commission (Eurostat) with quality reports on the surveys for which they are responsible, as specified in Section 5 of Annex I. 
+Article 8 
+Periodicity 
+The Commission (Eurostat) shall calculate PPPs relating to each calendar year. 
+Article 9 
+Dissemination 
+1. The Commission (Eurostat) shall publish the final annual results no later than 36 months after the end of the reference year. 
+Publication shall be based on data available to the Commission (Eurostat) no later than three months before the publication date. 
+This paragraph shall not affect the right of the Commission (Eurostat) to publish preliminary results earlier than 36 months after the end of the reference year. 
+2. The results published by the Commission (Eurostat) at an aggregated level for each Member State shall include at least the following: 
+(a) PPPs at the level of GDP, 
+(b) PPPs for private household consumption expenditure and actual individual consumption, 
+(c) Price level indices relative to the Community average, 
+(d) GDP, private household consumption expenditure and actual individual consumption and respective per capita figures in PPS. 
+3. If results are calculated for a wider group of countries, the PPPs of the Member States shall nevertheless be preserved, in pursuance of the principle of fixity. 
+4. Published final PPPs shall generally not be revised. 
+However, in the case of mistakes falling within the scope of Section 10 of Annex I, corrected results shall be published according to the procedure laid down therein. 
+Exceptional general revisions shall be made if, owing to changes to the concepts underlying ESA 95 that affect PPP results, the volume index of GDP for any Member State changes by more than one percentage point. 
+Article 10 
+Correction coefficients 
+Member States shall not be required to undertake surveys solely for the purpose of establishing the correction coefficients to be applied to the remuneration and pensions of Community officials and other servants in accordance with the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities. 
+Article 11 
+Committee procedure 
+1. The Commission shall be assisted by the Statistical Programme Committee, established by Article 1 of Decision 89/382/EEC, Euratom. 
+2. Where reference is made to this paragraph, the regulatory procedure laid down in Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof. 
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months. 
+3. The Committee shall adopt its rules of procedure. 
+Article 12 
+Implementing measures 
+The measures necessary for the implementation of the provisions of this Regulation, including measures to take account of economic and technical changes, shall be laid down, insofar as this does not involve a disproportionate increase in costs for the Member States, in accordance with the procedure specified in Article 11(2). 
+Such measures shall concern in particular: 
+(a) adaptation of the definitions; 
+(b) a set of minimum standards in order to achieve the essential comparability and representativity of the data; 
+(c) precise requirements as to the methodology to be used; 
+(d) adjustment of the list of basic headings and the establishment and adjustment of detailed descriptions of the content of basic headings, provided that these remain compatible with ESA95 or any succeeding system. 
+Article 1 3 
+Review and report 
+The provisions of this Regulation shall be reviewed five years after the date of its entry into force. It shall be revised, if appropriate, on the basis of a Commission report and proposal, submitted to the European Parliament and the Council. 
+Article 1 4 
+Entry into force 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 
+For the European Parliament For the Council 
+The President The President 
+ANNEX I METHODOLOGY 
+1. Methodological Manual and Work Programme 
+1.1 A METHODOLOGICAL MANUAL SHALL BE PROVIDED BY THE COMMISSION (EUROSTAT), FOLLOWING CONSULTATION WITH THE MEMBER STATES, DESCRIBING THE METHODS USED AT THE VARIOUS STAGES OF COMPILING PPPS, INCLUDING THE METHODS FOR ESTIMATING MISSING BASIC INFORMATION AND FOR ESTIMATING MISSING PARITIES. THE METHODOLOGICAL MANUAL WILL BE REVISED WHENEVER A SIGNIFICANT CHANGE TO THE METHODOLOGY IS MADE. IT MAY INTRODUCE NEW METHODS TO IMPROVE DATA QUALITY, REDUCE COSTS OR lessen the burden on data suppliers. 
+1.2 The Commission (Eurostat) shall establish, by 31 October of each year, in consultation with Member States, an annual Work Programme for the following calendar year setting out the timetable for the specification and the provision of the basic information required for that year 
+1.3 The annual Work Programme shall determine the format for provision of data to be used by the Member States, and any other actions necessary in order to accomplish the calculation and publication of PPPs. 
+1.4 The basic information supplied according to paragraph 1.2. may be revised, but the results for the reference year shall be calculated from information available according to the timetable specified in Article 9. Where information is not complete or not available at that date, the Commission (Eurostat) shall estimate the missing basic information. 
+2. BASIC INFORMATION 
+2.1 BASIC INFORMATION ITEMS 
+For the purpose of this Regulation, the Basic Information according to Articles 2 and 4 and the minimum frequency of new data supply shall be: 
+Basic Information | Minimum Frequency | 
+GDP expenditure values | Annual | 
+Actual and imputed rentals | Annual | 
+Compensation of employees | Annual | 
+Temporal adjustment factors | Annual | 
+Prices of consumer goods and services and related representativity indicators | 3 years1 | 
+Prices of equipment goods | 3 years | 
+Prices of construction projects | 3 years | 
+Spatial adjustment factors | 6 years | 
+1) The minimum frequency refers to the provision of data for a particular product group, related to the rolling cycle of surveys. 
+2.2 PROCEDURE FOR OBTAINING BASIC INFORMATION 
+The Commission (Eurostat), after taking account of the views of the Member States, shall determine the sources and data suppliers to be used for each of the above items of Basic Information. If the Commission (Eurostat) obtains basic information from a data supplier other than a Member State, the latter shall be relieved of the obligations set forth in paragraphs 5.1.4 to 5.1.13. 
+3. NATIONAL AVERAGE PRICES 
+3.1 NOTWITHSTANDING THE PROVISIONS CONTAINED IN ARTICLE 2(2), DATA COLLECTION MAY BE LIMITED TO ONE OR MORE LOCATIONS WITHIN THE ECONOMIC TERRITORY. SUCH DATA MAY BE USED FOR PPP CALCULATIONS PROVIDED THAT THEY ARE ACCOMPANIED BY APPROPRIATE SPATIAL ADJUSTMENT FACTORS. THESE SHALL BE USED TO ADJUST SURVEY DATA IN THESE LOCATIONS TO THOSE REPRESENTATIVE OF THE NATIONAL AVERAGE. 
+3.2 Spatial adjustment factors shall be supplied at basic heading level. They shall not be more than six years old at the reference period of the survey. 
+4. Annual average prices 
+NOTWITHSTANDING THE PROVISIONS CONTAINED IN ARTICLE 2(2), DATA COLLECTION MAY BE LIMITED TO A SPECIFIC PERIOD OF TIME. SUCH DATA MAY BE USED FOR PPP CALCULATIONS PROVIDED THAT THEY ARE ACCOMPANIED BY APPROPRIATE TEMPORAL ADJUSTMENT FACTORS. THESE SHALL BE USED TO ADJUST SURVEY DATA IN THIS PERIOD TO THOSE REPRESENTATIVE OF THE ANNUAL AVERAGE. 
+5. Quality 
+5.1 MINIMUM STANDARDS FOR BASIC INFORMATION 
+5.1.1 The list of items to be priced shall be designed to comprise items whose specifications ensure comparability between countries. 
+5.1.2 The list of items to be priced shall be designed so that each Member State can indicate at least one representative item, which can be priced in at least one other country for each basic heading. 
+5.1.3 The item list shall be designed in order to achieve the highest practicable level of equi-representativity, so that as a minimum, each country has to price one representative item for each basic heading and this representative item has to be priced by at least one other country. 
+5.1.4 Each Member State shall price items according to the specifications in the item list. 
+5.1.5 Each Member State shall price a sufficient number of items within each basic heading that are available in its market, even though they may not be considered as representative of that basic heading. 
+5.1.6 Each Member State shall supply prices of at least one representative item within each basic heading. The representative items shall be indicated by a representativity indicator. 
+5.1.7 Each Member State shall collect a sufficient number of price quotations for each item priced to ensure a reliable average price per item taking account of its market structure. 
+5.1.8 The selection of outlet types shall be designed to adequately reflect the domestic pattern of consumption within the Member State according to the item. 
+5.1.9 The outlet selection in a location shall be designed to adequately reflect the pattern of consumption of the residents of the location and the availability of items. 
+5.1.10 Each Member State shall supply the Commission (Eurostat) with data on compensation of employees for selected occupations with reference to the sector General Government (S 13) as defined in ESA95. 
+5.1.11 Each Member State shall supply the Commission (Eurostat) with temporal adjustment factors which allow calculation of PPPs from prices collected at a specific time which adequately reflect the annual average price level. 
+5.1.12 Each Member State shall supply the Commission (Eurostat) with spatial adjustment factors which allow calculation of PPPs with prices collected in specific locations which adequately reflect the national average price level. 
+5.1.13 Each Member State shall supply the Commission (Eurostat) with weights relating to each basic heading as specified in Annex II, which reflect the expenditure pattern in the Member State for the reference year. 
+5.2 MINIMUM STANDARDS FOR THE VALIDATION OF PRICE SURVEY RESULTS 
+5.2.1 Each Member State shall, before transmitting the data to the Commission (Eurostat), carry out a review of data validity based on: 
+- maximum and minimum prices, 
+- average price and coefficient of variation, 
+- number of priced items per basic heading, 
+- number of priced representative items per basic heading, 
+- number of prices observed per item. 
+5.2.2 An agreed electronic tool containing the algorithms required for the purposes of paragraph 5.2.1. shall be supplied by the Commission (Eurostat) to the Member States. 
+5.2.3 The Commission (Eurostat) shall, before finalising the survey results, carry out validity checks, in conjunction with Member States, based on indicators including: 
+For each basic heading, 
+- The number of items priced by each country; 
+- The number of items attributed a representativity indicator by each country; 
+- The price level index; 
+- The results of the previous survey covering the same basic heading. 
+- Price level indices in PPP terms for each country. 
+For each item, 
+- The number of prices observed by each country; 
+- The variation coefficients of: 
+(i) average prices in national currencies 
+(ii) price level indices in PPP terms 
+(iii) price level indices in PPP terms for each country. 
+5.2.4 The Commission (Eurostat) shall, before finalising the PPP results at aggregate level, carry out validity checks based on indicators including: 
+At the level of total GDP and its main aggregates 
+- Consistency of GDP expenditure values and population estimates with published data; 
+- Comparison of per capita volume indices for current and previous calculations; 
+- Comparison of price level indices for current and previous calculations. 
+At the level of each basic heading 
+- Comparison of the GDP weighting structure for current and previous calculations; 
+- The estimates of missing data, where relevant. 
+5.3 REPORTING AND ASSESSMENT 
+5.3.1 Each Member State shall maintain documentation which gives a full description of the manner in which this Regulation has been implemented. This documentation shall be available to the Commission (Eurostat) and other Member States. 
+5.3.2 Each Member State shall have its PPP process assessed at least once every six years by the Commission (Eurostat). The assessments, yearly planned and included in the annual Work Programme, shall review compliance with this Regulation. A report, based on the assessment, shall be made by the Commission (Eurostat). 
+5.3.3 In accordance with Article 7(3), shortly after each consumer price survey, a report by the Member State shall be given to the Commission (Eurostat) providing information on the way in which the survey was conducted. The Commission (Eurostat) shall provide each Member State with a summary of these reports. 
+6. Consumer Price Survey Procedure 
+6.1 MEMBER STATES SHALL CARRY OUT THE PRICE SURVEYS ACCORDING TO THE WORK PROGRAMME. 
+6.2 For each survey, the Commission (Eurostat) shall prepare the survey item list, based on proposals which shall be made by each Member State for each basic heading. 
+6.3 The Commission (Eurostat) shall provide, together with the item list, in all official languages of the European Union, a translation of all specifications in each survey list. 
+7. Calculation Procedure 
+7.1 CALCULATION OF BILATERAL PARITIES AT BASIC HEADING LEVEL 
+a) The calculation of multilateral EKS (Èltetò-Köves-Szulc) parities at basic heading level shall be based on a matrix of bilateral parities for each pair of participant countries. 
+b) The calculation of bilateral parities shall be carried out by reference to the prices observed for, and the representativity indicators attributed to, the underlying items. 
+c) The average survey price for each item shall be established as the simple arithmetic mean of the price observations recorded for that item. 
+d) The national annual average price shall be estimated, where necessary, on the basis of the average survey price by using appropriate spatial and temporal adjustment factors. 
+e) The ratios of the adjusted average prices shall then be calculated, where possible, for items and pairs of participant countries, together with their inverse. 
+f) A PPP shall then be calculated, where possible, for all pairs of participant countries for the basic heading. For each pair of participant countries, the PPP shall be calculated as the weighted geometric mean of 
+- the geometric mean of the price ratios of items which are indicated as representative of both countries; 
+- the geometric mean of the price ratios of items which are indicated as representative of the first country but not of the second country; 
+- the geometric mean of the price ratios of items which are indicated as representative of the second country but not of the first country; 
+using weights reflecting the relative representativity of all items priced by both countries. 
+7.2 ESTIMATION OF MISSING BILATERAL PARITIES 
+If for any basic heading the bilateral PPP cannot be calculated, the missing bilateral PPPs shall be estimated, where possible, by using the standard procedure of geometric averaging of indirect parities via third countries. Should the matrix of bilateral PPPs for a basic heading still contain any missing values after this estimation procedure, the calculation of multilateral EKS parities shall then not be possible for the countries for which bilateral PPPs are missing. Such missing "EKS" parities shall then be estimated by the Commission (Eurostat), using reference PPPs from similar basic headings or any other appropriate estimation method 
+7.3 THE CALCULATION OF BILATERAL PARITIES AT AGGREGATE LEVEL 
+a) The calculation of bilateral parities at a particular level of national accounts aggregation shall be carried out using the “EKS” parities (see paragraph 7.4), and the GDP expenditure values for, the underlying basic headings. 
+b) A Laspeyres-type parity shall then be calculated for the selected level of aggregation as the arithmetic mean of the parities for the underlying basic headings, weighted by the relative percentages (or nominal values) for the second country of each pair of participant countries. 
+c) A Paasche-type parity shall then be calculated for the selected level of aggregation as the harmonic mean of the parities for the underlying basic headings, weighted by the relative percentages (or nominal values) for the first country of each pair of participant countries. 
+d) A Fisher-type parity shall then be calculated for the selected level of aggregation as the geometric mean of the Laspeyres-type and Paasche-type parities established for each pair of participant countries. 
+7.4 CALCULATION OF TRANSITIVE MULTILATERAL PPPS 
+The calculation of multilateral transitive parities shall be carried out either at basic heading level or any aggregated level by using the “EKS” procedure based on a complete matrix of Fisher-type parities between each pair of participant countries as follows: 
+[pic] 
+where [pic]denotes the EKS parity between country s and country t ; 
+[pic] denotes the Fisher-type parity between country s and country t ; 
+z denotes the number of participant countries. 
+8. Transmission 
+8.1 THE COMMISSION (EUROSTAT) SHALL SUPPLY TO THE MEMBER STATES THE TEMPLATES FOR ELECTRONIC TRANSMISSION OF THE BASIC INFORMATION NECESSARY TO CALCULATE PPPS. 
+8.2 Member States shall provide basic information to the Commission (Eurostat) in accordance with the templates. 
+9. Publication 
+IN ADDITION TO THE PROVISIONS CONTAINED IN ARTICLE 9(2), THE COMMISSION (EUROSTAT) MAY PUBLISH RESULTS AT A MORE DETAILED LEVEL AFTER CONSULTATION WITH THE MEMBER STATES. 
+10. Corrections 
+10.1 WHEN A MISTAKE IS DISCOVERED BY A MEMBER STATE IT SHALL IMMEDIATELY AND AT ITS OWN INITIATIVE PROVIDE THE COMMISSION (EUROSTAT) WITH CORRECT BASIC INFORMATION. IN ADDITION, A MEMBER STATE SHALL INFORM THE COMMISSION (EUROSTAT) OF ANY SUSPECTED INAPPROPRIATE APPLICATION OF THE CALCULATION PROCEDURE. 
+10.2 After becoming aware of a mistake, made either by a Member State or the Commission (Eurostat), the Commission (Eurostat) shall inform the Member States and recalculate the PPPs within one month. 
+10.3 If the mistakes discovered result in a change of at least 0.5 percentage points at the level of per capita GDP in PPS of any Member State, the Commission (Eurostat) shall publish a correction as soon as possible, unless such mistakes are discovered later than three months after the results have been published. 
+10.4 Where a mistake has occurred, the responsible body shall take steps to prevent similar future occurrences. 
+10.5 Revisions made after 21 months following the end of the reference year to GDP expenditure values or to population estimates shall not require a correction to be made to PPP results. 
+ANNEX II Basic Heading as defined in Article 3 
+BH | Description | 
+Nr. | 
+INDIVIDUAL CONSUMPTION EXPENDITURE BY HOUSEHOLDS | 
+FOOD AND NON-ALCOHOLIC BEVERAGES | 
+Food | 
+Bread and cereals [COICOP 01.1.1] | 
+1 | Rice | 
+2 | Other cereals, flour and other cereal products | 
+3 | Bread | 
+4 | Other bakery products | 
+5 | Pasta products | 
+Meat [COICOP 01.1.2] | 
+6 | Beef and veal | 
+7 | Pork | 
+8 | Lamb, mutton and goat | 
+9 | Poultry | 
+10 | Other meats and edible offal | 
+11 | Delicatessen and other meat preparations | 
+Fish and seafood [COICOP 01.1.3] | 
+12 | Fresh, chilled or frozen fish and seafood | 
+13 | Preserved or processed fish and seafood | 
+Milk, cheese and eggs [COICOP 01.1.4] | 
+14 | Fresh milk | 
+15 | Preserved milk and other milk products | 
+16 | Cheese | 
+17 | Eggs and egg-based products | 
+Oils and fats [COICOP 01.1.5] | 
+18 | Butter | 
+19 | Margarine | 
+20 | Other edible oils and fats | 
+Fruit [COICOP 01.1.6] | 
+21 | Fresh or chilled fruit | 
+22 | Frozen, preserved or processed fruit and fruit-based products | 
+Vegetables [COICOP 01.1.7] | 
+23 | Fresh or chilled vegetables other than potatoes | 
+24 | Fresh or chilled potatoes | 
+25 | Frozen, preserved or processed vegetables and vegetable-based products | 
+Sugar, jam, honey, chocolate and confectionery [COICOP 01.1.8] | 
+26 | Sugar | 
+27 | Jams, marmalades and honey | 
+28 | Confectionery, chocolate and other cocoa preparations | 
+29 | Edible ice, ice cream and sorbet | 
+Food products n.e.c. [COICOP 01.1.9] | 
+30 | Food products n.e.c. | 
+Non-alcoholic beverages | 
+Coffee, tea and cocoa [COICOP 01.2.1] | 
+31 | Coffee, tea and cocoa | 
+Mineral waters, soft drinks, fruit and vegetable juices [COICOP 01.2.2] | 
+32 | Mineral waters | 
+33 | Soft drinks and concentrates | 
+34 | Fruit and vegetable juices | 
+ALCOHOLIC BEVERAGES, TOBACCO AND NARCOTICS | 
+Alcoholic beverages | 
+Spirits [COICOP 02.1.1] | 
+35 | Spirits | 
+Wine [COICOP 02.1.2] | 
+36 | Wine | 
+Beer [COICOP 02.1.3] | 
+37 | Beer | 
+Tobacco | 
+Tobacco [COICOP 02.2.0] | 
+38 | Tobacco | 
+Narcotics | 
+Narcotics [COICOP 02.3.0] | 
+39 | Narcotics | 
+CLOTHING AND FOOTWEAR | 
+Clothing | 
+Clothing materials [COICOP 03.1.1] | 
+40 | Clothing materials | 
+Garments [COICOP 03.1.2] | 
+41 | Men's clothing | 
+42 | Women's clothing | 
+43 | Children’s and infant’s clothing | 
+Other articles of clothing and clothing accessories [COICOP 03.1.3] | 
+44 | Other articles of clothing and clothing accessories | 
+Cleaning, repair and hire of clothing [COICOP 03.1.4] | 
+45 | Cleaning, repair and hire of clothing | 
+Footwear | 
+Shoes and other footwear [COICOP 03.2.1] | 
+46 | Men's footwear | 
+47 | Women's footwear | 
+48 | Children's and infant's footwear | 
+Repair and hire of footwear [COICOP 03.2.2] | 
+49 | Repair and hire of footwear | 
+HOUSING, WATER, ELECTRICITY, GAS AND OTHER FUELS | 
+Actual rentals for housing | 
+Actual rentals for housing [COICOP 04.1.1 and 04.1.2] | 
+50 | Actual rentals for housing | 
+Imputed rentals for housing | 
+Imputed rentals for housing [COICOP 04.2.1 and 04.2.2] | 
+51 | Imputed rentals for housing | 
+Maintenance and repair of the dwelling | 
+Materials for the maintenance and repair of the dwelling [COICOP 04.3.1] | 
+52 | Materials for the maintenance and repair of the dwelling | 
+Services for the maintenance and repair of the dwelling [COICOP 04.3.2] | 
+53 | Services for the maintenance and repair of the dwelling | 
+Water supply and miscellaneous services relating to the dwelling | 
+Water supply [COICOP 04.4.1] | 
+54 | Water supply | 
+Miscellaneous services relating to the dwelling [COICOP 04.4.2, 04.4.3 and 04.4.4] | 
+55 | Miscellaneous services relating to the dwelling | 
+Electricity, gas and other fuels | 
+Electricity [COICOP 04.5.1] | 
+56 | Electricity | 
+Gas [COICOP 04.5.2] | 
+57 | Gas | 
+Liquid fuels [COICOP 04.5.3] | 
+58 | Liquid fuels | 
+Solid fuels [COICOP 04.5.4] | 
+59 | Solid fuels | 
+Heat energy [COICOP 04.5.5] | 
+60 | Heat energy | 
+FURNISHINGS, HOUSEHOLD EQUIPMENT AND ROUTINE HOUSEHOLD MAINTENANCE | 
+Furniture and furnishings, carpets and other floor coverings | 
+Furniture and furnishings [COICOP 05.1.1] | 
+61 | Kitchen furniture | 
+62 | Bedroom furniture | 
+63 | Living-room and dining-room furniture | 
+64 | Other furniture and furnishings | 
+Carpets and other floor coverings [COICOP 05.1.2] | 
+65 | Carpets and other floor coverings | 
+Repair of furniture, furnishings and floor coverings [COICOP 05.1.3] | 
+66 | Repair of furniture, furnishings and floor coverings | 
+Household textiles | 
+Household textiles [COICOP 05.2.0] | 
+67 | Household textiles | 
+Household appliances | 
+Major household appliances whether electric or not [COICOP 05.3.1] | 
+68 | Major household appliances whether electric or not | 
+Small electric household appliances [COICOP 05.3.2] | 
+69 | Small electric household appliances | 
+Repair of household appliances [COICOP 05.3.3] | 
+70 | Repair of household appliances | 
+Glassware, tableware and household utensils | 
+Glassware, tableware and household utensils [COICOP 05.4.0] | 
+71 | Glassware, tableware and household utensils | 
+Tools and equipment for house and garden | 
+Major tools and equipment [COICOP 05.5.1] | 
+72 | Major tools and equipment | 
+Small tools and miscellaneous accessories [COICOP 05.5.2] | 
+73 | Small tools and miscellaneous accessories | 
+Goods and services for routine household maintenance | 
+Non-durable household goods [COICOP 05.6.1] | 
+74 | Non-durable household goods | 
+Domestic services and household services [COICOP 05.6.2] | 
+75 | Domestic services | 
+76 | Household services | 
+HEALTH | 
+Medical products, appliances and equipment | 
+Pharmaceutical products [COICOIP 06.1.1] | 
+77 | Pharmaceutical products | 
+Other medical products [COICOP 06.1.2] | 
+78 | Other medical products | 
+Therapeutic appliances and equipment [COICOP 06.1.3] | 
+79 | Therapeutic appliances and equipment | 
+Out-patient services | 
+Medical Services [COICOP 06.2.1] | 
+80 | Medical Services | 
+Dental services [COICOP 06.2.2] | 
+81 | Dental services | 
+Paramedical services [COICOP 06.2.3] | 
+82 | Paramedical services | 
+Hospital services | 
+Hospital services [COICOP 06.3.0] | 
+83 | Hospital services | 
+TRANSPORT | 
+Purchase of vehicles | 
+Motor cars [COICOP 07.1.1] | 
+84 | Motor cars with diesel engine | 
+85 | Motor cars with petrol engine of cubic capacity of less than 1200cc | 
+86 | Motor cars with petrol engine of cubic capacity of 1200cc to 1699cc | 
+87 | Motor cars with petrol engine of cubic capacity of 1700cc to 2999cc | 
+88 | Motor cars with petrol engine of cubic capacity of 3000cc and over | 
+Motor cycles [COICOP 07.1.2] | 
+89 | Motor cycles | 
+Bicycles [COICOP 07.1.3] | 
+90 | Bicycles | 
+Animal drawn vehicles [COICOP 07.1.4] | 
+91 | Animal drawn vehicles | 
+Operation of personal transport equipment | 
+Spare parts and accessories for personal transport equipment [COICOP 07 2.1] | 
+92 | Spare parts and accessories for personal transport equipment | 
+Fuels and lubricants for personal transport equipment [COICOP 07.2.2] | 
+93 | Fuels and lubricants for personal transport equipment | 
+Maintenance and repair of personal transport equipment [COICOP 07.2.3] | 
+94 | Maintenance and repair of personal transport equipment | 
+Other services in respect of personal transport equipment [COICOP 07.2.4] | 
+95 | Other services in respect of personal transport equipment | 
+Transport services | 
+Passenger transport by railway [COICOP 07.3.1] | 
+96 | Passenger transport by railway | 
+Passenger transport by road [COICOP 07.3.2] | 
+97 | Passenger transport by road | 
+Passenger transport by air [COICOP 07.3.3] | 
+98 | Passenger transport by air | 
+Passenger transport by sea and inland waterway [COICOP 07.3.4] | 
+99 | Passenger transport by sea and inland waterway | 
+Combined passenger transport [COICOP 07.3.5] | 
+100 | Combined passenger transport | 
+Other purchased transport services [COICOP 07.3.6] | 
+101 | Other purchased transport services | 
+COMMUNICATION | 
+Postal services | 
+Postal service s [COICOP 08.1.0] | 
+102 | Postal services | 
+Telephone and telefax equipment | 
+Telephone and telefax equipment [COICOP 08.2.0] | 
+103 | Telephone and telefax equipment | 
+Telephone and telefax services | 
+Telephone and telefax services [COICOP 08.3.0] | 
+104 | Telephone and telefax services | 
+RECREATION AND CULTURE | 
+Audio-visual, photographic and information processing equipment | 
+Equipment for the reception, recording and reproduction of sound and pictures [COICOP 09.1.1] | 
+105 | Equipment for the reception, recording and reproduction of sound and pictures | 
+Photographic and cinematographic equipment and optical instruments [COICOP 09.1.2] | 
+106 | Photographic and cinematographic equipment and optical instruments | 
+Information processing equipment [COICOP 09.1.3] | 
+107 | Information processing equipment | 
+Recording media [COICOP 09.1.4] | 
+108 | Pre-recorded recording media | 
+109 | Unrecorded recording media | 
+Repair of audio-visual, photographic and information processing equipment [COICOP 09.1.5] | 
+110 | Repair of audio-visual, photographic and information processing equipment | 
+Other major durables for recreation and culture | 
+Major durables for outdoor recreation [COICOP 09.2.1] | 
+111 | Major durables for outdoor recreation | 
+Musical instruments and major durables for indoor recreation [COICOP 09.2.2] | 
+112 | Musical instruments and major durables for indoor recreation | 
+Maintenance and repair of other major durables for recreation and culture [COICOP 09.2.3] | 
+113 | Maintenance and repair of other major durables for recreation and culture | 
+Other recreational items and equipment, gardens and pets | 
+Games, toys and hobbies [COICOP 09.3.1 | 
+114 | Games, toys and hobbies | 
+Equipment for sport, camping and open-air recreation [COICOP 09.3.2] | 
+115 | Equipment for sport, camping and open-air recreation | 
+Gardens, plants and flowers [COICOP 09.3.3] | 
+116 | Gardens, plants and flowers | 
+Pets and related products [COICOP 09.3.4] | 
+117 | Pets and related products | 
+Veterinary and other services for pets [COICOP 09.3.5] | 
+118 | Veterinary and other services for pets | 
+Recreational and cultural services | 
+Recreational and sporting services [COICOP 09.4.1] | 
+119 | Recreational and sporting services | 
+Cultural services [COICOP 09.4.2] | 
+120 | Photographic services | 
+121 | Other cultural services | 
+Games of chance [COICOP 09.4.3] | 
+122 | Games of chance | 
+Newspapers, books and stationery | 
+Books [COICOP 09.5.1] | 
+123 | Books | 
+Newspapers and periodicals [COICOP 09.5.2] | 
+124 | Newspapers and periodicals | 
+Miscellaneous printed matter, stationery and drawing materials [COICOP 09 5.3 and 09.5.4] | 
+125 | Miscellaneous printed matter, stationery and drawing materials | 
+Package holidays | 
+Package holidays [COICOP 09.6.0] | 
+126 | Package holidays | 
+EDUCATION | 
+Pre-primary and primary education | 
+Pre-primary and primary education [COICOP 10.1.0] | 
+127 | Pre-primary and primary education | 
+Secondary education | 
+Secondary education [COICOP 10.2.0] | 
+128 | Secondary education | 
+Post-secondary non-tertiary education | 
+Post-secondary non-tertiary education [COICOP 10.3.0] | 
+129 | Post-secondary non-tertiary education | 
+Tertiary education | 
+Tertiary education [COICOP 10.4.0] | 
+130 | Tertiary education | 
+Education not definable by level | 
+Education not definable by level [COICOP 10.5.0] | 
+131 | Education not definable by level | 
+RESTAURANTS AND HOTELS | 
+Catering services | 
+Restaurants, cafés and the like [COICOP 11.1.1] | 
+132 | Restaurant services whatever the type of establishment | 
+133 | Pubs, bars, cafés, tea rooms and the like | 
+Canteens [COICOP 11.1.2] | 
+134 | Canteens | 
+Accommodation services | 
+Accommodation services [COICOP 11.2.0] | 
+135 | Accommodation services | 
+MISCELLANEOUS GOODS AND SERVICES | 
+Personal care | 
+Hairdressing salons and personal grooming establishments [COICOP 12.1.1] | 
+136 | Hairdressing salons and personal grooming establishments | 
+Electric appliances for personal care [COICOP 12.1.2] | 
+137 | Electric appliances for personal care | 
+Other appliances, articles and products for personal care [COICOP 12.1.3] | 
+138 | Other appliances, articles and products for personal care | 
+Prostitution | 
+Prostitution [COICOP 12.2.0] | 
+139 | Prostitution | 
+Personal effects n.e.c. | 
+Jewellery, clocks and watches [COICOP 12.3.1] | 
+140 | Jewellery, clocks and watches | 
+Other personal effects [COICOP 12.3.2] | 
+141 | Other personal effects | 
+Social protection | 
+Social protection [COICOP 12.4.0] | 
+142 | Social protection | 
+Insurance | 
+Insurance [COICOP 12.5.1, 12.5.2, 12.5.3, 12.5.4 and 12.5.5] | 
+143 | Insurance | 
+Financial services n.e.c. | 
+FISIM [COICOP 12.6.1] | 
+144 | FISIM | 
+Other financial services n.e.c. [COICOP 12.6.2] | 
+145 | Other financial services n.e.c. | 
+Other services n.e.c. | 
+Other services n.e.c. [COICOP 12.7.0] | 
+146 | Other services n.e.c. | 
+BALANCE OF EXPENDITURE OF RESIDENT ABROAD AND EXPEDITURE OF NON RESIDENTS ON THE ECONOMIC TERRITORY | 
+Final consumption expenditure of resident households in the rest of the world | 
+Final consumption expenditure of resident households in the rest of the world | 
+147 | Final consumption expenditure of resident households in the rest of the world | 
+Final consumption expenditure of non-resident households on the economic territory | 
+Final consumption expenditure of non-resident households on the economic territory | 
+148 | Final consumption expenditure of non-resident households on the economic territory | 
+INDIVIDUAL CONSUMPTION EXPENDITURE BY NPISHS | 
+HOUSING | 
+Housing | 
+Housing [COPNI 01.0.0] | 
+149 | Housing | 
+HEALTH | 
+Health | 
+Health [COPNI 02.1.1 to 02.6.0] | 
+150 | Health | 
+RECREATION AND CULTURE | 
+Recreation and culture | 
+Recreation and culture [COPNI 03.1.0 and 03.2.0] | 
+151 | Recreation and culture | 
+EDUCATION | 
+Education | 
+Education [COPNI 04.1.0 to 04.7.0] | 
+152 | Education | 
+SOCIAL PROTECTION | 
+Social protection | 
+Social protection [COPNI 05.1.0 and 05.2.0] | 
+153 | Social protection | 
+OTHER SERVICES | 
+Other services | 
+Other services [COPNI 06.0.0 to 09.2.0] | 
+154 | Other services | 
+INDIVIDUAL CONSUMPTION EXPENDITURE BY GOVERNMENT | 
+HOUSING | 
+Housing | 
+Housing | 
+155 | Housing | 
+HEALTH | 
+Health benefits and reimbursements | 
+Medical products, appliances and equipment | 
+156 | Pharmaceutical products | 
+157 | Other medical products | 
+158 | Therapeutic appliances and equipment | 
+Health services | 
+159 | Out-patient medical services | 
+160 | Out-patient dental services | 
+161 | Out-patient paramedical services | 
+162 | Hospital services | 
+Production of health services | 
+Compensation of employees | 
+163 | Physicians | 
+164 | Nurses and other medical staff | 
+165 | Non-medical staff | 
+Intermediate consumption | 
+166 | Pharmaceutical products | 
+167 | Other medical goods | 
+168 | Therapeutic appliances and equipment | 
+169 | Intermediate consumption n.e.c. | 
+Gross operating surplus | 
+170 | Gross operating surplus | 
+Net taxes on production | 
+171 | Net taxes on production | 
+Receipts from sales | 
+172 | Receipts from sales | 
+RECREATION AND CULTURE | 
+Recreation and culture | 
+Recreation and culture | 
+173 | Recreation and culture | 
+EDUCATION | 
+Education benefits and reimbursements | 
+Education benefits and reimbursements | 
+174 | Education benefits and reimbursements | 
+Production of education services | 
+Compensation of employees | 
+175 | Pre-primary and primary education | 
+176 | Secondary education | 
+177 | Post-secondary non-tertiary education | 
+178 | Tertiary education | 
+Intermediate consumption | 
+179 | Intermediate consumption | 
+Gross operating surplus | 
+180 | Gross operating surplus | 
+Net taxes on production | 
+181 | Net taxes on production | 
+Receipts from sales | 
+182 | Receipt from sales | 
+SOCIAL PROTECTION | 
+Social protection | 
+Social protection | 
+183 | Social protection | 
+COLLECTIVE CONSUMPTION EXPENDITURE BY GOVERNMENT | 
+COLLECTIVE SERVICES | 
+Collective services | 
+Compensation of employees | 
+184 | Compensation of employees (collective services relating to defence) | 
+185 | Compensation of employees (collective services other than defence) | 
+Intermediate consumption | 
+186 | Intermediate consumption (collective services relating to defence) | 
+187 | Intermediate consumption (collective services other than defence) | 
+Gross operating surplus | 
+188 | Gross operating surplus (collective services relating to defence) | 
+Net taxes on production | 
+189 | Net taxes on production (collective services relating to defence) | 
+Receipts from sales | 
+190 | Receipts from sales (collective services relating to defence) | 
+EXPENDITURE ON GROSS FIXED CAPITAL FORMATION | 
+MACHINERY AND EQUIPMENT | 
+Metal products and equipment | 
+Fabricated metal products, except machinery and equipment [CPA 28.11 to 28.75] | 
+191 | Fabricated metal products, except machinery and equipment | 
+General purpose machinery [CPA 29.11 to 29.24] | 
+192 | Engines and turbines, pumps and compressors | 
+193 | Other general purpose machinery | 
+Special purpose machinery [CPA 29.31 to 29.72] | 
+194 | Agricultural and forestry machinery | 
+195 | Machine tools | 
+196 | Machinery for metallurgy, mining, quarrying and construction | 
+197 | Machinery for food, beverages and tobacco processing | 
+198 | Machinery for textile, apparel and leather production | 
+199 | Other special purpose machinery | 
+Electrical and optical equipment [CPA 30.01 to 33.50] | 
+200 | Office machinery | 
+201 | Computers and other information processing equipment | 
+202 | Electrical machinery and apparatus | 
+203 | Radio, television and communications equipment and apparatus | 
+204 | Medical, precision and optical instruments, watches and clocks | 
+Other manufactured goods n.e.c. [CPA 36.11 to 36.63] | 
+205 | Other manufactured goods n.e.c. | 
+Transport equipment | 
+Road transport equipment [CPA 34.10 to 34.30 and 35.41 to 35.50] | 
+206 | Motor vehicles, trailers and semi-trailers | 
+207 | Other road transport | 
+Other transport equipment [CPA 35.11 to 35.30] | 
+208 | Ships, boats, steamers, tugs, floating platforms, rigs | 
+209 | Locomotives and rolling stock | 
+210 | Aircraft, helicopters and other aeronautical equipment | 
+CONSTRUCTION | 
+Residential buildings | 
+One and two dwelling buildings [CPA division 45] | 
+211 | One or two dwelling buildings | 
+Multi-dwelling buildings [CPA division 45] | 
+212 | Multi-dwelling buildings | 
+Non-residential buildings | 
+Agricultural buildings [CPA division 45] | 
+213 | Agricultural buildings | 
+Industrial buildings and warehouses [CPA division 45] | 
+214 | Industrial buildings and warehouses | 
+Commercial buildings [CPA division 45] | 
+215 | Commercial buildings | 
+Other non-residential buildings [CPA division 45] | 
+216 | Other non-residential buildings | 
+Civil engineering works | 
+Transport infrastructures [CPA division 45] | 
+217 | Transport infrastructures | 
+Pipelines, communication and power lines [CPA division 45] | 
+218 | Pipelines, communication and power lines | 
+Other civil engineering works [CPA division 45] | 
+219 | Other civil engineering works | 
+OTHER PRODUCTS | 
+Other products | 
+Products of agriculture, forestry, fisheries and aquaculture [CPA divisions 01, 02 and 05] | 
+220 | Products of agriculture, forestry, fisheries and aquaculture | 
+Software [CPA 72.20] | 
+221 | Software | 
+Other products n.e.c. [CPA n.e.c.] | 
+222 | Other products n.e.c. | 
+CHANGES IN INVENTORIES AND ACQUISITIONS LESS DISPOSALS OF VALUABLES | 
+CHANGES IN INVENTORIES | 
+Changes in inventories | 
+Changes in inventories | 
+223 | Changes in inventories | 
+ACQUISITIONS LESS DISPOSALS OF VALUABLES | 
+Acquisitions less disposals of valuables | 
+Acquisitions less disposals of valuables | 
+224 | Acquisitions less disposals of valuables | 
+BALANCE OF EXPORTS AND IMPORTS | 
+EXPORTS OF GOODS AND SERVICES | 
+Exports of goods | 
+Exports of goods to the EU and institutions of the EU | 
+225 | Exports of goods to EU countries | 
+226 | Exports of goods to institutions of the EU | 
+Exports of goods to third countries and international organisations | 
+227 | Exports of goods to third countries and international organisations | 
+Exports of services | 
+Exports of services to the EU and institutions of the EU | 
+228 | Exports of services to EU countries | 
+229 | Exports of services to institutions of the EU | 
+Exports of services to third countries and international organisations | 
+230 | Exports of services to third countries and international organisations | 
+IMPORTS OF GOODS AND SERVICES | 
+Imports of goods | 
+Imports of goods from the EU and institutions of the EU | 
+231 | Imports of goods from EU countries | 
+232 | Imports of goods from institutions of the EU | 
+Imports of goods from third countries and international organisations | 
+233 | Imports of goods from third countries and international organisations | 
+Imports of services | 
+Imports of services from the EU and institutions of the EU | 
+234 | Imports of services from EU countries | 
+235 | Imports of services from institutions of the EU | 
+Imports of services from third countries and international organisations | 
+236 | Imports of services from third countries and international organisations | 
+LEGISLATIVE FINANCIAL STATEMENT 
+NAME OF THE PROPOSAL 
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ESTABLISHING COMMON RULES FOR THE PROVISION OF BASIC INFORMATION ON PURCHASING POWER PARITIES AND FOR THEIR CALCULATION AND DISSEMINATION 
+ABM / ABB FRAMEWORK 
+Policy Areas concerned and associated Activities: 
+Title 01: Economic and Financial Affairs: Economic and monetary union (204) 
+Title 13: Regional Policy: European regional development fund and other regional interventions (1603), Cohesion fund (1604) 
+Title 26: Administration: Personnel policy and management, Pensions management 
+Title 27: Budget: Budgetary policy 
+Title 29: Statistics: Production of statistical information (3403) 
+BUDGET LINES 
+Budget lines (operational lines and related technical and administrative assistance lines (ex- B..A lines)) including headings: 
+29.01.01 Expenditure related to staff in active employment of ‘Statistics’ policy area 
+29 01 02 External staff and other management expenditure in support of ‘Statistics’ policy area 
+29.02.01 Statistical information policy 
+Duration of the action and of the financial impact: 
+The proposal does not foresee a termination of the action. Grants for Members States are limited to five years: 2007-2011 with the exception for actions needed in establishing the correction coefficients that are applied to the remuneration and pensions in EC (Art 64. of Staff Regulation). 
+Budgetary characteristics: 
+Budget line | Type of expenditure | New | EFTA contribution | Contributions from applicant countries | Heading in financial perspective | 
+29.01.01 | Non-comp | Non-Diff | NO | NO | NO | No 3 | 
+29 01 02 | Non-comp | Non-Diff | NO | NO | NO | No 3 | 
+29.02.01 | Non-comp | Diff | NO | YES | NO | No 3 | 
+SUMMARY OF RESOURCES 
+Financial Resources 
+The financial implications given is this statement are indicative, i.e. the resources and budget needed for the work under the Purchasing Power Parity regulation are included in the five year statistical programmes of the Commission (currently Decision no 2367/2002/EC of the European Parliament and of the Council of 16 December 2002 on the Community statistical programme 2003 to 2007, OJ L358, p. 1.) The financial statement of the PPP regulation shows the amount of resources that the Purchasing Power Parities require from the total of ‘Statistics’ policy. 
+Summary of commitment appropriations (CA) and payment appropriations (PA) 
+EUR million (to 3 decimal places) 
+NSIs of the Member States | f | 1.191 | 0.628 | 0.628 | 0.628 | 0.628 | 1.978 | 1.978 | 7.659 | 
+TOTAL CA including co-financing | a+c+d+e+f | 7.551 | 5.423 | 5.123 | 5.123 | 5.123 | 5.123 | 5.123 | 38.589 | 
+Compatibility with Financial Programming 
+( Proposal is compatible with existing financial programming. 
+( Proposal will entail reprogramming of the relevant heading in the financial perspective. 
+( Proposal may require application of the provisions of the Interinstitutional Agreement[16] (i.e. flexibility instrument or revision of the financial perspective). 
+Financial impact on Revenue 
+( Proposal has no financial implications on revenue 
+( Proposal has financial impact 
+Human Resources FTE (including officials, temporary and external staff) – see detail under point 8.2.1. 
+Annual requirements | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 
+Total number of human resources | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 
+CHARACTERISTICS AND OBJECTIVES 
+Details of the context of the proposal are given in the Explanatory Memorandum. 
+Need to be met in the short or long term 
+To meet the data needs of the Commission policies, particularly in the area of regional policy 
+Value-added of Community involvement and coherence of the proposal with other financial instruments and possible synergy 
+Without Community involvement, these statistics would not be produced 
+Objectives, expected results and related indicators of the proposal in the context of the ABM framework 
+To guarantee continuous annual production of Purchasing Power Parities for every Member State 
+Method of Implementation (indicative) 
+Centralised Management by the Commission 
+MONITORING AND EVALUATION 
+Monitoring system 
+The implementation of the Regulation will be monitored using standardised reports that describe national methods and practices. The reports will be done at six years intervals. Country reports are assessed by the Commission. 
+The PPP price surveys are also monitored continuously. The NSIs submit to the Commission a survey report after each survey. 
+The implementation of the Regulation and possible technical changes will be done in a Comitology procedure foreseen in article 11 of the Regulation. 
+Evaluation 
+Ex-ante evaluation 
+The Regulation proposal is continuation of existing actions, currently done on a voluntary basis by the Member States 
+Measures taken following an intermediate/ex-post evaluation (lessons learned from similar experiences in the past) 
+N/A 
+Terms and frequency of future evaluation 
+The provisions of the Regulation shall be reviewed five years after the date of its entry into force and revised, if appropriate, on the basis of a report transmitted to the European Parliament and the Council and a proposal from the Commission. 
+ANTI-FRAUD MEASURES 
+A revised system of internal management and control was put in place following the Commission’s Reform initiative on financial management. This system included a reinforced internal audit capacity. 
+Annual monitoring of progress with implementation of the Commission’s Internal Control Standards is designed to give assurance on the existence and functioning of procedures for prevention and detection of fraud and irregularities. 
+New rules and procedures have been adopted for the principal budgetary process: calls for tenders, grants, commitments, contracts and payments. 
+DETAILS OF RESOURCES 
+Objectives of the proposal in terms of their financial cost 
+Commitment appropriations in EUR million (to 3 decimal places) 
+Description of tasks deriving from the action 
+Statistics production tasks: 
+- Methodological development in order to ensure comparability of results 
+- Methodological assistance to the NSIs 
+- Design of questionnaires and guidelines 
+- Data collection from the Member States and other participant countries 
+- Data check and validation 
+- Data dissemination and publication 
+- Quality analysis 
+- Supervision of contractors 
+Administrative tasks: 
+- Contract/Grant management 
+Sources of human resources (statutory) 
+( Posts currently allocated to the management of the programme to be replaced or extended 
+( Posts pre-allocated within the APS/PDB exercise for year n 
+( Posts to be requested in the next APS/PDB procedure 
+( Posts to be redeployed using existing resources within the managing service (internal redeployment) 
+( Posts required for year n although not foreseen in the APS/PDB exercise of the year in question 
+Other Administrative expenditure included in reference amount(29 01 04/05 – Expenditure on administrative management) 
+EUR million (to 3 decimal places) 
+Budget line (number and heading) | Year n | Year n+1 | Year n+2 | Year n+3 | Year n+4 | Year n+5 and later | TOTAL | 
+Other technical and administrative assistance | 
+intra muros | 
+extra muros | 
+Total Technical and administrative assistance | 
+Financial cost of human resources and associated costs not included in the reference amount 
+EUR million (to 3 decimal places) 
+Type of human resources | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 
+Officials and temporary staff (29 01 01) | 0.648 | 0.648 | 0.648 | 0.648 | 0.648 | 0.648 | 0.648 | 
+Staff financed by Art 29 01 02 (auxiliary, END, contract staff, etc.) | 0.432 | 0.432 | 0.432 | 0.432 | 0.432 | 0.432 | 0.432 | 
+Total cost of Human Resources and associated costs (NOT in reference amount) | 1.080 | 1.080 | 1.080 | 1.080 | 1.080 | 1.080 | 1.080 | 
+Calculation – Officials and Temporary agents 
+An average of 0.108 EUR million per person and per year 
+Calculation – Staff financed under art. 29 01 02 
+An average of 0.108 EUR million per person and per year 
+Other administrative expenditure not included in reference amount 
+EUR million (to 3 decimal places) 
+| 2007 |2008 |2009 |2010 |2011 |2012 |2013 |TOTAL | |29 01 02 11 01 Missions |0.050 |0.050 |0.050 |0.050 |0.050 |0.050 |0.050 |0.350 | |29 01 02 11 02 Meetings %amp% Conferences |0.050 |0.050 |0.050 |0.050 |0.050 |0.050 |0.050 |0.350 | |29 01 02 11 03 Committees | | | | | | | | | |29 01 02 11 04 Studies %amp% consultations | | | | | | | | | |29 01 02 11 05 Information systems | | | | | | | | | | 2. Total Other Management Expenditure (29 01 02 11) |0.100 |0.100 | 0.100 | 0.100 | 0.100 | 0.100 | 0.100 |0.700 | | 3 Other expenditure of an administrative nature (specify including reference to budget line) | | | | | | | | | | Total Administrative expenditure, other than human resources and associated costs (NOT included in reference amount) |0.100 |0.100 | 0.100 | 0.100 | 0.100 | 0.100 | 0.100 |0.700 | |Calculation - Other administrative expenditure not included in reference amount 
+[1] OJ C , , p. . 
+[2] OJ C , , p. . 
+[3] OJ C , , p. . 
+[4] OJ L 310, 30.11.1996, p. 1; Regulation as last amended by Commission Regulation (EC) No 995/2001 (OJ L 139, 23.5.2001, p. 3). 
+[5] OJ L 161, 26.06.1999, p. 1; Regulation as last amended by the 2003 Act of Accession. 
+[6] OJ L 130, 25.5.1994, p. 1; Regulation as last amended by the 2003 Act of Accession. 
+[7] OJ L 52, 22.2.1997, p. 1 Regulation as last amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1). 
+[8] OJ L 184, 17.7.1999, p. 23. 
+[9] OJ L 181, 28.6.1989, p. 47. 
+[10] OJ L 186, 5.8.1995, p. 59 
+[11] OJ L 310, 30.11.1996, p. 1. 
+[12] OJ No L 76, 30.3.1993, p. 1. 
+[13] Expenditure that does not fall under Chapter 1 of the Title 29 concerned. 
+[14] Expenditure within 29.1.04. 
+[15] Expenditure within 29.1.01 and 29.1.02 
+[16] See points 19 and 24 of the Interinstitutional agreement. 
+[17] Cost of which is NOT covered by the reference amount. 
+[18] Cost of which is NOT covered by the reference amount. 
+[19] Cost of which is included within the reference amount. 

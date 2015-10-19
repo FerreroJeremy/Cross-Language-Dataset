@@ -1,0 +1,48 @@
+2003/24/CE: Decisión de la Comisión, de 30 de diciembre de 2002, sobre la creación de un sistema informático veterinario integrado [notificada con el número C(2002) 5496] 
+Decisión de la Comisión 
+de 30 de diciembre de 2002 
+sobre la creación de un sistema informático veterinario integrado 
+[notificada con el número C(2002) 5496] 
+(2003/24/CE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Vista la Directiva 90/425/CEE del Consejo, de 26 de junio de 1990, relativa a los controles veterinarios y zootécnicos aplicables en los intercambios intracomunitarios de determinados animales vivos y productos con vistas a la realización del mercado interior(1), cuya última modificación la constituye la Directiva 92/118/CEE(2), y, en particular, el apartado 3 de su artículo 20, 
+Vista la Decisión 92/438/CEE del Consejo, de 13 de julio de 1992, sobre la informatización de los procedimientos veterinarios aplicables a la importación (proyecto SHIFT) y por la que se modifican las Directivas 90/675/CEE, 91/496/CEE y 91/628/CEE así como la Decisión 90/424/CEE y se deroga la Decisión 88/192/CEE(3), cuya última modificación la constituye la Decisión 95/1/CE del Consejo(4), y, en particular, su artículo 12, 
+Vista la Decisión 90/424/CEE del Consejo, de 26 de junio de 1990, relativa a determinados gastos en el sector veterinario(5), cuya última modificación la constituye la Decisión 2001/572/CE(6), y, en particular, sus artículos 37 y 37 bis, 
+Considerando lo siguiente: 
+(1) La Directiva 1999/93/CE del Parlamento Europeo y del Consejo, de 13 de diciembre de 1999, por la que se establece un marco comunitario para la firma electrónica(7), tiene por objetivo aumentar la seguridad y la confianza en las comunicaciones electrónicas y facilitar el uso de éstas por las administraciones nacionales y comunitaria, tanto entre ellas como con los ciudadanos y los agentes económicos. 
+(2) La Decisión 92/563/CEE de la Comisión, de 19 de noviembre de 1992, relativa a la base de datos sobre las condiciones comunitarias de importación prevista en el proyecto SHIFT(8), constriñe a la Comisión a elaborar las bases de datos que resulten pertinentes. 
+(3) La Decisión 91/398/CEE de la Comisión, de 19 de julio de 1991, relativa a una red informatizada de enlace entre autoridades veterinarias (ANIMO)(9), establece los principios del sistema comunitario de enlace entre las unidades veterinarias. 
+(4) Diferentes trabajos efectuados para estudios y seminarios comunitarios han puesto de manifiesto la necesidad de revisar la arquitectura de la red ANIMO para crear un sistema veterinario que integre las diferentes aplicaciones informáticas. 
+(5) La Resolución A5-0396/2000 del Parlamento Europeo relativa al Informe especial n° 1/2000(10) del Tribunal de Cuentas sobre la peste porcina clásica pide que la red ANIMO se administre y elabore enteramente bajo control de la Comisión y que se modifique de acuerdo con las observaciones del Tribunal. 
+(6) Para optimizar las funciones y las interfaces de usuario, es preciso que los Estados miembros colaboren estrechamente en la elaboración de un sistema informático veterinario integrado. 
+(7) Las medidas previstas en la presente Decisión se ajustan al dictamen del Comité permanente de la cadena alimentaria y de sanidad animal. 
+HA ADOPTADO LA PRESENTE DECISIÓN: 
+Artículo 1 
+La Comunidad pondrá en marcha cuando antes un sistema informático que integre las funciones de los sistemas ANIMO y SHIFT en una arquitectura única. En el anexo se detallan las especificaciones técnicas de ese sistema. 
+Artículo 2 
+1. En una primera fase, la Comisión procederá a elaborar las especificaciones del nuevo sistema ANIMO, a analizarlo y a presentar un prototipo. 
+Para ello, dispondrá de 200000 euros. 
+2. En una segunda fase, la Comisión procederá a elaborar el nuevo sistema ANIMO y pondrá la base de datos a disposición de los Estados miembros. 
+3. La Comisión procederá también a desarrollar y a integrar en el nuevo sistema informático el sistema SHIFT y, particularmente, las funciones imprescindibles para ayudar a tomar decisiones en los puestos de inspección fronterizos, tanto desde el punto de vista reglamentario como desde el del análisis de riesgos. 
+Artículo 3 
+Se faculta al Director General de la Dirección General de Sanidad y Protección de los Consumidores para firmar, en nombre de la Comisión, los contratos necesarios para el desarrollo de la presente Decisión. 
+Artículo 4 
+Los destinatarios de la presente Decisión serán los Estados miembros. 
+Hecho en Bruselas, el 30 de diciembre de 2002. 
+Por la Comisión 
+David Byrne 
+Miembro de la Comisión 
+(1) DO L 224 de 18.8.1990, p. 29. 
+(2) DO L 62 de 15.3.1993, p. 49. 
+(3) DO L 243 de 25.8.1992, p. 27. 
+(4) DO L 1 de 1.1.1995, p. 113. 
+(5) DO L 224 de 18.8.1990, p. 19. 
+(6) DO L 203 de 28.7.2001, p. 16. 
+(7) DO L 13 de 19.1.2000, p. 12. 
+(8) DO L 361 de 10.12.1992, p. 45. 
+(9) DO L 221 de 9.8.1991, p. 30. 
+(10) DO C 85 de 23.3.2000, p. 1. 
+ANEXO 
+La arquitectura de los sistemas de información de la Dirección General de Sanidad y Protección de los Consumidores utiliza una tecnología n-tiers, con un browser cliente, un servidor de WEB para la presentación de la información y un servidor de base de datos Oracle disociado. Las aplicaciones estratégicas se han desarrollado en JAVA con el producto BEA Weblogic. La red sigue el protocolo IP y, cuando la seguridad lo requiere, utiliza una red privada de datos TESTA II y protocolos de seguridad como Secure Socket Layer (SSL) o Public Key Infrastructure (PKI). Los intercambios de datos entre las aplicaciones se producen según la norma XML. 
+Los informes estadísticos se elaboran por medio de BO (Business Object) y de un software cartográfico. 

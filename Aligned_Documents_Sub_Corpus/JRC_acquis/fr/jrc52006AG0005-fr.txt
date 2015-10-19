@@ -1,0 +1,378 @@
+Position commune (CE) n o 5/2006 du 23 janvier 2006 arr%ecirc%t%eacute%e par le Conseil, statuant conform%eacute%ment %agrave% la proc%eacute%dure vis%eacute%e %agrave% l'article 251 du trait%eacute% instituant la Communaut%eacute% europ%eacute%enne, en vue de l'adoption d'une directive du Parlement europ%eacute%en et du Conseil %eacute%tablissant une infrastructure d'information g%eacute%ographique dans la Communaut%eacute% europ%eacute%enne (Inspire) 
+Position commune (CE) no 5/2006 
+arrêtée par le Conseil le 23 janvier 2006 
+en vue de l'adoption de la directive 2006/ /CE du Parlement européen et du Conseil du … établissant une infrastructure d'information géographique dans la Communauté européenne (Inspire) 
+(2006/C 126 E/02) 
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L'UNION EUROPÉENNE, 
+vu le traité instituant la Communauté européenne, et notamment son article 175, paragraphe 1, 
+vu la proposition de la Commission, 
+vu l'avis du Comité économique et social européen [1], 
+après consultation du Comité des régions, 
+statuant conformément à la procédure visée à l'article 251 du traité [2], 
+considérant ce qui suit: 
+(1) La politique communautaire dans le domaine de l'environnement doit viser un niveau élevé de protection, en tenant compte de la diversité des situations dans les différentes régions de la Communauté. En outre, des informations, y compris des informations géographiques, sont nécessaires aux fins de la formulation et de la mise en œuvre de cette politique et d'autres politiques communautaires, qui doivent intégrer les exigences de la protection de l'environnement, conformément à l'article 6 du traité. Afin d'obtenir une telle intégration, il convient d'établir une certaine coordination entre les utilisateurs et les fournisseurs d'informations, de manière à pouvoir combiner les informations et les connaissances de différents secteurs. 
+(2) Le sixième programme d'action communautaire dans le domaine de l'environnement adopté par la décision no 1600/2002/CE du Parlement européen et du Conseil [3] exige de tout mettre en œuvre pour que l'élaboration de la politique de la Communauté en matière d'environnement soit menée d'une manière intégrée, compte tenu des différences régionales et locales. Un certain nombre de problèmes se posent en ce qui concerne la disponibilité, la qualité, l'organisation, l'accessibilité et la mise en commun des informations géographiques nécessaires pour atteindre les objectifs fixés dans ledit programme. 
+(3) Les problèmes concernant la disponibilité, la qualité, l'organisation, l'accessibilité et le partage des informations géographiques sont communs à un grand nombre de politiques et de thèmes dans le domaine de l'information, ainsi qu'à différents niveaux d'autorité publique. La résolution de ces problèmes passe par l'adoption de mesures concernant l'échange, le partage, l'accès ainsi que l'utilisation de données géographiques interopérables et de services de données géographiques aux divers niveaux de l'autorité publique et dans différents secteurs. Il convient donc d'établir une infrastructure d'information géographique dans la Communauté. 
+(4) L'infrastructure d'information géographique dans la Communauté européenne (Inspire), devrait faciliter la prise de décision concernant les politiques et les activités susceptibles d'avoir une incidence directe ou indirecte sur l'environnement. 
+(5) Inspire devrait s'appuyer sur les infrastructures d'information géographique établies par les États membres, rendues compatibles avec les règles communes de mise en œuvre et complétées par des mesures au niveau communautaire. Il convient que ces mesures garantissent la compatibilité des infrastructures d'information géographique établies par les États membres et permettent leur utilisation dans un contexte communautaire et transfrontière. 
+(6) Les infrastructures d'information géographique dans les États membres devraient être conçues de façon que les données géographiques soient stockées, mises à disposition et maintenues au niveau le plus approprié, qu'il soit possible de combiner de manière cohérente des données géographiques tirées de différentes sources dans la Communauté et de les partager entre plusieurs utilisateurs et applications, que les données géographiques recueillies à un niveau de l'autorité publique puissent être mises en commun entre les autres autorités publiques dans la mesure où la présente directive impose auxdites autorités publiques l'obligation de partager des données géographiques, que les données géographiques soient mises à disposition dans des conditions qui ne fassent pas indûment obstacle à leur utilisation extensive, qu'il soit aisé de rechercher les données géographiques disponibles, d'évaluer leur adéquation au but poursuivi et de connaître les conditions applicables à leur utilisation. 
+(7) Les informations géographiques couvertes par la présente directive recoupent en partie les informations couvertes par la directive 2003/4/CE du Parlement européen et du Conseil du 28 janvier 2003 concernant l'accès du public à l'information en matière d'environnement [4]. La présente directive devrait s'appliquer sans préjudice de la directive 2003/4/CE. 
+(8) La présente directive devrait s'appliquer sans préjudice de la directive 2003/98/CE du Parlement européen et du Conseil du 17 novembre 2003 concernant la réutilisation des informations du secteur public [5], dont les objectifs sont complémentaires de ceux de la présente directive. 
+(9) La mise en place d'Inspire représentera une valeur ajoutée importante pour les autres initiatives communautaires dont elle bénéficiera également, notamment le règlement (CE) no 876/2002 du Conseil du 21 mai 2002 créant l'entreprise commune Galileo [6] et la communication de la Commission au Parlement européen et au Conseil — "Surveillance mondiale pour l'environnement et la sécurité (GMES): mise en place d'une capacité GMES d'ici à 2008 (plan d'action 2004-2008)". Les États membres devraient étudier la possibilité d'utiliser les données et les services de Galileo et de GMES dès qu'ils seront disponibles, en particulier ceux concernant les références temporelles et géographiques de Galileo. 
+(10) De nombreuses initiatives sont prises aux niveaux national et communautaire afin de recueillir, d'harmoniser ou d'organiser la diffusion ou l'utilisation d'informations géographiques. De telles initiatives peuvent être mises en place par la législation communautaire telle que la décision 2000/479/CE de la Commission du 17 juillet 2000 concernant la création d'un registre européen des émissions de polluants (EPER) conformément aux dispositions de l'article 15 de la directive 96/61/CE du Conseil relative à la prévention et à la réduction intégrées de la pollution (IPPC) [7], le règlement (CE) no 2152/2003 du Parlement européen et du Conseil du 17 novembre 2003 concernant la surveillance des forêts et des interactions environnementales dans la Communauté (Forest Focus) [8], s'inscrire dans le cadre de programmes financés par la Communauté (par exemple Corine Land Cover, le système européen d'information sur la politique des transports) ou découler d'initiatives lancées au niveau national ou régional. Non seulement la présente directive complètera ces initiatives en établissant un cadre qui permettra leur interopérabilité, mais elle tirera également parti de l'expérience et des initiatives existantes, sans faire double emploi avec les travaux déjà menés à bien. 
+(11) La présente directive devrait s'appliquer aux données géographiques détenues par les autorités publiques ou au nom de celles-ci, ainsi qu'à l'utilisation des données géographiques par les autorités publiques dans l'exécution de leurs missions publiques. À certaines conditions, elle devrait cependant s'appliquer également aux données géographiques détenues par des personnes physiques ou morales autres que les autorités publiques, pour autant que lesdites personnes physiques ou morales en fassent la demande. 
+(12) La présente directive ne devrait pas fixer d'exigences concernant la collecte de nouvelles données ni concernant la notification de telles informations à la Commission, car ces questions sont régies par d'autres textes législatifs dans le domaine de l'environnement. 
+(13) Les infrastructures nationales devraient être mises en place progressivement et, de ce fait, il convient d'accorder différents degrés de priorité aux thèmes de données géographiques couverts par la présente directive. Lors de cette mise en place, il convient de déterminer dans quelle mesure des données géographiques sont nécessaires pour une large gamme d'applications dans divers domaines opérationnels et de tenir compte du degré de priorité des actions prévues au titre des politiques communautaires qui nécessitent des données géographiques harmonisées, ainsi que des progrès déjà accomplis en matière d'harmonisation dans les États membres. 
+(14) Les pertes de temps et de ressources dues à la recherche des données géographiques existantes ou afin d'établir leur utilité pour une fin particulière constituent un obstacle majeur à la pleine exploitation des données disponibles. Les États membres devraient donc fournir, sous la forme de métadonnées, des descriptifs des séries de données géographiques et des services disponibles. 
+(15) Étant donné que la grande diversité des formats et structures utilisés pour l'organisation des données géographiques et l'accès à celles-ci dans la Communauté empêche de formuler, de mettre en œuvre, de suivre et d'évaluer efficacement la législation communautaire ayant une incidence directe ou indirecte sur l'environnement, il convient de prévoir des règles de mise en œuvre afin de faciliter l'utilisation des données géographiques provenant de différentes sources dans les États membres. Ces règles devraient viser à assurer l'interopérabilité des séries de données géographiques, et les États membres devraient veiller à ce que toutes les données ou informations nécessaires à l'interopérabilité puissent être communiquées à des conditions qui ne restreignent pas leur utilisation à cette fin. 
+(16) Des services en réseau sont nécessaires pour partager les données géographiques entre les différents niveaux d'autorité publique dans la Communauté. Ces services en réseau devraient permettre de rechercher, de transformer, de consulter et de télécharger des données géographiques et de recourir à des services de données géographiques et de commerce électronique. Les services du réseau devraient fonctionner conformément à des spécifications et à des critères de performance minimale arrêtés d'un commun accord afin de garantir l'interopérabilité des infrastructures mises en place par les États membres. Le réseau de services devrait également prévoir la possibilité technique pour les autorités publiques de mettre à disposition leurs séries et services de données. 
+(17) Dans certains cas, les séries et services de données géographiques liés aux politiques communautaires ayant une incidence directe ou indirecte sur l'environnement sont détenus et exploités par des tiers. Les États membres devraient donc offrir aux tiers la possibilité de contribuer aux infrastructures nationales, pour autant que la cohésion et la facilité d'utilisation des données géographiques et des services correspondants offerts par ces infrastructures n'en soient pas affectées. 
+(18) L'expérience dans les États membres a démontré qu'il est important, pour la réussite de la mise en place d'une infrastructure d'information géographique, qu'un nombre minimal de services soit mis gratuitement à la disposition du public. Il convient donc que les États membres proposent gratuitement, au minimum, des services de recherche des séries de données géographiques. 
+(19) Afin de faciliter l'intégration des infrastructures nationales dans Inspire, les États membres devraient donner accès à leurs infrastructures par l'intermédiaire d'un portail communautaire exploité par la Commission, ainsi que par les points d'accès qu'ils décident d'ouvrir. 
+(20) Afin de mettre à disposition des informations provenant de différents niveaux de l'autorité publique, les États membres devraient éliminer les obstacles pratiques auxquels se heurtent à cet égard les autorités publiques aux niveaux national, régional et local lors de l'exécution de leurs missions publiques pouvant avoir une incidence directe ou indirecte sur l'environnement. Il convient d'éliminer ces obstacles pratiques là où les informations doivent être utilisées aux fins de la mission publique. 
+(21) Les autorités publiques doivent pouvoir accéder facilement aux séries et aux services de données géographiques nécessaires à l'exécution de leurs missions publiques. Cet accès peut être entravé s'il dépend de négociations individuelles ad hoc entre autorités publiques chaque fois que l'accès est requis. Les États membres devraient prendre les mesures nécessaires pour empêcher de tels obstacles pratiques au partage de données, en recourant, par exemple, à des accords préalables entre autorités publiques. 
+(22) Les mécanismes de partage des séries et des services de données géographiques entre les gouvernements et les autres administrations publiques et les personnes physiques ou morales exerçant, dans le cadre du droit national, des fonctions d'administration publique peuvent mettre en œuvre des lois, des règlements, des octrois de licences, des accords financiers ou des procédures administratives, par exemple pour protéger la viabilité financière des autorités publiques qui ont l'obligation d'obtenir des recettes ou dont les données ne sont qu'en partie subventionnées par l'État membre de sorte qu'elles doivent recouvrer les frais n'ayant pas fait l'objet de subventions en faisant payer les utilisateurs, ou encore pour garantir la maintenance et la mise à jour de ces données. 
+(23) Les mesures adoptées par les États membres dans leurs dispositions de transposition pourraient prévoir que les autorités publiques qui fournissent des séries et des services de données géographiques puissent octroyer des licences d'exploitation contre paiement pour ces services et séries aux autres autorités publiques qui les utilisent. 
+(24) Les dispositions de l'article 13, paragraphe 1, point f), et de l'article 17, paragraphe 1, devraient être mises en œuvre et appliquées dans le respect total des principes relatifs à la protection des données à caractère personnel, conformément à la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données [9]. 
+(25) Les cadres pour le partage des données géographiques entre les autorités publiques auxquelles la directive impose une obligation de partage des données devraient être neutres eu égard aux autorités publiques d'un même État membre, mais également eu égard aux autorités publiques d'autres États membres ainsi que des institutions communautaires. Les institutions et organes communautaires étant fréquemment amenés à intégrer et à évaluer des informations géographiques provenant de tous les États membres, ils devraient avoir la possibilité d'accéder aux données géographiques et aux services y afférents et de les utiliser dans des conditions harmonisées. 
+(26) En vue de favoriser le développement de services à valeur ajoutée par des tiers, au bénéfice tant des autorités publiques que du public, il est nécessaire de faciliter l'accès aux données géographiques au-delà des frontières administratives ou nationales. 
+(27) La mise en œuvre efficace des infrastructures d'information géographique passe par un travail de coordination de la part de tous ceux pour qui la mise en place de telles infrastructures présente un intérêt, que ce soit du fait de leur contribution à celles-ci ou de leur rôle d'utilisateurs. Il convient donc que des structures de coordination appropriées soient établies tant dans les États membres qu'au niveau communautaire. 
+(28) Afin de bénéficier des connaissances les plus récentes et de l'expérience concrète en matière d'infrastructures d'information, il convient que les mesures nécessaires à la mise en œuvre de la présente directive puissent s'appuyer sur des normes internationales et des normes adoptées par les organismes européens de normalisation conformément à la procédure fixée dans la directive 98/34/CE du Parlement européen et du Conseil du 22 juin 1998 prévoyant une procédure d'information dans le domaine des normes et réglementations techniques [10] et des règles relatives aux services de la société de l'information. 
+(29) Étant donné que l'Agence européenne pour l'environnement instituée en vertu du règlement (CEE) no 1210/90 du Conseil du 7 mai 1990 relatif à la création de l'agence européenne pour l'environnement et du réseau européen d'information et d'observation pour l'environnement [11] a pour mission de fournir à la Communauté des informations environnementales objectives, fiables et comparables et vise entre autres à améliorer le flux des informations environnementales utiles à l'élaboration des politiques entre les États membres et les institutions communautaires, cet organe devrait contribuer activement à la mise en œuvre de la présente directive. 
+(30) Conformément au point 34 de l'accord interinstitutionnel "Mieux légiférer" [12], les États membres sont encouragés à établir, pour eux-mêmes et dans l'intérêt de la Communauté, leurs propres tableaux, qui illustrent, dans la mesure du possible, la concordance entre la présente directive et les mesures de transposition, et à les rendre publics. 
+(31) Il y a lieu d'arrêter les mesures nécessaires pour la mise en œuvre de la présente directive en conformité avec la décision 1999/468/CE du Conseil du 28 juin 1999 fixant les modalités de l'exercice des compétences d'exécution conférées à la Commission [13]. 
+(32) Les travaux préparatoires pour les décisions concernant la mise en œuvre de la présente directive et l'évolution future d'Inspire requièrent le suivi permanent de la mise en œuvre de la directive ainsi que des rapports réguliers. 
+(33) Étant donné que l'objectif de la présente directive, à savoir l'établissement d'Inspire, ne peut être réalisé de manière satisfaisante par les États membres, du fait des aspects transnationaux et de la nécessité générale de coordonner les conditions d'accès, d'échange et de mise en commun des informations géographiques dans la Communauté et peut donc être mieux réalisé au niveau communautaire, la Communauté peut prendre des mesures conformément au principe de subsidiarité consacré à l'article 5 du traité. Conformément au principe de proportionnalité, tel qu'énoncé audit article, la présente directive n'excède pas ce qui est nécessaire pour atteindre cet objectif, 
+ONT ARRÊTÉ LA PRÉSENTE DIRECTIVE: 
+CHAPITRE I 
+DISPOSITIONS GÉNÉRALES 
+Article premier 
+1. La présente directive vise à fixer les règles générales destinées à établir l'infrastructure d'information géographique dans la Communauté européenne (ci-après dénommé "Inspire"), aux fins des politiques environnementales communautaires et des politiques ou activités de la Communauté susceptibles d'avoir une incidence sur l'environnement. 
+2. Inspire s'appuie sur les infrastructures d'information géographique établies et exploitées par les États membres. 
+Article 2 
+La présente directive s'applique sans préjudice des directives 2003/4/CE et 2003/98/CE. 
+Article 3 
+Aux fins de la présente directive, on entend par: 
+1) "infrastructure d'information géographique", des métadonnées, des séries de données géographiques et des services de données géographiques; des services et des technologies en réseau; des accords sur le partage, l'accès et l'utilisation; des mécanismes, processus et procédures de coordination et de suivi établis, exploités ou mis à disposition conformément à la présente directive; 
+2) "donnée géographique", toute donnée faisant directement ou indirectement référence à un lieu ou une zone géographique spécifique; 
+3) "série de données géographiques", une compilation identifiable de données géographiques; 
+4) "services de données géographiques", les opérations qui peuvent être exécutées à l'aide d'une application informatique sur les données géographiques contenues dans des séries de données géographiques ou sur les métadonnées qui s'y rattachent; 
+5) "objet géographique", une représentation abstraite d'un phénomène réel lié à un lieu ou une zone géographique spécifique; 
+6) "métadonnée", l'information décrivant les séries et services de données géographiques et rendant possible leur recherche, leur inventaire et leur utilisation; 
+7) "interopérabilité", la possibilité d'une combinaison de séries de données géographiques et d'une interaction des services, sans intervention manuelle répétitive de telle façon que le résultat soit cohérent et la valeur ajoutée des séries et services de données renforcée; 
+8) "portail Inspire", un site internet ou équivalent qui donne accès aux services visés à l'article 11, paragraphe 1; 
+9) "autorité publique": 
+a) tout gouvernement ou toute autre administration publique, y compris les organes publics consultatifs, au niveau national, régional ou local, 
+b) toute personne physique ou morale exerçant, dans le cadre du droit national, des fonctions d'administration publique, en ce compris des tâches, des activités ou des services spécifiques en rapport avec l'environnement, et 
+c) toute personne physique ou morale ayant des responsabilités ou des fonctions publiques, ou fournissant des services publics en rapport avec l'environnement sous le contrôle d'un organisme ou d'une personne visé au point a) ou b). 
+Les États membres peuvent décider que lorsque des organes ou institutions exercent une compétence judiciaire ou législative, ils ne sont pas considérés comme une autorité publique aux fins de la présente directive; 
+10) "tiers", toute personne physique ou morale autre qu'une autorité publique. 
+Article 4 
+1. La présente directive s'applique aux séries de données géographiques qui remplissent les conditions suivantes: 
+a) elles sont liées à une zone où un État membre détient et/ou exerce sa compétence; 
+b) elles sont en format électronique; 
+c) elles sont détenues par l'une des entités ci-après ou en son nom: 
+i) une autorité publique, après avoir été produites ou reçues par une autorité publique, ou bien gérées ou mises à jour par cette autorité et rentrant dans le champ de ses missions publiques, 
+ii) un tiers à la disposition duquel le réseau a été mis conformément à l'article 12; 
+d) elles concernent un ou plusieurs des thèmes figurant aux annexes I, II ou III. 
+2. Lorsque plusieurs copies identiques d'une même série de données géographiques sont détenues par plusieurs autorités publiques ou en leur nom, la présente directive s'applique uniquement à la version de référence dont sont tirées les différentes copies. 
+3. La présente directive s'applique également aux services de données géographiques concernant les données contenues dans les séries de données géographiques visées au paragraphe 1. 
+4. La présente directive n'impose pas la collecte de nouvelles données géographiques. 
+5. Dans le cas de séries de données géographiques conformes à la condition fixée au paragraphe 1, point c), mais à l'égard desquelles un tiers détient des droits de propriété intellectuelle, l'autorité publique ne peut agir en application de la présente directive qu'avec le consentement de ce tiers. 
+6. Par dérogation au paragraphe 1, la présente directive s'applique aux séries de données géographiques détenues par une autorité publique ou au nom de celle-ci, lorsqu'elle se situe à l'échelon le plus bas de gouvernement d'un État membre, uniquement si l'État membre a établi des dispositions législatives ou réglementaires qui en imposent la collecte ou la diffusion. 
+7. La description technique des thèmes de données figurant aux annexes I, II et III peut être adaptée conformément à la procédure visée à l'article 22, paragraphe 2, afin de tenir compte de l'évolution des besoins en données géographiques aux fins des politiques communautaires qui ont une incidence sur l'environnement. 
+CHAPITRE II 
+MÉTADONNÉES 
+Article 5 
+1. Les États membres veillent à ce que des métadonnées soient créées pour les séries et les services de données géographiques correspondant aux thèmes figurant aux annexes I, II et III, et à ce que ces métadonnées soient tenues à jour. 
+2. Les métadonnées comprennent des informations sur les aspects suivants: 
+a) la conformité des séries de données géographiques avec les règles de mise en œuvre prévues à l'article 7, paragraphe 1; 
+b) les conditions applicables à l'accès et à l'utilisation des séries et des services de données géographiques et, le cas échéant, les frais correspondants; 
+c) la qualité des données géographiques, y compris le fait de savoir si elles ont été validées; 
+d) les autorités publiques responsables de l'établissement, de la gestion, de la maintenance et de la diffusion des séries et des services de données géographiques; 
+e) les restrictions à l'accès public et les raisons de ces restrictions, conformément à l'article 13. 
+3. Les États membres prennent les mesures nécessaires pour garantir que les métadonnées sont complètes et d'une qualité suffisante pour satisfaire à l'objectif visé à l'article 3, point 6. 
+4. Les règles de mise en œuvre du présent article sont adoptées conformément à la procédure visée à l'article 22, paragraphe 2, au plus tard le … [14]. Ces règles tiennent compte des normes internationales et des exigences des utilisateurs qui existent en la matière. 
+Article 6 
+Les États membres créent les métadonnées visées à l'article 5 conformément au calendrier suivant: 
+a) au plus tard deux ans après la date d'adoption des règles de mise en œuvre, conformément à l'article 5, paragraphe 4, dans le cas des séries de données géographiques correspondant aux thèmes figurant aux annexes I et II; 
+b) au plus tard cinq ans après la date d'adoption des règles de mise en œuvre, conformément à l'article 5, paragraphe 4, dans le cas des séries de données géographiques correspondant aux thèmes figurant à l'annexe III. 
+CHAPITRE III 
+INTEROPÉRABILITÉ DES SÉRIES ET DES SERVICES DE DONNÉES GÉOGRAPHIQUES 
+Article 7 
+1. Les règles de mise en œuvre fixant les modalités techniques de l'interopérabilité et, lorsque cela est possible, de l'harmonisation de ces séries et services sont adoptées conformément à la procédure visée à l'article 22, paragraphe 2. Les exigences des utilisateurs en la matière, les initiatives existantes et les normes internationales pour l'harmonisation des séries de données géographiques, ainsi que la faisabilité et l'analyse des coûts et des avantages sont prises en compte pour élaborer les règles de mise en œuvre. Lorsque des organisations établies en vertu du droit international ont adopté des normes visant à garantir l'interopérabilité et l'harmonisation des séries et des services de données géographiques, ces normes sont intégrées et les moyens techniques existants sont mentionnés, le cas échéant, dans les règles de mise en œuvre visées dans le présent paragraphe. 
+2. Aux fins de l'élaboration des propositions concernant ces règles de mise en œuvre, la Commission réalise une analyse de faisabilité et des coûts et des avantages attendus. Les États membres fournissent à la Commission, à la demande de celle-ci, les informations nécessaires à cet effet. Lorsqu'elle propose de telles règles, la Commission consulte les États membres sur les résultats de son analyse dans le cadre du comité visé à l'article 22, paragraphe 1. L'adoption de ces règles ne doit pas entraîner de coûts excessifs pour un État membre. 
+3. Dans la mesure du possible, les États membres veillent, d'une part, à la mise en conformité des séries de données géographiques nouvellement collectées ou actualisées et des services de données géographiques correspondants avec les règles de mise en œuvre visées au paragraphe 1 dans un délai de deux ans à compter de leur adoption et, d'autre part, à celle des autres séries et services de données géographiques avec les règles de mise en œuvre dans un délai de sept ans à compter de leur adoption. 
+4. Les règles de mise en œuvre visées au paragraphe 1 comprennent la définition et la classification des objets géographiques liés aux séries de données géographiques correspondant aux thèmes figurant aux annexes I, II ou III, ainsi que les modalités de géoréférencement de ces données géographiques. 
+5. Les représentants des États membres aux niveaux national, régional et local, ainsi que les autres personnes physiques ou morales pour lesquelles les données géographiques concernées présentent un intérêt du fait de leur rôle dans l'infrastructure d'information géographique, y compris les utilisateurs, les producteurs, les fournisseurs de services à valeur ajoutée ou tout organisme de coordination, ont la possibilité, conformément aux procédures applicables, de participer aux discussions préparatoires sur la teneur des règles de mise en œuvre visées au paragraphe 1 avant leur examen par le comité visé à l'article 22, paragraphe 1. 
+Article 8 
+1. Dans le cas de séries de données géographiques correspondant à un ou plusieurs des thèmes figurant aux annexes I ou II, les règles de mise en œuvre prévues à l'article 7, paragraphe 1, remplissent les conditions fixées aux paragraphes 2, 3 et 4 du présent article. 
+2. Les règles de mise en œuvre ont trait aux aspects des données géographiques figurant ci-après: 
+a) les formules permettant l'identification sans équivoque des objets géographiques avec lesquelles les moyens d'identification nationaux existants peuvent être mis en correspondance afin de garantir leur interopérabilité; 
+b) le lien entre les objets géographiques; 
+c) les attributs essentiels et les thésaurus multilingues correspondants communément requis en ce qui concerne les politiques susceptibles d'avoir une incidence sur l'environnement; 
+d) des informations sur la dimension temporelle des données; 
+e) la mise à jour des données. 
+3. Les règles de mise en œuvre sont conçues pour assurer la cohérence entre les éléments d'information qui concernent le même lieu ou entre les éléments d'information qui concernent le même objet représenté à différentes échelles. 
+4. Les règles de mise en œuvre sont conçues pour que les informations obtenues à partir de différentes séries de données géographiques soient comparables en ce qui concerne les aspects visés à l'article 7, paragraphe 4, et au paragraphe 2 du présent article. 
+Article 9 
+Les règles de mise en œuvre prévues à l'article 7, paragraphe 1, sont adoptées conformément au calendrier suivant: 
+a) au plus tard le … [15], dans le cas des séries de données géographiques correspondant aux thèmes figurant à l'annexe I; 
+b) au plus tard le … [16], dans le cas des séries de données géographiques correspondant aux thèmes figurant à l'annexe II ou III. 
+Article 10 
+1. Les États membres veillent à ce que les informations nécessaires pour se conformer aux règles de mise en œuvre prévues à l'article 7, paragraphe 1, y compris les données, les codes et les classifications techniques, soient mises à disposition des autorités publiques ou des tiers conformément à des conditions qui ne restreignent pas leur utilisation à cette fin. 
+2. Afin de garantir la cohérence des données géographiques concernant un élément géographique qui englobe la frontière entre deux États membres ou plus, les États membres décident d'un commun accord, le cas échéant, de la représentation et de la position de ces éléments communs. 
+CHAPITRE IV 
+SERVICES EN RÉSEAU 
+Article 11 
+1. Les États membres établissent et exploitent un réseau des services ci-après concernant les séries et les services de données géographiques pour lesquels des métadonnées ont été créées conformément à la présente directive: 
+a) services de recherche permettant d'identifier des séries et des services de données géographiques sur la base du contenu des métadonnées correspondantes et d'afficher le contenu des métadonnées; 
+b) services de consultation permettant au moins d'afficher des données, de naviguer, de changer d'échelle, d'opter pour une vue panoramique, ou de superposer plusieurs séries de données consultables et d'afficher les légendes ainsi que tout contenu pertinent de métadonnées; 
+c) services de téléchargement permettant de télécharger des copies de séries de données géographiques ou de parties de ces séries, et, lorsque cela est possible, d'y accéder directement; 
+d) services de transformation permettant de transformer des séries de données géographiques en vue de réaliser l'interopérabilité; 
+e) services permettant d'appeler des services de données géographiques. 
+Ces services tiennent compte des exigences des utilisateurs en la matière et sont faciles à utiliser, mis à la disposition du public et accessibles par l'internet ou tout autre moyen approprié de télécommunication. 
+2. Aux fins des services visés au paragraphe 1, point a), la combinaison minimale ci-après de critères de recherche doit être mise en œuvre: 
+a) mots clés; 
+b) classification des services et des séries de données géographiques; 
+c) qualité des données géographiques, y compris le fait de savoir si elles ont été validées; 
+d) degré de conformité par rapport aux règles de mise en œuvre prévues à l'article 7, paragraphe 1; 
+e) situation géographique; 
+f) conditions applicables à l'accès aux séries et aux services de données et à leur utilisation; 
+g) autorités publiques chargées de l'établissement, de la gestion, de la maintenance et de la diffusion des séries et des services de données géographiques. 
+3. Les services de transformation visés au paragraphe 1, point d), sont combinés avec les autres services visés dans ce paragraphe de manière à permettre l'exploitation de tous ces services conformément aux règles de mise en œuvre prévues à l'article 7, paragraphe 1. 
+Article 12 
+Les États membres s'efforcent de donner aux autorités publiques la possibilité technique de relier leurs séries et services de données géographiques au réseau visé à l'article 11, paragraphe 1. Ce service est également mis à la disposition des tiers qui en font la demande et dont les séries et les services de données géographiques respectent les règles de mise en œuvre concernant en particulier les obligations relatives aux métadonnées, aux services en réseau et à l'interopérabilité. 
+Article 13 
+1. Par dérogation à l'article 11, paragraphe 1, de la présente directive, les États membres peuvent restreindre l'accès public aux séries et aux services de données par le biais des services visés à l'article 11, paragraphe 1, points a) à e), ou aux services de commerce électronique visés à l'article 14, paragraphe 3, lorsqu'un tel accès nuirait aux aspects suivants: 
+a) la confidentialité des travaux des autorités publiques, lorsque cette confidentialité est prévue par la loi; 
+b) les relations internationales, la sécurité publique ou la défense nationale; 
+c) la bonne marche de la justice, la possibilité pour toute personne d'être jugée équitablement ou la capacité d'une autorité publique d'effectuer une enquête d'ordre pénal ou disciplinaire; 
+d) la confidentialité des informations commerciales ou industrielles, lorsque cette confidentialité est prévue par la législation nationale ou communautaire afin de protéger un intérêt économique légitime, notamment l'intérêt public lié à la préservation de la confidentialité des statistiques et du secret fiscal; 
+e) les droits de propriété intellectuelle; 
+f) la confidentialité des données à caractère personnel et/ou des fichiers concernant une personne physique lorsque cette personne n'a pas consenti à la divulgation de ces informations au public, lorsque la confidentialité de ce type d'information est prévue par la législation nationale ou communautaire; 
+g) les intérêts ou la protection de toute personne qui a fourni les informations demandées sur une base volontaire sans y être contrainte par la loi ou sans que la loi puisse l'y contraindre, à moins que cette personne n'ait consenti à la divulgation de ces données; 
+h) la protection de l'environnement auquel ces informations ont trait, comme la localisation d'espèces rares. 
+2. Les motifs de restriction de l'accès, tels que prévus au paragraphe 1, sont interprétés de manière stricte, en tenant compte, dans chaque cas, de l'intérêt que l'accès à ces informations présenterait pour le public. Dans chaque cas, il convient d'apprécier l'intérêt que présenterait pour le public la divulgation par rapport à celui que présenterait un accès limité ou soumis à conditions. Les États membres ne peuvent, en vertu du paragraphe 1, points a), d), f), g) et h), restreindre l'accès aux informations concernant les émissions dans l'environnement. 
+Cependant, lorsque le paragraphe 1, point d), ou le paragraphe 1, point f), motive la limitation de l'accès, le premier alinéa du présent paragraphe ne s'applique que si l'accès visé au paragraphe 1 concerne une information environnementale telle que définie à l'article 2, point 1), de la directive 2003/4/CE. 
+3. Dans ce cadre, et aux fins de l'application du paragraphe 1, point f), les États membres veillent à ce que les exigences de la directive 95/46/CE soient respectées. 
+Article 14 
+1. Les États membres veillent à ce que: 
+a) les services visés à l'article 11, paragraphe 1, point a), soient mis gratuitement à la disposition du public; 
+b) les services visés à l'article 11, paragraphe 1, point b), soient, en règle générale, mis gratuitement à la disposition du public. Cependant, lorsque des droits et/ou des redevances sont indispensables pour maintenir les séries et les services de données géographiques ou pour répondre aux besoins des infrastructures de données géographiques internationales existantes de manière durable, les États membres peuvent percevoir des droits et/ou des redevances soit auprès de la personne qui fournit le service au public, soit, lorsque le fournisseur de services le demande, auprès du public. 
+2. Les données rendues disponibles par les services de consultation mentionnés à l'article 11, paragraphe 1, point b), peuvent l'être sous une forme empêchant leur réutilisation à des fins commerciales. 
+3. Lorsque les autorités publiques imposent une tarification pour les services visés à l'article 11, paragraphe 1, point b), c) ou e), les États membres veillent à ce que des services de commerce électronique soient disponibles. Ces services peuvent être couverts par des clauses de non-responsabilité, des licences internet ou des licences ordinaires. 
+Article 15 
+1. La Commission met en place et exploite un portail Inspire au niveau communautaire. 
+2. Les États membres donnent accès aux services visés à l'article 11, paragraphe 1, par l'intermédiaire du portail Inspire visé au paragraphe 1. Les États membres peuvent également donner accès à ces services par l'intermédiaire de leurs propres points d'accès. 
+Article 16 
+Les règles relatives à la mise en œuvre du présent chapitre sont adoptées conformément à la procédure visée à l'article 22, paragraphe 2, et fixent notamment les dispositions suivantes: 
+a) les spécifications techniques applicables aux services visés aux articles 11 et 12 et les critères de performance minimale de ces services, en tenant compte des obligations d'information existantes et des recommandations adoptées dans le cadre de la législation communautaire en matière d'environnement, des services de commerce électronique actuels et des avancées technologiques; 
+b) les obligations visées à l'article 12. 
+CHAPITRE V 
+PARTAGE DES DONNÉES 
+Article 17 
+1. Chaque État membre adopte des mesures concernant le partage des séries et des services de données géographiques entre ses autorités publiques visées à l'article 3, point 9 a) et b). Lesdites mesures permettent auxdites autorités publiques d'accéder aux séries et aux services de données, de les échanger et de les utiliser aux fins de l'exécution de missions publiques ayant une incidence sur l'environnement. 
+2. Les mesures prévues au paragraphe 1 excluent toute restriction susceptible de créer, au point d'utilisation, des obstacles pratiques au partage de séries et de services de données géographiques. 
+3. Les dispositions du paragraphe 2 n'empêchent pas les autorités publiques qui fournissent des séries et des services de données géographiques d'octroyer des licences d'exploitation contre paiement pour ces services et séries aux autorités publiques ou aux institutions et organes de la Communauté qui les utilisent. 
+4. Les dispositions relatives au partage des séries et des services de données géographiques prévues aux paragraphes 1, 2 et 3 sont ouvertes aux autorités publiques visées à l'article 3, point 9 a) et b), des autres États membres, ainsi qu'aux institutions et aux organes de la Communauté, aux fins de l'exécution de tâches publiques pouvant avoir une incidence sur l'environnement. 
+5. Les dispositions relatives au partage des séries et des services de données géographiques prévues aux paragraphes 1, 2 et 3 sont ouvertes, selon le principe de la réciprocité et de l'égalité de traitement, aux organes établis par des accords internationaux auxquels la Communauté et les États membres sont parties, aux fins de l'exécution de tâches pouvant avoir une incidence sur l'environnement. 
+6. Lorsque les dispositions relatives au partage des séries et des services de données géographiques prévues aux paragraphes 1, 2 et 3 sont offertes conformément aux paragraphes 4 et 5, elles peuvent être assorties d'exigences nationales conditionnant leur utilisation. 
+7. Par dérogation au présent article, les États membres peuvent limiter le partage si cela est susceptible de nuire à la bonne marche de la justice, à la sécurité publique, à la défense nationale ou aux relations internationales. 
+8. Sans préjudice du paragraphe 3, les États membres offrent aux institutions et aux organes de la Communauté un accès aux séries et aux services de données géographiques dans des conditions harmonisées. Les règles de mise en œuvre qui régissent ces conditions sont adoptées conformément à la procédure visée à l'article 22, paragraphe 2. 
+9. Le présent article n'affecte pas l'existence ou la titularité de droits de propriété intellectuelle par des organismes du secteur public. 
+CHAPITRE VI 
+COORDINATION ET MESURES COMPLÉMENTAIRES 
+Article 18 
+Les États membres veillent à ce que soient désignées des structures et des mécanismes appropriés pour coordonner les contributions de tous ceux pour lesquels leurs infrastructures d'informations géographiques présentent un intérêt. 
+Ces structures coordonnent, entres autres, les contributions des utilisateurs, des producteurs, des fournisseurs de service à valeur ajoutée et des organismes de coordination en ce qui concerne l'identification des séries de données pertinentes, les besoins des utilisateurs, la fourniture d'informations sur les pratiques existantes et un retour d'information sur la mise en œuvre de la présente directive. 
+Article 19 
+1. La Commission est responsable de la coordination au niveau communautaire d'Inspire et est assistée à cette fin d'organisations compétentes et, notamment, de l'Agence européenne de l'environnement. 
+2. Chaque État membre détermine un point de contact, généralement une autorité publique, chargé des contacts avec la Commission en ce qui concerne la présente directive. 
+Article 20 
+Les règles de mise en œuvre prévues par la présente directive tiennent dûment compte des normes adoptées par les organismes de normalisation européens conformément à la procédure fixée dans la directive 98/34/CE, ainsi que des normes internationales. 
+CHAPITRE VII 
+DISPOSITIONS FINALES 
+Article 21 
+1. Les États membres assurent le suivi de la mise en œuvre et de l'utilisation de leurs infrastructures d'information géographique. Ils mettent les résultats de ce suivi à la disposition de la Commission et du public sur une base permanente. 
+2. Le … [17]au plus tard, les États membres présentent un rapport à la Commission décrivant brièvement: 
+a) les modalités de coordination entre les fournisseurs et les utilisateurs publics de séries et de services de données géographiques, ainsi que les organismes intermédiaires, et les relations avec les tiers et l'organisation de l'assurance de la qualité, autant que faire se peut; 
+b) la contribution des autorités publiques ou des tiers au fonctionnement et à la coordination de l'infrastructure d'information géographique; 
+c) les informations concernant l'utilisation de l'infrastructure d'information géographique; 
+d) les accords de partage des données entre les autorités publiques; 
+e) les coûts et les avantages de la mise en œuvre de la présente directive. 
+3. Tous les trois ans et au plus tard à compter du … [18], les États membres présentent un rapport à la Commission fournissant des informations actualisées concernant les points visés au paragraphe 2. 
+4. Le détail des règles de mise en œuvre du présent article est adopté conformément à la procédure visée à l'article 22, paragraphe 2. 
+Article 22 
+1. La Commission est assistée d'un comité. 
+2. Lorsqu'il est fait référence au présent paragraphe, les articles 5 et 7 de la décision 1999/468/CE s'appliquent, eu égard aux dispositions de l'article 8 de cette décision. 
+La période prévue à l'article 5, paragraphe 6, de la décision 1999/468/CE est fixée à trois mois. 
+3. Le comité adopte son règlement intérieur. 
+Article 23 
+La Commission présente au Parlement européen et au Conseil, le … [19] au plus tard, et par la suite tous les six ans, un rapport sur la mise en œuvre de la présente directive fondé, entre autres, sur les rapports présentés par les États membres conformément à l'article 21, paragraphes 2 et 3. 
+Lorsque cela est nécessaire, le rapport est accompagné de propositions d'action communautaire. 
+Article 24 
+1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive avant le … [17]. 
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres. 
+2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine régi par la présente directive. 
+Article 25 
+La présente directive entre en vigueur le vingtième jour suivant sa publication au Journal officiel de l'Union européenne. 
+Article 26 
+Les États membres sont destinataires de la présente directive. 
+Fait à Bruxelles, le 
+Par le Parlement européen 
+Le président 
+… 
+Par le Conseil 
+Le président 
+… 
+[1] JO C 221 du 8.9.2005, p. 33. 
+[2] Avis du Parlement européen du 7 juin 2005 (non encore paru au Journal officiel), position commune du Conseil du 23 janvier 2006 et position du Parlement européen du … (non encore parue au Journal officiel). 
+[3] JO L 242 du 10.9.2002, p. 1. 
+[4] JO L 41 du 14.2.2003, p. 26. 
+[5] JO L 345 du 31.12.2003, p. 90. 
+[6] JO L 138 du 28.5.2002, p. 1. 
+[7] JO L 192 du 28.7.2000, p. 36. 
+[8] JO L 324 du 11.12.2003, p. 1. Règlement modifié par le règlement (CE) no 788/2004 (JO L 138 du 30.4.2004, p. 17). 
+[9] JO L 281 du 23.11.1995, p. 31. Directive modifiée par le règlement (CE) no 1882/2003 (JO L 284 du 31.10.2003, p. 1). 
+[10] JO L 204 du 21.7.1998, p. 37. Directive modifiée en dernier lieu par l'acte d'adhésion de 2003. 
+[11] JO L 120 du 11.5.1990, p. 1. Règlement modifié en dernier lieu par le règlement (CE) no 1641/2003 du Parlement européen et du Conseil (JO L 245 du 29.9.2003, p. 1). 
+[12] JO C 321 du 31.12.2003, p. 1. 
+[13] JO L 184 du 17.7.1999, p. 23. 
+[14] Un an à compter de la date d'entrée en vigueur de la présente directive. 
+[15] Deux ans à compter de la date d'entrée en vigueur de la présente directive. 
+[16] Cinq ans à compter de la date d'entrée en vigueur de la présente directive. 
+[17] Trois ans à compter de la date d'entrée en vigueur de la présente directive. 
+[18] Six ans à compter de la date d'entrée en vigueur de la présente directive. 
+[19] Sept ans à compter de la date d'entrée en vigueur de la présente directive. 
+-------------------------------------------------- 
+ANNEXE I 
+THÈMES DE DONNÉES GÉOGRAPHIQUES VISÉS À L'ARTICLE 6, POINT A), À L'ARTICLE 8, PARAGRAPHE 1, ET À L'ARTICLE 9, POINT A) 
+1. Référentiels de coordonnées 
+Systèmes de référencement unique des informations géographiques dans l'espace sous forme d'une série de coordonnées (x, y, z) et/ou la latitude et la longitude et l'altitude, en se fondant sur un point géodésique horizontal et vertical. 
+2. Systèmes de maillage géographique 
+Grille multirésolution harmonisée avec un point d'origine commun et une localisation ainsi qu'une taille des cellules harmonisées. 
+3. Dénominations géographiques 
+Noms de zones, régions, localités, grandes villes, banlieues, villes moyennes ou implantations, ou tout autre élément géographique ou topographique d'intérêt public ou historique. 
+4. Unités administratives 
+Unités d'administration séparées par des limites administratives et délimitant les zones dans lesquelles les États membres détiennent et/ou exercent leurs compétences, aux fins de l'administration locale, régionale et nationale. 
+5. Réseaux de transport 
+Réseaux routier, ferroviaire, aérien et navigable ainsi que les infrastructures associées. Sont également incluses les correspondances entre les différents réseaux, ainsi que le réseau transeuropéen de transport tel que défini dans la décision no 1692/96/CE du Parlement européen et du Conseil du 23 juillet 1996 sur les orientations communautaires pour le développement du réseau transeuropéen de transport [1] et les révisions futures de cette décision. 
+6. Hydrographie 
+Éléments hydrographiques, y compris les zones maritimes ainsi que toutes les autres masses d'eau et les éléments qui y sont liés, y compris les bassins et sous-bassins hydrographiques. Conformes, le cas échéant, aux définitions établies par la directive 2000/60/CE du Parlement européen et du Conseil du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau [2] et sous forme de réseaux. 
+7. Sites protégés 
+Zone désignée ou gérée dans un cadre législatif international, communautaire ou national en vue d'atteindre des objectifs spécifiques de conservation. 
+[1] JO L 228 du 9.9.1996, p. 1, corrigé par JO L 201 du 7.6.2004, p. 1. 
+[2] JO L 327 du 22.12.2000, p. 1. Directive modifiée par la décision no 2455/2001/CE (JO L 331 du 15.12.2001, p. 1). 
+-------------------------------------------------- 
+ANNEXE II 
+THÈMES DE DONNÉES GÉOGRAPHIQUES VISÉS À L'ARTICLE 6, POINT A), À L'ARTICLE 8, PARAGRAPHE 1, ET À L'ARTICLE 9, POINT B) 
+1. Altitude 
+Modèles numériques pour l'altitude des surfaces terrestres, glaciaires et océaniques. Comprend l'altitude terrestre, la bathymétrie et la ligne de rivage. 
+2. Adresses 
+Localisation des propriétés fondée sur les identifiants des adresses, habituellement le nom de la rue, le numéro de la maison et le code postal. 
+3. Parcelles cadastrales 
+Zones définies par les registres cadastraux ou équivalent. 
+4. Occupation des terres 
+Couverture physique et biologique de la surface terrestre, y compris les surfaces artificielles, les zones agricoles, les forêts, les zones (semi-)naturelles, les zones humides et les masses d'eau. 
+5. Ortho-imagerie 
+Images géoréférencées de la surface terrestre, provenant de satellites ou de capteurs aéroportés. 
+6. Géologie 
+Géologie caractérisée en fonction de la composition et de la structure. Englobe le substratum rocheux, les aquifères et la géomorphologie. 
+-------------------------------------------------- 
+ANNEXE III 
+THÈMES DE DONNÉES GÉOGRAPHIQUES VISÉS À L'ARTICLE 6, POINT B), ET À L'ARTICLE 9, POINT B) 
+1. Unités statistiques 
+Unités de diffusion ou d'utilisation d'autres informations statistiques. 
+2. Bâtiments 
+Situation géographique des bâtiments. 
+3. Sols 
+Sols et sous-sol caractérisés selon leur profondeur, texture, structure et teneur en particules et matières organiques, pierrosité, érosion, le cas échéant pente moyenne et capacité anticipée de stockage de l'eau. 
+4. Usage des sols 
+Territoire caractérisé selon sa dimension fonctionnelle prévue ou son objet socioéconomique actuel et futur (par exemple résidentiel, industriel, commercial, agricole, forestier, récréatif). 
+5. Santé et sécurité des personnes 
+Répartition géographique des pathologies dominantes (allergies, cancers, maladies respiratoires, etc.) liées directement (pollution de l'air, produits chimiques, appauvrissement de la couche d'ozone, bruit, etc.) ou indirectement (alimentation, organismes génétiquement modifiés, etc.) à la qualité de l'environnement, et ensemble des informations relatives à l'effet de celle-ci sur la santé des hommes (marqueurs biologiques, déclin de la fertilité, épidémies) ou leur bien-être (fatigue, stress, etc.). 
+6. Services d'utilité publique et services publics 
+Comprend les installations d'utilité publique, tels que les égouts ou les réseaux et installations liés à la gestion des déchets, à l'approvisionnement énergétique, à l'approvisionnement en eau, ainsi que les services administratifs et sociaux publics, tels que les administrations publiques, les sites de la protection civile, les écoles et les hôpitaux. 
+7. Installations de suivi environnemental 
+La situation et le fonctionnement des installations de suivi environnemental comprennent l'observation et la mesure des émissions, de l'état du milieu environnemental et d'autres paramètres de l'écosystème (biodiversité, conditions écologiques de la végétation, etc.) par les autorités publiques ou pour leur compte. 
+8. Lieux de production et sites industriels 
+Sites de production industrielle, y compris les installations couvertes par la directive 96/61/CE du Conseil du 24 septembre 1996 relative à la prévention et à la réduction intégrées de la pollution [1] et les installations de captage d'eau, d'extraction minière et de stockage. 
+9. Installations agricoles et aquacoles 
+Équipement et installations de production agricoles (y compris les systèmes d'irrigation, les serres et les étables). 
+10. Répartition de la population — démographie 
+Répartition géographique des personnes, avec les caractéristiques de population et les niveaux d'activité, regroupées par grille, région, unité administrative ou autre unité analytique. 
+11. Zones de gestion, de restriction ou de réglementation et unités de déclaration 
+Zones gérées, réglementées ou utilisées pour les rapports aux niveaux international, européen, national, régional et local. Sont inclus les décharges, les zones restreintes aux alentours des sources d'eau potable, les zones vulnérables aux nitrates, les chenaux réglementés en mer ou les eaux intérieures importantes, les zones destinées à la décharge de déchets, les zones soumises à limitation du bruit, les zones faisant l'objet de permis d'exploration et d'extraction minière, les districts hydrographiques, les unités correspondantes utilisées pour les rapports et les zones de gestion du littoral. 
+12. Zones à risque naturel 
+Zones sensibles caractérisées en fonction des risques naturels (tous les phénomènes atmosphériques, hydrologiques, sismiques, volcaniques, ainsi que les feux de friche qui peuvent, en raison de leur situation, gravité et fréquence, nuire gravement à la société), tels qu'inondations, glissements et affaissements de terrain, avalanches, incendies de forêts, tremblements de terre et éruptions volcaniques. 
+13. Conditions atmosphériques 
+Conditions physiques dans l'atmosphère. Comprend les données géographiques fondées sur des mesures, sur des modèles ou sur une combinaison des deux, ainsi que les lieux de mesure. 
+14. Caractéristiques géographiques météorologiques 
+Conditions météorologiques et leur mesure: précipitation, température, évapotranspiration, vitesse et direction du vent. 
+15. Caractéristiques géographiques océanographiques 
+Conditions physiques des océans (courants, salinité, hauteur des vagues, etc.). 
+16. Régions maritimes 
+Conditions physiques des mers et des masses d'eau salée divisées en régions et en sous-régions à caractéristiques communes. 
+17. Régions biogéographiques 
+Zones présentant des conditions écologiques relativement homogènes avec des caractéristiques communes. 
+18. Habitats et biotopes 
+Zones géographiques ayant des caractéristiques écologiques particulières — conditions, processus, structures et fonctions (de maintien de la vie) — favorables aux organismes qui y vivent. Sont incluses les zones terrestres et aquatiques qui se distinguent par leurs caractéristiques géographiques, abiotiques ou biotiques, qu'elles soient naturelles ou semi-naturelles. 
+19. Répartition des espèces 
+Répartition géographique de l'occurrence des espèces animales et végétales regroupées par grille, région, unité administrative ou autre unité analytique. 
+20. Sources d'énergie 
+Sources d'énergie comprenant les hydrocarbures, l'énergie hydraulique, la bioénergie, l'énergie solaire, l'énergie éolienne, etc., le cas échéant accompagnées d'informations relatives à la profondeur/la hauteur de la source. 
+21. Ressources minérales 
+Ressources minérales comprenant les minerais métalliques, les minéraux industriels, etc., le cas échéant accompagnées d'informations relatives à la profondeur/la hauteur de la ressource. 
+[1] JO L 257 du 10.10.1996, p. 26. Directive modifiée en dernier lieu par le règlement (CE) no 166/2006 du Parlement européen et du Conseil (JO L 33 du 4.2.2006, p. 1). 
+-------------------------------------------------- 
+EXPOSÉ DES MOTIFS DU CONSEIL 
+I. INTRODUCTION 
+Le 26 juillet 2004, la Commission a transmis au Conseil sa proposition de directive du Parlement européen et du Conseil établissant une infrastructure d'information géographique dans la Communauté (Inspire). La proposition est fondée sur l'article 175, paragraphe 1, du traité CE. 
+Le 7 juin 2005, le Parlement européen a rendu son avis en première lecture. 
+Le 20 septembre 2004, le Comité des régions a décidé de ne pas se prononcer. 
+Le 9 février 2005, le Comité économique et social a adopté son avis. 
+Le 23 janvier 2006, le Conseil a arrêté sa position commune conformément à l'article 251, paragraphe 2, du traité CE. 
+II. OBJECTIF 
+La directive proposée crée un cadre juridique pour l'établissement et l'exploitation d'une infrastructure d'information géographique en Europe, aux fins de la formulation, de la mise en œuvre, du suivi et de l'évaluation des politiques communautaires à tous les niveaux, ainsi que de l'information du public. 
+Un objectif clé d'Inspire est de contribuer à l'élimination des entraves aux échanges de données entre les autorités publiques, en particulier dans le domaine de l'environnement, et de mettre à disposition dans les États membres, à tous les niveaux, un plus grand nombre de données géographiques de meilleure qualité aux fins de l'élaboration et de la mise en œuvre des politiques de la Communauté. Inspire concerne principalement la politique environnementale, mais peut être utilisée par d'autres secteurs et étendue à l'avenir à ceux-ci. 
+III. ANALYSE DE LA POSITION COMMUNE 
+Généralités 
+La position commune intègre la plupart des amendements adoptés par le Parlement européen en première lecture, textuellement, en partie ou en substance. Elle reprend notamment les modifications apportées à la proposition initiale de la Commission qui regroupent des articles du texte, rationalisent les définitions et précisent le champ d'application. La position commune comprend toutefois un certain nombre de modifications autres que celles prévues dans l'avis rendu par le Parlement européen en première lecture et dans la proposition initiale de la Commission. La position commune: 
+- définit les conditions d'accès du public aux séries et aux services de données géographiques et les conditions de l'échange des données entre les autorités publiques dans le cadre de la législation communautaire existante, 
+- précise la possibilité d'octroyer des licences d'exploitation contre paiement à d'autres autorités publiques pour les séries et les services de données géographiques, et 
+- introduit des mesures visant à atteindre les objectifs de la directive de façon équilibrée et plus efficace (rationalisation des dispositions relatives au suivi et à l'établissement de rapports, analyse des coûts et des avantages). 
+Les modifications de fond sont décrites dans les points ci-après. 
+Dispositions générales, définitions, champ d'application (articles 1er à 4) 
+La position commune ne suit pas l'amendement 6 du Parlement européen. L'objectif et le champ d'application de la directive énoncés à l'article 1er correspondent à la proposition initiale de la Commission et à sa base juridique. Le texte de la position commune ne fait pas mention d'une incidence "directe ou indirecte" sur l'environnement, mais le considérant supplémentaire (4) traite cette question. 
+Le Conseil approuve quant au fond l'amendement 7 du Parlement européen et l'amendement 2, qui y est lié. Il accepte toutefois le point de vue de la Commission selon lequel il ne serait pas fondé sur le plan juridique d'inclure dans une directive les obligations incombant aux institutions et aux organes communautaires. 
+L'article 2 stipule que la directive s'appliquerait sans préjudice de la directive 2003/4/CE concernant l'accès du public à l'information en matière d'environnement ni de la directive 2003/98/CE concernant la réutilisation des informations du secteur public. 
+L'article 3 ajoute les définitions des termes "interopérabilité", "portail Inspire" et limite la portée de la définition de "l'autorité publique". 
+Les paragraphes 2, 4, 5 et 6 de l'article 4 précisent l'étendue des séries de données géographiques couvertes par la directive. L'article 4, paragraphe 7, limite les pouvoirs dont dispose le comité pour adapter les thèmes de données figurant dans les annexes. 
+Les amendements 9 et 10 n'ont pas été acceptés, le Conseil estimant qu'ils ne clarifient pas le texte. 
+Métadonnées, interopérabilité des séries et des services de données géographiques (articles 5 à 10) 
+L'article 5 de la position commune précise les différentes composantes des métadonnées ainsi que les règles de mise en œuvre. Le calendrier relatif à la création des métadonnées visé à l'article 6 est conforme à celui qui figure dans l'amendement 15 du PE, compte tenu du nouveau libellé de l'article 5, paragraphe 4, de la position commune. 
+L'article 7 introduit des conditions supplémentaires relatives à l'élaboration des règles de mise en œuvre fixant les modalités techniques de l'interopérabilité, en particulier l'analyse des coûts et des avantages, la prise en compte des normes et activités internationales et la référence aux moyens techniques existants. Les considérations liées aux coûts et aux avantages et à la faisabilité sont étayées par l'article 7, paragraphe 2, qui impose à la Commission de procéder à une analyse des coûts et des avantages avant d'élaborer des propositions concernant les règles de mise en œuvre. L'adoption de ces règles ne doit pas entraîner de coûts excessifs pour un État membre. L'article 7, paragraphe 3, précise la mise en conformité des séries et des services de données géographiques nouvellement collectées et des autres séries et services avec les règles de mise en œuvre. 
+L'article 8, paragraphe 2, point a), remplace "un système commun d'identifiants uniques" par "des solutions permettant l'identification sans équivoque des objets géographiques avec lesquelles les moyens d'identification nationaux existants peuvent être mis en correspondance, afin de garantir leur interopérabilité", afin d'éviter l'imposition d'une solution technique particulière. 
+Les amendements 13, 14, 16, 17, 18, 19, 21, 22 et 23 ont été repris intégralement ou en partie, dans une formulation remaniée. 
+L'amendement 20 n'a pas été accepté, la référence à "l'incidence indirecte sur l'environnement" ayant été jugée trop vague (voir l'article 1er). 
+Services en réseau (articles 11 à 16) 
+La liste étendue des motifs de restriction de l'accès figurant à l'article 13 est la même que la liste figurant à l'article 4, paragraphe 2, de la directive 2003/4/CE concernant l'accès du public à l'information en matière d'environnement afin d'assurer la cohérence de la mise en œuvre des deux directives. À l'article 13, le nouveau paragraphe 3 prévoit que l'accès du public aux données géographiques doit être conforme à la directive 95/46/CE relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données. 
+À l'article 14, la position commune autorise les États membres à percevoir des droits et/ou des redevances pour les services de consultation, lorsque cela est nécessaire pour maintenir les séries et services de données géographiques ou pour répondre aux besoins des infrastructures de données géographiques internationales existantes. 
+Les amendements 24, 25, 26 et 27 ont été acceptés dans une formulation remaniée. 
+Partage des données (article 17) 
+L'article 17 de la position commune précise la portée des obligations en matière de partage des données entre les autorités publiques d'un même État membre, les autorités publiques de plusieurs États membres, les institutions et organes de la Communauté et les organes établis par des accords internationaux. L'article 17, paragraphe 2, vise à éviter la création d'obstacles pratiques au point d'utilisation (par exemple, l'utilisation par les employés d'une autorité publique des données sur leur ordinateur), alors que l'article 17, paragraphe 3, autorise les fournisseurs de données à recouvrer leurs coûts auprès des autorités publiques des États membres et des organes communautaires, garantissant ainsi le maintien de la qualité et de l'actualité des données. C'est au niveau de l'autorité publique et non du point d'utilisation que s'effectue, le cas échéant, la facturation. La protection des droits de propriété intellectuelle est garantie par l'article 17, paragraphe 9. Les nouveaux considérants 22, 23 et 24 traitent également de ces questions. Il a été tenu compte de l'amendement 28 dans le considérant 21. 
+L'amendement 29 n'a pas été retenu, dans la mesure où il augmentait inutilement les exigences en matière d'échange de données. 
+L'amendement 30 est remplacé par la nouvelle version de l'article 17. 
+Le concept de l'article 24 de la proposition initiale — règles de mise en œuvre communes concernant le partage des données (amendement 32) — est inacceptable pour le Conseil. 
+Coordination et mesures complémentaires, dispositions finales (articles 18 à 26) 
+Bien que l'article 18 et l'article 19, paragraphe 2, de la position commune ne mettent pas explicitement l'accent sur la répartition des pouvoirs et des responsabilités entre les différentes structures concernées au sein des États membres (amendements 33, 34 et 4), c'est dans ce sens que le Conseil les comprend. 
+Le nouveau libellé de l'article 21 et le considérant supplémentaire (31) de la position commune rationalisent les obligations en matière de suivi et d'établissement de rapports prévues par la directive par rapport à l'amendement 37. L'article 24 reporte légèrement la date de transposition. 
+Les amendements 35, 36 et 38 ont été acceptés. 
+Annexes 
+Les thèmes de données géographiques "répartition géographique des accidents de la route" (amendement 43, point 6) et "télécommunications" (amendement 44, point 7) ne figurent pas dans la position commune, car ils ne sont pas liés à la finalité d'Inspire. 
+L'amendement 47 a été partiellement accepté à l'annexe III, point 11. 
+Les amendements 39, 40, 41, 42, 45, 46, 48 et 49 ont été acceptés. 
+IV. CONCLUSION 
+Les modifications que le Conseil a apportées à la proposition de la Commission visent à en assurer la compatibilité avec la législation communautaire existante et à garantir durablement la collecte des données. Malgré ces modifications, la position commune du Conseil est conforme à la plupart des amendements du Parlement européen et elle constitue une bonne base pour la poursuite des négociations. 
+-------------------------------------------------- 

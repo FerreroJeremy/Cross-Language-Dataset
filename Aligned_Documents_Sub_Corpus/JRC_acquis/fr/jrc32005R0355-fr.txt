@@ -1,0 +1,113 @@
+R&amp;egrave;glement (CE) n&amp;deg;&amp;nbsp;355/2005 de la Commission du 28 f&amp;eacute;vrier 2005 modifiant le r&amp;egrave;glement (CEE) n&amp;deg;&amp;nbsp;2676/90 d&amp;eacute;terminant des m&amp;eacute;thodes d'analyse communautaires applicables dans le secteur du vin 
+Règlement (CE) no 355/2005 de la Commission 
+du 28 février 2005 
+modifiant le règlement (CEE) no 2676/90 déterminant des méthodes d'analyse communautaires applicables dans le secteur du vin 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CE) no 1493/1999 du Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole [1], et notamment son article 46, paragraphe 3, 
+considérant ce qui suit: 
+(1) La méthode de mesure du titre alcoométrique des vins par densimétrie électronique a été validée selon des critères internationalement reconnus. La nouvelle description de cette méthode a été adoptée par l’Office international de la vigne et du vin lors de son assemblée générale de 2000. 
+(2) L’utilisation de cette méthode de mesure peut assurer un contrôle plus simple et précis du titre alcoométrique volumique des vins. 
+(3) La reconnaissance de l’équivalence de cette méthode aux méthodes décrites dans le chapitre 3 de l’annexe du règlement (CEE) no 2676/90 de la Commission [2] n’a plus de raison d’être et l’article 3, paragraphe 2, doit par conséquent être supprimé. De plus, il convient d’introduire au chapitre 3 de l’annexe dudit règlement la description mise à jour de cette méthode accompagnée des valeurs expérimentales des paramètres de validation de celle-ci. 
+(4) Il convient de modifier le règlement (CEE) no 2676/90 en conséquence. 
+(5) Les mesures prévues au présent règlement sont conformes à l'avis du comité de gestion des vins, 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+Le règlement (CEE) no 2676/90 est modifié comme suit: 
+1) à l’article 3, le paragraphe 2 est supprimé; 
+2) l’annexe est modifiée conformément à l’annexe du présent règlement. 
+Article 2 
+Le présent règlement entre en vigueur le septième jour suivant celui de sa publication au Journal officiel de l'Union européenne. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 28 février 2005. 
+Par la Commission 
+Mariann Fischer Boel 
+Membre de la Commission 
+[1] JO L 179 du 14.7.1999, p. 1. Règlement modifié par l’acte d’adhésion de 2003. 
+[2] JO L 272 du 3.10.1990, p. 1. Règlement modifié en dernier lieu par le règlement (CE) no 128/2004 (JO L 19 du 27.1.2004, p. 3). 
+-------------------------------------------------- 
+ANNEXE 
+Le chapitre 3 de l’annexe du règlement (CEE) no 2676/90 "Titre alcoométrique volumique" est modifié comme suit: 
+1) au point 2, le point 2.2 est remplacé par le texte suivant: 
+"2.2. Méthodes de référence: 
+- détermination du titre alcoométrique du distillat par pycnométrie, 
+- détermination du titre alcoométrique des vins à l’aide de la balance hydrostatique, 
+- détermination du titre alcoométrique des vins par densimétrie électronique utilisant un résonateur de flexion." 
+2) au point 4, le titre est remplacé par le titre et le sous-titre suivants: 
+"4. MÉTHODES DE RÉFÉRENCE 
+4.A. Détermination du titre alcoométrique du distillat par pycnométrie"; 
+3) au point 4 bis, le titre est remplacé par le titre suivant: 
+"4.B. Détermination du titre alcoométrique des vins à l’aide de la balance hydrostatique"; 
+4) le point 4.C suivant est inséré après le point 4.B: 
+"4.C. Détermination du titre alcoométrique volumique des vins par densimétrie électronique utilisant un résonateur de flexion 
+1. Méthode de mesure 
+1.1. Titre et introduction 
+Le titre alcoométrique volumique (TAV) des vins doit être mesuré avant leur commercialisation notamment pour se conformer aux règles d’étiquetage. 
+Le titre alcoométrique volumique est défini au point 1 du présent chapitre. 
+1.2. Objet et domaine d’application 
+La méthode de mesure décrite est la densimétrie électronique utilisant un résonateur de flexion. 
+En référence aux dispositions réglementaires en vigueur, la température d’essai est arrêtée à 20 °C. 
+1.3. Principe et définitions 
+Le principe de la méthode consiste premièrement à distiller le vin de volume à volume. La méthode de distillation est décrite au point 3 du présent chapitre. Cette distillation permet d’éliminer les substances non volatiles. Les homologues de l’éthanol, ainsi que l’éthanol et les homologues de l’éthanol engagés dans les esters, sont compris dans le titre alcoométrique, car ils se retrouvent dans le distillat. 
+Dans un deuxième temps on mesure la masse volumique du distillat obtenu. La masse volumique d’un liquide à une température donnée est égale au quotient de sa masse sur son volume: 
+ρ = m/V, pour un vin, elle s’exprime en g/ml. 
+Pour une solution hydroalcoolique telle qu’un distillat, en connaissant la température, des tables permettent de faire correspondre à une masse volumique un titre alcoométrique. Ce titre alcoométrique correspond à celui du vin (distillation de volume à volume). 
+Dans la présente méthode, la masse volumique du distillat est mesurée par densimétrie électronique utilisant un résonateur de flexion. Le principe consiste à mesurer la période d’oscillation d’un tube contenant l’échantillon soumis à une excitation électromagnétique. La masse volumique est alors calculée, elle est liée à la période d’oscillation par la formule suivante: 
+ρ =T2 × C4π2V - MV (1) 
+ρ = masse volumique de l’échantillon 
+T = période de vibration induite 
+M = masse du tube vide 
+C = constante de rappel 
+V = volume de l’échantillon en vibration. 
+Cette relation est de la forme, ρ = A T2 – B (2); il existe donc une relation linéaire entre la masse volumique et la période élevée au carré. Les constantes A et B sont spécifiques de chaque oscillateur et sont estimées en mesurant la période de fluides de masse volumique connue. 
+1.4. Réactifs et produits 
+1.4.1. Fluides de référence 
+Deux fluides de référence servent à ajuster le densimètre. Les masses volumiques des fluides de référence doivent encadrer celles des distillats à mesurer. Un écart de masse volumique entre les fluides de référence supérieur à 0,01000 g/ml est recommandé. Leur masse volumique doit être connue avec une incertitude inférieure à +/- 0,00005 g/ml, pour une température de 20,00 +/- 0,05 °C. 
+Pour la mesure du TAV des vins par densimètre électronique les fluides de référence sont: 
+- l’air sec (non pollué), 
+- l’eau de classe 3 au minimum, répondant à la définition de la norme ISO 3696:1987, 
+- des solutions hydroalcooliques de masse volumique de référence, 
+- des solutions raccordées aux étalons nationaux de viscosité inférieure à 2 mm2/s. 
+1.4.2. Produits de nettoyage et de séchage 
+- détergents, acides, 
+- solvants organiques: éthanol 96 % vol, acétone pur. 
+1.5. Appareillage 
+1.5.1. Densimètre électronique à résonateur de flexion 
+Le densimètre électronique comporte les éléments suivants: 
+- une cellule de mesure comportant le tube de mesure et une enceinte thermostatée, 
+- un système de mise en oscillation du tube et de mesure de la période d’oscillation, 
+- une horloge, 
+- un afficheur numérique et éventuellement un calculateur. 
+Le densimètre est placé sur un support parfaitement stable et est isolé de toutes vibrations. 
+1.5.2. Contrôle de la température de la cellule de mesure 
+Le tube de mesure est situé dans une enceinte thermostatée. La stabilité de la température doit être meilleure que +/- 0,02 °C. 
+Lorsque le densimètre le permet, il est nécessaire de contrôler la température de la cellule de mesure car celle-ci influence fortement les résultats des déterminations. La masse volumique d’une solution hydroalcoolique de TAV 10 % vol, est de 0,98471 g/ml à 20 °C et de 0,98447 g/ml à 21 °C soit un écart de 0,00024 g/ml. 
+La température d’essai est arrêtée à 20 °C. La mesure de température au niveau de la cellule est réalisée avec un thermomètre de résolution de moins de 0,01 °C et raccordé aux étalons nationaux. Il doit garantir une mesure de température d’incertitude inférieure à +/- 0,07 °C. 
+1.5.3. Calibration de l’appareil 
+L’appareil doit être calibré avant sa première utilisation, puis tous les six mois ou si la vérification ne donne pas satisfaction. L’objectif est d’utiliser deux fluides de référence pour calculer les constantes A et B [voir relation (2)]. Pour la réalisation pratique de la calibration se référer au mode d’emploi de l’appareil. En principe cette calibration est effectuée avec de l’air sec (tenir compte de la pression atmosphérique) et de l’eau très pure (bidistillée et/ou microfiltrée de résistivité très élevée &gt; 18 MΩ). 
+1.5.4. Vérification de la calibration 
+Pour vérifier la calibration, on mesure la masse volumique de fluides de référence. 
+Chaque jour, une vérification de la masse volumique de l’air est réalisée. Un écart entre la masse volumique théorique et celle observée supérieur à 0,00008 g/ml peut indiquer que le tube est encrassé. Il faut alors le nettoyer. Après nettoyage, on vérifie à nouveau la masse volumique de l’air; si cette vérification n’est pas concluante, il faut ajuster l’appareil. 
+On vérifie également la masse volumique de l’eau; si l’écart entre la masse volumique théorique et celle observée est supérieur à 0,00008 g/ml, on ajuste l’appareil. 
+Si la vérification de la température de la cellule est difficile, il est possible de vérifier directement la masse volumique d’une solution hydroalcoolique de TAV comparable à ceux des distillats analysés. 
+1.5.5. Contrôle 
+Lorsque la différence entre la masse volumique théorique d'une solution de référence (connue avec une incertitude de +/- 0,00005 g/ml) et la mesure est supérieure à 0,00008 g/ml, il faut vérifier la température de la cellule. 
+1.6. Échantillonnage et préparation des échantillons 
+(voir point 3 "Obtention du distillat" du présent chapitre) 
+1.7. Mode opératoire 
+Après obtention du distillat, on mesure sa masse volumique ou son TAV par densimétrie. 
+L’opérateur s’assure de la stabilité de la température de la cellule de mesure. Le distillat dans la cellule du densimètre ne doit pas contenir de bulles d’air et doit être homogène. Si l’on dispose d’un système d’éclairage qui permet de vérifier l’absence de bulles, l’éteindre rapidement après la vérification car la chaleur générée par la lampe influe sur la température de mesure. 
+Si l’appareil ne donne que la période, on calcule la masse volumique grâce aux constantes A et B (voir point 1.3). Si l’appareil ne donne pas directement le TAV, en connaissant la masse volumique on obtient ce TAV à l’aide des tables. 
+1.8. Expression des résultats 
+Le titre alcoométrique volumique du vin est celui obtenu pour le distillat. Il est exprimé en "% vol". 
+Si les conditions de température ne sont pas respectées, il est nécessaire de réaliser une correction pour l’exprimer à 20 °C. Le résultat est donné avec deux décimales. 
+1.9. Remarques 
+Le volume introduit dans la cellule doit être suffisamment important afin d’éviter une éventuelle contamination provoquée par l’échantillon précédent. Il est donc nécessaire de réaliser au moins deux déterminations. Si celles-ci ne donnent pas des résultats inclus dans la limite de répétabilité, une troisième détermination est nécessaire. Généralement les résultats des deux dernières déterminations sont homogènes et on élimine la première valeur. 
+1.10. Fidélité 
+Pour des échantillons de TAV compris entre 4 et 18 % vol. 
+Répétabilité (r) | = | 0,067 (% vol), | 
+Reproductibilité (R) | = | 0,0454 + 0,0105 × TAV. | 
+2. Essai interlaboratoires. Fidélité et exactitude sur ajout 
+Les caractéristiques de performance de la méthode qui sont indiquées au point 1.10 proviennent d’un essai interlaboratoires réalisé conformément aux procédures établies au niveau international, sur 6 échantillons et par 11 laboratoires. 
+Tous les détails et les calculs de répétabilité et de reproductibilité effectués dans cet essai sont décrits dans le chapitre "TITRE ALCOOMÉTRIQUE VOLUMIQUE" (point 4.B.2) du "Recueil international des méthodes d’analyses" de l’Organisation internationale de la vigne et du vin (édition 2004)." 
+-------------------------------------------------- 

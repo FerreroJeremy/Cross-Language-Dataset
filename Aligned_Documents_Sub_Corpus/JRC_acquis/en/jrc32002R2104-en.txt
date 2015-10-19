@@ -1,0 +1,48 @@
+Commission Regulation (EC) No 2104/2002 of 28 November 2002 adapting Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community and Commission Regulation (EC) No 1575/2000 implementing Council Regulation (EC) No 577/98 as far as the list of education and training variables and their codification to be used for data transmission from 2003 onwards are concerned 
+Commission Regulation (EC) No 2104/2002 
+of 28 November 2002 
+adapting Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community and Commission Regulation (EC) No 1575/2000 implementing Council Regulation (EC) No 577/98 as far as the list of education and training variables and their codification to be used for data transmission from 2003 onwards are concerned 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC) No 577/98 of 9 March 1998 on the organisation of a labour force sample survey in the Community(1), as amended by Regulation (EC) No 1991/2002 of the European Parliament and of the Council(2), and in particular Article 4(3) thereof, 
+Whereas: 
+(1) The evolution of techniques and concepts, in particular concerning the distinction between formal education and other forms of learning activities and the implementation of the classification on fields of education and training, makes it necessary to adapt the list of the education and training variables laid down in Article 4(1)(h) of Regulation (EC) No 577/98. 
+(2) As a consequence, the codification of these variables laid down in the Annex to Commission Regulation (EC) No 1575/2000 of 19 July 2000(3) should also be adapted. The new list and codification should be implemented already in 2003 so as to guarantee full compatibility with the 2003 ad hoc module on lifelong learning(4). 
+(3) The measures provided for in this Regulation are in accordance with the opinion delivered by the Statistical Programme Committee established by Council Decision 89/382/EEC, Euratom(5), 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Article 4(1)(h) of Council Regulation No 577/98 is replaced by the following: 
+%quot%(h) education and training: 
+participation in formal education or training during previous four weeks 
+- level, 
+- field; 
+participation in courses and other taught learning activities during previous four weeks 
+- total length, 
+- purpose of the most recent course or other taught activity, 
+- field of the most recent taught activity, 
+- participated in most recent taught activity during working hours; 
+educational attainment 
+- highest successfully completed level of education or training, 
+- field of this highest level of education and training, 
+- year when this highest level was successfully completed.%quot% 
+Article 2 
+The codification of the education and training variables to be used for data transmission for the years 2003 and onwards laid down in the Annex to the present Regulation replaces the corresponding variables included in the Annex to Commission Regulation (EC) No 1575/2000. 
+Article 3 
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 28 November 2002. 
+For the Commission 
+Pedro Solbes Mira 
+Member of the Commission 
+(1) OJ L 77, 14.3.1998, p. 3. 
+(2) OJ L 308, 9.11.2002, p. 1. 
+(3) OJ L 181, 20.7.2000, p. 16. 
+(4) OJ L 192, 20.7.2002, p. 16. 
+(5) OJ L 181, 28.6.1989, p. 47. 
+ANNEX 
+1. Variables are coded in the following way: 
+%gt%TABLE%gt% 
+2. The following variables are optional: 
+EDUCFIELD, COURFIELD, COURPURP, COURWORH. 
+3. The following variables are optional for 2003: 
+EDUCSTAT, EDUCLEVEL, COURATT, COURLEN. 

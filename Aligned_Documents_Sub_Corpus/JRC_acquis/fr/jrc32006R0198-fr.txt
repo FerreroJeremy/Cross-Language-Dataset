@@ -1,0 +1,389 @@
+Règlement (CE) n o 198/2006 de la Commission du 3 février 2006 portant application du règlement (CE) n o 1552/2005 du Parlement européen et du Conseil relatif aux statistiques sur la formation professionnelle en entreprise (Texte présentant de l'intérêt pour l'EEE) 
+Règlement (CE) no 198/2006 de la Commission 
+du 3 février 2006 
+portant application du règlement (CE) no 1552/2005 du Parlement européen et du Conseil relatif aux statistiques sur la formation professionnelle en entreprise 
+(Texte présentant de l'intérêt pour l'EEE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité établissant la Communauté européenne, 
+vu le règlement (CE) no 1552/2005 du Parlement européen et du Conseil du 7 septembre 2005 relatif aux statistiques sur la formation professionnelle en entreprise [1], et notamment son article 7, paragraphe 3, son article 8, paragraphe 2, son article 9, paragraphe 4, son article 10, paragraphe 2 et son article 11, paragraphe 3, 
+considérant ce qui suit: 
+(1) Le règlement (CE) no 1552/2005 établit un cadre commun pour la production de statistiques communautaires sur la formation professionnelle en entreprise. 
+(2) Pour appliquer ledit règlement, des mesures doivent être adoptées en ce qui concerne la méthode d’échantillonnage et les exigences en matière de précision, les tailles de l’échantillon requises pour satisfaire à ces exigences ainsi que les spécifications détaillées de la NACE et les catégories de taille selon lesquelles les résultats peuvent être ventilés. 
+(3) Il convient que la Commission détermine les données spécifiques à collecter pour les entreprises formatrices et non formatrices et les différents types de formation professionnelle. 
+(4) Des mesures d’application doivent être adoptées pour fixer les exigences de qualité concernant les données à collecter et à transmettre pour les statistiques communautaires sur la formation professionnelle en entreprise, la structure des rapports sur la qualité et toutes les mesures nécessaires à l’évaluation ou à l’amélioration de la qualité des données. 
+(5) Il convient de fixer la première année de référence pour laquelle les données doivent être collectées. 
+(6) Il y a lieu d’adopter des dispositions concernant le format technique approprié et la norme d’échange à respecter pour la transmission des données par voie électronique. 
+(7) Les mesures prévues au présent règlement sont conformes à l’avis du comité du programme statistique, 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+Le présent règlement établit les modalités d’application du règlement (CE) no 1552/2005 relatif aux statistiques sur la formation professionnelle en entreprise. 
+Article 2 
+La première année de référence pour laquelle les données doivent être collectées est l’année de calendrier 2005. 
+Article 3 
+L’annexe I précise les variables spécifiques devant être transmises à la Commission (Eurostat). 
+Article 4 
+L’annexe II précise la méthode d’échantillonnage et les exigences en matière de précision, les tailles de l’échantillon requises pour satisfaire à ces exigences ainsi que les spécifications détaillées de la NACE et les catégories de taille selon lesquelles les résultats peuvent être ventilés. 
+Article 5 
+Les États membres sont chargés d’assurer le contrôle des données, la correction des erreurs, l’imputation et la pondération. 
+L’annexe III définit les principes à appliquer pour l’imputation et la pondération des variables. Le rapport de qualité mentionne et justifie dûment toute dérogation à ces principes. 
+Article 6 
+L’annexe IV précise les modalités et le format de transmission des données à la Commission (Eurostat). 
+Article 7 
+Chaque État membre procède à l’évaluation de la qualité des données qu’il transmet et présente ladite évaluation sous la forme d’un rapport de qualité. Ledit rapport est élaboré et présenté à la Commission (Eurostat) selon le format spécifié à l’annexe V. 
+Article 8 
+En vue d’obtenir un niveau élevé d’harmonisation des résultats de l’enquête entre les pays, la Commission (Eurostat), en étroite collaboration avec les États membres, propose des recommandations méthodologiques et pratiques ainsi que des lignes directrices relatives à l’exécution de l’enquête, sous la forme d’un %quot%Manuel de l’Union européenne%quot%. 
+Article 9 
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 3 février 2006. 
+Par la Commission 
+Joaquín Almunia 
+Membre de la Commission 
+[1] JO L 255 du 30.9.2005, p. 1. 
+-------------------------------------------------- 
+ANNEXE I 
+VARIABLES 
+Note relative au tableau: 
+L’annexe III précise la signification des valeurs %quot%Base%quot% et %quot%Clé%quot% figurant dans la colonne %quot%Groupe de variables%quot%. 
+La valeur %quot%ID%quot% signifie que la variable est une %quot%variable d’identification%quot%. 
+Dans la colonne %quot%Type de variable%quot%, la valeur %quot%QL%quot% indique une %quot%variable qualitative%quot%, tandis que %quot%QT%quot% indique une %quot%variable quantitative%quot%. 
+Dénomination de la variable | Groupe de variables | Type de variable | Longueur de la variable | Format de la variable | Description de la variable | Remarque sur la variable | 
+COUNTRY | ID | | 2 | Alphanum. | Code pays | Aucune valeur manquante — Unique par pays | 
+ENTERPR | ID | | 6 | Num. | ID de l’entreprise | Aucune valeur manquante — Unique par cas | 
+WEIGHT | ID | | 10 | Num. | Deux positions décimales — Utiliser le %quot%.%quot% comme séparateur des décimales | Aucune valeur manquante | 
+NACE_SP | ID | | 4 | Num. | Plan d’échantillonnage NACE — Catégorie activité économique | Aucune valeur manquante | 
+SIZE_SP | ID | | 1 | Num. | Groupe de taille du plan d’échantillonnage | Aucune valeur manquante | 
+NSTRA_SP | ID | | 5 | Num. | Plan d’échantillonnage — Nombre d’entreprises dans la strate définie par NACE_SP et SIZE_SP, c.-à-d. la population | Aucune valeur manquante | 
+N_SP | ID | | 5 | Num. | Plan d’échantillonnage — Nombre d’entreprises échantillonnées dans la strate définie par NACE_SP et SIZE_SP | Aucune valeur manquante | 
+SUB_SP | ID | | 1 | Num. | Indicateur du sous-échantillon, indique si l’entreprise relève du sous-échantillon | Aucune valeur manquante | 
+N_RESPST | ID | | 5 | Num. | Nombre d’entreprises répondantes dans la strate définie par NACE_SP et SIZE_SP, c.-à-d. la population | Aucune valeur manquante | 
+N_EMPREG | ID | | 6 | Num. | Nombre de personnes occupées selon le registre | | 
+RESPONSE | ID | | 1 | Num. | Indicateur de réponse | Aucune valeur manquante | 
+PROC | ID | | 2 | Num. | Méthode de collecte de données de l’enregistrement | Aucune valeur manquante | 
+IDLANGUA | ID | | 2 | Alphanum. | Identification de la langue | | 
+IDREGION | ID | | 3 | Alphanum. | Identification de la région au niveau 1 de la NUTS | Aucune valeur manquante | 
+EXTRA1 | ID | | 10 | Num. | Variable auxiliaire 1 | | 
+EXTRA2 | ID | | 10 | Num. | Variable auxiliaire 2 | | 
+EXTRA3 | ID | | 10 | Num. | Variable auxiliaire 3 | | 
+A1 | Base | QL | 4 | Num. | CODE NACE réel | Variable de base — Aucune valeur manquante — Aucune imputation | 
+A2tot04 | Clé | QT | 6 | Num. | Nombre total de personnes occupées au 31.12.2004 | Variable clé — Aucune valeur manquante | 
+A2tot05 | Base | QT | 6 | Num. | Nombre total de personnes occupées au 31.12.2005 | Base variable — Aucune valeur manquante — Aucune imputation | 
+A2m05 | | QT | 6 | Num. | Nombre total d’hommes occupés au 31.12.2005 | | 
+A2f05 | | QT | 6 | Num. | Nombre total de femmes occupées au 31.12.2005 | | 
+A3a | | QT | 6 | Num. | Personnes occupées — Moins de 25 ans | | 
+A3b | | QT | 6 | Num. | Personnes occupées — De 25 à 54 ans | | 
+A3c | | QT | 6 | Num. | Personnes occupées — 55 ans et plus | | 
+A4 | Clé | QT | 12 | Num. | Nombre total d’heures travaillées durant l’année de référence 2005 par les personnes occupées | Variable clé — Aucune valeur manquante — En heures | 
+A4m | | QT | 12 | Num. | Nombre total d’heures travaillées durant l’année de référence 2005 par les travailleurs de sexe masculin | En heures | 
+A4f | | QT | 12 | Num. | Nombre total d’heures travaillées durant l’année de référence 2005 par les travailleurs de sexe féminin | En heures | 
+A5 | Clé | QT | 12 | Num. | Coût total de la main-d’œuvre (direct + indirect) de l’ensemble des personnes occupées durant l’année de référence 2005 | Variable clé — Aucune valeur manquante — en euros | 
+A6 | | QL | 1 | Num. | Produits, services ou procédés de production ou modes de livraison des produits et services ayant bénéficié d’une nouveauté ou d’une amélioration technologique CONSIDÉRABLE au cours de l’année de référence. | | 
+B1a | Base | QL | 1 | Num. | Cours de formation professionnelle continue (FPC) internes | Variable de base — Aucune valeur manquante — Aucune imputation | 
+B1b | Base | QL | 1 | Num. | Cours de FPC externes | Variable de base — Aucune valeur manquante — Aucune imputation | 
+B2aflag | Base | QL | 1 | Num. | Drapeau — Formation sur le tas | Variable de base — Aucune valeur manquante — Aucune imputation | 
+B2a | | QT | 6 | Num. | Participants à d’autres formes de FPC — Formation sur le tas | | 
+B2bflag | Base | QL | 1 | Num. | Drapeau — Rotation organisée sur les postes de travail | Variable de base — Aucune valeur manquante — Aucune imputation | 
+B2b | | QT | 6 | Num. | Participants à d’autres formes de FPC — Rotation organisée sur les postes de travail, échanges, détachements ou visites d’étude | | 
+B2cflag | Base | QL | 1 | Num. | Drapeau — Cercles d’apprentissage et de qualité | Variable de base — Aucune valeur manquante — Aucune imputation | 
+B2c | | QT | 6 | Num. | Participants à d’autres formes de FPC — Cercles d’apprentissage ou de qualité | | 
+B2dflag | Base | QL | 1 | Num. | Drapeau — Autoformation | Variable de base — Aucune valeur manquante — Aucune imputation | 
+B2d | | QT | 6 | Num. | Participants à d’autres formes de FPC — Autoformation | | 
+B2eflag | Base | QL | 1 | Num. | Drapeau — Participation à des conférences, etc. | Variable de base — Aucune valeur manquante — Aucune imputation | 
+B2e | | QT | 6 | Num. | Participants à d’autres formes de FPC — Participation à des conférences, etc. | | 
+B3a | | QL | 1 | Num. | Cours de FPC pour personnes occupées durant l’année précédente (2004) | | 
+B3b | | QL | 1 | Num. | Prévisions de cours de FPC destinés aux personnes occupées durant l’année prochaine (2006) | | 
+B4a | | QL | 1 | Num. | Autres formes de FPC destinées aux personnes occupées durant l’année précédente (2004) | | 
+B4b | | QL | 1 | Num. | Prévisions d’autres formes de FPC destinées aux personnes occupées durant l’année prochaine (2006) | | 
+C1tot | Clé | QT | 6 | Num. | Nombre total de participants à des cours de FPC | Variable clé — Aucune valeur manquante | 
+C1m | | QT | 6 | Num. | Participants à des cours de FPC — Travailleurs de sexe masculin | | 
+C1f | | QT | 6 | Num. | Participants à des cours de FPC — Travailleurs de sexe féminin | | 
+C2a | | QT | 6 | Num. | Participants à des actions de FPC — Moins de 25 ans | | 
+C2b | | QT | 6 | Num. | Participants à des actions de FPC — De 25 à 54 ans | | 
+C2c | | QT | 6 | Num. | Participants à des actions de FPC — 55 ans et plus | | 
+C3tot | Clé | QT | 10 | Num. | Temps de travail rémunéré (en heures) consacré à l’ensemble des cours de FPC | Variable clé — Aucune valeur manquante — En heures | 
+C3i | | QT | 10 | Num. | Temps de travail rémunéré (en heures) pour des cours de FPC internes | En heures | 
+C3e | | QT | 10 | Num. | Temps de travail rémunéré (en heures) pour des cours de FPC externes | En heures | 
+C4tot | Clé | QT | 10 | Num. | Temps de travail rémunéré (en heures) consacré à l’ensemble des cours de FPC | Variable clé — Aucune valeur manquante — En heures | 
+C4m | | QT | 10 | Num. | Temps de travail rémunéré (en heures) consacré à des cours de FPC — Travailleurs de sexe masculin | En heures | 
+C4f | | QT | 10 | Num. | Temps de travail rémunéré (en heures) consacré à des cours de FPC — Travailleurs de sexe féminin | En heures | 
+C5a | | QT | 10 | Num. | Temps de travail rémunéré en heures — %quot%Langues étrangères%quot% (222) et %quot%Langue maternelle%quot% (223) | En heures | 
+C5b | | QT | 10 | Num. | Temps de travail rémunéré en heures — %quot%Ventes%quot% (341) et %quot%Marketing%quot% (342) | En heures | 
+C5c | | QT | 10 | Num. | Temps de travail rémunéré en heures — %quot%Comptabilité%quot% (344) et %quot%Finance%quot% (343), %quot%Gestion et administration%quot% (345) et %quot%Travaux de bureau%quot% (346) | En heures | 
+C5d | | QT | 10 | Num. | Temps de travail rémunéré en heures — %quot%Compétences personnelles/développement%quot% (090), %quot%Vie professionnelle%quot% (347) | En heures | 
+C5e | | QT | 10 | Num. | Temps de travail rémunéré en heures — %quot%Sciences informatique%quot% (481) et %quot%Utilisation de l’ordinateur%quot% (482) | En heures | 
+C5f | | QT | 10 | Num. | Temps de travail rémunéré en heures — %quot%Ingénierie, industrie de transformation et construction%quot% (5) | En heures | 
+C5g | | QT | 10 | Num. | Temps de travail rémunéré en heures — %quot%Protection de l’environnement%quot% (850) et %quot%Santé et sécurité du travail%quot% (862) | En heures | 
+C5h | | QT | 10 | Num. | Temps de travail rémunéré en heures — %quot%Services aux particuliers%quot% (81), %quot%Services de transport%quot% (84), %quot%Protection des biens et des personnes%quot% (861) et %quot%Sécurité militaire%quot% (863) | En heures | 
+C5i | | QT | 10 | Num. | Temps de travail rémunéré en heures — Autres thèmes de formation | En heures | 
+C6a | | QT | 10 | Num. | Temps de travail rémunéré (en heures) — Écoles, universités et autres institutions d’enseignement supérieur | En heures | 
+C6b | | QT | 10 | Num. | Temps de travail rémunéré (en heures) — Institutions publiques de formation (financées ou orientées par les pouvoirs publics; p.ex. centre d’éducation pour adultes) | En heures | 
+C6c | | QT | 10 | Num. | Temps de travail rémunéré (en heures) — Entreprises privées de formation | En heures | 
+C6d | | QT | 10 | Num. | Temps de travail rémunéré (en heures) — Entreprises privées dont l’activité principale n’est pas la formation (fournisseurs d’équipement, sociétés liées) | En heures | 
+C6e | | QT | 10 | Num. | Temps de travail rémunéré (en heures) — Associations patronales, chambres de commerce, organismes sectoriels | En heures | 
+C6f | | QT | 10 | Num. | Temps de travail rémunéré (en heures) — Organisations syndicales | En heures | 
+C6g | | QT | 10 | Num. | Temps de travail rémunéré (en heures) — Autres prestataires de formation | En heures | 
+C7aflag | | QL | 1 | Num. | Drapeau — Frais | | 
+C7a | | QT | 10 | Num. | Coûts des cours de FPC — Frais et montants dus pour des cours destinés aux travailleurs | En euros | 
+C7bflag | | QL | 1 | Num. | Drapeau — Frais de déplacement | | 
+C7b | | QT | 10 | Num. | Coûts des cours de FPC — Remboursements de frais de déplacement et de séjour | En euros | 
+C7cflag | | QL | 1 | Num. | Drapeau — Coûts de la main-d’œuvre pour les formateurs | | 
+C7c | | QT | 10 | Num. | Coûts des cours de FPC — Coûts de la main-d’œuvre pour les formateurs internes | En euros | 
+C7dflag | | QL | 1 | Num. | Drapeau — Centre de formation, matériel pédagogique, etc. | | 
+C7d | | QT | 10 | Num. | Coûts des cours de FPC — Centre de formation ou location de salles et matériel pédagogique destinés à des cours de FPC | En euros | 
+C7sflag | | QL | 1 | Num. | Drapeau %quot%Sous-total uniquement%quot% | | 
+C7sub | Clé | QT | 10 | Num. | Sous-total des coûts de FPC | Variable clé — Aucune valeur manquante — En euros | 
+PAC | Clé | QT | 10 | Num. | Coût lié à l’absence du personnel — À calculer (PAC=C3tot*A5/A4) | Variable clé — Aucune valeur manquante — En euros | 
+C8aflag | | QL | 1 | Num. | Drapeau — Participation financière à des actions de FPC | | 
+C8a | | QT | 10 | Num. | Participation financière à des actions de FPC | En euros | 
+C8bflag | | QL | 1 | Num. | Drapeau — Recettes provenant d’actions de FPC | | 
+C8b | | QT | 10 | Num. | Recettes provenant d’actions de FPC | En euros | 
+C7tot | Clé | QT | 10 | Num. | Coût total de la FPC — À calculer (C7sub + C8a – C8b) | Clé variable — Aucune valeur manquante — En euro | 
+C9a1 | | QL | 1 | Num. | Travailleurs migrants et minorités ethniques — Nombre de personnes occupées | | 
+C9a2 | | QL | 1 | Num. | Travailleurs migrants et minorités ethniques — Cours spécifiques | | 
+C9b1 | | QL | 1 | Num. | Personnes handicapées — Nombre de personnes occupées | | 
+C9b2 | | QL | 1 | Num. | Personnes handicapées — Cours spécifiques | | 
+C9c1 | | QL | 1 | Num. | Personnes sans qualification formelle — Nombre de personnes occupées | | 
+C9c2 | | QL | 1 | Num. | Personnes sans qualification formelle — Cours spécifiques | | 
+C9d1 | | QL | 1 | Num. | Personnes risquant de perdre leur emploi/d’être licenciées — Nombre de personnes occupées | | 
+C9d2 | | QL | 1 | Num. | Personnes risquant de perdre leur emploi/d’être licenciées — Cours spécifiques | | 
+C10a1 | | QL | 1 | Num. | Personnes sous contrat à temps partiel — Nombre de personnes occupées | | 
+C10a2 | | QL | 1 | Num. | Cours de FPC destinés aux personnes sous contrat à temps partiel | | 
+C10b1 | | QL | 1 | Num. | Personnes sous contrat à durée déterminée — Nombre de personnes occupées | | 
+C10b2 | | QL | 1 | Num. | Cours de FPC destinés aux personnes sous contrat à durée déterminée | | 
+D1 | | QL | 1 | Num. | Centre de formation propre ou partagé | | 
+D2 | | QL | 1 | Num. | Personne ou unité au sein de votre entreprise chargée de l’organisation de la FPC | | 
+D3 | | QL | 1 | Num. | L’entreprise recourt à un service de conseil externe | | 
+D4 | | QL | 1 | Num. | L’entreprise applique de manière régulière des procédures formelles en vue d’évaluer les besoins futurs de l’entreprise en matière de compétences | | 
+D5 | | QL | 1 | Num. | L’entreprise réalise des entretiens structurés avec ses salariés en vue d’établir les besoins de formation spécifiques des travailleurs | | 
+D6 | | QL | 1 | Num. | La démarche de planification de la FPC dans l’entreprise aboutit à un plan ou à un programme de formation écrit | | 
+D7 | | QL | 1 | Num. | Budget annuel de formation, comprenant la FPC | | 
+D8 | | QL | 1 | Num. | L’entreprise mesure la satisfaction des personnes formées après la formation | | 
+D9 | | QL | 1 | Num. | L’entreprise évalue les personnes formées après la formation en vue de vérifier si les compétences ciblées ont été réellement acquises | | 
+D10 | | QL | 1 | Num. | L’entreprise évalue le comportement professionnel des participants et l’évolution de leurs performances à la suite de la formation | | 
+D11 | | QL | 1 | Num. | L’entreprise mesure l’incidence de la formation sur ses performances au moyen d’indicateurs | | 
+D12 | | QL | 1 | Num. | Accords nationaux, sectoriels ou autres entre partenaires sociaux qui ont influencé les plans, les politiques et les pratiques en matière de FPC | | 
+D13 | | QL | 1 | Num. | Existence d’une structure formelle | | 
+D13a | | QL | 1 | Num. | Rôle de la structure formelle — Détermination des objectifs et priorités en matière d’actions de FPC | | 
+D13b | | QL | 1 | Num. | Rôle de la structure formelle — Détermination des critères de sélection de la population cible qui devrait participer à la FPC | | 
+D13c | | QL | 1 | Num. | Rôle de la structure formelle — Thème de l’action de FPC | | 
+D13d | | QL | 1 | Num. | Rôle de la structure formelle — Processus budgétaire lié à la FPC | | 
+D13e | | QL | 1 | Num. | Rôle de la structure formelle — Procédure de sélection des prestataires de FPC externes | | 
+D13f | | QL | 1 | Num. | Rôle de la structure formelle — Évaluation des résultats de la formation | | 
+D14a | | QL | 1 | Num. | Service de conseil public visant à déterminer les besoins en formation et/ou à élaborer des plans de formation | | 
+D14b | | QL | 1 | Num. | Subventions financières réduisant le coût de formation des travailleurs | | 
+D14c | | QL | 1 | Num. | Déductibilité fiscale des dépenses de formation des travailleurs | | 
+D14d | | QL | 1 | Num. | Procédures visant à garantir la qualité des formateurs (p.ex. au moyen de registres nationaux, d’évaluations, etc.) | | 
+D14e | | QL | 1 | Num. | Fourniture de normes et de cadres de qualifications et de certification reconnus | | 
+D15a | | QL | 1 | Num. | Coût élevé des cours de FPC | Max. 3 — Aucun classement | 
+D15b | | QL | 1 | Num. | Manque de cours de FPC adéquats sur le marché | Max. 3 — Aucun classement | 
+D15c | | QL | 1 | Num. | Difficulté d’évaluation des besoins de l’entreprise en matière de FPC | Max. 3 — Aucun classement | 
+D15d | | QL | 1 | Num. | Des efforts de formation très importants ont été consentis lors d’une année précédente | Max. 3 — Aucun classement | 
+D15e | | QL | 1 | Num. | Charge de travail élevée et temps disponible des travailleurs limité | Max. 3 — Aucun classement | 
+D15f | | QL | 1 | Num. | Le niveau actuel de formation répond aux besoins de l’entreprise | Max. 3 — Aucun classement | 
+D15g | | QL | 1 | Num. | L’importance accordée à la FPI est plus grande que celle accordée à la FPC | Max. 3 — Aucun classement | 
+D15h | | QL | 1 | Num. | Autres raisons | Max. 3 — Aucun classement | 
+E1a | | QL | 1 | Num. | Les aptitudes et compétences existantes correspondaient aux besoins actuels de l’entreprise | Max. 3 — Aucun classement | 
+E1b | | QL | 1 | Num. | La stratégie préférée par l’entreprise a été de recruter des personnes possédant les aptitudes et compétences requises | Max. 3 — Aucun classement | 
+E1c | | QL | 1 | Num. | L’entreprise a éprouvé des difficultés à évaluer ses besoins en matière de FPC | Max. 3 — Aucun classement | 
+E1d | | QL | 1 | Num. | Absence de cours de FPC adéquats sur le marché | Max. 3 — Aucun classement | 
+E1e | | QL | 1 | Num. | Coût des cours de FPC trop élevé pour l’entreprise | Max. 3 — Aucun classement | 
+E1f | | QL | 1 | Num. | L’entreprise a préféré se concentrer sur la FPI plutôt que sur la FPC | Max. 3 — Aucun classement | 
+E1g | | QL | 1 | Num. | Un investissement en FPC consenti une année antérieure n’a pas dû être répété en 2005 | Max. 3 — Aucun classement | 
+E1h | | QL | 1 | Num. | Les travailleurs n’ont pas disposé du temps nécessaire à la participation à des actions de FPC | Max. 3 — Aucun classement | 
+E1i | | QL | 1 | Num. | Autres raisons | Max. 3 — Aucun classement | 
+F1tot05 | Base | QT | 6 | Num. | Nombre total de participants à des actions de FPI dans l’entreprise durant l’année 2005 | Variable de base — Aucune valeur manquante — Aucune imputation | 
+F1m05 | | QT | 6 | Num. | Nombre total de travailleurs de sexe masculin ayant participé à des actions de FPI dans l’entreprise durant l’année 2005 | | 
+F1f05 | | QT | 6 | Num. | Nombre total de travailleurs de sexe féminin ayant participé à des actions de FPI dans l’entreprise durant l’année 2005 | | 
+F2aflag | | QL | 1 | Num. | Drapeau — Coûts individuels de la main-d’œuvre pour la FPI | | 
+F2a | | QT | 10 | Num. | Coûts de FPI — Coûts de la main-d’œuvre pour les individus inscrits à une action de FPI | En euros | 
+F2bflag | | QL | 1 | Num. | Drapeau — Autres coûts de FPI | | 
+F2b | | QT | 10 | Num. | Coûts de FPI — Autres coûts — Honoraires de formation, frais de déplacement, matériel pédagogique, coûts des centres de formation, etc. | En euros | 
+F2cflag | | QL | 1 | Num. | Drapeau — Coûts de la main-d’œuvre pour le formateur ou le mentor FPI | Variable optionnelle | 
+F2c | | QT | 10 | Num. | Coûts de FPI — Coûts de la main-d’œuvre pour les formateurs ou les mentors FPI | Variable optionnelle — En euros | 
+F3aflag | | QL | 1 | Num. | Drapeau — Participation financière à la FPI | | 
+F3a | | QT | 10 | Num. | Participation financière à la FPI | En euros | 
+F3bflag | | QL | 1 | Num. | Drapeau — Recettes provenant d’actions de FPI | | 
+F3b | | QT | 10 | Num. | Recettes provenant d’actions de FPI | En euros | 
+F2tot | Clé | QT | 10 | Num. | Coûts totaux de la FPI (F2b + F3a – F3b) | Variable clé — Aucune valeur manquante – En euros | 
+-------------------------------------------------- 
+ANNEXE II 
+ÉCHANTILLON 
+1. Le répertoire d’entreprises utilisé à des fins statistiques tel que visé par le règlement (CEE) no 2186/93 du Conseil [1] constitue normalement la principale source de la base d’échantillonnage. Un échantillon aléatoire stratifié d’entreprises, représentatif au niveau national, est extrait de ladite base. 
+2. L’échantillon est stratifié par catégories de la NACE et par classe de taille dans le respect des critères minimaux suivants: 
+- 20 catégories de la NACE rév. 1.1 [C, D (15-16, 17-19, 21-22, 23-26, 27-28, 29-33, 34-35, 20 + 36-37), E, F, G (50, 51, 52), H, I (60-63, 64), J (65-66, 67), K + O], 
+- 3 classes de taille d’entreprises, en fonction du nombre de personnes occupées: (10-49) (50-249) (250 et plus). 
+3. Le calcul de la taille de l’échantillon garantit que la valeur maximale de la demi-longueur de l’intervalle de confiance de niveau 95 % (demi-écart de la fourchette de sondage) est de 0,2 pour les paramètres estimés, à savoir la proportion %quot%d’entreprises formatrices%quot% (compte tenu du taux de non-réponse dans l’échantillon) dans chacun des soixante éléments stratifiés déterminés ci-dessus. 
+4. La formule suivante peut être utilisée pour définir la taille de l’échantillon: 
+nh = 1/[c2 . teh + 1/Nh] / rh 
+où: 
+nh = le nombre d’unités d’échantillonnage dans la case de la strate considérée, h 
+rh = le taux de réponse anticipé dans la case de la strate considérée, h 
+c = la valeur maximale de la demi-longueur de l’intervalle de confiance 
+teh = la proportion anticipée d’entreprises formatrices dans la case de la strate considérée, h 
+Nh = le nombre total d’entreprises (formatrices ou non) dans la case de la strate considérée, h 
+[1] JO L 196 du 5.8.1993, p. 1. Règlement modifié en dernier lieu par le règlement (CE) no 1882/2003 du Parlement européen et du Conseil (JO L 284 du 31.10.2003, p. 1). 
+-------------------------------------------------- 
+ANNEXE III 
+Principes d’imputation et pondération des enregistrements 
+Les pays prennent toutes les mesures appropriées pour réduire la non-réponse totale (pour une unité) et partielle (pour une variable). Avant de procéder à l’imputation, les pays fournissent tous les efforts raisonnables pour utiliser d’autres sources de données. 
+Les variables de base, pour lesquelles aucune %quot%valeur manquante%quot% n’est acceptée et aucune imputation n’est autorisée, sont les suivantes: 
+- A1, A2tot05, B1a, B1b, B2aFlag, B2bFlag, B2cFlag, B2dFlag, B2eFlag, F1tot05. 
+Les variables clés, pour lesquelles il convient de tout mettre en œuvre afin d’éviter l’indication %quot%valeur manquante%quot% et pour lesquelles l’imputation est recommandée, sont les suivantes: 
+- A2tot04, A4, A5, C1tot, C3tot, C4tot, C7sub, C7tot, PAC, F2tot. 
+En cas de non-réponse partielle, l’imputation est recommandée, dans les limites générales suivantes (les experts des États membres doivent en tout temps faire appel à leur jugement professionnel pour l’application des présentes règles). 
+1. Lorsqu’un enregistrement contient moins de 50 % des variables présentées, ledit enregistrement est normalement considéré comme une non-réponse totale. 
+2. Pour une case NACE/Taille donnée, il n’est pas permis de procéder à une imputation si, pour plus de 50 % des entreprises répondantes, le pourcentage de données manquantes est supérieur à 25 % des variables quantitatives. 
+3. Pour une case NACE/Taille donnée, l’imputation ne peut être pratiquée sur une variable quantitative si la proportion d’entreprises répondantes pour ladite variable est inférieure à 50 %. 
+4. Pour une case NACE/Taille donnée, l’imputation ne peut être pratiquée sur une variable qualitative si la proportion d’entreprises répondantes pour ladite variable est inférieure à 80 %. 
+Les variables quantitatives et qualitatives sont recensées à l’annexe I. 
+Tout écart par rapport à ces principes est dûment motivé et justifié dans le rapport de qualité national. 
+Les États membres calculent et transmettent un facteur de pondération à appliquer à chaque enregistrement de données, accompagné de toute variable auxiliaire utilisée pour calculer ledit facteur. Lesdites variables seront enregistrées sous les dénominations EXTRA1, EXTRA2, EXTRA3 au besoin. La méthode adoptée pour déterminer les facteurs de pondération est détaillée dans le rapport de qualité. 
+-------------------------------------------------- 
+ANNEXE IV 
+Format des fichiers de données et règles de transmission 
+Les données sont transmises à la Commission (Eurostat) sous format électronique au moyen d’une application logicielle de transmission de données sécurisée (STADIUM/EDAMIS) mise à disposition par la Commission (Eurostat). 
+Les pays transmettent deux séries de données vérifiées à ESTAT: 
+a) la série de données obtenue avant l’imputation, après les vérifications préliminaires; 
+b) la série de données obtenue après l’imputation et vérifiée intégralement. 
+Les deux séries de données contiennent les variables détaillées à l’annexe I. 
+Les deux fichiers sont présentés au format %quot%comma separated variable%quot% (.csv). Le premier enregistrement de chaque fichier est un enregistrement en-tête qui contient les %quot%dénominations des variables%quot% définies à l’annexe I. Les enregistrements suivants détaillent les valeurs desdites variables pour chaque entreprise répondante. 
+-------------------------------------------------- 
+ANNEXE V 
+FORMAT DU RAPPORT DE QUALITÉ 
+1. PERTINENCE 
+Exécution de l’enquête et mesure dans laquelle les statistiques répondent aux besoins des utilisateurs actuels et potentiels: 
+- description et classification des utilisateurs, 
+- besoins individuels de chaque groupe d’utilisateurs, 
+- évaluation de la mesure dans laquelle il a été satisfait auxdits besoins. 
+2. PRÉCISION 
+2.1. Erreurs d’échantillonnage 
+- Description du plan d’échantillonnage et de l’échantillon réalisé, 
+- description du calcul des pondérations définitives, y compris le modèle de traitement des non-réponses et les variables auxiliaires utilisées, 
+- estimateur utilisé, p.ex. estimateur d’Horvitz-Thompson, 
+- variance des estimations en fonction des strates de l’échantillon, 
+- logiciel d’estimation de la variance, 
+- en particulier, la description des variables auxiliaires ou des informations utilisées devrait figurer dans le rapport pour permettre à Eurostat de recalculer les pondérations définitives, ce qui est nécessaire pour l’estimation de la variance, 
+- en cas d’analyse des non-réponses, description des biais dans l’échantillon et résultats. 
+Tableaux à fournir (ventilation par catégories de la NACE et classe de taille selon le plan d’échantillonnage national): 
+- nombre d’entreprises de la base de sondage, 
+- nombre d’entreprises de l’échantillon. 
+Tableaux à fournir (ventilés par catégories de la NACE et classe de taille selon le plan d’échantillonnage national, moyennant affectation selon les caractéristiques observées des entreprises): 
+- coefficients de variation [1] pour les statistiques clés suivantes: 
+- le nombre total de personnes occupées, 
+- le nombre total d’entreprises ayant dispensé une FPC, 
+- le rapport entre le nombre total d’entreprises ayant dispensé une FPC et le nombre total d’entreprises, 
+- le nombre total d’entreprises ayant dispensé des cours de FPC, 
+- le rapport entre le nombre total d’entreprises ayant dispensé des cours de FPC et le nombre total d’entreprises, 
+- le nombre total de personnes occupées dans des entreprises ayant dispensé une FPC, 
+- le nombre total de participants à des cours de FPC, 
+- le rapport entre le nombre total de participants à des cours de FPC et le nombre total de travailleurs, 
+- le rapport entre le nombre total de participants à des cours de FPC et le nombre total de personnes occupées dans des entreprises ayant dispensé une FPC, 
+- le coût total des cours de FPC, 
+- le nombre total d’entreprises qui dispensent une FPI, 
+- le nombre total de participants à des actions de FPI, 
+- le coût total de la FPI, 
+- le rapport entre le nombre total d’entreprises qui dispensent une FPI et le nombre total d’entreprises. 
+2.2. Erreurs qui ne sont pas dues à l’échantillonnage 
+2.2.1. Erreurs de couverture 
+- Description du répertoire utilisé pour l’échantillonnage et de la qualité générale de celui-ci, 
+- informations figurant dans le répertoire et fréquence de mise à jour de celui-ci, 
+- erreurs dues aux écarts entre la base de sondage et la population cible et les sous-populations (sur-couverture, sous-couverture, erreurs de classification), 
+- méthodes utilisées pour obtenir ces informations, 
+- notes relatives au traitement des erreurs de classification. 
+Tableaux à fournir (ventilation par catégories de la NACE et classe de taille selon le plan d’échantillonnage national, moyennant affectation selon les caractéristiques observées des entreprises): 
+- nombre d’entreprises, 
+- rapport entre le nombre d’entreprises pour lesquelles les strates observées correspondent aux strates d’échantillonnage et le nombre d’entreprises des strates d’échantillonnage. Indiquer si les modifications d’activités ont été prises en compte. 
+2.2.2. Erreurs de mesure 
+Lorsque cela est indiqué, évaluation des erreurs intervenues au stade de la collecte des données, dues par exemple: 
+- à la conception du questionnaire (résultats des tests préliminaires ou des méthodes de laboratoire, stratégies d’interrogation) — questionnaire à soumettre en annexe, 
+- à l’unité ou à la personne déclarante (réaction des répondants): 
+- erreurs de mémoire, 
+- manque d’attention des répondants, 
+- effets de l’âge, de l’éducation, etc., 
+- erreurs lors du remplissage des formulaires, 
+- au système informatique de l’entité répondante et à l’utilisation des archives administratives (correspondance entre le concept administratif et celui de l’enquête, p.ex. période de référence, disponibilité de données individuelles), 
+- aux modes de collecte de données (comparaison de différentes méthodes de collecte de données), 
+- aux caractéristiques et au comportement de l’enquêteur: 
+- caractéristiques socio-économiques, 
+- différences dans la façon d’administrer le questionnaire, 
+- différences dans l’assistance apportée au répondant, 
+- études ou techniques spécifiques permettant d’évaluer ces erreurs, 
+- méthodes utilisées pour réduire ce type d’erreurs, 
+- commentaires détaillés relatifs aux problèmes rencontrés avec le questionnaire dans son ensemble ou avec des questions en particulier (commentaires sur toutes les variables), 
+- description et évaluation des mesures prises pour garantir une qualité élevée des données sur les %quot%participants%quot% et ne pas collecter les %quot%participants par action de formation%quot%. 
+2.2.3. Erreurs de traitement 
+Description du processus d’édition des données: 
+- système et outils de traitement utilisés, 
+- erreurs dues à la codification, à l’édition, à la pondération et à la tabulation, etc., 
+- vérification de la qualité aux niveaux macro/micro, 
+- ventilation des corrections et des éditions ayant échoué en %quot%valeurs manquantes%quot%, %quot%erreurs%quot% et %quot%anomalies%quot%. 
+2.2.4. Erreurs dues à la non-réponse 
+- Description des mesures entreprises en ce qui concerne les relances, 
+- taux de réponse totale et partielle, 
+- évaluation des non-réponses totales, 
+- évaluation des non-réponses partielles, 
+- rapport complet sur les procédures d’imputation, y compris les méthodes d’imputation et/ou de repondération, 
+- notes méthodologiques et résultats de l’analyse des non-réponses ou des autres méthodes d’évaluation des effets de la non-réponse. 
+Tableaux à fournir (ventilation par catégories de la NACE et classe de taille selon le plan d’échantillonnage national, moyennant affectation selon les caractéristiques observées des entreprises): 
+- taux de réponse totale [2], 
+- taux de réponse partielle [3] pour les questions suivantes, s’agissant de l’ensemble des répondants: 
+- nombre total d’heures de travail, exprimé en fonction de l’ensemble des répondants, 
+- coût total de la main-d’œuvre, exprimé en fonction de l’ensemble des répondants, 
+- taux de réponse partielle pour les questions suivantes, s’agissant des entreprises offrant des cours de FPC: 
+- cours de FPC par groupes d’âge spécifiques, exprimés en fonction des entreprises offrant des cours de FPC, 
+- nombre total de participants, hommes et femmes, à des cours de FPC, exprimé en fonction des entreprises offrant des cours de FPC, 
+- nombre total d’heures consacrées à des cours de FPC, pour les hommes et les femmes, exprimé en fonction des entreprises offrant des cours de FPC, 
+- nombre d’heures consacrées à des cours de FPC gérés en interne et en externe, exprimé en fonction des entreprises offrant des cours de FPC, 
+- coût total des cours de FPC, exprimé en fonction des entreprises offrant des cours de FPC, 
+- taux de réponse partielle pour les questions suivantes, s’agissant des entreprises offrant une FPI: 
+- coût total de la FPI, exprimé en fonction des entreprises offrant une FPI. 
+3. ACTUALITÉ ET PONCTUALITÉ 
+- Tableau des dates auxquelles chacune des phases suivantes du projet a débuté et s’est terminée: 
+- collecte des données, 
+- envoi des questionnaires, 
+- rappels et suivi, 
+- entretiens en face-à-face, 
+- vérification et édition des données, 
+- validation et imputation, 
+- enquête sur les non-réponses (au besoin), 
+- estimations, 
+- transmission des données à Eurostat, 
+- diffusion des résultats nationaux. 
+4. ACCESSIBILITÉ ET CLARTÉ 
+- Identifier quels sont les résultats qui ont été transmis aux entreprises ou qui le seront, 
+- plan de diffusion des résultats, 
+- copie de tout document méthodologique lié aux statistiques fournies. 
+5. COMPARABILITÉ 
+- Lorsqu’ils l’estiment approprié et pertinent, les pays formuleront leurs observations relatives: 
+- aux écarts commis par rapport au questionnaire européen, 
+- au lien éventuel entre l’enquête et une autre enquête au niveau national, 
+- à la mesure dans laquelle l’enquête a été réalisée au moyen de données existantes des répertoires, 
+- aux définitions et aux recommandations. 
+6. COHÉRENCE 
+- Comparaison des statistiques relatives au même phénomène ou à la même variable provenant d’autres enquêtes ou d’autres sources, 
+- évaluation de la cohérence avec les statistiques structurelles sur les entreprises pour la variable %quot%Nombre de personnes occupées%quot%, exprimée en fonction du groupe par catégories de la NACE et par taille, 
+- évaluation de la cohérence de la distribution par groupe d’âge des personnes occupées (A3a, A3b, A3c) avec d’autres sources de données nationales, exprimée en fonction du groupe par catégories de la NACE et par taille (selon disponibilité), 
+- évaluation de la cohérence de la distribution par groupe d’âge des participants à la FPC (C2a, C2b, C2c) avec d’autres sources de données nationales, exprimée en fonction du groupe par catégories de la NACE et par taille (selon disponibilité). 
+Tableaux à fournir (ventilation par catégories de la NACE et classe de taille selon le plan d’échantillonnage national, moyennant affectation selon les caractéristiques observées des entreprises): 
+- nombre de personnes occupées selon les statistiques structurelles sur les entreprises [code 16 11 0 du règlement (CE) no 2700/98 de la Commission [4]], 
+- nombre de personnes occupées selon l’EFPC3, 
+- pourcentage de différence (SSE — FPCS3)/SSE, 
+- nombre de personnes occupées pour chacun des groupes d’âge A3a, A3b et A3c, 
+- nombre de personnes occupées selon une autre source pour chaque groupe d’âge, 
+- pourcentage de différence pour (A3x — autre source nationale A3x)/A3x (où x = a,b,c), 
+- nombre de participants à des actions de FPC pour chacun des groupes d’âge C2a, C2b et C2c, 
+- nombre de participants à des actions de FPC selon une autre source pour chaque groupe d’âge, 
+- pourcentage de participants à des actions de FPC (C2x — autre source nationale pour C2x)/C2x (où x = a,b,c). 
+7. CHARGE ET BÉNÉFICE 
+- Analyse de la charge et du bénéfice au niveau national, par exemple au moyen de la prise en compte: 
+- du temps moyen de réponse à chaque questionnaire, 
+- des questions et variables ayant posé problème, 
+- des variables ayant présenté le plus/le moins d’utilité pour décrire la FPC au niveau national, 
+- du niveau de satisfaction estimé ou réel des utilisateurs des données au niveau national, 
+- de la différence de charge selon la taille (petite ou grande) des entreprises, 
+- des efforts consentis pour réduire la charge. 
+[1] Le coefficient de variation est le rapport entre la racine carrée de la variance de l’estimateur et la valeur attendue. Il est estimé par le rapport entre la racine carrée de l’estimation de la variance d’échantillonnage et la valeur estimée. L’estimation de la variance d’échantillonnage doit tenir compte du plan d’échantillonnage et des modifications de strates. 
+[2] Le taux de réponse total (par unité) est le rapport entre le nombre de répondants qui appartiennent au champ de l’enquête et le nombre de questionnaires envoyés à la population sélectionnée. 
+[3] Le taux de réponse partielle (par variable) pour une variable donnée est le rapport entre le nombre de données disponibles et le nombre de données disponibles et manquantes (égal au nombre de répondants qui appartiennent au champ de l’enquête). 
+[4] JO L 344 du 18.12.1998, p. 49. Règlement modifié en dernier lieu par le règlement (CE) no 1670/2003 (JO L 244 du 29.9.2003, p. 74). 
+-------------------------------------------------- 

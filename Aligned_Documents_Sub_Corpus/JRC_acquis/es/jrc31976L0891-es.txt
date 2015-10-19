@@ -1,0 +1,441 @@
+Directiva 76/891/CEE del Consejo, de 4 de noviembre de 1976, relativa a la aproximación de las legislaciones de los Estados Miembros sobre los contadores de energía eléctrica 
+DIRECTIVA DEL CONSEJO 
+de 4 de noviembre de 1976 
+relativa a la aproximación de las legislaciones de los Estados miembros sobre los contadores de energía eléctrica 
+( 76/891/CEE ) 
+EL CONSEJO DE LAS COMUNIDADES EUROPEAS , 
+Visto el Tratado constitutivo de la Comunidad Económica Europea y , en particular , su artículo 100 , 
+Vista la propuesta de la Comisión , 
+Visto el dictamen del Parlamento Europeo (1) , 
+Visto el dictamen del Comité económico y social (2) , 
+Considerando que , en los Estados miembros , tanto la construcción como las modalidades de control de los contadores de energía eléctrica son objeto de disposiciones reglamentarias imperativas que difieren de un Estado miembro a otro y obstaculizan , por consiguiente , los intercambios de tales contadores ; y que es preciso , pues , proceder a la aproximación de dichas disposiciones ; 
+Considerando que la Directiva 71/376/CEE del Consejo , de 26 de julio de 1971 , relativa a la aproximación de las legislaciones de los Estados miembros sobre las disposiciones comunes a los instrumentos de medida y a los métodos de control metrológico (3) , modificada en último término por la directiva 72/427/CEE (4) , estableció los procedimientos de aprobación CEE de modelo y de primera comprobación CEE ; y que , con arreglo a dicha Directiva , conviene determinar , respecto a los contadores de energía eléctrica , las prescripciones técnicas de construcción y funcionamiento , 
+HA ADOPTADO LA PRESENTE DIRECTIVA : 
+Artículo 1 
+La presente Directiva se aplicará a los contadores de inducción , de uso corriente de conexión directa , nuevos , de tarifa simple o tarifas múltiples destinados a medir la energía activa en corriente monofásica y polifásica de una frecuencia de 50 Hz . 
+Artículo 2 
+Los contadores de energía eléctrica a los que se podrá imponer las marcas y signos CEE se describen en el Anexo de la presente Directiva . 
+Dichos contadores serán objeto de una aprobación CEE de modelo y se someterán a la primera comprobación CEE . 
+Artículo 3 
+Los Estados miembros no podrán denegar , prohibir o restringir la comercialización ni la entrada en servicio de los contadores de energía eléctrica que vayan provistos del signo de aprobación CEE de modelo y de la marca de primera comprobación CEE . 
+Los Estados miembros en los que los errores máximos tolerados sean menores que los previstos en la presente Directiva respecto a la primera comprobación CEE podrán seguir utilizando tales errores máximos tolerados durante un periodo de cinco años y seis meses a partir del día de la notificación de la presente Directiva . 
+A la luz de la experiencia adquirida y de los resultados obtenidos a escala internacional , y a más tardar antes de que finalice dicho período de cinco años y seis meses , se adoptarán las medidas pertinentes con arreglo al procedimiento previsto en el artículo 19 de la Directiva 71/316/CEE . 
+Artículo 4 
+1 . Los Estados miembros aplicarán las disposiciones legales , reglamentarias y administrativas necesarias para cumplir la presente Directiva en un plazo de dieciocho meses a partir del día de su notificación , e informarán de ello inmediatamente a la Comisión . 
+2 . Los Estados miembros comunicarán a la Comisión el texto de las disposiciones de Derecho interno que adopten en el ámbito regulado por la presente Directiva . 
+Artículo 5 
+Los destinatarios de la presente Directiva serán los Estados miembros . 
+Hecho en Bruselas , el 4 de noviembre de 1976 . 
+Por el Consejo 
+El Presidente 
+Th. E. WESTERTERP 
+(1) DO n º C 23 de 8 . 3 . 1974 , p. 51 . 
+(2) DO n º C 101 de 23 . 11 . 1973 , p. 6 . 
+(3) DO n º L 202 de 6 . 9 . 1971 , p. 1 . 
+(4) DO n º L 291 de 28 . 12 . 1972 , p. 156 . 
+ANEXO 
+CAPÍTULO PRIMERO - DEFINICIONES 
+1 . DEFINICIÓN DE ALGUNOS DE LOS TÉRMINOS QUE SE UTILIZAN EN EL PRESENTE ANEXO 
+1.1 . Magnitud o factor de influencia 
+Toda magnitud o factor , distinto de la magnitud medida , cuyos efectos puedan modificar el resultado de la medición . 
+1.2 . Variación del error en función de una magnitud de influencia 
+Diferencia entre los errores del contador en el caso de que una sola magnitud de influencia tome sucesivamente dos valores especificados . 
+1.3 . Valor de referencia de una magnitud de influencia 
+Valor de dicha magnitud en función de la cual se determinan algunas de las características del contador . 
+1.4 . Corriente de base ( I b ) 
+Valor de la corriente en función de la cual se determinan los valores de determinadas características del contador . 
+1.5 . Corriente máxima ( I máx. ) 
+El valor más elevado de la corriente respecto al cual el contador deberá ajustarse a las prescripciones de la presente Directiva . 
+1.6 . Factor de distorsión 
+Relación entre el valor eficaz del residuo que se obtiene reduciendo en una magnitud alternativa no sinusoidal su término fundamental , y el valor eficaz de la magnitud no sinusoidal . El factor de distorsión se suele expresar en porcentaje . 
+1.7 . Velocidad de rotación de base 
+Valor nominal de la velocidad de rotación del rotor , expresado en revoluciones por minuto ; para las condiciones de referencia , la corriente de base y un factor de potencia igual a la unidad . 
+1.8 . Par de base 
+Valor nominal de par que se debe aplicar al rotor para mantenerlo parado ; para las condiciones de referencia , la corriente de base y un factor de potencia igual a la unidad . 
+1.9 . Modelo 
+Denominación que se utiliza para definir el conjunto formado por los contadores de tarifa simple o tarifas múltiples fabricadas por un mismo fabricante , y a los cuales correspondan : 
+- cualidades metrológicas similares , 
+- la uniformidad de construcción de las piezas que determinan dichas cualidades , 
+- el mismo número de amperios-vueltas de la bobinas de corriente para la corriente de base y el mismo número de vueltas por voltio de las bobinas de tensión para la tensión de referencia , 
+- una idéntica relación entre corriente máxima y corriente de base . 
+El modelo podrá presentar diferentes valores de corriente de base y de tensión de referencia . 
+Observaciones 
+a ) El fabricante dará a los contadores una designación que consistirá en una o varias asociaciones de letras , cifras , o letras y cifras . A cada modelo corresponderá una sola designación . 
+b ) El modelo estará constituido por tres contadores destinados a las pruebas de aprobación del modelo y cuyas características ( corriente de base y tensión de referencia ) se escogerán por el servicio de metrología interesado entre las que figuran en los cuadros propuestos por el fabricante ( número 6.1.1 ) . 
+c ) Cuando de un mismo modelo se fabriquen modelos especiales , el producto del número de vueltas de las bobinas de corriente de base podrá ser distinto del que señalen los contadores representativos del modelo . Convendrá elegir el producto inmediatamente superior o inferior con el fin de obtener un número entero de vueltas . 
+Únicamente por esta razón , el número de vueltas por voltio de las bobinas de tensión podrá diferir en un valor que no sobrepase en más del 20 % al de los contadores representativos del modelo . 
+d ) La relación de la velocidad máxima con la velocidad mínima de rotación de base del rotor de cada uno de los contadores del mismo modelo no deberá sobrepasar 1,5 . 
+CAPÍTULO II - PRESCRIPCIONES TÉCNICAS 
+2 . PRESCRIPCIONES MECÁNICAS 
+2.1 . Generalidades 
+Los contadores deberán diseñarse o fabricarse de forma que , en servicio normal y en condiciones normales de uso quede excluida toda posibilidad de peligro , para garantizar , en particular : 
+- la protección de las personas contra las descargas eléctricas , 
+- la protección de las personas contra los efectos de una temperatura excesiva , 
+- la imposibilidad de la propagación del fuego . 
+Todas las partes del contador que estén expuestas a la corrosión , en condiciones normales de uso , deberán protegerse eficazmente . Las capas protectoras no deberán poder sufrir desperfectos durante las manipulaciones normales , ni tampoco deberán deteriorarse por la exposición al aire en condiciones normales de uso . 
+El contador deberá poseer una solidez mecánica suficiente y ser capaz de resistir las temperaturas elevadas que puedan alcanzarse en las condiciones normales de uso . 
+Los elementos deberán fijarse convenientemente con el fin de evitar que se produzcan aflojamientos durante el transporte o en el servicio normal . 
+Los enlaces eléctricos deberán establecerse de forma que el circuito no pueda interrumpirse en ningún caso , incluso aunque se den las condiciones de sobrecarga a las que se refiere la presente Directiva . 
+El contador deberá fabricarse de manera que se reduzcan al mínimo los riesgos de cortocircuito entre las partes sometidas a tensión y las partes conductoras accesibles como consecuencia de un aflojamiento accidental o el desajuste de una bobina , de un tornillo , etc . 
+2.2 . La caja 
+La caja del contador deberá ser prácticamente hermética con el fin de evitar la entrada de polvo . Dicha caja deberá poder sellarse con plomo o precintarse de manera que los órganos internos del contador sólo puedan ser accesibles después de levantar dichos precintos . 
+La tapa sólo deberá poder levantarse con ayuda de un objeto cualquiera , como un utensilio o una moneda . 
+La caja deberá estar fabricada y diseñada de manera que el buen funcionamiento del contador no pueda verse perturbado por deformaciones no permanentes . 
+Los contadores destinados a intercalarse en una red cuya tensión sea superior a 250 voltios en relación con la tierra y cuya caja posea partes metálicas accesibles , deberán poseer un borne de protección . 
+Los contadores , cuya tensión sea inferior o igual a 250 voltios en relación con la tierra y cuya caja posea partes metálicas accesibles , deberán poder conectarse a una toma de tierra . 
+2.3 . Ventanillas 
+Si la caja del contador no fuere transparente , deberá poseer una o varias ventanillas para la lectura del elemento registrador y la observación del movimiento del rotor . Estas ventanillas deberán ir cerradas con placas de materia transparente que no podrán levantarse sin romper el precinto . 
+2.4 . Bornes - placas de bornes 
+Los bornes deberán agruparse en una o varias placas de bornes de una resistencia mecánica suficiente . 
+Deberán permitir la fijación de conductores rígidos o de cables . 
+Los bornes de tensión deberán ser fácilmente desconectables de los bornes de entrada de la corriente . 
+El empalme de los conductores con los bornes deberá realizarse de manera que se logre un contacto suficiente y duradero , a fin de evitar los riesgos de aflojamiento o de recalentamiento excesivo . Los agujeros del material aislante que se encuentran en la prolongación de los agujeros de los bornes , deberán poseer dimensiones suficientes para que se pueda introducir fácilmente el aislante de los conductores . 
+Observación 
+La placa de los bornes deberá fabricarse con materiales que se ajusten a las pruebas de la recomendación del apartado 6 de la ISO R 75 ( 1958 ) , para una temperatura de 135 ° C . 
+2.5 . Cubierta de los bornes 
+Los bornes del contador deberán estar protegidos por una cubierta que deberá poderse precintar independientemente de la cubierta del contador . 
+Cuando el contador esté montado sobre su soporte , no deberá poderse tener acceso a los bornes sin romper los precintos de la cubierta de los bornes . Por consiguiente , dicha cubierta deberá cubrir la placa de bornes , el tornillo que sujeta los conductores en los bornes y , en su caso , una longitud suficiente de los conductores de conexión y de sus aislantes . 
+2.6 . Dispositivo registrador 
+El dispositivo registrador podrá ser de rodillos o de agujas . 
+La unidad del dispositivo registrador será el kilovatio-hora . 
+En los dispositivos registradores de rodillos , se inscribirá la correspondiente unidad cerca del conjunto de los rodillos . 
+En los dispositivos registradores de agujas , los cuadrantes deberán estar divididos en diez partes iguales ( con excepción del último , como se indica más adelante ) y numerados de cero a nueve . Cerca del cuadrante de las unidades deberá inscribirse : 1 d * 1 kWh y cerca de los demás cuadrantes , el número de kilovatios hora que corresponda a una división decimal , es decir 10 , 100 , 1 000 y 10 000 . 
+El cuadrante de los dispositivos registradores de agujas o el rodillo de los dispositivos registradores de rodillos , que indiquen décimas de las unidades de lectura , deberán enmarcarse de color o colorearse . 
+El último cuadrante o el rodillo de rotación continua que indique los valores más bajos , deberá graduarse en cien intervalos iguales , o de cualquier otra manera que asegure una precisión de lectura análoga . 
+El dispositivo registrador registrará , a partir de cero y durante un mínimo de 1 500 horas , la energía correspondiente a la corriente máxima , con la tensión de referencia y el factor de potencia unidad . 
+Todas las indicaciones que figuren en el dispositivo registrador deberán ser indelebles y fácilmente legibles . 
+2.7 . Sentido de rotación del rotor y marcas 
+La parte anterior del rotor , para un observador que se coloque delante del contador y lo observe , deberá desplazarse de izquierda a derecha . Este sentido deberá indicarse mediante una flecha fija , claramente visible e indeleble . 
+El borde o el borde y la parte superior del disco deberán llevar una marca principal de anchura comprendida entre una vigésima y una trigésima parte de la circunferencia del disco para poder contar el número de vueltas . 
+El disco podrá llevar también marcas mediante las que se puedan efectuar ensayos estroboscópicos o de otro tipo . Dichas marcas no deberán obstaculizar el empleo de la marca principal cuando ésta se utilice para el recuento fotoeléctrico del número de vueltas del disco . 
+3 . PRESCRIPCIONES ELÉCTRICAS 
+3.1 . Consumo de los circuitos 
+3.1.1 . Circuitos de tensión 
+La potencia absorbida por cada circuito de tensión respecto a la tensión de referencia , la frecuencia de referencia y la temperatura de referencia no deberá sobrepasar 2 W y 8 VA con corriente monofásica , ni 2 W y 10 VA con corriente polifásica . 
+3.1.2 . Circuitos de corriente 
+En los contadores cuya corriente de base sea inferior a 30 A , la potencia aparente absorbida por cada circuito de corriente , respecto a la corriente de base , la frecuencia de referencia y la temperatura de referencia , no deberá rebasar los 2,5 VA . Respecto a corrientes de base más elevadas , no deberá sobrepasar los 5 VA . 
+3.2 . Calentamiento 
+En condiciones normales de uso , las bobinas y los aislantes no deberán alcanzar temperaturas que puedan alterar el funcionamiento del contador . 
+Cuando cada circuito de corriente conduzca una corriente máxima y cada circuito de tensión ( así como los circuitos auxiliares que se alimentan durante períodos de duración superior a la de su constante de tiempo térmico ) se alimente con una tensión de 1,2 veces la tensión de referencia , el calentamiento ( D t ) de los diferentes elementos del contador no deberá rebasar los valores indicados en el cuadro que se reseña a continuación , a una temperatura ambiente no superior a 40 ° C . 
+La prueba deberá durar dos horas y el contador no deberá exponerse a corrientes de aire ni a radiaciones solares directas . 
+Partes del contador * Dt en ° C * 
+Bobinas * 60 * 
+Superficies exteriores de la caja * 25 * 
+Además , después de las pruebas , el contador no deberá haber sufrido ningún daño y habrá de satisfacer las pruebas con la tensión alterna a la que se refiere el número 3.3.3 . 
+El calentamiento de las bobinas deberá determinarse por el método de variación de resistencia ( véase la publicación 28 de la CEI « Especificación internacional de un cobre-tipo recocido » ) . 
+Para la medición de la resistencia del circuito , las conexiones de alimentación del contador deberán tener por lo menos una longitud de 100 centímetros y una sección mediante la que se consiga que la densidad de la corriente sea inferior a 4 A/mm² . La medición de variación de resistencia deberá efectuarse al nivel de las conexiones de la caja de bornes . 
+3.3 . Cualidades dieléctricas 
+El contador y sus dispositivos auxiliares incorporados , en caso de que existen , deberán conservar cualidades dieléctricas satisfactorias en condiciones normales de uso , teniendo en cuenta las influencias atmosféricas y las diferentes tensiones a las que estén sus circuitos en servicio ordinario . 
+Por consiguiente , el contador deberá resistir sin daño las pruebas dieléctricas a las que se alude en los números 3.3.2 y 3.3.3 . 
+Dichas pruebas deberán efectuarse únicamente en un contador nuevo , montado , con la cubierta del contador ( excepto en los casos que se señalen más adelante ) y la de los bornes colocada en su sitio , y con los tornillos de sujeción de los conductores en la posición correspondiente a la posición de sujeción del conductor de máxima sección admisible en los bornes . 
+El conjunto de dichas pruebas sólo se realizará una vez en un mismo contador , con arreglo a las modalidades que se indican en la publicación 60 de la CEI « Pruebas de alta tensión ( 1962 ) » . 
+Nota : Cuando la disposición de los bornes de un contador sea distinta a la del contador que se somete a aprobación , las pruebas de cualidades dieléctricas deberán efectuarse de nuevo . 
+En relación con dichas pruebas , el término masa tiene la significación siguiente : 
+a ) en el caso de los contadores de caja totalmente metálica , la masa es la propia caja colocada sobre una placa metálica ; 
+b ) en el caso de contadores de caja totalmente aislante , o sólo en parte , la masa es una hoja conductora que envuelve el contador , conectada a una placa metálica plana sobre la cual se coloca la base del contador . 
+Cuando lo permita la cubierta de los bornes , la hoja conductora deberá dejar alrededor de los agujeros de paso de los conductores de la caja de bornes una distancia del orden de 2 cm . 
+En las pruebas de tensión de choque y de tensión alterna , los circuitos que no se sometan a la tensión de pruebas se conectarán , según los casos , bien al armazón , bien a la masa , en la forma en que se señala más adelante . 
+Se efectuarán en primer lugar las pruebas de tensión de choque , y después las de tensión alterna . 
+Durante las pruebas , no deberán producirse contorneamientos , descargas disruptivas ni perforaciones . 
+Después de la prueba , la variación del error en porcentaje no deberá ser superior a la incertidumbre de medición . 
+En este número , se designará en adelante por « todos los bornes » en conjunto de bornes de los circuitos de corriente , de los circuitos de tensión y , en su caso , de los circuitos auxiliares cuya tensión de referencia sea superior a 40 V . 
+3.3.1 . Condiciones generales para las pruebas de las cualidades dieléctricas 
+Las pruebas deberán efectuarse en condiciones normales de uso . En el momento de la prueba , se podrá alterarse la calidad del aislamiento por la presencia de polvo o humedad anormal . 
+Salvo especificaciones contrarias , las condiciones normales para las pruebas de aislamientos serán las siguientes : 
+- temperatura ambiente 15 a 25 ° C 
+- humedad relativa 45 a 75 % 
+- presión atmosférica 86 · 10³ a 106 · 10³ Pa ( 860 a 1 060 milibares ) 
+3.3.2 . Pruebas de tensión de choque 
+Las pruebas de tensión de choque tienen por finalidad determinar si el contador puede o no resistir sin daño sobretensiones de corta duración pero de valor elevado . 
+Nota : Las pruebas , de acuerdo con el número 3.3.2.1 , tendrán como finalidad esencial asegurar , por una parte , la calidad del aislamiento de las bobinas de tensión entre las espiras o entre las capas y , por otra parte , la del aislamiento entre los diferentes circuitos del contador que estén conectados , en el servicio normal , a conductores de fases diferentes de la red , entre las que puedan producirse sobretensiones . 
+La prueba del número 3.3.2.2 está destinada a comprobar globalmente el estado del aislamiento del conjunto de los circuitos eléctricos del contador en relación con la masa . Dicho aislamiento representa un factor esencial de seguridad para las personas en caso de sobretensiones en la red . 
+La energía del generador que se utilice para dichas pruebas deberá elegirse conforme a las prescripciones correspondientes de la publicación 60 de la CEI . La forma de onda será la de la tensión de choque normal 1,2/50 y su valor de punta será de 6 kV . En cada prueba , la tensión de choque se aplicará diez veces sin inversión de polaridad . 
+3.3.2.1 . Prueba de aislamiento de los circuitos de tensión y de aislamiento entre circuitos 
+La prueba se efectuará independientemente en cada circuito ( o conjunto de circuitos ) que , en servicio normal , se encuentre aislado en relación con los demás circuitos del contador . Los bornes de los circuitos que no estén sometidos a la tensión de choque se conectarán a la masa . 
+De este modo , cuando en servicio normal la bobina de tensión y la bobina de corriente de un elemento motor estén conectados , la prueba se efectuará sobre el conjunto formado por ambas . En tal caso , el otro extremo del circuito de tensión se conectará a la masa , y la tensión de choque se aplicará entre el borne de corriente y la masa . 
+Cuando varios circuitos de tensión de un contador posean un punto común , este último estará conectado a la masa , y la tensión de choque se aplicará sucesivamente entre cada una de las conexiones libres ( o el circuito de corriente conectado a ella ) y la masa . 
+Los circuitos auxiliares destinados a ser alimentados directamente por la red o por los mismos transformadores de tensión que los circuitos del contador , y cuya tensión de referencia sea superior a 40 V se someterán a la prueba de tensión de choque en las mismas condiciones que las que se indican más arriba para los circuitos de tensión . Los demás circuitos auxiliares no se someterán a dicha prueba . 
+3.3.2.2 . Prueba de aislamiento de los circuitos eléctricos en relación con la masa 
+Todos los bornes de los circuitos eléctricos del contador , con excepción de los circuitos auxiliares cuya tensión de referencia sea inferior o igual a 40 V , estarán conectados entre sí . 
+Los circuitos auxiliares cuya tensión de referencia sea inferior o igual a 40 V , estarán conectados a la masa . 
+La tensión de choque se aplicará entre la masa y el conjunto formado por los circuitos eléctricos del contador . 
+3.3.3 . Prueba con tensión alterna 
+Las pruebas con tensión alterna deberán efectuarse con arreglo al cuadro que se indica a continuación . 
+La tensión de prueba deberá ser prácticamente sinusoidal , de una frecuencia de 50 Hz , se aplicará durante un minuto . 
+La potencia de la fuente no deberá ser inferior a 500 VA . 
+Durante las pruebas A y B del cuadro que se indica a continuación , los circuitos que no estén sometidos a la tensión de prueba se conectarán al armazón . 
+Durante las pruebas en relación con la masa , pruebas C dentro del cuadro que se indica continuación , los circuitos auxiliares cuya tensión de referencia sea inferior o igual a 40 V estarán conectados a la masa . 
+Valor eficaz de la tensión de prueba * Puntos de aplicación de la tensión de prueba * 
+* A . Pruebas que podrán efectuarse sin la cubierta del contador ni la de los bornes * 
+* - entre , por una parte , la armazón y , por otra : * 
+2 kV * a ) cada conjunto de bobinas corriente-tensión de un mismo elemento motor que , en servicio normal , estén conectadas entre sí , pero que estén separadas y convenientemente aisladas en relación con los demás circuitos * 
+2 kV * b ) cada circuito auxiliar o conjunto de circuitos auxiliares que posean un punto común , cuya tensión de referencia sea superior a 40 V * 
+500 V * c ) cada circuito auxiliar cuya tensión de referencia sea inferior o igual a 40 V * 
+600 V o dos veces la tensión de referencia aplicada a la bobina de tensión en las condiciones de referencia cuando ésta sea mayor de 300 V ( la más elevada de las dos ) * B . Pruebas que podrán efectuarse sin la cubierta de los bornes , si bien la cubierta del contador deberá estar en su sitio cuando sea metálica * 
+* - entre el circuito de corriente y el circuito de tensión de cada elemento motor , normalmente conectados entre sí , debiendo estar esta conexión temporalmente interrumpida para la prueba (*) * 
+* C . Prueba que deberá efectuarse con la caja cerrada , y con las cubiertas del contador y de los bornes en su sitio * 
+2 kV * - entre , por una parte , todos los circuitos de corriente y de tensión , así como los circuitos auxiliares cuya tensión de referencia sea superior a 40 V conectados entre sí , y por otra , la masa del contador * 
+(*) No se trata , estrictamente hablando , de una prueba de rigidez dieléctrica , sino de comprobar que las distancias de aislamiento sean suficientes cuando el dispositivo de conexión esté abierto . 
+4 . INDICACIONES QUE DEBERÁN LLEVAR LOS CONTADORES 
+4.1 . Placas descriptivas 
+Los contadores deberán llevar una placa descriptiva que podrá ser , bien el cuadrante del dispositivo registrador , bien una placa fijada al interior del contador . 
+Dichas placas deberán llevar inscritas las indicaciones que a continuación se reseñan , de manera que resulten indelebles , fácilmente legibles y visibles desde el exterior : 
+a ) la marca de identificación del fabricante o su razón social ; 
+b ) la designación del modelo ; 
+c ) el signo de la aprobación CEE de modelo del contador ; 
+d ) la designación del número y la disposición de los elementos motores , sea en la forma : monofásico de dos hilos , trifásico de cuatro hilos , etc. , sea utilizando símbolos que se atengan a una norma armonizada en el ámbito comunitario ; 
+e ) la tensión de referencia ; 
+f ) la corriente de base y la corriente máxima , en forma : 10 - 40 A o 10 ( 40 ) A ; 
+g ) la frecuencia de referencia en la forma de 50 Hz ; 
+h ) la constante del contador en una de las formas : x Wh/tr o x tr/kWh ; 
+i ) el número del contador y su año de fabricación ; 
+j ) la temperatura de referencia , si difiriere de 23 ° C . 
+El contador podrá , además , llevar consignado el lugar de fabricación , una designación comercial , un número especial de orden , el nombre del distribuidor de electricidad , una marca de conformidad con una norma europea y el número que identifique el esquema de conexión . Salvo autorización especial , queda prohibida cualquier otra indicación o inscripción . 
+4.2 . Esquema de conexión y marcado de los bornes 
+Cada contador deberá estar provisto de un esquema de conexión fácilmente identificable , que indicará la correspondencia entre los bornes de empalme , incluyendo los bornes de los dispositivos auxiliares , y las diversas fases de los conductores que haya que empalmar . El esquema de conexión podrá ir acompañado de un número que se estampará en la placa descriptiva . Cuando los bornes del contador lleven marcas consignadas , éstas deberán reproducirse en el esquema . Se admite sustituir los esquemas de conexión por un número de referencia establecido en la norma nacional del Estado miembro en el que haya de utilizarse el contador . 
+CAPÍTULO III - PRESCRIPCIONES METROLÓGICAS 
+5 . PRESCRIPCIONES METROLÓGICAS 
+5.1 . Errores máximos tolerados 
+En las condiciones de referencia descritas en el número 5.2 , los contadores para corriente monofásica ( en adelante denominados contadores monofásicos ) y los contadores para corriente polifásica ( en adelante denominados contadores polifásicos ) con cargas equilibradas no deberán sobrepasar los errores que se indican en el cuadro I , y los contadores polifásicos con una sola fase cargada ( en tensiones equilibradas ) no deberán sobrepasar los errores que se indican en el cuadro II . 
+CUADRO I 
+Valor de la corriente * Factor de potencia * Errores máximos tolerados en más y en menos * 
+0,05 I b * 1 * 2,5 % * 
+0,1 I b * I * I máx * 1 * 2 % * 
+0,1 I b * 0,5 inductivo * 2,5 % * 
+0,2 I b * I * I máx * 0,5 inductivo * 2 % * 
+CUADRO II 
+Valor de la corriente * Factor de potencia * Errores máximos tolerados en más y en menos * 
+0,2 I b * I * I b * 1 * 3 % * 
+I b * I * I máx * 1 * 4 % * 
+I b * 0,5 inductivo * 3 % * 
+En la corriente de base y con un factor de potencia igual a 1 , la diferencia entre el error del contador con una sola fase cargada y el error en tanto por ciento con las cargas polifásicas equilibradas no deberá sobrepasar el 2,5 % . 
+Observación : Deberá entenderse que la carga monofásica de un contador trifásico sólo afecta a una sola tensión de estrella en un sistema de cuatro conductores ( de los que uno será neutro ) o a una sola tensión compuesta en un sistema de tres conductores ( sin conductor neutro ) . En todos los casos , el sistema completo de tensiones deberá aplicarse al contador . 
+5.2 . Condiciones de referencia 
+Las pruebas para la determinación de los errores y de las variaciones de error en función de las magnitudes de influencia deberán efectuarse , salvo que expresamente se mencione lo contrario en éste Anexo , en las condiciones de referencia siguientes : 
+a ) el contador deberá estar cerrado , es decir , provisto de su cubierta ; 
+b ) cuando el contador posea dispositivos registradores de rodillos , sólo deberá ponerse en funcionamiento el rodillo que gire más velozmente , incluso aunque no sea visible ; 
+c ) antes de proceder a cualquier medición , deberá aplicarse la tensión durante por lo menos una hora , y las corrientes de medida deberán regularse cada una mediante valores progresivamente crecientes o decrecientes , y aplicarse durante un tiempo suficiente para que la velocidad de rotación del rotor se establece ; 
+Además , respecto a los contadores polifásicos : 
+d ) el orden de las fases deberá corresponder a la secuencia directa ( como se indica en el esquema de conexión ) ; 
+e ) las tensiones y las corrientes deberán estar prácticamente equilibradas , es decir , que : 
+- cada una de las tensiones simples o compuestas no deberá diferir en más del 1 % de la media de las tensiones correspondientes ; 
+- cada una de las corrientes de los conductores no habrá de diferir más del 2 de la media de dichas corrientes ; 
+- los desfases que presente cada una de dichas corrientes con la tensión de estrella correspondiente no deberán diferir entre sí en más del 2 % , cualquiera que sea el factor de potencia . 
+En el cuadro III se indican los valores de referencia de las magnitudes de influencia . 
+CUADRO III 
+Magnitudes de influencia * Valores de referencia * Tolerancias * 
+Temperatura ambiente * Temperatura de referencia o , a falta de indicación , 23 ° C * ± 2 ° C * 
+Posición de funcionamiento * Posición vertical de funcionamiento (1) * ± 0,5 ° * 
+Tensión * Tensión de referencia * ± 1,0 % * 
+Frecuencia * Frecuencia de referencia 50 Hz * ± 0,5 % * 
+Forma de onda * Tensión y corriente sinusoidales * Factor de distorsión inferior o igual a 3 % * 
+Inducción magnética de origen externo con 50 Hz * Inducción magnética nula * Valor de la inducción que no provoque una variación del error relativo superior a 0,3 % (2) * 
+(1) Determinación de la posición vertical de funcionamiento . 
+La construcción y el montaje del contador deberán realizarse de forma que la posición vertical quede asegurada ( en los dos planos verticales perpendiculares de adelante a atrás y de izquierda a derecha ) cuando 
+a ) la base del contador se aplique contra una pared vertical ; 
+b ) y una arista de referencia ( como la arista inferior de la placa de bornes ) o una línea de referencia marcada en el contador , sea horizontal . 
+(2) El método de prueba para efectuar dicha comprobación consistirá en lo siguiente : 
+a ) en los contadores monofásicos , se determinarán los errores , primero con el contador conectado normalmente a la red , y después , tras haber invertido las conexiones de los circuitos de corriente y de tensión . La mitad de la diferencia entre ambos errores será el valor de la variación de error . Ya que no se conoce la fase del campo exterior , el control deberá efectuarse con 0,1 I b para el factor de potencia igual a la unidad , y con 0,2 I b para el factor de potencia 0,5 ; 
+b ) en los contadores polifásicos , se procederá a efectuar tres mediciones con 0,1 I b y un factor de potencia 1 ; después de cada medición , las conexiones a los circuitos de corriente y de tensión se permutarán 120 ° , sin cambiar la secuencia de las fases . La mayor de las diferencias entre cada uno de los errores así medidos y su media será el valor de la variación del error . 
+5.3 . Efectos de magnitudes de influencia 
+Las variaciones del error se determinarán respecto a cada una de las magnitudes de influencia en las condiciones que se reseñan en el cuadro IV , debiéndose respetar también todas las demás condiciones del número 5.2 . 
+CUADRO IV 
+Magnitud de influencia * Naturaleza y condición de las pruebas * Factor de potencia * Valor máximo del coeficiente de temperatura media en más o en menos * 
+Temperatura (1) * 0,1 I b * I * I máx * 1 * 0,1 % K * 
+* 0,2 I b * I * I máx * 0,5 inductivo * 0,15 % K * 
+(1) Para una temperatura dada comprendida entre 10 y 30 ° C , el valor del coeficiente de temperatura medio se determinará respecto a una zona de 20 ° C centrado sobre dicha temperatura . 
+Magnitud de influencia * Naturaleza y condición de las pruebas * Factor de potencia * Valor máximo del coeficiente de temperatura media en más o en menos * 
+* * * Text fehlt * 
+Posición * Para una inclinación de 3 ° en relación con la vertical en una dirección cualquiera : * * * 
+* I = 0,05 I b * 1 * 3 % * 
+* I = I b I = I máx* 1 * 0,5 % * 
+Tensión * Para una variación del 10 % en más o en menos en relación con la tensión de referencia : * * * 
+* I = 0,1 I b * 1 * 1,5 % * 
+* I = 0,5 I máx * 1 * 1 % * 
+* I = 0,5 I máx * 0,5 inductivo * 1,5 % * 
+Frecuencia * Para una variación del 5 % en más o en menos en relación a 50 Hz : * * * 
+* I = 0,1 I b * 1 * 1,5 % * 
+* I = 0,5 I máx * 1 * 1,3 % * 
+* I = 0,5 I máx * 0,5 inductivo * 1,5 % * 
+Forma de onda (1) * Para un aumento de 10 % de la armónica de tercer orden en la onda de corriente : * * * 
+* I = I b * 1 * 0,8 % * 
+Inducción magnética de origen externo (2) * Para una inducción magnética de 0,5 mT , a la frecuencia de referencia , en las condiciones más desfavorables de fase y de dirección : * * * 
+* I = I b * 1 * 3 % * 
+Orden de las fases inversas * Para una inversión del orden directo de las fases : * * * 
+* I = 0,05 I b * I * I máx carga equilibrada * 1 * 1,5 % * 
+* I = 0,5 I b una sola fase de carga * 1 * 2 % * 
+Campo magnético de un accesorio * I = 0,05 I b * 1 * 1 % * 
+Carga mecánica del dispositivo o dispositivos registradores (3) * I = 0,05 I b * 1 * 2 % * 
+(1) Cuando se proceda a la determinación de una variación de error en función de la forma de onda , el contenido en armónicos de la onda de tensión deberá ser inferior al 1 % , y la fase del armónico de tercer orden insertado en la onda de corriente deberá variar de cero a 360 ° . 
+(2) Se obtendrá la inducción requerida en el centro de una bobina circular de 1 m de diámetro medio , de sección cuadrada , de espesor radial escaso en relación con el diámetro y de fuerza magnetomotriz equivalente a 400 amperios vueltas . 
+(3) La influencia de la carga mecánica del dispositivo registrador se compensará en el momento en que se proceda al ajuste del contador . 
+5.4 . Efecto de las fuertes sobrecargas de corta duración 
+El circuito de prueba deberá ser prácticamente no inductivo . Después de aplicar la sobrecarga de corta duración , manteniéndose la tensión en los bornes del contador , deberá dejarse éste en reposo durante el tiempo suficiente para que pueda recobrar la temperatura inicial ( alrededor de una hora ) . 
+Los contadores deberán ser capaces de resistir un impulso de corriente ( obtenido , por ejemplo , por una descarga del condensador , o de la red , mediante un mando con tiristores ) cuyo valor de punta sea igual a 50 veces la corriente máxima ( con un máximo de 7 000 A ) y que conserve un valor superior a 25 veces la corriente máxima ( o 3 500 A ) durante 1 ms . 
+Al terminar dicha prueba , la variación del error deberá ser superior al 1,5 % , con la corriente de base y el factor de potencia unidad . 
+5.5 . Variación del error debida al autocalentamiento 
+El contador , después de haberse mantenido previamente bajo la tensión de referencia durante una hora por lo menos sin alimentar los circuitos de corriente , se pondrá en funcionamiento con la corriente máxima . 
+El error del contador se medirá inmediatamente después de ponerlo en funcionamiento , y seguirá midiéndose a intervalos suficientemente cortos a fin de poder obtener un trazado correcto de la curva de variación de error en función del tiempo . 
+La prueba deberá proseguirse , como mínimo , durante una hora , y en todo caso hasta que la variación observada durante una duración de 20 minutos no sobrepase el 0,2 % . 
+La variación del error debido al autocalentamiento , medido como se indica anteriormente , no deberá sobrepasar el 1 % para un factor de potencia igual sobrepasar el 1 % para un factor de potencia igual a 1 , ni el 1,5 % para un factor de potencia igual a 0,5 . 
+5.6 . Marcha de vacío 
+En las condiciones que se indican en el número 5.2 , cuando los circuitos de corriente del contador estén abiertos , el rotor no deberá girar de vacío para un valor de la tensión comprendido entre el 80 y el 110 % de la tensión de referencia . El rotor podrá girar ligeramente , pero en ningún caso podrá efectuar una revolución . En el caso de que se utilice un dispositivo indicador de rodillos , dicha prescripción sólo será válida cuando se ponga en funcionamiento un solo rodillo . 
+5.7 . Puesta en marcha 
+En las condiciones que se reseñan en el número 5.2 , cuando el contador sea atravesado por una corriente igual a 0,5 % de la corriente de base , con un factor de potencia igual a la unidad , deberá ponerse en marcha y seguir girando . Deberá comprobarse que el rotor efectúe una revolución completa sin lugar a dudas . 
+En el caso de que se utilice un dispositivo registrador de rodillos , dicha prescripción será válida cuando se pongan en funcionamiento uno o dos rodillos . 
+5.8 . Concordancia del dispositivo registrador con la constante de lectura del contador 
+La relación entre el número de vueltas del rotor y las indicaciones del dispositivo registrador deberá ser correcta . 
+5.9 . Márgenes de regulación 
+Cuando el contador esté regulado para atenerse a las presentes prescripciones deberá poseer por lo menos los márgenes de regulación que se indican a continuación : 
+a ) Regulación en régimen elevado : 
+el 4 % en más y en menos de la variación de la velocidad del rotor para una corriente igual a la mitad de la corriente máxima , con la tensión de referencia , la frecuencia de 50 Hz y un factor de potencia igual a la unidad . 
+b ) Regulación en régimen bajo : 
+el 4 % en más y en menos de la variación de la velocidad del rotor , al 5 % de la corriente de base , con la frecuencia de 50 Hz , la tensión de referencia y un factor de potencia igual a la unidad . 
+c ) Regulación en desfase ( si el contador lleva un dispositivo de regulación de este tipo ) : 
+el 1 % en más y en menos de la variación de la velocidad del rotor para un factor de potencia igual a 0,5 ( inductivo ) con una corriente igual a la mitad de la corriente máxima , la frecuencia de 50 Hz y la tensión de referencia . 
+CAPÍTULO IV - APROBACIÓN CEE DE MODELO 
+La aprobación CEE de modelo de los contadores de energía eléctrica se efectuará según las prescripciones de la Directiva 71/316/CEE . En el presente capítulo se exponen algunas de dichas prescripciones . 
+6 . APROBACIÓN CEE DE MODELO 
+6.1 . Procedimiento de aprobación de modelo 
+6.1.1 . Documentos técnicos 
+La solicitud de aprobación CEE de modelo deberá ir acompañada de los documentos siguientes : 
+- un dibujo de conjunto del contador y , en su caso , una fotografía ; 
+- una descripción detallada de la construcción del contador y de sus principales elementos ( incluyendo las diferentes variantes ) ; 
+- los dibujos de los elementos principales siguientes ( incluyendo sus diferentes variantes ) : 
+base , empuñadura y puntos de fijación 
+cubierta 
+placa de bornes , cubierta de los bornes 
+sistema de accionamiento , bobinas y entrehierro 
+dispositivo de frenado y su regulación 
+dispositivo o dispositivos registradores 
+rotor 
+soportes superior e inferior del rotor 
+dispositivos de compensación de temperatura 
+dispositivos de compensación de sobrecarga 
+regulación de la carga inductiva 
+regulación en régimen de carga débil 
+circuitos auxiliares 
+placa descriptiva ; 
+- esquema de las conexiones internas y externas ( incluyendo los circuitos auxiliares , en el que se muestre el orden de las fases ; 
+- cuadro de todas las bobinas de tensión y de corriente , es decir , el número de espiras , la dimensión de los conductores y el aislamiento ; 
+- cuadro de las constantes y de los pares para todos los valores de tensión y de corriente ; 
+- una nota descriptiva y dibujos relativos al emplazamiento previsto para las marcas de comprobación y los precintos . 
+6.1.2 . Presentación de los contadores de muestra para la aprobación de modelo 
+La solicitud de aprobación CEE de modelo deberá ir acompañada de la presentación de tres contadores que representen el modelo ( véase la letra b ) del número 1.9 ) . 
+El servicio competente podrá solicitar que se presenten contadores suplementarios cuando : 
+- la petición se refiera no sólo a los tres contadores que se prevén en el primer párrafo , sino también a una o a varias versiones del mismo ( materia con la que está fabricada la caja , dispositivos eventuales de tarifa múltiple , dispositivo de teleindicación , dispositivo antirretroceso , etc. ) siempre y cuando puedan ser considerados como pertenecientes a un mismo modelo , en particular cuando la disposición de los bornes sea diferente ; 
+- la petición tendrá por objeto hacer extensiva la aprobación de un modelo ya aprobado . 
+6.2 . Examen para la aprobación CEE de modelo 
+Los contadores depositados deberán ajustarse a las prescripciones técnicas de los puntos 2 , 3 y 4 y a las prescripciones metrológicas del punto 5 . 
+No obstante , para tener en cuenta los posibles errores de los métodos de muestreo , en el trazado de las curvas de error que corresponden a los cuadros 1 y 2 se admitirá desplazar el eje de las abscisas , en sentido paralelo , en un valor que no sobrepase el 1 % , valor que deberá ser constante para todas las curvas . 
+6.3 . Puntos de medición para las pruebas de aprobación CEE de modelo 
+Durante las pruebas relativas a las prescripciones metrológicas a las que se alude en el punto 5 , deberán efectuarse mediciones por lo menos respecto a los puntos siguientes : 
+- respecto a todos los contadores monofásicos , así como los contadores polifásicos que posean cargas equilibradas , con un factor de potencia igual a 1 : 
+5 % , 10 % , 20 % , 50 % y 100 % de I b , y todo múltiplo entero de I b hasta I máx ; 
+- respecto a todos los contadores monofásicos , así como los contadores polifásicos que posean cargas equilibradas , con un factor de potencia igual a 0,5 ( inductivo ) : 
+10 % , 20 % , 50 % y 100 % de I b y todo múltiplo entero de I b hasta I máx ; 
+- respecto a los contadores polifásicos con una sola fase de carga : 
+20 % , 50 % y 100 % de I b , 50 % de I máx y I máx con un factor de potencia igual a 1 , e I b con un factor de potencia igual a 0,5 ( inductivo ) . 
+Dichas pruebas se efectuarán sucesivamente respecto a todas las fases . 
+Los efectos de las magnitudes de influencia se examinarán por lo menos respecto a los puntos siguientes : 
+- la influencia de la temperatura ambiente para 
+- 0,1 I b , I b y I máx ( factor de potencia igual a 1 ) ; 
+- 0,2 I b , I b y I máx ( factor de potencia igual a 0,5 inductivo ) ; 
+- la influencia de la posición , de la tensión , de la frecuencia , de la forma de onda , de las inducciones magnéticas de origen externo , del campo magnético de un accesorio y de la carga mecánica de cada elemento registrador , respecto a los puntos y en las condiciones que se señalen en el cuadro IV ; 
+- la influencia de la inversión de fases ( contadores polifásicos ) 
+- para 0,5 I b , I b y I máx con carga equilibrada y un factor de potencia igual a 1 ; 
+- y para 0,5 I b con una sola fase cargada y un factor de potencia igual a 1 ( esta última prueba se repetirá respecto a cada una de las fases ) . 
+Se efectuarán además las pruebas siguientes : 
+- las pruebas de sobrecarga de corta duración , de autocalentamiento y de puesta en marca , y la comprobación de los márgenes de regulación , se efectuarán conforme a las indicaciones de los números 5.4 , 5.5 , 5.7 y 5.9 ; 
+- la prueba de marcha de vacío se efectuará con el 80 % , 100 % y 110 % de la tensión de referencia ; 
+- la prueba del elemento registrador se efectuará en la forma que se determina en el número 5.8 . La duración de la prueba deberá ser suficiente para la incertidumbre de la lectura no sobrepase el 0,2 % en más o en menos . 
+6.4 . Certificado de aprobación CEE de modelo 
+El certificado de aprobación CEE de modelo irá acompañado de las descripciones , planos y esquemas necesarios para identificar el modelo y explicar su funcionamiento . 
+CAPÍTULO V - PRIMERA COMPROBACIÓN 
+La primera comprobación CEE de los contadores de energía eléctrica se realizará con arreglo a las prescripciones de la Directiva 71/316/CEE . Dichas prescripciones se completarán con las disposiciones especiales siguientes : 
+7 . PRIMERA COMPROBACIÓN CEE 
+La primera comprobación de los contadores de energía eléctrica incluirá pruebas de homologación y exámenes de conformidad respecto al modelo aprobado . 
+7.1 . Pruebas de homologación 
+Las pruebas de homologación de los contadores garantizarán la calidad de los mismos por lo que se refiere a los puntos que se enumeran en el número 7.1.1 . 
+7.1.1 . Naturaleza de las pruebas de homologación 
+( 1 ) - Prueba de rigidez dieléctrica , 
+( 2 ) - Comprobaciones que no requieran la apertura de la caja , 
+( 3 ) - Prueba de marcha de vacío , 
+( 4 ) - Prueba de puesta en marcha , 
+( 5 a 10 ) - Pruebas de exactitud , 
+( 11 ) - Comprobación de la constante . 
+Las pruebas se efectuarán preferentemente en el orden anteriormente señalado , que se detalla en los números 7.1.2 y 7.1.3 . 
+7.1.2 . Condiciones de las pruebas de homologación 
+Los controles deberán efectuarse respecto a cada contador , con la caja cerrada , salvo por lo que se refiere a determinadas propiedades mecánicas y , si fuere necesario , respecto al control del dispositivo registrador . 
+No obstante , cuando la primera comprobación se realice en los talleres del fabricante , se admitirá que las pruebas se efectuen con la caja abierta , siempre y cuando se haya reconocido previamente que la posición de la cubierta no influirá en los resultados . No obstante , cuando se realice el control de las cualidades dieléctricas , las cajas deberán estar cerradas . 
+Una vez realizadas de manera satisfactoria las pruebas de rigidez eléctrica , y antes de que se proceda a cualquier otro tipo de control , los contadores deberán alimentarse durante por lo menos media hora con la tensión de referencia y una corriente de alrededor de 0,1 I b , con un factor de potencia unidad . Con esta alimentación se podrá obtener el calentamiento previo del circuito de tensión y comprobar que el rotor gira libremente . 
+Las pruebas n º 3 a 11 deberán efectuarse en las condiciones del cuadro III o del cuadro V . 
+CUADRO V 
+Magnitud de influencia * Valor de referencia * Tolerancias en más y en menos * 
+Temperatura ambiente * 23 ° C * 2 ° C (1) * 
+Posición Vertical * 1 ° * 
+Tensión * de referencia * 1,5 % * 
+Frecuencia * 50 Hz * 0,5 % * 
+Forma de onda de tensión y de corriente * sinusoidal * factor de distorsión inferior o igual a 5 % * 
+Inducción magnética de origen externo a la frecuencia de 50 Hz * nula * inducción que no provoca variación del error a 0,3 % con 0,1 I b , para un factor de potencia unidad (2) * 
+Además , para los contadores polifásicos 
+Orden de las fases * Secuencia directa * * 
+Desequilibrio de las tensiones y de las corrientes (3) * nula * como en la letra e ) del punto 5.2 , sustituyendo el 1 % por el 1,5 % * 
+(1) Las pruebas podrán realizarse a una temperatura fuera de la comprendida entre los 21-25 ° C , pero comprendida entre los 15-30 ° C , a condición de que se efectúe una corrección en relación con la temperatura de referencia de 23 ° C utilizando el coeficiente medio de temperatura que indique el fabricante . 
+(2) Véase la nota del cuadro III . 
+(3) Salvo para las pruebas con una sola fase cargada . 
+7.1.3 . Ejecución de las pruebas de homologación 
+7.1.3.1 . Prueba de rigidez dieléctrica ( prueba n º 1 ) 
+La prueba con la tensión alterna consiste en aplicar durante un minuto una tensión alterna de frecuencia 50 Hz y de valor eficaz de 2 kV entre el conjunto de los bornes conectados entre sí y la superficie metálica plana sobre la que se coloca el contador . Para dicha prueba , los circuitos auxiliares cuya tensión nominal sea inferior o igual a 40 V se conectarán con la superficie metálica plana . 
+El fabricante llevará a cabo la prueba respecto a cada aparato y bajo su responsabilidad . El servicio metrológico competente llevará asimismo a cabo un control . 
+7.1.3.2 . Comprobaciones que deberán efectuarse con la caja cerrada ( prueba n º 2 ) 
+- Buen estado aparente de la caja y de la placa de bornes 
+- Posición correcta del cuadrante 
+- Presencia de todas las indicaciones prescritas . 
+7.1.3.3 . Marcha de vacío ( prueba n º 3 ) 
+La opción entre las dos pruebas que se indican a continuación corresponderá sin limitaciones al servicio metrológico competente : 
+- cuando el contador esté alimentado con la tensión de referencia , con un factor de potencia igual a 1 y una corriente igual a 0,001 I b , el rotor no efectuará una revolución completa ; 
+- la prueba se efectuará con arreglo al número 5.6 . 
+7.1.3.4 . Puesta en marcha ( prueba n º 4 ) 
+Si la prueba de marcha de vacío se hubiera realizado en las condiciones que se indican en el primer guión del número 7.1.3.3 , la prueba de puesta en marcha deberá realizarse de la manera siguiente : 
+cuando el contador esté alimentado con la tensión de referencia , con un factor de potencia igual a 1 y una corriente igual a 0,006 I b , el rotor deberá ponerse en marcha y efectuar más de una revolución . 
+Cuando la prueba de marcha de vacío se haya efectuado con arreglo a las condiciones del segundo guión del número 7.1.3.3 , la prueba de puesta en marcha deberá realizarse con arreglo al número 5.7 . 
+Nota : Respecto a los contadores polifásicos , las pruebas n º 3 y 4 deberán efectuarse con todas las fases cargadas . 
+7.1.3.5 . Pruebas de exactitud ( pruebas n º 5 a 10 ) 
+Las pruebas de exactitud deberán realizarse respecto a los valores de corriente y los factores de potencia que se indican en el cuadro VI . 
+Con este fin , no será necesario alcanzar el equilibrio térmico de las bobinas . Habida cuenta de que en general dichas pruebas no se realizan en las condiciones que se exigen para la aprobación de modelo , en lugar de los valores a que se refieren los cuadros 1 y 2 , se utilizarán los valores ampliados del cuadro VI . 
+CUADRO VI 
+Número de pruebas * Valor de la corriente * Factor de potencia * Contadores * Carga de contadores polifásicos * Errores máximos tolerados en más o en menos * 
+5 * 0,05 I b * 1 * monofásicos y polifásicos * equilibrada * 3 % (1) * 
+6 * I b * 1 * monofásicos y polifásicos * equilibrada * 2,5 % * 
+7 * I b * 0,5 inductivo * monofásicos y polifásicos * equilibrada * 2,5 % * 
+8 y 9 * I b * 1 * monofásicos y polifásicos * 1 fase cargada ( 1 prueba para 2 de las fases ) * 3,5 % * 
+10 * I b * 1 * monofásicos y polifásicos * equilibrada * 2,5 % * 
+(1) En los contadores cuya corriente máxima sea superior a cuatro veces la corriente de base , el error máximo tolerado , en más o en menos , para la prueba n º 5 , se aumentará en 0,5 % durante el período de cinco años y medio a que se refiere el artículo 3 . 
+Nota : En los contadores de tarifa múltiple , la prueba n º 5 deberá repetirse respecto a las indicaciones que corresponden a cada una de las tarifas . La alimentación del ( o los ) electroimán(es) de cambio de tarifas se efectuará con arreglo a las indicaciones del esquema de conexión . 
+Los límites de errores admisibles no deberán explotarse sistemáticamente en el mismo sentido . 
+7.1.3.6 . Control de la concordancia del dispositivo registrador con la constante del contador ( prueba n º 11 ) 
+Habrá que asegurarse de que la relación entre el número de vueltas del rotor y las indicaciones del dispositivo o dispositivos indicadores sea la correcta . 
+7.1.3.7 . Incertidumbre de la medición 
+Las cualidades de los aparatos de medida y demás equipos utilizados para efectuar las pruebas n º 5 a 10 y , en su caso , la n º 11 , deberán garantizar que los errores de medición que les sean imputables no sobrepasen en valor relativo : 
+- el 0,4 % en más o en menos con un factor de potencia igual a 1 ; 
+- el 0,6 % en más o en menos con un factor de potencia igual a 0,5 ( inductivo ) . 
+7.2 . Examen de conformidad con el modelo aprobado 
+7.2.1 . Naturaleza del examen de conformidad con el modelo aprobado 
+Con el objeto de determinar si las cualidades metrológicas de los contadores fabricados y presentados a la primera comprobación siguen ateniéndose a las prescripciones de la presente Directiva , podrá procederse , con una periodicidad que determinará el servicio metrológico competente , a un examen de conformidad en relación con el modelo aprobado , examen que se efectuará respecto a tres contadores elegidos al azar después de las pruebas de homologación . 
+Dicho examen consistirá en una o varias pruebas elegidas entre las que se exponen en la presente Directiva ( puntos 3 y 5 ) , en particular , aquéllas que permitan determinar los efectos de las magnitudes de influencia . 
+Dichas pruebas deberán efectuarse en las condiciones de referencia que se describen en el número 5.2 , sobre los puntos de medición que se indican en el número 6.3 . 
+Asimismo , después de la apertura de la caja , podrán comprobarse los puntos siguientes : 
+- la calidad de protección de la superficie , por ejemplo , de las pinturas ; 
+- la relación de engranajes ; 
+- la calidad de engranaje del elemento registrador ; 
+- la calidad de las soldaduras ; 
+- el ajuste de los tornillos ; 
+- la ausencia de limaduras y de polvo metálico ; 
+- los márgenes de regulación ( examen visual ) . 
+Observación 
+Cuando los contadores de un determinado modelo se fabriquen de manera continua , será conveniente que la periodicidad del examen de conformidad en relación con el modelo aprobado se realice proporcionalmente al volumen de producción . 
+Por lo demás , dicho procedimiento deberá aplicarse cada vez que se descubran defectos sistemáticos durante las pruebas de recepción u otros tipos de prueba . 
+7.3 . Marcas de comprobación y de precinto 
+Los contadores que se hayan sometido con éxito a las pruebas de primera comprobación recibirán las marcas de la primera comprobación CEE . 
+Los precintos deberán llevar las marcas de la primera comprobación CEE estar colocados de manera que resulte imposible tener acceso al mecanismo interno del contador sin romper los precintos que llevan dichas marcas . 

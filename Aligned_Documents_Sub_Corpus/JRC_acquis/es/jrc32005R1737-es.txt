@@ -1,0 +1,469 @@
+Reglamento (CE) n%deg% 1737/2005 de la Comisi%oacute%n, de 21 de octubre de 2005, por el que se modifica el Reglamento (CE) n%deg% 1726/1999 en cuanto a la definici%oacute%n y la transmisi%oacute%n de la informaci%oacute%n sobre costes salariales (Texto pertinente a efectos del EEE) 
+Reglamento (CE) no 1737/2005 de la Comisión 
+de 21 de octubre de 2005 
+por el que se modifica el Reglamento (CE) no 1726/1999 en cuanto a la definición y la transmisión de la información sobre costes salariales 
+(Texto pertinente a efectos del EEE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) no 530/1999 del Consejo, de 9 de marzo de 1999, relativo a las estadísticas estructurales sobre ingresos y costes salariales [1], y, en particular, su artículo 11, incisos ii) y iii), 
+Considerando lo siguiente: 
+(1) El Reglamento (CE) no 1726/1999 de la Comisión, de 27 de julio de 1999, por el que se aplica el Reglamento (CE) no 530/1999 del Consejo, relativo a las estadísticas estructurales sobre ingresos y costes salariales en cuanto a la definición y transmisión de la información sobre costes salariales [2], establece medidas de ejecución relativas a la definición y el desglose de la información que debe facilitarse, así como el formato técnico adecuado para la transmisión de los resultados, tal como se prevé en el artículo 11 del Reglamento (CE) no 530/1999. 
+(2) La encuesta sobre costes salariales para el año de referencia 2000 era la primera encuesta basada en el Reglamento (CE) no 1726/1999. La experiencia sobre estas encuestas demuestra la necesidad de mejorar las disposiciones del Reglamento (CE) no 1726/1999 para adaptarlas a las disposiciones correspondientes del Reglamento (CE) no 1916/2000 de la Comisión, de 8 de septiembre de 2000, por el que se aplica el Reglamento (CE) no 530/1999 del Consejo, relativo a las estadísticas estructurales sobre ingresos y costes salariales [3], por lo que respecta a la definición y transmisión de la información sobre la estructura de los ingresos, así como la necesidad de mejorar los vínculos entre los datos de las diferentes encuestas sobre ingresos y costes salariales que se realizan cada dos años. 
+(3) El Reglamento (CE) no 1726/1999 debe por lo tanto modificarse en consecuencia. 
+(4) Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité del programa estadístico. 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+Los anexos del Reglamento (CE) no 1726/1999 se sustituyen por el texto de los anexos del presente Reglamento. 
+Artículo 2 
+El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 21 de octubre de 2005. 
+Por la Comisión 
+Joaquín Almunia 
+Miembro de la Comisión 
+[1] DO L 63 de 12.3.1999, p. 6. Reglamento modificado por el Reglamento (CE) no 1882/2003 del Parlamento Europeo y del Consejo (DO L 284 de 31.10.2003, p. 1). 
+[2] DO L 203 de 3.8.1999, p. 28. 
+[3] DO L 229 de 9.9.2000, p. 3. 
+-------------------------------------------------- 
+ANEXO I 
+LISTA DE VARIABLES 
+Estadísticas estructurales sobre costes salariales 
+Tabla A — Datos nacionales 
+Tabla B — Datos nacionales por clases de tamaño de las empresas 
+Tabla C — Datos regionales 
+Para las variables indicadas a continuación deberá facilitarse solo la tabla A o bien las tres tablas. La letra "o" indica que debe suministrarse obligatoriamente y la letra "f", que es facultativo. Los códigos de transmisión correspondientes a las diferentes categorías de variables cualitativas o clases de tamaño de las variables cuantitativas los establece Eurostat en un documento de aplicación. 
+Variable | Sólo A | A-C [1] | 
+A.Número de asalariados 
+A.1Número total de asalariados | | o | 
+A.11Asalariados a tiempo completo (excluyendo a los aprendices) | | o | 
+A.12Asalariados a tiempo parcial (excluyendo a los aprendices) | | o | 
+A.121Asalariados a tiempo parcial convertidos en unidades de tiempo completo (excluyendo a los aprendices) | | o | 
+A.13Aprendices | | o | 
+A.131Aprendices convertidos en unidades de tiempo completo | | o | 
+B.Horas de trabajo efectivas 
+B.1Número total de horas de trabajo efectivas | | o | 
+B.11Horas de trabajo efectivas de los asalariados a tiempo completo (excluyendo a los aprendices) | | o | 
+B.12Horas de trabajo efectivas de los asalariados a tiempo parcial (excluyendo a los aprendices) | | o | 
+B.13Horas de trabajo efectivas de los aprendices | | o | 
+C.Horas pagadas 
+C.1Número total de horas pagadas | o | | 
+C.11Horas pagadas a los asalariados a tiempo completo (excluyendo a los aprendices) | o | | 
+C.12Horas pagadas a los asalariados a tiempo parcial (excluyendo a los aprendices) | o | | 
+C.13Horas pagadas a los aprendices | o | | 
+D.Costes salariales (véanse los detalles en el gráfico 1) 
+D.1Remuneración de los asalariados | | o | 
+D.11Sueldos y salarios (véanse los detalles en el gráfico 2) | | o | 
+D.111Sueldos y salarios (excluyendo a los aprendices) | | o | 
+D.1111Remuneración directa, primas y asignaciones | | o | 
+D.11111Remuneración directa, primas y asignaciones abonadas en cada período de remuneración | o | | 
+D.11112Remuneración directa, primas y asignaciones no abonadas en cada período de remuneración [2] | o | | 
+D.1112Pagos a planes de ahorro de los asalariados | | o | 
+D.1113Pagos por días no trabajados | | o | 
+D.1114Sueldos y salarios en especie | | o | 
+D.11141Productos de la empresa (facultativo) | f | | 
+D.11142Alojamiento del personal [3] (facultativo) | f | | 
+D.11143Automóviles de empresa (facultativo) | f | | 
+D.11144Opciones sobre acciones y planes de compra de acciones (facultativo) | f | | 
+D.11145Otros (facultativo) | f | | 
+D.112Sueldos y salarios de aprendices | | o | 
+D.12Cotizaciones sociales a cargo de los empleadores (véanse los detalles en el gráfico 3) | | o | 
+D.121Cotizaciones sociales efectivas a cargo de los empleadores (excluyendo a los aprendices) | | o | 
+D.1211Cotizaciones obligatorias a la seguridad social | o | | 
+D.1212Cotizaciones a la seguridad social acordadas por convenio colectivo, contractuales y voluntarias | o | | 
+D.122Cotizaciones sociales imputadas a cargo de los empleadores (excluyendo a los aprendices) | | o | 
+D.1221Remuneración garantizada en caso de enfermedad (facultativo) | f | | 
+D.1222Cotizaciones sociales imputadas a cargo de los empleadores para pensiones y asistencia sanitaria (facultativo) | f | | 
+D.1223Pagos a asalariados que abandonan la empresa (facultativo) | f | | 
+D.1224Otras cotizaciones sociales imputadas a cargo de los empleadores (facultativo) | f | | 
+D.123Cotizaciones sociales a cargo de los empleadores para aprendices | | o | 
+D.2Costes de formación profesional | | o | 
+D.3Otros gastos a cargo de los empleadores | | o | 
+D.4Impuestos | | o | 
+D.5Subvenciones recibidas por los empleadores | | o | 
+E.Información sobre las unidades 
+E.1Unidades locales, población | | o | 
+E.2Unidades locales, muestra | | o | 
+Los Estados miembros tendrán la opción de registrar datos más detallados para las variables siguientes (transmisión a Eurostat únicamente cuando se solicitan): 
+A.11. Asalariados a tiempo completo 
+A.12. Asalariados a tiempo parcial 
+D.11112. Remuneración directa, primas y asignaciones no abonadas en cada período de remuneración 
+D.1113. Pagos por días no trabajados 
+D.1211. Cotizaciones obligatorias a la seguridad social 
+D.1212. Cotizaciones a la seguridad social acordadas por convenio colectivo, contractuales y voluntarias 
+D.1223. Pagos a asalariados que abandonan la empresa 
+Gráfico 1 
+Costes salariales y sus principales componentes 
++++++ TIFF +++++ 
+Costes salariales D(D = D1 + D2 + D3 + D4 - D5)Remuneración de los asalariadosD1Costes de formación profesional(excluyendo los dueldos y salarios de los aprendices)D2Otros gastos a cargo de los empleadoresD3Impuestos a cargo de los empleadoresD4Subvencionesrecibidas por losempleadoresD5Sueldos y salariosD11Nuevo desglose:gráfico 2Cotizaciones sociales acargo de los empleadoresD12Nuevo desglose:gráfico 3 
+Gráfico 2 
+Desglose del componente "Sueldos y salarios" (D.11) 
++++++ TIFF +++++ 
+Sueldos y salariosD11Sueldos y salarios(excluyendo a los aprendices)D111Sueldos y salariosde los aprendicesD112Remuneración directa, primas y asignacionesD1111Pagos a planes de ahorrode los asalariadosD1112Pagos por días no trabajadosD1113Sueldos y salarios en especieD1114Remuneración directa, primas y asignacionesabonadas en cada período de remuneraciónD11111Remuneración directa, primas y asignaciones no pagadas en cada período de remuneraciónD11112Productos de la empresaD11141Alojamiento del personalD11142Automóviles de empresaD11143Opciones sobre acciones y planes de compra de accionesD11144Otros pagos en especieD11145 
+Gráfico 3 
+Desglose del componente "Cotizaciones sociales a cargo de los empleadores" (D.12) 
++++++ TIFF +++++ 
+Cotizaciones sociales a cargo de los empleadoresD12Cotizaciones sociales efectivas a cargo de los empleadores (excluyendo a los aprendices)D121Cotizaciones sociales imputadas a cargo de los empleadores (excluyendo a los aprendices)D122Cotizaciones sociales a cargo de los empleadores para aprendicesD123Cotizaciones obligatorias a la seguridad socialD1211Cotizaciones a la seguridad social acordadas por convenio colectivo, contracturales y voluntariasD1212Remuneración garantizada en caso de enfermedadD1221Cotizaciones sociales imputadas a cargo de los empleados para pensiones y asistencia sanitariaD1222Pagos a asalariados que abondonan la empresaD1223Otras cotizaciones sociales imputadas a cargo de los empleadoresD1224Variables facultativas 
+[1] Las tablas C sólo son pertinentes para los países con regiones NUTS 1. 
+[2] Excepto los pagos a planes de ahorro de los trabajadores. 
+[3] Salvo las indemnizaciones por traslado. 
+-------------------------------------------------- 
+ANEXO II 
+DEFINICIONES DE LAS VARIABLES 
+A. NÚMERO DE ASALARIADOS 
+Los asalariados son todas las personas, cualquiera que sea su nacionalidad o el tiempo que lleven trabajando en el país, que tienen un contrato laboral directo (formal o informal) con la empresa o unidad local y perciben una remuneración, independientemente del tipo de trabajo que realicen, del número de horas trabajadas (tiempo completo o parcial) y de la duración del contrato (determinada o indefinida). La remuneración de los asalariados puede consistir en sueldos y salarios, con inclusión de primas, retribución de trabajo a destajo y trabajo a turnos, asignaciones, honorarios, propinas y gratificaciones, comisiones y remuneración en especie. 
+Esta definición de los asalariados se aplica también a los trabajadores manuales y no manuales y al personal directivo de los sectores privados y públicos de las actividades económicas clasificadas en las secciones C-K y M-O de la NACE Rev. 1.1 en empresas de al menos diez asalariados [1]. 
+La lista siguiente ofrece ejemplos ilustrativos de categorías de asalariados a las que se aplica: 
+- representantes comerciales, a condición de que figuren en la nómina y reciban otro tipo de remuneración además de las posibles comisiones, 
+- propietarios remunerados por su trabajo, 
+- aprendices, 
+- estudiantes y trabajadores en prácticas (pasantes, estudiantes de enfermería, asistentes de investigación o docencia, internos hospitalarios, etc.) que tengan un compromiso formal por el que contribuyen al proceso de producción de la unidad a cambio de una remuneración, 
+- trabajadores temporales (por ejemplo, personal de secretaría) contratados, empleados y remunerados por empresas de trabajo temporal y puestos a disposición de otros empleadores, a menudo durante períodos temporales [2]; trabajadores estacionales y eventuales, si tienen un acuerdo formal o informal con la empresa o la unidad local y las horas de trabajo están predefinidas, 
+- asalariados cuyos costes salariales se han contraído en el año de referencia, durante el cual se han ausentado temporalmente de su trabajo por enfermedad o lesión, vacaciones, huelga o cierre patronal, estudios o formación, maternidad o paternidad, actividad económica reducida, suspensión del trabajo por malas condiciones climatológicas, avería mecánica o falta de material, combustible o electricidad u otros motivos de ausencia temporal, con o sin permiso, 
+- personas que trabajan en el extranjero si continúan recibiendo una remuneración de la unidad estadística, 
+- los trabajadores a domicilio [3], incluidos los teletrabajadores, si existe un acuerdo explícito por el cual se remunera al trabajador según el trabajo realizado, es decir, según la cantidad de trabajo aportada como insumo al proceso de producción. 
+Deben excluirse las categorías siguientes: 
+- representantes comerciales y otras personas que estén totalmente remuneradas mediante honorarios o comisiones, no figuren en la nómina o sean trabajadores por cuenta propia, 
+- propietarios, directores o gerentes cuya remuneración consista íntegramente en una participación en los beneficios, 
+- trabajadores familiares que no sean asalariados (según la definición dada anteriormente) de la empresa o de la unidad local, 
+- trabajadores por cuenta propia, 
+- trabajadores voluntarios no remunerados (por ejemplo, aquellos que trabajan generalmente para instituciones no lucrativas, como las organizaciones benéficas). 
+Referencia SEC 95: 11.12-11.14 
+A.1. Número total de asalariados 
+Esta variable incluye a los asalariados a tiempo completo (A.11), a los asalariados a tiempo parcial (A.12) y a los aprendices (A.13). 
+Referencia EEE (estadísticas estructurales de las empresas): código 16130 (número de empleados) 
+A.11. Asalariados a tiempo completo (excluyendo a los aprendices) 
+Esta categoría incluye a los asalariados (excepto los aprendices) cuya jornada laboral regular coincide con la acordada por convenio colectivo o el horario de trabajo habitual en la empresa o la unidad local, aunque su contrato sea inferior a un año. El número de asalariados requerido corresponde a la media mensual de asalariados a tiempo completo empleados en la unidad notificadora durante el año de referencia. 
+A.12. Asalariados a tiempo parcial (excluyendo a los aprendices) 
+Esta categoría incluye a los asalariados (excepto los aprendices) cuya jornada laboral regular es inferior a la acordada mediante convenio colectivo o al horario de trabajo habitual en la empresa o unidad local, ya sea diario, semanal o mensual (media jornada, tres cuartos de jornada, cuatro quintos de jornada, etc.). El número de asalariados requerido corresponde a la media mensual de asalariados a tiempo parcial empleados en la unidad notificadora durante el año de referencia. 
+A.121. Asalariados a tiempo parcial convertidos en unidades de tiempo completo 
+Esta conversión deben realizarla directamente las empresas o unidades locales que hacen la declaración o bien las agencias de recogida/los institutos nacionales de estadística basándose en el horario laboral normal de los trabajadores a tiempo completo en dichas empresas o unidades locales y empleando el método que consideren más apropiado. El número de asalariados requerido corresponde a la media mensual de asalariados a tiempo parcial (convertida en unidades a tiempo completo) empleados en la unidad notificadora durante el año de referencia. 
+Referencia SEC 95: 11.32-11.34 
+A.13. Aprendices 
+Esta categoría incluye a todos los asalariados, a tiempo parcial o a tiempo completo, que aún no participan plenamente en el proceso de producción y que trabajan con un contrato de aprendizaje o en una situación en la que la formación profesional predomina sobre la productividad. El número de aprendices requerido corresponde a la media mensual de aprendices empleados en la unidad notificadora durante el año de referencia. 
+A.131. Aprendices a tiempo parcial convertidos en unidades de tiempo completo 
+Esta conversión deben realizarla directamente las empresas o unidades locales que hacen la declaración o bien las agencias de recogida/los institutos nacionales de estadística mediante el método que consideren más apropiado. Deberán excluirse las horas dedicadas a la formación en la empresa/unidad local o en centros educativos. El número de aprendices requerido corresponde a la media mensual de aprendices a tiempo parcial (convertidos en unidades a tiempo completo) empleados en la unidad notificadora durante el año de referencia [4]. 
+Referencias SEC 95: 11.32-11.34; EEE: código 16140 (A.11 + A.121 + A.131 corresponden a la variable EEE "Número de empleados en unidades de equivalentes de jornada completa") 
+B. HORAS DE TRABAJO EFECTIVAS 
+Las estadísticas incluyen el número total de horas trabajadas por todos los asalariados durante el año. El total de horas de trabajo efectivas (B.1) se registra por separado para los asalariados a tiempo completo (B.11), los asalariados a tiempo parcial (B.12) y los aprendices (B.13). 
+Las horas de trabajo efectivas se definen como la suma de todos los períodos dedicados a actividades directas y secundarias para la producción de bienes y la prestación de servicios. 
+Las horas de trabajo efectivas incluyen: 
+- las horas trabajadas en períodos de trabajo normales, 
+- las horas extraordinarias remuneradas, esto es, las trabajadas además de la jornada laboral normal, independientemente de la tarifa horaria aplicada (por ejemplo, una hora remunerada al doble de la tarifa normal debe contabilizarse como una hora), 
+- las horas extraordinarias no remuneradas [5], 
+- el tiempo dedicado a tareas tales como: preparar el trabajo y el lugar; preparar, mantener, reparar y limpiar las herramientas y las máquinas; establecer recibos y facturas; redactar fichas e informes de trabajo, etc., 
+- el tiempo pasado en el lugar de trabajo durante el cual no se trabaja debido, por ejemplo, a paradas de la maquinaria, accidentes o falta de trabajo temporal, pero por el que se recibe una remuneración de acuerdo con el contrato laboral, 
+- los cortos períodos de descanso en el lugar de trabajo, incluidas las pausas para refrigerio, 
+- las horas dedicadas a la formación en la empresa/la unidad local o en centros educativos (salvo si se trata de aprendices). 
+En cambio, las horas de trabajo efectivas no incluyen: 
+- las horas remuneradas pero no trabajadas, tales como las vacaciones anuales remuneradas, los días festivos o las ausencias por enfermedad, maternidad, etc., 
+- las horas no trabajadas y no remuneradas, por ejemplo las ausencias por enfermedad, maternidad, etc. 
+- las horas no trabajadas (remuneradas o no) durante permisos especiales para reconocimientos médicos, bodas, funerales o mudanzas, permisos consecutivos a accidentes, etc., 
+- la pausa para el almuerzo (no incluye los breves descansos o las pausas para refrigerio), 
+- las horas no trabajadas (remuneradas o no) en caso de jornada reducida, conflictos laborales, cierres patronales, etc., 
+- el tiempo empleado por el asalariado en los trayectos entre el domicilio y el lugar de trabajo, 
+- las horas que los aprendices dedican al aprendizaje en la empresa/unidad local o en centros educativos. 
+Referencias SEC 95: 11.26-11.29; EEE: código 16150 (número de horas trabajadas por los empleados) 
+C. HORAS PAGADAS 
+Esta variable comprende el número total de horas pagadas durante el año. El número total de horas pagadas (C.1) se registra por separado para los asalariados a tiempo completo (C.11), los asalariados a tiempo parcial (C.12) y los aprendices (C.13). 
+El número anual de horas pagadas comprende: 
+- las horas normales y extraordinarias remuneradas durante el año, 
+- horas que se hayan pagado al trabajador a tarifa reducida, aunque se haya compensado la diferencia mediante pagos procedentes de fondos de seguridad social, 
+- horas no trabajadas durante el período de referencia, pero pagadas (vacaciones anuales, bajas por enfermedad, días festivos y otras horas pagadas, con inclusión de las ausencias como consecuencia de reconocimientos médicos, nacimientos, bodas, funerales, mudanzas, etc.). 
+Cálculo de las horas de trabajo efectivas anuales y las horas pagadas anuales 
+Estos cálculos deben realizarlos directamente las empresas o unidades locales que hacen la declaración o bien las agencias de recogida/los institutos nacionales de estadística mediante el método que consideren más apropiado. Los modelos siguientes ilustran cómo pueden estimarse las horas de trabajo efectivas y las horas pagadas a partir de la información disponible. 
+Horas de trabajo efectivas anuales de los asalariados a tiempo completo (B.11) 
+Supongamos que disponemos de información para las variables indicadas a continuación: 
+(A.11) promedio mensual de asalariados a tiempo completo 
+a) promedio anual de horas contractuales normales de un asalariado a tiempo completo, excluyendo las horas extraordinarias y las pausas para el almuerzo; 
+b) promedio anual de horas extraordinarias (pagadas y no pagadas) de un asalariado a tiempo completo; 
+c) promedio de horas contractuales y extraordinarias diarias de un asalariado a tiempo completo, excluyendo las pausas para el almuerzo; 
+d) promedio anual de días de vacaciones que concede el empleador por asalariado a tiempo completo; 
+e) promedio anual de días festivos oficiales por asalariado a tiempo completo; 
+f) promedio anual de días de ausencia por enfermedad y maternidad por asalariado a tiempo completo; 
+g) promedio anual de días de jornada reducida y conflictos laborales por asalariado a tiempo completo; 
+h) promedio anual de los demás días no trabajados por asalariado a tiempo completo (por ejemplo, permisos especiales para reconocimientos médicos, nacimientos, bodas, funerales o mudanzas, permisos consecutivos a accidentes, etc.). 
+El total anual de horas trabajadas por los asalariados a tiempo completo (antes de las correcciones por los días realmente no trabajados) equivale a (A.11) × (a + b). Si se sustrae el total anual de horas realmente no trabajadas, equivalente a (A.11) × c × (d + e + f + g + h), se obtiene el total anual de horas de trabajo efectivas de los asalariados a tiempo completo (B.11): 
+(B.11) = (A.11) × [(a + b) – c (d + e + f + g + h)]. 
+Horas de trabajo efectivas anuales de los asalariados a tiempo completo (B.12) y de los aprendices (B.13) 
+Pueden utilizarse modelos similares para calcular las horas trabajadas por los asalariados a tiempo parcial y los aprendices. 
+Horas de trabajo pagadas anuales de los asalariados a tiempo completo (C.11) 
+Si se dispone de información para las variables siguientes 
+(A.11) Promedio mensual de asalariados a tiempo completo; 
+(a1) Promedio anual de horas contractuales pagadas a un asalariado a tiempo completo, excluyendo las horas extraordinarias y las pausas para el almuerzo; 
+(b1) Promedio anual de horas extraordinarias pagadas a un asalariado a tiempo completo; 
+el total anual de horas pagadas a los asalariados a tiempo completo se calcula mediante la ecuación siguiente: 
+(C.11) = (A.11) × (a1 + b1). 
+Horas de trabajo pagadas anuales de los asalariados a tiempo parcial (C.12) y a los aprendices (C.13) 
+Pueden utilizarse modelos similares para calcular las horas pagadas a los asalariados a tiempo parcial y a los aprendices. 
+D. COSTES SALARIALES 
+Los costes salariales consisten en el gasto total que soportan los empleadores al emplear a su personal, concepto que ha sido adoptado en el marco comunitario y que se ajusta globalmente a la definición internacional de la Conferencia Internacional de Estadísticas del Trabajo (Ginebra, 1966). Los costes salariales comprenden la remuneración de las asalariados (D.1) con sueldos y salarios en efectivo o en especie, las cotizaciones sociales a cargo de los empleadores, los costes de formación profesional (D.2), otros gastos (D.3) y los impuestos relacionados con el empleo considerados costes salariales (D.4); debe deducirse toda subvención recibida (D.5). Los costes correspondientes a personas empleadas por agencias de empleo temporal deben incluirse en la rama de actividad de la agencia que las emplea (NACE Rev.1, 74.50) y no en la rama de actividad de la empresa para la que trabajan realmente. 
+Los gráficos 1 a 3 del anexo I permiten visualizar un desglose de los costes salariales totales por componente. 
+D.1 Remuneración de los asalariados 
+La remuneración de los asalariados es toda la remuneración en efectivo y en especie que deben pagar los empleadores a sus asalariados como contrapartida por el trabajo que estos realizan durante el período de referencia. Se desglosa en: 
+- los sueldos y salarios (D.11), que consisten principalmente en sueldos y salarios (excluyendo a los aprendices) (D.111) y los sueldos y salarios de los aprendices (D.112), 
+- las cotizaciones sociales a cargo de los empleadores (D.12), que consisten principalmente en las cotizaciones sociales efectivas a cargo de los empleadores (excluyendo a los aprendices) (D.121), las cotizaciones sociales imputadas a cargo de los empleadores (excluyendo a los aprendices) (D.122) y las cotizaciones sociales para aprendices a cargo de los empleadores (D.123). 
+Referencias SEC 95: 4.02 (código D.1); EEE: código 13310 (costes de personal) 
+D.11 Sueldos y salarios 
+Los sueldos y salarios incluyen las primas, la remuneración del trabajo a destajo y del trabajo por turnos, las asignaciones, los honorarios, las propinas y gratificaciones, las comisiones y las remuneraciones en especie. Los sueldos y salarios se registran en el período en el que se efectúa el trabajo. No obstante, las primas especiales u otros pagos excepcionales (el decimotercer mes, los atrasos de sueldo, etc.) se registran a su vencimiento. 
+El grafico 2 del anexo I ofrece un desglose completo de los sueldos y salarios por componente. 
+Referencias SEC 95: 4.03-4.07 y 4.12 (a) (código D.11); EEE: código 13320 (sueldos y salarios) 
+D.111. Sueldos y salarios (excluyendo a los aprendices) 
+D.1111. Remuneración directa, primas y asignaciones 
+La remuneración directa, las primas y las asignaciones incluyen el valor de todas las cotizaciones sociales, los impuestos sobre la renta, etc., a cargo del asalariado, aunque en realidad el empleador los retenga y los pague directamente a los sistemas de seguros sociales, las autoridades fiscales, etc., en nombre del asalariado. 
+Una prima es una forma de recompensa o reconocimiento que concede un empleador. Cuando un asalariado recibe una prima, no se espera ni se supone que esta se utilice para cubrir un gasto específico. El valor de la prima y el momento de su pago podrán dejarse a la discreción del empleador o especificarse en los contratos laborales. 
+Una asignación es un derecho que el empleador concede a un asalariado para cubrir un gasto específico que este contraiga no relacionado con el trabajo. A menudo las asignaciones están especificadas en los contratos laborales y normalmente se abonan en el momento en que se adquiere el derecho. 
+D.11111. Remuneración directa, primas y asignaciones abonadas en cada período de remuneración 
+Se trata de la remuneración en forma de pagos en efectivo realizados regularmente en cada período de remuneración durante el año. El período de remuneración para la mayoría de los asalariados es semanal o mensual. Por ello, no deben incluirse en esta variable los pagos recibidos con menor frecuencia (mensuales en el caso de remuneración regular semanal, trimestrales, semestrales o anuales) o de manera ad hoc. Los pagos efectuados a planes de ahorro de los asalariados no deben incluirse en esta variable sino en la D.1112. 
+La presente variable se refiere específicamente a: 
+- los sueldos y salarios básicos, 
+- la remuneración directa calculada sobre la base del tiempo trabajado, la producción o el trabajo a destajo y pagada a los asalariados por horas trabajadas, 
+- la remuneración y los pagos adicionales por horas extraordinarias, trabajo nocturno, en domingos o en días festivos y el trabajo por turnos, 
+- la primas y asignaciones pagadas regularmente en cada período de remuneración, tales como: 
+- las primas por trabajo en circunstancias de ruido, riesgo, trabajo difícil, trabajo por turnos o continuo, trabajo nocturno y trabajo en domingos o días festivos, 
+- las primas por rendimiento individual y las primas por resultados, producción, productividad, responsabilidad, diligencia y puntualidad; las primas regulares por antigüedad; las primas por cualificaciones y conocimientos especiales. 
+En el apéndice del anexo II figuran más ejemplos de pagos que deberían incluirse en esta variable. 
+La variable D.11111 se refiere a los importes brutos, antes de deducir los impuestos y las cotizaciones a la seguridad social imputables a los asalariados. 
+D.11112. Remuneración directa, primas y asignaciones no pagadas en cada período de remuneración 
+Son todos los pagos a los asalariados que no se efectúen regularmente en cada período de remuneración (semanal o mensual). Incluyen las primas y las asignaciones pagadas en períodos fijos (por ejemplo, mensuales cuando la remuneración regular es semanal, trimestrales, semestrales o anuales), y las primas relacionadas con el rendimiento individual o colectivo. Los pagos excepcionales a los asalariados que abandonan la empresa se incluyen en esta variable, a condición de que no estén vinculados con un convenio colectivo. Si no se dispone de información relativa a una posible vinculación con un convenio colectivo o si se sabe que existe esta vinculación, los pagos excepcionales por abandono de la empresa no deben incluirse en esta variable sino en la D.1223. Tampoco deben incluirse en ella sino en la D.1112 los pagos a los planes de ahorro de los asalariados. 
+En el apéndice del anexo II figuran ejemplos de pagos que corresponden a la variable D.11112. 
+La variable D.11112 se refiere asimismo a los importes brutos, antes de deducir los impuestos y las cotizaciones a la seguridad social imputables a los asalariados. 
+D.1112. Pagos a planes de ahorro de los asalariados 
+Los importes abonados a planes de ahorro para los asalariados (tales como planes de ahorro de empresa). 
+Referencia SEC 95: 4.03 (i) 
+D.1113. Pagos por días no trabajados 
+Remuneración pagada por ausencias legales, contractuales o concedidas voluntariamente y días festivos u otros días pagados y no trabajados. El apéndice del anexo II ofrece ejemplos al respecto. 
+D.1114 Sueldos y salarios en especie 
+Esta variable se refiere a una estimación del valor de todos los bienes y servicios puestos a disposición de los asalariados por la empresa o la unidad local. Incluye los productos de la empresa, los servicios de alojamiento, los automóviles de empresa y los planes de opciones sobre acciones y de compra de acciones. Puede sustituirse por información acerca de la fiscalidad de la renta personal aplicada a los sueldos y salarios en especie si se dispone de ella. 
+El apéndice del anexo II ofrece ejemplos de sueldos y salarios en especie. 
+Referencia SEC 95: 4.04, 4.05 y 4.06 (código D.11) 
+D.11141. Productos de empresa 
+Se suministran gratuitamente para el uso privado de los asalariados o se les venden a un precio inferior a su coste para la empresa. Se trata, por ejemplo, de alimentos y bebidas (excluido el gasto en los comedores de empresa y los bonos de comidas), carbón, gas, electricidad, fuel, calefacción, calzado y ropa (excluyendo la ropa de trabajo), microordenadores, etc. 
+Debe registrarse el precio neto para la empresa, es decir, el coste de los productos suministrados gratuitamente o la diferencia entre el coste y el precio al que dichos productos se venden a los asalariados. También deben registrarse los pagos compensatorios o las prestaciones en especie que no se hayan utilizado. 
+D.11142. Alojamiento del personal 
+Hace referencia al gasto que supone para la empresa ayudar a los asalariados a alojarse e incluye: el gasto en vivienda perteneciente a la empresa (gastos de mantenimiento y administración de viviendas así como impuestos y seguros relacionados con ellas), préstamos a tipos de interés reducidos para la construcción o adquisición de viviendas por los asalariados (la diferencia entre los intereses aplicables al tipo de interés de mercado y el tipo de interés otorgado) y asignaciones y subvenciones otorgadas a los asalariados en relación con la vivienda y la instalación, pero no incluye las asignaciones por traslado. 
+D.11143. Automóviles de empresa 
+Vehículos de empresa o el coste para la empresa de automóviles de empresa facilitados a los asalariados para su uso privado. Deben incluirse los gastos corrientes netos contraídos por la empresa (el coste anual del leasing y los intereses, la depreciación, el seguro, el mantenimiento, las reparaciones y el aparcamiento). No deben incluirse los gastos en bienes de capital que supone la compra de los vehículos ni los ingresos derivados de su posterior venta. 
+Los cálculos deben realizarse a partir de la información disponible en las empresas, por ejemplo registros de la flota de vehículos de este tipo, la valoración del coste medio por vehículo y la estimación de la proporción atribuible al uso privado del vehículo por parte del asalariado. 
+D.11144. Opciones sobre acciones y planes de compra de acciones 
+Esta variable facultativa se refiere a todo tipo de pago en especie relacionada con una compensación en forma de acciones. Las opciones sobre acciones, los planes de compra de acciones y otros instrumentos de participación en el capital social de evolución futura corresponden a esta categoría. Un rasgo característico de estos instrumentos es que se liquidan mediante instrumentos de patrimonio, esto es, que representan una transferencia de instrumentos de patrimonio de la empresa/unidad local al asalariado. Las formas de compensación que abarca la variable D.11144 son idénticas a las del título "transacciones con pagos basados en acciones liquidados mediante instrumentos de patrimonio" de la norma internacional de información financiera 2, "Pagos basados en acciones". 
+Generalmente, los planes de compra de acciones transfieren acciones de la empresa empleadora a los asalariados. La transferencia se efectúa en el momento presente (fecha de concesión) y está basada en un precio inferior al precio de mercado del día ("precio de ejercicio"). Los costes para la empresa son equivalentes al producto del importe de las acciones y la diferencia entre el precio de mercado y el "precio de ejercicio". 
+Las opciones sobre acciones transfieren generalmente un derecho de compra de acciones de la empresa empleadora, pero no antes de un momento futuro determinado (fecha de traspaso) a un "precio de ejercicio" favorable, fijado en el momento presente (fecha de concesión). Los asalariados ejercerán ese derecho únicamente si el precio de mercado en la fecha de traspaso o después de ella supera el "precio de ejercicio". Los costes para la empresa son también equivalentes al producto del importe de las acciones y la diferencia entre el precio de mercado y el "precio de ejercicio". En las estadísticas sobre costes salariales y en la contabilidad, los costes se asignan y se distribuyen a lo largo del "período de traspaso", que equivale al período entre la fecha de concesión y la fecha de traspaso. Durante el período de traspaso, esos valores son inciertos, por lo que deben estimarse. 
+La estimación de la variable D.11144 para el año de referencia puede hacerse idealmente siguiendo las directrices de la Norma Internacional de Información Financiera 2, "Pagos basados en acciones". Si no se dispone de dicha estimación, pueden utilizarse los valores correspondientes a las normas contables o la legislación fiscal del Estado miembro, a condición de que incluyan los instrumentos de patrimonio de la variable D.11144 y se refieran al período de referencia de la encuesta sobre costes salariales. 
+En los pagos efectuados para la constitución de un fondo especial destinado a la compra de acciones de la empresa para los asalariados debe deducirse el importe de toda exención fiscal que les sea aplicable, aunque los asalariados no tengan acceso inmediato a dichos activos. Las compensaciones con pagos basados en acciones liquidados en efectivo, tales como los derechos sobre la revalorización de las acciones, no corresponden a la variable D.11144 sino a la D.11112. 
+D.11145. Otros costes 
+Incluyen en particular las prestaciones indirectas imputables al empleador: 
+- comedores de empresa y bonos de comidas, 
+- servicios e instalaciones culturales, deportivas y recreativas, 
+- guarderías, 
+- economatos, 
+- costes de transporte entre el domicilio y el lugar de trabajo habitual, 
+- pagos a fondos sindicales y costes de los comités de empresa. 
+Todos estos gastos incluyen las pequeñas reparaciones y el mantenimiento periódico de los edificios y las instalaciones dedicadas a servicios sociales, culturales y de ocio y los servicios indicados anteriormente. Los sueldos y salarios pagados por la empresa directamente al personal que trabaja en estos servicios e instalaciones no se indican en la variable D.11145. 
+D.112. Sueldos y salarios de los aprendices 
+Véase la variable D.11. 
+D.12. Cotizaciones sociales a cargo de los empleadores 
+Esta variable se refiere a una cantidad equivalente al importe de las cotizaciones sociales pagadas por los empleadores para garantizar a sus asalariados el derecho a recibir prestaciones sociales. Las cotizaciones sociales a cargo de los empleadores pueden ser efectivas o imputadas. 
+El grafico 3 del anexo I ofrece un desglose completo de las cotizaciones sociales a cargo del empleador por componente. 
+Referencias SEC 95: 4.08 (código D.12); EEE: código 13330 (costes de seguridad social) 
+D.121. Cotizaciones sociales efectivas a cargo de los empleadores (excluyendo a los aprendices) 
+Estas cotizaciones consisten en pagos que realizan los empleadores, en beneficio de sus asalariados, a las entidades aseguradoras (fondos de seguridad social y sistemas con financiación privada, tales como planes de pensión de empresa). Estos pagos cubren las cotizaciones obligatorias, convencionales, contractuales y voluntarias a los seguros contra riesgos y necesidades sociales. Las cotizaciones sociales efectivas a cargo de los empleadores se registran en el período de realización del trabajo. 
+El apéndice del anexo II contiene ejemplos al respecto. 
+Referencia SEC 95: 4.09 (código D.121) y 4.12 (b) 
+D.1211. Cotizaciones obligatorias a la seguridad social 
+Cotizaciones obligatorias por ley que el empleador paga a instituciones de seguridad social. El importe de dichas cotizaciones debe registrarse neto de subvenciones. Las cotizaciones comprenden: 
+- cotizaciones a sistemas de seguros para pensiones de jubilación, enfermedad, maternidad e incapacidad, 
+- cotizaciones obligatorias a sistemas de seguro de desempleo, 
+- cotizaciones obligatorias a sistemas de seguros para accidentes y enfermedades profesionales, 
+- cotizaciones obligatorias a sistemas de subsidio familiar, 
+- otras cotizaciones obligatorias no mencionadas en los apartados anteriores. 
+D.1212. Cotizaciones a la seguridad social a cargo del empleador acordadas por convenio colectivo, contractuales y voluntarias 
+Se trata de cotizaciones a cargo de los empleadores a sistemas de seguridad social complementarios de los obligatorios por ley. Debe contabilizarse toda exención fiscal aplicable. Estas cotizaciones comprenden: 
+- planes de pensión complementarios y planes de pensión de empresa (planes asegurados, fondos autogestionados, reservas o provisiones contables o cualquier otro gasto destinado a financiar planes de pensión complementarios), 
+- planes complementarios de seguro de enfermedad, 
+- planes complementarios de seguro de desempleo, 
+- todos los demás planes de seguros sociales complementarios no obligatorios que no se mencionan en los apartados anteriores. 
+D.122. Cotizaciones sociales imputadas a cargo de los empleadores (excluyendo a los aprendices) 
+Las cotizaciones sociales imputadas a cargo de los empleadores son necesarias para obtener un cálculo completo de los costes salariales en el momento en el que se efectúa el trabajo. Son el equivalente de las prestaciones sociales sin fondo cuantificables que pagan los empleadores. 
+Las prestaciones sociales sin fondo las pagan directamente los empleadores a sus asalariados, ex asalariados y otros derechohabientes sin la intervención de un fondo de seguridad social, una empresa de seguros o un fondo de pensiones autónomo y sin la constitución de un fondo especial o una reserva separada. Los empleadores que gestionan estos planes sin fondo utilizan sus propios recursos para abonar las prestaciones. El hecho de que algunas prestaciones sociales sean pagadas directamente por los empleadores y no por medio de fondos de seguridad social o de otras entidades aseguradoras no desvirtúa de ningún modo su carácter de prestaciones sociales. La variable D.122 puede resultar especialmente pertinente cuando el empleador no es un productor de mercado (sector gubernamental). 
+El importe de la variable D.122 se determina haciendo referencia a las futuras obligaciones de los empleadores de suministrar prestaciones sociales. Las estimaciones basadas en consideraciones actuariales constituyen una fuente idónea para el cálculo de la variable D.122 en el caso de los empleadores que gestionan planes de seguridad social sin fondo. Si no se dispone de estas estimaciones actuariales, deberán aplicarse otros métodos de estimación. Por ejemplo, algunos países utilizan las prestaciones sociales sin fondo cuantificables que pagan los empleadores, deduciendo las posibles cotizaciones sociales a cargo de los asalariados, como estimación para la variable D.122. 
+La variable D.122 comprende en particular las cotizaciones sociales imputadas a cargo de los empleadores para pensiones y asistencia sanitaria. Incluye también un importe equivalente a los sueldos y salarios que los empleadores continúan pagando temporalmente a sus asalariados en caso de enfermedad, maternidad, accidente de trabajo, incapacidad, despido, etc., si dicho importe puede separarse. 
+El apéndice del anexo II contiene ejemplos al respecto. 
+Referencia SEC 95: 4.10 (código D.122) y 4.12 (c) 
+D.1221. Remuneración garantizada en caso de enfermedad 
+Esta variable abarca los importes pagados directamente por los empleadores a sus asalariados para mantener su remuneración en caso de enfermedad, maternidad o accidente laboral en compensación por la pérdida de ingresos, menos los reembolsos abonados por las instituciones de seguridad social. 
+D.1222. Cotizaciones sociales imputadas a cargo de los empleadores para pensiones y asistencia sanitaria 
+Este componente de la variable D.122 comprende los pagos imputados para sistemas de pensión y asistencia sanitaria sin fondo, en particular en el sector gubernamental. En algunos países europeos, los empleadores del sector gubernamental general gestionan planes de pensión sin fondo para todos los asalariados o para grupos específicos ("funcionarios"). En estos casos, el empleador no crea reservas especiales ni acumula activos para pagar futuras pensiones. En el caso de estos asalariados, deben tomarse en consideración los pagos imputados a cargo de los empleadores para planes de pensión y asistencia sanitaria. 
+D.1223. Pago a asalariados que abandonan la empresa 
+Este componente representa las cantidades efectivas abonadas a los trabajadores despedidos (indemnización por despido y compensación por falta de preaviso) si estos pagos están vinculados a un convenio colectivo o si se desconoce la existencia de tal vinculación. Los pagos no vinculados a un convenio colectivo se incluyen en la variable D.11112. 
+Los pagos efectuados a los asalariados jubilados, por ejemplo como parte de sus derechos de pensión, no deben incluirse en la variable D.1223. 
+D.1224 Otras cotizaciones sociales imputadas 
+Esta variable se refiere a todas las cotizaciones sociales imputadas a cargo del empleador que no se mencionan en otro sitio, tales como las becas de estudio para asalariados y sus familias o la remuneración garantizada en caso de jornada reducida. Esta última se considera un pago directo del empleador a sus asalariados para mantener su remuneración en caso de jornada reducida, menos los reembolsos abonados a los empleadores por las instituciones de seguridad social. 
+D.123. Cotizaciones sociales para aprendices a cargo de los empleadores 
+Esta variable es la suma de las cotizaciones pagadas realmente y todas las cotizaciones imputadas para los aprendices. Las cotizaciones sociales imputadas para aprendices, de haberlas, suelen ser ínfimas. 
+Referencia SEC 95: 4.09 (código D.121), 4.10 (código D.122) y 4.12 (b) 
+D.2. Costes de formación profesional a cargo del empleador 
+Estos costes incluyen los gastos en servicios e instalaciones de formación profesional (también los de los aprendices pero no sus sueldos o salarios), pequeñas reparaciones y mantenimiento de edificios e instalaciones, sin los costes de personal; los gastos de participación en cursos; los honorarios de instructores no pertenecientes a la empresa; los gastos de material y herramientas de enseñanza utilizados para la formación; los importes pagados por la empresa a organizaciones de formación profesional, etc. Deben deducirse las subvenciones relacionadas con la formación profesional. 
+Referencia SEC 95: Consumo intermedio 
+D.3. Otros gastos de los empleadores 
+Estos gastos comprenden, en particular: 
+- los gastos de selección de personal (son las cantidades pagadas a las agencias de selección de personal, los gastos de anuncios de puestos de trabajo en la prensa, los gastos de viaje de los candidatos que acuden a entrevistas, las dietas de instalación abonadas al personal recién reclutado, etc.); no se incluyen los costes administrativos corrientes (gastos de oficina, salario del personal, etc.), 
+- los gastos de ropa de trabajo proporcionada por los empleadores. 
+El apéndice del anexo II ofrece ejemplos al respecto. 
+Referencia SEC 95: Consumo intermedio 
+D.4. Impuestos pagados por los empleadores 
+Esta variable abarca todos los impuestos sobre los sueldos y salarios o sobre el empleo. Estos impuestos se consideran costes salariales. 
+La variable D.4 incluye también los impuestos de penalización que deben pagar en algunos países europeos los empleadores que no emplean a suficientes personas con discapacidad, así como impuestos u honorarios similares. 
+Referencia SEC 95: 4.23 (c) (código D.29) 
+D.5. Subvenciones recibidas por los empleadores 
+Estas subvenciones incluyen todos los importes percibidos en forma de subvenciones de naturaleza general destinados a reembolsar íntegra o parcialmente los costes de remuneración directa, pero no destinados a cubrir los costes de seguridad social ni de formación profesional. No incluyen, en cambio, los reembolsos pagados a los empleadores por las instituciones de seguridad social o los fondos de seguros complementarios. 
+Referencia SEC 95: 4.37 (a) (código D.39) 
+[1] Su aplicación a la sección L de la NACE Rev. 1.1 es facultativa. Su aplicación a los asalariados de empresas de menos de diez asalariados es también facultativa. Los códigos de transmisión correspondientes a las actividades económicas de la NACE Rev. 1.1, al país o a la región, de acuerdo con la clasificación NUTS en vigor, y a las clases de tamaño de las empresas los establece Eurostat en un documento de aplicación. 
+[2] Para evitar dobles cómputos, las horas trabajadas por las personas empleadas por agencias de empleo temporal deben incluirse en la rama de actividad de la agencia que las emplea (NACE Rev. 1, 74.50) y no en la rama de actividad de la empresa para la que trabajan realmente. 
+[3] Un trabajador a domicilio es una persona que acuerda trabajar para una empresa determinada o suministrarle cierta cantidad de bienes o servicios, pero cuyo lugar de trabajo se sitúa fuera de las instalaciones de la empresa [Referencia SEC 95: 11.13 (g)]. Las horas de trabajo efectivas de los trabajadores a domicilio pueden estimarse. 
+[4] Si se prefiere, la media puede basarse en el número de asalariados semanal (o diario) durante el año de referencia. Es admisible también una media basada en cifras de asalariados trimestrales. 
+[5] A menudo, las horas de trabajo no remuneradas consideradas "horas de trabajo efectivas" deben estimarse, por ejemplo a partir de los datos de la encuesta del panel de hogares. 
+-------------------------------------------------- 
+Apéndice del anexo II 
+Ejemplos ilustrativos para la clasificación de algunos elementos de coste salarial 
+D.11111: Remuneración directa, primas y asignaciones abonadas en cada período de remuneración 
+[véase también SEC 95, 4.03 (a-c, e, g, k), código D.11] 
+Los pagos correspondientes a la variable D.11111 de los costes salariales tienen las características siguientes: 
+Son: transacciones en efectivo del empleador al asalariado. 
+No son: 
+- pagos abonados de manera ad hoc o con una frecuencia inferior a la de los pagos de remuneración regulares (estos corresponden a la variable D.11112), 
+- pagos en especie (estos corresponden a la variable D.1114), 
+- pagos a un plan de ahorro del asalariado (estos corresponden a la variable D.1112), 
+- pagos destinados a cubrir un período específico no trabajado (estos corresponden a la variable D.1113 o, en caso de enfermedad, a la variable D.1221). 
+Pueden: 
+- ser primas abonadas por riesgos laborales o trabajo a turnos, 
+- pagarse semanal o mensualmente en función del período de remuneración normal, 
+- reflejar el rendimiento de un asalariado o de un grupo de asalariados. 
+Ejemplos: pagos pertenecientes a la variable D.11111 
+Concepto | Descripción | 
+Asignación por expatriación/coste de la vida | Pago a los asalariados que trabajan fuera de su país de origen o de residencia/su domicilio habitual como compensación por la diferencia en el coste de la vida | 
+Asignación por vivienda | Pago destinado a contribuir a los costes de alojamiento | 
+Pago por turno o guardia | Pago a asalariados que deben estar disponibles para trabajar durante períodos que no corresponden al horario de trabajo normal | 
+Pago adicional por riesgos o peligros | Prima abonada a los asalariados cuando su trabajo entraña un riesgo específico, por ejemplo debido a la presencia de sustancias químicas peligrosas | 
+Asignación por jornada de trabajo reducida | Pago adicional (no garantizado) para compensar íntegra o parcialmente a los asalariados por una reducción de la jornada de trabajo normal (los pagos garantizados pertenecen a la variable D.1224) | 
+Comisiones por ventas | Primas relacionadas con el número de productos vendidos | 
+Pago por horas extraordinarias | Prima por las horas trabajadas después de la jornada de trabajo normal | 
+Asignación para retener a los asalariados | Pago continuo para animar o comprometer a los asalariados a seguir trabajando para el empleador | 
+Pago por resultados | Prima que depende del número de productos procesados por el asalariado, por ejemplo el número de prendas confeccionadas | 
+Pago por trabajo por turnos | Prima por el trabajo realizado en horario no convencional, por ejemplo durante la noche | 
+D.11112: Remuneración directa, primas y asignaciones no pagadas en cada período de remuneración 
+[véase también SEC 95, 4.03 (f, h, j), código D.11] 
+Los pagos correspondientes a la variable D.11112 de los costes salariales tienen las características siguientes: 
+Son: transacciones en efectivo del empleador al asalariado. 
+No son: 
+- pagos efectuados en cada período de remuneración (estos corresponden a la variable D.11111), 
+- pagos en especie (estos corresponden a la variable D.1114), 
+- pagos a un plan de ahorro del asalariado (estos corresponden a la variable D.1112), 
+- pagos destinados a cubrir un período específico no trabajado (estos corresponden a la variable D.1113 o, en caso de enfermedad, a la variable D.1221). 
+Pueden: 
+- ser una asignación para costes o gastos específicos, 
+- reflejar el rendimiento de un asalariado o de un grupo de asalariados, 
+- constituir un pago obligatorio especificado en el contrato de trabajo o en el convenio colectivo, 
+- ser un pago discrecional, 
+- pagarse en momentos variables o en momentos fijos durante el año. 
+Ejemplos: pagos correspondientes a la variable D.11112 
+Concepto | Descripción | 
+Primas excepcionales por antigüedad | Se abonan una vez cuando el asalariado ha trabajado para el empleador un número de años específico | 
+Prima de salida o de jubilación | Pago de salida o de jubilación, si no está relacionado con un convenio colectivo (en caso contrario, o si no se dispone de información sobre una posible vinculación con un convenio colectivo, el pago corresponde a la variable D.1223) | 
+Despido dorado | Pago excepcional a un asalariado que abandona la empresa si no está relacionado con un convenio colectivo (en caso contrario, o si no se dispone de información sobre una posible vinculación con un convenio colectivo, el pago corresponde a la variable D.1223) | 
+Incentivo por contratación | Pago único que se hace a un asalariado nuevo cuando se incorpora a su puesto de trabajo | 
+Atrasos de sueldo retroactivos | Pagos correspondientes a aumentos de la remuneración directa con efecto retroactivo | 
+Prima por fusión de empresa | Pago único a los asalariados a raíz de una fusión de empresa | 
+Prima de reconocimiento | Pago excepcional por el que el empleador premia a un asalariado o a un grupo de asalariados | 
+Prima de productividad/cumplimiento de los objetivos de rendimiento | Pago condicionado al cumplimiento de objetivos predefinidos por parte de un asalariado o un grupo de asalariados, por ejemplo en relación con las ventas, el servicio al cliente o los presupuestos | 
+Prima de festividad especial | Pago con motivo de alguna festividad, por ejemplo Navidad | 
+Reparto de beneficios y derechos de apreciación de acciones | Pago en efectivo que depende de los beneficios de la empresa. Los derechos de apreciación de las acciones representan una forma de reparto de beneficios de la empresa que otorga a un asalariado el derecho a un futuro pago en efectivo basado en el aumento del precio de las acciones de la empresa a partir de un nivel especificado durante un período de tiempo determinado. Los derechos de apreciación de acciones deben evaluarse en el momento del pago en efectivo y referirse a él, independientemente del valor en la fecha de concesión o de la duración del período de traspaso | 
+Prima trimestral | Prima trimestral basada en los beneficios o resultados del empleador (se supone que el período de remuneración no es mensual) | 
+Pago de un decimotercer o decimocuarto mes | Pagas extraordinarias anuales | 
+Prima anual | Prima anual que depende de los beneficios o resultados del empleador | 
+D.1113: Pagos por días no trabajados 
+Ejemplos: pagos correspondientes a la variable D.11113 
+Concepto | Descripción | 
+Paga de vacaciones | Pago a los asalariados que cubre los días no trabajados por vacaciones anuales, nacionales o locales (los pagos del empleador para cubrir las ausencias de los asalariados por enfermedad o maternidad se consideran cotizaciones sociales de los empleadores y corresponden a la variable D.1221) | 
+Permisos especiales | Pagos a los asalariados para cubrir días no trabajados por motivos personales especiales, tales como bodas, defunción de miembros de la familia, representación sindical, servicio militar o la obligación de formar parte de un jurado (los pagos del empleador para cubrir las ausencias de los asalariados por enfermedad o maternidad se consideran cotizaciones sociales de los empleadores y corresponden a la variable D.1221) | 
+D.1114: Sueldos y salarios en especie y sus componentes 
+[véase la referencia SEC 95, 4.04, 4.05 y 4.06 (código D.11)] 
+Ejemplos: sueldos y salarios correspondientes a la variable D.1114 
+Concepto | Descripción | Nuevo desglose | 
+Descuentos en productos | El empleador vende productos a los asalariados a precios reducidos. El ingreso en especie equivale a la diferencia entre el precio de mercado y el precio reducido | D.11141 | 
+Vivienda gratuita o subvencionada | El empleador sufraga íntegra o parcialmente los gastos de vivienda del asalariado. Una vez más, los ingresos en especie se determinan comparando el precio reducido con el precio de mercado | D.11142 | 
+Utilización de un vehículo propiedad del empleador | El empleador sufraga los gastos corrientes de un vehículo del que es propietario y lo pone a disposición del asalariado para un uso profesional y privado (los ingresos en especie se refieren al valor del uso del vehículo privado) | D.11143 | 
+Combustible gratuito o subvencionado | El empleador sufraga íntegra o parcialmente los gastos de combustible privados del asalariado relacionados con el uso del vehículo propiedad del empleador. Los ingresos en especie equivalen al valor en efectivo de ese beneficio | D.11143 | 
+Planes de compra de acciones | Se garantizan pagos en especie basados en acciones a los asalariados como parte de su paquete retributivo. El asalariado recibe las acciones sin demora a un precio inferior al precio de mercado (los derechos de apreciación de las acciones son formas de liquidación en efectivo de retribuciones basadas en acciones y corresponden a la variable D.11112) | D.11144 | 
+Opciones sobre acciones | Se garantizan pagos en especie basados en acciones a los asalariados como parte de su paquete retributivo. El asalariado recibe el derecho de comprar acciones en un momento futuro bien definido a un precio fijado en el momento presente (los derechos de apreciación de las acciones son formas de liquidación en efectivo de retribuciones basadas en acciones y corresponden a la variable D.11112) | D.11144 | 
+Aparcamiento gratuito o subvencionado en el lugar de trabajo | El empleador pone aparcamiento gratuito o a un coste reducido a disposición del asalariado. Los ingresos en especie equivalen al valor en efectivo de ese beneficio | D.11145 | 
+Uso gratuito o subvencionado de un teléfono móvil | El empleador pone a disposición del asalariado un teléfono móvil para uso profesional y privado y sufraga todos sus gastos. Los ingresos equivalen al valor en efectivo de ese beneficio | D.11145 | 
+Desplazamiento gratuito o subvencionado entre el domicilio y el lugar de trabajo | El empleador sufraga íntegra o parcialmente los gastos de desplazamiento del asalariado. Los ingresos en especie equivalen al valor en efectivo de ese beneficio | D.11145 | 
+Comidas gratuitas o subvencionadas | El empleador pone a disposición del asalariado comidas gratuitas o a un coste reducido. Los ingresos en especie equivalen al valor en efectivo de ese beneficio | D.11145 | 
+D.121: Cotizaciones sociales efectivas a cargo de los empleadores 
+[véase SEC 95, 4.08 (código D.121) y 4.12 (b)] 
+Ejemplos: pagos correspondientes a la variable D.121 
+Concepto | Descripción | Nuevo desglose | 
+Pagos de los empleadores a un sistema de seguro por discapacidad | Pagos regulares del empleador al sistema de seguro | D.1211 | 
+Pagos obligatorios de los empleadores a los fondos de pensión | Durante el período de empleo, el empleador paga a un sistema de pensión que comprende un fondo de seguridad social, una empresa de seguro o un fondo de pensiones autónomo | D.1211 | 
+Cotizaciones de pensión incrementadas a cargo del empleador | El empleador paga una cotización adicional al plan de jubilación del asalariado | D.1212 | 
+D.122: Cotizaciones sociales imputadas a cargo de los empleadores 
+[véase SEC 95, 4.10 (código D.122) y 4.12 (c)] 
+Ejemplos: pagos correspondientes a la variable D.122 
+Concepto | Descripción | Nuevo desglose | 
+Pagos durante la ausencia por maternidad | El empleador paga directamente al asalariado durante la maternidad como compensación por la pérdida de ingresos | D.1221 | 
+Cotizaciones sociales imputadas a cargo de los empleadores para las pensiones de los funcionarios | El empleador no realiza pagos a un plan de pensión durante el período de empleo del asalariado. Posteriormente pagará las pensiones con sus propios recursos | D.1222 | 
+Pagos a planes de jubilación anticipada para trabajadores a tiempo parcial | Pagos adicionales del empleador a fondos de jubilación anticipada para trabajadores a tiempo parcial | D.1222 | 
+Indemnizaciones de despido basadas en un convenio colectivo | El empleador paga directamente al asalariado que abandona la empresa | D.1223 | 
+Becas de estudio | El empleador sufraga íntegra o parcialmente los costes de formaciones no relacionadas con el trabajo cursadas fuera de la empresa | D.1224 | 
+Prima de boda o de nacimiento | Pago que recibe el asalariado por uno de estos acontecimientos | D.1224 | 
+Educación de los niños gratuita o subvencionada | Los derechos de matrícula escolar de los niños del asalariado son sufragados íntegra o parcialmente | D.1224 | 
+Asignación por jornada de trabajo reducida | Pago adicional garantizado para compensar íntegra o parcialmente a los asalariados por una reducción de la jornada de trabajo normal (los pagos adicionales abonados en cada período de remuneración corresponden a la variable D11111) | D.1224 | 
+D.2: Costes de formación profesional a cargo del empleador 
+(véase SEC 95: consumo intermedio) 
+Ejemplos: pagos correspondientes a la variable D.2 
+Concepto | Descripción | 
+Honorarios de instructores que no pertenecen a la empresa | Costes relacionados con la formación profesional de los asalariados, por ejemplo en forma de seminarios en la empresa (deben excluirse las posibles subvenciones, que corresponden a la variable D.5) | 
+Gastos en material de enseñanza | Costes relacionados con la formación profesional, por ejemplo en forma de cursos electrónicos basados en intranet y elaborados por empresas especializadas (deben excluirse las posibles subvenciones, que corresponden a la variable D.5) | 
+D.3: Otros gastos a cargo de los empleadores 
+(véase SEC 95: consumo intermedio) 
+Ejemplos: pagos correspondientes a la variable D.3 
+Concepto | Descripción | 
+Asignación para ropa | Se abona en el caso de empleos en los que se exige ropa especial, por ejemplo para protección o presentación, que no está destinada a un uso personal | 
+Gastos de contratación | Costes de las agencias de selección de personal o de los anuncios de puestos de trabajo | 
+Asignación para instalación o traslado | Se abona cuando el asalariado tiene que cambiar de lugar de residencia | 
+-------------------------------------------------- 
+ANEXO III 
+TRANSMISIÓN DE DATOS CON DESGLOSES POR ACTIVIDAD ECONÓMICA, CLASE DE TAMAÑO DE LA EMPRESA Y PAÍS O REGIÓN 
+Deben proporcionarse tres ficheros, correspondientes a las tablas A, B y C: 
+- la tabla A contiene datos nacionales (un registro por cada actividad económica a los niveles de sección y de división de la NACE Rev. 1.1), 
+- la tabla B contiene datos nacionales por clase de tamaño (un registro por cada actividad económica a los niveles de sección y de división de la NACE Rev. 1.1, para cada clase de tamaño), 
+- la tabla C contiene datos regionales al nivel NUTS 1 (un registro por cada actividad económica a los niveles de sección y de división de la NACE Rev. 1.1, para cada región). 
+La tabla C no es necesaria para los países en los que NUTS 1 corresponde al nivel nacional. Para un subconjunto de variables indicadas en el anexo I, sólo es necesaria la tabla A. Estas variables están señaladas en el anexo I. 
+Identificación de un registro 
+Los registros se ordenan mediante una secuencia de identificación que contiene los elementos siguientes: 
+- el año de la encuesta, 
+- el tipo de tabla, 
+- el código de país o región, 
+- la actividad económica, y 
+- la clase de tamaño. 
+Los códigos de transmisión para: 
+- las actividades económicas de la NACE Rev. 1.1, 
+- las clases de tamaño de las empresas, y 
+- los países o las regiones, 
+los establece Eurostat en un documento de aplicación. 
+Indicador de confidencialidad 
+Los registros individuales transmitidos para las tablas A, B y C consisten en datos en bruto, esto es, estimaciones de población. Si es estrictamente necesario, podrá ponerse un indicador de confidencialidad en los registros individuales. En las tablas A, B o C puede producirse una violación de confidencialidad si el número de empresas o unidades locales en la población es ínfima para un registro individual relacionado con una determinada actividad económica, clase de tamaño o región. Los riesgos aumentan claramente cuando el registro individual se refiere a una o dos unidades grandes. Asimismo, el riesgo de violación de la confidencialidad puede ser más elevado para las tablas B o C debido a los desgloses adicionales por clase de tamaño y región respectivamente. Deben utilizarse dos códigos para identificar los registros confidenciales: 
+"1": si los datos de un registro individual en las tablas A, B o C son confidenciales [1]; 
+" ": si los datos no son confidenciales, debe insertarse un espacio " " (en lugar de un cero o de un guión "–"). 
+Variables 
+Las variables requeridas se definen en el anexo I. Las cifras deben escribirse sin espacios, puntos ni comas (por ejemplo, es correcto escribir 13967; pero no lo es 13 967, 13.967 ni 13,967). 
+Las variables no disponibles (o cero) deben codificarse de acuerdo con las normas siguientes: 
+"NA" cuando la variable no está disponible (aunque exista y sea superior a cero); 
+"OPT" cuando la variable es opcional y no se completa; 
+"0" para los valores nulos o para las variables que no existen en el país en cuestión. 
+Las variables sobre el número de empleados, el tiempo de trabajo y el número de unidades estadísticas deben expresarse en términos absolutos, esto es, indicando íntegramente los números (no deben indicarse en decimales, decenas, miles, millones, etc.). 
+Las variables relacionadas con el gasto se expresarán en la divisa nacional del país en cuestión. Para los países de la zona del euro, las cantidades deben expresarse en euros. Las unidades utilizadas en cada país deben ser idénticas para todas las variables y expresarse en términos absolutos, esto es, indicando íntegramente los números (no deben indicarse en decimales, decenas, miles, millones, etc.). 
+Transmisión 
+Los Estados miembros transmitirán a la Comisión (Eurostat) los datos y metadatos exigidos en virtud del presente Reglamento en un formato electrónico de acuerdo con una norma de intercambio propuesta por Eurostat. Eurostat facilitará documentación detallada en relación con las normas aprobadas y proporcionará directrices para la aplicación de dichas normas de conformidad con los requisitos del presente Reglamento. 
+[1] Cuando un registro individual lleva el indicador de confidencialidad, Eurostat adopta las medidas apropiadas para proteger la confidencialidad de los datos presentados para las tablas A, B y C. 
+-------------------------------------------------- 

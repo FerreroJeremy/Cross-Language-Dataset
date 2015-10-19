@@ -1,0 +1,671 @@
+Règlement (CEE) n° 2237/77 de la Commission, du 23 septembre 1977, relatif à la fiche d'exploitation à utiliser en vue de la constatation des revenus dans les exploitations agricoles 
+RÈGLEMENT (CEE) Nº 2237/77 DE LA COMMISSION du 23 septembre 1977 relatif à la fiche d'exploitation à utiliser en vue de la constatation des revenus dans les exploitations agricoles 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté économique européenne, 
+vu le règlement nº 79/65/CEE du Conseil, du 15 juin 1965, portant création d'un réseau d'information comptable agricole sur les revenus et l'économie des exploitations agricoles dans la Communauté économique européenne (1), modifié en dernier lieu par le règlement (CEE) nº 2910/73 (2), et notamment son article 7, 
+considérant que le règlement nº 118/66/CEE de la Commission du 29 juillet 1966 (3), modifié en dernier lieu par le règlement (CEE) nº 3565/73 (4), a déterminé le contenu de la fiche d'exploitation à utiliser en vue de la constatation des revenus dans les exploitations agricoles; 
+considérant que les données comptables recueillies dans le cadre de la fiche d'exploitation en vue de la constatation des revenus dans les exploitations agricoles doivent être identiques quant à leur nature, à leur définition et à la forme de présentation, quelles que soient les exploitations comptables observées; 
+considérant que, après dix années de fonctionnement du réseau d'information comptable agricole, il est opportun de tirer parti de l'expérience acquise pour amender les dispositions relatives à la fiche d'exploitation en sorte de renforcer la comparabilité des données comptables, d'une part, et d'adapter celles-ci à l'évolution des besoins de la politique agricole commune, d'autre part; 
+considérant que, à cette occasion, il est opportun de mettre à profit le développement actuel de l'informatique pour améliorer le traitement des données comptables et que, à cet égard, il convient de retenir la bande magnétique comme support des données comptables; 
+considérant qu'il est possible que certaines exploitations rencontrent des difficultés pour remplir certaines rubriques spécifiques vu l'absence des données correspondantes dans la comptabilité dont ces exploitations disposent ; qu'il convient en conséquence, tant que ces difficultés subsistent, de prévoir un système évitant tout risque d'erreur d'interprétation dans le cas où les rubriques spécifiques en question n'auront pas été remplies; 
+considérant que, pour réduire au maximum les inconvénients qui peuvent résulter des adaptations de la fiche d'exploitation, il serait opportun d'appliquer les nouvelles dispositions à partir d'un seul et même exercice comptable dans tous les États membres mais qu'il est souhaitable néanmoins, vu les difficultés que peuvent rencontrer certains États membres pour procéder correctement à ces adaptations dans le délai d'une seule année, de prévoir la possibilité pour ceux-ci de différer d'un exercice comptable l'application des nouvelles dispositions; 
+considérant que les mesures prévues au présent règlement sont conformes à l'avis du comité communautaire du réseau d'information comptable agricole, (1)JO nº 109 du 23.6.1965, p. 1859/65. (2)JO nº L 299 du 27.10.1973, p. 1. (3)JO nº 148 du 10.8.1966, p. 2701/66. (4)JO nº L 361 du 29.12.1973, p. 84. 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+La nature des données comptables que comporte la fiche d'exploitation est fixée à l'annexe I. Les définitions et les instructions s'y rapportant sont fixées à l'annexe II. Les données comptables sont présentées sous la forme fixée à l'annexe III. 
+Article 2 
+Le présent règlement s'applique, pour la première fois, aux données comptables de l'exercice comptable 1978, exercice qui débute au cours de la période allant du 1er janvier 1978 au 1er juillet 1978. 
+Toutefois, en France, en Italie, au Luxembourg et en Irlande ces dispositions s'appliquent pour la première fois aux données comptables de l'exercice 1979, exercice qui débute au cours de la période allant du 1er janvier 1979 au 1er juillet 1979. 
+Article 3 
+Le règlement nº 118/66/CEE est abrogé, mais il reste applicable intégralement aux données comptables des exercices antérieurs à ceux visés à l'article 2, quelle que soit la date de transmission de ces données à la Commission. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 23 septembre 1977. 
+Par la Commission 
+Finn GUNDELACH 
+Vice-président 
+ANNEXE I SCHÉMA DE LA FICHE D'EXPLOITATION 
+Pour chaque rubrique et colonne des tableaux de la présente annexe, il convient de se référer aux définitions et instructions fixées à l'annexe II. Les numéros figurant dans les colonnes de ces tableaux (numéros en petits caractères) indiquent l'ordre des données dans les bandes magnétiques (1). Les numéros non attribués («libre») sont disponibles pour une utilisation ultérieure ; ils sont à remplir par des zéros. %gt%PIC FILE= %quot%T0011301%quot%%gt% (1)Ces numéros d'ordre sont indiqués systématiquement, même pour les positions qui ne seront jamais remplies (exemple : tableau K, colonne «superficie» pour le produit 162 «Lait de vache». 
+%gt%PIC FILE= %quot%T0011302%quot%%gt% 
+%gt%PIC FILE= %quot%T0011303%quot%%gt% 
+%gt%PIC FILE= %quot%T0011304%quot%%gt% 
+%gt%PIC FILE= %quot%T0011305%quot%%gt% 
+%gt%PIC FILE= %quot%T0011306%quot%%gt% 
+%gt%PIC FILE= %quot%T0011307%quot%%gt% 
+ANNEXE II DÉFINITIONS ET INSTRUCTIONS CONCERNANT LA FICHE D'EXPLOITATION 
+I. DÉFINITIONS ET INSTRUCTIONS GÉNÉRALES 
+a) Les données de la fiche d'exploitation se rapportent à une seule exploitation agricole et à un même exercice comptable de douze mois consécutifs. 
+b) Les données de la fiche d'exploitation concernent exclusivement l'exploitation agricole ; elles ont trait aux activités de l'exploitation proprement dite et, le cas échéant, aux activités forestières et touristiques liées à l'exploitation agricole. Tout ce qui a trait aux activités «extra-exploitation» de l'exploitant et de sa famille, à des pensions, héritages, comptes privés, à des biens étrangers à l'exploitation agricole, aux impôts personnels, assurances privées, etc., n'entre pas en ligne de compte pour l'établissement de la fiche d'exploitation. 
+Lorsque les moyens de production de l'exploitation (main-d'oeuvre y compris main-d'oeuvre non salariée, machines ou matériel) sont utilisés pour la production d'immobilisations (construction ou grosse réparation de machines, construction ou grosse réparation, voire démolition de bâtiments, plantation ou abattage d'arbres fruitiers), les coûts correspondants, estimés si nécessaire, ne sont pas à inclure dans les charges courantes de l'exploitation. Dans tous les cas, les frais de main-d'oeuvre ainsi que les heures de travail pour la production d'immobilisations sont à exclure respectivement des charges et des données concernant la main-d'oeuvre. Exceptionnellement, s'il n'est pas possible de déterminer séparément certains coûts de production d'immobilisations, autres que les frais de main-d'oeuvre (par exemple utilisation du tracteur de l'exploitation), ces coûts étant en conséquence inclus dans les charges, la valeur estimée de l'ensemble de ces coûts de production d'immobilisations est indiquée dans la rubrique 181 (Autres produits et recettes). 
+Dans tous les cas, la valeur des productions d'immobilisations évaluée à leur coût(y compris la valeur du travail de la main-d'oeuvre salariée et/ou non salariée) doit être ajoutée à la valeur des immobilisations figurant dans les rubriques 94 à 101. 
+c) Les données de la fiche d'exploitation proviennent d'une comptabilité qui comporte des enregistrements systématiques et réguliers au cours de l'exercice comptable. 
+d) Les données comptables en valeur monétaire sont exprimées: - soit hors TVA, 
+- Soit TVA incluse dans les conditions mentionnées ci-après (cf. rubriques 107 à 111). 
+e) Les données comptables en valeur monétaire sont exprimées hors primes et subventions. Par prime et subvention on entend toute aide directe accordée sur fonds publics et qui a donné lieu à une recette spécifique (cf. rubriques 112 à 119.) 
+f) Les données de la fiche d'exploitation doivent être indiquées dans les unités et avec les degrés de précision suivants: - les valeurs : en unités monétaires et sans décimale, sauf les valeurs en lires qui sont exprimées en centaines de lires; 
+- les quantités physiques : en quintaux (q = 100 kg), sauf en ce qui concerne les oeufs qui sont indiqués en milliers; 
+- les superficies : en ares; 
+- l'effectif moyen des animaux : en dixièmes de têtes, sauf en ce qui concerne les volailles qui sont indiquées en têtes; 
+- l'effectif de la main-d'oeuvre : en centièmes d'unités-année. 
+Les positions fixes (cf. tableaux A à J de l'annexe I) où il n'y a rien à indiquer sont remplies de zéros. Pour les productions figurant dans le tableau K, on indiquera des zéros dans les positions où il n'y a rien à indiquer. 
+g) Les supports mécanographiques qui comportent les données comptables de la fiche d'exploitation sont, après vérification, transmis sous pli confidentiel par l'organe de liaison à la Commission des Communautés européennes, direction générale de l'agriculture, division «analyse de la situation des exploitations agricoles». 
+II. DÉFINITIONS ET INSTRUCTIONS CONCERNANT LES DIFFÉRENTS POSTES DE LA FICHE D'EXPLOITATION 
+%gt%PIC FILE= %quot%T0011308%quot%%gt% 1. Numéro de l'exploitation 
+Un numéro est attribué à chaque exploitation comptable lorsqu'elle est sélectionnée pour la première fois. L'exploitation conserve ce numéro en permanence, pendant toute la durée de sa participation au réseau d'information (1). Un numéro une fois attribué n'est jamais affecté à une autre exploitation. 
+Le numéro de l'exploitation comprend trois groupes d'indications, à savoir: - code de la circonscription (voir annexe III du règlement nº 91/66/CEE); 
+- code de la sous-circonscription ; les sous-circonscriptions retenues doivent au moins permettre d'individualiser les exploitations qui relèvent des régions prises en considération dans le cadre de l'application de la directive 72/159/CEE du Conseil concernant la modernisation des exploitations agricoles (une liste des sous-circonscriptions indiquant les noms et les codes est transmise à la Commission); 
+- numéro d'ordre de l'exploitation. 
+2. Indications sur les enregistrements mécanographiques 
+Les données comptables d'une exploitation agricole pouvant occuper un ou plusieurs enregistrements mécanographiques (voir annexe III § C, 2), on donne le nombre total d'enregistrements utilisés pour chaque exploitation, ainsi que le numéro de séquence de chaque enregistrement. 
+Les données correspondant aux cinq premiers numéros d'ordre forment l'étiquette d'une exploitation. Elles sont reprises en tête de chaque enregistrement. La sixième donnée de chaque exploitation indique le nombre de groupes indivisibles de 10 données, dont chacun correspond à une production (hormis les animaux). 
+3. Siège de l'exploitation 
+On indique le numéro de l'unité géographique de base la plus appropriée (de préférence la commune) où se trouve le siège de l'exploitation. 
+Une carte de ces unités avec leur numéro est transmise à la Commission. Tout changement notoire des limites des unités géographiques est porté à la connaissance de la Commission 
+4. Classe d'exploitation 
+Code de la classe d'exploitation (cf. annexe II du règlement nº 91/66/CEE de la Commission) pour laquelle l'exploitation a été retenue lors de la sélection pour l'exercice comptable considéré. 
+5. Date de fin d'exercice 
+Date de fin d'exercice comptable, par exemple 30.4.1975 ou 31.12.1975. 
+6. Zone défavorisée 
+On indique si l'exploitation est située ou non dans une zone faisant l'objet de la directive 75/268/CEE du Conseil sur l'agriculture de montagne et de certaines zones défavorisées. Dans les États membres où les zones en question sont si nombreuses et de si petite dimension que l'information n'est pas significative, on indique le code 4. (1)Cependant lorsque l'exploitation subit un changement profond, notamment lorsque ce changement résulte d'une subdivision en deux exploitations indépendantes ou d'une fusion avec une autre exploitation, elle est considérée comme nouvelle exploitation ; dans ce cas, un nouveau numéro lui est attribué. Un changement d'orientation technico-économique de l'exploitation n'entraîne pas l'attribution d'un nouveau numéro. Dans le cas où la conservation du numéro de l'exploitation risquerait d'entraîner une confusion avec une ou plusieurs autres exploitations comptables (par exemple lorsqu'on crée une nouvelle subdivision régionale), le numéro doit être changé. Un tableau d'équivalence des numéros anciens et nouveaux est alors transmis à la Commission. 
+1 = l'exploitation n'est pas située dans les zones considérées, 
+2 = l'exploitation est située entièrement dans les zones considérées, 
+3 = l'exploitation est située en partie dans les zones considérées, 
+4 = sans objet. 
+7. SAU irriguée 
+Superficie agricole utilisée autre que sous verre, effectivement irriguée au cours de l'exercice au moyen d'installations fixes ou mobiles quel qu'ait été le procédé (aspersion, immersion). 
+8. Zone altimétrique 
+La zone altimétrique est indiquée par le numéro de code correspondant: %gt%PIC FILE= %quot%T0011344%quot%%gt% 
+9. Journées de pâture sur alpages ou autres pâturages non compris dans la SAU 
+Nombres entiers de journées de pâture - UB pendant lesquelles le bétail de l'exploitation a pâturé sur des terres non comprises dans la SAU (1). %gt%PIC FILE= %quot%T0011309%quot%%gt% 
+10. SAU en faire-valoir direct 
+Superficie agricole utilisée (terres arables, prairies et pâturages permanents, cultures permanentes) dont l'exploitant est propriétaire, usufruitier ou emphytéote et/ou SAU exploitée dans des conditions similaires. 
+11. SAU en fermage 
+Superficie agricole utilisée (terres arables, prairies et pâturages permanents, cultures permanentes) mise en valeur par une autre personne que son propriétaire, usufruitier ou emphytéote, moyennant un contrat de location de ladite superficie (le fermage est payé en espèces et/ou en nature ; en général fixé d'avance, normalement il ne varie pas en fonction des résultats de l'exploitation) et/ou SAU exploitée dans des conditions similaires. La superficie en fermage ne comprend pas les terres dont la récolte est achetée sur pied ou qui sont louées pour une durée inférieure à une année (2). 
+12. SAU en métayage 
+Superficie agricole utilisée (terres arables, prairies et pâturages permanents, cultures permanentes) exploitée en association par le concédant et le métayer sur base d'un bail à métayage et/ou SAU exploitée dans des conditions similaires. (1)Une journée de pâture - UB est celle qui correspond à une journée de pâture d'une vache laitière ou d'un bovin ou équin de plus de 2 ans. Les journées de pâture correspondant à des bovins ou équins de moins de 2 ans, à des caprins ou à des ovins sont converties en journées de pâture - UB en utilisant respectivement les coefficients suivants : 0,5 - 0,2 - 0,15 (2)Les montants payés pour l'achat de récoltes sur pied ou pour la location de terres pour une durée inférieure à une année sont à indiquer dans les rubriques 65 à 67 (Aliments achetés) lorsqu'il s'agit de prairies ou cultures fourragères et dans la rubrique 76 (Autres frais spécifiques des cultures) lorsqu'il s'agit de cultures de produits commercialisables (produits qui font couramment l'objet de commercialisation). Les produits des cultures commercialisables achetés sur pied ou qui proviennent de terres louées pour une période inférieure à une année sont indiqués sans mention de la superficie correspondante (cf. instructions concernant l'indication de la superficie, colonne 4, tableau K) 
+%gt%PIC FILE= %quot%T0011310%quot%%gt% 
+Par main-d'oeuvre, on entend l'ensemble des personnes qui, au cours de l'exercice comptable, ont été occupées aux travaux de l'exploitation agricole (1) (voir ci-après). Toutefois, les personnes qui ont participé à ces travaux pour le compte d'une autre personne ou entreprise (travaux effectués par des entreprises de travaux agricoles, et dont les frais correspondants figurent par ailleurs dans les charges d'exploitation) ne sont pas incluses dans la main-d'oeuvre de l'exploitation. 
+On distingue les catégories suivantes: A. Main-d'oeuvre non salariée, occupée régulièrement 
+Main-d'oeuvre non rémunérée ou qui reçoit une rémunération (en espèces ou en nature) ne correspondant pas au montant normalement payé pour la prestation fournie (2) et qui, au cours de l'exercice comptable, a participé chaque semaine (en dehors des congés normaux) pendant une durée d'au moins une journée complète aux travaux de l'exploitation agricole (3). 
+On distingue les sous-catégories suivantes: 13. Exploitant/chef d'exploitation (4) (5) 
+Personne qui assume la responsabilité juridique et économique de l'exploitation et qui assure la gestion courante et quotidienne de celle-ci. 
+14. Exploitant/non chef d'exploitation (5) 
+Personne qui assume la responsabilité juridique et économique de l'exploitation sans en assurer la gestion courante et quotidienne. 
+15. Chef d'exploitation/non exploitant (5) 
+Personne qui assure la gestion courante et quotidienne de l'exploitation sans en assumer la responsabilité juridique et économique. 
+16. Conjoint de l'exploitant (6) (1)En cas d'entraide entre exploitations, lorsque cette entraide consiste en un échange de prestations de travail, l'aide reçue correspondant en principe à l'aide fournie, le temps de travail fourni par la main-d'oeuvre de l'exploitation et, le cas échéant, les salaires correspondants sont indiqués dans la fiche d'exploitation. Dans certains cas, l'aide reçue est compensée par une prestation d'autre nature (par exemple l'aide reçue sous forme de travail est compensée par la mise à la disposition d'un matériel). Lorsqu'il s'agit d'un échange limité de prestations, aucune mention n'en est faite dans la fiche d'exploitation (dans l'exemple cité, l'aide reçue ne figure pas dans la main-d'oeuvre ; par contre les frais de mécanisation comprennent les charges correspondant à la mise à la disposition du matériel). Dans les cas exceptionnels où cette forme d'échange de prestations atteint une certaine importance, on procède, selon les cas, de la façon suivante: a) l'aide reçue sous forme de travail est compensée par une prestation d'autre nature (par exemple mise à la disposition d'un matériel) : le temps de travail reçu est enregistré comme travail salarié pour l'exploitation (rubrique 20 ou 21 selon qu'il s'agit de main-d'oeuvre occupée régulièrement ou non dans l'exploitation) ; la valeur de l'aide fournie est enregistrée à la fois comme production sous la rubrique correspondante (dans l'exemple : la rubrique 177 «travaux pour tiers, y compris location de matériel» et comme charge dans la rubrique 59 «Salaires et charges sociales»; 
+b) l'aide fournie sous forme de travail est compensée par une prestation d'une nature (par exemple l'utilisation d'un matériel) : le temps de travail fourni et le cas échéant les salaires correspondants, ne sont pas pris en considération ; la valeur de la prestation reçue est enregistrée comme charge sous la rubrique correspondante (dans l'exemple : rubrique 60 «travaux par tiers et location de machines». 
+(2)Le montant de cette rémunération ne figure pas dans les charges de l'exploitation. (3)Une personne occupée régulièrement, mais qui pour des raisons particulières n'a été occupée que pendant une certaine période de l'exercice dans l'exploitation, est néanmoins enregistrée (pour le nombre d'heures effectivement prestées) dans la main-d'oeuvre occupée régulièrement. Il s'agit des cas particuliers suivants ou de tous cas similaires: a) Conditions particulières de production dans l'exploitation, pour lesquelles la main-d'oeuvre n'est pas requise pendant toute l'année : par exemple les exploitations oléicoles ou viticoles, les exploitations spécialisées dans l'embouche des animaux ou la production de fruits et légumes de plein air; 
+b) Absence au travail en dehors de congés normaux, par exemple service militaire, maladie, accident, maternité, congé de longue durée, etc., 
+c) Arrivée dans l'exploitation ou départ de l'exploitation; 
+d) Arrêt total de travail dans l'exploitation imputable à des causes accidentelles (inondation, incendie, etc.). 
+(4)En cas de métayage, le métayer est indiqué comme exploitant/chef d'exploitation. (5)La fonction des personnes en question est indiquée par un numéro de code dans la colonne (1), à savoir: 1 = exploitant/chef d'exploitation, 2 = exploitant/non chef d'exploitation, 3 = chef d'exploitation/non exploitant. Dans le cas d'une exploitation sous forme de société (personne morale) le numéro de code = 9. Lorsque la fonction en question est exercée par plusieurs personnes (par exemple deux frères, père et fils ...) chacune d'elles fait l'objet d'un enregistrement dans l'ordre décroissant de leur responsabilité et, en cas de responsabilités égales, dans l'ordre décroissant de leur âge. Ainsi les données concernant la personne assumant la plus grande responsabilité sont enregistrées dans les positions 51 à 54 ; celles concernant la personne suivante dans les positions 55 à 58, etc. (6)Le nombre de personnes appartenant à cette catégorie de main-d'oeuvre est à indiquer (colonne 1). Dans le cas où il y a plusieurs exploitants, le nombre de conjoints peut être supérieur à un. 
+17. Autres membres de la main-d'oeuvre non salariée occupée régulièrement (1) 
+Main-d'oeuvre non salariée occupée régulièrement qui ne relève pas des rubriques précédentes. 
+B. 18. Main-d'oeuvre non salariée, occupée non régulièrement 
+Main-d'oeuvre non salariée qui n'a pas travaillé régulièrement dans l'exploitation au cours de l'exercice ; celle-ci est indiquée globalement dans cette rubrique. 
+C. Main-d'oeuvre salariée, occupée régulièrement 
+Main-d'oeuvre rémunérée (en espèces et/ou en nature) normalement pour la prestation fournie et qui, au cours de l'exercice comptable (en dehors des congés normaux), a participé pendant une durée d'au moins une journée complète par semaine aux travaux de l'exploitation. 
+On distingue les sous-catégories suivantes: 19. Chef d'exploitation 
+Personne salariée assurant la gestion courante et quotidienne de l'exploitation. 
+20. Autres 
+Main-d'oeuvre salariée occupée régulièrement à l'exception du chef d'exploitation salarié ; celle-ci est indiquée globalement dans cette rubrique. 
+D. 21. Main-d'oeuvre salariée, occupée non régulièrement 
+Main-d'oeuvre salariée qui n'a pas travaillé régulièrement au cours de l'exercice dans l'exploitation (y compris les travailleurs à tâche) ; celle-ci est indiquée globalement dans cette rubrique. 
+Chaque rubrique fait l'objet des données suivantes: 
+Année de naissance (colonne 2) 
+L'année de naissance est indiquée pour l'(es) exploitant(s) et le(s) chef(s) d'exploitation (catégories 13 à 15 et 19) par les deux derniers chiffres du millésime correspondant. 
+Effectif : Nombre d'unités-année (colonne 3) 
+L'effectif de la main-d'oeuvre occupée régulièrement est indiqué en nombre «d'unités-année». Une personne qui consacre la totalité de son temps de travail annuel aux travaux de l'exploitation (travailleur à temps complet) représente une «unité-année», même si son temps de travail effectif dépasse le temps de travail annuel normal dans la région et pour le type d'exploitation considérée. Une personne ne travaillant pas toute l'année dans l'exploitation représente une fraction d'une «unité-année». 
+Le nombre «d'unités-année» d'une telle personne est déterminé en divisant son temps effectif de travail annuel par le temps de travail annuel normal d'une personne à temps complet, dans la région et pour le type d'exploitation considérés (2). 
+Temps de travail (colonne 4) 
+Le temps de travail est indiqué en heures. Il s'agit uniquement du temps effectivement consacré aux travaux de l'exploitation agricole (2). 
+Le temps de travail de la main-d'oeuvre à tâche est déterminé en divisant le montant total payé pour les travaux en question par le salaire horaire d'un ouvrier engagé à temps. (1)Le nombre de personnes appartenant à cette catégorie de main-d'oeuvre est à indiquer (colonne 1). Dans le cas où il y a plusieurs exploitants, le nombre de conjoints peut être supérieur à un. (2)Lorsqu'une personne n'est pas en mesure de fournir une prestation normale (prestation d'une personne dans la force de l'âge), par exemple pour cause d'invalidité, l'effectif correspondant à cette personne est compté pour la fraction correspondante ; le temps de travail indiqué correspond aux heures qui auraient été normalement consacrées aux travaux en question par une personne valide. 
+Travaux de l'exploitation agricole 
+Les travaux de l'exploitation agricole comprennent tous travaux d'organisation de surveillance, d'exécution, à caractère manuel ou intellectuel effectués pour assurer le fonctionnement proprement dit de l'exploitation, par exemple: - les travaux d'organisation et de gestion (achats et ventes concernant l'exploitation, comptabilité, etc.), 
+- les travaux des champs (labours, semis, récolte, entretien des plantations, etc.), 
+- les travaux pour l'élevage (préparation des aliments, alimentation des animaux, traite, soins pour animaux, etc.), 
+- les travaux de stockage, de conditionnement et de transformation effectués dans l'exploitation (engrangement, battage, emballage, etc.), 
+- les travaux d'entretien courant des bâtiments, machines, installations, haies, fossés, etc., 
+- les propres transports de l'exploitation, pour autant que ces transports soient effectués par la main-d'oeuvre de l'exploitation. 
+- Autres travaux liés directement à l'activité de l'exploitation agricole: - les travaux forestiers (correspondant aux forêts incluses dans l'exploitation agricole), 
+- les travaux correspondant à des activités d'agritourisme (entretien de terrains de camping, de sport ou de détente, équitation, gîtes ruraux, etc.), pour autant qu'ils soient accessoires et imbriqués à l'activité de l'exploitation de telle sorte qu'il est pratiquement impossible de dissocier l'activité d'agritourisme de l'exploitation agricole proprement dite (1), 
+- les travaux pour tiers pour autant qu'ils soient occasionnels et effectués avec le matériel de l'exploitation (la rémunération correspondante est prise en compte dans les produits de l'exploitation). 
+Ne sont pas compris dans les travaux de l'exploitation, notamment: - les travaux de production d'immobilisation (constructions et grosses réparations des bâtiments ou du matériel, plantation, démolition de bâtiments, abattage d'arbres fruitiers, etc.), 
+- les travaux effectués pour le ménage de l'exploitant ou du chef d'exploitation, 
+- les activités particulières telles la participation à des réunions professionnelles, voyages d'affaires, visites aux expositions agricoles, visites aux marchés autres que celles destinées aux achats et ventes concernant l'exploitation, etc. 
+%gt%PIC FILE= %quot%T0011311%quot%%gt% 
+On distingue les catégories d'animaux suivantes: 22. ÉQUINS (tous âges) 
+Sont inclus les chevaux de course et de selle. 
+23. VEAUX À L'ENGRAIS 
+Veaux à l'engrais, habituellement abattus avant l'âge de 5 mois. 
+24. AUTRES BOVINS DE MOINS DE 1 AN 
+25. BOVINS DE 1 AN À MOINS DE 2 ANS, MÂLES 
+26. BOVINS DE 1 AN À MOINS DE 2 ANS, FEMELLES 
+Sont exclus les bovins femelles ayant déjà vêlé. 
+27. BOVINS DE 2 ANS ET PLUS, MÂLES (1)Dans ce cas, les recettes et charges relatives à l'activité d'agritourisme sont prises en compte respectivement dans les produits (cf. rubrique 179) et les charges de l'exploitation. 
+28. GÉNISSES POUR L'ÉLEVAGE 
+Bovins femelles de deux ans et plus n'ayant pas encore vêlé et qui sont destinés à la reproduction. 
+29. GÉNISSES À L'ENGRAIS 
+Bovins femelles de deux ans et plus n'ayant pas encore vêlé et qui ne sont pas destinés à la reproduction. 
+30. VACHES LAITIÈRES 
+Bovins femelles ayant vêlé (y compris ceux de moins de 2 ans) qui sont exclusivement ou principalement détenus pour la production de lait destiné à la consommation humaine ou à la transformation en produits laitiers. 
+31. VACHES LAITIÈRES DE RÉFORME 
+Vaches laitières après leur dernière lactation. 
+32. AUTRES VACHES 1. Bovins femelles ayant vêlé (y compris ceux de moins de 2 ans) qui sont exclusivement ou principalement détenus pour la production de veaux et dont le lait n'est pas destiné à la consommation humaine ou à la transformation en produits laitiers; 
+2. Vaches de travail; 
+3. «Autres vaches» de réforme (qu'elles soient engraissées ou non avant l'abattage). 
+33. BUFFLONS DE MOINS DE 1 AN 
+34. BUFFLES DE 1 AN À MOINS DE 2 ANS 
+35. BUFFLONNES DE 1 AN À MOINS DE 2 ANS 
+Sont exclues les bufflonnes ayant déjà vêlé. 
+36. BUFFLES DE 2 ANS ET PLUS 
+37. BUFFLONNES DE 2 ANS ET PLUS N'AYANT PAS VÊLÉ 
+Bufflonnes de 2 ans et plus destinées à la production laitière, mais n'ayant pas encore vêlé. 
+38. BUFFLONNES AYANT VÊLÉ 
+Bufflonnes ayant vêlé (même âgées de moins de deux ans) destinées à la production laitière. 
+39. AUTRES BUFFLONNES DE 2 ANS ET PLUS 
+Bufflonnes de 2 ans et plus non énumérées précédemment. 
+40. BREBIS 
+Ovins femelles d'un an et plus destinées à la reproduction. 
+41. AUTRES OVINS 
+Ovins de tous âges à l'exception des brebis. 
+42. CAPRINS (tous âges) 
+43. PORCELETS 
+Porcelets d'un poids vif de moins de 20 kilogrammes. 
+44. TRUIES REPRODUCTRICES 
+Truies reproductrices de 50 kilogrammes et plus. Sont exclues les truies de réforme (cf. rubrique 46 «autres porcs»). 
+45. PORCS À L'ENGRAIS 
+Porcs à l'engrais d'un poids vif de 20 kilogrammes et plus. Sont exclus les truies et verrats de réforme (cf. rubrique 46 «autres porcs»). 
+46. AUTRES PORCS 
+Porcs d'un poids vif de 20 kilogrammes et plus à l'exception des truies reproductrices (cf. rubrique 44) et des porcs à l'engrais (cf. rubrique 45). 
+47. POULETS DE CHAIR (1) 
+Sont exclues poules pondeuses et poules de réforme. 
+48. POULES PONDEUSES (1) 
+Sont comprises les poulettes, les poules pondeuses et les poules de réforme. Les poulettes sont les jeunes poules n'ayant pas encore commencé à pondre. 
+49. AUTRES VOLAILLES (canards, dindes, oies et pintades) (1). 
+50. AUTRES ANIMAUX. 
+Par catégorie d'animaux on indique les données suivantes: 
+Inventaire d'ouverture (colonnes 1 et 2) - Nombre (colonne 1) 
+Nombre d'animaux appartenant à l'exploitation au début de l'exercice comptable, qu'ils soient présents dans l'exploitation ou momentanément absents de l'exploitation à ce moment-là. 
+- Valeur (colonne 2) 
+Valeur des animaux appartenant à l'exploitation au début de l'exercice comptable, déterminée sur base des prix couramment pratiqués à ce moment-là. 
+Inventaire de clôture (colonnes 3 et 4) - Nombre (colonne 3) 
+Nombre d'animaux appartenant à l'exploitation à la fin de l'exercice comptable, qu'ils soient présents dans l'exploitation ou momentanément absents de l'exploitation à ce moment-là. 
+- Valeur (colonne 4) 
+Valeur des animaux appartenant à l'exploitation à la fin de l'exercice comptable déterminée sur base des prix couramment pratiqués à ce moment-là. 
+L'effectif moyen (colonne 5) 
+L'effectif moyen est indiqué en dixièmes de têtes sauf en ce qui concerne les volailles qui sont indiquées en têtes. Une tête correspond à la présence d'un animal pendant une année dans l'exploitation. Les animaux sont comptés au prorata de la durée de leur présence dans l'exploitation. 
+L'effectif moyen est déterminé soit à l'aide d'inventaires périodiques, soit à l'aide d'un registre des entrées et des sorties. Il comprend tous les animaux présents dans l'exploitation, y compris les animaux élevés ou engraissés sous contrat (2) et les animaux pris ou donnés en pension pour la période de l'année pendant laquelle ils sont présents dans l'exploitation. (1)Les poussins ne sont pas compris. (2)Animaux n'appartenant pas à l'exploitation, qui y sont élevés ou engraissés dans des conditions telles que cette activité correspond essentiellement à une prestation de services de la part de l'exploitant, ce dernier n'assumant pas le risque économique normalement lié à l'élevage ou à l'engraissement de ces animaux. 
+%gt%PIC FILE= %quot%T0011312%quot%%gt% 
+On distingue les catégories d'animaux suivantes: 51. Équins 
+52. Bovins 
+53. Buffles 
+54. Ovins 
+55. Caprins 
+56. Porcins 
+57. Volailles 
+58. Autres animaux 
+Par catégorie d'animaux on indique les données suivantes: 
+Achats d'animaux (colonne 1) 
+Montant des achats d'animaux au cours de l'exercice (y compris les frais d'achat). Les primes et subventions correspondantes ne sont pas déduites du montant desdits achats ; elles sont indiquées dans la rubrique 116 (voir instructions concernant cette rubrique). 
+Ventes d'animaux (colonne 2) 
+Montant des ventes d'animaux au cours de l'exercice. Les primes et subventions correspondantes ne sont pas comprises dans le montant des ventes ; elles sont indiquées dans la rubrique 112 (voir instructions concernant cette rubrique). 
+Lorsque les frais éventuels de commercialisation sont connus, ils ne sont pas déduits du montant des ventes, mais figurent dans la rubrique 71 (autres frais spécifiques d'élevage). 
+Autoconsommation et prestations en nature (colonne 3) 
+Évaluation au prix de vente départ ferme des animaux autoconsommés ou ayant fait l'objet de prestations en nature au cours de l'exercice. 
+%gt%PIC FILE= %quot%T0011313%quot%%gt% 
+Les charges d'exploitation (en espèces et en nature) correspondent à la «consommation» (y compris l'auto-utilisation) de moyens de production correspondant à la production réalisée au cours de l'exercice comptable ou à la «consommation» desdits moyens de production pendant l'exercice. Lorsque certaines dépenses correspondent en partie à la consommation privée et en partie aux charges d'exploitation (par exemple électricité, eau, combustibles, carburants, etc.), seule cette dernière partie est à indiquer dans la fiche d'exploitation. La quote-part du coût des voitures privées correspondant à leur utilisation aux fins d'exploitation, est prise en compte également. 
+Les charges correspondant à la production de l'exercice s'obtiennent en corrigeant les achats de l'exercice (y compris l'auto-utilisation) par les variations d'inventaire (y compris les variations d'avances aux cultures). Pour chaque poste concerné, les montants des charges payées et de l'auto-utilisation sont indiqués séparément. Les charges correspondant à la «consommation» de biens d'investissement sont représentées par les amortissements (1) ; de ce fait, les dépenses correspondant à l'acquisition de biens d'investissement ne sont pas considérées comme charges d'exploitation. Les dépenses correspondant à (1)Pour les instructions concernant les amortissements voir rubriques 94 à 103. 
+des éléments de charges qui font l'objet d'indemnités en cours d'exercice ou ultérieurement (par exemple réparation d'un tracteur comme suite à un accident couvert par une police d'assurance ou par un tiers responsable) ne sont pas retenues comme charges d'exploitation, les recettes correspondantes ne figurent pas non plus dans le compte d'exploitation. 
+Les recettes provenant de la revente d'approvisionnements achetés sont à déduire des postes correspondants des charges. 
+Les primes et subventions correspondant à des charges ne sont pas déduites des montants des charges en question, elles sont indiquées dans la rubrique 114 (cf. instructions concernant cette rubrique) (1). 
+Les charges comprennent également des frais d'achat éventuels correspondant à chaque poste des charges. 
+On distingue les charges suivantes: 59. Salaires et charges sociales de la main-d'oeuvre salariée 
+Ce poste comprend les charges suivantes: - appointements et salaires proprement dits payés en espèces à la main-d'oeuvre salariée quelles que soient les modalités de détermination de la rémunération (travail à temps ou à tâche), déduction faite des allocations éventuelles de caractère social payées à l'exploitant en tant qu'employeur, pour compenser le paiement d'un salaire qui ne correspond pas à une prestation effective de travail (exemple : absence au travail pour cause d'accident, de formation professionnelle, etc.), 
+- appointements et salaires payés en nature (par exemple : logement, nourriture, habitation, produits de l'exploitation, etc.), 
+- primes de rendement, de qualification, étrennes, pourboires, participation aux bénéfices, 
+- autres frais annexes de main-d'oeuvre (frais d'embauche), 
+- charges sociales incombant à l'employeur et celles payées par celui-ci aux nom et place du salarié, 
+- assurances accidents du travail. 
+Les charges sociales et les assurances personnelles concernant l'exploitant et la main-d'oeuvre non salariée ne sont pas considérées comme charges de l'exploitation. 
+Les montants versés aux membres de la main-d'oeuvre non salariée (qui, par définition, sont inférieurs à une rémunération normale, cf. définition de la main-d'oeuvre non salariée) ne figurent pas dans la fiche d'exploitation. 
+Les allocations (en espèces ou en nature) accordées aux salariés retraités qui n'exercent plus aucune activité dans l'exploitation ne figurent pas sous ce poste, mais sont enregistrées sous la rubrique «autres frais généraux d'exploitation». 
+60. Travaux par tiers (par entreprise) et location de machines 
+Ce poste comprend les charges suivantes: - montant des dépenses correspondant aux travaux d'exploitation effectués par des entreprises de travaux agricoles. Le montant en question comprend en général à la fois une rémunération pour l'utilisation du matériel et pour le personnel et, selon les travaux, le prix des produits utilisés (par exemple produits de protection des cultures). Lorsque ce dernier montant est connu, il est déduit du poste «travaux par tiers» et enregistré dans la rubrique correspondante (par exemple le poste «produits de protection des cultures»); 
+- frais de location et de crédit-bail (leasing) de machines conduites ou utilisées par le personnel de l'exploitation. 
+61. Entretien courant du matériel 
+Frais occasionnés par l'entretien du matériel et les petites réparations qui ne modifient pas la valeur intrinsèque du matériel auquel elles s'appliquent (frais de mécanicien, de pièces de rechange, etc.). 
+Ce poste comprend les achats du petit matériel, de même que les frais de bourrellerie, ferrage des chevaux de trait, les achats de pneus, les bâches, les vêtements de protection pour l'exécution de (1)Les primes et subventions correspondant à des investissements sont indiquées dans les rubriques 94 à 103. 
+travaux insalubres, les détergents utilisés pour le nettoyage du matériel en général (1), ainsi que la quote-part des coûts des voitures privées correspondant à leur utilisation à des fins d'exploitation (voir également la rubrique 63). 
+Les grosses réparations qui ont pour effet de donner au matériel une plus-value certaine, par rapport à sa valeur avant réparation, ne sont pas comprises dans ce poste (voir les instructions sur les amortissements). 
+62. Carburants et lubrifiants 
+Cette rubrique comprend également la quote-part des frais de carburants et de lubrifiants des voitures privées correspondant à leur utilisation à des fins d'exploitation (voir rubrique 63). 
+Lorsque des produits pétroliers sont utilisés à la fois comme carburants et comme combustibles, le montant est réparti entre les deux postes: 
+63. «Carburants et lubrifiants», 
+80. «Combustibles». 
+63. Frais de voiture 
+Dans le cas où la quote-part du coût de voiture(s) privée(s) correspondant à l'utilisation de celle(s)-ci à des fins d'exploitation est déterminée de façon forfaitaire (par exemple à l'aide d'un montant forfaitaire par kilomètre), ces coûts sont indiqués dans la présente rubrique. 
+Aliments du bétail 
+On distingue les aliments du bétail achetés et les aliments du bétail auto-utilisés. 
+Les aliments du bétail achetés comprennent également l'achat des condiments minéraux, des produits laitiers (achetés ou rétrocédés) et les produits pour la préservation et la conservation des aliments du bétail, les frais de pension d'animaux et d'utilisation de pâture ou pacages collectifs, non compris dans la SAU, ainsi que les frais de location de superficies fourragères, non comprises dans la SAU. Les litières et pailles achetées sont également comprises dans les aliments du bétail achetés. 
+Les aliments achetés pour herbivores sont subdivisés en aliments concentrés (2) d'une part et en fourrages grossiers (y compris les pensions d'animaux, les frais d'utilisation de pâturages ou pacages collectifs et de superficies fourragères non comprises dans la SAU, les litières et pailles achetées), d'autre part (3). 
+Les aliments du bétail auto-utilisés comprennent les produits commercialisables de l'exploitation (y compris lait et produits laitiers, mais à l'exclusion du lait tété au pis par les veaux qui n'est pas pris en considération) utilisés comme aliments du bétail. Les litières et pailles de l'exploitation ne sont comprises que pour autant qu'elles constituent un produit commercialisable dans la région et pour la campagne en question. 
+On distingue les rubriques suivantes: 
+Aliments achetés pour: 
+Herbivores (équins, bovins, ovins, caprins) 
+64. Aliments concentrés 
+65. Fourrages grossiers 
+66. Porcins 
+67. Volailles et autres petits animaux 
+Aliments auto-utilisés pour: 68. Herbivores (équins, bovins, ovins, caprins) (1)Les détergents utilisés pour le nettoyage du matériel d'élevage (par exemple machine à traire) sont indiqués dans la rubrique 71 (autres frais spécifiques d'élevage). (2)La rubrique «aliments concentrés» comprend notamment : tourteaux, aliments composés, céréales, herbe déshydratée (farines, bouchons, pellets), pulpe sèche de betteraves sucrières, farine de poisson et de viande, lait et produits laitiers, condiments minéraux et produits pour la préservation et la conservation de tels aliments. (3)Les frais correspondant aux travaux effectués par des entreprises de travaux agricoles pour la production de fourrages grossiers, par exemple ensilage, sont inscrits à la rubrique 60 «travaux par tiers». 
+69. Porcins 
+70. Volailles et autres petits animaux 
+71. Autres frais spécifiques d'élevage 
+Tous frais ayant directement rapport avec la production animale pour autant qu'ils ne font pas l'objet d'indication séparée dans d'autres postes de charges : frais vétérinaires, médicaments, saillies, inséminations artificielles, castrations, contrôle laitier, cotisations et inscriptions aux livres généalogiques, détergents utilisés pour le nettoyage du matériel d'élevage (par exemple machine à traire) (1), emballages de produits animaux, fournitures pour transformation de produits animaux, frais de stockage ou de conditionnement des produits animaux de l'exploitation effectué en dehors de l'exploitation, frais de commercialisation des produits animaux de l'exploitation, montant des achats occasionnels et complémentaires à la production de l'exploitation, de produits animaux (par exemple lait) transformés dans l'exploitation, etc. 
+72. Semences et plants achetés 
+Ensemble des semences et des plants achetés y compris oignons, bulbes et tubercules. Les coûts des jeunes arbres et arbustes correspondant à une nouvelle plantation constituent un investissement, ils figurent soit à la rubrique 96 (cultures permanentes), soit à la rubrique 100 (terrains forestiers). Toutefois, les coûts de jeunes arbres et arbustes pour un repeuplement de peu d'importance sont considérés comme charges de l'exercice et sont à indiquer dans la présente rubrique à l'exception cependant des coûts concernant les forêts liées à l'exploitation agricole, ces derniers étant indiqués dans la rubrique 77 (frais spécifiques des forêts). 
+Les frais correspondant à la préparation des semences (triage, désinfection) sont compris également dans ce poste. 
+73. Semences et plants auto-utilisés 
+Ensemble des semences et des plants (y compris oignons, bulbes et tubercules) provenant de l'exploitation. 
+74. Engrais et amendements (2) 
+Ensemble des engrais et amendements y compris terreau, tourbe et fumier achetés (non compris le fumier produit dans l'exploitation). 
+75. Produits de protection des cultures (2) 
+Tous produits utilisés en vue de protéger les cultures contre parasites et maladies, prédateurs, intempéries, etc. (insecticides, anticryptogamiques, désherbants, appâts empoisonnés, pétards, obus antigrêle, brouillard antigel, etc.). Lorsque les travaux de protection des cultures sont effectués par une entreprise de travaux agricoles et lorsque le montant correspondant aux produits de protection utilisés n'est pas connu séparément, le montant global est enregistré dans la rubrique 60 «travaux par tiers». 
+76. Autres frais spécifiques de culture (y compris prairies et pâturages permanents) 
+Tous frais ayant directement rapport avec la production végétale pour autant qu'ils ne font pas l'objet d'une indication séparée dans d'autres postes de charges : emballages, liens et ficelles, frais d'analyse des sols, frais de concours de cultures, couvertures plastiques (utilisées par exemple pour la culture des fraises), fournitures pour la conservation et la transformation de produits végétaux, frais de stockage et de conditionnement des produits végétaux de l'exploitation effectués en dehors de l'exploitation, frais de commercialisation des produits végétaux de l'exploitation, montants payés pour l'achat de récoltes sur pied correspondant à des cultures commercialisables ou pour la location de terres pour une durée inférieure à une année destinées à des cultures commercialisables, montant des achats occasionnels et complémentaires à la production de l'exploitation de produits végétaux, par exemple raisins, transformés dans l'exploitation, etc. (1)Les détergents utilisés pour le nettoyage du matériel en général sont indiqués dans la rubrique 61 (entretien courant du matériel). (2)Les engrais et amendements ainsi que les produits de protection utilisés pour les forêts liées à l'exploitation agricole sont indiqués dans la rubrique 77 (frais spécifiques des forêts). 
+77. Frais spécifiques des forêts 
+Engrais, produits de protection, frais spécifiques divers. Ne sont pas compris les frais de main-d'oeuvre, travaux par tiers et frais de mécanisation, ceux-ci figurant dans les postes de charges correspondants. 
+78. Entretien courant des bâtiments et des améliorations foncières 
+Entretien locatif des bâtiments d'exploitation, des constructions et des améliorations foncières, y compris les serres, châssis et supports. Les achats de matériaux de construction destinés à l'entretien courant des bâtiments sont à indiquer dans cette rubrique (1). 
+Les frais de grosses réparations ayant pour conséquence de donner à l'immeuble une plus-value certaine (gros entretien) ne sont pas retenus dans cette rubrique, même si le coût des travaux en question est supporté par le fermier (voir également instructions sur le fermage payé, rubrique 85). Ces frais figurent dans la rubrique 98 «Bâtiments d'exploitation». 
+79. Électricité 
+Consommation d'électricité à toutes fins d'exploitation. 
+80. Combustibles 
+Consommation de combustibles à toutes fins d'exploitation, y compris le chauffage des serres. 
+81. Eau 
+Frais de raccordement à un réseau de distribution d'eau et consommation d'eau à toutes fins d'exploitation, y compris l'eau pour irrigation. (Les frais relatifs à l'utilisation d'installations hydrauliques propres sont à indiquer dans les postes correspondants : amortissement du matériel, entretien courant du matériel, carburants ou électricité). 
+82. Assurances 
+Toutes primes d'assurance couvrant les risques d'exploitation tels que la responsabilité civile de l'exploitant, l'incendie, l'inondation ; assurance mortalité du bétail et dégâts aux cultures, etc., à l'exception des primes d'assurance accidents de travail indiquées sous la rubrique 59 et des primes d'assurance concernant les bâtiments d'exploitation et constructions en faire-valoir direct qui dans le cas de fermage sont normalement payées par le propriétaire, ces dernières primes (éventuellement estimées) étant indiquées sous la rubrique 87. 
+83. Impôts et taxes d'exploitation 
+Ensemble des impôts, taxes et contributions concernant l'exploitation, y compris ceux dus dans le cadre des mesures sur la protection de l'environnement, mais à l'exception de la TVA et de ceux frappant les biens fonciers et la main-d'oeuvre. Les impôts personnels de l'exploitant ne sont pas considérés comme charges d'exploitation. 
+84. Autres frais généraux d'exploitation 
+Tous autres frais d'exploitation non mentionnés dans les rubriques précédentes (comptabilité, frais de bureau et de secrétariat, frais de téléphone, cotisations diverses, abonnements, etc.). 
+85. Fermage payé 
+Fermage payé (en espèces ou en nature) pour les terres et bâtiments exploités en fermage. Sont compris dans ce poste les charges payées par le fermier aux nom et lieu du propriétaire (par exemple impôt foncier et amortissements de grosses réparations dont le coût a été supporté par le fermier) qui ne peuvent pas être récupérées par le fermier. La valeur locative de la maison d'habitation du fermier lorsque celle-ci fait partie du fermage, est déduite du montant global du fermage, à l'exception de la partie de celle-ci utilisée à des fins d'exploitation. 
+86. Valeur locative des biens fonciers en faire-valoir direct ou en métayage 
+Montant du fermage couramment payé pour des biens fonciers comparables (y compris les bâtiments, les plantations et les superficies boisées), déduction faite de la valeur locative de la maison d'habitation, à l'exception de la partie de celle-ci utilisée à des fins d'exploitation. (1)Les achats de matériaux de constructions destinés à de nouveaux investissements sont à indiquer dans la colonne «investissements» des rubriques 94 (terres agricoles et bâtiments d'exploitation), 97 (améliorations foncières) et/ou 98 (bâtiments d'exploitation). 
+Le valeur locative des bâtiments d'exploitation et constructions appartenant à l'exploitant mais situés sur terrains loués est comprise également dans ce poste. À défaut de sources de référence, la valeur locative de ces bâtiments et constructions est déterminée sur base des frais réels (amortissements, intérêts, taxes et assurances). 
+87. Primes d'assurance concernant les bâtiments d'exploitation 
+Primes d'assurance (incendie, inondation, etc.) concernant les bâtiments d'exploitation et constructions en faire-valoir direct qui, dans le cas du fermage, sont normalement payées par le propriétaire. Dans le cas où l'ensemble des assurances fait l'objet d'une police unique, la partie des primes correspondant aux bâtiments d'exploitation est estimée. 
+88. Impôts fonciers et charges annexes 
+Montant des impôts, taxes et autres charges grevant la propriété des terres et bâtiments d'exploitation en faire-valoir direct et en métayage. 
+89. Intérêts et frais financiers payés 
+Intérêts et frais financiers sur capital étranger (emprunts) contractés à des fins d'exploitation (1). 
+Si les données sont disponibles dans la comptabilité de l'exploitation, les détails suivants sont à fournir également. 
+90. Intérêts et frais financiers payés sur emprunts contractés en vue de l'acquisition du capital foncier (terres et bâtiments) (1). 
+91. Dont : Intérêts et frais financiers payés sur emprunts contractés en vue de l'acquisition de terres (1). 
+92. Intérêts et frais financiers payés sur emprunts contractés en vue du financement du capital d'exploitation (cheptel vif, cheptel mort et capital circulant) et sur dettes (1). 
+La somme des rubriques 90 et 92 est égale au montant figurant à la rubrique 89. 
+93. Total 
+Somme des rubriques 59 à 89. 
+%gt%PIC FILE= %quot%T0011314%quot%%gt% 
+On distingue les rubriques suivantes: 94. Terres agricoles et bâtiments d'exploitation 
+Total des rubriques 95 à 99 ci-après. Les rubriques 95, 97, 98 et 99 sont à remplir pour autant que les données correspondantes sont disponibles dans la comptabilité. 
+95. Terres agricoles 
+Terres agricoles en faire-valoir direct (2). 
+96. Cultures permanentes 
+Ensemble des plantations (à l'exception des bois et forêts) appartenant à l'exploitant quel que soit le mode de faire-valoir des terres. 
+97. Améliorations foncières 
+Améliorations foncières (par exemple clôtures, installations de drainage, etc.) appartenant à l'exploitant quel que soit le mode de faire-valoir des terres (2). (1)Dans le cas où cette information n'est pas disponible dans la comptabilité de l'exploitation, on indique le chiffre 1 dans la zone en question. (2)Dans le cas où cette information n'est pas disponible dans la comptabilité de l'exploitation, on indique le chiffre 1 dans la zone en question. Même dans ce cas, les données correspondantes sont incluses dans la rubrique 94. Le montant correspondant des rubriques 97, 98 et éventuellement 99, fait l'objet d'amortissement. 
+98. Bâtiments d'exploitation 
+Bâtiments et constructions appartenant à l'exploitant quel que soit le mode de faire-valoir des terres (1). 
+99. Frais d'établissement 
+Frais de notaire, frais d'enregistrement, etc. relatifs à l'acquisition de biens fonciers agricoles (1). 
+100. Terrains forestiers y compris matériel ligneux sur pied 
+Terrains forestiers en faire-valoir direct inclus dans l'exploitation agricole, y compris les frais d'établissement correspondants. 
+101. Matériel (cheptel mort) 
+Tracteurs, motoculteurs, camions, camionnettes, voitures (2), gros et petit matériel. 
+102. Capital circulant 
+Le capital circulant est constitué par les éléments suivants: a) Stocks 
+Produits de l'exploitation et approvisionnements en magasin. 
+b) Autre capital circulant - avances aux cultures (limitées à valeur des engrais, amendements, semences et plants incorporés dans les cultures en cours, à l'exception des plants de cultures permanentes); 
+- portefeuille agricole (titres de participation à des organismes coopératifs ou autres dont l'exploitation utilise les services); 
+- créances 
+- valeurs réalisables à court terme sur produits vendus, services rendus et cessions d'immobilisations et, 
+- sommes payées d'avance sur fourniture de biens et services; 
+- disponibilités (avoirs en caisse, banque, CCP) nécessaires pour le fonctionnement de l'exploitation. 
+Les intérêts reçus sur le compte bancaire sont à indiquer sous la rubrique 178. 
+Pour autant qu'on ne soit pas en mesure de déterminer exactement le montant du capital circulant, une évaluation forfaitaire peut être pratiquée. Celle-ci peut consister en l'estimation du montant moyen du capital investi dans le processus de production, compte tenu de la durée de l'investissement. Dans ce cas, les montants du capital circulant aux inventaires d'ouverture et de clôture sont identiques. 
+103. Total 
+Somme des rubriques 94, 100, 101 et 102. 
+Par rubrique les données suivantes sont à indiquer: 
+Valeur d'acquisition (colonnes 1 et 2) 
+La valeur d'acquisition est à indiquer dans les cas où les amortissements sont déterminés sur base de cette valeur. Il s'agit du montant payé au moment de l'achat du bien en question. Dans les cas où l'acquisition du bien a donné lieu à une prime ou subvention, on indique dans la colonne 1 le montant de l'achat, prime ou subvention non déduite et dans la colonne 2 le montant de ladite prime ou subvention. 
+Valeur à l'inventaire d'ouverture (colonne 3) 
+Valeur comptable des biens au jour de l'inventaire. Pour les biens soumis à amortissement (y compris les grosses réparations éventuelles déjà intervenues) la valeur comptable est déterminée en fonction de la durée de l'amortissement restant à courir. La valeur comptable est calculée sur la même base que les amortissements, à savoir: (1)Dans le cas où cette information n'est pas disponible dans la comptabilité de l'exploitation, on indique le chiffre 1 dans la zone en question. Même dans ce cas, les données correspondantes sont incluses dans la rubrique 94. Le montant correspondant des rubriques 97, 98 et éventuellement 99, fait l'objet d'amortissement. (2)Voir également ci-après «valeur à l'inventaire d'ouverture». - soit la valeur de remplacement (1), 
+- soit la valeur d'acquisition. 
+Les terres sont évaluées sur base des prix (nets des frais d'établissement) pratiqués dans la région pour les terres non louées de même situation et qualité faisant l'objet de commercialisation à des fins agricoles (les évaluations retenues lorsqu'il y a mutation entre parents ne sont pas prises en considération pour la détermination de la valeur) (2). 
+Pour autant que les coûts des voitures privées correspondant à l'utilisation de celles-ci à des fins d'exploitation sont répartis entre les rubriques 61 (entretien courant du matériel) et 62 (carburants et lubrifiants), la quote-part de l'exploitation dans la valeur de ces voitures est comprise dans le cheptel mort. Par contre dans le cas où les coûts d'utilisation des voitures privées à des fins d'exploitation sont calculés de façon forfaitaire (cf. rubrique 63) les voitures privées ne sont pas comprises dans le cheptel mort. 
+Investissements (colonnes 4 et 5) 
+Montant des achats, grosses réparations et productions d'immobilisations au cours de l'exercice. Pour autant que les investissements ont donné lieu à des primes et subventions, on indique dans la colonne 4 le montant primes et subventions non déduites et dans la colonne 5 le montant desdites primes et subventions. 
+Les achats de petit matériel ainsi que de jeunes arbres et arbustes pour un repeuplement de peu d'importance ne figurent pas dans ces colonnes mais sont inclus dans les charges de l'exercice (cf. rubrique 61 «entretien courant du matériel» ; rubrique 72 «semences et plants achetés» ; rubrique 77 «frais spécifiques des forêts»). 
+Lorsque le paiement s'effectue en titres de créance, ceux-ci sont évalués sur base de leur valeur au comptant. 
+Ventes (colonne 6) 
+Montant des ventes de biens au cours de l'exercice. 
+Amortissements (colonne 7) 
+L'amortissement correspond à la constatation comptable de la dépréciation réelle des biens au cours de l'exercice. Il peut être déterminé (selon les États membres) sur base: a) soit de la valeur de remplacement (valeur à neuf d'un bien semblable au prix actuel), 
+b) soit de la valeur d'acquisition. 
+Pour autant qu'on applique cette dernière méthode, la valeur d'acquisition est à indiquer dans les colonnes 1 et 2 (cf. instructions concernant ces colonnes). 
+Amortissement des plantations 
+Les coûts des plants correspondant à une nouvelle plantation constituent un investissement et font l'objet d'amortissement. 
+Seules les plantations appartenant à l'exploitant (quel que soit le mode de faire-valoir des terres) font l'objet d'amortissement. 
+Les taux d'amortissement linéaire ci-dessous sont donnés à titre indicatif: %gt%PIC FILE= %quot%T0011315%quot%%gt% (1)La valeur de remplacement (valeur à neuf d'un bien semblable au prix actuel) peut être déterminée soit à l'aide des prix actuels, soit à l'aide de l'indice (général ou particulier) des prix des biens en question (matériel, bâtiments, etc.). (2)En Allemagne et en Irlande les terres sont évaluées sur base de leur valeur d'utilisation à des fins agricoles. Cette valeur est indiquée dans la fiche d'exploitation. Les organes de liaison concernés communiquent à la Commission la méthode selon laquelle les terres ont été évaluées dans les différentes circonscriptions, ainsi que les données statistiques disponibles concernant les valeurs vénales correspondantes. 
+%gt%PIC FILE= %quot%T0011316%quot%%gt% 
+Amortissement des bâtiments d'exploitation, des constructions et des améliorations foncières 
+Amortissements des bâtiments, des constructions (y compris serres et châssis) et des améliorations foncières appartenant à l'exploitant, quel que soit le mode de faire-valoir des terres. 
+Les taux d'amortissement linéaire ci-dessous sont donnés à titre indicatif. 
+%gt%PIC FILE= %quot%T0011317%quot%%gt% 
+Amortissement du matériel 
+Le matériel qui donne lieu à amortissement est celui dont la valeur à neuf est supérieure à environ 100 UCE (1). Le petit matériel (en-dessous de cette valeur) ne fait pas l'objet d'un calcul d'amortissement ; les achats correspondants sont directement comptés comme charges de l'exercice (rubrique 61 «entretien courant du matériel»). 
+Les grosses réparations qui ont pour effet de donner au matériel une plus-value certaine par rapport à sa valeur avant réparation sont prises en considération également dans ce poste, soit sous forme d'une partie intégrante de l'amortissement du matériel qui, le cas échéant, tient compte du prolongement de la durée de vie du matériel en question du fait de cette réparation, soit sous forme d'une quote-part annuelle du montant de la grosse réparation, celui-ci étant réparti sur plusieurs exercices successifs. 
+Le montant d'amortissement annuel peut être calculé d'après la méthode d'amortissement linéaire ou d'après la méthode d'amortissement dégressif. 
+Le taux d'amortissement est fonction de plusieurs facteurs dépendant pour la plupart des conditions particulières de la région et de la production (degré d'utilisation annuelle), mais aussi du progrès technique. 
+Étant donné la dépréciation différente qui en résulte d'une région à l'autre, voire d'une exploitation à l'autre, les offices comptables ont la possibilité de choisir des taux par matériel appropriés à la situation régionale, voire au cas de chaque exploitation, l'objet étant de serrer d'aussi près que possible la valeur de la dépréciation réelle du matériel. 
+Les taux d'amortissement ci-dessous sont ainsi donnés à titre indicatif: %gt%PIC FILE= %quot%T0011318%quot%%gt% 
+Valeur à l'inventaire de clôture (colonne 8) 
+Valeur comptable des biens à l'inventaire de clôture. (1)Environ 300 DM ; 550 FF ; 100 000 Lit ; 350 Fl ; 5 000 FB/Flux ; 750 Dkr ; 60 £. 
+%gt%PIC FILE= %quot%T0011319%quot%%gt% 
+Les montants indiqués ne concernent que les sommes restant à rembourser, c'est-à-dire le montant des emprunts contractés déduction faite des remboursements déjà intervenus. Les emprunts sous forme de titres de créance sont évalués à leur valeur au comptant. 
+On distingue les emprunts selon la durée, à savoir: 104. Emprunts à long et moyen terme 
+Emprunts au titre de l'exploitation contractés pour une durée de 1 an et plus (1). 
+105. Emprunts à court terme et dettes 
+Emprunts au titre de l'exploitation contractés pour une durée de moins de 1 an, dettes et frais courus à payer (1). 
+106. Total: 
+Somme des rubriques 104 et 105 (1). 
+Si les données sont disponibles dans la comptabilité de l'exploitation, les emprunts sont subdivisés selon leurs destinations, à savoir: - Emprunts pour capital foncier (colonnes 2 et 6) (1) 
+dont : Emprunts pour achats de terres (colonnes 3 et 7) (1) 
+- Emprunts pour capital d'exploitation (colonnes 4 et 8) (1). 
+La somme de ces détails correspond au montant figurant dans les colonnes 1 (= colonnes 2 + 4) et 5 (= colonnes 6 + 8). 
+%gt%PIC FILE= %quot%T0011320%quot%%gt% 
+Les données en valeur monétaire figurant dans la fiche d'exploitation sont exprimées selon les États membres: - soit hors TVA ; cette méthode est à appliquer pour toutes les exploitations soumises au régime normal; 
+- soit TVA incluse. Les États membres dans lesquels cette dernière méthode est pratiquée fournissent chaque année avec les supports mécanographiques comportant les données comptables d'un exercice, la liste des taux de TVA appliqués pendant l'exercice comptable considéré pour chacun des postes de la fiche d'exploitation. 
+Les données suivantes sur la TVA sont à fournir: a) pour chaque exploitation: 107. Régime de TVA 
+Le régime de TVA (nº d'ordre 400) auquel l'exploitation est soumise est indiqué par le numéro de code correspondant de la liste suivante: %gt%PIC FILE= %quot%T0011321%quot%%gt% 
+(1)Dans le cas où cette information n'est pas disponible dans la comptabilité de l'exploitation, on indique le chiffre 1 dans la zone en question. %gt%PIC FILE= %quot%T0011322%quot%%gt% 109. TVA sur achats 
+TVA payée au cours de l'exercice sur l'achat courant de biens et services. 
+En Italie, cette rubrique comprend également la TVA versée au fisc en application du critère au prorata pour les produits de la deuxième partie de la liste italienne des produits agricoles. 
+110. TVA sur investissements 
+TVA payée au cours de l'exercice sur l'achat de biens correspondant à un investissement [non compris la TVA non déductible pour les exploitations soumises au régime normal, pendant la période transitoire (1)]. 
+111. TVA remboursée par le fisc 
+Montant du remboursement forfaitaire. 
+%gt%PIC FILE= %quot%T0011323%quot%%gt% 
+Les primes et subventions à indiquer dans les rubriques 112 à 119 sont celles accordées sur fonds publics et qui ont donné lieu à une recette spécifique à l'exclusion des primes et subventions sur investissements figurant dans les rubriques 94 à 103. 
+112. Primes et subventions sur animaux et produits 
+Montants des primes et subventions correspondant à la production des produits mentionnés dans les rubriques 51 à 58 et 120 à 311, y compris celles reçues au cours de l'exercice mais concernant la production d'exercices antérieurs. 
+113. dont : Détails du montant de la rubrique 112 selon les catégories d'animaux (rubriques 51 à 58) et les produits (rubriques 120 à 311) pour autant que les données correspondantes sont disponibles dans la comptabilité. 
+114. Primes et subventions sur charges 
+Montant des primes et subventions concernant les charges (rubriques 59 à 92). 
+115. dont : Détails du montant de la rubrique 114 selon les charges (rubriques 59 à 92) pour autant que les données correspondantes sont disponibles dans la comptabilité. 
+116. Primes et subventions sur achats d'animaux 
+Montant des primes et subventions concernant les achats d'animaux (colonne 1 des rubriques 51 à 58). 
+117. dont : Détails du montant de la rubrique 116 selon les catégories d'animaux (rubriques 51 à 58) pour autant que les données correspondantes sont disponibles dans la comptabilité. 
+118. Total 
+Somme des rubriques 112, 114 et 116. 
+119. dont : Primes et subventions «calamités» 
+Montant des primes et subventions exceptionnelles accordées directement à l'exploitant du fait de calamités agricoles et qui sont déjà comprises dans la rubrique 118. 
+(1)Cette TVA non déductible est comprise dans la valeur de l'investissement. %gt%PIC FILE= %quot%T0011324%quot%%gt% 
+127. Riz 
+128. Autres céréales 
+129. Légumes secs (y compris semences et mélanges de légumes secs avec des céréales) 
+130. Pommes de terre (y compris primeurs et plants) 
+131. Betteraves sucrières (non compris semences) 
+132. Plantes oléagineuses herbacées (y compris semences) 
+133. Houblon (non compris semences) 
+134. Tabac (non compris semences) 
+135. Autres plantes industrielles (non compris semences) (1) 
+136. Légumes frais, melons, fraises en culture de plein champ : cultures entrant dans l'assolement avec des cultures agricoles (2) 
+137. Légumes frais, melons, fraises en culture maraîchère de plein air (superficie de base) : cultures entrant dans l'assolement avec d'autres cultures horticoles et caractérisées par une rotation rapide avec occupation presque continue de la superficie et obtention de plusieurs récoltes par an (2) 
+138. Légumes frais, melons, fraises sous verre (superficie de base) : cultures pratiquées pendant la totalité ou la plus grande partie du cycle végétatif sous abri (serres, châssis fixes, tunnels plastiques chauffés ; dans le cas des serres à étages, on compte seulement la superficie de base). Ne sont pas considérées comme cultures sous verre les cultures pratiquées en tunnels plastiques non chauffés, sous cloches ou sous châssis portables (2) 
+139. Champignons : la superficie totale des couches successives (superficie de base x nombre de récoltes complètes) est indiquée en mètres carrés. Cette superficie n'est pas comptée dans le total (rubrique 183) 
+140. Fleurs et plantes ornementales de plein air (non compris les pépinèrs) (superficie de base) (3) 
+141. Fleurs et plantes ornementales sous verre (superficie de base) (3) 
+142. Semences d'herbe (graminées et légumineuses fourragères) 
+143. Autres semences (semences horticoles, semences et plants des terres arables, non compris céréales, légumes secs, pommes de terre, plantes oléagineuses et semences d'herbe) 
+144. Plantes sarclées fourragères (betteraves fourragères, rutabagas, carottes et navets fourragers, betteraves demi-sucrières, autres plantes sarclées) (non compris semences) 
+145. Autres plantes fourragères : ensemble des cultures fourragères herbacées entrant dans l'assolement et occupant la même superficie pendant moins de cinq années (fourrages annuels et pluriannuels à l'exclusion des prairies temporaires) (1)Voir les rubriques 184 et 185. (2)Voir les rubriques 186 à 231. (3)Voir les rubriques 232 à 243. 
+146. Jachères : terres comprises dans l'assolement, travaillées ou non, ne fournissant pas de récolte pendant toute la durée de l'exercice 
+147. Prairies temporaires : prairies ensemencées sur terres arables, consacrées pour une durée de moins de cinq ans à des productions fourragères herbacées. Le montant des ventes d'herbe et de foin provenant de cette superficie est à indiquer dans la présente rubrique 
+148. Autres cultures des terres arables : cultures des terres arables non comprises dans les rubriques 120 à 147 
+149. Terres louées prêtes à semer, y compris les terres mises à la disposition du personnel à titre d'avantage en nature 
+150. Prairies et pâturages permanents : superficie agricole utilisée, cultivée hors assolement, consacrée de façon permanente (pour une durée de cinq ans et plus) à des productions fourragères herbacées, qu'il s'agisse d'herbages ensemencés ou naturels, généralement fertilisés et entretenus. Le montant des ventes d'herbe et de foin provenant de cette superficie est à indiquer dans la présente rubrique 
+151. Parcours : pâturages pauvres généralement non fertilisés et non entretenus, même s'ils portent une végétation arbustive 
+152. Plantations d'arbres fruitiers et baies (1) 
+153. Agrumeraies (2) 
+154. Oliveraies (3) 
+155. Vignes (4) 
+156. Cultures permanentes sous verre 
+157. Pépinières autres que viticoles, non comprises les pépinières forestières se trouvant en forêt et destinées aux besoins de l'exploitation 
+158. Autres cultures permanentes (osiers, roseaux, bambous, etc.) 
+159. Croissance des jeunes plantations, évaluée au coût des moyens de production mis en oeuvre (il s'agit exclusivement de plantations qui n'ont pas encore atteint le stade de la pleine production) 
+160. Produits transformés de produits végétaux non mentionnés séparément (5) 
+161. Sous-produits des produits végétaux (6) 
+162. Lait de vache 
+163. Produits laitiers de bovins 
+164. Lait de bufflonne 
+165. Produits laitiers de buffles 
+166. Laine 
+167. Lait et produits laitiers d'ovins 
+168. Lait et produits laitiers de caprins 
+169. OEufs de poule 
+170. Autres produits animaux (fumier vendu, saillies, oeufs autres que de poule, etc.) 
+171. Élevage sous contrat : montant des recettes d'élevage sous contrat dans des conditions telles que cette activité correspond essentiellement à une prestation de services de la part de l'exploitant, ce dernier n'assumant pas le risque économique normalement lié à l'élevage ou à l'engraissement de ces animaux (7) 
+172. Location occasionnelle de superficie fourragère et pensions d'animaux (1)Voir les rubriques 244 à 274. (2)Voir les rubriques 275 à 280. (3)Voir les rubriques 281 à 284. (4)Voir les rubriques 285 à 291. (5)Voir les rubriques 292 à 298 (6)Voir les rubriques 299 à 306 (7)Voir les rubriques 307 à 311 
+173. Superficie boisée : superficie occupée par des bois et forêts, y compris les pépinières forestières se trouvant en forêt ainsi que les peupleraies. Les arbres isolés, les arbres en petits groupes et les arbres en ligne ne sont pas compris dans la superficie boisée ; la superficie correspondante est attribuée à la superficie limitrophe. Sont considérés les bois et forêts gérés par l'exploitant, entretenus par la main-d'oeuvre de l'exploitation agricole avec le matériel de celle-ci et/ou dont les produits sont utilisés à des fins de l'exploitation agricole 
+174. Ventes de bois abattu : montant des ventes au cours de l'exercice de bois abattu, y compris l'auto-utilisation 
+175. Ventes de bois sur pied : montant des ventes au cours de l'exercice de bois sur pied 
+176. Autres produits forestiers : montant des ventes au cours de l'exercice de produits forestiers autres que le bois (liège, gemme, etc.) 
+177. Travaux pour tiers y compris location du matériel 
+178. Intérêts sur disponibilités nécessaires au fonctionnement de l'exploitation (fond de roulement) du compte bancaire de l'exploitant. Cette rubrique n'est pas remplie, si le capital circulant est déterminé de façon forfaitaire (voir également les instructions sur le capital circulant, rubrique 102) 
+179. Agritourisme : dans les cas où l'agritourisme est imbriqué à l'activité de l'exploitation agricole de telle sorte qu'il est pratiquement impossible de dissocier cette activité de l'exploitation proprement dite et où de ce fait les charges et la main-d'oeuvre y relatives sont comprises dans les rubriques correspondantes, les recettes de cette activité sont indiquées dans le présent poste. Elles comprennent les indemnités reçues de touristes (emplacement de camping, gîtes ruraux, caravaning attelé, location de chasse et de pêche, etc.) 
+180. Recettes concernant les exercices antérieurs : montant reçus au cours de l'exercice concernant les exercices antérieurs et qui n'ont pas été comptés dans les créances des exercices correspondants (les primes et subventions concernant les exercices antérieurs sont indiquées dans les rubriques 112 à 119, ou éventuellement 94 à 103 s'il s'agit de primes et subventions aux investissements) 
+181. Autres produits et recettes : produits et recettes non énumérés ci-dessus : valeur locative de l'habitation des salariés (évaluée aux charges y afférentes), production d'immobilisation [valeur estimée de l'ensemble des coûts de production d'immobilisation inclus dans les charges courantes de l'exploitation ; voir «Définitions et instructions générales», sous b)], indemnités reçues qui ne peuvent pas être imputées aux produits particuliers ou déduites des charges, etc. 
+182. Autres superficies : toute autre superficie, par exemple : jardin familial, sol occupé par des bâtiments, chemins, aire pour animaux, étangs, etc. 
+183. Total : Somme des rubriques précédentes. Toutefois la somme des superficies ne comprend pas les superficies consacrées aux cultures successives secondaires et les champignons. Ainsi la somme des superficies constitue la superficie totale de l'exploitation. 
+Les rubriques 135, 136, 137, 138, 140, 141, 152, 153, 154, 155, 160, 161, 171 sont à détailler comme suit, pour autant que les données correspondantes sont disponibles dans la comptabilité. Seuls les produits les plus importants sont indiqués séparément ; les produits de moindre importance sont regroupés dans les rubriques «autres» correspondantes (rubriques 185, 231, 237, 242, 274, 284, 291, 298, 306, 311). 
+Détails de la rubrique 135: 184. Plantes médicinales, condimentaires, aromatiques et à parfum, cumin, alpiste, safran, sorgho doux, sorgho à balais (non compris semences) 
+185. Autres plantes industrielles (non compris semences) 
+Détails des rubriques 136, 137, 138: 186. Choux comestibles 
+187. Choux de Bruxelles 
+188. Choux-fleurs 
+189. Choux-raves 
+190. Brocoli de rave 
+191. Betteraves potagères 
+192. Bettes 
+193. Carottes comestibles 
+194. Panais 
+195. Salsifis, scorsonères 
+196. Céleri, céleri rave 
+197. Persil 
+198. Fenouil 
+199. Poireaux 
+200. Ail et échalotte 
+201. Civette 
+202. Oignons 
+203. Salades (laitue pommée, romaine) 
+204. Mâche 
+205. Chicorée frisée, scarolle 
+206. Épinard 
+207. Arroche 
+208. Pois verts 
+209. Haricots verts 
+210. Fèves 
+211. Asperges 
+212. Chicorée witloof (endive) 
+213. Chicorée sauvage 
+214. Artichauts 
+215. Cardon 
+216. Concombres 
+217. Cornichons 
+218. Rhubarbe 
+219. Aubergines 
+220. Poivrons 
+221. Pastèques 
+222. Citrouilles 
+223. Courgettes 
+224. Raifort sauvage 
+225. Rave 
+226. Radis 
+227. Cresson 
+228. Tomates 
+229. Melons 
+230. Fraises 
+231. Autres légumes frais 
+Détails des rubriques 140, 141: 232. Oignons de tulipes 
+233. Oignons de narcisses 
+234. Bulbes de glaïeuls 
+235. Bulbes de jacinthes 
+236. Bulbes de lis 
+237. Autres oignons (bulbes) et tubercules à fleurs 
+238. Roses (fleurs coupées) 
+239. OEillets (fleurs coupées) 
+240. Chrysanthèmes (fleurs coupées) 
+241. Tulipes (fleurs coupées) 
+242. Autres fleurs coupées et plantes d'ornement 
+243. Plantes d'ornement en pots 
+Détails de la rubrique 152: 244. Pommes de table (haute tige) 
+245. Pommes de table (basse tige) 
+246. Pommes à cidre 
+247. Poires de table (haute tige) 
+248. Poires de table (basse tige) 
+249. Poires à cidre 
+250. Coings 
+251. Cerises 
+252. Prunes (y compris quetsches, reines-claudes, mirabelles) 
+253. Abricots 
+254. Pêches 
+255. Noix 
+256. Noisettes 
+257. Amandes 
+258. Châtaignes 
+259. Pistaches 
+260. Groseilles 
+261. Cassis 
+262. Framboises 
+263. Groseilles à maquereau 
+264. Mûres sauvages 
+265. Mûres 
+266. Figues 
+267. Nèfles 
+268. Kaki 
+269. Caroube 
+270. Sorbes 
+271. Grenades 
+272. Noyaux de pin 
+273. Figues de Barbarie 
+274. Autres fruits 
+Détails de la rubrique 153: 275. Oranges 
+276. Mandarines 
+277. Citrons 
+278. Cédrats, chinotte 
+279. Limettes 
+280. Bergamotte 
+Détails de la rubrique 154: 281. Olives de table 
+282. Olives pour l'huile 
+283. Huile d'olive 
+284. Autres produits de l'oléiculture 
+Détails de la rubrique 155: 285. Raisins de table 
+286. Raisins à vinifier (vin d'appellation contrôlée) 
+287. Raisins à vinifier (vin ordinaire) 
+288. Moût de raisin 
+289. Vin d'appellation contrôlée 
+290. Vin ordinaire 
+291. Autres produits de la viticulture 
+Détails de la rubrique 160: 292. Alcool de produits agricoles 
+293. Autres produits transformés provenant des produits agricoles 
+294. Produits transformés provenant de l'horticulture 
+295. Eaux-de-vie de fruits ou de résidus de fruits 
+296. Cidre et poiré 
+297. Autres produits transformés provenant des fruits 
+298. Autres produits transformés 
+Détails de la rubrique 161: 299. Pailles 
+300. Collets de betterave 
+301. Autres sous-produits des produits agricoles 
+302. Sous-produits de l'horticulture 
+303. Sous-produits des cultures fruitières 
+304. Sous-produits de la viticulture 
+305. Sous-produits de l'oléiculture 
+306. Autres sous-produits 
+Détails de la rubrique 171: 307. Bovins sous contrat 
+308. Ovins sous contrat 
+309. Porcins sous contrat 
+310. Volailles sous contrat 
+311. Autres animaux sous contrat 
+Produit (colonne 1) 
+Les produits sont indiqués dans l'ordre croissant des numéros mentionnés ci-dessus. 
+Type de culture (colonne 2) 
+On distingue les types de cultures et les codes correspondants suivants: - Cultures de plein champ (y compris les légumes frais, melons et fraises entrant dans l'assolement avec des cultures agricoles): 
+code 1 = culture principale, 
+code 2 = culture associée, 
+code 3 = culture successive secondaire. %gt%PIC FILE= %quot%T0011325%quot%%gt% 
+Cultures principales 
+Les cultures principales comprennent: - les cultures uniques, c'est-à-dire les cultures qui sont seules à être pratiquées sur une superficie donnée au cours de l'exercice considéré, 
+- les cultures en mélange : cultures ensemencées, entretenues et récoltées simultanément et dont le produit se présente sous forme de mélange, 
+- parmi les cultures pratiquées successivement au cours de l'exercice sur une superficie donnée, celle dont la valeur de la production est la plus élevée ou à valeur égale, celle qui occupe le sol le plus longtemps. 
+Cultures associées 
+Cultures se trouvant simultanément pendant une certaine période sur la même terre et fournissant normalement chacune une récolte distincte au cours de l'exercice. La superficie globale en question est répartie entre chacune des cultures concernées au prorata de la superficie effectivement occupée par chacune d'elles. 
+Cultures successives secondaires 
+Cultures pratiquées successivement au cours de l'exercice sur une superficie donnée, qui ne sont pas considérées comme culture principale. 
+Donnée manquante (colonne 3) 
+Lorsque la superficie d'une culture n'est pas indiquée (cf. colonne 4), par exemple dans le cas de ventes de produits de cultures commercialisables achetés sur pied ou provenant de terres louées pour une période inférieure à une année et dans le cas d'une production obtenue par la transformation de produits végétaux ou animaux achetés, le code 1 est à indiquer dans cette colonne. 
+Lorsque les conditions de vente ne permettent pas d'indiquer la production physique en quintaux (colonne 5), par exemple dans les cas de ventes de récoltes sur pied et de cultures sous contrat, le code 2 est à indiquer dans cette colonne pour les cultures sous contrat et le code 3 dans les autres cas. 
+Dans le cas où les deux données précitées (superficie et production physique en quintaux) seraient manquantes, le code 4 est à indiquer. 
+On indique le code 0 (= sans objet) lorsque aucune donnée n'est manquante. 
+Superficie (colonne 4) 
+La superficie est indiquée en ares à l'exception de la superficie consacrée à la culture des champignons (superficie totale des couches successives) qui est indiquée en mètres carrés. Cette dernière superficie n'est pas comprise dans la superficie totale (rubrique 183). 
+La superficie correspondant à chaque produit végétal est indiquée dans cette colonne sauf en ce qui concerne les sous-produits des produits végétaux (rubriques 161 et 299 à 306) ainsi que les produits transformés (rubriques 160, 283, 284, 288 à 291, 292 à 298). Les produits obtenus par la transformation de produits végétaux achetés et les produits de cultures commercialisables achetés sur pied ou provenant des terres louées pour une durée inférieure à une année sont indiqués sans mention de la superficie [Le code 1 est à indiquer dans la colonne 3 (donnée manquante)]. 
+Pour les détails des légumes frais, melons et fraises (rubriques 186 à 231) en culture maraîchère de plein air ou sous verre et pour les détails des fleurs et plantes ornementales (rubriques 232 à 243) de plein air ou sous verre, on indique la superficie réellement consacrée à la culture en question (superficie développée) (1). Si cette donnée n'est pas disponible dans la comptabilité de l'exploitation on indique le code 1 dans la colonne 3 (donnée manquante). 
+Production de l'exercice (colonne 5) 
+Quantités de produits végétaux et animaux produites au cours de l'exercice comptable (pertes éventuelles aux champs et à la ferme non comprises). Ces quantités sont indiquées pour les produits principaux de l'exploitation (sauf les sous-produits). 
+Les quantités sont indiquées en quintaux (100 kilogrammes), sauf en ce qui concerne les oeufs qui sont indiqués en milliers. En ce qui concerne le lait on indique la quantité de lait liquide produite quelle que soit la forme (crème, beurre, fromage, etc.) sous laquelle il est vendu, autoconsommé, auto-utilisé ou a fait l'objet de prestations en nature. Le lait tété au pis par les veaux n'est pas compris dans la production. 
+Lorsque pour un produit les conditions de vente ne permettent pas de déterminer la production physique en quintaux (par exemple ventes de récoltes sur pied et cultures sous contrat), le code 2 est à indiquer dans la colonne 3 (donnée manquante) pour les cultures sous contrat et le code 3 dans les autres cas. 
+Inventaire d'ouverture (colonne 6) 
+Valeur des produits en stock (en magasin) au début de l'exercice comptable (non compris les animaux). Les produits sont évalués aux prix «départ ferme» au jour de l'inventaire. 
+Ventes (colonne 7) 
+Montant encaissé ou à encaisser des ventes de produits en stock au début de l'exercice ou récoltés au cours de l'exercice. 
+Le montant des produits vendus comprend la valeur des produits rétrocédés (lait écrémé, pulpe, etc.). Cette valeur est également indiquée dans les charges de l'exploitation. 
+Les indemnités éventuelles (par exemple indemnités dégâts de grêle) correspondant à l'exercice comptable sont ajoutées au montant des ventes des produits correspondants pour autant qu'elles puissent être imputées à la production de ces produits ; dans le cas contraire elles sont indiquées dans la rubrique 181 (autres produits et recettes). 
+Les primes et subventions sur produits reçues au cours de l'exercice ne sont pas comprises dans le montant des ventes ; elles sont indiquées dans la rubrique 112 (cf. instructions concernant cette rubrique). Lorsque les frais éventuels de commercialisation sont connus, ils ne sont pas déduits du montant des ventes, mais figurent dans la rubrique 71 (autres frais spécifiques d'élevage) ou 76 (autres frais spécifiques de culture). (1)Exemple : si sur une même superficie de 1 hectare de cultures maraîchères de plein air on a cultivé des radis, ensuite des salades et ensuite des poireaux, la superficie de base à indiquer dans la rubrique 137 sera de 1 hectare ; la superficie développée sera de trois fois 1 hectare, à indiquer respectivement dans les rubriques 226, 203 et 199. 
+Autoconsommation et prestations en nature (colonne 8) 
+Produits consommés par le ménage de l'exploitation (y compris les produits de l'exploitation utilisés pour la préparation des repas pour personne en villégiature) et/ou utilisés comme paiement en nature correspondant à l'achat de biens et services (y compris salaires en nature). Les produits en question sont évalués aux prix départ ferme. 
+Inventaire de clôture (colonne 9) 
+Valeur des produits en stock (en magasin) à la fin de l'exercice comptable (non compris les animaux). Les produits sont évalués aux prix «départ ferme» au jour de l'inventaire. 
+Auto-utilisation (colonne 10) 
+L'auto-utilisation comprend la valeur des produits de l'exploitation en stock (en magasin) au début de l'exercice et/ou produits au cours de l'exercice, utilisés pendant l'exercice dans l'exploitation comme moyen de production. On distingue: - aliments du bétail: 
+valeur des produits commercialisables de l'exploitation (produits qui font couramment l'objet de commercialisation) utilisés au cours de l'exercice comme aliments du bétail. La paille de l'exploitation auto-utilisée (comme fourrage ou litière) n'est prise en compte que dans la mesure où elle constitue un produit commercialisable dans la région et pour la campagne en question. Le lait tété au pis par les veaux n'est pas compris dans l'auto-utilisation. 
+Les produits concernés sont évalués au prix de vente «départ ferme». 
+- semences: 
+valeur des produits commercialisables de l'exploitation utilisés comme semences, au cours de l'exercice. Ces semences sont évaluées au prix de vente «départ ferme». 
+ANNEXE III PRÉSENTATION DES DONNÉES COMPTABLES SUR BANDES MAGNÉTIQUES 
+A. Caractéristiques des bandes magnétiques 
+1. Les bandes sont à 9 pistes et d'une densité de 6 250, 1 600 ou 800 BPI. 
+2. Les intervalles (GAP) entre blocs d'enregistrements ne peuvent descendre en-dessous de 0,65 inch ou 15,2 millimètres (valeur standard). 
+3. Chaque donnée est représentée par un mot de 32 bits binaires. Le premier bit à gauche donne le signe: - il vaut zéro pour un nombre positif, dans ce cas les 31 bits suivants donnent la valeur en notation binaire «vraie» 
+- il vaut un pour un nombre négatif, dans ce cas les 31 bits suivants donnent la valeur en notation «complément de deux». 
+B. Présentation d'un fichier 
+1. Une bande magnétique ne contient qu'un seul fichier. 
+2. Un fichier ne contient que des enregistrements de même longueur. 
+3. Les enregistrements peuvent être bloqués dans la limite de blocage permise par les systèmes opératoires. 
+4. Un fichier est créé soit avec étiquette de système standard OS/IBM 360 ou 370, soit sans aucune étiquette de système ; dans ce dernier cas, il commence et finit par un tape mark standard lisible en OS/IBM 360 ou 370. En cas d'étiquette de système standard, le RECFM est VS, VBS, F, FB ou U. 
+5. Le dernier enregistrement d'un fichier peut consister en un enregistrement de même longueur que les autres, mais dont la première donnée, A1, vaut 999, les données suivantes étant sans signification. 
+6. Une bande magnétique est transmise avec les indications suivantes, collées sur la bobine: a) le DSNAME, le VOLUME (SER) et le RECFM en cas d'étiquette de système standard ; dans les autres cas : le nom du pays d'origine, l'exercice comptable et éventuellement le numéro de livraison, 
+b) la longueur d'un enregistrement en OCTETS (1) ou LRECL, 
+c) la longueur d'un bloc en OCTETS (1) ou BLKSIZE, 
+d) le nombre de pistes et la densité. 
+C. Contenu des enregistrements relatifs à une exploitation agricole 
+1. Une exploitation agricole est représentée par 1 377 données au maximum dont: 
+487 données fixes (cf. annexe I), suivies d'un nombre variable de groupes indivisibles de 10 données. 
+Ce nombre de groupes est indiqué par la sixième donnée fixe. 
+2. Toutes les données relatives à une exploitation figurent dans un même fichier, - soit en un enregistrement fixe de 1 377 mots, avec au plus 89 groupes de données variables, 
+- soit en enregistrements fixes de 279 mots (cinq enregistrements au maximum), entièrement remplis, sauf le dernier qui, le cas échéant, est complété par des zéros, et avec au plus 88 groupes de données variables (voir tableau ci-après). 
+3. La première donnée d'une exploitation agricole commence un enregistrement. La fin de zone inemployée dans le dernier enregistrement relatif à une exploitation est remplie de zéros. (1)Un octet vaut 8 bits. 
+%gt%PIC FILE= %quot%T0011326%quot%%gt% 

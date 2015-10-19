@@ -1,0 +1,58 @@
+Directive 2001/63/CE de la Commission du 17 août 2001 portant adaptation au progrès technique de la directive 97/68/CE du Parlement européen et du Conseil sur le rapprochement des législations des États membres relatives aux mesures contre les émissions de gaz et de particules polluants provenant des moteurs à combustion interne destinés aux engins mobiles non routiers 
+Directive 2001/63/CE de la Commission 
+du 17 août 2001 
+portant adaptation au progrès technique de la directive 97/68/CE du Parlement européen et du Conseil sur le rapprochement des législations des États membres relatives aux mesures contre les émissions de gaz et de particules polluants provenant des moteurs à combustion interne destinés aux engins mobiles non routiers 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu la directive 97/68/CE du Parlement européen et du Conseil du 16 décembre 1997 sur le rapprochement des législations des États membres relatives aux mesures contre les émissions de gaz et de particules polluants provenant des moteurs à combustion interne destinés aux engins mobiles non routiers(1), et notamment son article 14, 
+considérant ce qui suit: 
+(1) Le champ d'application du règlement n° 96 de la Commission économique des Nations unies pour l'Europe (CEE) concernant les émissions des moteurs à allumage par compression destinés à être installés sur les tracteurs agricoles et forestiers a été étendu de manière à englober également les autres types d'engins mobiles non routiers. 
+(2) La Communauté européenne est partie au règlement précité de la CEE-ONU. 
+(3) Il est nécessaire d'aligner les exigences de la directive 97/68/CE sur les exigences correspondantes de ce règlement. 
+(4) Les mesures prévues par la présente directive sont conformes à l'avis du comité pour l'adaptation au progrès technique institué par la directive 92/53/CEE du Conseil(2). 
+(5) Il convient de modifier la directive 97/68/CE en conséquence, 
+A ARRÊTÉ LA PRÉSENTE DIRECTIVE: 
+Article premier 
+Les annexes III et IV de la directive 97/68/CE sont modifiées conformément à l'annexe de la présente directive. 
+Article 2 
+La présente directive n'annule aucune réception accordée avant la date indiquée à l'article 3 en application de la directive 97/68/CE et ne fait pas obstacle à l'extension de ces réceptions conformément aux dispositions de la directive au titre de laquelle elles ont été accordées initialement. 
+Article 3 
+Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 30 juin 2002. Ils en informent immédiatement la Commission. 
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication. Les modalités de cette référence sont arrêtées par les États membres. 
+Article 4 
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel des Communautés européennes. 
+Article 5 
+Les États membres sont destinataires de la présente directive. 
+Fait à Bruxelles, le 17 août 2001. 
+Par la Commission 
+Margot Wallström 
+Membre de la Commission 
+(1) JO L 59 du 27.2.1998, p. 1. 
+(2) JO L 225 du 10.8.1992, p. 1. 
+ANNEXE 
+Modifications des annexes III et IV de la directive 97/68/CE 
+1. L'annexe III est modifiée comme suit: 
+1) Au point 2.2.2, la formule est remplacée par la formule suivante: 0,96 %amp%lt;= fa %amp%lt;= 1,06. 
+2) À l'appendice 2, point 1.2.1, troisième tiret, CO est remplacé par CO2. 
+3) À l'appendice 2, le point 1.9.2.2 est remplacé par le texte suivant: %quot%1.9.2.2. Vérification de l'effet d'atténuation de l'eau 
+Cette vérification s'applique uniquement aux mesures de concentration de gaz humides. Le calcul de l'effet d'atténuation de l'eau doit tenir compte de la dilution du gaz de réglage de sensibilité au NO dans la vapeur d'eau ainsi que de la mise à l'échelle de la concentration de vapeur d'eau du mélange par rapport à celle prévue pendant l'essai. Un gaz de réglage de sensibilité au NO qui possède une concentration de 80 % à 100 % de la pleine échelle de la gamme de détection normale doit traverser le (H)CLD et la valeur mesurée pour le NO être enregistrée en tant que valeur D. On laisse le gaz de réglage de sensibilité au NO barboter dans de l'eau à temperature ambiante pour passer ensuite à travers le (H)CLD et on enregistre la valeur mesurée pour le NO en tant que valeur C. La température de l'eau est déterminée et enregistrée en tant que valeur F. La pression de vapeur saturante du mélange qui correspond à la température (F) de l'eau du barboteur doit être déterminée et enregistrée en tant que valeur G. La concentration de vapeur d'eau (en %) du mélange doit être calculée comme suit: 
+%gt%PIC FILE= %quot%L_2001227FR.004202.TIF%quot%%gt% 
+et enregistrée en tant que valeur H. La concentration escomptée du gaz de réglage de sensibilité au NO dilué (dans de la vapeur d'eau) se calcule comme suit: 
+%gt%PIC FILE= %quot%L_2001227FR.004203.TIF%quot%%gt% 
+et est enregistrée en tant que valeur De. Pour l'échappement des moteurs Diesel, la concentration maximale de la vapeur d'eau d'échappement (en %) prévue en cours d'essai doit être estimée dans l'hypothèse d'un rapport atomique H/C du carburant de 1,8 à 1, à partir de la concentration maximale de CO2 dans les gaz d'échappement ou à partir du CO2 non dilué (valeur A, mesurée comme indiqué au point 1.9.2.1) comme suit: 
+Hm = 0,9 x A 
+et est enregistrée en tant que valeur Hm. 
+L'effet d'atténuation de l'eau est calculé comme suit: 
+%gt%PIC FILE= %quot%L_2001227FR.004204.TIF%quot%%gt% 
+et ne doit pas dépasser 3 % de l'échelle 1. 
+De: concentration diluée prévue de NO (ppm) 
+C: concentration diluée de NO (ppm) 
+Hm: concentration maximale de vapeur d'eau (%) 
+H: concentration maximale effective de vapeur d'eau (%) 
+Remarque: 
+il importe que le gaz de réglage de sensibilité au NO contienne une concentration minimale de NO2 pour cette vérification, étant donné qu'il n'a pas été tenu compte de l'absorption du NO2 pour les calculs de l'effet d'atténuation.%quot% 
+4) À l'appendice 3, point 1.4.4, la seconde formule de correction en fonction du fond pour le débit massique de particules dans le cas de la méthode à filtres simples est supprimée, et la première formule est corrigée comme suit: 
+%gt%PIC FILE= %quot%L_2001227FR.004205.TIF%quot%%gt% 
+2. L'annexe IV est modifiée comme suit: 
+1) Dans le tableau, à la deuxième colonne, la ligne 17 est remplacée par le texte suivant: %gt%TABLE%gt%. 
+2) La deuxième phrase de la note 9 est modifiée comme suit: %quot%... Aux fins de la première réception d'un moteur sans post-traitement des gaz d'échappement à la demande du demandeur, une teneur nominale en soufre de 0,05 % en masse (minimum 0,03 % en masse) est admissible, auquel cas le niveau mesuré des particules doit être corrigé à la hausse jusqu'à la valeur moyenne nominalement spécifiée pour la teneur en soufre du carburant (0,15 % en masse) selon la formule suivante:%quot%. 

@@ -1,0 +1,397 @@
+Commission Regulation (EC) No 1980/2003 of 21 October 2003 implementing Regulation (EC) No 1177/2003 of the European Parliament and of the Council concerning Community statistics on income and living conditions (EU-SILC) as regards definitions and updated definitions (Text with EEA relevance.) 
+Commission Regulation (EC) No 1980/2003 
+of 21 October 2003 
+implementing Regulation (EC) No 1177/2003 of the European Parliament and of the Council concerning Community statistics on income and living conditions (EU-SILC) as regards definitions and updated definitions 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Regulation (EC) No 1177/2003 of the European Parliament and of the Council of 16 June 2003 concerning Community statistics on income and living conditions (EU-SILC)(1), and in particular Article 15(2)(c) thereof, 
+Whereas: 
+(1) Regulation (EC) No 1177/2003 established a common framework for the systematic production of Community statistics on income and living conditions, encompassing comparable and timely cross-sectional and longitudinal data on income and on the level and composition of poverty and social exclusion at national and European Union levels. 
+(2) Pursuant to Article 15(2)(c) of Regulation (EC) No 1177/2003, implementing measures are necessary to harmonise definitions, in particular the operationalisation of the income definitions, the definitions on household members and former household members, and the timetable of the inclusion of the different income variables. 
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The definitions required by Article 15(2)(c) of Regulation (EC) No 1177/2003 on Community statistics on income and living conditions, in particular for the purpose of bringing into operation the income definitions given in Article 2(l) and (m) thereof, shall be as laid down in Annex I. 
+The conditions for delivering gross income data at component level as well as the timetable for inclusion of the different income components shall be as laid down in Annex II. 
+Article 2 
+The definitions given in this Regulation, with the exception of that of former household members, and the delivery of income data, shall be applied to both cross-sectional and longitudinal components of Community statistics on income and living conditions (EU-SILC). 
+Article 3 
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 21 October 2003. 
+For the Commission 
+Pedro Solbes Mira 
+Member of the Commission 
+(1) OJ L 165, 3.7.2003, p. 1. 
+ANNEX I 
+DEFINITIONS OF HOUSEHOLD MEMBERS AND FORMER HOUSEHOLD MEMBERS, PENSIONS FROM INDIVIDUAL PRIVATE PLANS, CONTRIBUTIONS TO INDIVIDUAL PRIVATE PENSION PLANS, TOTAL GROSS AND DISPOSABLE HOUSEHOLD INCOME, TOTAL DISPOSABLE HOUSEHOLD INCOME BEFORE SOCIAL TRANSFERS (EXCEPT OLD-AGE AND SURVIVORS' BENEFITS; INCLUDING OLD-AGE AND SURVIVORS' BENEFITS) AND GROSS/NET INCOME COMPONENTS 
+1. HOUSEHOLD MEMBERS AND FORMER HOUSEHOLD MEMBERS 
+1.1. Household membership(1) 
+Subject to the further and specific conditions shown below, the following persons must, if they share household expenses, be regarded as household members: 
+1. persons usually resident, related to other members; 
+2. persons usually resident, not related to other members; 
+3. resident boarders, lodgers, tenants; 
+4. visitors; 
+5. live-in domestic servants, au-pairs; 
+6. persons ususally resident, but temporarily absent from the dwelling (for reasons of holiday travel, work, education or similar); 
+7. children of the household being educated away from home; 
+8. persons absent for long periods, but having household ties: persons working away from home; 
+9. persons temporarily absent but having household ties: persons in hospital, nursing homes or other institutions. 
+Further conditions for inclusion as household members are as follows: 
+(a) Categories 3, 4 and 5: 
+Such persons must currently have no private address elsewhere; or their actual or intended duration of stay must be six months or more. 
+(b) Category 6: 
+Such persons must currently have no private address elsewhere and their actual or intended duration of absence from the household must be less than six months. 
+Categories 7 and 8: 
+Irrespective of the actual or intended duration of absence, such persons must currently have no private address elsewhere, must be the partner or child of a household member and must continue to retain close ties with the household and must consider this address to be his/her main residence. 
+(c) Category 9: 
+Such person must have clear financial ties to the household and must be actually or prospectively absent from the household for less than six months. 
+Shares in household expenses 
+Shares in household expenses include benefiting from expenses (e.g. children, persons with no income) as well as contributing to expenses. If expenses are not shared, then the person constitutes a separate household at the same address. 
+%quot%Usually resident%quot% 
+A person shall be considered as a usually resident member of the household if he/she spends most of his/her daily rest there, evaluated over the past six months. Persons forming new households or joining existing households shall normally be considered as members at their new location; similarly, those leaving to live elsewhere shall no longer be considered as members of the original household. The abovementioned %quot%past six month%quot% criteria shall be replaced by the intention to stay for a period of six months or more at the new place of residence. 
+%quot%Intention to stay for a period of six months or more%quot% 
+Account has to be taken of what may be considered as %quot%permanent%quot% movements in or out of households. Thus a person who has moved into a household for an indefinite period or with the intention to stay for a period of six months or more shall be considered as a household member, even though the person has not yet stayed in the household for six months, and has in fact spent a majority of that time at some other place of residence. Similarly, a person who has moved out of the household to some other place of residence with the intention of staying away for six months or more, shall no longer be considered as a member of the previous household. 
+%quot%Temporarily absent in private accommodation%quot% 
+If the person who is temporarily absent is in private accommodation, then whether he/she is a member of this (or the other) household depends on the length of the absence. Exceptionally, certain categories of persons with very close ties to the household may be included as members irrespective of the length of absence, provided they are not considered members of another private household. 
+In the application of these criteria, the intention is to minimise the risk that individuals who have two private addresses at which they might potentially be enumerated are not double-counted in the sampling frame. Similarly, the intention is to minimise the risk of some persons being excluded from membership of any household, even though in reality they belong to the private household sector. 
+1.2. Former household member 
+The term %quot%former household member%quot% refers to a person who is not a current member of the household and was not recorded as a household member in that household in the previous wave, but who lived in the household for at least three months during the income reference period. 
+The former household members shall be included only in the EU-SILC longitudinal component. 
+2. GROSS INCOME COMPONENTS 
+2.1. Employee income 
+Employee income is defined as the total remuneration, in cash or in kind, payable by an employer to an employee in return for work done by the latter during the income reference period. 
+The employee income is broken down into: 
+1. Gross cash or near-cash employee income (PY010G); 
+2. Gross non-cash employee income (PY020G); 
+3. Employers' social insurance contributions (PY030G). 
+2.1.1. Gross cash or near-cash employee income (PY010G) 
+This refers to the monetary component of the compensation of employees in cash payable by an employer to an employee. It includes the value of any social contributions and income taxes payable by an employee or by the employer on behalf of the employee to social insurance schemes or tax authorities. 
+Gross cash or near-cash employee income includes the followings items: 
+- wages and salaries paid in cash for time worked or work done in main and any secondary or casual job(s), 
+- remuneration for time not worked (e.g. holiday payments), 
+- enhanced rates of pay for overtime, 
+- fees paid to directors of incorporated enterprises, 
+- piece rate payments, 
+- payments for fostering children, 
+- commissions, tips and gratuities, 
+- supplementary payments (e.g. 13th month payment), 
+- profit-sharing and bonuses paid in cash, 
+- additional payments based on productivity, 
+- allowances paid for working in remote locations (regarded as part of the conditions of the job), 
+- allowances for transport to or from work, 
+- additional payments made by employers to their employees or former employees and other eligible persons to supplement the sick, disability, maternity leave or survivors' pay entitlement from social insurance schemes, where such payments cannot be separately and clearly identified as social benefits, 
+- payments made by employers to an employee in lieu of wages and salaries through a social insurance scheme when unable to work through sickness, disability or maternity leave where such payment cannot be separately and clearly identified as social benefits. 
+It does not include: 
+- reimbursements made by an employer for work-related expenses (e.g. business travel), 
+- severance and termination pay to compensate employees for employment ending before the employee has reached the normal retirement age for that job and redundancy payments (they are included under %quot%Unemployment benefits%quot% (PY090G)), 
+- allowances for purely work-related expenses such as those for travel and subsistence or for protective clothes, 
+- lump-sum payments at the normal retirement date (included under %quot%Old age benefits%quot% (PY100G)), 
+- union strike pay. 
+2.1.2. Gross non-cash employee income (PY020G) 
+This refers to the non-monetary income components which may be provided free or at a reduced price to an employee as part of the employment package by an employer(2). 
+Gross non-cash employee income includes: 
+- company car and associated costs (e.g. free fuel, car insurance, taxes and duties as applicable) provided for either private use or both private and work use, 
+- free or subsidised meals, luncheon vouchers, 
+- reimbursement or payment of housing-related expenses (e.g. gas, electricity, water, telephone or mobile telephone bills), 
+- other goods and services provided free or at a reduced price by the employer to their employees, when they are a significant component of the income at national level or they constitute a significant component of the income of particular groups of households. 
+The value of goods and services provided free shall be calculated according to the market value of these goods and services. The value of the goods and services provided at a reduced price shall be calculated as the difference between the market value and the amount paid by the employee. 
+It does not include: 
+- the cost of providing any of these goods and services for the employer if they are only required for the employees to carry out their work, 
+- accommodation services at a place of work which cannot be used by the households to which the employees belong, 
+- accommodation provided free or at reduced rent by the employer to the employees as the main residence of the household (the imputed value of the accommodation provided free or at reduced rent is included under %quot%Imputed rent%quot% (HY030G)), 
+- accommodation provided free or at reduced rent to an employee as the secondary residence of the household, 
+- allowances paid to employees for the purchase of tools, equipment, clothes, etc. needed exclusively or primarily for their work, 
+- special meals or drinks necessitated by exceptional working conditions, 
+- any goods or services provided to employees at the place of work or required because of the nature of their work (e.g. a medical examination required for work). 
+2.1.3. Employers' social insurance contributions (PY030G) 
+Employers' contributions are defined as payments made, during the income reference period, by employers for the benefits of their employees to insurers (social security funds and private funded schemes) covering statutory, conventional or contractual contributions in respect of insurance against social risks. 
+It includes: 
+- employers' contributions to private retirement (pension) plans, 
+- employers' contributions to private health insurance, 
+- employers' contributions to life insurance, 
+- employers' contributions to other employer insurance schemes (e.g. disability), 
+- employers' contributions to government insurance (social security) schemes (including payroll taxes levied for social insurance purposes). 
+2.2. Self-employment income 
+Self-employment income is defined as the income received, during the income reference period, by individuals, for themselves or in respect of their family members, as a result of their current or former involvement in self-employment jobs. Self-employment jobs are those jobs where the remuneration is directly dependent upon the profits (or the potential for profits) derived from the goods and services produced (where own consumption is considered to be part of profits). The self-employed person makes the operational decisions affecting the enterprise, or delegates such decisions while retaining responsibility for the welfare of the enterprise. (In this context, %quot%enterprise%quot% includes one-person operations). The remuneration of hobbies shall be regarded as self-employment. 
+If the income collected or compiled corresponds to a time period earlier than the reference period, basic adjustments shall be applied to update the data to the income reference period. 
+The self-employment income is broken down into: 
+1. Gross cash profits or losses from self-employment (including royalties) (PY050G); 
+2. Value of goods produced for own consumption (PY070G). 
+2.2.1. Gross cash profits or losses from self-employment (including royalties) (PY050G) 
+It includes: 
+- net operating profit or loss accruing to working owners of, or partners in, an unincorporated enterprise, less interest on business loans, 
+- royalties earned on writing, inventions and so on, not included in the profit/loss of unincorporated enterprises, 
+- rentals from business buildings, vehicles, equipment, etc., not included in the profit/loss of unincorporated enterprises, after deduction of related costs such as interest on associated loans, repairs and maintenance and insurance charges. 
+It does not include: 
+- directors' fees earned by owners of incorporated enterprises (which are included under %quot%Gross cash or near-cash employee income%quot% (PY010G)), 
+- dividends paid by incorporated enterprises (which are included under %quot%Interest, dividends, profits from capital investment in an unincorporated business%quot% (HY090G)), 
+- profits from capital invested in an unincorporated enterprise in which the person does not work (%quot%sleeping partners%quot%) (these profits are included under %quot%Interest, dividends, profits from capital investment in an unincorporated business%quot% (HY090G)), 
+- rent from land and receipts from boarders or lodgers (which are included under %quot%Income from rental of a property or land%quot% (HY040G)), 
+- rentals from dwellings not included in the profit/loss of unincorporated enterprises (which are included under %quot%Income from rental of a property or land%quot% (HY040G)). 
+Income from self-employment shall be calculated as: 
+- market output (gross revenue to turnover, including the value of goods produced by the enterprise but consumed by the self-employed person or his/her household), 
+- plus market value of goods and services bought for the unincorporated enterprise but consumed by the entrepreneur and his/her household members, 
+- plus property income received in connection with financial and other assets belonging to the enterprise, 
+- minus intermediate consumption (raw material costs, costs of sales, distribution costs, maintenance costs, administrative expenses, etc.), 
+- minus compensation of employees (wages, salaries and social security contributions for employees), 
+- minus taxes on production and import taxes, 
+- minus interest paid on business loans, 
+- minus rents paid on land and other non-produced tangible assets rented by the enterprise, 
+- minus consumption of fixed capital, 
+- plus subsidies. 
+In practice if the self-employed person or business prepares annual accounts for tax purposes, the gross income benefits/losses shall be calculated as net operating benefits/losses shown on this tax account for the most recent 12-month period, before deduction of taxes on income and compulsory social insurance contributions. 
+In the absence of annual accounts, either for tax purposes or as a business account, the alternative approach to measure self-employment income shall be to collect the amount of money (and goods) drawn out of the business for personal use (for consumption or saving, including the market value of goods produced or purchased by the business but taken for personal use). 
+2.2.2. Value of goods produced for own consumption (PY070G) 
+The value of goods produced for own consumption refers to the value of food and beverages produced and also consumed within the same household. 
+The value of goods produced for own consumption shall be calculated as the market value of goods produced deducting any expenses incurred in the production. 
+The value of food and beverages shall be included when they are a significant component of the income at national level or they constitute a significant component of the income of particular groups of households. 
+This value does not include: 
+- value of household services, 
+- any production for sale and any withdrawals from a business by a self-employed person (these values are included under %quot%Gross income benefits or losses from self-employment%quot% (including royalties) (PY050G)). 
+2.3. Imputed rent 
+2.3.1. Imputed rent (HY030G) 
+The imputed rent refers to the value that shall be imputed for all households that do not report paying full rent, either because they are owner-occupiers or they live in accommodation rented at a lower price than the market price, or because the accommodation is provided rent-free. 
+The imputed rent shall be estimated only for those dwellings (and any associated buildings such a garage) used as a main residence by the households. 
+The value to impute shall be the equivalent market rent that would be paid for a similar dwelling as that occupied, less any rent actually paid (in the case where the accommodation is rented at a lower price than the market price), less any subsidies received from the government or from a non-profit institution (if owner-occupied or the accommodation is rented at a lower price than the market price), less any minor repairs or refurbishment expenditure which the owner-occupier households make on the property of the type that would normally be carried out by landlords. 
+The market rent is the rent due for the right to use an unfurnished dwelling on the private market, excluding charges for heating, water, electricity, etc. 
+2.4. Property income 
+Property income is defined as the income received less expenses accruing, during the income reference period, by the owner of a financial asset or a tangible non-produced asset (land) in return for providing funds to or putting the tangible non-produced asset at the disposal of another institutional unit. 
+The property income is broken down into: 
+1. Interest, dividends, profits from capital investment in an unincorporated business (HY090G); 
+2. Income from rental of a property or land (HY040G). 
+2.4.1. Interest, dividends, profits from capital investment in an unincorporated business (HY090G) 
+Interest (not included in the profit/loss of an unincorporated enterprise), dividends and profits from capital investment in an unincorporated business refer to the amount of interest from assets such as bank accounts, certificates of deposit, bonds, etc., dividends and profits from capital investment in an unincorporated business in which the person does not work, received during the income reference period, less expenses incurred. 
+2.4.2. Income from rental of a property or land (HY040G) 
+Income from rental of a property or land refers to the income received, during the income reference period, from renting a property (for example renting a dwelling not included in the profit/loss of unincorporated enterprises, receipts from boarders or lodgers or rent from land) after deducting costs such as mortgage interest repayments, minor repairs, maintenance, insurance and other charges. 
+2.5. Current transfers received 
+2.5.1. Social benefits 
+Social benefits(3) are defined as current transfers received by households during the income reference period(4) and intended to relieve them from the financial burden of a number of risks or needs, made through collectively organised schemes, or outside such schemes by government units and NPISH. 
+It includes the value of any social contributions and income tax payable on the benefits by the beneficiary to social insurance schemes or to tax authorities. 
+In order to be included as a social benefit, the transfer must meet one of two criteria: 
+- coverage is compulsory (under law, regulation or a collective bargaining agreement) for the group in question, 
+- it is based on the principle of social solidarity (i.e. if it is an insurance-based pension, the premium and entitlements are not proportional to the individual exposure to risk of the people protected). 
+Social benefits are broken down into: 
+1. Family/children-related allowances (HY050G); 
+2. Housing allowances (HY070G); 
+3. Unemployment benefits (PY090G); 
+4. Old-age benefits (PY100G); 
+5. Survivors' benefits (PY110G); 
+6. Sickness benefits (PY120G); 
+7. Disability benefits (PY130G); 
+8. Education-related allowances (PY140G); 
+9. Social exclusion not elsewhere classified (HY060G). 
+Social benefits do not include: 
+- benefits paid from schemes into which the recipient has made voluntary payments only, independently of his/her employer or government (which are included under %quot%Pensions from individual private plans (other than those covered under ESSPROS)%quot% (PY080G)). 
+2.5.1.1. Family/children-related allowance (HY050G) 
+The family/children function refers to benefits that: 
+- provide financial support to households for bringing up children, 
+- provide financial assistance to people who support relatives other than children. 
+It includes: 
+- income maintenance benefit in the event of childbirth: flat-rate or earnings-related payments intended to compensate the parent for loss of earnings due to absence from work in connection with childbirth for the period before and/or after confinement or in connection with adoption, 
+- birth grant: benefits normally paid as a lump sum or by instalments in case of childbirth or adoption, 
+- parental leave benefit: benefit paid to either mother or father in the event of interruption of work or reduction of working time in order to bring up a child, normally of a young age, 
+- family or child allowance: periodical payments to a member of a household with dependent children to help with the costs of raising children, 
+- other cash benefits: benefits paid independently of family allowances to support households and help them meet specific costs, such as costs arising from the specific needs of lone-parent families or families with handicapped children. These benefits may be paid periodically or as a lump sum. 
+It does not include: 
+- payments made by employers to an employee in lieu of wages and salaries through a social insurance scheme when unable to work through maternity leave, where such payment cannot be separately and clearly identified as social benefits (these payments are included under %quot%Gross cash or near-cash employee income%quot% (PY010G)), 
+- additional payments made by employers to an employee to supplement the maternity leave pay entitlement from a social insurance schemes, where such payments cannot be separately and clearly identified as social benefits (these payments are included under %quot%gross cash or near-cash employee income%quot% (PY010G)). 
+2.5.1.2. Housing allowances (HY070G) 
+The housing function refers to interventions by public authorities to help households meet the cost of housing. An essential criterion for defining the scope of a housing allowance is the existence of a qualifying means-test for the benefit. 
+It includes: 
+- rent benefit: a current means-tested transfer granted by a public authority to tenants, temporarily or on a long-term basis, to help with rent costs, 
+- benefit to owner-occupiers: a means-tested transfer by a public authority to owner-occupiers to alleviate their current housing costs: in practice often to help with paying mortgages and/or interest. 
+It does not include: 
+- social housing policy organised through the fiscal system (i.e. tax benefits), 
+- all capital transfers (in particular investment grants). 
+2.5.1.3. Unemployment benefits (PY090G) 
+Unemployment benefits refer to benefits that replace in whole or in part income lost by a worker due to the loss of gainful employment, provide a subsistence (or better) income to persons entering or re-entering the labour market, compensate for the loss of earnings due to partial unemployment, replace in whole or in part income lost by an older worker who retires from gainful employment before the legal retirement age because of job reductions for economic reasons, contribute to the cost of training or re-training people looking for employment, or help unemployed persons meet the cost of travelling or relocating to obtain employment. 
+It includes: 
+- full unemployment benefits: benefits compensating for loss of earnings where a person is capable of working and available for work but is unable to find suitable employment, including persons who had not previously been employed, 
+- partial unemployment benefits: benefits compensating for the loss of wages or salary due to formal short-time working arrangements, and/or intermittent work schedules, irrespective of their cause (business recession or slow-down, breakdown of equipment, climatic conditions, accidents and so on), and where the employer/employee relationship continues, 
+- early retirement for labour-market reasons: periodic payments to older workers who retire before reaching standard retirement age due to unemployment or to job reductions caused by economic measures such as the restructuring of an industrial sector or of a business enterprise. These payments normally cease when the beneficiary becomes entitled to an old-age pension, 
+- vocational training allowance: payments by social security funds or public agencies to targeted groups of persons in the labour force who take part in training schemes intended to develop their potential for employment, 
+- mobility and resettlement: payments by social security funds or public agencies to unemployed persons to encourage them to move to another locality or change their occupation in order to seek or to obtain work, 
+- severance and termination payments (benefits compensating employees for employment ending before the employee has reached the normal retirement age for that job), 
+- redundancy compensation: capital sums paid to employees who have been dismissed through no fault of their own by an enterprise that is ceasing or cutting down its activities, 
+- other cash benefits: other financial assistance, particularly payments to the long-term unemployed. 
+It does not include: 
+- family allowances paid for dependent children (which are included under %quot%Family/children-related allowances%quot% (HY050G)). 
+2.5.1.4. Old-age benefits (PY100G) 
+The old-age function refers to the provision of social protection against the risks linked to old age, loss of income, inadequate income, lack of independence in carrying out daily tasks, reduced participation in social life and so on. 
+Old-age benefits cover benefits that provide a replacement income when the aged person retires from the labour market, or guarantee a certain income when a person has reached a prescribed age. 
+It includes: 
+- old-age pensions: periodic payments intended to maintain the income of the beneficiary after retirement from gainful employment at the standard age or support the income of old persons, 
+- anticipated old-age pensions: periodic payments intended to maintain the income of beneficiaries who retire before the standard age as defined in the relevant scheme or in the scheme of reference. This may occur with or without a reduction of the normal pension, 
+- partial retirement pensions: periodic payment of a portion of the full retirement pension to older workers who continue to work but reduce their working hours or whose income from a professional activity is below a defined ceiling, 
+- care allowances: benefit paid to old people who need frequent or constant assistance to help them meet the extra costs of attendance (other than medical care) when the benefit is not a reimbursement of certified expenditure, 
+- survivors' benefits paid after the standard retirement age, 
+- disability cash benefits paid after the standard retirement age, 
+- lump-sum payments at the normal retirement date, 
+- other cash benefits: other periodic and lump-sum benefits paid upon retirement or on account of old age, such as capital sums paid to people who do not fully meet the requirements for a periodic retirement pension, or who were members of a scheme designed to provide only capital sums at retirement. 
+It does not include: 
+- family allowances for dependent children (which are included under %quot%Family/children-related allowances%quot% (HY050G)), 
+- early retirement benefits paid for labour-market reasons or in case of reduced capacity to work (they are included respectively under %quot%Unemployment benefits%quot% (PY090G) or under %quot%Disability benefits%quot% (PY130G)), 
+- benefits paid to old people who need frequent or constant assistance to help them meet the extra costs of attendance when the benefits are reimbursed against a certified expenditure. 
+2.5.1.5. Survivors' benefits (PY110G) 
+Survivors' benefits refer to benefits that provide a temporary or permanent income to people below retirement age after death of their spouse, partner or next-of-kin, usually when the latter represented the main breadwinner for the beneficiary. 
+Survivors eligible for benefit may be the spouse or ex-spouse of the deceased person, his or her children, grandchildren, parents or other relatives. In some cases, the benefit may also be paid to someone outside the family. 
+A survivors' benefit is normally granted on the basis of a derived right, that is, a right originally belonging to another person whose death is a condition for granting the benefit. 
+It includes: 
+- survivors' pension: periodic payments to people whose entitlement derives from their relationship with a deceased person protected by a scheme (widows, widowers, orphans and similar), 
+- death grant: single payment to someone whose entitlement derives from their relationship with a deceased person (widows, widowers, orphans and similar), 
+- other cash benefits: other periodic or lump-sum payments made by virtue of a derived right of a survivor. 
+It does not include: 
+- family allowances for dependent children (these benefits are included under %quot%Family/children-related allowance%quot% (HY050G)), 
+- funeral expenses, 
+- additional payments made by employers to other eligible persons to supplement the survivors' benefits pay entitlement from a social insurance scheme, where such payments cannot be separately and clearly identified as social benefits (those payments are included under %quot%Gross cash or near-cash employee income%quot% (PY010G)), 
+- survivors' benefits paid after the standard retirement age (these benefits are included under %quot%Old-age benefits%quot% (PY100G)). 
+2.5.1.6. Sickness benefits (PY120G) 
+Sickness benefits refer to cash benefits that replace in whole or in part loss of earnings during temporary inability to work due to sickness or injury. 
+Sickness benefits include: 
+- paid sick leave: flat-rate or earnings-related payments intended to compensate the protected person in full or in part for the loss of earnings caused by temporary inability to work due to sickness or injury. These benefits may be paid by autonomous social protection schemes, but they may also be provided by the employer in form of a continued payment of wages and salaries during the period of sickness, 
+- paid leave in case of sickness or injury of a dependent child, 
+- other cash benefits: miscellaneous payments made to protected people in connection with sickness or injury. 
+It does not include: 
+- cash benefits that replace loss of earnings during temporary inability to work as a result of pregnancy (these benefits are included under %quot%Family/children-related allowance%quot% (HY050G)), 
+- cash benefits that replace loss of earnings during temporary inability to work as a result of disability (these benefits are included under %quot%Disability benefits%quot% (PY130G)), 
+- payments made by employers to an employee in lieu of wages and salaries through a social insurance scheme when unable to work through sickness, where such payment can not be separately and clearly identified as a social benefit (these payments are included under %quot%Gross cash or near-cash employee income%quot% (PY010G)), 
+- additional payments made by employers to an employee to supplement the sickness leave pay entitlement from a social insurance scheme, where such payments can not be separately and clearly identified as social benefits (those payments are included under %quot%Gross cash or near-cash employee income%quot% (PY010G)). 
+2.5.1.7. Disability benefits (PY130G) 
+Disability benefits refer to benefits that provide an income to persons below standard retirement age whose ability to work and earn is impaired beyond a minimum level laid down by legislation by a physical or mental disability. 
+Disability is the full or partial inability to engage in economic activity or to lead a normal life due to a physical or mental impairment that is likely to be either permanent or to persist beyond a minimum prescribed period. 
+It includes: 
+- disability pension: periodic payment intended to maintain or support the income of someone below standard retirement age who suffers from a disability which impairs his or her ability to work or earn beyond a minimum level laid down by legislation, 
+- early retirement in the event of reduced ability to work: periodic payments to older workers who retire before reaching standard retirement age as a result of reduced ability to work. These pensions normally cease when the beneficiary becomes entitled to an old-age pension, 
+- care allowance: benefit paid to disabled people below standard retirement age who need frequent or constant assistance to help them meet the extra costs of attendance (other than medical care). The benefit must not be a reimbursement of certified expenditure, 
+- economic integration of the handicapped: allowances paid to disabled people when they undertake work adapted to their condition, normally in a sheltered workshop, or when they undergo vocational training, 
+- disability benefits to disabled children in their own right, irrespective of dependency, 
+- other cash benefits: periodic and lump-sum payments not falling under the above headings, such as occasional income support and so on. 
+It does not include: 
+- benefits provided to replace in whole or in part earnings during temporary incapacity to work due to sickness or injury (these benefits are included under %quot%Sickness benefits%quot% (PY120G)), 
+- family allowances paid to recipients of disability benefits (these benefits are included under %quot%Family/children-related allowances%quot% (HY050G)), 
+- benefits paid to the surviving dependants of disabled people, such as pensions (these benefits are included under %quot%Survivors benefits%quot% (PY110G)), 
+- benefits that are a reimbursement of certified expenditure, 
+- disability cash benefits paid after the standard retirement age (these benefits are included under %quot%Old-age benefits%quot% (PY100G)), 
+- payments made by employers to an employee or former employee in lieu of wages and salaries through a social insurance scheme when unable to work through disability where such payment cannot be separately and clearly identified as social benefits (these payments are included under %quot%Gross cash or near-cash employee income%quot% (PY010G)), 
+- additional payments made for employers to an employee or former employee to supplement the disability leave pay entitlement from a social insurance scheme, where such payments can not be separately and clearly identified as social benefits (those payments are included under %quot%Gross cash or near-cash employee income%quot% (PY010G)). 
+2.5.1.8. Education-related allowances (PY140G) 
+Education allowances refer to grants, scholarships and other education help received by students. 
+2.5.1.9. Social exclusion not elsewhere classified (HY060G) 
+Social benefits in the function %quot%social exclusion not elsewhere classified%quot% refer to the %quot%socially excluded%quot% or to %quot%those at risk of social exclusion%quot%. General as this is, target groups may be identified (among others) as destitute people, migrants, refugees, drug addicts, alcoholics or victims of criminal violence. 
+It includes: 
+- income support: periodic payments to people with insufficient resources. Conditions for entitlement may be related not only to the personal resources but also to nationality, residence, age, availability for work and family status. The benefits may have a limited or an unlimited duration; they may be paid to the individual or to the family and may be provided by central or local government, 
+- other cash benefits: support for destitute and vulnerable persons to help alleviate poverty or assist in difficult situations. These benefits may be paid by private non-profit organisations. 
+2.5.2. Regular inter-household cash transfers received (HY080G) 
+Regular inter-household cash transfers received refer to regular monetary amounts received, during the income reference period, from other households or persons. 
+It includes: 
+- compulsory alimony and child support, 
+- voluntary alimony and child support received on a regular basis, 
+- regular cash support from persons other than household members, 
+- regular cash support from households in other countries. 
+It does not include: 
+- Free or subsidised housing provided by another household (which is included under %quot%Imputed rent%quot% (HY030G)). 
+2.6. Other income received 
+2.6.1. Income received by people aged under 16 (HY110G) 
+Income received by people aged under 16 is defined as the gross income received by all household members aged under 16 during the income reference period. 
+It does not include: 
+- transfers between household members, 
+- income collected at household level (i.e. variables HY040G, HY050G, HY060G, HY070G, HY080G and HY090G). 
+2.7. Interest payments 
+2.7.1. Interest paid on mortgage (HY100G) 
+Interest paid on mortgage refers to the total gross amount, before deducting any tax credit or tax allowance, of mortgage interest on the main residence of the household during the income reference period. 
+It does not include: 
+- any other mortgage payments, either interest or principal, made at the same time, such as mortgage protection insurance or home and contents insurance, 
+- payments on remortgages to obtain money for housing purposes (e.g. repairs, renovations, maintenance, etc.) or for non-housing purposes, 
+- repayments of the principal or capital sum. 
+2.8. Current transfers paid 
+Current transfers paid are broken down into: 
+1. Tax on income and social insurance contributions (HY140G); 
+2. Regular taxes on wealth (HY120G); 
+3. Employers' social insurance contributions (PY030G); 
+4. Regular inter-household cash transfers paid (HY130G). 
+2.8.1. Tax on income and social insurance contributions (HY140G) 
+Tax on income refers to taxes on income, profits and capital gains. They are assessed on the actual or presumed income of individuals, households or tax-unit. They include taxes assessed on holdings of property, land or real estate when these holdings are used as a basis for estimating the income of their owners. 
+Taxes on income include: 
+- taxes on individual, household or tax-unit income (income from employment, property, entrepreneurship, pensions, etc.), including taxes deducted by employers (pay-as-you-earn taxes), other taxes at source and taxes on the income of owners of unincorporated enterprises paid during the income reference period, 
+- by way of exception, Member States using data from registers, and other Member States for which this is the most suitable approach, may report taxes on %quot%income received%quot% in the income reference year, if it only marginally affects comparability, 
+- any tax repayment received during the income reference period relating to tax paid on the income received during the income reference period or previous years. This value should be taken into account as a reduction of taxes paid, 
+- any interest charged on arrears of taxes due and any fines imposed by taxation authorities. 
+Taxes on income do not include: 
+- fees paid for hunting, shooting and fishing rights. 
+Social insurance contributions refer to employees', self-employed, unemployed, retirement and any other contributions (if applicable) paid during the income reference period to either mandatory government or employer-based social insurance schemes (pension, health, etc.). 
+2.8.2. Regular taxes on wealth (HY120G) 
+Regular taxes on wealth refers to taxes that are payable periodically on the ownership or use of land or buildings by owners and current taxes on net wealth and on other assets (jewellery, other external signs of wealth). The regular taxes on wealth to be reported are those paid during the income reference period. 
+This includes any interest charged on arrears of taxes due and any fines imposed by taxation authorities, paid during the income reference period, and property taxes paid directly to the taxation authority by tenants during the income reference period. 
+It does not include: 
+- non-recurrent taxes such as inheritance taxes, death duties or taxes on inter vivos gifts, 
+- taxes assessed on holdings of property, land or real estate when these holdings are used as a basis for estimating the income of their owners (these taxes are included under %quot%Tax on income and social insurance contributions%quot% (HY140G)), 
+- taxes on land, buildings or other assets owned or rented by enterprises and used by them for production (these taxes are considered as taxes on production and they are deducted from the market output of self-employment income to build the component %quot%Gross cash profits or losses from self-employment%quot% (including royalties) (PY050G)). 
+2.8.3. Employers' social insurance contributions (PY030G) 
+Employers' social insurance contributions are defined in employee income. 
+2.8.4. Regular inter-household cash transfers paid (HY130G) 
+Regular inter-household transfers paid refer to regular monetary amount paid, during the income reference period, to other households. 
+Regular inter-household transfers paid include: 
+- compulsory alimony and child support, 
+- voluntary alimony and child support paid on a regular basis, 
+- regular cash support to persons other than household members, 
+- regular cash support to households in other countries. 
+3. NET INCOME COMPONENTS 
+The net income components are derived from the corresponding gross income components after deducting income tax at source and social insurance contributions. 
+Net components can be provided: 
+1. Net of tax on income at source and social contributions; 
+2. Net of tax on income at source; 
+3. Net of social contributions. 
+4. TOTAL GROSS AND DISPOSABLE HOUSEHOLD INCOME 
+4.1. Total gross household income (HY010) is computed as: 
+The sum for all household members of gross personal income components (gross cash or near-cash employee income (PY010G); gross non-cash employee income (PY020G); employers' social insurance contributions (PY030G); gross cash profits or losses from self-employment (including royalties) (PY050G); value of goods produced for own consumption (PY070G); unemployment benefits (PY090G); old-age benefits (PY100G); survivors' benefits (PY110G); sickness benefits (PY120G); disability benefits (PY130G) and education-related allowances (PY140G)) plus gross income components at household level (imputed rent (HY030G); income from rental of a property or land (HY040G); family/children-related allowances (HY050G); social exclusion not elsewhere classified (HY060G); housing allowances (HY070G); regular inter-household cash transfers received (HY080G); interests, dividends, profit from capital investments in unincorporated business (HY090G); income received by people aged under 16 (HY110G)) less interest paid on mortgage (HY100G). 
+4.2. Total disposable household income (HY020) can be computed as: 
+The sum for all household members of gross personal income components (gross cash or near-cash employee income (PY010G); gross non-cash employee income (PY020G); employers' social insurance contributions (PY030G); gross cash profits or losses from self-employment (including royalties) (PY050G); value of goods produced for own consumption (PY070G); unemployment benefits (PY090G); old-age benefits (PY100G); survivors' benefits (PY110G); sickness benefits (PY120G); disability benefits (PY130G) and education-related allowances (PY140G)) plus gross income components at household level (imputed rent (HY030G); income from rental of a property or land (HY040G); family/children-related allowances (HY050G); social exclusion not elsewhere classified (HY060G); housing allowances (HY070G); regular inter-household cash transfers received (HY080G); interests, dividends, profit from capital investments in unincorporated business (HY090G); income received by people aged under 16 (HY110G)) minus (employer's social insurance contributions (PY030G); interest paid on mortgage (HY100G); regular taxes on wealth (HY120G); regular inter-household cash transfer paid (HY130G); tax on income and social insurance contributions (HY140G)). 
+The variable HY140G includes tax adjustments-repayment/receipt on income, income tax at source and social insurance contributions (if applicable). 
+Or as: 
+The sum for all household members of net (of income tax at source and of social contributions) personal income components (cash or near-cash employee income (PY010N); non-cash employee income (PY020N); cash profits or losses from self-employment (PY050N); value of goods produced for own consumption (PY070N); unemployment benefits (PY090N); old-age benefits (PY100N); survivors' benefits (PY110N); sickness benefits (PY120N); disability benefits (PY130N) and education-related allowances (PY140N)) plus net (of income tax at source and of social contributions) income components at household level (imputed rent (HY030G); income from rental of a property or land (HY040N); family/children-related allowances (HY050N); social exclusion not elsewhere classified (HY060N); housing allowances (HY070N); regular inter-household cash transfers received (HY080N); interests, dividends, profit from capital investments in unincorporated business (HY090N); income received by people aged under 16 (HY110N)) minus (interest paid on mortgage (HY100N); regular taxes on wealth (HY120G); regular inter-household cash transfer paid (HY130N); repayment/receipt for tax adjustments on income (HY145N)). 
+Or as: 
+The sum for all household members of personal income components plus income components at household level, of which some are net (net of income tax, net of social contributions or net of both) and others gross, or all of them net but some of them net of tax at source, others net of social contributions or net of both, once the tax on income and social insurance contributions (HY140N), the regular taxes on wealth, the regular inter-household cash transfer paid and the employers' social insurance contributions are deducted. 
+In this case, HY140N could include repayment/receipt for tax adjustments, income tax at source and social insurance contributions for some income components. 
+4.3. Total disposable household income, before social transfers other than old-age and survivors' benefits (HY022) is defined as: 
+The total disposable income (HY020) minus total net transfers, plus old-age benefits (PY100N) and survivors' benefits (PY110N) (i.e. total disposable income (HY020) minus unemployment benefits (PY090N); sickness benefits (PY120N); disability benefits (PY130N); education-related allowances (PY140N); family/children-related allowances (HY050N); social exclusion not elsewhere classified (HY060N) and housing allowances (HY070N)). 
+4.4. Total disposable household income, before social transfers including old-age and survivors' benefits (HY023) is defined as: 
+The total disposable income (HY020) minus total net transfers (unemployment benefits (PY090N); old-age benefits (PY100N); survivors' benefits (PY110N); sickness benefits (PY120N); disability benefits (PY130N); education-related allowances (PY140N); family/children-related allowances (HY050N); social exclusion not elsewhere classified (HY060N) and housing allowances (HY070N). 
+5. OTHER ITEMS NOT CONSIDERED AS PART OF INCOME 
+5.1. Contributions to individual private pension plans (PY035G) 
+Contributions made to individual private pension plans, during the income reference period, refers to the pensions policies taken out by individual households on their own initiative and for their own benefit, independently of their employers or government and outside any social insurance scheme. 
+These contributions represent the counterpart to pensions from individual private plans (other than those covered under ESSPROS) (PY080G). 
+It includes: contributions to individual pensions plans related to old age, survivors, sickness, disability and unemployment. 
+5.2. Pensions from individual private plans (other than those covered under ESSPROS) (PY080G) 
+Regular pensions from private plans (other than those covered under ESSPROS) refer to pensions and annuities received, during the income reference period, in the form of interest or dividend income from individual private insurance plans, i.e. fully organised schemes where contributions are at the discretion of the contributor independently of their employers or government. 
+It includes: 
+- old-age, survivors', sickness, disability and unemployment pensions received as interest or dividends from individual insurance private plans. 
+It does not include: 
+- pensions from mandatory government schemes, 
+- pensions from mandatory employer-based schemes. 
+TABLE 1 
+Gross income target variables at component level 
+%gt%TABLE%gt% 
+TABLE 2 
+Net income target variables at component level 
+%gt%TABLE%gt% 
+If from an income component neither taxes nor social contributions have been deducted at source, this income component is considered as %quot%gross%quot%. 
+TABLE 3 
+Other items not considered as part of income 
+%gt%TABLE%gt% 
+(1) Those Member States using in EU-SILC the common household definition defined in their national statistical system, shall be allowed to define the %quot%household membership%quot% according to that definition. 
+(2) If any goods or services are provided for both private and work use, then private use as a proportion of total use has to be estimated and applied to the total value. 
+(3) The social benefits included in EU-SILC, with the exception of housing benefits, are restricted to cash benefits. 
+(4) In order to get a closer measure of the well-being of the household, the lump-sum benefits received during the income reference period shall be treated according to Eurostat technical recommendations. In the same way, lump-sums received before the income reference period could be taken into account and imputed according to Eurostat recommendations. 
+ANNEX II 
+DELIVERY OF INCOME DATA 
+1. A key objective of EU-SILC is to deliver robust and comparable data on total disposable household income, total disposable household income before transfers (other than old-age and survivors' benefits; including old-age and survivors' benefits), total gross income and gross income at component level. 
+2. This objective is to be reached in two steps, in that Member States will be allowed to postpone the delivery of some of the above data until after the first year of their operations. The only data for which delivery will not be compulsory as from the first year of the operation are as follows: 
+- non-monetary components of employee income (with the exception of company cars, that is to be calculated as from the first year of the operation) and self-employed income, imputed rent and interest payments. These will be optional from the first year of the operation and compulsory from 2007, 
+- gross employers' social insurance contributions will be included from 2007 onwards, if results of feasibility studies are positive. 
+3. By way of exception to paragraph 2, Greece, Spain, France, Italy and Portugal are permitted not to deliver any gross income data as from the first year of their operation. These countries will, however, do their utmost to deliver these data as soon as possible and in any case no later than 2007. 
+In the meantime, the Commission will carry out in-depth feasibility studies on this topic in cooperation with countries, and provide technical assistance initially to help countries meet this gross data requirement. 
+Countries shall report each year on their progress in performing net/gross conversion in their quality reports. 
+4. Should Greece, Spain, France, Italy or Portugal be unable to deliver a gross income data component as from the first year of their operation, the corresponding net income component will be required. 
+In this way, an income component will always be recorded in the same form (gross, net of tax on income at source and social contributions, net of tax on income at source, net of social contributions) according to the usual specification for this income component in the country. 

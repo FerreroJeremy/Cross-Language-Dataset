@@ -1,0 +1,106 @@
+Reglamento (CE) n o %nbsp%601/2006 de la Comisi%oacute%n, de 18 de abril de 2006 , por el que se aplica el Reglamento (CE) n o %nbsp%184/2005 del Parlamento Europeo y del Consejo en lo que respecta al formato y al procedimiento de transmisi%oacute%n de datos 
+Reglamento (CE) no 601/2006 de la Comisión 
+de 18 de abril de 2006 
+por el que se aplica el Reglamento (CE) no 184/2005 del Parlamento Europeo y del Consejo en lo que respecta al formato y al procedimiento de transmisión de datos 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) no 184/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005, relativo a las estadísticas comunitarias sobre balanza de pagos, comercio internacional de servicios e inversiones extranjeras directas [1], y, en particular, su artículo 7, 
+Considerando lo siguiente: 
+(1) El Reglamento (CE) no 184/2005 establece un marco común para la elaboración sistemática de estadísticas comunitarias sobre balanza de pagos, comercio internacional de servicios e inversiones extranjeras directas. 
+(2) Es necesario especificar el formato y el procedimiento de transmisión de los datos requeridos a fin de presentar datos comparables y armonizados entre los Estados miembros, reducir el riesgo de errores en la transmisión de datos y aumentar la velocidad con la que los datos recogidos pueden tratarse y ponerse a disposición de los usuarios. Por consiguiente, es preciso establecer normas de aplicación que complementen las instrucciones que figuran en el vademécum de balanza de pagos de Eurostat, revisadas anualmente. 
+(3) Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité de balanza de pagos establecido en virtud del Reglamento (CE) no 184/2005. 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+Transmisión de datos 
+Los Estados miembros transmitirán los datos a la Comisión (Eurostat) en formato electrónico a través de la ventanilla única de datos gestionada por la Comisión (Eurostat). 
+La Comisión (Eurostat) facilitará documentación detallada sobre esta ventanilla única, así como directrices para aplicar enfoques de transmisión de datos compatibles con ella. 
+Artículo 2 
+Formato de datos 
+Los Estados miembros utilizarán el formato de datos Gesmes, de conformidad con las normas de intercambio especificadas por la Comisión (Eurostat). La Comisión (Eurostat) facilitará documentación detallada sobre estas normas, así como directrices para aplicarlas conforme a los requisitos del presente Reglamento. 
+No se utilizarán formatos propietarios de datos. 
+Artículo 3 
+Especificaciones técnicas del formato de datos 
+Las especificaciones técnicas de la estructura de datos serán conformes a lo dispuesto en el anexo del presente Reglamento. 
+Artículo 4 
+Entrada en vigor 
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 18 de abril de 2006. 
+Por la Comisión 
+Joaquín Almunia 
+Miembro de la Comisión 
+[1] DO L 35 de 8.2.2005, p. 23. 
+-------------------------------------------------- 
+ANEXO 
+Especificaciones técnicas de la estructura de datos 
+INTRODUCCIÓN 
+La normalización de las estructuras de registro de datos es fundamental para tratar los datos de manera eficiente. Además, es una etapa necesaria para presentar datos que se ajusten a las normas de intercambio especificadas por la Comisión (Eurostat). El formato Gesmes es el medio exclusivo de transmisión de datos sobre estadísticas de balanza de pagos de los Estados miembros a la Comisión (Eurostat). 
+SERIES DE DATOS 
+Para presentar datos sobre balanza de pagos, se utilizarán las cinco series de datos siguientes: 
+Identificador de la serie de datos | Descripción | 
+BOP_EUR_Q | Euroindicadores | 
+BOP_FDI_A | Inversión extranjera directa | 
+BOP_ITS_A | Comercio internacional de servicios | 
+BOP_POS_A | Posiciones de inversión directa extranjera | 
+BOP_Q_Q | Estadísticas trimestrales | 
+ESTRUCTURA DE DATOS, LISTAS DE CÓDIGOS Y ATRIBUTOS 
+Esta sección describe la estructura de datos, las listas de códigos y los atributos que deben utilizarse. Los valores disponibles para los atributos deben ser conformes a la versión más reciente del vademécum de la balanza de pagos de Eurostat. 
+1) Periodicidad 
+a) Definición: periodicidad de la serie. 
+b) Nombre de la lista de códigos: CL_FREQ. 
+c) Formato: AN1. 
+2) Área o informador de referencia 
+a) Definición: país o grupo geográfico/político de países relacionados con el fenómeno económico medido. Esta entidad también se denomina "informador". 
+b) Nombre de la lista de códigos: CL_AREA_EE. 
+c) Formato: AN2 
+d) Abreviaturas utilizadas para el tipo: COU país, ECO zona económica, GEO zona geográfica, ORG organización internacional. 
+3) Indicador de ajuste 
+a) Definición: indica si se ha aplicado o no un ajuste estacional y/o un ajuste de días laborables. 
+b) Nombre de la lista de códigos: CL_ADJUSTMENT 
+c) Formato: AN1 
+4) Tipo de datos 
+a) Definición: describe el tipo de datos (por ejemplo existencias o flujo) de las estadísticas de balanza de pagos. 
+b) Nombre de la lista de códigos: CL_DATA_TYPE_BOP. 
+c) Formato: AN1. 
+5) Partida codificada de la balanza de pagos 
+a) Definición: partida codificada del desglose de la balanza de pagos. 
+b) Nombre de la lista de códigos: CL_BOP_ITEM. 
+c) Formato: AN8. 
+d) Abreviaturas utilizadas para el tipo: STD componente estándar, MEM partida de memorándum, SUP información suplementaria, XOE partida de Eurostat/OCDE o de Eurostat, partida del BCE, IIP posición de inversión internacional. 
+6) Desglose geográfico 
+a) Definición: desglose monetario de transacciones y posiciones. 
+b) Nombre de la lista de códigos: CL_CURR_BRKDWN. 
+c) Formato: AN1. 
+7) Área de contrapartida 
+a) Definición: país o grupo geográfico/económico de países en los que el área o informador de referencia (ref_area) han llevado a cabo la transacción. 
+b) Nombre de la lista de códigos: CL_AREA_EE. 
+c) Formato: AN2. 
+8) Denominación de la serie 
+a) Definición: moneda de denominación (moneda común, por ejemplo euro, ecu, dólar, moneda nacional, etc.) o derechos especiales de giro. 
+b) Nombre de la lista de códigos: CL_SERIES_DENOM. 
+c) Formato: AN1. 
+9) Actividad económica residente 
+a) Definición: actividad económica residente. 
+b) Nombre de la lista de códigos: CL_BOP_EC_ACTIV_R1. 
+c) Formato: N4. 
+10) Actividad económica no residente 
+a) Definición: actividad económica no residente. 
+b) Nombre de la lista de códigos: CL_BOP_EC_ACTIV_R1. 
+c) Formato: N4. 
+11) Situación de la observación (obligatoria) 
+a) Definición: información sobre la calidad del valor o sobre un valor inusual o no disponible. 
+b) Nombre de la lista de códigos: CL_OBS_STATUS. 
+c) Formato: AN1. 
+12) Confidencialidad de la observación (condicional) 
+a) Definición: información sobre si la observación puede o no hacerse pública fuera de la institución que la recibe. 
+b) Nombre de la lista de códigos: CL_OBS_CONF. 
+c) Formato: AN1. 
+13) Organización remitente 
+a) Definición: entidad que envía los datos. 
+b) Nombre de la lista de códigos: CL_ORGANISATION. 
+c) Formato: AN3. 
+14) Receptor 
+a) Definición: entidad que recibe los datos. 
+b) Nombre de la lista de códigos: CL_ORGANISATION. 
+c) Formato: AN3. 
+-------------------------------------------------- 

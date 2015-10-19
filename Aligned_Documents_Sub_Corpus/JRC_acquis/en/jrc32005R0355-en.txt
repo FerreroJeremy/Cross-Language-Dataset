@@ -1,0 +1,113 @@
+Commission Regulation (EC) No&amp;nbsp;355/2005 of 28 February 2005 amending Regulation (EEC) No&amp;nbsp;2676/90 determining Community methods for the analysis of wines 
+Commission Regulation (EC) No 355/2005 
+of 28 February 2005 
+amending Regulation (EEC) No 2676/90 determining Community methods for the analysis of wines 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine [1], and in particular Article 46(3) thereof, 
+Whereas: 
+(1) The method for measuring the alcoholic strength of wine by electronic densimetry has been validated in accordance with internationally recognised criteria. The International Vine and Wine Office (OIV) adopted the new description of this method at its General Assembly in 2000. 
+(2) Use of this measurement method can constitute a simpler and more accurate means of checking the alcoholic strength by volume of wines. 
+(3) There is no longer any need to recognise the equivalence of this method with the methods described in Chapter 3 of the Annex to Commission Regulation (EEC) No 2676/90 [2], and Article 3(2) of that Regulation should therefore be deleted. The updated description of this method and the experimental values for the validation parameters for the method should also be included in Chapter 3 of the Annex to that Regulation. 
+(4) Regulation (EEC) No 2676/90 should therefore be amended accordingly. 
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Regulation (EEC) No 2676/90 is hereby amended as follows: 
+1. Article 3(2) is deleted. 
+2. The Annex is amended in accordance with the Annex hereto. 
+Article 2 
+This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 28 February 2005. 
+For the Commission 
+Mariann Fischer Boel 
+Member of the Commission 
+[1] OJ L 179, 14.7.1999, p. 1. Regulation as amended by the 2003 Act of Accession. 
+[2] OJ L 272, 3.10.1990, p. 1. Regulation as last amended by Regulation (EC) No 128/2004 (OJ L 19, 27.1.2004, p. 3). 
+-------------------------------------------------- 
+ANNEX 
+Chapter 3 of the Annex to Regulation (EEC) No 2676/90, "Alcoholic strength by volume", is hereby amended as follows: 
+1. point 2.2 is replaced by the following: 
+"2.2. Reference methods: 
+- measurement of the alcoholic strength of the distillate using a pycnometer, 
+- measurement of the alcoholic strength of wines using a hydrostatic balance, 
+- measurement of the alcoholic strength of wines by electronic densimetry using a frequency oscillator."; 
+2. in point 4, the title is replaced by the following title and subtitle: 
+"4. REFERENCE METHODS 
+4–A Measurement of the alcoholic strength of the distillate using a pycnometer"; 
+3. in paragraph 4a, the title is replaced by the following: 
+"4–B Measurement of the alcoholic strength of wines using a hydrostatic balance"; 
+4. the following paragraph 4–C is inserted after paragraph 4–B: 
+"4–C Measurement of the alcoholic strength of wines by electronic densimetry using a frequency oscillator 
+1. Method of measurement 
+1.1. Title and introduction 
+The alcoholic strength by volume of wines must be measured before marketing, principally to comply with labelling rules. 
+Alcoholic strength by volume is defined in paragraph 1 of this chapter. 
+1.2. Purpose and scope 
+The method of measurement described is electronic densimetry using a frequency oscillator. 
+For the purposes of the regulatory provisions in force, the trial temperature is set at 20 °C. 
+1.3. Principle and definitions 
+The principle of this method is based on distilling wine volume by volume. The distilling method is described in paragraph 3 of this Chapter. Distillation eliminates non-volatile substances. Homologues of ethanol, together with ethanol and ethanol homologues in ethyl esters, are included in the alcoholic strength since they occur in the distillate. 
+The density of the distillate obtained is then measured. The density of a liquid at a given temperature is equal to the quotient of the mass over its volume: 
+ρ = m/V, for wine, it is expressed in g/ml. 
+For a hydroalcoholic solution such as a distillate, where the temperature is known, tables can be used to map density and alcoholic strength. This alcoholic strength corresponds to that of wine (distillation volume by volume). 
+In this method the density of the distillate is measured by electronic densimetry using a frequency oscillator. The principle consists of measuring the period of oscillation of a tube containing the sample subject to electromagnetic excitation. The density can then be calculated – it is linked to the period of oscillation by the following formula: 
+ρ =T2 × C4π2V - MV (1) 
+ρ = density of the sample 
+T = period of vibration induced 
+M = mass of the empty tube 
+C = spring constant 
+V = volume of the sample in vibration 
+This link takes the form ρ = A T2 – B (2); hence there is a linear relationship between the density and the period squared. The constants A and B are specific to each oscillator and are estimated by measuring the period of fluids of known density. 
+1.4. Reagents and products 
+1.4.1. Reference fluids 
+Two reference fluids are used to adjust the densimeter. The densities of the reference fluids must encompass those of the distillates to be measured. A difference in the density of the reference fluids greater than 0,01000 g/ml is recommended. Their density must be known with a degree of uncertainty below +/- 0,00005 g/ml, at a temperature of 20,00 °C +/- 0,05 °C. 
+To measure the alcoholic strength by volume using an electronic densimeter, the reference fluids are: 
+- dry air (unpolluted), 
+- water of at least grade 3 as defined by ISO 3696:1987 should be used, 
+- hydroalcoholic solutions of reference density, 
+- solutions linked to national viscosity standards below 2 mm2/s. 
+1.4.2. Cleaning and drying products 
+- detergents, acids, 
+- organic solvents: ethanol 96 % vol., pure acetone. 
+1.5. Apparatus 
+1.5.1. Electronic densimeter using a frequency oscillator 
+The electronic densimeter comprises the following: 
+- a measuring cell with a measuring tube and thermostatic chamber, 
+- a system for making the tube oscillate and for measuring the period of oscillation, 
+- a clock, 
+- a digital display unit, and possibly a calculator. 
+The densimeter is placed on a perfectly stable stand that is insulated from all vibrations. 
+1.5.2. Controlling the temperature in the measuring cell 
+The measuring tube is placed in a thermostatic chamber. The temperature stability must be +/- 0,02 °C or better. 
+Where possible, the temperature of the measuring cell should be checked as this has a strong impact on the measurement results. The density of a hydroalcoholic solution of 10 % vol is 0,98471 g/ml at 20 °C and 0,98447 g/ml at 21 °C, or a difference of 0,00024 g/ml. 
+The trial temperature is set at 20 °C. The temperature is measured in the cell using a thermometer with a resolution of below 0,01 °C in line with national standards. It should guarantee a temperature measurement with under +/- 0,07 °C uncertainty. 
+1.5.3. Calibration of the apparatus 
+The apparatus must be calibrated before its first use, then every six months or if the check is unsatisfactory. Two reference fluids should be used to calculate the constants A and B (see above formula 2). Calibration should be carried out in line with the operating instructions for the apparatus. In principle, calibration is carried out using dry air (taking into account atmospheric pressure) and extremely pure water (twice distilled and/or micro-filtered with extremely high resistivity &gt; 18 MΩ). 
+1.5.4. Checking the calibration 
+To check the calibration, measure the density of the reference fluids. 
+The air density should be checked every day. A difference between the theoretical and the actual density greater than 0,00008 g/ml may indicate that the tube is blocked. It should therefore be cleaned. After cleaning, check the air density once again. If this check is not conclusive, the apparatus must be adjusted. 
+Check the water density also. If the difference between the theoretical and the actual density is greater than 0,00008 g/ml, the apparatus should be adjusted. 
+If it is difficult to check the temperature of the cell, the density of a hydroalcoholic solution with an alcoholic strength by volume comparable to that of the distillates analysed can be checked directly. 
+1.5.5. Checks 
+If the difference between the theoretical density of a reference solution (known with under 0,00005 g/ml uncertainty) and the measurement is greater than 0,00008 g/ml, the temperature of the cell must be checked. 
+1.6. Sampling and preparation of the samples 
+(see point 3 of this Chapter, "Method of obtaining distillate"). 
+1.7. Procedure 
+After obtaining the distillate, measure its density or alcoholic strength by volume using densimetry. 
+First ensure the temperature stability of the measuring cell. The distillate in the densimeter cell must not contain air bubbles and must be homogeneous. If a lighting system is available which can help verify the absence of bubbles, it should quickly be switched off after carrying out the checks as the heat generated by the bulb affects the measuring temperature. 
+If the apparatus only gives the period, the density should be calculated using the constants A and B (see 1.3). If the apparatus does not give the alcoholic strength by volume directly, this can be obtained from the tables. 
+1.8. Expression of results 
+The alcoholic strength by volume of the wine is that obtained for the distillate. It is expressed in "% vol". 
+If the temperature conditions cannot be complied with, correct the result to express it at 20 °C. Give the result to two decimal places. 
+1.9. Remarks 
+The volume placed in the measuring cell must be large enough to avoid any contamination by the previous sample. Consequently, at least two measurements should be carried out. If these do not give results within the repeatability limit, a third measurement is needed. The results of the last two measurements are normally homogeneous and the first value is eliminated. 
+1.10. Precision 
+For samples with an alcoholic strength by volume of between 4 and 18 % vol 
+Repeatability (r) | = | 0,067 (% vol) | 
+Reproducibility (R) | = | 0,0454 + 0,0105 × alcoholic strength by volume | 
+2. Interlaboratory trials. Precision and accuracy on adjuncts 
+The method performance characteristics shown in paragraph 1.10 were obtained from an interlaboratory test carried out in accordance with established international procedures on six samples and by eleven laboratories. 
+All the details and repeatability and reproducibility calculations carried out in this test are described in the Chapter "TITRE ALCOOMETRIQUE VOLUMIQUE" (Alcoholic strength by volume) (point 4.B.2) of the OIV’s "Recueil International des Méthodes d’Analyse" (compendium of analysis methods – 2004 edition)." 
+-------------------------------------------------- 

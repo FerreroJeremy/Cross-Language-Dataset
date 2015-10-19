@@ -1,0 +1,77 @@
+Commission Regulation (EC) No 2306/2002 of 20 December 2002 laying down detailed rules for the application of Council Regulation (EC) No 104/2000 as regards the notification of the prices of imported fishery products 
+Commission Regulation (EC) No 2306/2002 
+of 20 December 2002 
+laying down detailed rules for the application of Council Regulation (EC) No 104/2000 as regards the notification of the prices of imported fishery products 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC) No 104/2000 of 17 December 1999 on the common organisation of the markets in fishery and aquaculture products,(1) and in particular Article 29(5) thereof, 
+Whereas: 
+(1) Article 29(4) of Regulation (EC) No 104/2000 requires Member States to notify the Commission regularly of the prices and quantities of imports of certain products recorded on their markets or in their ports. 
+(2) A new list of the markets and ports at which imports are recorded should be established in order to take account of the actual volume of imports. 
+(3) Provision should also be made for the rapid transmission, in a new electronic format, of the data needed to monitor the reference prices. 
+(4) Commission Regulation (EC) No 2211/94 of 12 September 1994 laying down detailed rules for the application of Council Regulation (EEC) No 3759/92 as regards the notification of the prices of imported fishery products(2), as last amended by Regulation (EC) No 2805/1999(3), should therefore be repealed. 
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fishery Products, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+1. Member States shall notify the Commission of the prices and quantities of imports of the products listed in Annexes I, II, III and IV to Regulation (EC) No 104/2000 for which a reference price is set and which are released for free circulation. This information shall be broken down by TARIC code and by date of presentation of the import declaration. 
+2. The requirement to notify the Commission shall apply to at least the products released for free circulation at the markets and ports listed in Table 3 of the Annex. 
+3. Notification shall take place by the 25th day of each month or the first working day thereafter for products released for free circulation between the first and the 15th day of the month, and by the 10th day of the following month or the first working day thereafter for products released for free circulation between the 16th and the last day of the month. The Commission shall be notified by electronic mail in the format shown in the Annex. 
+Article 2 
+Regulation (EC) No 2211/94 is repealed. 
+Article 3 
+This Regulation shall enter into force on 1 January 2003. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 20 December 2002. 
+For the Commission 
+Franz Fischler 
+Member of the Commission 
+(1) OJ L 17, 21.2.2000, p. 22. 
+(2) OJ L 238, 13.9.1994, p. 1. 
+(3) OJ L 340, 31.12.1999, p. 51. 
+ANNEX 
+1. Data format 
+%gt%TABLE%gt% 
+2. Message format 
+2.1. FIDES I format 
+For Member State administrations not making full use of FIDES II, the following format shall be used. The file is a text file made up of seven separate records: 
+- Each item of data is separated from the following item by a semi-colon. 
+- Each message line is followed by a carriage return. 
+It looks as follows: 
+%amp%lt; TTL %amp%gt;MK-IMPORT 
+%amp%lt; RMS %amp%gt;C(3) 
+%amp%lt; DSE %amp%gt;YYYYMMDD; 
+%amp%lt; MTYP %amp%gt;C(19); 
+%amp%lt; LOT %amp%gt;C(16); 
+%amp%lt; MON %amp%gt;C(3); 
+%amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+%amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+%amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+... 
+2.2. FIDES II format 
+For Member State administrations making full use of FIDES II, the following format shall be used: 
+%amp%lt; FIDES2 %amp%gt; 
+%amp%lt; HEAD %amp%gt; 
+%amp%lt; REQUEST.NAME %amp%gt;MK-IMPORT 
+%amp%lt; REQUEST.COUNTRY.ISO_A3 %amp%gt;C(3) 
+%amp%lt; /HEAD %amp%gt; 
+%amp%lt; BODY %amp%gt; 
+%amp%lt; DSE %amp%gt;YYYYMMDD; 
+%amp%lt; MTYP %amp%gt;C(19); 
+%amp%lt; LOT %amp%gt;C(16); 
+%amp%lt; MON %amp%gt;C(3); 
+%amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+%amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+%amp%lt; DAT %amp%gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8); 
+... 
+%amp%lt; /BODY %amp%gt; 
+%amp%lt; /FIDES2 %amp%gt; 
+3. Codes 
+Table 1 
+Member State codes 
+%gt%TABLE%gt% 
+Table 2 
+Currency codes 
+%gt%TABLE%gt% 
+Table 3 
+Entry ports 
+%gt%TABLE%gt% 

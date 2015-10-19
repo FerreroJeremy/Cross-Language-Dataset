@@ -1,0 +1,896 @@
+2006/66/CE: D%eacute%cision de la Commission du 23 d%eacute%cembre 2005 relative %agrave% la sp%eacute%cification technique d'interop%eacute%rabilit%eacute% concernant le sous-syst%egrave%me Mat%eacute%riel roulant %mdash% bruit du syst%egrave%me ferroviaire transeurop%eacute%en conventionnel [notifi%eacute%e sous le num%eacute%ro C(2005) 5666] (Texte pr%eacute%sentant de l'int%eacute%r%ecirc%t pour l'EEE) 
+Décision de la Commission 
+du 23 décembre 2005 
+relative à la spécification technique d'interopérabilité concernant le sous-système "Matériel roulant — bruit" du système ferroviaire transeuropéen conventionnel 
+[notifiée sous le numéro C(2005) 5666] 
+(Texte présentant de l'intérêt pour l'EEE) 
+(2006/66/CE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu la directive 2001/16/CE du Parlement européen et du Conseil du 19 mars 2001 relative à l'interopérabilité du système ferroviaire transeuropéen conventionnel [1], et notamment son article 6, paragraphe 1, 
+considérant ce qui suit: 
+(1) Conformément à l'article 2, point c), de la directive 2001/16/CE, le système ferroviaire transeuropéen conventionnel est subdivisé en sous-systèmes de nature structurelle ou fonctionnelle. 
+(2) Conformément à l'article 23, paragraphe 1, de ladite directive, le sous-système "bruit" doit faire l'objet d'une spécification technique d'interopérabilité (STI). 
+(3) Lors de la définition d'une STI, la première étape est l'élaboration d'un projet de STI par l'Association européenne pour l'interopérabilité ferroviaire (AEIF), qui a été désignée comme organisme commun. 
+(4) L'AEIF a reçu mandat de rédiger un projet de STI pour le sous-système "bruit", conformément à l'article 6, paragraphe 1, de cette directive. Les paramètres fondamentaux pour ce projet de STI ont été adoptés par la décision 2004/446/CE de la Commission du 29 avril 2004 précisant les paramètres fondamentaux des spécifications techniques d'interopérabilité concernant les sous-systèmes "bruit", "wagons pour le fret" et "applications télématiques au service du fret" visées dans la directive 2001/16/CE [2]. 
+(5) Le projet de STI élaboré sur la base des paramètres fondamentaux a été assorti d'un rapport de présentation comportant une analyse des coûts et avantages, comme prévu à l'article 6, paragraphe 5, de ladite directive. 
+(6) Le projet de STI a été examiné par le comité institué par l'article 21 de la directive 96/48/CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse [3], à la lumière du rapport de présentation. 
+(7) La directive 2001/16/CE et les STI s'appliquent aux renouvellements mais pas à la substitution dans le cadre d'une maintenance. Toutefois, les États membres sont invités, lorsqu'ils sont en mesure de le faire et lorsque cela est justifié par l'ampleur des travaux de maintenance, à appliquer les STI aux substitutions dans le cadre d'une maintenance. 
+(8) La STI relative au bruit généré par le matériel roulant ne doit pas imposer l'utilisation de technologies ou de solutions techniques spécifiques, excepté lorsque cela est strictement nécessaire pour l'interopérabilité du réseau ferroviaire transeuropéen conventionnel. 
+(9) La STI s'appuie sur les meilleures connaissances spécialisées disponibles au moment de la préparation du projet correspondant. Il est possible qu'il faille modifier ou compléter la STI pour tenir compte de l'évolution des techniques ou des exigences sociales, de fonctionnement ou de sécurité. Le cas échéant, une procédure de révision ou de mise à jour sera engagée conformément à l'article 6, paragraphe 3, de la directive 2001/16/CE. 
+(10) Pour stimuler l'innovation et tenir compte de l'expérience acquise, la STI pourrait faire l'objet d'une révision périodique. Cette disposition est présentée en détail dans le chapitre 7 de la STI. 
+(11) À l'heure actuelle, l'utilisation du matériel roulant pour le réseau ferroviaire conventionnel est régie par des accords nationaux, bilatéraux, multinationaux ou internationaux en vigueur. Il importe que ces accords n'entravent pas les progrès actuels et futurs vers la mise en place de l'interopérabilité. C'est pourquoi la Commission doit étudier ces accords et déterminer si la STI figurant à l'annexe doit être révisée en conséquence. 
+(12) Pour éviter toute confusion, il est nécessaire de préciser que les dispositions de la décision 2004/446/CE relatives aux paramètres fondamentaux du système ferroviaire transeuropéen conventionnel ne s'appliquent plus. 
+(13) Les dispositions de la présente décision sont conformes à l'avis du comité institué par l'article 21 de la directive 96/48/CE, 
+A ARRÊTÉ LA PRÉSENTE DÉCISION: 
+Article premier 
+La spécification technique d'interopérabilité (ci-après dénommée "STI") relative au sous-système "bruit" du réseau ferroviaire transeuropéen conventionnel visée à l'article 6, paragraphe 1, de la directive 2001/16/CE est définie dans l'annexe. 
+La STI est pleinement applicable au matériel roulant du système ferroviaire transeuropéen conventionnel défini dans l'annexe I de la directive 2001/16/CE. 
+Article 2 
+La STI prévoit une approche en deux phases, comme prévu au chapitre 7 de l'annexe. Sans préjudice du mécanisme de révision périodique prévu au chapitre 7, la Commission remet au comité institué en vertu de l'article 21 de la directive 96/48/CE, au plus tard sept ans après la date d'entrée en vigueur de la présente décision, un rapport et, s'il y a lieu, une proposition de révision de la partie 7.2 de l'annexe. 
+Article 3 
+Lorsque des accords comportent des dispositions prévoyant des limites d'émissions sonores, les États membres les notifient à la Commission dans les six mois qui suivent l'entrée en vigueur de la présente décision. Les types d'accords qui doivent être notifiés sont les suivants: 
+a) les accords nationaux entre les États membres et les entreprises ferroviaires ou les gestionnaires d'infrastructures, conclus à titre permanent ou temporaire et rendus nécessaires par le caractère très particulier ou local du service de transport visé; 
+b) les accords bilatéraux ou multilatéraux entre des entreprises ferroviaires, des gestionnaires d'infrastructures ou des autorités compétentes en matière de sécurité, qui offrent des degrés importants d'interopérabilité au niveau local ou régional; 
+c) des accords internationaux entre un ou plusieurs États membres et au moins un pays tiers, ou entre des entreprises ferroviaires ou des gestionnaires d'infrastructures des États membres et au moins une entreprise ferroviaire ou un gestionnaire d'infrastructures d'un pays tiers, qui offrent des degrés importants d'interopérabilité au niveau local ou régional. 
+Article 4 
+Les dispositions de la décision 2004/446/CE relatives aux paramètres fondamentaux du système ferroviaire transeuropéen conventionnel ne s'appliquent plus à compter de la date d'entrée en vigueur de la présente décision. 
+Article 5 
+La présente décision entre en vigueur six mois après la date de sa notification. 
+Article 6 
+Les États membres sont destinataires de la présente décision. 
+Fait à Bruxelles, le 23 décembre 2005. 
+Par la Commission 
+Jacques Barrot 
+Vice-président de la Commission 
+[1] JO L 110 du 20.4.2001, p. 1. Directive modifiée par la directive 2004/50/CE (JO L 164 du 30.4.2004, p. 114, rectifiée au JO L 220 du 21.6.2004, p. 40). 
+[2] JO L 155 du 30.4.2004, p. 1, rectifiée au JO L 193 du 1.6.2004, p. 1. 
+[3] JO L 235 du 17.9.1996, p. 6. Directive modifiée en dernier lieu par la directive 2004/50/CE. 
+-------------------------------------------------- 
+ANNEXE 
+Spécification technique d'interopérabilité concernant le sous-système "matériel roulant — bruit" du système ferroviaire transeuropéen conventionnel 
+1. INTRODUCTION 
+1.1. DOMAINE D'APPLICATION TECHNIQUE 
+1.2. DOMAINE D'APPLICATION GÉOGRAPHIQUE 
+1.3. CONTENU DE LA STI 
+2. DÉFINITION DU SOUS-SYSTÈME/DOMAINE D'APPLICATION 
+2.1. DÉFINITION DU SOUS-SYSTÈME 
+2.2. INTERFACES DU SOUS-SYSTÈME 
+3. EXIGENCES ESSENTIELLES 
+3.1. GÉNÉRALITÉS 
+3.2. EXIGENCES ESSENTIELLES 
+3.3. EXIGENCES ESSENTIELLES DE PORTÉE GÉNÉRALE 
+3.3.1. Protection de l'environnement 
+3.4. ASPECTS LIÉS AUX EXIGENCES ESSENTIELLES SPÉCIFIQUES AU SOUS-SYSTÈME "MATÉRIEL ROULANT" 
+4. CARACTÉRISATION DU SOUS-SYSTÈME 
+4.1. INTRODUCTION 
+4.2. SPÉCIFICATIONS FONCTIONNELLES ET TECHNIQUES AU NIVEAU DU SOUS-SYSTÈME 
+4.2.1. Bruit émis par les wagons de fret 
+4.2.1.1 Limites de bruit au passage 
+4.2.1.2. Limites de bruit en stationnement 
+4.2.2. Bruit émis par les locomotives, les éléments automoteurs et les voitures 
+4.2.2.1. Introduction 
+4.2.2.2. Limites de bruit en stationnement 
+4.2.2.3. Limites de bruit au démarrage 
+4.2.2.4. Limites de bruit au passage 
+4.2.3. Bruit à l'intérieur des locomotives, des trains automoteurs et des voitures à cabine de réversibilité 
+4.3. SPÉCIFICATIONS FONCTIONNELLES ET TECHNIQUES DES INTERFACES 
+4.3.1. Sous-système "matériel roulant" pour le réseau conventionnel 
+4.3.2. Sous-systèmes "locomotives, trains automoteurs et voitures" 
+4.4. RÈGLES D'EXPLOITATION 
+4.5. RÈGLES DE MAINTENANCE 
+4.6. QUALIFICATIONS PROFESSIONNELLES 
+4.7. CONDITIONS D'HYGIÈNE ET DE SÉCURITÉ 
+4.8. REGISTRES INFRASTRUCTURES ET MATÉRIEL ROULANT 
+4.8.1. Registre des infrastructures 
+4.8.2. Registre du matériel roulant 
+5. CONSTITUANTS D'INTEROPÉRABILITÉ 
+5.1. DÉFINITION 
+6. ÉVALUATION DE LA CONFORMITÉ ET/OU DE L'APTITUDE À L'EMPLOI DES CONSTITUANTS ET VÉRIFICATIONS DU SOUS-SYSTÈME 
+6.1. CONSTITUANTS D'INTEROPÉRABILITÉ 
+6.2. SOUS-SYSTÈME "MATÉRIEL ROULANT" 
+6.2.1. Procédures d'évaluation 
+6.2.2. Modules 
+6.2.3. Aspects liés au bruit du sous-système "matériel roulant" 
+7. MISE EN ŒUVRE 
+7.1. MISE EN ŒUVRE 
+7.2. RÉVISION DES STI 
+7.3. APPROCHE EN DEUX ÉTAPES 
+7.4. MODIFICATION DU PROGRAMME DE RÉDUCTION DU BRUIT 
+7.5. APPLICATION DE LA STI À UN MATÉRIEL ROULANT NEUF 
+7.5.1. Période transitoire pour le bruit extérieur 
+7.5.2. Bruit au démarrage 
+7.5.3 Bruit dans la cabine de conduite 
+7.5.4. Exceptions pour les accords nationaux, bilatéraux, multilatéraux ou multinationaux 
+7.5.4.1. Accords existants 
+7.5.4.2. Accords futurs ou modification d’accords existants 
+7.6. APPLICATION DE CETTE STI AU MATÉRIEL ROULANT EXISTANT 
+7.6.1. Renouvellement ou réaménagement de wagons pour le fret existants 
+7.6.2. Renouvellement ou réaménagement de locomotives, éléments automoteurs et voitures 
+7.7. CAS SPÉCIFIQUES 
+7.7.1. Introduction 
+7.7.2. Liste des cas spécifiques 
+7.7.2.1. Limites pour le bruit en stationnement, "strictement pour une utilisation limitée au réseau du Royaume-Uni et de l’Irlande" 
+7.7.2.2. Finlande 
+7.7.2.3. Limites pour le bruit au démarrage, "strictement pour une utilisation limitée au réseau du Royaume-Uni et de l’Irlande" 
+7.7.2.4. Limites pour le bruit au passage de wagons de fret, en Finlande, Norvège, Estonie, Lettonie et Lituanie 
+7.7.2.5. Cas spécifique de la Grèce 
+7.7.2.6. Cas spécifique de l’Estonie, de la Lettonie et de la Lituanie 
+ANNEXE A: CONDITIONS DE MESURAGE 
+A.1 Modifications du projet de norme EN ISO 3095:2001 
+A.1.1. Bruit en stationnement 
+A.1.2. Bruit au démarrage 
+A.1.3. Bruit au passage 
+A.1.4. Voie de référence pour le bruit au passage 
+A.2. Caractérisation des performances dynamiques des voies de référence 
+A.2.1. Procédure de mesurage 
+A.2.2. Système de mesurage 
+A.2.3. Traitement des données 
+A.2.4. Compte rendu d'essai 
+ANNEXE B: MODULES POUR LA VÉRIFICATION "CE" DE SOUS-SYSTÈMES – ASPECT "BRUIT" 
+B.1. Module SB: Examen de type 
+B.2. Module SD: Système de management de la qualité de la production 
+B.3. Module SF: Vérification sur produits 
+B.4. Module SH2: Système de management complet de la qualité avec examen de la conception 
+SYSTÈME FERROVIAIRE TRANSEUROPÉEN CONVENTIONNEL 
+Spécification technique d'interopérabilité 
+Sous-système: "matériel roulant" conventionnel 
+Domaine d'application: "bruit" 
+Aspect: bruit émis par les wagons de fret, les locomotives, les éléments automoteurs et les voitures 
+1. INTRODUCTION 
+1.1. Domaine d’application technique 
+Cette STI concerne le sous-système "matériel roulant" désigné au point 1 de la liste de l'annexe II de la directive 2001/16/CE. 
+D'autres informations relatives au sous-système "matériel roulant" sont fournies au chapitre 2. 
+La présente STI traite des bruits émis par les wagons de fret, les locomotives, les éléments automoteurs et les voitures. 
+1.2. Domaine d'application géographique 
+Le domaine d'application géographique de la présente STI est le système ferroviaire transeuropéen conventionnel tel qu'il est décrit à l'annexe I de la directive 2001/16/CE. 
+1.3. Contenu de la STI 
+Conformément à l'article 5, paragraphe 3, de la directive 2001/16/CE, la présente STI: 
+a) indique le champ d'application visé (partie du réseau ou du matériel roulant indiqué à l'annexe I de la directive; sous-système ou partie de sous-système indiqué à l'annexe II de la directive) — chapitre 2; 
+b) précise les exigences essentielles pour le sous-système concerné et ses interfaces vis-à-vis des autres sous-systèmes — chapitre 3; 
+c) définit les spécifications fonctionnelles et techniques à respecter par le sous-système et ses interfaces vis-à-vis des autres sous-systèmes. Si nécessaire, ces spécifications peuvent différer selon l'usage du sous-système, par exemple selon les catégories de lignes, de nœuds et/ou du matériel roulant prévu à l'annexe I de la directive — chapitre 4; 
+d) détermine les constituants d'interopérabilité et les interfaces qui doivent faire l'objet de spécifications européennes, dont les normes européennes, qui sont nécessaires pour réaliser l'interopérabilité du système ferroviaire transeuropéen conventionnel — chapitre 5; 
+e) indique, dans chaque cas envisagé, les procédures d'évaluation de la conformité ou de l'aptitude à l'emploi. Cela comporte notamment les modules définis dans la décision 93/465/CEE du Conseil ou, le cas échéant, les procédures spécifiques, qui doivent être utilisées pour évaluer soit la conformité, soit l'aptitude à l'emploi des constituants d'interopérabilité ainsi que les vérifications "CE" des sous-systèmes — chapitre 6; 
+f) indique la stratégie de mise en œuvre de la STI. Il faut notamment préciser les étapes à franchir pour passer progressivement de la situation existante à la situation finale où le respect de la STI est généralisé — chapitre 7; 
+g) indique, pour le personnel concerné, les conditions de qualification professionnelle et d'hygiène et de sécurité au travail requises pour l'exploitation et la maintenance du sous-système visé, ainsi que par la mise en œuvre de la STI — chapitre 4. 
+En outre, conformément à l'article 5, paragraphe 5, des cas spécifiques peuvent être prévus pour chaque STI, lesquels sont indiqués au chapitre 7. 
+Enfin, au chapitre 4, la présente STI énonce également les règles d'exploitation et de maintenance spécifiques au domaine d'application indiqué aux points 1.1 et 1.2 ci-dessus. 
+2. Définition du sous-système/domaine d'application 
+2.1. Définition du sous-système 
+Le matériel roulant, qui fait l'objet de cette STI, comprend les locomotives, les éléments automoteurs, les wagons de fret et les voitures susceptibles de parcourir en totalité ou en partie le réseau ferroviaire transeuropéen conventionnel. Les wagons de fret incluent le matériel roulant destiné au transport de camions. 
+Ce matériel roulant ne comprend que le matériel destiné à l'usage international et le matériel destiné à l'usage national (spécifique), en tenant dûment compte de l'utilisation locale, régionale ou longue distance du matériel. 
+La STI "bruit" du sous-système "matériel roulant" couvre les limites relatives au bruit en stationnement, au bruit au démarrage, au bruit au passage ainsi qu'au bruit dans les cabines de conduite induits par le matériel roulant du réseau conventionnel. 
+2.2. Interfaces du sous-système 
+La présente STI "bruit" a des interfaces avec: 
+- - le bruit au passage, 
+- le bruit en stationnement, 
+- - le bruit en stationnement, 
+- le bruit au démarrage, 
+- le bruit au passage, 
+- le cas échéant, le bruit dans les cabines de conduite. 
+3. Exigences essentielles 
+3.1. Généralités 
+Dans le cadre de la présente STI, la satisfaction des exigences essentielles pertinentes décrites au chapitre 3 de la présente STI sera assurée par la conformité avec les spécifications décrites dans le chapitre 4 pour le sous-système, tel que démontrée par un résultat positif de l'évaluation de la vérification du sous-système comme définie au chapitre 6. 
+Néanmoins, si les exigences essentielles sont en partie couvertes par des règles nationales, en vertu: 
+- de points ouverts et réservés tels que déclarés dans la présente STI, 
+- d'une éventuelle dérogation accordée au titre de l'article 7 de la directive 2001/16/CE, 
+- de cas spécifiques comme décrits au point 7.6 de la présente STI, 
+l'évaluation de conformité correspondante doit être effectuée conformément aux procédures sous la responsabilité de l'État membre concerné. 
+Selon l'article 4, paragraphe 1, de la directive 2001/16/CE, le système ferroviaire transeuropéen conventionnel, les sous-systèmes et les constituants d'interopérabilité, y compris les interfaces, doivent satisfaire aux exigences essentielles pertinentes reprises à l'annexe III de la directive. 
+3.2. Exigences essentielles 
+Les exigences essentielles portent sur: 
+- la sécurité, 
+- la fiabilité et la disponibilité, 
+- la santé, 
+- la protection de l'environnement, 
+- la compatibilité technique. 
+Ces exigences comprennent les exigences générales et les exigences spécifiques à chaque sous-système. 
+3.3. Exigences essentielles de portée générale 
+3.3.1. Protection de l'environnement 
+Exigence essentielle 1.4.4 de l'annexe III de la directive 2001/16/CE: l'exploitation du système ferroviaire transeuropéen conventionnel doit respecter les réglementations existantes en matière de nuisances sonores. 
+Dans la mesure où les émissions de bruit par le sous-système "matériel roulant" sont concernées, cette exigence essentielle est traitée dans la spécification des sous-sections intitulées: 
+- bruit au passage (paramètres fondamentaux 4.2.1.1 et 4.2.2.4), 
+- bruit en stationnement (paramètres fondamentaux 4.2.1.2 et 4.2.2.2), 
+- bruit au démarrage (paramètre fondamental 4.2.1.3), 
+- bruit à l'intérieur des locomotives, des éléments automoteurs et des remorques à cabine de conduite (paramètre fondamental 4.2.3). 
+3.4. Aspects liés aux exigences essentielles spécifiques au sous-système "matériel roulant" 
+Les exigences essentielles spécifiques au sous-système "matériel roulant" ne sont pas pertinentes pour ce qui concerne les émissions de bruit par le matériel roulant. 
+4. Caractérisation du sous-système 
+4.1. Introduction 
+Le système ferroviaire transeuropéen conventionnel, auquel s'applique la directive 2001/16/CE et dont le sous-système "matériel roulant" fait partie, est un système intégré dont la cohérence doit être vérifiée. Ce contrôle de cohérence doit notamment porter sur les spécifications du sous-système, ses interfaces avec le système dans lequel il est intégré ainsi que les règles d'exploitation et de maintenance. 
+Les limites d'émissions de bruit du sous-système "matériel roulant" sont définies dans le présent chapitre 4 en tenant compte de toutes les exigences essentielles applicables. 
+La présente STI s'applique aux véhicules neufs, renouvelés ou réaménagés si les dispositions du point 7.2 l'exigent. 
+Le point 4.2 de la présente STI s'applique uniquement à la mise en service de matériel roulant conformément au point 14.1 ou 14.3 de la directive 2001/16/CE. 
+4.2. Spécifications fonctionnelles et techniques au niveau du sous-système 
+Au vu des exigences essentielles du chapitre 3, les spécifications fonctionnelles et techniques des limites d'émissions de bruit du sous-système "matériel roulant" sont réparties comme suit: 
+- bruit en stationnement (paramètres fondamentaux 4.2.1.2 et 4.2.2.2), 
+- bruit au démarrage (paramètre fondamental 4.2.2.3), 
+- bruit au passage (paramètres fondamentaux 4.2.1.1 et 4.2.2.4), 
+- bruit à l'intérieur des locomotives, des éléments automoteurs et des remorques à cabine de conduite (paramètre fondamental 4.2.3). 
+Les véhicules de maintenance des infrastructures doivent être considérés comme des locomotives pendant leur déplacement, mais doivent satisfaire aux exigences de la présente STI en fonctionnement. 
+4.2.1. Bruit émis par les wagons de fret 
+Le bruit émis par les wagons de fret est réparti en bruit au passage et en bruit en stationnement. 
+Le bruit au passage d'un wagon de fret est fortement influencé par son bruit de roulement (bruit dû au contact roue-rail) qui est fonction de la vitesse. 
+Le bruit de roulement est lui-même provoqué par les effets combinés de la rugosité roue-rail et du comportement dynamique de la voie et des essieux. 
+L'ensemble des paramètres pour la caractérisation du bruit au passage comprend: 
+- le niveau de pression acoustique selon une méthode de mesurage définie, 
+- la position du microphone, 
+- la vitesse du wagon, 
+- la rugosité du rail, 
+- le comportement dynamique et le rayonnement de la voie. 
+Le bruit en stationnement d'un wagon de fret n'est déterminant qu'en présence d'appareils auxiliaires tels que moteurs, générateurs, systèmes de refroidissement. C'est le cas notamment des wagons réfrigérés. 
+L'ensemble des paramètres pour la caractérisation du bruit en stationnement comprend: 
+- le niveau de pression acoustique, selon une méthode de mesurage définie et la position du microphone, 
+- les conditions d'exploitation. 
+4.2.1.1. Limites de bruit au passage 
+L'indicateur de bruit au passage est le niveau LpAeq, Tp de pression acoustique continu équivalent pondéré A, mesuré sur le temps de passage à une distance de 7,5 m de l'axe de la voie à une hauteur de 1,2 m au-dessus de la surface supérieure du rail. Ces mesurages doivent s'effectuer conformément au projet de norme EN ISO 3095:2001, sauf que la voie de référence doit répondre aux exigences énoncées dans l'annexe A.1.4. La voie de référence est communiquée de façon non discriminatoire. 
+Les valeurs limites de LpAeq, Tp pour le bruit au passage des wagons de fret, répondant aux conditions mentionnées ci-dessus, sont données dans le tableau 1. 
+Tableau 1 
+Valeurs limites de LpAeq, Tp pour le bruit au passage des wagons de fret 
+Wagons | LpAeq, Tp | 
+Wagons neufs avec un nombre d'essieux moyen par unité de longueur (APL) inférieur ou égal à 0,15 m-1 à 80 km/h | %lt% = 82 dB(A) | 
+Wagons renouvelés ou réaménagés conformément à l'article 14, paragraphe 3, de la directive 2001/16/CE avec un nombre d'essieux moyen par unité de longueur (APL) inférieur ou égal à 0,15 m-1 à 80 km/h | %lt% = 84 dB(A) | 
+Wagons neufs avec un nombre d'essieux moyen par unité de longueur (APL) supérieur à 0,15 m-1 et inférieur ou égal à 0,275 m-1 à 80 km/h | %lt% = 83 dB(A) | 
+Wagons renouvelés ou réaménagés conformément à l'article 14, paragraphe 3, de la directive 2001/16/CE avec un nombre d'essieux moyen par unité de longueur (APL) supérieur à 0,15 m-1 et inférieur ou égal à 0,275 m-1 à 80 km/h | %lt% = 85 dB(A) | 
+Wagons neufs avec un nombre d'essieux moyen par unité de longueur (APL) supérieur à 0,275 m-1 à 80 km/h | %lt% = 85 dB(A) | 
+Wagons renouvelés ou réaménagés conformément à l'article 14, paragraphe 3, de la directive 2001/16/CE avec un nombre d'essieux moyen par unité de longueur (APL) supérieur à 0,275 m-1 à 80 km/h | %lt% = 87 dB(A) | 
+Note: "APL" est le nombre d'essieux divisé par la longueur hors tampons. 
+Le bruit au passage d'un train doit être mesuré à 80 km/h et à vitesse maximale, cependant inférieure à 190 km/h. Les valeurs à comparer avec les limites (voir tableau 1) sont la valeur maximale mesurée à 80 km/h et la valeur mesurée à vitesse maximale, par rapport à 80 km/h selon l'équation LpAeq, Tp(80 km/h) = LpAeq, Tp(v)-30*log (v/80 km/h). Les autres vitesses mentionnées dans le projet de norme EN ISO 3095:2001 ne doivent pas être prises en compte. 
+4.2.1.2. Limites de bruit en stationnement 
+Le bruit en stationnement doit être décrit en termes de niveau LpAeq, Tp de pression acoustique continu équivalent pondéré A, conformément au projet de norme EN ISO 3095:2001, chapitre 7.5 avec les modifications définies dans l'annexe A. La valeur limite pour le bruit en stationnement de wagons de fret à une distance de 7,5 m de l'axe de la voie à une hauteur de 1,2 m au-dessus de la surface supérieure du rail est énoncée dans le tableau 2. L'indicateur de niveau de pression acoustique est LpAeq, T. 
+Tableau 2 
+Valeur limite de LpAeq, T pour le bruit en stationnement des wagons de fret 
+Wagons | LpAeq, T | 
+Tous les wagons de fret | %lt% = 65 dB(A) | 
+Le niveau de pression acoustique spécifié pour le bruit en stationnement est la moyenne énergétique de toutes les valeurs mesurées à tous les points de mesure définis dans l'annexe A.1.1 de cette STI. 
+4.2.2. Bruit émis par les locomotives, les éléments automoteurs et les voitures 
+4.2.2.1. Introduction 
+Le bruit émis par les locomotives, les trains automoteurs et les voitures se décompose entre le bruit en stationnement, le bruit au démarrage et le bruit au passage. Le bruit à l'intérieur des cabines de conduite est également pris en considération. 
+Le bruit en stationnement est fortement influencé par les auxiliaires, comme les systèmes de refroidissement ou de conditionnement d'air, et les compresseurs. 
+Le bruit au démarrage est une combinaison des contributions des composants de traction comme les moteurs diesel et les ventilateurs de refroidissement, les auxiliaires, et parfois le patinage des roues. 
+Le bruit au passage est fortement influencé par le bruit de roulement, associé à l'interaction roue-rail, qui est fonction de la vitesse du véhicule. 
+Le bruit de roulement est lui-même engendré par les effets combinés de la rugosité roue-rail et de la réponse (comportement) dynamique de la voie et des essieux. 
+Aux vitesses plus basses, le bruit des auxiliaires et des équipements de traction est aussi significatif. 
+Le niveau de bruit émis est caractérisé par: 
+- le niveau de pression acoustique selon une méthode de mesurage définie, 
+- la position du microphone, 
+- la vitesse du wagon, 
+- la rugosité du rail, 
+- le comportement dynamique et le rayonnement de la voie. 
+L'ensemble des paramètres pour la caractérisation du bruit en stationnement comprend: 
+- le niveau de pression acoustique, selon une méthode de mesurage définie et la position du microphone, 
+- les conditions d'exploitation. 
+Les trains automoteurs sont des rames bloc, avec une motorisation répartie ou avec une ou plusieurs motrices ou voitures motorisées. Les trains automoteurs électriques ont pour abréviation "EAE", et les trains automoteurs diesels, "EAD". Dans cette STI, le terme "diesel" ou "moteur diesel" comprend tous les types de moteurs thermiques utilisés pour la traction. Les trains constitués de deux locomotives et de voitures ne peuvent être considérés comme des trains automoteurs si les locomotives peuvent être exploitées dans des compositions de trains différentes. 
+4.2.2.2. Limites de bruit en stationnement 
+Les limites de bruit en stationnement sont définies à une distance de 7,5 m de l'axe de la voie, à la hauteur de 1,2 m au-dessus de la surface supérieure du rail. Les conditions de mesurage sont définies par le projet de norme EN ISO 3095:2001 avec les modifications spécifiées dans l'annexe A. L'indicateur de niveau de pression acoustique est LpAeq, T. Les valeurs limites pour les émissions de bruit des véhicules répondant aux conditions mentionnées ci-dessus sont énoncées dans le tableau 3. 
+Tableau 3 
+Valeurs limites de LpAeq, T pour le bruit en stationnement de locomotives électriques, locomotives diesels, EAE, EAD et voitures de voyageurs 
+Véhicules | LpAeq, T | 
+Locomotives électriques | 75 | 
+Locomotives diesels | 75 | 
+EAE | 68 | 
+EAD | 73 | 
+Voitures de voyageurs | 65 | 
+Le niveau de pression acoustique spécifié pour le bruit en stationnement est la moyenne énergétique de toutes les valeurs mesurées à tous les points de mesure définis dans l'annexe A.1.1 de cette STI. 
+4.2.2.3. Limites de bruit au démarrage 
+Les limites de bruit au démarrage sont définies à la distance de 7,5 m de l'axe de la voie, à une hauteur de 1,2 m au-dessus de la surface supérieure des rails. Les conditions de mesure sont définies par le projet de norme EN ISO 3095:2001 avec les modifications spécifiées dans l'annexe A.1.2. L'indicateur de niveau de pression acoustique est LpAFmax. Les valeurs limites pour le bruit au démarrage des véhicules, dans les conditions mentionnées ci-dessus, sont données dans le tableau 4. 
+Tableau 4 
+Valeurs limites de LpAFmax pour le bruit au démarrage de locomotives électriques, locomotives diesels, EAE, EAD 
+Véhicule | LpAFmax | 
+Locomotives électriques P %lt% 4500 kW à la jante | 82 | 
+Locomotives électriques P %gt%/= 4500 kW à la jante | 85 | 
+Locomotives diesels P %lt% 2000 kW au timon | 86 | 
+Locomotives diesels P %gt%/= 2000 kW au timon | 89 | 
+EAE | 82 | 
+EAD P %lt% 500 kW/moteur | 83 | 
+EAD P %gt%/= 500 kW/moteur | 85 | 
+4.2.2.4. Limites de bruit au passage 
+Les limites de bruit au passage sont définies à une distance de 7,5 m de l'axe de la voie de référence à une hauteur de 1,2 m au-dessus de la surface supérieure des rails d'un véhicule à une vitesse de 80 km/h. L'indicateur du niveau de pression acoustique continu équivalent pondéré A est LpAeq, Tp. 
+Ces mesurages doivent s'effectuer conformément au projet de norme EN ISO 3095:2001 avec les modifications définies dans les annexes A.1.3 et A.1.4. La voie de référence est communiquée de façon non discriminatoire. 
+Le bruit au passage d'un train est mesuré à 80 km/h et à vitesse maximale, cependant inférieure à 190 km/h. Les autres vitesses mentionnées dans le projet de norme EN ISO 3095:2001 ne sont pas prises en compte. La valeur à comparer aux limites (voir tableau 5) est la valeur maximale mesurée à 80 km/h et la valeur mesurée à vitesse maximale, normée à la vitesse de 80 km/h selon l'équation: 
+LpAeq, Tp(80 km/h) = LpAeq, Tp(v)-30*log (v/80 km/h). 
+Les valeurs limites d'émission de bruit pour les locomotives électriques ou diesels, les EAE, EAD et les voitures de voyageurs aux conditions mentionnées ci-dessus sont données dans le tableau 5. 
+Tableau 5 
+Valeurs limites de LpAeq, Tp pour le bruit au passage de locomotives électriques, locomotives diesel, EAE, EAD et voitures de voyageurs 
+Véhicule | LpAeq, Tp @ 7,5 m | 
+Locomotives électriques | 85 | 
+Locomotives diesels | 85 | 
+EAE | 81 | 
+EAD | 82 | 
+Voitures de voyageurs | 80 | 
+4.2.3. Bruit à l'intérieur des locomotives, des trains automoteurs et des voitures à cabine de réversibilité 
+Le niveau de bruit à l'intérieur des voitures de voyageurs n'est pas considéré comme étant un paramètre fondamental. Cependant le niveau de bruit à l'intérieur de la cabine de conduite est un sujet important. Les niveaux de bruit à l'intérieur des cabines de conduite doivent être maintenus aussi bas que possible, en limitant le bruit à la source et par des mesures complémentaires appropriées (isolation acoustique, absorption sonore). Les valeurs limites sont définies dans le tableau 6. 
+Tableau 6 
+Valeurs limites de LpAeq, T pour le bruit à l'intérieur de la cabine de conduite de locomotives électriques, locomotives diesels, EAE, EAD et voitures à cabine de réversibilité 
+Bruit à l'intérieur des cabines de conduite | LpAeq, T | Intervalle du temps de mesurage T | 
+À l'arrêt (pendant un signal sonore externe avec pression acoustique maximale de l'avertisseur, toutefois inférieure à 125 dB(A) à une distance de 5 m à l'avant du véhicule et à une hauteur de 1,6 m au-dessus du champignon) | 95 | 3 s | 
+Vitesse maximale, applicable à des vitesses inférieures à 190 km/h (en champ libre sans signaux sonores interne et externe) | 78 | 1 min | 
+Les mesurages doivent être réalisés dans les conditions suivantes: 
+- les portes et fenêtres doivent être fermées, 
+- les charges remorquées doivent êtres au moins égales aux deux tiers de la valeur maximale admissible. 
+Pour les mesurages à vitesse maximale, le microphone doit être positionné au niveau de l'oreille du mécanicien (en position assise), au centre d'un plan horizontal qui s'étend de la vitre des baies frontales jusqu'à la cloison arrière de la cabine de conduite. 
+Pour les mesurages de l'effet de l'avertisseur sonore, un réseau de 8 points de mesure microphonique autour de la position de la tête du mécanicien avec un rayon de 25 cm (en position assise) doit être utilisé, dans un plan horizontal. La moyenne arithmétique des 8 valeurs doit être comparée à la valeur limite. 
+Ce tableau s'applique aux cabines de conduite. Dans tous les cas, la directive 2003/10/CE du Parlement européen et du Conseil du 6 février 2003 concernant les prescriptions minimales de sécurité et de santé relatives à l'exposition des travailleurs aux risques engendrés par des agents physiques (bruit) doivent être appliqués par les entreprises ferroviaires et leur personnel, mais le respect de la directive 2003/10/CE ne concerne pas la vérification "CE" du matériel roulant avec cabine(s) de conduite. 
+4.3. Spécifications fonctionnelles et techniques des interfaces 
+4.3.1. Sous-système "matériel roulant" pour le réseau conventionnel 
+Dans cette STI, les limites de bruit émis par les wagons de fret doivent être considérées comme un paramètre de conception dans le chapitre 4.2.4 ("Freinage") et comme un résultat de l'approbation du sous-système dans le chapitre 6.2 ("Sous-système "wagons de fret" pour le réseau conventionnel") de la STI "matériel roulant rail conventionnel". 
+4.3.2. Sous-systèmes "locomotives, trains automoteurs et voitures" 
+Ces STI n'existent pas actuellement. La conception des locomotives, des trains automoteurs et des voitures, du point de vue de leur émission sonore, doit être conforme aux limites du chapitre 4 ("Caractérisation du sous-système") de ces STI. 
+4.4. Règles d'exploitation 
+À la lumière des exigences essentielles du chapitre 3, il n'y a pas de règles d'exploitation spécifiques du sous-système "matériel roulant" relatives au bruit émis par le matériel roulant. 
+4.5. Règles de maintenance 
+- Paramètres de contact roue-rail (profil des roues). 
+- Défauts des roues (plats, ovalisations). 
+Voir le dossier de maintenance, qui est spécifié au point 4.2.8 de la STI "matériel roulant rail conventionnel". 
+4.6. Qualifications professionnelles 
+Il n'y a pas d'exigence supplémentaire aux réglementations européennes et nationales existantes compatibles avec la réglementation européenne sur les qualifications professionnelles. 
+4.7. Conditions d'hygiène et de sécurité 
+Les niveaux d'exposition minimale déclenchant une action, imposés dans l'article 3 de la directive 2003/10/CE (dix-septième directive particulière au sens de l'article 16, paragraphe 1, de la directive 89/391/CEE) sont respectés avec les limites actuelles de bruit intérieur en cabine de conduite: 
+- au regard des "valeurs pics", 
+- et, en général, au regard des valeurs moyennes, pour les conditions d'exploitation normales. 
+4.8. Registres infrastructures et matériel roulant 
+4.8.1. Registre des infrastructures 
+Non applicable pour cette STI. 
+4.8.2. Registre du matériel roulant 
+Pour ce qui concerne le volet bruit émis par le matériel roulant du sous-système "matériel roulant", les informations suivantes doivent être rapportées dans le registre du matériel roulant: 
+- bruit au passage (paramètres fondamentaux 4.2.1.1 et 4.2.2.4), 
+- bruit en stationnement (paramètres fondamentaux 4.2.1.2 et 4.2.2.2), 
+- bruit au démarrage (paramètre fondamental 4.2.2.3), 
+- bruit à l'intérieur de la cabine de conduite. 
+5. Constituants d'interopérabilité 
+5.1. Définition 
+Conformément à l'article 2, point d), de la directive 2001/16/CE, les constituants d'interopérabilité sont "tout composant élémentaire, groupe de composants, sous-ensemble ou ensemble complet de matériel incorporés ou destinés à être incorporés dans un sous-système, dont dépend directement ou indirectement l'interopérabilité du système ferroviaire transeuropéen conventionnel. La notion de "constituant" recouvre des objets matériels mais aussi immatériels comme les logiciels". 
+Il n'y a pas de constituants d'interopérabilité dans cette STI. 
+6. Évaluation de la conformité et/ou de l'aptitude à l'emploi des constituants et vérifications du sous-système 
+6.1. Constituants d'interopérabilité 
+Non applicable. 
+6.2. Sous-système "matériel roulant" 
+6.2.1. Procédures d'évaluation 
+À la demande de l'entité adjudicatrice ou de son mandataire dans la Communauté, l'organisme notifié met en œuvre la procédure de vérification "CE" conformément à l'annexe VI de la directive 2001/16/CE. 
+L'entité adjudicatrice doit rédiger la déclaration "CE" de vérification du sous-système "matériel roulant" incluant les aspects liés au bruit conformément à l'article 18, paragraphe 1, et à l'annexe V de la directive 2001/16/CE. 
+6.2.2. Modules 
+Pour la procédure de vérification des exigences sur le bruit spécifiées au chapitre 4, l'entité adjudicatrice ou son mandataire dans la Communauté peut choisir les modules suivants: 
+- - soit la procédure de management de la qualité en production (module SD), 
+- soit la procédure de vérification sur produits (module SF), 
+- soit la procédure de management complet de la qualité avec examen de la conception (module SH2). 
+Ces modules sont décrits dans l'annexe B de cette STI. 
+L'évaluation de la conformité avec les exigences sur le bruit des wagons de fret peut être mise en œuvre en même temps que les procédures de vérification des autres exigences pour les wagons de fret, qui sont spécifiées dans la STI "matériel roulant rail conventionnel". 
+Le module SD peut être choisi quand l'entité adjudicatrice (ou les maîtres d'œuvre, s'ils sont impliqués) met(tent) en œuvre un système de management de la qualité pour la conception, la fabrication, le contrôle final des produits et les essais, approuvé et surveillé par un organisme notifié de son (leur) choix. 
+Le module SH2 peut être choisi quand l'entité adjudicatrice (ou les maîtres d'œuvre, s'ils sont impliqués) met(tent) en œuvre un système de management de la qualité pour la fabrication, le contrôle final des produits et les essais, approuvé et surveillé par un organisme notifié de son (leur) choix. 
+Les éléments complémentaires suivants doivent être pris en considération dans l'utilisation de ces modules: 
+- phase de conception: pour le module SB, en référence au chapitre 4.3 du module, un rapport de conception est requis, 
+- phase de production: l'application des modules SD, SF et SH2 pour la phase de production permet d'évaluer la conformité des véhicules du type approuvé, tels que décrits dans le certificat d'examen du type. Leur application doit notamment démontrer que la fabrication et l'assemblage sont réalisés avec les mêmes composants et les mêmes solutions techniques que le type approuvé. 
+6.2.3. Aspects liés au bruit du sous-système "matériel roulant" 
+Pour le sous-système "matériel roulant", sous l'aspect du bruit émis par les wagons de fret, les locomotives, les éléments moteurs et les voitures, la vérification est fondée sur ce chapitre. 
+Procédures de vérification "CE": annexe A de la présente STI 
+Liste des spécifications, description des procédures d'essai: 
+- A.1. Conditions de mesurages, modifications par rapport au projet de norme EN ISO 3095:2001 
+- A.1.1. Bruit en stationnement 
+- A.1.2. Bruit au démarrage 
+- A.1.3. Bruit au passage 
+- A.1.4. Voie de référence pour le bruit au passage 
+7. Mise en œuvre 
+7.1. Mise en œuvre 
+La mise en œuvre des STI doit tenir compte de la migration générale du réseau ferroviaire conventionnel vers une interopérabilité totale. 
+Afin de soutenir cette migration, les STI prévoient une application par étapes et graduelle ainsi qu'une mise en œuvre coordonnée avec d'autres STI. 
+7.2. Révision des STI 
+Conformément à l'article 6, paragraphe 3, de la directive 2001/16/CE, telle que modifiée par la directive 2004/50/CE, l'Agence sera chargée de préparer la révision et la mise à jour des STI et de faire toute recommandation utile au comité visé à l'article 21 de cette directive afin de tenir compte de l'évolution des techniques ou des exigences sociales. En outre, l'adoption graduelle et la révision d'autres STI pourront également avoir une influence sur cette STI. Les modifications proposées à cette STI seront soumises à une révision minutieuse et les STI mises à jour seront publiées environ tous les trois ans. 
+Dans tous les cas, la CE fournira au comité visé à l'article 21, au plus tard sept ans après la date d'entrée en vigueur de la présente STI, un rapport et, au besoin, une proposition de révision de cette STI portant sur les éléments suivants: 
+1) l'évaluation de la mise en œuvre de la STI, notamment des coûts et des bénéfices; 
+2) l'utilisation d'une courbe continue des valeurs limites de LpAeq, Tp pour le bruit au passage des wagons de fret comme une fonction d'APL (essieux par unité de longueur), à condition qu'elle ne limite pas l'innovation technique, en particulier pour les rames de wagons; 
+3) la seconde étape des limites de bruit au passage pour les wagons, locomotives, éléments automoteurs et voitures (voir le point 7.2), conformément aux résultats des campagnes de mesurage précis de bruit, en tenant particulièrement compte des progrès techniques et des technologies disponibles en matière de voies et de matériel roulant et des analyses coûts/bénéfices; 
+4) éventuellement, un deuxième palier pour les limites de bruit au démarrage des locomotives diesels et des éléments automoteurs; 
+5) l'inclusion de l'infrastructure dans le domaine d'application de la STI "bruit", conjointement à la STI "infrastructure"; 
+6) l'inclusion dans la STI d'un programme de suivi des défauts des roues. Les défauts des roues ont un impact sur l'émission de bruit. 
+7.3. Approche en deux étapes 
+Si du nouveau matériel roulant devait être commandé dix ans après l'entrée en vigueur de cette STI ou mis en service douze ans après l'entrée en vigueur de cette STI, les points 4.2.1.1 et 4.2.2.4 de cette STI s'appliqueraient avec une réduction de 5 dB(A), excepté pour les EAD et EAE. Pour ces derniers, la réduction serait de 2 dB(A). Cette recommandation servira uniquement comme base pour la révision des points 4.2.1.1 et 4.2.2.4 dans le contexte du processus de révision de la STI mentionné au point 7.2. 
+7.4. Modification du programme de réduction du bruit 
+Au vu de la grande longévité des véhicules ferroviaires, il est également nécessaire de prendre des mesures pour le parc existant de matériel roulant, avec priorité pour les wagons de fret, afin de favoriser une réduction notable du niveau de bruit perçu dans un délai raisonnable. La Commission prendra des initiatives afin de discuter d'options de modifications des wagons de fret avec les principales parties prenantes afin de parvenir à un accord général avec l'industrie. 
+7.5. Application de la STI à un matériel roulant neuf 
+Les spécifications définies dans cette STI s'appliquent à tout matériel neuf du domaine d'application de cette STI. 
+Dans le cas de wagons neufs, la STI "matériel roulant" pour le réseau conventionnel doit également être pleinement appliquée. 
+7.5.1. Période transitoire pour le bruit extérieur 
+L'application de limites de 2 dB(A) supérieures à celles énoncées dans le chapitre 4 et le chapitre 7 de cette STI pour le bruit extérieur de locomotives électriques, locomotives diesels, EAE, EAD et voitures de passagers est tolérée pendant une période transitoire de vingt-quatre mois à partir de la date d'entrée en vigueur de cette STI. Cette tolérance est limitée aux: 
+- contrats déjà signés ou au dernier stade de la procédure d'appel d'offres à la date d'entrée en vigueur de cette STI et options de ces contrats pour la fourniture d'autres véhicules, ou 
+- contrats de fourniture de matériels roulants neufs d'une conception existante, signés pendant cette période transitoire. 
+7.5.2. Bruit au démarrage 
+Pour les EAD déjà mis en service et dont la puissance est supérieure à 500 kW par moteur, les limites de bruit au démarrage peuvent être augmentées de 2 dB(A) pour une période transitoire de cinq ans à compter de la date d'entrée en vigueur de la présente STI. Cette tolérance ne s'ajoute pas aux 2 dB(A) du point 7.5.1. 
+7.5.3. Bruit dans la cabine de conduite 
+Pour le bruit à l'arrêt à l'intérieur des cabines de conduite de conceptions nouvelles et existantes, il est permis, durant une utilisation de l'avertisseur sonore extérieur, d'appliquer une valeur de 2 dB(A) supérieure à la limite, pour les trois premières années à compter de la date d'entrée en vigueur de la présente STI. Cela concerne les cas suivants: 
+- contrats déjà signés ou au dernier stade de la procédure d'appel d'offres à la date d'entrée en vigueur de cette STI et options de ces contrats pour la fourniture d'autres véhicules, ou 
+- contrats de fourniture de matériels roulants neufs de conceptions nouvelles et existantes, signés pendant cette période transitoire. 
+7.5.4. Exceptions pour les accords nationaux, bilatéraux, multilatéraux ou multinationaux 
+7.5.4.1. Accords existants 
+Lorsque des accords contiennent des exigences en matière de bruit, les États membres notifient à la Commission, dans les six mois suivant l'entrée en vigueur de cette STI, les accords suivants, qui régissent l'utilisation des wagons de fret, locomotives, EAD, EAE et voitures du domaine d'application de cette STI: 
+a) accords nationaux, bilatéraux ou multilatéraux entre États membres et entreprises ferroviaires ou gestionnaires d'infrastructures, conclus sur une base permanente ou temporaire et nécessités par la nature très particulière ou locale des services de transport prévus; 
+b) accords bilatéraux ou multilatéraux entre entreprises ferroviaires, gestionnaires d'infrastructures ou autorités de sécurité fournissant des niveaux significatifs d'interopérabilité locale ou régionale; 
+c) accords internationaux entre un ou plusieurs États membres et au moins un pays tiers ou entre des entreprises ferroviaires ou gestionnaires d'infrastructures d'États membres et au moins une entreprise ferroviaire ou un gestionnaire d'infrastructures d'un pays tiers fournissant des niveaux significatifs d'interopérabilité locale ou régionale. 
+La compatibilité de ces accords, notamment leur caractère non discriminatoire, avec la législation de l'Union européenne et, en particulier, cette STI, sera évaluée et la Commission prendra les mesures nécessaires, telles que, par exemple, la révision de cette STI, pour inclure des cas particuliers possibles ou des mesures transitoires. 
+Ces accords restent applicables jusqu'à ce que les mesures requises soient prises, notamment la conclusion d'accords au niveau communautaire relativement à la présente STI avec la Fédération de Russie et tous les autres pays de la CEI ayant une frontière commune avec l'Union européenne. 
+L'accord de la RIV et les instruments de la COTIF ne seront pas notifiés car ils sont connus. 
+7.5.4.2. Accords futurs ou modification d'accords existants 
+Tout accord futur ou modification d'accords existants tiendra compte de la législation de l'Union européenne et, en particulier, de cette STI. Les États membres notifieront ces accords/modifications à la Commission. La procédure du point 7.5.4.1 s'applique alors. 
+7.6. Application de cette STI au matériel roulant existant 
+7.6.1. Renouvellement ou réaménagement de wagons pour le fret existants 
+En cas de renouvellement ou de réaménagement d'un wagon pour le fret, l'État membre, conformément à l'article 14, paragraphe 3, de la directive 2001/16/CE telle que modifiée par la directive 2004/50/CE, décide de la nécessité d'une nouvelle autorisation de mise en service. Si la performance du système de freinage de ce wagon est modifiée en raison du renouvellement ou du réaménagement et si une nouvelle autorisation de mise en service est requise, le niveau de bruit au passage de ce wagon doit satisfaire le niveau pertinent, indiqué dans le tableau 1 du chapitre 4.2.1.1. Si, au cours d'un renouvellement ou d'un réaménagement, un wagon est équipé de semelles en matériau composite sans ajouter de sources de bruit supplémentaires, il est supposé, sans essais, que les valeurs spécifiées au point 4.2.1.1 sont satisfaites. 
+Un réaménagement exclusivement pour une réduction des émissions de bruit n'est jamais obligatoire, mais si le réaménagement s'effectue pour une autre raison, il doit être démontré que le renouvellement ou le réaménagement n'augmente pas le bruit au passage par rapport aux performances du véhicule avant renouvellement ou réaménagement. 
+Pour le bruit en stationnement, il doit être démontré que la modification n'augmente pas le bruit par rapport aux performances du véhicule avant renouvellement ou réaménagement. 
+En revanche, si l'adjonction d'une source de bruit est associée au renouvellement ou réaménagement du wagon pour le fret, celui-ci doit alors respecter les limites du chapitre 4.2.1.2 ("Bruit en stationnement"). 
+Un réaménagement ou un renouvellement de wagons de fret, nécessitant une nouvelle autorisation de mise en service au sens de l'article 14, paragraphe 3, de la directive 2001/16/CE, devra répondre aux exigences de la STI "matériel roulant" pour le réseau conventionnel, conformément aux dispositions du chapitre 7.3 de cette STI. 
+7.6.2. Renouvellement ou réaménagement de locomotives, éléments automoteurs et voitures 
+Il doit uniquement être démontré que le renouvellement ou le réaménagement d'un véhicule n'augmente pas le bruit par rapport aux performances du véhicule avant renouvellement ou réaménagement. 
+7.7. Cas spécifiques 
+7.7.1. Introduction 
+Les dispositions particulières suivantes sont autorisées dans les cas spécifiques ci-dessous. 
+Ces cas spécifiques se répartissent en deux catégories: les dispositions s'appliquent soit de manière permanente (cas "P"), soit de manière temporaire (cas "T"). Pour certains cas temporaires, il est recommandé aux États membres concernés de se conformer au sous-système pertinent soit d'ici à 2010 (cas "T1"), objectif inscrit dans la décision n° 1692/96/CE du Parlement européen et du Conseil du 23 juillet 1996 sur les orientations communautaires pour le développement du réseau transeuropéen de transport, soit d'ici à 2020 (cas "T2"). 
+7.7.2. Liste des cas spécifiques 
+7.7.2.1. Limites pour le bruit en stationnement, "strictement pour une utilisation limitée au réseau du Royaume-Uni et de l'Irlande" 
+Catégorie "P" — permanente 
+Tableau 7 
+Valeurs limites de LpAeq, T pour le bruit en stationnement de EAD 
+Véhicules | LpAeq, T | 
+EAD | 77 | 
+7.7.2.2. Finlande 
+Catégorie "T" — temporaire 
+Sur le territoire de la Finlande, les limites pour le bruit en stationnement au chapitre 4.2.1.2 ne doivent pas être appliquées aux wagons équipés d'un générateur diesel intégré pour l'alimentation électrique de plus de 100 kW, quand celui-ci est en fonctionnement. Dans ce cas, la limite de bruit en stationnement peut être augmentée de 7 dB(A) en raison de la température pouvant descendre jusqu'à - 40o C, ainsi que des conditions de gel et de neige. 
+7.7.2.3. Limites pour le bruit au démarrage, "strictement pour une utilisation limitée au réseau du Royaume-Uni et de l'Irlande" 
+Catégorie "P" — permanente 
+Tableau 8 
+Valeurs limites de LpAFmax pour le bruit au démarrage de locomotives électriques, locomotives diesels, EAD 
+Véhicule | LpAFmax | 
+Locomotives électriques inférieures à 4500 kW à la jante | 84 | 
+Locomotives diesels inférieures à 2000 kW au timon | 89 | 
+EAD P %lt% 500 kW/moteur | 85 | 
+7.7.2.4. Limites pour le bruit au passage de wagons de fret, en Finlande, Norvège, Estonie, Lettonie et Lituanie 
+Catégorie "T1" — temporaire 
+Les limites d'émissions de bruit pour les wagons de fret ne sont pas valables en Finlande, Norvège, Estonie, Lettonie et Lituanie. Les raisons en sont les conditions de sécurité sous conditions hivernales nordiques. Ce cas spécifique est valide, jusqu'à ce que la spécification fonctionnelle et la méthode d'évaluation pour les semelles de freins en matériau composite soient incorporées dans la version révisée de la STI "matériel roulant rail conventionnel". 
+Cela n'exclut pas l'exploitation des wagons de fret des autres États membres dans les pays nordiques et baltes. 
+7.7.2.5. Cas spécifique de la Grèce 
+Catégorie "T1" — temporaire: matériel roulant pour gabarit inférieur ou égal à 1000 mm 
+Les règles nationales s'appliquent au gabarit isolé existant de 1000 mm, qui ne s'inscrit pas dans le domaine d'application de la présente STI. 
+7.7.2.6. Cas spécifique de l'Estonie, de la Lettonie et de la Lituanie 
+Catégorie "T1" — temporaire 
+Les limites d'émissions de bruit pour tout le matériel roulant (locomotives, voitures, EAD et EAE) ne s'appliquent pas à l'Estonie, à la Lettonie ni à la Lituanie tant que la présente STI n'est pas révisée. Dans l'intervalle, des campagnes de mesurage seront effectuées dans ces pays; la révision de la présente STI tiendra compte des résultats de ces campagnes. 
+-------------------------------------------------- 
+ANNEXE A 
+CONDITIONS DE MESURAGE 
+A.1. MODIFICATIONS DU PROJET DE NORME EN ISO 3095:2001 
+A.1.1. Bruit en stationnement 
+Le mesurage du bruit en stationnement doit s'effectuer conformément au projet de norme EN ISO 3095:2001 avec les modifications suivantes (voir tableau A1). 
+L'exploitation normale est définie par les performances à une température extérieure de 20° C. Les paramètres de conception pour forcer l'exploitation afin de simuler les conditions de 20° C doivent être fournis par le fabricant. 
+Tableau A1 
+Bruit en stationnement, modifications du projet de norme EN ISO 3095:2001 
+Paragraphe (pr EN ISO 3095:2001) | Objet | Modifications (indiquées en caractères gras italiques) | 
+6.2.3 | Emplacement des microphones, mesurages sur des véhicules en stationnement | Les mesurages doivent être réalisés conformément au projet de norme EN ISO 3095:2001, annexe A, figure A.1. | 
+6.3.1 | Conditions relatives au véhicule | L'encrassement des grilles, des filtres et des ventilateurs doit être éliminé avant les mesurages. | 
+7.5.1 | Généralités | Le temps de mesurage est de 60 s. | 
+7.5.2 | Voitures, wagons et engins moteurs électriques | Tous les équipements qui peuvent fonctionner lorsque le véhicule est en stationnement, y compris, le cas échéant, l'équipement de traction principal, à l'exception du compresseur d'air de freinage, doivent être en fonctionnement. Les équipements auxiliaires doivent fonctionner à charge normale. | 
+7.5.3.1 | Véhicules moteurs avec moteur à combustion interne | Moteur tournant à vide au ralenti, ventilateur à vitesse normale, auxiliaires à charge normale, compresseur d'air de freinage hors fonctionnement. | 
+7.5.3.2 | Véhicules moteurs avec moteur à combustion interne | Cette clause n'est pas pertinente pour les locomotives diesels et les EAD. | 
+7.5.1 | Mesurages sur des véhicules en stationnement, généralités | Le niveau de pression acoustique du bruit en stationnement est la moyenne énergétique de toutes les valeurs mesurées conformément au projet de norme EN ISO 3095:2001, annexe A, figure A. | 
+A.1.2. Bruit au démarrage 
+Le mesurage du bruit au démarrage doit s'effectuer conformément au projet de norme EN ISO 3095:2001 avec les modifications suivantes (voir tableau A2). 
+L'exploitation normale est définie par les performances à une température extérieure de 20° C. Les paramètres de conception pour forcer l'exploitation afin de simuler les conditions de 20° C doivent être fournis par le fabricant. 
+Tableau A2 
+Bruit au démarrage, modifications du projet de norme EN ISO 3095:2001 
+Paragraphe (pr EN ISO 3095:2001) | Objet | Modifications (indiquées en caractères gras italiques) | 
+6.1.2. | Conditions météorologiques | Les mesurages sur des véhicules en accélération doivent être réalisées seulement si le rail est sec. | 
+6.3.1. | Conditions relatives au véhicule | L'encrassement des grilles, des filtres et des ventilateurs doit être éliminé avant les mesurages. | 
+6.3.3. | Portes, fenêtres, équipements auxiliaires | Les essais sur les trains en accélération doivent être réalisés avec tout l'équipement auxiliaire en fonctionnement à charge normale. Le son émis par des compresseurs d'air de freinage ne doit pas être pris en compte. | 
+7.3.1. | Généralités | Les essais doivent être réalisés avec un effort de traction maximal, sans patinage. Si le train en essai n'a pas de composition fixe, la charge à utiliser doit avoir été définie. Elle sera représentative des conditions normales d'utilisation. | 
+7.3.2. | Trains tractés par un engin moteur unique | Les essais sur les trains en accélération doivent être réalisés avec tout l'équipement auxiliaire en fonctionnement à charge normale. Le son émis par le compresseur d'air de freinage ne doit pas être pris en compte. | 
+A.1.3. Bruit au passage 
+Paragraphe (pr EN ISO 3095:2001) | Objet | Modifications (indiquées en caractères gras italiques) | 
+6.2. | Emplacement des microphones | Il ne doit pas y avoir de voie entre la voie de circulation et le microphone. | 
+6.3.1. | Conditions relatives au véhicule | L'encrassement des grilles, des filtres et des ventilateurs doit être éliminé avant les mesurages. | 
+7.2.3. | Procédure d'essai | Un tachymètre doit être utilisé pour que le mesurage de la vitesse au passage soit suffisamment précis; une vitesse du train ne s'inscrivant pas dans une plage de ± 3 % de la vitesse d'essai indiquée doit être correctement identifiée comme étant hors tolérance et par conséquent refusée. Un minimum d'effort de traction pour maintenir une vitesse constante doit être maintenu au moins 60 s avant et pendant le mesurage au passage. | 
+A.1.4. Voie de référence pour le bruit au passage 
+Les spécifications de la voie de référence ont été étudiées pour permettre l'évaluation du matériel roulant par rapport aux limites de bruit au passage. Ce point ne spécifie ni la conception, ni la maintenance, ni les conditions d'exploitation de voies "normales", qui ne sont pas des voies de "référence". 
+L'approbation de la voie de référence doit être faite conformément au projet de norme EN ISO 3095:2001 avec les modifications suivantes. 
+- La rugosité du rail doit être inférieure au spectre limite défini à la figure F1. Cette courbe limite remplace la spécification du projet de norme EN ISO 3095:2001, paragraphe 6.4.2 (figure 4), annexe C "Procédure de détermination du spectre limite de la rugosité du rail". L'annexe D "Spécifications des mesurages de la rugosité du rail" n'est applicable, pour ses paragraphes D.1.2 ("Méthode d'acquisition directe") et D.2.1 ("Traitement des données de rugosité — Mesurages directs"), qu'avec les modifications suivantes et le paragraphe D4 ("Présentation des données"): 
+Paragraphe (pr EN ISO 3095:2001) | Objet | Modifications (indiquées en caractères gras italiques) | 
+D.1.2.2. | Mesurage direct de la rugosité | La largeur de bande de la longueur d'onde doit être d'au moins [0,003; 0,10] mètre. Le nombre de traces utilisé pour caractériser la rugosité sera choisi en fonction de la surface de roulement réelle. Il convient que le nombre de traces soit en cohérence avec: le point de contact réel, etla largeur réelle de la surface de roulement ("bande de roulement"), de sorte que seules les traces qui s'inscrivent dans la largeur réelle de la surface de roulement soient prises en compte pour le calcul de la moyenne de rugosité globale.En l'absence de justification de ces deux paramètres, le paragraphe D.1.2.2 du projet de norme EN ISO 3095:2001 est applicable. | 
+D.2.1. | Mesurage direct | Les spectres de rugosité de longueur d'onde en tiers d'octave doivent être traités à partir de la moyenne quadratique de chaque spectre des sections élémentaires des voies de référence. | 
+Il a été montré que ces méthodes, utilisées dans le projet Noemie, ont produit des résultats homogènes dans le cas de voies satisfaisant aux limites proposées de rugosité des rails. Néanmoins, il est possible d'utiliser toute autre méthode directe, disponible et éprouvée, permettant d'obtenir des résultats comparables. 
+- Le comportement dynamique de la voie de référence (voie d'essai) doit être décrit par "les taux de décroissance de la voie (TDV)" dans les sens vertical et latéral, qui quantifient l'atténuation des vibrations du rail en fonction de la distance le long du rail. Le paragraphe A.2 présente la méthode de mesurage utilisée dans le projet Noemie. Celle-ci a démontré sa capacité à distinguer de manière appropriée les caractéristiques dynamiques de la voie. Il est également permis d'utiliser une méthode équivalente de mesurage pour la caractérisation des voies, si elle est disponible et éprouvée. Dans ce cas, il faut démontrer que les taux de décroissance de la voie d'essai dans les sens vertical et latéral, mesurés conformément à la fiche de spécification présentée au paragraphe A.2, sont équivalents à ceux du type de voie mentionné dans la présente STI. Le taux de décroissance de la voie doit être supérieur à la limite donnée à la figure A2. 
+- La voie de référence doit avoir une superstructure homogène sur une longueur d'au moins 100 m. Les mesures de taux de décroissance de la voie doivent correspondre à une distance de 40 m de chaque côté de l'emplacement du microphone. Le contrôle de la rugosité doit s'effectuer selon le projet de norme EN ISO 3095:2001. 
+Figure F1 
+Spectre limite de la rugosité du rail de la voie de référence 
++++++ TIFF +++++ 
+Niveau de rugosité de la bance en 1/3 d'octave, dbre 1µm20,017,115,015,013,0Rugosité du rail11,09,010,07,0STI+4,95,02,90,9-1,10,0-3,2-5,0-5,0-5,6-6,2-6,8-7,4-10,0-8,0-8,6-9,2-9,8-10,4-11,0-15,00,5000,4000,3150,2500,2000,1600,1250,1000,0800,0630,0500,0400,0320,0250,0200,0160,0130,0100,0080,0060,0050,0040,003Longueur d'onde, m 
+Figure F2 
+Spectre limite inférieur du taux de décroissance de la voie de référence dans les sens vertical et latéral 
++++++ TIFF +++++ 
+TDV (dB/M)1066332210,80,80,8STI+ TDV verticalSTI+ TDV latéral0,50,50,20,20,1801001251602002503154005006308001 0001 2501 6002 0002 5003 1504 0005 000Fréquence (Hz) 
+A.2. CARACTÉRISATION DES PERFORMANCES DYNAMIQUES DES VOIES DE RÉFÉRENCE 
+A.2.1. Procédure de mesurage 
+La méthode suivante doit être appliquée successivement dans les sens latéral et vertical, sur chaque site de voie à caractériser. 
+Deux accéléromètres sont fixés (collés ou boulonnés) sur le rail, à mi-distance entre deux traverses (voir la figure F3): 
+- l'un dans le sens vertical, le long de l'axe longitudinal du rail, placé sur le champignon (de préférence) ou sous le patin de rail, 
+- l'autre dans le sens transversal, placé sur la face externe du champignon. 
+Figure F3 
+Emplacement du capteur sur la section transversale du rail 
++++++ TIFF +++++ 
+Fvertical1Flatéral2Accéléromètre 
+Une impulsion de force mesurée est appliquée sur le champignon, dans chaque sens, au moyen d'un marteau instrumenté muni d'une tête de dureté appropriée, permettant un mesurage correct de la force et de la réponse dans la gamme de fréquence concernée [50; 6000 HZ]. (Une tête en acier trempé est requise pour la partie haute de la gamme de fréquence et celle-ci suffit en général, mais pas toujours, pour appliquer la force requise pour la partie basse de la gamme de fréquence. Il est donc admis qu'un mesurage supplémentaire soit nécessaire en utilisant une tête de dureté moindre.) 
+L'accélérance (de transfert) [fonction de réponse en fréquence (FRF) accélération/force] ou la mobilité (vitesse/force) est mesurée dans les sens vertical et latéral-transversal pour la force appliquée dans le même sens correspondant, en un ensemble de positions à diverses distances le long du rail (comme défini ci-dessous). Il n'est pas nécessaire de mesurer les termes croisés (force verticale par rapport à la réponse latérale ou vice versa). Lorsqu'une intégration analogique est disponible pour le mesurage accélérométrique, les valeurs obtenues se sont révélées de meilleure qualité si on enregistre la fonction de réponse en fréquence (FRF) de la mobilité, plutôt que l'accélérance. Cela donne une meilleure qualité des données à basse fréquence, où la réponse mesurée est infime en comparaison de la haute fréquence, car on réduit ainsi la plage dynamique des données avant l'enregistrement ou la numérisation. Il convient de relever une FRF moyenne d'au moins quatre impulsions valides. Il est recommandé de surveiller la qualité de chaque FRF mesurée (reproductibilité, linéarité, etc.) au moyen de la fonction de cohérence. Il convient également d'enregistrer les résultats obtenus. 
+Il convient d'appliquer les FRF de transfert au point de montage de l'accéléromètre, à partir de chacun des emplacements indiqués sur la figure F4. Les points de mesurage peuvent être divisés en différents ensembles: l'emplacement de mesurage ponctuel, l'ensemble "champ proche" et l'ensemble "champ lointain", définis comme suit: 
+- Le point de repère 0 est associé au point médian du premier logement de traverse. La FRF ponctuelle est mesurée lorsque l'impulsion est appliquée à cet endroit (dans la pratique, aussi près que possible de ce point). 
+- Les mesurages "en champ proche" sont réalisés en appliquant l'impulsion, en commençant par la FRF ponctuelle, à un intervalle d'un quart de traverse jusqu'à l'extrémité du logement de traverse 2, puis à un intervalle d'une demi-traverse jusqu'au milieu du logement de traverse 4, et enfin à chaque position à mi-traverse jusqu'au logement de traverse 8. 
+- Les mesurages "en champ lointain" utilisent des points d'impulsions à une distance du logement de traverse 8 de la position de l'accéléromètre à l'extérieur des positions intertraverses, avec les indices: 10, 12, 16, 20, 24, 30, 36, 42, 48, 54, 66, etc., tels qu'indiqués à la figure F4. Il n'est nécessaire d'effectuer les mesurages que jusqu'au point où la réponse à toutes les fréquences de la gamme devient dérisoire (par rapport au bruit mesuré). La fonction de cohérence sert d'orientation à cet effet. Dans l'idéal, il convient que le niveau de réponse dans chaque bande de tiers d'octave soit d'au moins 10 dB inférieur au niveau de la même bande au point de repère 0. 
+Figure F4 
+Taux de décroissance des voies — emplacement des points d'excitation 
++++++ TIFF +++++ 
+Impulsion du marteau sur la traverseImpulsion du marteau entre les traverses0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15Indice d'intertraversesPosition de l'accéléromètre15 16 20 24 30 36 42 48 54 66 67 68 (…)0 1 2 3 
+L'expérience a montré que la variabilité des résultats est telle qu'il convient de répéter l'ensemble des mesurages de décroissance en un autre emplacement d'accéléromètre sur le site de la voie. Une distance d'environ dix mètres entre les deux emplacements d'accéléromètre est suffisante. 
+Étant donné que les taux de décroissance sont fonction de la rigidité des semelles sous rail et qu'en général la température a une importance significative pour les matériaux des semelles sous rail, il convient que cette dernière soit enregistrée pendant le mesurage. 
+A.2.2. Système de mesurage 
+Il convient que chaque capteur et système d'acquisition dispose d'un certificat d'étalonnage, conformément à la norme EN ISO 17025 [1]. 
+Il est recommandé d'étalonner l'ensemble du système de mesurage avant et après chaque série de mesurages (et notamment en cas de modification du système de mesurage ou d'acquisition ou encore en cas de modification de la position de mesurage). 
+A.2.3. Traitement des données 
+La puissance acoustique totale rayonnée par un rail excité en vibration est le produit du rapport de rayonnement (rendement énergétique) du rail par le carré de l'amplitude de la vitesse additionné sur la surface rayonnante. Si les ondes verticales et latérales du rail sont censées décroître de manière exponentielle à partir du point d'excitation (contact de la roue) avec la distance le long du rail, alors A(z) ≅ A(0)e-ßz, où β est la constante de décroissance pour l'amplitude de la réponse, A, avec une distance z le long du rail à partir du point d'excitation. β peut être converti en un taux de décroissance exprimé en dB par mètre, Δ, en Δ = 20log10(e ß) = 8,686ß dB/m. 
++++++ TIFF +++++ 
+Si A correspond à la réponse en vitesse, la puissance acoustique émise par la voie est proportionnelle à ∫x0| A(z) |2 dz. Cette grandeur est tout simplement liée au taux de décroissance, tant pour les ondes verticales que latérales, par la fonction: 
++++++ TIFF +++++ 
+∫x0| A(z) |2 dz = | A(0) |2 ∫x0 e-2ß dz = | A(0) |2 1 2ß | (A2.1) | 
+Cela démontre la manière dont le taux de décroissance est lié aux performances d'émissions de bruit de la structure de la voie. Il convient d'exprimer cette valeur en dB/m pour chaque bande de fréquence en tiers d'octave. 
+En principe, le taux de décroissance peut être évalué comme la pente d'un tracé de la réponse en amplitude, exprimée en dB, sur la distance z. Il est cependant préférable, dans la pratique, d'évaluer un taux de décroissance donné sur la base d'une estimation directe de la somme des réponses: 
++++++ TIFF +++++ 
+∫x0| A(z) |2| A(0) |2 dz = 1 2ß ≃ Σz maxz=0 | A(z) |2| A(0) |2Δz | (A2.2) | 
+où zmax est la distance maximale de mesurage, la somme étant calculée pour les positions de mesurage de la réponse, et Δz étant l'intervalle entre les points à mi-distance des positions de mesurage des deux côtés. Il convient que l'effet de l'intervalle utilisé pour le mesurage à zmax soit insignifiant bien qu'il soit prescrit ici de le situer de manière symétrique autour de zmax. 
+Ainsi pour le calcul de la réponse moyenne de chaque bande de fréquence en tiers d'octave, le taux de décroissance est évalué comme étant: 
++++++ TIFF +++++ 
+Δ (in dB/m) ≃ 4.343Σz maxz=0| A(z) |2| A(0) |2Δz | (A2.3) | 
+Il ressort de cela que cette mesure est insignifiante si A représente la réponse en termes d'accélérance ou de mobilité étant donné que celles-ci ne diffèrent que par le facteur 2πf, f correspondant à la fréquence. La moyenne du spectre sur des bandes de fréquence en tiers d'octave peut être calculée avant l'évaluation du taux de décroissance pour les FRF ou après sur la fonction Δ(f). Il convient de souligner l'importance d'un mesurage précis de A(0) car il s'agit d'un facteur constant de la sommation. C'est en fait la FRF la plus facile à mesurer avec précision. L'expérience a montré qu'aucune erreur significative n'est introduite par le fait que les ondes en champ proche ne sont pas prises en compte dans cette analyse simple. 
+Cette méthode d'évaluation est excellente pour des taux de décroissance élevés, mais peut être empreinte d'erreurs si la réponse dans une bande de fréquence en tiers d'octave donnée est tronquée par la valeur pratique de zmax avant qu'une atténuation suffisante n'ait eu lieu pour la sommation à zmax de manière à représenter une approximation correcte de l'intégration à l'infini. Ainsi un taux de décroissance minimal, qui peut être évalué pour une valeur particulière de zmax, est donné par la fonction suivante: 
++++++ TIFF +++++ 
+Δmin = 4.343zmax | (A2.4) | 
+Il est recommandé de comparer le taux de décroissance évalué à cette valeur et, s'il en est proche, l'estimation du taux de décroissance est considérée peu sûre. Une valeur de zmax d'environ 40 m devrait permettre une évaluation du taux de décroissance de la voie conforme au minimum prescrit dans la figure F2. Cependant, certaines voies non conformes présentent des taux de décroissance bien plus faibles dans certaines bandes de fréquence et, afin d'éviter des efforts de mesurage abusifs, il peut être nécessaire de recourir à un lissage des courbes pour ces bandes. Dans le cas de taux de décroissance faibles, les données de réponse ont tendance à se libérer de certains des problèmes indiqués ci-dessus. Il convient de les vérifier par des courbes présentant la FRF mesurée en fonction de la distance, pour chaque bande de fréquence en tiers d'octave. 
+A.2.4. Compte rendu d'essai 
+Il convient de présenter le taux de décroissance spatial (dans les sens vertical et transversal) pour la largeur de bande de fréquence en tiers d'octave, sur un graphe selon la présentation spécifiée dans le projet de norme EN ISO 3740 [2] et la norme CEI 60263 [3], avec un rapport d'échelle de 3/4, entre les axes horizontal et vertical, respectivement pour une largeur de bande d'une octave et un taux de décroissance de 5 dB/m. 
+[1] EN ISO CEI 17025: "Prescriptions générales concernant la compétence des laboratoires d'étalonnage et d'essais", 2000. 
+[2] EN ISO 3740:2000: "Acoustique — Détermination des niveaux de puissance acoustique émis par les sources de bruit — Guide pour l'utilisation des normes de base". 
+[3] CEI 60263: "Échelles et dimensions des graphiques pour le tracé des courbes de réponse en fréquence et des diagrammes polaires". 
+-------------------------------------------------- 
+ANNEXE B 
+MODULES POUR LA VÉRIFICATION "CE" DE SOUS-SYSTÈMES — ASPECT "BRUIT" 
+MODULES POUR LA VÉRIFICATION "CE" DE SOUS-SYSTÈMES 
+Module SB: Examen de type. 
+Module SD: Système de management de la qualité de production. 
+Module SF: Vérification sur produits. 
+Module SH2: Système de management complet de la qualité avec examen de la conception. 
+B.1. Module SB: Examen de type 
+1. Ce module décrit la procédure de vérification "CE" par laquelle un organisme notifié vérifie et atteste, à la demande d'une entité adjudicatrice ou de son mandataire autorisé établi dans la Communauté, qu'un type d'aspect lié au bruit du sous-système "matériel roulant", représentatif de la production considérée: 
+- est conforme à cette STI et à toute autre STI applicable et répond aux exigences essentielles [1] de la directive 2001/16/CE [2], 
+- est conforme aux autres réglementations découlant du traité. 
+L'examen de type défini par le présent module pourrait couvrir des phases d'évaluation spécifiques — revue de conception, essai de type ou revue du processus de fabrication — spécifiées dans la STI correspondante. 
+2. L'entité adjudicatrice [3] doit introduire une demande de vérification "CE" (par le biais d'un examen de type) du sous-système auprès d'un organisme notifié de son choix. 
+Cette demande comprend: 
+- le nom et l'adresse de l'entité adjudicatrice ou de son mandataire, 
+- la documentation technique décrite au point 3. 
+3. Le demandeur met à la disposition de l'organisme notifié un échantillon du sous-système [4] représentatif de la production en question, ci-après dénommé "type". 
+Un type peut couvrir plusieurs versions du sous-système à la condition que les différences entre les versions ne mettent pas en cause les dispositions de la STI. 
+L'organisme notifié peut demander d'autres échantillons si le programme d'essai le requiert. 
+Si cela est requis pour les besoins de méthodes spécifiques d'essai ou d'examen et est spécifié dans la STI ou dans la spécification européenne [5] visée dans la STI, un (ou plusieurs) échantillon(s) d'un sous-ensemble ou d'un ensemble ou un échantillon du sous-système dans l'état préassemblé devra (devront) également être livré(s). 
+La documentation technique et le(s) échantillon(s) doivent permettre de comprendre la conception, la fabrication, l'installation, la maintenance et le fonctionnement du sous-système et d'évaluer la conformité avec les exigences de la STI. 
+La documentation technique doit contenir: 
+- une description générale du sous-système, de sa conception d'ensemble et de sa construction, 
+- le registre du "matériel roulant", y compris toutes les informations spécifiées dans la STI, 
+- les dessins de conception et de fabrication, par exemple les plans, schémas des composants, sous-ensembles, ensembles, circuits, etc., 
+- les descriptions et explications nécessaires à la compréhension desdits dessins et schémas, et de la maintenance et du fonctionnement du sous-ensemble, 
+- les spécifications techniques, y compris les spécifications européennes qui ont été appliquées, 
+- la preuve de leur adéquation, en particulier lorsque les spécifications européennes et les clauses correspondantes n'ont pas été pleinement appliquées, 
+- une liste des constituants d'interopérabilité à incorporer au sous-système, 
+- les copies des déclarations "CE" de conformité ou d'aptitude à l'emploi de ces constituants d'interopérabilité, accompagnées de tous les éléments nécessaires définis à l'annexe VI des directives, 
+- une preuve de conformité avec les autres réglementations découlant du traité (y compris les certificats), 
+- la documentation technique concernant la fabrication et l'assemblage du sous-système, 
+- la liste des fabricants intervenant dans la conception, la fabrication, l'assemblage et l'installation du sous-système, 
+- les conditions d'utilisation du sous-système (restrictions de durée ou de distance, limites d'usure, etc.), 
+- les conditions de maintenance et la documentation technique concernant la maintenance du sous-système, 
+- toute exigence technique devant être prise en compte pendant la fabrication, la maintenance ou l'exploitation du sous-système, 
+- les résultats des calculs de conception, contrôles effectués, etc., 
+- les rapports d'essais. 
+Si la STI exige que la documentation technique comporte d'autres informations, celles-ci doivent être incluses. 
+4. L'organisme notifié effectue les tâches suivantes: 
+4.1. Il examine la documentation technique. 
+4.2. Il vérifie que le (ou les) spécimen(s) du sous-système ou des ensembles ou sous-ensembles du sous-système a (ont) été fabriqué(s) conformément à la documentation technique et il effectue ou fait effectuer les essais de type conformément aux dispositions de la STI et des spécifications européennes citées dans la STI. Cette fabrication sera vérifiée en utilisant un module d'évaluation approprié. 
+4.3. Si une révision du processus de conception est prévue dans la STI, il examine les méthodes, outils et résultats de la conception afin d'évaluer leur capacité à satisfaire les exigences de conformité du sous-système à la fin du processus de conception. 
+4.4. Il identifie les éléments conçus conformément aux dispositions appropriées de la STI et des spécifications européennes, ainsi que les éléments conçus sans appliquer les dispositions appropriées de ces spécifications européennes. 
+4.5. Il effectue ou fait effectuer les contrôles appropriés et les essais nécessaires prévus aux points 4.2 et 4.3 pour vérifier si, dans le cas où les spécifications européennes appropriées avaient été choisies, celles-ci ont été réellement appliquées. 
+4.6. Il effectue ou fait effectuer les contrôles appropriés et les essais nécessaires prévus aux points 4.2 et 4.3 pour vérifier si les solutions adoptées répondent aux exigences de la STI lorsque les spécifications européennes appropriées n'ont pas été appliquées. 
+4.7. Il convient, avec le demandeur, de l'endroit où les contrôles et essais nécessaires seront effectués. 
+5. Lorsque le type satisfait aux dispositions de la STI, l'organisme notifié délivre un certificat d'examen de type au demandeur. Le certificat comporte le nom et l'adresse de l'entité adjudicatrice et du ou des fabricants indiqués dans la documentation technique, les conclusions du contrôle, les conditions de validité du certificat et les données nécessaires à l'identification du type approuvé. 
+Une liste des parties pertinentes de la documentation technique est annexée au certificat et une copie est conservée par l'organisme notifié. 
+S'il refuse de délivrer un certificat d'examen de type à l'entité adjudicatrice, l'organisme notifié motive d'une façon détaillée ce refus. Une procédure de recours doit être prévue. 
+6. Chaque organisme notifié communique aux autres organismes notifiés les informations utiles concernant les certificats d'examen de type qu'il a délivrés, retirés ou refusés. 
+7. Les autres organismes notifiés reçoivent sur demande une copie des certificats d'examen de type et/ou de leurs compléments. Les annexes des attestations sont tenues à la disposition des autres organismes notifiés. 
+8. L'entité adjudicatrice conserve avec la documentation technique une copie des certificats d'examen de type et de leurs compléments pendant toute la durée de vie du sous-système. Le dossier est communiqué à tout État membre qui en fait la demande. 
+9. Le demandeur avise l'organisme notifié qui détient la documentation technique relative au certificat d'examen de type de toutes les modifications susceptibles de remettre en cause la conformité avec les exigences de la STI ou avec les conditions d'utilisation prévues pour le sous-système. Dans ce cas, le sous-système nécessite une nouvelle approbation. Cette nouvelle approbation est délivrée sous la forme d'un complément au certificat primitif d'examen de type ou un nouveau certificat est délivré après retrait de l'ancien certificat. 
+B.2. Module SD: Système de management de la qualité de production 
+1. Ce module décrit la procédure de vérification "CE" par laquelle un organisme notifié vérifie et atteste, à la demande d'une entité adjudicatrice ou de son mandataire établi dans la Communauté, que les aspects liés au bruit du sous-système "matériel roulant" pour lequel une attestation d'examen de type CE a déjà été émise par un organisme notifié: 
+- sont conformes à cette STI et à toute autre STI applicable et répondent aux exigences essentielles [6] de la directive 2001/16/EC [7], 
+- sont conformes aux autres réglementations découlant du traité et qu'il peut être mis en service. 
+2. L'organisme notifié exécute la procédure à la condition que: 
+- le certificat d'examen de type émis avant l'évaluation reste valable pour le sous-système objet de la demande, 
+- l'entité adjudicatrice [8] et les maîtres d'œuvre concernés répondent aux obligations du point 3. 
+Le terme "maître d'œuvre" désigne les sociétés dont les activités contribuent à satisfaire les exigences essentielles de la STI. Il s'agit de: 
+- la société ayant la responsabilité de l'ensemble du projet de sous-système (notamment la responsabilité de l'intégration du sous-système), 
+- les autres sociétés uniquement impliquées dans une partie du projet de sous-système (par exemple l'assemblage ou l'installation du sous-système). 
+Il ne désigne pas les sous-traitants du fabricant qui fournissent des composants ou des constituants d'interopérabilité. 
+3. Pour le sous-système objet de la procédure de vérification "CE", l'entité adjudicatrice ou les maîtres d'œuvre, s'ils sont employés, doivent appliquer un système de management de la qualité approuvé qui doit couvrir la fabrication et l'inspection et les essais finaux du produit spécifiés au point 5. Il est en outre soumis à la surveillance visée au point 6. 
+Dans le cas où l'entité adjudicatrice a elle-même la responsabilité du projet de sous-système complet (notamment la responsabilité de l'intégration du sous-système) ou si l'entité adjudicatrice est directement impliquée dans la production (y compris l'assemblage et l'installation), elle doit appliquer un système de management de la qualité approuvé pour ces activités qui sera soumis à la surveillance visée au point 6. 
+Si le maître d'œuvre a la responsabilité du projet de sous-système complet (notamment la responsabilité de l'intégration du sous-système), il doit appliquer dans tous les cas un système de management de la qualité approuvé pour la fabrication et l'inspection et les essais finaux du produit qui sera soumis à la surveillance visée au point 6. 
+4. Procédure de vérification "CE" 
+4.1. L'entité adjudicatrice doit introduire une demande de vérification "CE" du sous-système (par le système de management de la qualité de production), y compris la coordination de la surveillance des systèmes de management de la qualité prévue aux points 5.3 et 6.5, auprès d'un organisme notifié de son choix. L'entité adjudicatrice informe les fabricants concernés de ce choix et de la demande. 
+4.2. La demande doit permettre de comprendre la conception, la fabrication, l'assemblage, l'installation, la maintenance et le fonctionnement du sous-système et d'évaluer la conformité avec le type décrit dans le certificat d'examen de type et avec les exigences de la STI. 
+Cette demande comprend: 
+- le nom et l'adresse de l'entité adjudicatrice ou de son mandataire, 
+- la documentation technique concernant le type approuvé, y compris l'attestation d'examen de type émise à la suite de la procédure définie dans le module SB, 
+et, si ces éléments ne sont pas déjà inclus dans la documentation: 
+- une description générale du sous-système, de sa conception d'ensemble et de sa construction, 
+- les spécifications techniques, y compris les spécifications européennes qui ont été appliquées, 
+- la preuve de leur adéquation, en particulier lorsque ces spécifications européennes et les clauses correspondantes n'ont pas été pleinement appliquées. Cette preuve doit comprendre les résultats des essais effectués par le laboratoire compétent du fabricant ou pour son compte, 
+- le registre du "matériel roulant", y compris toutes les informations spécifiées dans la STI, 
+- la documentation technique concernant la fabrication et l'assemblage du sous-système, 
+- une preuve de conformité avec d'autres réglementations découlant du traité (y compris les certificats) pour la phase de production, 
+- une liste des constituants d'interopérabilité à incorporer au sous-système, 
+- les copies des déclarations "CE" de conformité ou d'aptitude à l'emploi dont ces constituants doivent être munis, accompagnées de tous les éléments nécessaires définis à l'annexe VI des directives, 
+- la liste des fabricants intervenant dans la conception, la fabrication, l'assemblage et l'installation du sous-système, 
+- la démonstration que toutes les étapes définies au point 5.2 sont couvertes par les systèmes de management de la qualité de l'entité adjudicatrice, si elle est impliquée, et/ou des maîtres d'œuvre, et la preuve de leur efficacité, 
+- l'indication de l'organisme notifié chargé de l'approbation et de la surveillance de ces systèmes de management de la qualité. 
+4.3. L'organisme notifié examine tout d'abord la demande en ce qui concerne la validité de l'examen de type et du certificat d'examen de type. 
+Si l'organisme notifié juge que le certificat d'examen de type n'est plus valable ou n'est pas approprié et qu'un nouvel examen de type est nécessaire, il justifie sa position. 
+5. Système de management de la qualité 
+5.1. L'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre, s'ils sont employés, introduisent une demande d'évaluation de leur système de management de la qualité auprès d'un organisme notifié de leur choix. 
+Cette demande comprend: 
+- toutes les informations pertinentes pour le sous-système concerné, 
+- la documentation relative au système de management de la qualité, 
+- la documentation technique relative au type approuvé et une copie de l'attestation d'examen de type délivrée à la fin de la procédure d'examen de type définie dans le module SB. 
+Pour ceux qui n'interviennent que pour une partie du projet de sous-système, ces informations sont à fournir uniquement pour la partie en question. 
+5.2. Pour l'entité adjudicatrice ou le maître d'œuvre responsable de l'ensemble du projet de sous-système, le système de management de la qualité doit assurer la conformité globale du sous-système avec le type décrit dans l'attestation d'examen de type et avec les exigences de la STI. Pour les autres maîtres d'œuvre, le(s) système(s) de qualité doit (doivent) assurer la conformité de leur contribution au sous-système avec le type décrit dans le certificat d'examen de type et avec les exigences de la STI. 
+Tous les éléments, les exigences et les dispositions adoptés par le(s) demandeur(s) doivent être réunis de manière systématique et ordonnés dans une documentation sous la forme de politiques, de procédures et d'instructions écrites. Cette documentation relative au système de management de la qualité doit permettre une interprétation uniforme des politiques et des procédures de qualité telles que les programmes, plans, manuels et enregistrements relatifs à la qualité. 
+Pour tous les demandeurs, cette documentation doit contenir, en particulier, une description suffisante des points suivants: 
+- les objectifs et la structure organisationnelle de la qualité, 
+- les techniques, les processus et les actions systématiques correspondants qui seront utilisés pour la fabrication, le contrôle de la qualité et le management de la qualité, 
+- les examens, contrôles et essais qui seront effectués avant, pendant et après la fabrication, l'assemblage et l'installation avec indication de leur fréquence d'exécution, 
+- les enregistrements relatifs à la qualité, tels que les rapports d'inspection et les données d'essais, les données d'étalonnage, les rapports sur la qualification du personnel concerné, etc., de même que pour l'entité adjudicatrice ou le maître d'œuvre responsable de l'ensemble du projet du sous-système, 
+- les responsabilités et les pouvoirs dont dispose la direction pour assurer la qualité globale du sous-système, notamment pour ce qui est de la gestion de l'intégration du sous-système. 
+Les examens, essais et contrôles couvrent toutes les étapes suivantes: 
+- la construction du sous-système, notamment les activités de génie civil, l'assemblage des constituants, la mise au point finale, 
+- les essais finaux du sous-système, 
+- et, si cela est spécifié dans la STI, la validation en grandeur nature. 
+5.3. L'organisme notifié choisi par l'entité adjudicatrice contrôle ensuite si toutes les étapes du sous-système mentionnées au point 5.2 sont suffisamment et convenablement couvertes par l'approbation et la surveillance du (ou des) système(s) de management de la qualité du (ou des) demandeur(s) [9]. 
+Si la conformité du sous-système avec le type décrit dans le certificat d'examen de type et avec les exigences de la STI est basée sur plusieurs systèmes de management de la qualité, l'organisme notifié s'assure en particulier: 
+- que les relations et les interfaces entre les systèmes de management de la qualité sont clairement documentées, et 
+- que, au niveau du maître d'œuvre, les responsabilités et les pouvoirs dont dispose la direction pour assurer la conformité globale du sous-système sont suffisamment et convenablement définis. 
+5.4. L'organisme notifié visé au point 5.1 évalue le système de management de la qualité pour déterminer s'il satisfait aux exigences visées au point 5.2. Il présume la conformité avec ces exigences si le demandeur applique un système qualité sur production, une inspection et des essais finaux du produit en vertu de la norme EN ISO 9001:2000, en tenant compte de la spécificité du sous-système pour lequel elle est mise en œuvre. 
+Dans le cas où un demandeur applique un système de management de la qualité, l'organisme notifié en tient compte dans l'évaluation. 
+L'audit doit être spécifique au sous-système concerné tout en prenant en compte la contribution spécifique du demandeur au sous-système. L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie du sous-système concerné. La procédure d'évaluation comporte une visite d'évaluation chez le fabricant. 
+La décision doit être notifiée au demandeur. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. 
+5.5. L'entité adjudicatrice, si elle est concernée, et le maître d'œuvre s'engagent à remplir les obligations découlant du système de management de la qualité tel qu'il est approuvé et à le maintenir de sorte qu'il demeure adéquat et efficace. 
+Ils doivent informer l'organisme notifié ayant approuvé le système de management de la qualité de tout changement significatif qui affectera le respect des exigences de la STI par le sous-système. 
+L'organisme notifié évalue les changements proposés et décide si le système modifié de management de la qualité continue à répondre aux exigences visées au point 5.2 ou, s'il y a lieu, de procéder à une nouvelle évaluation. 
+Il notifie sa décision au demandeur. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. 
+6. Surveillance du système de management de la qualité sous la responsabilité de l'organisme notifié 
+6.1. Le but de la surveillance est d'assurer que l'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre remplissent correctement les obligations découlant du (des) système(s) de management de la qualité approuvé(s). 
+6.2. L'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre remettent, ou font remettre, à l'organisme notifié visé au point 5.1 tous les documents nécessaires à cette fin, et en particulier les plans de mise en œuvre et les dossiers techniques se rapportant au sous-système [dans la mesure où ils concernent la contribution spécifique du(des) demandeur(s) au sous-système], en particulier: 
+- la documentation relative au système de management de la qualité, y compris les moyens particuliers mis en œuvre pour s'assurer que: 
+- pour l'entité adjudicatrice ou le maître d'œuvre responsable de l'ensemble du projet de sous-système, les responsabilités et les pouvoirs dont dispose la direction pour assurer la conformité du sous-système complet sont suffisamment et convenablement définis, 
+- le système de management de la qualité de chacun des demandeurs est géré comme il convient pour assurer l'intégration au niveau du sous-système, 
+- les enregistrements relatifs à la qualité prévus dans la partie du système de management de la qualité consacrée à la fabrication (y compris l'assemblage et l'installation), tels que les rapports d'inspection et données d'essais, les données d'étalonnage, les rapports sur la qualification du personnel concerné, etc. 
+6.3. L'organisme notifié effectue périodiquement des audits, afin de s'assurer que l'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre maintiennent et appliquent le système de management de la qualité, et doit à ce titre leur fournir un rapport d'audit. Dans le cas où ceux-ci appliquent un système de management de la qualité certifié, l'organisme notifié en tient compte pour la surveillance. 
+Les audits sont menés au moins une fois par an et un audit au moins est effectué durant l'exécution des activités (fabrication, assemblage ou installation) se rapportant au sous-système objet de la procédure de vérification "CE" visée au point 8. 
+6.4. En outre, l'organisme notifié peut effectuer des visites inopinées sur les sites pertinents du (ou des) demandeur(s). À l'occasion de ces visites, l'organisme notifié peut mener des audits complets ou partiels et effectuer ou faire effectuer des essais pour vérifier le bon fonctionnement du système de management de la qualité là où il le juge nécessaire. Il fournit au(x) demandeur(s) un rapport d'inspection ainsi que des rapports d'audit et/ou d'essai, s'il y a lieu. 
+6.5. L'organisme notifié choisi par l'entité adjudicatrice est chargé de la vérification "CE", s'il ne pratique pas la surveillance du (ou des) système(s) de management de la qualité concerné(s), coordonne les activités de surveillance des autres organismes notifiés chargés de cette tâche afin: 
+- de s'assurer que la gestion des interfaces entre les différents systèmes de management de la qualité dans l'optique de l'intégration du sous-système est correctement réalisée, 
+- de rassembler, en liaison avec l'entité adjudicatrice, les éléments nécessaires pour l'évaluation afin de garantir la cohérence et la supervision globale des différents systèmes de management de la qualité. 
+Cette coordination comprend le droit de l'organisme notifié: 
+- de se faire adresser toute la documentation (approbation et surveillance) établie par les autres organismes notifiés, 
+- d'assister aux audits de surveillance prévus au point 6.3, 
+- de provoquer des audits supplémentaires conformément au point 6.4 sous sa responsabilité et conjointement avec les autres organismes notifiés. 
+7. L'organisme notifié visé au point 5.1 dispose d'un droit d'accès, à des fins d'inspection, d'audit et de surveillance, aux chantiers de construction, aux ateliers de fabrication, aux lieux de montage et d'installation, aux zones de stockage et, le cas échéant, aux installations de préfabrication ou d'essais et, d'une manière plus générale, à tous les lieux qu'il juge nécessaires à sa mission, eu égard à la contribution spécifique du demandeur au projet de sous-système. 
+8. L'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre tiennent à la disposition des autorités nationales pendant une durée de dix ans à compter de la date de la dernière fabrication du sous-système: 
+- la documentation visée au point 5.1, deuxième alinéa, deuxième tiret, 
+- les adaptations visées au point 5.5, deuxième alinéa, 
+- les décisions et les rapports de l'organisme notifié visés aux points 5.4, 5.5 et 6.4. 
+9. Lorsque le sous-système satisfait aux exigences de la STI, l'organisme notifié, sur la base de l'examen de type et de l'approbation et de la surveillance du (ou des) système(s) de management de la qualité, établit le certificat de conformité à l'intention de l'entité adjudicatrice qui, une fois en possession du certificat, établit la déclaration "CE" de vérification destinée à l'autorité de tutelle de l'État membre dans lequel le sous-système est situé et/ou fonctionne. 
+La déclaration "CE" de vérification et les documents qui l'accompagnent doivent être datés et signés. La déclaration doit être rédigée dans la même langue que le dossier technique et comprendre au moins les informations figurant à l'annexe V de la directive. 
+10. L'organisme notifié choisi par l'entité adjudicatrice est responsable de la constitution du dossier technique devant accompagner la déclaration "CE" de vérification. Ce dossier technique doit contenir au moins les informations indiquées à l'article 18, paragraphe 3, de la directive, et en particulier: 
+- tous les documents nécessaires relatifs aux caractéristiques du sous-système, 
+- une liste des constituants d'interopérabilité incorporés au sous-système, 
+- les copies des déclarations "CE" de conformité et, le cas échéant, des déclarations "CE" d'aptitude à l'emploi dont ces constituants doivent être munis conformément à l'article 13 de la directive, accompagnées, s'il y a lieu, des documents correspondants (certificats, documents d'approbation et de surveillance du système de management de la qualité) émis par les organismes notifiés, 
+- tous les éléments relatifs à la maintenance, aux conditions et aux limites d'utilisation du sous-système, 
+- tous les éléments relatifs aux consignes d'entretien, de surveillance continue ou périodique, de réglage et de maintenance, 
+- l'attestation d'examen de type du sous-système et la documentation technique associée, telle que définie dans le module SB, 
+- une preuve de conformité avec d'autres réglementations découlant du traité (y compris les certificats), 
+- le certificat de conformité de l'organisme notifié indiqué au point 9, accompagné des notes de calcul correspondantes et visé par ses soins, indiquant que le projet est conforme à la directive et à la STI et précisant, s'il y a lieu, les réserves formulées durant l'exécution des activités qui n'auraient pas été levées. Le certificat doit aussi être accompagné des rapports d'inspection et d'audit que l'organisme a établi en rapport avec la vérification, comme mentionné aux points 6.3 et 6.4 et en particulier: 
+- le registre du "matériel roulant", y compris toutes les informations spécifiées dans la STI. 
+11. Chaque organisme notifié communique aux autres organismes notifiés les informations utiles concernant les approbations qu'il a octroyées, retirées ou refusées pour le système de management de la qualité. 
+Les autres organismes notifiés reçoivent sur demande une copie des approbations délivrées pour les systèmes de management de la qualité. 
+12. Le dossier complet accompagnant le certificat de conformité est déposé auprès de l'entité adjudicatrice. 
+L'entité adjudicatrice au sein de la Communauté conserve une copie du dossier technique pendant toute la durée de vie du sous-système et la communique à tout autre État membre qui en fait la demande. 
+B.3. Module SF: Vérification sur produits 
+1. Ce module décrit la procédure de vérification "CE" par laquelle un organisme notifié vérifie et atteste, à la demande d'une entité adjudicatrice ou de son mandataire établi dans la Communauté, que les aspects liés au bruit du sous-système "matériel roulant" pour lequel une attestation d'examen de type CE a déjà été émise par un organisme notifié: 
+- sont conformes à cette STI et toute autre STI applicable et répondent aux exigences essentielles [10] de la directive 2001/16/CE [11], 
+- sont conformes aux autres réglementations découlant du traité, 
+et qu'il peut être mis en service. 
+2. L'entité adjudicatrice [12] doit introduire une demande de vérification "CE" (par le biais d'une vérification sur produits) du sous-système auprès d'un organisme notifié de son choix. Cette demande doit comprendre: 
+- le nom et l'adresse de l'entité adjudicatrice ou de son mandataire, 
+- la documentation technique. 
+3. Dans cette partie de la procédure, l'entité adjudicatrice contrôle et atteste que le sous-système concerné est conforme au type décrit dans le certificat d'examen de type et satisfait aux exigences de la STI qui s'y appliquent. 
+L'organisme notifié exécute la procédure à condition que le certificat d'examen de type délivré avant l'évaluation reste valide pour le sous-système faisant l'objet de la demande. 
+4. L'entité adjudicatrice prend toutes les mesures nécessaires pour que le procédé de fabrication [y compris l'assemblage et l'intégration des constituants d'interopérabilité par les maîtres d'œuvre [13] s'ils sont employés] assure la conformité du sous-système avec le type décrit dans le certificat d'examen de type et avec les exigences de la STI qui lui sont applicables. 
+5. La demande doit permettre de comprendre la conception, la fabrication, l'installation, la maintenance et le fonctionnement du sous-système et d'évaluer la conformité avec le type décrit dans le certificat d'examen de type et avec les exigences de la STI. 
+Cette demande comprend: 
+- la documentation technique concernant le type approuvé, y compris l'attestation d'examen de type émise à la suite de la procédure définie dans le module SB, 
+et, si ces éléments ne sont pas déjà inclus dans la documentation: 
+- une description générale du sous-système, de sa conception d'ensemble et de sa construction, 
+- le registre du "matériel roulant", y compris toutes les informations spécifiées dans la STI, 
+- les dessins de conception et de fabrication, par exemple les plans, schémas des composants, sous-ensembles, ensembles, circuits, etc., 
+- la documentation technique concernant la fabrication et l'assemblage du sous-système, 
+- les spécifications techniques, y compris les spécifications européennes qui ont été appliquées, 
+- la preuve de leur adéquation, en particulier lorsque ces spécifications européennes et les clauses correspondantes n'ont pas été pleinement appliquées, 
+- une preuve de conformité avec d'autres réglementations découlant du traité (y compris les certificats) pour la phase de production, 
+- une liste des constituants d'interopérabilité à incorporer au sous-système, 
+- les copies des déclarations "CE" de conformité ou d'aptitude à l'emploi dont ces constituants doivent être munis, accompagnées de tous les éléments nécessaires définis à l'annexe VI des directives, 
+- la liste des fabricants intervenant dans la conception, la fabrication, l'assemblage et l'installation du sous-système. 
+Si la STI exige que la documentation technique comporte d'autres informations, celles-ci doivent être incluses. 
+6. L'organisme notifié examine tout d'abord la demande en ce qui concerne la validité de l'examen de type et du certificat d'examen de type. 
+Si l'organisme notifié juge que le certificat d'examen de type n'est plus valable ou n'est pas approprié et qu'un nouvel examen de type est nécessaire, il justifie sa position. 
+L'organisme notifié doit effectuer les examens et essais appropriés afin de vérifier la conformité du sous-système avec le type décrit dans le certificat d'examen de type et avec les exigences de la STI. L'organisme notifié examinera et testera tout sous-système fabriqué comme un produit de série, comme spécifié au point 4. 
+7. Vérification par contrôle et essai de chaque sous-système (en tant que produit de série) 
+7.1. L'organisme notifié effectue les essais, contrôles et vérifications nécessaires pour s'assurer de la conformité du sous-système, en tant que produit de série comme spécifié dans la STI. Les examens, essais et contrôles couvrent les phases prévues dans la STI. 
+7.2. Chaque sous-système (en tant que produit de série) doit être contrôlé, testé et vérifié [14] individuellement pour s'assurer de sa conformité avec le type décrit dans le certificat d'examen de type et les exigences de la STI applicables à celui-ci. Lorsqu'il n'est pas défini d'essai dans la STI (ou dans une norme européenne citée dans la STI), les spécifications européennes pertinentes ou des essais équivalents s'appliquent. 
+8. L'organisme notifié peut s'entendre avec l'entité adjudicatrice (et les maîtres d'œuvre) pour déterminer où les essais auront lieu et peut convenir que les essais finaux du sous-système et, si prévu par la STI, les essais ou la validation en grandeur nature soient effectués par l'entité adjudicatrice sous la surveillance directe et en présence de l'organisme notifié. 
+L'organisme notifié dispose d'un droit d'accès, à des fins d'essais et de vérification, aux ateliers de fabrication, aux lieux de montage et d'installation et, le cas échéant, aux installations de préfabrication et d'essais pour l'accomplissement de sa mission conformément à la STI. 
+9. Lorsque le sous-système satisfait aux exigences de la STI, l'organisme notifié établit le certificat de conformité à l'intention de l'entité adjudicatrice qui, une fois en possession du certificat, établit la déclaration "CE" de vérification destinée à l'autorité de tutelle de l'État membre dans lequel le sous-système est situé et/ou fonctionne. 
+Les activités de l'organisme notifié sont basées sur l'examen de type et les essais, vérifications et contrôles effectués sur tous les produits de série tels qu'indiqués au point 7 et requis dans la STI et/ou dans les spécifications européennes pertinentes. 
+La déclaration "CE" de vérification et les documents qui l'accompagnent doivent être datés et signés. La déclaration doit être rédigée dans la même langue que le dossier technique et comprendre au moins les informations figurant à l'annexe V de la directive. 
+10. L'organisme notifié est responsable de la constitution du dossier technique devant accompagner la déclaration "CE" de vérification. Ce dossier technique doit contenir au moins les informations indiquées à l'article 18, paragraphe 3, de la directive, et en particulier: 
+- tous les documents nécessaires relatifs aux caractéristiques du sous-système, 
+- le registre du "matériel roulant", y compris toutes les informations spécifiées dans la STI, 
+- la liste des constituants d'interopérabilité incorporés au sous-système, 
+- les copies des déclarations "CE" de conformité et, le cas échéant, des déclarations "CE" d'aptitude à l'emploi dont ces constituants doivent être munis conformément à l'article 13 de la directive, accompagnées, s'il y a lieu, des documents correspondants (certificats, documents d'approbation et de surveillance du système de management de la qualité) émis par les organismes notifiés, 
+- tous les éléments relatifs à la maintenance, aux conditions et aux limites d'utilisation du sous-système, 
+- tous les éléments relatifs aux consignes d'entretien, de surveillance continue ou périodique, de réglage et de maintenance, 
+- l'attestation d'examen de type du sous-système et la documentation technique associée, telle que définie dans le module SB, 
+- le certificat de conformité de l'organisme notifié indiqué au point 9, accompagné des notes de calcul correspondantes et visé par ses soins, indiquant que le projet est conforme à la directive et à la STI et précisant, s'il y a lieu, les réserves formulées durant l'exécution des activités qui n'auraient pas été levées. Le certificat est également accompagné, s'il y a lieu, des rapports d'inspection et d'audit que l'organisme a établis en liaison avec la vérification. 
+11. Le dossier complet accompagnant le certificat de conformité est déposé auprès de l'entité adjudicatrice. 
+L'entité adjudicatrice conserve une copie du dossier technique pendant toute la durée de vie du sous-système et la communique à tout autre État membre qui en fait la demande. 
+B.4. Module SH2: Système de management complet de la qualité avec examen de la conception 
+1. Ce module décrit la procédure de vérification "CE" par laquelle un organisme notifié vérifie et atteste, à la demande d'une entité adjudicatrice ou de son mandataire autorisé établi dans la Communauté, que les aspects liés au bruit du sous-système "matériel roulant": 
+- sont conformes à cette STI et à toute autre STI applicable et répondent aux exigences essentielles [15] de la directive 2001/16/CE [16], 
+- sont conformes aux autres réglementations découlant du traité, 
+et qu'il peut être mis en service. 
+2. L'organisme notifié exécute la procédure, y compris un examen de la conception du sous-système, à la condition que l'entité adjudicatrice [17] et les maîtres d'œuvre concernés répondent aux obligations du point 3. 
+Le terme "maître d'œuvre" désigne les sociétés dont les activités contribuent à satisfaire les exigences essentielles de la STI. Il désigne la société: 
+- ayant la responsabilité de l'ensemble du projet de sous-système (notamment la responsabilité de l'intégration du sous-système), 
+- les autres sociétés uniquement impliquées dans une partie du projet de sous-système (par exemple la conception, l'assemblage ou l'installation du sous-système). 
+Il ne désigne pas les sous-traitants du fabricant qui fournissent des composants ou des constituants d'interopérabilité. 
+3. Pour le sous-système objet de la procédure de vérification "CE", l'entité adjudicatrice ou les maîtres d'œuvre, s'ils sont employés, doivent appliquer un système de management de la qualité approuvé qui doit couvrir la conception, la fabrication et l'inspection et les essais finaux du produit spécifiés au point 5. Ce système sera en outre soumis à la surveillance visée au point 6. 
+Le maître d'œuvre ayant la responsabilité du projet de sous-système complet (notamment la responsabilité de l'intégration du sous-système) doit appliquer dans tous les cas un système de management de la qualité approuvé pour la conception, la fabrication et l'inspection et les essais finaux du produit qui sera soumis à la surveillance visée au point 6. 
+Si l'entité adjudicatrice a elle-même la responsabilité du projet de sous-système complet (notamment la responsabilité de l'intégration du sous-système) ou si l'entité adjudicatrice est directement impliquée dans la conception et/ou la production (y compris l'assemblage et l'installation), elle doit appliquer un système de management de la qualité approuvé pour ces activités qui sera soumis à la surveillance visée au point 6. 
+Les demandeurs uniquement impliqués dans l'assemblage et l'installation peuvent n'appliquer qu'un système de management de la qualité approuvé qui doit couvrir la fabrication et l'inspection et les essais finaux du produit. 
+4. Procédure de vérification "CE" 
+4.1. L'entité adjudicatrice doit introduire une demande de vérification "CE" du sous-système (par la procédure du système de management complet de la qualité avec examen de la conception), y compris la coordination de la surveillance des systèmes de management de la qualité prévue aux points 5.4 et 6.6, auprès d'un organisme notifié de son choix. L'entité adjudicatrice informe les fabricants concernés de son choix et de la demande. 
+4.2. La demande permet de comprendre la conception, la fabrication, l'assemblage, l'installation, la maintenance et le fonctionnement du sous-système et permet d'évaluer la conformité avec les exigences de la STI. 
+Cette demande comprend: 
+- le nom et l'adresse de l'entité adjudicatrice ou de son mandataire, 
+- la documentation technique contenant: 
+- une description générale du sous-système, de sa conception d'ensemble et de sa construction, 
+- les spécifications techniques de conception, y compris les spécifications européennes, qui ont été appliquées, 
+- la preuve de leur adéquation, en particulier lorsque ces spécifications européennes et les clauses correspondantes n'ont pas été pleinement appliquées, 
+- le programme d'essais, 
+- le registre du "matériel roulant", y compris toutes les informations spécifiées dans la STI, 
+- la documentation technique concernant la fabrication et l'assemblage du sous-système, 
+- une liste des constituants d'interopérabilité à incorporer au sous-système, 
+- les copies des déclarations "CE" de conformité ou d'aptitude à l'emploi dont ces constituants doivent être munis, accompagnées de tous les éléments nécessaires définis à l'annexe VI des directives, 
+- une preuve de conformité avec d'autres réglementations découlant du traité (y compris les certificats), 
+- la liste de tous les fabricants intervenant dans la conception, la fabrication, l'assemblage et l'installation du sous-système, 
+- les conditions d'utilisation du sous-système (restrictions de durée ou de distance, limites d'usure, etc.), 
+- les conditions de maintenance et la documentation technique concernant la maintenance du sous-système, 
+- toute exigence technique devant être prise en compte pendant la fabrication, la maintenance ou l'exploitation du sous-système, 
+- la démonstration que toutes les étapes définies au point 5.2 sont couvertes par les systèmes de management de la qualité du (ou des) maître(s) d'œuvre et/ou de l'entité adjudicatrice, si elle est impliquée, et la preuve de leur efficacité, 
+- l'indication du (ou des) organisme(s) notifié(s) chargé(s) de l'approbation et de la surveillance de ces systèmes de management de la qualité. 
+4.3. L'entité adjudicatrice présente les résultats des examens, des contrôles et des essais [18], y compris si nécessaire les essais de type, réalisés par son propre laboratoire compétent ou pour son compte. 
+4.4. L'organisme notifié examine la demande et évalue les résultats de l'examen de la conception. Lorsque la conception est conforme aux dispositions applicables de la directive et de la STI, l'organisme notifié délivre un rapport d'examen de la conception au demandeur. Le rapport contient les conclusions de l'examen de la conception, ses conditions de validité, les données nécessaires pour l'identification de la conception contrôlée et, le cas échéant, une description du fonctionnement du sous-système. 
+S'il refuse de délivrer un rapport d'examen de la conception à l'entité adjudicatrice, l'organisme notifié motive d'une façon détaillée ce refus. Une procédure de recours doit être prévue. 
+5. Système de management de la qualité 
+5.1 L'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre, s'ils sont employés, introduisent une demande d'évaluation de leur système de management de la qualité auprès d'un organisme notifié de leur choix. 
+Cette demande comprend: 
+- toutes les informations pertinentes pour le sous-système concerné, 
+- la documentation relative au système de management de la qualité. 
+Pour ceux qui n'interviennent que pour une partie du projet de sous-système, ces informations sont à fournir uniquement pour la partie en question. 
+5.2 Pour l'entité adjudicatrice ou le maître d'œuvre responsable de l'ensemble du projet de sous-système, le système de management de la qualité doit assurer la conformité globale du sous-système avec les exigences de la STI. 
+Pour le(s) autre(s) maître(s) d'œuvre, le(s) système(s) de management de la qualité doit (doivent) assurer la conformité de sa (leur) contribution au sous-système avec les exigences de la STI. 
+Tous les éléments, les exigences et les dispositions adoptés par le demandeur doivent être réunis de manière systématique et ordonnés dans une documentation sous la forme de politiques, de procédures et d'instructions écrites. Cette documentation relative au système de management de la qualité doit permettre une interprétation uniforme des politiques et des procédures de qualité telles que les programmes, plans, manuels et enregistrements relatifs à la qualité. 
+Le système doit comprendre en particulier une description adéquate des points suivants: 
+- pour tous les demandeurs: 
+- les objectifs et la structure organisationnelle de la qualité, 
+- les techniques, les processus et les actions systématiques correspondants qui seront utilisés pour la fabrication, la maîtrise de la qualité et le management de la qualité, 
+- les examens, contrôles et essais qui seront effectués avant, pendant et après la conception, la fabrication, l'assemblage et l'installation avec indication de leur fréquence d'exécution, 
+- les enregistrements relatifs à la qualité tels que les rapports d'inspection et données des essais, les données d'étalonnage, les rapports sur la qualification du personnel concerné, etc., 
+- pour les maîtres d'œuvre, pour autant que cela s'avère pertinent pour leur contribution à la conception du sous-système: 
+- les spécifications techniques de conception, y compris les spécifications européennes [19] qui seront appliquées, et, lorsque les spécifications européennes ne sont pas appliquées pleinement, les moyens qui seront utilisés pour que les exigences de la STI qui s'appliquent au sous-système soient respectées, 
+- les techniques, les processus et les actions systématiques de maîtrise et de vérification de la conception qui seront utilisés pour la conception du sous-système, 
+- les moyens permettant de vérifier l'atteinte du niveau voulu de la qualité de conception et de réalisation du sous-système ainsi que le bon fonctionnement du système de management de la qualité dans toutes les phases, y compris la production; 
+- et pour l'entité adjudicatrice ou le maître d'œuvre responsable de l'ensemble du projet de sous-système: 
+- les responsabilités et les pouvoirs dont dispose la direction pour assurer la qualité globale du sous-système, notamment pour ce qui est de la gestion de l'intégration du sous-système. 
+Les examens, essais et contrôles couvrent toutes les étapes suivantes: 
+- la conception d'ensemble, 
+- la construction du sous-système, notamment les activités de génie civil, l'assemblage des constituants, la mise au point finale, 
+- les essais finaux du sous-système, 
+- et, si cela est spécifié dans la STI, la validation en grandeur nature. 
+5.3. L'organisme notifié choisi par l'entité adjudicatrice contrôle ensuite si toutes les étapes du sous-système mentionnées au point 5.2 sont suffisamment et convenablement couvertes par l'approbation et la surveillance du ou des systèmes de management de la qualité du ou des demandeurs [20]. 
+Si la conformité du sous-système avec les exigences de la STI est basée sur plusieurs systèmes de management de la qualité, l'organisme notifié s'assure en particulier: 
+- que les relations et les interfaces entre les systèmes de management de la qualité sont clairement documentées, et 
+- qu'au niveau du maître d'œuvre, les responsabilités et les pouvoirs dont dispose la direction pour assurer la conformité globale du sous-système sont suffisamment et convenablement définis. 
+5.4. L'organisme notifié visé au point 5.1 évalue le système de management de la qualité pour déterminer s'il satisfait aux exigences visées au point 5.2. Il présume la conformité avec ces exigences si le demandeur applique un système de qualité de la conception et de la production, ainsi qu'une inspection et des essais finaux du produit en vertu de la norme EN ISO 9001:2000, en tenant compte de la spécificité du sous-système pour lequel elle est mise en œuvre. 
+Dans le cas où un demandeur applique un système de management de la qualité, l'organisme notifié en tient compte dans l'évaluation. 
+L'audit doit être spécifique au sous-système concerné tout en prenant en compte la contribution spécifique du demandeur au sous-système. L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie du sous-système concerné. La procédure d'évaluation comporte une visite d'évaluation chez le fabricant. 
+La décision doit être notifiée au demandeur. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. 
+5.5. L'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre s'engagent à remplir les obligations découlant du système de management de la qualité tel qu'il est approuvé et à le maintenir de sorte qu'il demeure adéquat et efficace. 
+Ils doivent tenir informé l'organisme notifié ayant approuvé leur système de management de la qualité de tout changement significatif qui affectera le respect des exigences STI par le sous-système. 
+L'organisme notifié évalue tous les changements proposés et décide si le système modifié de management de la qualité continue à répondre aux exigences visées au point 5.2 ou, s'il y a lieu, de procéder à une nouvelle évaluation. 
+Il notifie sa décision au demandeur. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. 
+6. Surveillance du système de management de la qualité sous la responsabilité de l'organisme notifié 
+6.1. Le but de la surveillance est d'assurer que l'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre remplissent correctement les obligations découlant du (ou des) système(s) de management de la qualité approuvé(s). 
+6.2. L'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre remettent à l'organisme notifié visé au point 5.1 (ou font remettre) tous les documents nécessaires à cette fin et en particulier les plans de mise en œuvre et les dossiers techniques se rapportant au sous-système (dans la mesure où ils concernent la contribution spécifique du demandeur au sous-système), en particulier: 
+- la documentation relative au système de management de la qualité, y compris les moyens particuliers mis en œuvre pour s'assurer que: 
+- pour l'entité adjudicatrice ou le maître d'œuvre responsable de l'ensemble du projet de sous-système, les responsabilités et les pouvoirs dont dispose la direction pour garantir la conformité du sous-système complet sont suffisamment et convenablement définis, 
+- le système de management de la qualité de chacun des demandeurs est géré comme il convient pour assurer l'intégration au niveau du sous-système, 
+- les enregistrements relatifs à la qualité prévus dans la partie du système de management de la qualité consacrée à la conception, tels que les résultats des analyses, des calculs, des essais, etc., 
+- les enregistrements relatifs à la qualité prévus dans la partie du système de management de la qualité consacrée à la fabrication (y compris l'assemblage, l'installation et l'intégration), tels que les rapports d'inspection et données d'essais, les données d'étalonnage, les rapports sur la qualification du personnel concerné, etc. 
+6.3. L'organisme notifié effectue périodiquement des audits afin de s'assurer que l'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre maintiennent et appliquent le système de management de la qualité et doit à ce titre leur fournir un rapport d'audit. Dans le cas où ceux-ci appliquent un système de management de la qualité certifié, l'organisme notifié en tient compte pour la surveillance. 
+Les audits sont menés au moins une fois par an et un audit au moins est effectué pendant l'exécution des activités (conception, fabrication, assemblage ou installation) portant sur le sous-système objet de la procédure de vérification "CE" visée au point 4. 
+6.4. En outre, l'organisme notifié peut effectuer des visites inopinées sur les sites mentionnés au point 5.2 du (ou des) demandeur(s). À l'occasion de ces visites, l'organisme notifié peut réaliser des audits complets ou partiels et effectuer ou faire effectuer des essais pour vérifier le bon fonctionnement du système de management de la qualité là où il le juge nécessaire. Il fournit au(x) demandeur(s) un rapport d'inspection ainsi que des rapports d'audit et/ou d'essai, s'il y a lieu. 
+6.5. L'organisme notifié choisi par l'entité adjudicatrice et chargé de la vérification "CE", s'il ne pratique pas la surveillance du (ou des) système(s) de management de la qualité visé(s) au point 5, coordonne les activités de surveillance des autres organismes notifiés chargés de cette tâche afin: 
+- de s'assurer que la gestion des interfaces entre les différents systèmes de management de la qualité dans l'optique de l'intégration du sous-système est correctement réalisée, 
+- de rassembler, en liaison avec l'entité adjudicatrice, les éléments nécessaires pour l'évaluation afin de garantir la cohérence et la supervision globale des différents systèmes de management de la qualité. 
+Cette coordination comprend le droit de l'organisme notifié: 
+- de se faire adresser toute la documentation (approbation et surveillance) établie par le ou les autres organismes notifiés, 
+- d'assister aux audits de surveillance prévus au point 5.4, 
+- d'entamer des audits supplémentaires conformément au point 5.5 sous sa responsabilité et conjointement avec les autres organismes notifiés. 
+7. L'organisme notifié visé au point 5.1 dispose d'un droit d'accès, à des fins d'inspection, d'audit et de surveillance, aux bureaux d'étude, aux chantiers de construction, aux ateliers de fabrication, aux lieux de montage et d'installation, aux zones de stockage et, le cas échéant, aux installations de préfabrication ou d'essais et, d'une manière plus générale, à tous les lieux qu'il juge nécessaires à sa mission, eu égard à la contribution spécifique du demandeur au projet de sous-système. 
+8. L'entité adjudicatrice, si elle est concernée, et les maîtres d'œuvre tiennent à la disposition des autorités nationales pendant une durée de dix ans à compter de la date de la dernière fabrication du sous-système: 
+- la documentation visée au point 5.1, deuxième alinéa, deuxième tiret, 
+- les adaptations visées au point 5.5, deuxième alinéa, 
+- les décisions et les rapports de l'organisme notifié visés aux points 5.4, 5.5 et 6.4. 
+9. Lorsque le sous-système satisfait aux exigences de la STI, l'organisme notifié, sur la base de l'examen de la conception et de l'approbation et de la surveillance du (ou des) système(s) de management de la qualité, établit le certificat de conformité à l'intention de l'entité adjudicatrice qui, une fois en possession du certificat, établit la déclaration "CE" de vérification destinée à l'autorité de tutelle de l'État membre dans lequel le sous-système est situé et/ou fonctionne. 
+La déclaration "CE" de vérification et les documents qui l'accompagnent doivent être datés et signés. La déclaration doit être rédigée dans la même langue que le dossier technique et comprendre au moins les informations figurant à l'annexe V de la directive. 
+10. L'organisme notifié choisi par l'entité adjudicatrice est responsable de la constitution du dossier technique devant accompagner la déclaration "CE" de vérification. Ce dossier technique doit contenir au moins les informations indiquées à l'article 18, paragraphe 3, de la directive, et en particulier: 
+- tous les documents nécessaires relatifs aux caractéristiques du sous-système, 
+- la liste des constituants d'interopérabilité incorporés au sous-système, 
+- les copies des déclarations "CE" de conformité et, le cas échéant, des déclarations "CE" d'aptitude à l'emploi dont les constituants doivent être munis conformément à l'article 13 de la directive, accompagnées, s'il y a lieu, des documents correspondants (certificats, documents d'approbation et de surveillance du système de management de la qualité) émis par les organismes notifiés, 
+- une preuve de conformité avec d'autres réglementations découlant du traité (y compris les certificats), 
+- tous les éléments relatifs à la maintenance, aux conditions et aux limites d'utilisation du sous-système, 
+- tous les éléments relatifs aux consignes d'entretien, de surveillance continue ou périodique, de réglage et de maintenance, 
+- le certificat de conformité de l'organisme notifié indiqué au point 9, accompagné des notes de calcul correspondantes et visé par ses soins, indiquant que le projet est conforme à la directive et à la STI et précisant, s'il y a lieu, les réserves formulées durant l'exécution des activités qui n'auraient pas été levées. Le certificat doit aussi être accompagné, s'il y a lieu, des rapports d'inspection et d'audit que l'organisme a établis en rapport avec la vérification, comme mentionné aux points 6.4 et 6.5, 
+- le registre du "matériel roulant", y compris toutes les informations spécifiées dans la STI. 
+11. Chaque organisme notifié communique aux autres organismes notifiés les informations pertinentes concernant les approbations du système de management de la qualité et les rapports "CE" d'examen de la conception qu'il a délivrés, retirés ou refusés. 
+Les autres organismes notifiés reçoivent sur demande une copie: 
+- des approbations de systèmes de management de la qualité et des approbations complémentaires délivrées, et 
+- des rapports "CE" d'examen de la conception et des compléments délivrés. 
+12. Le dossier complet accompagnant le certificat de conformité est déposé auprès de l'entité adjudicatrice. 
+L'entité adjudicatrice conserve une copie du dossier technique pendant toute la durée de vie du sous-système et la communique à tout autre État membre qui en fait la demande. 
+[1] Les exigences essentielles sont reflétées dans les paramètres techniques, interfaces et exigences de performance, définis au chapitre 4 de la STI. 
+[2] Ce module pourrait être utilisé à l'avenir une fois mises à jour les STI GV de la directive 96/48/CE. 
+[3] Dans le module, "entité adjudicatrice" signifie "l'entité adjudicatrice du sous-système, telle que définie dans la directive, ou son mandataire établi dans la Communauté". 
+[4] La section pertinente de la STI peut définir des exigences spécifiques à cet égard. 
+[5] La définition d'une spécification européenne figure dans les directives 96/48/CE et 2001/16/CE. Le guide de candidature des STU GV explique comment utiliser les spécifications européennes. 
+[6] Les exigences essentielles sont reflétées dans les paramètres techniques, interfaces et exigences de performance, définis au chapitre 4 de la STI. 
+[7] Ce module pourrait être utilisé à l'avenir une fois mises à jour les STI GV de la directive 96/48/CE. 
+[8] Dans le module, "entité adjudicatrice" signifie "l'entité adjudicatrice du sous-système, telle que définie dans la directive, ou son mandataire établi dans la Communauté". 
+[9] En ce qui concerne la STI "matériel roulant", l'organisme notifié peut participer à l'essai final en service final des locomotives ou de la rame dans des conditions spécifiées dans le chapitre pertinent de la STI. 
+[10] Les exigences essentielles sont reflétées dans les paramètres techniques, interfaces et exigences de performance, définis au chapitre 4 de la STI. 
+[11] Ce module pourrait être utilisé à l'avenir une fois mises à jour les STI GV de la directive 96/48/CE. 
+[12] Dans le module, "entité adjudicatrice" signifie "l'entité adjudicatrice du sous-système, telle que définie dans la directive, ou son mandataire établi dans la Communauté". 
+[13] Le terme "maître d'œuvre" désigne les sociétés dont les activités contribuent à satisfaire les exigences essentielles de la STI. Il fait référence à l'entreprise qui peut être responsable du projet du sous-système dans son ensemble ou à d'autres entreprises, uniquement impliquées dans une partie du projet de sous-système (qui réalise par exemple le montage ou l'installation du sous-système). 
+[14] Notamment, pour la STI "matériel roulant", l'organisme notifié participera à l'essai en service final du matériel roulant ou de la rame. Cela sera indiqué dans le chapitre pertinent de la STI. 
+[15] Les exigences essentielles sont reflétées dans les paramètres techniques, interfaces et exigences de performance, définis au chapitre 4 de la STI. 
+[16] Ce module pourrait être utilisé à l'avenir une fois mises à jour les STI GV de la directive 96/48/CE. 
+[17] Dans le module, "entité adjudicatrice" signifie "l'entité adjudicatrice du sous-système, telle que définie dans la directive, ou son mandataire établi dans la Communauté". 
+[18] Les résultats des essais peuvent être présentés en même temps que la demande ou ultérieurement. 
+[19] La définition d'une spécification européenne est donnée dans les directives 96/48/CE et 2001/16/CE et dans les lignes directrices d'application de la STI GV. 
+[20] En ce qui concerne la STI "matériel roulant", l'organisme notifié peut participer à l'essai final en service final du matériel roulant ou de la rame dans des conditions spécifiées dans le chapitre pertinent de la STI. 
+-------------------------------------------------- 

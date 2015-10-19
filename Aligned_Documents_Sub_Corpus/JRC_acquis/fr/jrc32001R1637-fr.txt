@@ -1,0 +1,77 @@
+Règlement (CE) n° 1637/2001 de la Commission du 23 juillet 2001 modifiant le règlement (CEE) n° 3880/91 du Conseil relatif à la communication de statistiques sur les captures nominales des États membres se livrant à la pêche dans l'Atlantique du Nord-Est 
+Règlement (CE) n° 1637/2001 de la Commission 
+du 23 juillet 2001 
+modifiant le règlement (CEE) n° 3880/91 du Conseil relatif à la communication de statistiques sur les captures nominales des États membres se livrant à la pêche dans l'Atlantique du Nord-Est 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CEE) n° 3880/91 du Conseil du 17 décembre 1991 relatif à la communication de statistiques sur les captures nominales des États membres se livrant à la pêche dans l'Atlantique du Nord-Est(1), et notamment son article 2, paragraphe 3, et son article 4, 
+considérant ce qui suit: 
+(1) Lors de la neuvième session en 1994, les parties à la Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction (CITES) ont demandé à l'Organisation des Nations unies pour l'alimentation et l'agriculture (FAO) et aux agences régionales de la pêche de contrôler les données sur les captures et le commerce d'élasmobranches (requins et raies). 
+(2) Lors de sa quatre-vingt-septième réunion statutaire en 1999, le Conseil international pour l'exploration de la mer (CIEM) a décidé d'adopter les espèces d'élasmobranches telles qu'elles sont décrites dans le rapport du groupe d'étude consacré aux élasmobranches et de demander à la FAO d'inclure ces espèces dans son questionnaire Statlant 27A sur les statistiques des captures dans l'Atlantique du Nord-Est. 
+(3) Le CIEM a ajouté de nouvelles espèces à la liste de celles qui, dans sa base de données, font l'objet de statistiques sur les captures dans l'Atlantique du Nord-Est. Il convient par conséquent d'inviter les États membres à fournir les données disponibles sur les captures pour ces espèces supplémentaires. 
+(4) Aux termes de l'article 4, paragraphe 2, du règlement (CEE) n° 3880/91, les États membres peuvent, avec l'accord préalable d'Eurostat, communiquer les données sous une forme ou sur un support différents de ceux définis à l'annexe IV du règlement. 
+(5) Plusieurs États membres souhaitent communiquer leurs données sous une forme ou sur un support différents de ceux définis à l'annexe IV du règlement (CE) n° 3880/91 (soit l'équivalent des questionnaires Statlant susmentionnés). 
+(6) Les mesures prévues au présent règlement sont conformes à l'avis du comité permanent de la statistique agricole institué par la décision 72/279/CEE du Conseil(2), 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+L'annexe I du règlement (CEE) n° 3880/91 est remplacée par l'annexe I du présent règlement. 
+Article 2 
+Les États membres peuvent communiquer les données en respectant le format défini à l'annexe II du présent règlement. 
+Article 3 
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel des Communautés européennes. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 23 juillet 2001. 
+Par la Commission 
+Pedro Solbes Mira 
+Membre de la Commission 
+(1) JO L 365 du 31.12.1991, p. 1. 
+(2) JO L 179 du 7.8.1972, p. 1. 
+ANNEXE I 
+LISTE DES ESPÈCES RELEVÉES DANS LES STATISTIQUES SUR LES CAPTURES NOMINALES COMMERCIALES EFFECTUÉES DANS L'ATLANTIQUE DU NORD-EST 
+Les États membres doivent relever les captures nominales des espèces marquées d'un astérisque (*). Le relevé des captures des espèces restantes est facultatif en ce qui concerne l'identification de chacune des espèces. Toutefois, lorsqu'il n'est pas communiqué de données individuelles pour chaque espèce, les données seront incluses dans des catégories agrégées. Les États membres peuvent communiquer des données sur les espèces ne figurant pas sur la liste, pour autant que celles-ci soient clairement identifiées. 
+Remarque: 
+%quot%n.c.a.%quot% est l'abréviation de %quot%non compris ailleurs%quot%. 
+%gt%TABLE%gt% 
+ANNEXE II 
+FORMAT DE TRANSMISSION SUR SUPPORT MAGNÉTIQUE DES DONNÉES RELATIVES AUX CAPTURES DANS L'ATLANTIQUE DU NORD-EST 
+A. FORMAT DE CODAGE 
+Les données doivent être transmises sous la forme de fichiers de longueur variable, les champs étant séparés par deux points (:). Chaque fichier doit contenir les champs suivants: 
+%gt%TABLE%gt% 
+a) Les captures sont à enregistrer en équivalent-poids vif débarqué arrondi à la tonne métrique la plus proche. 
+b) Les quantités inférieures à la moitié d'une unité devraient être enregistrées de la manière suivante: %quot%-1%quot%. 
+c) Codes des pays: 
+Autriche AUT 
+Belgique BEL 
+Danemark DNK 
+Finlande FIN 
+France FRA 
+Allemagne DEU 
+Grèce GRC 
+Irlande IRL 
+Italie ITA 
+Luxembourg LUX 
+Pays-Bas NLD 
+Portugal PRT 
+Espagne ESP 
+Suède SWE 
+Royaume-Uni GBR 
+Angleterre et pays de Galles GBRA 
+Écosse GBRB 
+Irlande du Nord GBRC 
+Islande ISL 
+Norvège NOR 
+Bulgarie BGR 
+Chypre CYP 
+République tchèque CZE 
+Estonie EST 
+Hongrie HUN 
+Lettonie LVA 
+Lituanie LTU 
+Malte MLT 
+Pologne POL 
+Roumanie ROM 
+Slovaquie SVK 
+Slovénie SVN 
+Turquie TUR 
+B. MÉTHODE DE TRANSMISSION DES DONNÉES À LA COMMISSION 
+Dans la mesure du possible, les données doivent être transmises sous une forme électronique (par exemple, sous la forme d'un fichier joint à un courrier électronique). À défaut, elles peuvent être transmises sur une disquette 3,5%quot% HD. 

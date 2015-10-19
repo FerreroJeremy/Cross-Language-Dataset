@@ -1,0 +1,433 @@
+R%egrave%glement (CE) n o 1032/2006 de la Commission du 6 juillet 2006 %eacute%tablissant les exigences applicables aux syst%egrave%mes automatiques d%rsquo%%eacute%change de donn%eacute%es de vol aux fins de notification, de coordination et de transfert de vols entre unit%eacute%s de contr%ocirc%le de la circulation a%eacute%rienne (Texte pr%eacute%sentant de l'int%eacute%r%ecirc%t pour l'EEE) 
+Règlement (CE) no 1032/2006 de la Commission 
+du 6 juillet 2006 
+établissant les exigences applicables aux systèmes automatiques d’échange de données de vol aux fins de notification, de coordination et de transfert de vols entre unités de contrôle de la circulation aérienne 
+(Texte présentant de l'intérêt pour l'EEE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CE) no 552/2004 du Parlement européen et du Conseil du 10 mars 2004 concernant l’interopérabilité du réseau européen de gestion du trafic aérien [1] ("règlement sur l’interopérabilité"), et notamment son article 3, paragraphe 1, 
+vu le règlement (CE) no 549/2004 du Parlement européen et du Conseil du 10 mars 2004 fixant le cadre pour la réalisation du ciel unique européen [2] ("règlement cadre"), et notamment son article 8, paragraphe 2, 
+considérant ce qui suit: 
+(1) La gestion du trafic aérien exige des mécanismes sûrs et efficaces pour la notification, la coordination et le transfert des vols entre les unités de contrôle de la circulation aérienne. La mise en place de ces mécanismes dans le réseau européen de gestion du trafic aérien exige l’échange automatique des données de vol entre les systèmes de traitement des données de vol. L’analyse de la situation actuelle dans la Communauté a révélé que, dans certains États membres, ces mécanismes n’ont pas encore atteint un niveau satisfaisant et doivent encore être améliorés. Par conséquent, il est nécessaire de définir des exigences applicables aux systèmes de traitement des données de vol en ce qui concerne l’interopérabilité, la performance et la qualité de service de leurs fonctions d’échange de données de vol. 
+(2) En application de l’article 8, paragraphe 1, du règlement (CE) no 549/2004, l’organisation européenne pour la sécurité de la navigation aérienne (Eurocontrol) a été chargée de définir des exigences applicables aux systèmes automatiques d’échange des données de vol aux fins de notification, de coordination et de transfert des vols. Le présent règlement se fonde sur le rapport de mandat du 31 mars 2005. 
+(3) La norme Eurocontrol relative à l’échange de données en ligne a été annexée au règlement (CE) no 2082/2000 de la Commission du 6 septembre 2000 portant adoption de normes Eurocontrol et modification de la directive 97/15/CE portant adoption de normes Eurocontrol et modification de la directive 93/65/CEE du Conseil [3], rendant obligatoire son utilisation dans la Communauté en cas d’acquisition de nouveaux systèmes de traitement des données de vol. Comme le règlement (CE) no 2082/2000 a été abrogé avec effet au 20 octobre 2005, il est nécessaire de mettre à jour la législation communautaire afin d’assurer la cohérence des dispositions réglementaires en question. 
+(4) Le présent règlement ne devrait pas s’appliquer aux opérations et à l’entraînement militaires visés à l’article 1er, paragraphe 2, du règlement (CE) no 549/2004. 
+(5) Dans une déclaration des États membres sur les questions militaires liées au ciel unique européen [4], les États membres s’engagent à coopérer les uns avec les autres, en tenant compte des besoins militaires nationaux, afin que le concept de gestion souple de l’espace aérien soit appliqué sans restrictions et de manière uniforme dans tous les États membres par tous les utilisateurs de l’espace aérien. 
+(6) L’application du concept de gestion souple de l’espace aérien, telle qu’il est défini à l’article 2, point 22, du règlement (CE) no 549/2004, exige l’établissement de systèmes pour l’échange en temps voulu des données de vol entre les unités du service de la circulation aérienne et les unités de contrôle militaires. 
+(7) Les centres de contrôle régionaux devraient mettre en œuvre des procédures automatisées pour la notification et la coordination initiale afin de fournir des informations de vol cohérentes tant aux unités transférantes qu’aux unités recevantes et pour faciliter la coordination du transfert prévu des vols. Elles faisaient partie des normes fixées par le règlement (CE) no 2082/2000 et devraient par conséquent être appliquées à partir de la date d’entrée en vigueur du présent règlement. 
+(8) Les informations de vol transmises pendant la procédure de coordination initiale devraient être tenues à jour. Des procédures automatisées devraient dès lors être mises en œuvre progressivement pour permettre la mise à jour des informations relatives à des vols ayant précédemment fait l’objet d’une procédure de coordination initiale ou d’annulation de la coordination lorsque l’unité acceptante n’est plus concernée par le vol. 
+(9) La mise en œuvre de procédures automatisées pour la notification, la coordination initiale, la révision de la coordination et l’annulation de la coordination des vols pourrait être utile également pour les unités de contrôle de la circulation aérienne autres que les centres de contrôle régionaux. Si elles décident de mettre en œuvre ces procédures, il est nécessaire, dans l’intérêt de l’interopérabilité du réseau européen de gestion du trafic aérien, d’appliquer les mêmes exigences que celles applicables aux centres de contrôle régionaux. 
+(10) L’échange en temps voulu des données de vol entre les unités du service de la circulation aérienne et les unités de contrôle militaires devrait reposer sur la mise en œuvre progressive de procédures automatisées. Une première étape devrait être l’introduction de la transmission des données de vol de base entre ces unités civiles et militaires, ainsi que la possibilité de les mettre à jour en tant que de besoin. 
+(11) Des procédures automatisées complémentaires ont été identifiées, qui pourraient renforcer la coordination entre les unités de contrôle de la circulation aérienne ou entre les unités du service de la circulation aérienne et les unités de contrôle militaires. Si elles choisissent d’appliquer des procédures automatisées complémentaires, il est nécessaire, dans l’intérêt de l’interopérabilité du réseau européen de gestion du trafic aérien, d’appliquer des exigences harmonisées à ces procédures. 
+(12) L’application du présent règlement devrait permettre d’autres développements pour atteindre des niveaux plus élevés d’interopérabilité. 
+(13) En vue de maintenir ou de renforcer les niveaux existants de sécurité des opérations, les États membres devraient assurer l’exécution par les parties concernées d’une évaluation de la sécurité comprenant les procédures d’identification des dangers, d’évaluation et d’atténuation des risques. L’application harmonisée de ces procédures aux systèmes relevant du présent règlement requiert la définition de prescriptions spécifiques de sécurité pour toutes les exigences obligatoires en matière d’interopérabilité, de performance et de qualité des services. 
+(14) Conformément à l’article 3, paragraphe 3, point d), du règlement (CE) no 552/2004, les mesures d’exécution en matière d’interopérabilité doivent décrire les procédures spécifiques d’évaluation de la conformité à utiliser pour évaluer la conformité ou l’aptitude à l’emploi de composants, ainsi que pour la vérification des systèmes. 
+(15) Conformément à l’article 10, paragraphes 1 et 2, du règlement (CE) no 552/2004, les dates d’application des dispositions transitoires peuvent être indiquées dans les mesures d’exécution pertinentes en matière d’interopérabilité. 
+(16) Les fabricants et les fournisseurs de services de navigation aérienne devraient disposer d’une période de temps suffisante pour mettre au point de nouveaux composants et systèmes conformes aux nouvelles exigences techniques. 
+(17) Les mesures prévues par le présent règlement sont conformes à l’avis du comité du ciel unique établi par l’article 5 du règlement (CE) no 549/2004, 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+Objet et champ d’application 
+1. Le présent règlement établit des exigences applicables à l’échange automatique de données de vol aux fins de notification, de coordination et de transfert de vols entre les unités de contrôle de la circulation aérienne et aux fins de la coordination civile-militaire. 
+2. Le présent règlement s’applique aux: 
+a) systèmes de traitement des données de vol utilisés par les unités de contrôle de la circulation aérienne fournissant des services relevant de la circulation aérienne générale; 
+b) systèmes d’échange de données de vol à l’appui des procédures de coordination entre les unités du service de la circulation aérienne et les unités de contrôle militaires. 
+3. Le présent règlement ne s’applique pas à l’échange de données de vol entre les unités de contrôle de la circulation aérienne servies par les systèmes de traitement des données de vol indiqués au paragraphe 2 pour lesquels les données de vol couvertes par le présent règlement sont synchronisées à l’aide d’un système commun. 
+Article 2 
+Définitions 
+1. Aux fins du présent règlement, les définitions figurant dans le règlement (CE) no 549/2004 s’appliquent. 
+2. En plus des définitions visées au paragraphe 1, les définitions suivantes s’appliquent: 
+1) "notification", la transmission par l’unité transférante de données pour mettre à jour le système de l’unité recevante en préparation de la coordination; 
+2) "coordination", la coordination entre unités de contrôle de la circulation aérienne du franchissement prévu de la limite commune, afin d’assurer la sécurité du vol; 
+3) "unité de contrôle de la circulation aérienne" (ci-après dénommée "unité ATC"), selon le cas, un centre de contrôle régional, une unité de contrôle d’approche ou une tour de contrôle d’aérodrome; 
+4) "coordination civile-militaire", la coordination entre entités civiles et militaires habilitées à prendre des décisions et à approuver les mesures nécessaires à cet effet; 
+5) "système de traitement des données de vol", la partie d’un système de services de circulation aérienne qui reçoit, traite automatiquement et distribue aux postes de travail des unités de contrôle de la circulation aérienne les données des plans de vol et les messages associés; 
+6) "unité du service de la circulation aérienne" (ci-après dénommée "unité ATS"), une unité, civile ou militaire, chargée de fournir des services de circulation aérienne; 
+7) "unité de contrôle militaire", toute unité militaire fixe ou mobile chargée de contrôler la circulation aérienne militaire et/ou menant d’autres activités qui, en raison de leur nature particulière, peuvent exiger un espace aérien réservé ou réglementé; 
+8) "unité transférante", l’unité de contrôle de la circulation aérienne qui transfère à l’unité ATC suivante sur l’itinéraire de vol la responsabilité de fournir à un aéronef un service de contrôle de la circulation aérienne; 
+9) "unité recevante", l’unité de contrôle de la circulation aérienne qui reçoit des données; 
+10) "limite", un plan horizontal ou vertical délimitant l’espace aérien dans lequel une unité ATC fournit des services de circulation aérienne; 
+11) "centre de contrôle régional" (ci-après dénommé "ACC"), une unité chargée de fournir des services de contrôle aérien aux vols contrôlés dans les zones de contrôle se trouvant sous sa responsabilité; 
+12) "poste de travail", le mobilier et les équipements techniques à l’aide desquels un membre du personnel du service de la circulation aérienne exécute les tâches liées à son travail; 
+13) "plan de vol", des informations spécifiques fournies aux unités du service de la circulation aérienne concernant un vol ou une portion de vol prévu d’un aéronef; 
+14) "avertissement", un message qui s’affiche à un poste de travail en cas d’échec de la procédure automatisée de coordination; 
+15) "données estimées", le point de coordination, l’heure estimée et le niveau de vol prévu d’un aéronef au point de coordination; 
+16) "radar secondaire de surveillance" (ci-après dénommé "SSR"), un système radar de surveillance qui utilise des émetteurs ou des récepteurs et des transpondeurs; 
+17) "lettre d’accord", un accord entre deux unités ATC adjacentes, qui spécifie la manière dont leurs responsabilités respectives en matière de contrôle de la circulation aérienne doivent être coordonnées; 
+18) "point de transfert de contrôle", un point sur la trajectoire de vol d’un aéronef où la responsabilité d’assurer les services de circulation aérienne à cet aéronef est transférée d’une unité ATC à la suivante; 
+19) "données de coordination", des données présentant un intérêt pour le personnel opérationnel en rapport avec les procédures de notification, de coordination et de transfert des vols et avec la procédure de coordination civile-militaire; 
+20) "niveau de transfert de contrôle", le niveau de vol convenu pendant la coordination s’il s’agit de la phase de vol en palier, ou le niveau de vol autorisé vers lequel le vol se dirige s’il est en phase de montée ou de descente au point de coordination; 
+21) "unité acceptante", l’unité de contrôle de la circulation aérienne qui prend en charge le contrôle du vol d’un aéronef; 
+22) "point de coordination" (ci-après dénommé "COP"), un point situé à la limite ou à proximité de la limite utilisé par les unités ATC et mentionné dans les procédures de coordination; 
+23) "unité notifiée", l’unité ATC qui a reçu les informations de notification; 
+24) "corrélation", le processus de liaison entre les données de plan de vol et la piste radar du même vol; 
+25) "autorisation", l’autorisation donnée par le contrôleur transférant un aéronef à un contrôleur de l’unité acceptante d’émettre des instructions de contrôle à l’aéronef avant le passage du point de transfert de contrôle; 
+26) "disponibilité", la mesure dans laquelle un système ou composant est opérationnel et accessible lorsqu’il doit être utilisé; 
+27) "fiabilité", la probabilité que l’installation au sol fonctionne à l’intérieur des tolérances spécifiées. 
+Article 3 
+Exigences en matière d’interopérabilité et de performance 
+1. Les fournisseurs de services de navigation aérienne veillent à ce que les systèmes visés à l’article 1er, paragraphe 2, point a), et servant les ACC soient conformes aux exigences en matière d’interopérabilité et de performance définies à l’annexe I, parties A et B. 
+2. Les fournisseurs de services de navigation aérienne qui ont indiqué dans leur lettre d’accord qu’ils mettront en œuvre les procédures de notification, de coordination initiale, de révision de la coordination, d’annulation de la coordination, de données de vol de base ou de changement des données de vol de base entre les unités ATC autres que les ACC, veillent à ce que les systèmes visés à l’article 1er, paragraphe 2, point a), soient conformes aux exigences en matière d’interopérabilité et de performance définies à l’annexe I, parties A et B. 
+3. Les fournisseurs de services de navigation aérienne qui ont indiqué dans leur lettre d’accord qu’ils mettront en œuvre les procédures de notification et de coordination avant le départ, de changement de fréquence ou de prise en charge manuelle des communications, veillent à ce que les systèmes visés à l’article 1er, paragraphe 2, point a), soient conformes aux exigences en matière d’interopérabilité et de performance définies à l’annexe I, parties A et C. 
+4. Les États membres veillent à ce que les systèmes visés à l’article 1er, paragraphe 2, point b), soient conformes aux exigences en matière d’interopérabilité et de performance définies à l’annexe I, parties A et B, en ce qui concerne les procédures de données de vol de base et de changement des données de vol de base. 
+5. Lorsque les unités du service de la circulation aérienne et les unités de contrôle militaires ont mis en œuvre, entre leurs systèmes visés à l’article 1er, paragraphe 2, point b), les procédures de notification d’intention de traversée, de demande d’autorisation de traversée, de contre-proposition de traversée ou d’annulation de traversée, les États membres veillent à ce que ces systèmes soient conformes aux exigences en matière d’interopérabilité et de performance définies à l’annexe I, parties A et C. 
+Article 4 
+Exigences en matière de qualité des services 
+1. Les fournisseurs de services de navigation aérienne veillent à ce que les systèmes visés à l’article 1er, paragraphe 2, point a), soient conformes aux exigences en matière de qualité de service définies à l’annexe II. 
+2. Les États membres veillent à ce que les systèmes visés à l’article 1er, paragraphe 2, point b), soient conformes aux exigences en matière de qualité de service définies à l’annexe II. 
+Article 5 
+Procédures associées 
+1. Pour un vol faisant l’objet d’une coordination initiale, les conditions de transfert d’un vol convenues engagent les deux unités ATC, à moins que la coordination ne soit annulée ou révisée. 
+2. Pour un vol faisant l’objet d’une révision de la coordination, les conditions de transfert d’un vol convenues engagent les deux unités ATC, à moins que la coordination ne soit annulée ou que les conditions ne fassent l’objet d’une révision supplémentaire. 
+3. Lorsque la clôture de la procédure de révision de la coordination ou d’annulation de la coordination n’est pas confirmée dans le respect des exigences de qualité applicables, l’unité transférante engage une coordination verbale. 
+Article 6 
+Exigences en matière de sécurité 
+Les États membres prennent les mesures nécessaires pour assurer que toute modification des systèmes automatiques existants d’échange de données de vol couverts par le présent règlement ou l’introduction de ces nouveaux systèmes soit précédée d’une évaluation de la sécurité, comprenant l’identification des dangers et l’évaluation et l’atténuation des risques, effectuée par les parties concernées. 
+Lors de cette évaluation de la sécurité, il est tenu compte au minimum des exigences en matière de sécurité figurant à l’annexe III. 
+Article 7 
+Conformité ou aptitude à l’emploi de composants 
+Avant de publier une déclaration CE de conformité ou d’aptitude à l’emploi visée à l’article 5 du règlement (CE) no 552/2004, les fabricants de composants des systèmes visés à l’article 1er, paragraphe 2, points a) et b), évaluent la conformité ou l’aptitude à l’emploi de ces composants conformément aux exigences définies à l’annexe IV, partie A. 
+Article 8 
+Vérification des systèmes 
+1. Les fournisseurs de services de navigation aérienne qui peuvent démontrer qu’ils remplissent les conditions énumérées dans l’annexe V procèdent à une vérification des systèmes visés à l’article 1er, paragraphe 2, point a), conformément aux exigences définies à l’annexe IV, partie B. 
+2. Les fournisseurs de services de navigation aérienne qui ne peuvent pas démontrer qu’ils remplissent les conditions énumérées dans l’annexe V sous-traitent à un organisme notifié une vérification des systèmes visés à l’article 1er, paragraphe 2, point a). Cette vérification est effectuée conformément aux exigences définies à l’annexe IV, partie C. 
+3. Les États membres veillent à ce que la vérification des systèmes visés à l’article 1er, paragraphe 2, point b), démontre la conformité de ces systèmes avec les exigences du présent règlement en matière d’interopérabilité et de performance, de qualité de service et de sécurité. 
+Article 9 
+Respect des dispositions 
+Les États membres prennent les mesures nécessaires pour assurer le respect des dispositions du présent règlement. 
+Article 10 
+Dispositions transitoires 
+1. Les dispositions transitoires prévues à l’article 10, paragraphe 1, du règlement (CE) no 552/2004 s’appliquent aux systèmes du réseau européen de gestion du trafic aérien visés à l’article 1er, paragraphe 2, à partir de la date d’entrée en vigueur du présent règlement, pour ce qui concerne les procédures de notification et de coordination initiale. 
+Elles s’appliquent aux systèmes du réseau européen de gestion du trafic aérien à partir du 1er janvier 2009 en ce qui concerne les procédures de révision de la coordination, d’annulation de la coordination, de données de vol de base et de changement des données de vol de base. 
+2. Les dispositions transitoires prévues à l’article 10, paragraphe 2, du règlement (CE) no 552/2004 s’appliquent aux systèmes visés à l’article 1er, paragraphe 2, à partir du 31 décembre 2012. 
+Article 11 
+Entrée en vigueur 
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne. 
+Il s’applique à partir du 1er janvier 2009 à tous les systèmes du réseau européen de gestion du trafic aérien visés à l’article 1er, paragraphe 2, pour ce qui concerne les procédures de révision de la coordination, d’annulation de la coordination, de données de vol de base et de changement des données de vol de base. 
+Il s’applique à partir du 31 décembre 2012 à tous les systèmes du réseau européen de gestion du trafic aérien visés à l’article 1er, paragraphe 2, qui sont opérationnels à cette date. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 6 juillet 2006. 
+Par la Commission 
+Jacques Barrot 
+Vice-président 
+[1] JO L 96 du 31.3.2004, p. 26. 
+[2] JO L 96 du 31.3.2004, p. 1. 
+[3] JO L 254 du 9.10.2000, p. 1. 
+[4] JO L 96 du 31.3.2004, p. 9. 
+-------------------------------------------------- 
+ANNEXE I 
+Exigences en matière d’interopérabilité et de performance 
+(visées à l’article 3) 
+PARTIE A: EXIGENCES GÉNÉRALES 
+1. EXIGENCES APPLICABLES AU SYSTÈME 
+1.1. Le système fournit toutes les informations nécessaires pour l’affichage, le traitement et la compilation des informations échangées dans les procédures spécifiées. 
+1.2. Le système est capable de recevoir, de stocker, de traiter, d'extraire, de présenter pour affichage et de transmettre automatiquement les informations de vol pertinentes pour les procédures de notification, de coordination, de transfert et de coordination civile-militaire. 
+1.3. Le système émet un avertissement en cas de détection d’une défaillance ou d’une anomalie de l’échange d’informations. 
+1.4. Le système est capable de transmettre aux postes de travail concernés des avertissements relatifs aux échanges d’informations. 
+1.5. Le système fournit au personnel ATC les moyens pour modifier les informations de vol pertinentes pour les procédures. 
+1.6. Le système est capable de fournir au personnel ATC des informations sur l’état des procédures d’échange d’informations. 
+2. ENREGISTREMENT DES DONNÉES D’ÉCHANGE D’INFORMATIONS 
+2.1. Les données d’échange d’informations sont enregistrées par le fournisseur de services de navigation aérienne de manière à permettre la récupération et l’affichage des données enregistrées. 
+PARTIE B: EXIGENCES APPLICABLES AUX PROCÉDURES OBLIGATOIRES COMPORTANT DES ÉCHANGES D’INFORMATIONS 
+1. NOTIFICATION 
+1.1. Informations de vol concernées 
+1.1.1. Les informations relatives à la procédure de notification comprennent au moins les éléments suivants: 
+- identification de l’aéronef, 
+- mode et code SSR (le cas échéant), 
+- aérodrome de départ, 
+- données estimées, 
+- aérodrome de destination, 
+- nombre et type d’aéronefs, 
+- type de vol, 
+- aptitude et état des équipements. 
+1.1.2. Les informations relatives à l’aptitude et à l’état des équipements concernent au moins les minima réduits de séparation verticale (reduced vertical separation minima, RVSM) et la capacité de séparation des canaux de 8,33 kHz. 
+1.1.3. Les informations relatives à l’aptitude et à l’état des équipements peuvent contenir d’autres éléments, conformément aux lettres d’accord. 
+1.2. Modalités d’application 
+1.2.1. La procédure de notification est exécutée au moins une fois pour chaque vol éligible qui prévoit de franchir la limite, à moins que le vol ne fasse l’objet d’une procédure de notification et de coordination avant le départ. 
+1.2.2. Les critères d’éligibilité des vols pour la notification de franchissement de la limite doivent être conformes aux lettres d’accord. 
+1.2.3. Lorsque la procédure de notification ne peut pas avoir lieu dans un délai convenu bilatéralement avant la procédure de coordination initiale, elle est intégrée dans la procédure de coordination initiale. 
+1.2.4. Si la procédure de notification est exécutée, elle doit précéder la procédure de coordination initiale. 
+1.2.5. La procédure de notification est répétée chaque fois qu’un changement intervient dans l’une des données suivantes avant la procédure de coordination initiale: 
+- COP, 
+- code SSR prévu au point de transfert de contrôle, 
+- aérodrome de destination, 
+- type d’aéronef, 
+- aptitude et état des équipements. 
+1.2.6. Si une divergence est constatée entre les données transmises et les données correspondantes dans le système recevant, ou si aucune information n’est disponible, ce qui nécessiterait une action corrective à la réception des données de coordination initiale, cette divergence est communiquée à un poste de travail approprié en vue de sa résolution. 
+1.3. Critères de temps pour le lancement de la procédure de notification 
+1.3.1. La procédure de notification est déclenchée un nombre de minutes, déterminé selon un paramètre défini, avant l’heure estimée de passage au COP. 
+1.3.2. Le ou les paramètres de notification figurent dans les lettres d’accord entre les unités ATC concernées. 
+1.3.3. Le ou les paramètres de notification peuvent être définis séparément pour chacun des points de coordination. 
+2. COORDINATION INITIALE 
+2.1. Informations de vol concernées 
+2.1.1. Les informations relatives à la procédure de coordination initiale comprennent au moins les éléments suivants: 
+- identification de l’aéronef, 
+- mode et code SSR, 
+- aérodrome de départ, 
+- données estimées, 
+- aérodrome de destination, 
+- nombre et type d’aéronefs, 
+- type de vol, 
+- aptitude et état des équipements. 
+2.1.2. Les informations relatives à l’aptitude et à l’état des équipements concernent au moins la capacité RVSM et la capacité 8,33 kHz. 
+2.1.3. Les informations relatives à l’aptitude et à l’état des équipements peuvent contenir d’autres éléments convenus bilatéralement dans les lettres d’accord. 
+2.2. Modalités d’application 
+2.2.1. La procédure de coordination initiale est exécutée pour tous les vols éligibles prévoyant de franchir la limite. 
+2.2.2. Les critères d’éligibilité pour la coordination initiale des vols franchissant la limite doivent être conformes aux lettres d’accord. 
+2.2.3. Sauf si elle a déjà été déclenchée manuellement, la procédure de coordination initiale est lancée automatiquement: 
+- après une période, convenue bilatéralement, avant l’heure prévue de passage au point de coordination, ou 
+- au moment où le vol se trouve à une distance bilatéralement convenue du point de coordination, 
+conformément aux lettres d’accord. 
+2.2.4. La procédure de coordination initiale pour un vol est exécutée une seule fois, à moins que la procédure d’annulation de la coordination ne soit lancée. 
+2.2.5. À la suite d’une procédure d’annulation de la coordination, la procédure de coordination initiale peut être exécutée à nouveau avec la même unité. 
+2.2.6. La clôture de la procédure de coordination initiale, y compris la confirmation de l’unité recevante, est communiquée à l’unité transférante — le vol est alors considéré comme étant "coordonné". 
+2.2.7. Si la clôture de la procédure de coordination initiale n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail responsable de la coordination du vol dans l’unité transférante. 
+2.2.8. Les informations relatives à la coordination initiale sont mises à disposition au poste de travail approprié dans l’unité recevante. 
+3. RÉVISION DE LA COORDINATION 
+3.1. Informations de vol concernées 
+3.1.1. La procédure de révision de la coordination assure le lien avec le vol précédemment coordonné. 
+3.1.2. La révision de la coordination fournit les informations de vol suivantes si elles ont changé: 
+- mode et code SSR, 
+- temps et niveau de vol estimés, 
+- aptitude et état des équipements. 
+3.1.3. S’il en a été convenu bilatéralement, les données de révision de la coordination fournissent les éléments suivants s’ils ont changé: 
+- point de coordination, 
+- route. 
+3.2. Modalités d’application 
+3.2.1. La procédure de révision de la coordination peut avoir lieu une ou plusieurs fois avec l’unité avec laquelle un vol est actuellement coordonné. 
+3.2.2. La procédure de révision de la coordination a lieu lorsque: 
+- l’heure estimée de passage au point de coordination diffère de celle fournie précédemment de plus d’une valeur convenue bilatéralement, 
+- le(s) niveau(x) de transfert, le code SSR ou l’aptitude et l’état des équipements sont différents de ceux indiqués précédemment. 
+3.2.3. S’il en a été convenu bilatéralement, la procédure de révision de la coordination a lieu en cas de tout changement: 
+- du point de coordination, 
+- de la route. 
+3.2.4. La clôture de la procédure de révision de la coordination, y compris la confirmation de l’unité recevante, est communiquée à l’unité transférante. 
+3.2.5. Si la clôture de la procédure de révision de la coordination n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail responsable de la coordination du vol dans l’unité transférante. 
+3.2.6. La procédure de révision de la coordination a lieu immédiatement après l’introduction ou la mise à jour des données appropriées. 
+3.2.7. La procédure de révision de la coordination est inhibée lorsque le vol se trouve à une distance temporelle ou spatiale bilatéralement convenue du point de transfert du contrôle, conformément aux lettres d’accord. 
+3.2.8. La révision de la coordination est mise à disposition au poste de travail approprié dans l’unité recevante. 
+4. ANNULATION DE LA COORDINATION 
+4.1. Informations de vol concernées 
+4.1.1. La procédure d’annulation de la coordination assure le lien avec la procédure de notification ou de coordination précédente qui est annulée. 
+4.2. Modalités d’application 
+4.2.1. La procédure d’annulation de la coordination a lieu pour un vol coordonné lorsque: 
+- l’unité n’est plus l’unité suivante dans la séquence de coordination, 
+- le plan de vol est annulé dans l’unité transférante et la coordination n’est plus pertinente, 
+- une information d’annulation de la coordination est reçue de l’unité précédente en ce qui concerne le vol. 
+4.2.2. La procédure d’annulation de la coordination peut avoir lieu avec une unité pour un vol notifié lorsque: 
+- l’unité n’est plus l’unité suivante dans la séquence de coordination, 
+- le plan de vol est annulé dans l’unité transférante et la coordination n’est plus pertinente, 
+- une annulation de la coordination est reçue de l’unité précédente en ce qui concerne le vol, 
+- le vol est retardé en route, et une estimation révisée ne peut pas être établie automatiquement. 
+4.2.3. La clôture de la procédure d’annulation de la coordination, y compris la confirmation de l’unité recevante, est communiquée à l’unité transférante. 
+4.2.4. Si la clôture de la procédure d’annulation de la coordination n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail responsable de la coordination du vol dans l’unité transférante. 
+4.2.5. Les informations relatives à l’annulation de la coordination sont mises à disposition au poste de travail approprié dans l’unité notifiée ou dans l’unité avec laquelle la coordination est annulée. 
+5. DONNÉES DE VOL DE BASE 
+5.1. Informations de vol concernées 
+5.1.1. Les informations relatives à la procédure de données de vol de base comprennent au moins les éléments suivants: 
+- identification de l’aéronef, 
+- mode et code SSR. 
+5.1.2. Toute information complémentaire fournie par la procédure de données de vol de base doit faire l’objet d’un accord bilatéral. 
+5.2. Modalités d’application 
+5.2.1. La procédure de données de vol de base est exécutée automatiquement pour chaque vol éligible. 
+5.2.2. Les critères d’éligibilité pour les données de vol de base doivent être conformes aux lettres d’accord. 
+5.2.3. La clôture de la procédure de données de vol de base, y compris la confirmation de l’unité recevante, est communiquée à l’unité fournissant les données. 
+5.2.4. Si la clôture de la procédure de données de vol de base n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail approprié dans l’unité fournissant les données. 
+6. MODIFICATION DES DONNÉES DE VOL DE BASE 
+6.1. Informations de vol concernées 
+6.1.1. La procédure de modification des données de vol de base assure le lien avec le vol ayant précédemment fait l’objet d’un processus de données de vol de base. 
+6.1.2. Toute autre information relative à la procédure de modification des données de vol de base et aux critères associés pour son exécution fait l’objet d’un accord bilatéral. 
+6.2. Modalités d’application 
+6.2.1. Une procédure de modification des données de vol de base n’a lieu que pour un vol qui a été notifié précédemment par une procédure de données de vol de base. 
+6.2.2. Une procédure de modification des données de vol de base est lancée automatiquement conformément aux critères convenus bilatéralement. 
+6.2.3. La clôture de la procédure de modification des données de vol de base, y compris la confirmation de l’unité recevante, est communiquée à l’unité fournissant les données. 
+6.2.4. Si la clôture de la procédure de modification des données de vol de base n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail approprié dans l’unité fournissant les données. 
+6.2.5. Les informations relatives à la modification des données de vol de base sont mises à disposition au poste de travail approprié dans l’unité recevante. 
+PARTIE C: EXIGENCES APPLICABLES AUX PROCÉDURES FACULTATIVES COMPORTANT DES ÉCHANGES D’INFORMATIONS 
+1. NOTIFICATION ET COORDINATION AVANT LE DÉPART 
+1.1. Informations de vol concernées 
+1.1.1. Les informations relatives à la procédure de notification et de coordination avant le départ comprennent au moins les éléments suivants: 
+- identification de l’aéronef, 
+- mode et code SSR (le cas échéant), 
+- aérodrome de départ, 
+- temps de décollage estimé ou données estimées, selon ce qui est convenu bilatéralement, 
+- aérodrome de destination, 
+- nombre et type d’aéronefs. 
+1.1.2. Les informations relatives à la procédure de notification et de coordination avant le départ fournies par une unité de contrôle d’une région de contrôle terminale (TMA) ou par un ACC comprennent les éléments suivants: 
+- type de vol, 
+- aptitude et état des équipements. 
+1.1.3. Les informations relatives à l’aptitude et à l’état des équipements concernent au moins la capacité RVSM et la capacité 8,33 kHz. 
+1.1.4. Les informations relatives à l’aptitude et à l’état des équipements peuvent contenir d’autres éléments convenus bilatéralement dans les lettres d’accord. 
+1.2. Modalités d’application 
+1.2.1. La procédure de notification et de coordination avant le départ a lieu une ou plusieurs fois pour chaque vol éligible prévoyant de franchir la limite lorsque le temps de vol à partir du départ jusqu’au point de coordination n’est pas suffisant pour l’exécution des procédures de coordination initiale ou de notification. 
+1.2.2. Les critères d’éligibilité pour la notification et la coordination avant le départ des vols franchissant la limite doivent être conformes aux lettres d’accord. 
+1.2.3. La procédure de notification et de coordination avant le départ est répétée chaque fois qu’un changement intervient dans tout élément des données relatives à la procédure précédente de notification et de coordination avant le départ. 
+1.2.4. La clôture de la procédure de notification et de coordination avant le départ, y compris la confirmation de l’unité recevante, est communiquée à l’unité transférante. 
+1.2.5. Si la clôture de la procédure de notification et de coordination avant le départ n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail responsable de la notification/coordination du vol dans l’unité transférante. 
+1.2.6. Les informations relatives à la notification et à la coordination avant le départ sont mises à disposition au poste de travail approprié dans l’unité notifiée. 
+2. CHANGEMENT DE FRÉQUENCE 
+2.1. Informations de vol concernées 
+2.1.1. Les informations relatives aux procédures de changement de fréquence comprennent au minimum: 
+- l’identification de l’aéronef. 
+2.1.2. Les informations relatives aux procédures de changement de fréquence comprennent les données suivantes, si elles sont disponibles: 
+- indication d’autorisation, 
+- niveau de vol autorisé, 
+- cap/piste assigné ou autorisation directe, 
+- vitesse assignée, 
+- vitesse de montée/descente assignée. 
+2.1.3. S’il en a été convenu bilatéralement, les données de changement de fréquence contiennent les éléments suivants: 
+- position actuelle de la piste, 
+- fréquence à utiliser. 
+2.2. Modalités d’application 
+2.2.1. La procédure de changement de fréquence est lancée manuellement par le contrôleur transférant. 
+2.2.2. La clôture de la procédure de changement de fréquence, y compris la confirmation de l’unité recevante, est communiquée à l’unité ATC transférante. 
+2.2.3. Si la clôture de la procédure de changement de fréquence n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail approprié dans l’unité ATC transférante. 
+2.2.4. Les informations relatives au changement de fréquence sont transmises sans retard au contrôleur acceptant. 
+3. PRISE EN CHARGE MANUELLE DES COMMUNICATIONS 
+3.1. Informations de vol concernées 
+3.1.1. Les informations relatives à la procédure de prise en charge manuelle des communications comprennent au minimum l’identification de l’aéronef. 
+3.2. Modalités d’application 
+3.2.1. La procédure de prise en charge manuelle des communications est lancée par l’unité acceptante lorsque la communication est établie. 
+3.2.2. La clôture de la procédure de prise en charge manuelle des communications, y compris la confirmation de l’unité transférante, est communiquée à l’unité ATC acceptante. 
+3.2.3. Si la clôture de la procédure de prise en charge manuelle des communications n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail approprié dans l’unité ATC acceptante. 
+3.2.4. Les informations relatives à la prise en charge manuelle des communications sont transmises immédiatement au contrôleur dans l’unité transférante. 
+4. NOTIFICATION D’INTENTION DE TRAVERSÉE 
+4.1. Informations de vol concernées 
+4.1.1. Les informations relatives à la procédure de notification d’intention de traversée comprennent au moins les éléments suivants: 
+- identification de l’aéronef, 
+- mode et code SSR, 
+- nombre et type d’aéronefs, 
+- identifiant du secteur en charge, 
+- route de traversée, avec indication du temps et du niveau de vol estimés pour chaque point sur la route. 
+4.2. Modalités d’application 
+4.2.1. La procédure de notification d’intention de traversée est lancée manuellement par le contrôleur ou automatiquement comme décrit dans les lettres d’accord. 
+4.2.2. La clôture de la procédure de notification d’intention de traversée, y compris la confirmation de l’unité notifiée, est communiquée à l’unité notifiante. 
+4.2.3. Si la clôture de la procédure de notification d’intention de traversée n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché dans l’unité notifiante. 
+4.2.4. Les informations relatives à la notification d’intention de traversée sont mises à disposition au poste de travail approprié dans l’unité notifiée. 
+5. DEMANDE D’AUTORISATION DE TRAVERSÉE 
+5.1. Informations de vol concernées 
+5.1.1. Les informations relatives au processus de demande d’autorisation de traversée comprennent au moins les éléments suivants: 
+- identification de l’aéronef, 
+- mode et code SSR, 
+- nombre et type d’aéronefs, 
+- identifiant du secteur en charge, 
+- route de traversée, avec indication du temps et du niveau de vol estimés pour chaque point sur la route. 
+5.1.2. S’il en a été convenu bilatéralement, une demande d’autorisation de traversée comprend des informations sur l’aptitude et l’état des équipements. 
+5.1.3. Les informations relatives à l’aptitude et à l’état des équipements concernent au moins la capacité RVSM. 
+5.1.4. Les informations relatives à l’aptitude et à l’état des équipements peuvent contenir d’autres éléments convenus bilatéralement. 
+5.2. Modalités d’application 
+5.2.1. La demande d’autorisation de traversée est lancée à la discrétion du contrôleur, conformément aux conditions spécifiées dans les lettres d’accord. 
+5.2.2. La clôture de la procédure de demande d’autorisation de traversée, y compris la confirmation de l’unité recevant la demande, est communiquée à l’unité faisant la demande. 
+5.2.3. Si la clôture de la procédure de demande d’autorisation de traversée n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail approprié dans l’unité faisant la demande. 
+5.2.4. Les informations relatives à la demande d’autorisation de traversée sont mises à disposition au poste de travail approprié dans l’unité recevant la demande. 
+5.3. Réponse opérationnelle 
+5.3.1. Il est répondu à une demande d’autorisation de traversée par: 
+- l’acceptation de la route et des détails de traversée de l’espace aérien proposés, ou 
+- une contre-proposition, avec une route et des détails de traversée de l’espace aérien différents, comme indiqué à la section 6 ci-dessous, ou 
+- le rejet de la route et des détails de traversée de l’espace aérien proposés. 
+5.3.2. Si une réponse opérationnelle n’est pas reçue dans un délai convenu bilatéralement, un avertissement est affiché au poste de travail approprié dans l’unité faisant la demande. 
+6. CONTRE-PROPOSITION DE TRAVERSÉE 
+6.1. Informations de vol concernées 
+6.1.1. Le processus de contre-proposition de traversée assure le lien avec le vol précédemment coordonné. 
+6.1.2. Les informations relatives à la procédure de contre-proposition de traversée comprennent au moins les éléments suivants: 
+- identification de l’aéronef, 
+- route de traversée, avec indication du temps et du niveau de vol estimés pour chaque point sur la route. 
+6.2. Modalités d’application 
+6.2.1. La contre-proposition comprend un nouveau niveau de vol et/ou une nouvelle route. 
+6.2.2. La clôture de la procédure de contre-proposition de traversée, y compris la confirmation de l’unité ayant fait la demande initiale, est communiquée à l’unité faisant la contre-proposition. 
+6.2.3. Si la clôture de la procédure de contre-proposition de traversée n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail approprié dans l’unité faisant la contre-proposition. 
+6.2.4. Les informations relatives à la contre-proposition de traversée sont mises à disposition au poste de travail approprié dans l’unité ayant fait la demande initiale. 
+6.3. Réponse opérationnelle 
+6.3.1. La confirmation du traitement des informations relatives à la contre-proposition de traversée dans l’unité ayant fait la demande initiale est suivie d’une réponse opérationnelle de cette unité. 
+6.3.2. La réponse opérationnelle à une contre-proposition de traversée est une acceptation ou un rejet, selon le cas. 
+6.3.3. Si une réponse opérationnelle n’est pas reçue dans un délai convenu bilatéralement, un avertissement s’affiche au poste de travail approprié dans l’unité faisant la contre-proposition. 
+7. ANNULATION DE TRAVERSÉE 
+7.1. Informations de vol concernées 
+7.1.1. La procédure d’annulation de traversée assure le lien avec la procédure de notification ou de coordination précédente qui est annulée. 
+7.2. Modalités d’application 
+7.2.1. Une procédure d’annulation de traversée est lancée par l’unité responsable du vol dans l’un des cas suivants: 
+- le vol précédemment notifié par une procédure de données de vol de base n’entrera pas dans l’espace aérien de l’unité notifiée ou ne concerne plus l’unité notifiée, 
+- la traversée n’aura pas lieu sur la route indiquée dans la notification de traversée, 
+- la traversée n’aura pas lieu dans les conditions en cours de négociation ou dans les conditions convenues après un dialogue de traversée d’espace aérien. 
+7.2.2. Une procédure d’annulation de traversée est déclenchée automatiquement ou manuellement par une intervention du contrôleur, conformément aux lettres d’accord. 
+7.2.3. La clôture de la procédure d’annulation de traversée, y compris la confirmation de l’unité notifiée/sollicitée, est communiquée à l’unité effectuant l’annulation. 
+7.2.4. Si la clôture de la procédure d’annulation de traversée n’est pas confirmée, dans le respect des exigences de qualité de service applicables, un avertissement est affiché au poste de travail approprié dans l’unité effectuant l’annulation. 
+7.2.5. Les informations relatives à l’annulation de traversée sont mises à disposition au poste de travail approprié dans l’unité notifiée/sollicitée. 
+-------------------------------------------------- 
+ANNEXE II 
+Exigences en matière de qualité de service 
+(visées à l’article 4) 
+1. Disponibilité, fiabilité, sécurité et intégrité des données 
+1.1. Les équipements d’échange d’informations doivent être disponibles pendant les heures de service de l’unité. 
+1.2. Toute période d’arrêt programmée est convenue bilatéralement par les deux unités concernées. 
+1.3. La fiabilité d’une liaison pour l’échange d’informations doit être d’au moins 99,86 %. 
+1.4. L’intégrité et la sécurité des informations échangées à l’aide des équipements d’échange d’informations doivent être assurées au niveau approprié conformément aux pratiques reconnues. 
+2. Temps de traitement 
+2.1. Le temps de traitement est l’intervalle entre le déclenchement de la procédure et le moment où la confirmation requise est disponible dans l’unité ayant lancé la procédure. 
+2.2. Le temps de traitement ne comprend pas la réponse opérationnelle lorsque celle-ci est requise. 
+2.3. Le temps de traitement maximal avant l’affichage d’un avertissement est convenu bilatéralement. 
+-------------------------------------------------- 
+ANNEXE III 
+Exigences en matière de sécurité 
+(visées à l’article 6) 
+1. La mise en œuvre des échanges d’informations et des liaisons de communication vocale sol/sol doit exclure autant que raisonnablement faisable la possibilité d’une défaillance simultanée. 
+2. Les exigences en matière d’interopérabilité et de performance définies aux points 3.2.4, 3.2.5, 4.2.3, 4.2.4, 5.2.3, 5.2.4, 6.2.3 et 6.2.4 de l’annexe I, partie B, sont également considérées comme des exigences en matière de sécurité. 
+3. Pour la révision des procédures de coordination, d’annulation de la coordination, les données de vol de base et de modification des données de vol de base, les exigences en matière de qualité de service définies à l’annexe II sont également considérées comme des exigences en matière de sécurité. 
+-------------------------------------------------- 
+ANNEXE IV 
+PARTIE A: EXIGENCES POUR L’ÉVALUATION DE LA CONFORMITÉ OU DE L’APTITUDE À L’EMPLOI DE COMPOSANTS VISÉE À L’ARTICLE 7 
+1. Les activités de vérification visent à démontrer la conformité des composants avec les exigences en matière d’interopérabilité et de performance, de qualité de service et de sécurité du présent règlement, ou leur aptitude à l’emploi lorsqu’ils fonctionnent dans l’environnement d’essai. 
+2. Le fabricant gère les activités d’évaluation de la conformité et, en particulier: 
+- détermine l’environnement d’essai approprié, 
+- vérifie que le plan d’essai décrit les composants dans l’environnement d’essai, 
+- vérifie que le plan d’essai couvre la totalité des exigences applicables, 
+- veille à la cohérence et à la qualité de la documentation technique et du plan d’essai, 
+- planifie l’organisation de l’essai, le personnel, l’installation et la configuration de la plate-forme d’essai, 
+- effectue les inspections et les essais prévus dans le plan d’essai, 
+- rédige le rapport présentant les résultats des inspections et des essais. 
+3. Le fabricant veille à ce que les composants utilisés pour les échanges d’informations sur les procédures de notification, de coordination et de transfert des vols et la procédure de coordination civile-militaire et intégrés dans l’environnement d’essai satisfassent aux exigences en matière d’interopérabilité, de performance, de qualité de service et de sécurité du présent règlement. 
+4. Après que la vérification de la conformité ou de l’aptitude à l’emploi a été menée à bien, le fabricant établit, sous sa responsabilité, la déclaration CE de conformité ou d’aptitude à l’emploi, en précisant notamment les exigences du présent règlement auxquelles le composant est conforme et ses conditions d’emploi, conformément à l’annexe III, point 3, du règlement sur l’interopérabilité. 
+PARTIE B: EXIGENCES POUR LA VÉRIFICATION DES SYSTÉMES VISÉE À L’ARTICLE 8, PARAGRAPHE 1 
+1. La vérification des systèmes doit démontrer la conformité de ces systèmes avec les exigences d’interopérabilité et de performance, de qualité de service et de sécurité définies par le présent règlement, dans un environnement simulé qui reflète les conditions opérationnelles de ces systèmes. 
+2. La vérification des systèmes mettant en œuvre des échanges d’informations à l’appui des procédures de notification, de coordination et de transfert de vols et de la procédure de coordination civile-militaire est effectuée conformément aux pratiques d’essai appropriées et reconnues. 
+3. Les outils d’essai utilisés pour la vérification des systèmes mettant en œuvre des échanges d’informations à l’appui des procédures de notification, de coordination et de transfert de vols et de la procédure de coordination civile-militaire doivent être dotés des fonctionnalités appropriées. 
+4. La vérification des systèmes mettant en œuvre des échanges d’informations à l’appui des procédures de notification, de coordination et de transfert de vols et de la procédure de coordination civile-militaire doit produire les éléments du dossier technique visé à l’annexe IV, point 3, du règlement sur l’interopérabilité, ainsi que les éléments suivants: 
+- la description de la mise en œuvre, 
+- le rapport des inspections et des essais effectués avant la mise en service des systèmes. 
+5. Le fournisseur de services de navigation aérienne gère les activités de vérification et, notamment: 
+- détermine l’environnement opérationnel et technique simulé approprié reflétant l’environnement opérationnel réel, 
+- vérifie que le plan d’essai décrit l’intégration des échanges d’informations à l’appui des procédures de notification, de coordination et de transfert de vols et de la procédure de coordination civile-militaire dans le système faisant l’objet d’essais dans un environnement opérationnel et technique simulé, 
+- vérifie que le plan d’essai couvre la totalité des exigences d’interopérabilité et de performance, de qualité de service et de sécurité définies par le présent règlement, 
+- veille à la cohérence et à la qualité de la documentation technique et du plan d’essai, 
+- planifie l’organisation de l’essai, le personnel, l’installation et la configuration de la plate-forme d’essai, 
+- effectue les inspections et les essais prévus dans le plan d’essai, 
+- rédige le rapport présentant les résultats des inspections et des essais. 
+6. Le fournisseur de services de navigation aérienne veille à ce que la mise en œuvre des échanges d’informations à l’appui des procédures de notification, de coordination et de transfert de vols et de la procédure de coordination civile-militaire, intégrés dans des systèmes fonctionnant dans un environnement opérationnel simulé, soit conforme aux exigences d’interopérabilité et de performance, de qualité de service et de sécurité définies par le présent règlement. 
+7. Après que la vérification de la conformité a été menée à bien, le fournisseur de services de navigation aérienne établit la déclaration CE de vérification des systèmes et la soumet à l’autorité de surveillance nationale, accompagnée d’un dossier technique, comme prévu à l’article 6 du règlement sur l’interopérabilité. 
+PARTIE C: EXIGENCES POUR LA VÉRIFICATION DES SYSTÉMES VISÉE À L’ARTICLE 8, PARAGRAPHE 2 
+1. La vérification des systèmes doit démontrer la conformité de ces systèmes avec les exigences d’interopérabilité et de performance, de qualité de service et de sécurité définies par le présent règlement, dans un environnement simulé qui reflète les conditions opérationnelles de ces systèmes. 
+2. La vérification des systèmes mettant en œuvre des échanges d’informations à l’appui des procédures de notification, de coordination et de transfert de vols et de la procédure de coordination civile-militaire est effectuée conformément aux pratiques d’essai appropriées et reconnues. 
+3. Les outils d’essai utilisés pour la vérification des systèmes mettant en œuvre des échanges d’informations à l’appui des procédures de notification, de coordination et de transfert de vols et de la procédure de coordination civile-militaire doivent être dotés des fonctionnalités appropriées. 
+4. La vérification des systèmes mettant en œuvre des échanges d’informations à l’appui des procédures de notification, de coordination et de transfert de vols et de la procédure de coordination civile-militaire doit produire les éléments du dossier technique visé à l’annexe IV, point 3, du règlement sur l’interopérabilité, ainsi que les éléments suivants: 
+- la description de la mise en œuvre, 
+- le rapport des inspections et des essais effectués avant la mise en service des systèmes. 
+5. Le fournisseur de services de navigation aérienne détermine l’environnement opérationnel et technique simulé approprié reflétant l’environnement opérationnel réel et fait procéder aux activités de vérification par un organisme notifié. 
+6. L’organisme notifié gère les activités de vérification et, notamment: 
+- vérifie que le plan d’essai décrit l’intégration des échanges d’informations à l’appui des procédures de notification, de coordination et de transfert de vols et de la procédure de coordination civile-militaire dans le système faisant l’objet d’essais dans un environnement opérationnel et technique simulé, 
+- vérifie que le plan d’essai couvre la totalité des exigences d’interopérabilité et de performance, de qualité de service et de sécurité définies par le présent règlement, 
+- veille à la cohérence et à la qualité de la documentation technique et du plan d’essai, 
+- planifie l’organisation de l’essai, le personnel, l’installation et la configuration de la plate-forme d’essai, 
+- effectue les inspections et les essais prévus dans le plan d’essai, 
+- rédige le rapport présentant les résultats des inspections et des essais. 
+7. L’organisme notifié veille à ce que la mise en œuvre des échanges d’informations à l’appui des procédures de notification, de coordination et de transfert de vols et de la procédure de coordination civile-militaire, intégrés dans des systèmes fonctionnant dans un environnement opérationnel simulé, soit conforme aux exigences d’interopérabilité et de performance, de qualité de service et de sécurité définies par le présent règlement. 
+8. Après que les tâches de vérification ont été menées à bien, l’organisme notifié établit un certificat de conformité en relation avec les tâches qu’il a effectuées. 
+9. Ensuite, le fournisseur de services de navigation aérienne établit la déclaration CE de vérification des systèmes et la soumet à l’autorité de surveillance nationale, accompagnée d’un dossier technique, comme prévu à l’article 6 du règlement sur l’interopérabilité. 
+-------------------------------------------------- 
+ANNEXE V 
+Conditions visées à l’article 8 
+1. Le fournisseur de services de navigation aérienne met en œuvre, au sein de son organisation, des méthodes en matière de rapports qui garantissent et démontrent l’impartialité et l’indépendance de jugement dans les activités de vérification. 
+2. Le fournisseur de services de navigation aérienne veille à ce que le personnel chargé des vérifications s’acquitte de ses tâches avec la plus grande intégrité professionnelle et la plus haute compétence technique possibles et ne fasse l’objet d’aucune pression ni incitation, notamment de nature financière, qui pourrait affecter son jugement ou les résultats de ses enquêtes, notamment de la part de personnes ou de groupes de personnes concernés par les résultats des vérifications. 
+3. Le fournisseur de services de navigation aérienne veille à ce que le personnel chargé des vérifications ait un accès aux équipements qui permette d’effectuer correctement les vérifications requises. 
+4. Le fournisseur de services de navigation aérienne veille à ce que le personnel chargé des vérifications jouisse d’une bonne formation technique et professionnelle, ait une connaissance satisfaisante des exigences des vérifications qu’il doit effectuer, une expérience adéquate de ces opérations et la capacité requise pour établir les déclarations, les enregistrements et les rapports démontrant que les vérifications ont été effectuées. 
+5. Le fournisseur de services de navigation aérienne veille à ce que le personnel chargé des vérifications puisse exécuter celles-ci en toute impartialité. La rémunération de chaque agent ne doit être fonction ni du nombre des vérifications qu’il effectue ni du résultat de ces vérifications. 
+-------------------------------------------------- 

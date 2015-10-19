@@ -1,0 +1,389 @@
+Commission Regulation (EC) No 198/2006 of 3 February 2006 implementing Regulation (EC) No 1552/2005 of the European Parliament and the Council on statistics relating to vocational training in enterprises (Text with EEA relevance) 
+Commission Regulation (EC) No 198/2006 
+of 3 February 2006 
+implementing Regulation (EC) No 1552/2005 of the European Parliament and the Council on statistics relating to vocational training in enterprises 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Regulation (EC) No 1552/2005 of the European Parliament and the Council of 7 September 2005 on statistics relating to vocational training in enterprises [1], and in particular Articles 7(3), 8(2), 9(4), 10(2), and 11(3) thereof, 
+Whereas: 
+(1) Regulation (EC) No 1552/2005 establishes a common framework for the production of Community statistics on vocational training in enterprises. 
+(2) In order to implement Regulation (EC) No 1552/2005, measures concerning the sampling and precision requirements and sample size needed to meet these requirement, and the detailed NACE and size categories into which the results can be broken down, should be adopted. 
+(3) The Commission should define the specific data to be collected with respect to the training and non-training enterprises and to the different forms of vocational training. 
+(4) Implementing measures concerning the quality requirements for the data to be collected and transmitted for Community statistics on vocational training in enterprises, the structure of the quality reports and any measures necessary for assessing or improving the quality of the data should be adopted. 
+(5) The first reference year for which the data are to be collected should be established. 
+(6) Provisions should also be adopted concerning the appropriate technical format and interchange standard of the electronically transmitted data. 
+(7) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+This Regulation lays down measures to implement Regulation (EC) No 1552/2005 on statistics relating to vocational training in enterprises. 
+Article 2 
+The first reference year for which the data are to be collected shall be the calendar year 2005. 
+Article 3 
+The specific variables to be transmitted to the Commission (Eurostat) shall be as specified in Annex I. 
+Article 4 
+Sampling and precision requirements, the sample sizes needed to meet these requirements, and the detailed specifications of the NACE and size categories into which the results can be broken down shall be as specified in Annex II. 
+Article 5 
+Member States shall be responsible for data checking, error correction, imputation and weighting. 
+Imputation and weighting of variables shall follow the principles laid down in Annex III. Derogation from these principles shall be fully justified and reported in the quality report. 
+Article 6 
+Data shall be transmitted to the Commission (Eurostat) by the means and in the format specified in Annex IV. 
+Article 7 
+Each Member State shall perform a quality evaluation of its data, to be presented in the form of a quality report. The quality report shall be prepared and presented to the Commission (Eurostat) in accordance with the format specified in Annex V. 
+Article 8 
+With a view to achieving a high level of harmonisation of the survey results across countries, the Commission (Eurostat) in close cooperation with Member States, shall propose methodological and practical recommendations and guidelines for the implementation of the survey in the form of a %quot%European Union Manual%quot%. 
+Article 9 
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 3 February 2006. 
+For the Commission 
+Joaquín Almunia 
+Member of the Commission 
+[1] OJ L 255, 30.9.2005, p. 1. 
+-------------------------------------------------- 
+ANNEX I 
+VARIABLES 
+Note to the table: 
+The value %quot%core%quot% and %quot%key%quot% in the column %quot%variable group%quot% are explained in Annex III. 
+The value %quot%ID%quot% means that the variable is an %quot%identification variable%quot%. 
+In the column %quot%variable type%quot% the value %quot%QL%quot% refers to %quot%Qualitative variable%quot% and %quot%QT%quot% refers to %quot%Quantitative variable%quot%. 
+Variable name | Variable group | Variable type | Variable length | Variable format | Variable description | Variable remark | 
+COUNTRY | ID | | 2 | Char | Country code | No missing — Unique by Country | 
+ENTERPR | ID | | 6 | Num | Enterprise ID | No missing — Unique by case | 
+WEIGHT | ID | | 10 | Num | Two decimal positions — Use %quot%.%quot% as decimal separator | No missing | 
+NACE_SP | ID | | 4 | Num | Sampling plan NACE — Category economic activity | No missing | 
+SIZE_SP | ID | | 1 | Num | Sampling plan size group | No missing | 
+NSTRA_SP | ID | | 5 | Num | Sampling plan — Number of enterprises in the stratum defined by NACE_SP and SIZE_SP, i.e. the population | No missing | 
+N_SP | ID | | 5 | Num | Sampling plan — Number of sampled enterprises from the sample-frame in the stratum defined by NACE_SP and SIZE_SP | No missing | 
+SUB_SP | ID | | 1 | Num | Sub-sample indicator, shows if enterprise belongs to sub-sample | No missing | 
+N_RESPST | ID | | 5 | Num | Number of responding enterprises in the stratum defined by NACE_SP and SIZE_SP, i.e. the population | No missing | 
+N_EMPREG | ID | | 6 | Num | Number of persons employed according to the register | | 
+RESPONSE | ID | | 1 | Num | Response indicator | No missing | 
+PROC | ID | | 2 | Num | Record data collection method | No missing | 
+IDLANGUA | ID | | 2 | Char | Language identification | | 
+IDREGION | ID | | 3 | Char | Region identification NUTS — Level 1 | No missing | 
+EXTRA1 | ID | | 10 | Num | Extra variable 1 | | 
+EXTRA2 | ID | | 10 | Num | Extra variable 2 | | 
+EXTRA3 | ID | | 10 | Num | Extra variable 3 | | 
+A1 | Core | QL | 4 | Num | Actual NACE CODE | Core variable — No missing — No imputation | 
+A2tot04 | Key | QT | 6 | Num | Total number of persons employed 31.12.2004 | Key variable — No missing | 
+A2tot05 | Core | QT | 6 | Num | Total number of persons employed 31.12.2005 | Core variable — No missing — No imputation | 
+A2m05 | | QT | 6 | Num | Total number of males employed 31.12.2005 | | 
+A2f05 | | QT | 6 | Num | Total number of females employed 31.12.2005 | | 
+A3a | | QT | 6 | Num | Persons employed — Under 25 years of age | | 
+A3b | | QT | 6 | Num | Persons employed — 25 to 54 years of age | | 
+A3c | | QT | 6 | Num | Persons employed — 55 years and older | | 
+A4 | Key | QT | 12 | Num | Total number of hours worked in the reference year 2005 by persons employed | Key variable — No missing — in hours | 
+A4m | | QT | 12 | Num | Total number of hours worked in the reference year 2005 by male persons employed | In hours | 
+A4f | | QT | 12 | Num | Total number of hours worked in the reference year 2005 by female persons employed | In hours | 
+A5 | Key | QT | 12 | Num | Total labour costs (direct + indirect) of all persons employed in the ref year 2005 | Key variable — No missing — in euro | 
+A6 | | QL | 1 | Num | SIGNIFICANTLY new technologically improved products or services or methods of producing or delivering products and services during the reference year | | 
+B1a | Core | QL | 1 | Num | Internal CVT courses | Core variable — No missing — No imputation | 
+B1b | Core | QL | 1 | Num | External CVT courses | Core variable — No missing — No imputation | 
+B2aflag | Core | QL | 1 | Num | Flag — On-the-job training | Core variable — No missing — No imputation | 
+B2a | | QT | 6 | Num | Participants in other form of CVT — On-the-job training | | 
+B2bflag | Core | QL | 1 | Num | Flag — Job rotation | Core variable — No missing — No imputation | 
+B2b | | QT | 6 | Num | Participants in other form of CVT — Job-rotation, exchanges, secondments or study visits | | 
+B2cflag | Core | QL | 1 | Num | Flag — Learning and quality circles | Core variable — No missing — No imputation | 
+B2c | | QT | 6 | Num | Participants in other form of CVT — Learning or quality circles | | 
+B2dflag | Core | QL | 1 | Num | Flag — Self-directed learning | Core variable — No missing — No imputation | 
+B2d | | QT | 6 | Num | Participants in other form of CVT — Self-directed learning | | 
+B2eflag | Core | QL | 1 | Num | Flag — Attendance at conferences etc. | Core variable — No missing — No imputation | 
+B2e | | QT | 6 | Num | Participants in other form of CVT — Attendance at conferences, etc. | | 
+B3a | | QL | 1 | Num | CVT courses for persons employed in the previous year 2004 | | 
+B3b | | QL | 1 | Num | Expect to provide CVT courses for persons employed during the next year 2006 | | 
+B4a | | QL | 1 | Num | Other forms of CVT for persons employed in the previous year 2004 | | 
+B4b | | QL | 1 | Num | Expect to provide other forms of CVT for persons employed during the next year 2006 | | 
+C1tot | Key | QT | 6 | Num | Total CVT course participants | Key variable — No missing | 
+C1m | | QT | 6 | Num | CVT course participants — Male | | 
+C1f | | QT | 6 | Num | CVT course participants — Female | | 
+C2a | | QT | 6 | Num | CVT participants — Under 25 years of age | | 
+C2b | | QT | 6 | Num | CVT participants — 25 to 54 years of age | | 
+C2c | | QT | 6 | Num | CVT participants — 55 years and older | | 
+C3tot | Key | QT | 10 | Num | Paid working time (in hours) spent on all CVT courses | Key variable — No missing — In hours | 
+C3i | | QT | 10 | Num | Paid working time (in hours) for internal CVT courses | In hours | 
+C3e | | QT | 10 | Num | Paid working time (in hours) for external CVT courses | In hours | 
+C4tot | Key | QT | 10 | Num | Paid working time (in hours) spent on all CVT courses | Key variable — No missing — In hours | 
+C4m | | QT | 10 | Num | Paid working time (in hours) in CVT courses — Male | In hours | 
+C4f | | QT | 10 | Num | Paid working time (in hours) in CVT courses — Female | In hours | 
+C5a | | QT | 10 | Num | Paid working time in hours — Languages, foreign (222) and mother tongue (223) | In hours | 
+C5b | | QT | 10 | Num | Paid working time in hours — Sales (341) and marketing (342) | In hours | 
+C5c | | QT | 10 | Num | Paid working time in hours — Accounting (344) and finance (343), management and administration (345) and office work (346) | In hours | 
+C5d | | QT | 10 | Num | Paid working time in hours — Personal skills/development (090), working life (347) | In hours | 
+C5e | | QT | 10 | Num | Paid working time in hours — Computer science (481) and computer use (482) | In hours | 
+C5f | | QT | 10 | Num | Paid working time in hours — Engineering, manufacturing and construction (5) | In hours | 
+C5g | | QT | 10 | Num | Paid working time in hours — Environment protection (850) and occupational health and safety (862) | In hours | 
+C5h | | QT | 10 | Num | Paid working time in hours — Personal services (81), transport services (84), protection of property and persons (861) and military (863) | In hours | 
+C5i | | QT | 10 | Num | Paid working time in hours — Other training subjects | In hours | 
+C6a | | QT | 10 | Num | Paid working time (in hours) — Schools, colleges, universities and other higher education institutions | In hours | 
+C6b | | QT | 10 | Num | Paid working time (in hours) — Public training institutions (financed or guided by the government; e.g. adult education centre) | In hours | 
+C6c | | QT | 10 | Num | Paid working time in (hours) — Private training companies | In hours | 
+C6d | | QT | 10 | Num | Paid working time (in hours) — Private companies whose main activity is not training, (equipment suppliers, parent/associate companies) | In hours | 
+C6e | | QT | 10 | Num | Paid working time (in hours) — Employers’ associations, chambers of commerce, sector bodies | In hours | 
+C6f | | QT | 10 | Num | Paid working time (in hours) — Trade unions | In hours | 
+C6g | | QT | 10 | Num | Paid working time (in hours) — Other training providers | In hours | 
+C7aflag | | QL | 1 | Num | Flag — fees | | 
+C7a | | QT | 10 | Num | CVT course costs — Fees and payments for courses for employees | In euro | 
+C7bflag | | QL | 1 | Num | Flag — Travel costs | | 
+C7b | | QT | 10 | Num | CVT course costs — Travel and subsistence payments | In euro | 
+C7cflag | | QL | 1 | Num | Flag — Labour costs trainers | | 
+C7c | | QT | 10 | Num | CVT course costs — Labour costs of internal trainers | In euro | 
+C7dflag | | QL | 1 | Num | Flag — Training centre and teaching materials etc. | | 
+C7d | | QT | 10 | Num | CVT course costs — Training centre, or rooms and teaching materials for CVT courses | In euro | 
+C7sflag | | QL | 1 | Num | %quot%Sub-total only%quot% flag | | 
+C7sub | Key | QT | 10 | Num | CVT costs sub-total | Key variable — No missing — In euro | 
+PAC | Key | QT | 10 | Num | Personal absence cost — to be calculated (PAC=C3tot*A5/A4) | Key variable — No missing — In euro | 
+C8aflag | | QL | 1 | Num | Flag — CVT contributions | | 
+C8a | | QT | 10 | Num | Contributions CVT | In euro | 
+C8bflag | | QL | 1 | Num | Flag — CVT receipts | | 
+C8b | | QT | 10 | Num | Receipts CVT | In euro | 
+C7tot | Key | QT | 10 | Num | Total cost CVT — To be calculated (C7sub + C8a – C8b) | Key variable — No missing — In euro | 
+C9a1 | | QL | 1 | Num | Migrants and ethnic minorities — Employed | | 
+C9a2 | | QL | 1 | Num | Migrants and ethnic minorities — Specific courses | | 
+C9b1 | | QL | 1 | Num | Persons with a disability — Employed | | 
+C9b2 | | QL | 1 | Num | Persons with a disability — Specific courses | | 
+C9c1 | | QL | 1 | Num | Persons without formal qualifications — Employed | | 
+C9c2 | | QL | 1 | Num | Persons without formal qualifications — Specific courses | | 
+C9d1 | | QL | 1 | Num | Persons at risk of losing job/redundancy — Employed | | 
+C9d2 | | QL | 1 | Num | Persons at risk of losing job/redundancy — Specific courses | | 
+C10a1 | | QL | 1 | Num | Part-time contract persons — Employed | | 
+C10a2 | | QL | 1 | Num | CVT courses geared to part-time contract holders | | 
+C10b1 | | QL | 1 | Num | Fixed term contract persons — Employed | | 
+C10b2 | | QL | 1 | Num | CVT courses geared to fixed term contract holders | | 
+D1 | | QL | 1 | Num | Own or shared training centre | | 
+D2 | | QL | 1 | Num | Person or unit within your enterprise with responsibility for the organisation of CVT | | 
+D3 | | QL | 1 | Num | Enterprise makes use of an external advisory service | | 
+D4 | | QL | 1 | Num | Enterprise implements regular formal procedures with the objective of evaluating the future skills needs of the enterprise | | 
+D5 | | QL | 1 | Num | Conduct structured interviews with its employees with the objective of establishing the specific training needs of persons employed | | 
+D6 | | QL | 1 | Num | Planning of CVT in the enterprise lead to a written training plan or programme | | 
+D7 | | QL | 1 | Num | Annual training budget, which includes provision for CVT | | 
+D8 | | QL | 1 | Num | Measure the satisfaction of the persons trained after the training | | 
+D9 | | QL | 1 | Num | After the training assess the trainees to establish whether the targeted skills were in fact successfully acquired | | 
+D10 | | QL | 1 | Num | Enterprise assess the participants’ occupational behaviour and change in performance following the training | | 
+D11 | | QL | 1 | Num | Measures the impact of training on business performance through the use of indicators | | 
+D12 | | QL | 1 | Num | National, sectorial or other agreements between the social partners, which influenced the CVT plans, policies and practices | | 
+D13 | | QL | 1 | Num | Existence of a formal structure | | 
+D13a | | QL | 1 | Num | Role of formal structure — Objective and priority setting for CVT activities | | 
+D13b | | QL | 1 | Num | Role of formal structure — Establishing the criteria for the selection of the target population who should participate to CVT | | 
+D13c | | QL | 1 | Num | Role of formal structure — The subject matter of the CVT activity | | 
+D13d | | QL | 1 | Num | Role of formal structure — The budgeting process related to CVT | | 
+D13e | | QL | 1 | Num | Role of formal structure — The procedure for the selection external CVT providers | | 
+D13f | | QL | 1 | Num | Role of formal structure — Evaluation of training outcomes | | 
+D14a | | QL | 1 | Num | Publicly-funded advisory service aimed at identifying training needs and/or developing training plans | | 
+D14b | | QL | 1 | Num | Financial subsidies towards the costs of training persons employed | | 
+D14c | | QL | 1 | Num | Tax relief on expenditure on training persons employed | | 
+D14d | | QL | 1 | Num | Procedures to ensure the standards of trainers (e.g. by national registers, assessment etc.) | | 
+D14e | | QL | 1 | Num | Provision of recognised standards and frameworks for qualifications and certification | | 
+D15a | | QL | 1 | Num | The high costs of CVT courses | Max 3 — No ranking | 
+D15b | | QL | 1 | Num | The lack of suitable CVT courses in the market | Max 3 — No ranking | 
+D15c | | QL | 1 | Num | Difficulties in assessing the enterprise's CVT needs | Max 3 — No ranking | 
+D15d | | QL | 1 | Num | A major training effort was realised in a previous year | Max 3 — No ranking | 
+D15e | | QL | 1 | Num | The high workload and the limited available time of persons employed | Max 3 — No ranking | 
+D15f | | QL | 1 | Num | The current level of training is appropriate to the enterprises needs | Max 3 — No ranking | 
+D15g | | QL | 1 | Num | A higher focus on IVT than CVT | Max 3 — No ranking | 
+D15h | | QL | 1 | Num | Other reasons | Max 3 — No ranking | 
+E1a | | QL | 1 | Num | The existing skills and competences corresponded to the current needs of the enterprise | Max 3 — No ranking | 
+E1b | | QL | 1 | Num | The enterprise’s preferred strategy was to recruit individuals with the required skills and competencies | Max 3 — No ranking | 
+E1c | | QL | 1 | Num | The enterprise had difficulties in assessing its needs concerning CVT | Max 3 — No ranking | 
+E1d | | QL | 1 | Num | The lack of suitable CVT courses in the market | Max 3 — No ranking | 
+E1e | | QL | 1 | Num | The costs of CVT courses were too high for the enterprise | Max 3 — No ranking | 
+E1f | | QL | 1 | Num | The enterprise preferred to focus on IVT rather than CVT | Max 3 — No ranking | 
+E1g | | QL | 1 | Num | An investment in CVT was made in a previous year and did not require to be repeated in 2005 | Max 3 — No ranking | 
+E1h | | QL | 1 | Num | The persons employed had no available time to participation in CVT | Max 3 — No ranking | 
+E1i | | QL | 1 | Num | Other reasons | Max 3 — No ranking | 
+F1tot05 | Core | QT | 6 | Num | Total number of IVT participants in the enterprise during 2005 | Core variable — No missing — No imputation | 
+F1m05 | | QT | 6 | Num | Total number of male IVT participants in the enterprise during 2005 | | 
+F1f05 | | QT | 6 | Num | Total number of female IVT participants in the enterprise during 2005 | | 
+F2aflag | | QL | 1 | Num | Flag — IVT individual labour costs | | 
+F2a | | QT | 10 | Num | IVT costs — Labour costs of individuals registered on an IVT activity | In euro | 
+F2bflag | | QL | 1 | Num | Flag — IVT other costs | | 
+F2b | | QT | 10 | Num | IVT costs — Other costs — Training fees, travel costs, teaching materials, costs of training centres etc. | In euro | 
+F2cflag | | QL | 1 | Num | Flag — IVT trainer or mentor labour costs | Optional variable | 
+F2c | | QT | 10 | Num | IVT costs — Labour costs of IVT trainers or mentors | Optional variable — In euro | 
+F3aflag | | QL | 1 | Num | Flag IVT contributions | | 
+F3a | | QT | 10 | Num | Contributions IVT | In euro | 
+F3bflag | | QL | 1 | Num | Flag IVT receipts | | 
+F3b | | QT | 10 | Num | Receipts IVT | In euro | 
+F2tot | Key | QT | 10 | Num | Total IVT costs (F2b + F3a – F3b) | Key variable — No missing — In euro | 
+-------------------------------------------------- 
+ANNEX II 
+SAMPLE 
+1. The Statistical Business Register (SBR) referred to in Council Regulation (EEC) No 2186/93 [1] shall normally be taken as the main source of the sampling frame. A nationally representative stratified probability sample of enterprises shall be taken from this frame. 
+2. The sample shall be stratified by NACE and size category according to the following minimum specification: 
+- 20 NACE rev1.1 categories (C, D (15-16, 17-19, 21-22, 23-26, 27-28, 29-33, 34-35, 20 + 36-37), E, F, G (50, 51, 52), H, I (60-63, 64), J (65-66, 67), K + O) 
+- 3 enterprise size categories, according to their number of persons employed: (10-49) (50-249) (250 and more) 
+3. A sample size shall be calculated to assure a maximum half length of the 95 % confidence interval of 0,2 for the estimated parameters, which are a proportion of %quot%training enterprises%quot% (after allowance for the non-response rate in the sample) for each of the 60 stratified elements identified above. 
+4. The following formula may be used in determining the sample size: 
+nh = 1/[c2 . teh + 1/Nh] / rh 
+Where: 
+nh = the number of sampling units in the stratum cell, h 
+rh = the anticipated response rate in the stratum cell, h 
+c = maximum length of half the confidence interval 
+teh = the anticipated proportion of training enterprises in the stratum cell, h 
+Nh = the total number of enterprises (training and non-training) in the stratum cell, h 
+[1] OJ L 196, 5.8.1993, p. 1. Regulation as amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1). 
+-------------------------------------------------- 
+ANNEX III 
+Imputation principals and record weighting 
+Countries shall take all appropriate measures to reduce item and unit non-response. Prior to imputation countries shall make all reasonable efforts to use other data sources. 
+Core variables, for which no missing value shall be accepted, nor imputation permitted are: 
+- A1, A2tot05, B1a, B1b, B2aflag, B2bflag, B2cflag, B2dflag, B2eflag, F1tot05. 
+Key variables, for which every effort should be made to avoid missing values and for which imputation is recommended are: 
+- A2tot04, A4, A5, C1tot, C3tot, C4tot, C7sub, C7tot, PAC, F2tot. 
+Imputation for item non-response shall be recommended within the following general limits (Member State experts should at all times apply their professional judgement in the application of these rules): 
+1. When a record contains less than 50 % of variables presented then this record shall normally be considered as a unit non-response. 
+2. For a single NACE/size cell imputations shall not be allowed if more than 50 % of the responding enterprises have missing data for more than 25 % of the quantitative variables. 
+3. For a single NACE/size cell no imputation shall be performed on a quantitative variable if the proportion of responding enterprises for that particular variable is less than 50 %. 
+4. For a single NACE/size cell no imputation shall be performed on a qualitative variable if the proportion of responding enterprises for that particular variable is less than 80 %. 
+Quantitative and qualitative variables are identified in Annex 1. 
+Departures from these principals shall be fully documented and justified in the national quality report. 
+Member States shall calculate and transmit a weight to be applied to each data record together with any auxiliary variables, which may have been used in the calculation of this weight. These auxiliary variables should be recorded as the variables EXTRA1, EXTRA2, EXTRA3 as necessary. The methodology adopted for establishing the weights shall be detailed in the quality report. 
+-------------------------------------------------- 
+ANNEX IV 
+Data file format and transmission rules 
+Data shall be transmitted to the Commission (Eurostat) in electronic form by means of a secure data transmission software application (STADIUM/EDAMIS) to be made available by the Commission (Eurostat). 
+Countries shall transmit two checked data sets to ESTAT: 
+(a) the data set prior to imputation with preliminary checks; 
+(b) the fully checked data set after imputation. 
+Both data sets shall contain the variables identified in Annex 1. 
+Both files shall be presented in comma separated variable (.csv) format. The first record in each file shall be a header record containing the %quot%variable names%quot% as defined in Annex 1. Subsequent records shall detail the values of these variables for each responding enterprise. 
+-------------------------------------------------- 
+ANNEX V 
+QUALITY REPORT FORMAT 
+1. RELEVANCE 
+Implementation of the survey and the degree to which statistics meet current and potential user’s needs. 
+- Description and classification of users. 
+- Individual needs of each user group. 
+- Evaluation if and to what degree these needs have been satisfied. 
+2. ACCURACY 
+2.1 Sampling errors 
+- Description of the sample design and the realised sample. 
+- Description of the calculation of the final weights including non-response model and auxiliary variables used. 
+- Estimator used, e.g. Horvitz-Thompson estimator. 
+- Variance of the estimates according to the sample strata. 
+- Variance estimation software. 
+- In particularly, a description of the auxiliary variables or information used should be reported in order to recalculate the final weights within Eurostat since it is needed for variance estimation. 
+- In case of non-response analysis, a description of the biases in the sample and results. 
+Tables to be provided (broken down by NACE and size classes according to the national sampling plan): 
+- Number of enterprises in the sampling frame. 
+- Number of enterprises in the sample. 
+Tables to be provided (broken down by NACE and size classes according to the national sampling plan, however allocation according to the observed enterprise characteristics): 
+- Coefficients of variation [1] for the following key statistics. 
+- Total number of persons employed. 
+- Total number of enterprises that provided CVT. 
+- Ratio of the total number of enterprises that provided CVT to the total number of enterprises. 
+- Total number of enterprises that provided CVT courses. 
+- Ratio of the total number of enterprises that provided CVT courses to the total number of enterprises. 
+- Total number of persons employed in enterprises that provided CVT. 
+- Total number of participants in CVT courses. 
+- Ratio of the total number of participants in CVT courses to the total number of persons employed. 
+- Ratio of the total number of participants in CVT courses to the total number of persons employed in enterprises that provided CVT. 
+- Total costs of CVT courses. 
+- Total number of enterprises providing IVT. 
+- Total number of participants in IVT. 
+- Total costs of IVT. 
+- Ratio of the total number of enterprises providing IVT to the total number of enterprises. 
+2.2 Non-sampling errors 
+2.2.1 Coverage errors 
+- Description of the register used for sampling, and its overall quality. 
+- Information included in the register, and its updating frequency. 
+- Errors due to the discrepancies between the sampling frame and the target population and sub-populations (over-coverage, under-coverage, misclassifications). 
+- Methods used to obtain this information. 
+- Notes on the processing of misclassifications. 
+Tables to be provided (broken down by NACE and size classes according to the national sampling plan, however allocation according to the observed enterprise characteristics): 
+- Number of enterprises. 
+- Ratio of the number of enterprises for which the observed strata equals the sampling strata: the number of enterprises in the sampling strata. Indicate whether the changes of activities have been taken into account. 
+2.2.2 Measurement errors 
+Where appropriate an assessment of errors that occurred at the stage of data collection due for example to: 
+- The questionnaire design (results of pre-tests or laboratory methods; questioning strategies) — questionnaire to be submitted in annex. 
+- Reporting unit/respondent (reactions of respondents): 
+- Memory errors. 
+- Lack of attention of the respondents. 
+- Effects of age, education etc. 
+- Errors when filling the forms. 
+- Information system of the respondent and the use of administrative records (correspondence between the administrative and survey concept, e.g. Reference period, availability of individual data). 
+- Modes of data collection (comparison of different data collection methods). 
+- Interviewer characteristics and behaviour. 
+- Socio-economic characteristics. 
+- Different ways of administering the questionnaire. 
+- Different assistance to the respondent. 
+- Specific studies or techniques to assess these errors. 
+- Methods used to reduce this kind of errors. 
+- Detailed comments on problems with the questionnaire as a whole or with single questions (comments on all variables). 
+- Description and assessment of measures taken to assure the high quality of %quot%participants%quot% and to assure that %quot%participant events%quot% were not collected. 
+2.2.3 Processing errors 
+Description of the data editing process. 
+- Processing system and tools used. 
+- Errors due to coding, editing, weighting, and tabulation etc. 
+- Quality checks at macro/micro level. 
+- Corrections and failed edits breakdown into missing values, errors and anomalies. 
+2.2.4 Non-response errors 
+- A description of the measures undertaken regarding %quot%re-contacts%quot%. 
+- Unit and item response rates. 
+- Assessment of unit non-response. 
+- Assessment item non-response. 
+- Full report on imputation procedures including methods used for imputation and/or re-weighting. 
+- Methodological notes and results of non-response analysis or other methods to assess the effects of non-response. 
+Tables to be provided (broken down by NACE and size classes according to the national sampling plan, however allocation according to the observed enterprise characteristics): 
+- Unit response rates [2]. 
+- Item response rates [3] for the following with respect to all respondents. 
+- Total number of hours work as a function of all respondents. 
+- Total labour cost as a function of all respondents. 
+- Item response rates for the following with respect to enterprises offering CVT courses. 
+- CVT courses by specific age groups as a function of enterprises offering CVT courses. 
+- Total number of participants in courses, males, females as a function of enterprises offering CVT courses. 
+- Total number of hours on CVT courses, males, females as a function of enterprises offering CVT courses. 
+- Number of hours on CVT courses managed internally and externally as a function of enterprises offering CVT courses. 
+- Total costs of CVT courses as a function of enterprises offering CVT courses. 
+- Item response rates for the following with respect to enterprises offering IVT. 
+- Total costs of IVT as a function of enterprises offering IVT. 
+3. TIMELINESS AND PUNCTUALITY 
+- Table of dates when each of the following phases of the project started and ended. 
+- Data collection. 
+- Sending out questionnaires. 
+- Reminders and follow-up. 
+- Face-to-face interviews. 
+- Data checking and editing. 
+- Further validation and imputation. 
+- Non-response survey (as appropriate). 
+- Estimations. 
+- Data transmission to Eurostat. 
+- Dissemination of national results. 
+4. ACCESSIBILITY AND CLARITY 
+- What results where or will be sent to enterprises. 
+- Dissemination scheme of results. 
+- Copy of any methodological documents relating to the statistics provided. 
+5. COMPARABILITY 
+- As appropriate and relevant countries should comment upon. 
+- Deviations from the European questionnaire. 
+- Was the survey linked to another national survey. 
+- To what extent was the survey realised through existing data in registers. 
+- Definitions and recommendations. 
+6. COHERENCE 
+- Comparison of statistics for the same phenomenon or item from other surveys or sources. 
+- Assessment of coherence with structural business statistics for the number of persons employed as a function of NACE and Size Group. 
+- Assessment of the coherence of the age group distribution of persons employed (A3a,A3b,A3c) with other national data sources as a function of NACE and size group (if available). 
+- Assessment of the coherence of the age group distribution of CVT participants (C2a,C2b,C2c) with other national data sources as a function of NACE and size group (if available). 
+Tables to provide (broken down by NACE and size classes according to the national sampling plan, however allocation according to the observed enterprise characteristics): 
+- Number of persons employed from Structural Business Statistics (Commission Regulation (EC) No 2700/98 [4] — code 16 11 0). 
+- Number of persons employed from CVTS3. 
+- Percentage of differences (SBS — CVTS3)/SBS. 
+- Number of persons employed for each age group A3a,A3b,A3c. 
+- Number of persons employed in other source for each age group. 
+- Percentage of differences of (A3x — other national source A3x)/A3x (where x = a, b, c). 
+- Number of CVT participants for each age group C2a,C2b,C2c. 
+- Number of CVT participants in other source for each age group. 
+- Percentage of CVT participants (C2x — other national source of C2x)/C2x (where x = a, b, c). 
+7. BURDEN AND BENEFIT 
+- Analysis of the burden and benefit at the national level through for example a consideration of: 
+- Average time for answering to the each questionnaire. 
+- Problematic questions and variables. 
+- Which variables have been most/least useful in describing CVT at the national level. 
+- Estimated or actual satisfaction level of data users at the national level. 
+- Different burden for small and large enterprises. 
+- Efforts made to reduce burden. 
+[1] The coefficient of variation is the ratio of the square root of the variance of the estimator to the expected value. It is estimated by the ratio of the square root of the estimate of the sampling variance to the estimated value. The estimation of the sampling variance must take into account the sampling design and changes of strata. 
+[2] The unit response rate is the ratio of the number of in scope respondents to the number of questionnaires sent to the population selected. 
+[3] The item response rate for a variable is the ratio of the number of available data to the number of available and missing data (equal to the number of in scope respondents). 
+[4] OJ L 344, 18.12.1998, p. 49. Regulation as last amended by Regulation (EC) No 1670/2003 (OJ L 244, 29.9.2003, p. 74). 
+-------------------------------------------------- 

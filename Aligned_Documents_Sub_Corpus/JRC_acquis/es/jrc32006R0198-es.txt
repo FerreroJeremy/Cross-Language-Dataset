@@ -1,0 +1,389 @@
+Reglamento (CE) n o 198/2006 de la Comisión, de 3 de febrero de 2006 , por el que se aplica el Reglamento (CE) n o 1552/2005 del Parlamento Europeo y del Consejo sobre estadísticas relativas a la formación profesional en las empresas (Texto pertinente a efectos del EEE) 
+Reglamento (CE) no 198/2006 de la Comisión 
+de 3 de febrero de 2006 
+por el que se aplica el Reglamento (CE) no 1552/2005 del Parlamento Europeo y del Consejo sobre estadísticas relativas a la formación profesional en las empresas 
+(Texto pertinente a efectos del EEE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) no 1552/2005 del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, sobre estadísticas relativas a la formación profesional en las empresas [1], y, en particular, su artículo 7, apartado 3, su artículo 8, apartado 2, su artículo 9, apartado 4, su artículo 10, apartado 2, y su artículo 11, apartado 3, 
+Considerando lo siguiente: 
+(1) El Reglamento (CE) no 1552/2005 establece un marco común para la elaboración de estadísticas comunitarias sobre la formación profesional en las empresas. 
+(2) Para aplicar dicho Reglamento, deben adoptarse medidas relativas a los requisitos en materia de muestreo y precisión, el tamaño de las muestras necesario para cumplir dichos requisitos, las especificaciones detalladas de la NACE y las categorías de tamaño en que se pueden desglosar los resultados. 
+(3) Conviene que la Comisión determine los datos específicos que deben recogerse respecto a las empresas que ofrezcan o no formación, y a los distintos tipos de formación profesional. 
+(4) Deben adoptarse medidas de aplicación para establecer los requisitos de calidad de los datos que han de recogerse y transmitirse para las estadísticas comunitarias sobre formación profesional en las empresas, la estructura de los informes de calidad y cualquier medida necesaria para valorar o mejorar la calidad de los datos. 
+(5) Conviene que la Comisión determine el primer año de referencia para el que se deberán recoger los datos. 
+(6) Conviene también adoptar disposiciones relativas al formato técnico adecuado y a la norma de intercambio para la transmisión de los datos por vía electrónica. 
+(7) Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité del programa estadístico. 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+El presente Reglamento establece medidas para la aplicación del Reglamento (CE) no 1552/2005 sobre estadísticas relativas a la formación profesional en las empresas. 
+Artículo 2 
+El primer año de referencia para el que se deberán recoger datos será el año civil 2005. 
+Artículo 3 
+En el anexo I figuran las variables específicas que deberán transmitirse a la Comisión (Eurostat). 
+Artículo 4 
+El anexo II precisa los requisitos en materia de muestreo y precisión, el tamaño de las muestras necesario para cumplir dichos requisitos, las especificaciones detalladas de la NACE y las categorías de tamaño en que se pueden desglosar los resultados. 
+Artículo 5 
+Los Estados miembros serán responsables del control de los datos, la corrección de los errores, la imputación y la ponderación. 
+El anexo III establece los principios que deben aplicarse a la imputación y la ponderación de las variables. El informe de calidad mencionará y justificará debidamente cualquier excepción a estos principios. 
+Artículo 6 
+El anexo IV precisa las modalidades y el formato de transmisión de los datos a la Comisión (Eurostat). 
+Artículo 7 
+Cada Estado miembro realizará una evaluación de la calidad de los datos que transmita y presentará dicha evaluación en forma de un informe de calidad. Dicho informe de calidad se elaborará y presentará a la Comisión (Eurostat) con arreglo al formato especificado en el anexo V. 
+Artículo 8 
+A fin de obtener un nivel elevado de armonización de los resultados de la encuesta entre los países, la Comisión (Eurostat), en estrecha colaboración con los Estados miembros, propondrá recomendaciones metodológicas y prácticas, y directrices para la realización de la encuesta en forma de un %quot%Manual de la Unión Europea%quot%. 
+Artículo 9 
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 3 de febrero de 2006. 
+Por la Comisión 
+Joaquín Almunia 
+Miembro de la Comisión 
+[1] DO L 255 de 30.9.2005, p. 1. 
+-------------------------------------------------- 
+ANEXO I 
+VARIABLES 
+Observación sobre el cuadro: 
+En el anexo III se explica el significado de los calificativos %quot%básicas%quot% y %quot%clave%quot% que figuran en la columna %quot%Grupo de variables%quot%. 
+La sigla %quot%ID%quot% significa que la variable es una %quot%variable de identificación%quot%. 
+En la columna %quot%Tipo de variables%quot%, %quot%QL%quot% indica una %quot%variable cualitativa%quot% y %quot%QT%quot%, una %quot%variable cuantitativa%quot%. 
+Nombre de la variable | Grupo de variables | Tipo de variables | Longitud de la variable | Formato de la variable | Descripción de la variable | Observación sobre la variable | 
+COUNTRY | ID | | 2 | Alfanum. | Código de país | Ningún valor ausente — Único por país | 
+ENTERPR | ID | | 6 | Num. | ID de la empresa | Ningún valor ausente — Único por país | 
+WEIGHT | ID | | 10 | Num. | Dos posiciones decimales — Utilizar %quot%.%quot% como separador de decimales | Ningún valor ausente | 
+NACE_SP | ID | | 4 | Num. | Plan de muestreo NACE — Categoría de actividad económica | Ningún valor ausente | 
+SIZE_SP | ID | | 1 | Num. | Grupo de tamaño del plan de muestreo | Ningún valor ausente | 
+NSTRA_SP | ID | | 5 | Num. | Plan de muestreo — Número de empresas en el estrato definido por NACE_SP y SIZE_SP, es decir, la población | Ningún valor ausente | 
+N_SP | ID | | 5 | Num. | Plan de muestreo — Número de empresas muestreadas en el estrato definido por NACE_SP y SIZE_SP | Ningún valor ausente | 
+SUB_SP | ID | | 1 | Num. | Indicador de submuestra, indica si la empresa pertenece a la submuestra | Ningún valor ausente | 
+N_RESPST | ID | | 5 | Num. | Número de empresas que han respondido en el estrato definido por NACE_SP y SIZE_SP, es decir, la población | Ningún valor ausente | 
+N_EMPREG | ID | | 6 | Num. | Número de personas ocupadas según el registro | | 
+RESPONSE | ID | | 1 | Num. | Indicador de respuesta | Ningún valor ausente | 
+PROC | ID | | 2 | Num. | Método de recogida de datos del registro | Ningún valor ausente | 
+IDLANGUA | ID | | 2 | Alfanum. | Identificación de la lengua | | 
+IDREGION | ID | | 3 | Alfanum. | Identificación de la región al nivel 1 de la NUTS | Ningún valor ausente | 
+EXTRA1 | ID | | 10 | Num. | Variable auxiliar 1 | | 
+EXTRA2 | ID | | 10 | Num. | Variable auxiliar 2 | | 
+EXTRA3 | ID | | 10 | Num. | Variable auxiliar 3 | | 
+A1 | Básicas | QL | 4 | Num. | Código NACE real | Variable básica — Ningún valor ausente — Ninguna imputación | 
+A2tot04 | Clave | QT | 6 | Num. | Número total de personas ocupadas a 31.12.2004 | Variable clave — Ningún valor ausente | 
+A2tot05 | Básicas | QT | 6 | Num. | Número total de personas ocupadas a 31.12.2005 | Variable básica — Ningún valor ausente — Ninguna imputación | 
+A2m05 | | QT | 6 | Num. | Número total de hombres ocupados a 31.12.2005 | | 
+A2f05 | | QT | 6 | Num. | Número total de mujeres ocupadas a 31.12.2005 | | 
+A3a | | QT | 6 | Num. | Personas ocupadas — Menores de 25 años | | 
+A3b | | QT | 6 | Num. | Personas ocupadas — De 25 a 54 años | | 
+A3c | | QT | 6 | Num. | Personas ocupadas — De 55 años o más | | 
+A4 | Clave | QT | 12 | Num. | Número total de horas trabajadas en el año de referencia 2005 por las personas ocupadas | Variable clave — Ningún valor ausente — En horas | 
+A4m | | QT | 12 | Num. | Número total de horas trabajadas en el año de referencia 2005 por los hombres ocupados | En horas | 
+A4f | | QT | 12 | Num. | Número total de horas trabajadas en el año de referencia 2005 por las mujeres ocupadas | En horas | 
+A5 | Clave | QT | 12 | Num. | Totalidad de costes laborales (directos e indirectos) de todas las personas ocupadas en el año de referencia 2005 | Variable clave — Ningún valor ausente — En euros | 
+A6 | | QL | 1 | Num. | Productos o servicios o métodos de producción o suministro de productos y servicios que en el año de referencia han experimentado una mejora tecnológica considerable | | 
+B1a | Básicas | QL | 1 | Num. | Cursos internos de formación profesional permanente | Variable básica — Ningún valor ausente — Ninguna imputación | 
+B1b | Básicas | QL | 1 | Num. | Cursos externos de formación profesional permanente | Variable básica — Ningún valor ausente — Ninguna imputación | 
+B2aflag | Básicas | QL | 1 | Num. | Indicador — Formación en el puesto de trabajo | Variable básica — Ningún valor ausente — Ninguna imputación | 
+B2a | | QT | 6 | Num. | Participantes en otras formas de formación profesional permanente — Formación en el puesto de trabajo | | 
+B2bflag | Básicas | QL | 1 | Num. | Indicador — Rotación en el trabajo | Variable básica — Ningún valor ausente — Ninguna imputación | 
+B2b | | QT | 6 | Num. | Participantes en otras formas de formación profesional permanente — Rotación en el trabajo, intercambios, comisiones de servicios o visitas de estudio | | 
+B2cflag | Básicas | QL | 1 | Num. | Indicador — Círculos de aprendizaje y de calidad | Variable básica — Ningún valor ausente — Ninguna imputación | 
+B2c | | QT | 6 | Num. | Participantes en otras formas de formación profesional permanente — Círculos de aprendizaje o de calidad | | 
+B2dflag | Básicas | QL | 1 | Num. | Indicador — Autoaprendizaje | Variable básica — Ningún valor ausente — Ninguna imputación | 
+B2d | | QT | 6 | Num. | Participantes en otras formas de formación profesional permanente — Autoaprendizaje | | 
+B2eflag | Básicas | QL | 1 | Num. | Indicador — Participación en conferencias, etc. | Variable básica — Ningún valor ausente — Ninguna imputación | 
+B2e | | QT | 6 | Num. | Participantes en otras formas de formación profesional permanente — Participación en conferencias, etc. | | 
+B3a | | QL | 1 | Num. | Cursos de formación profesional permanente para las personas ocupadas durante el año anterior (2004) | | 
+B3b | | QL | 1 | Num. | Previsiones de cursos de formación profesional permanente para las personas ocupadas durante el año siguiente (2006) | | 
+B4a | | QL | 1 | Num. | Otras formas de formación profesional permanente en el año anterior (2004) | | 
+B4b | | QL | 1 | Num. | Previsiones de otras formas de formación profesional permanente para las personas ocupadas durante el año siguiente (2006) | | 
+C1tot | Clave | QT | 6 | Num. | Número total de participantes en cursos de formación profesional permanente | Variable clave — Ningún valor ausente | 
+C1m | | QT | 6 | Num. | Participantes en cursos de formación profesional permanente — Hombres | | 
+C1f | | QT | 6 | Num. | Participantes en cursos de formación profesional permanente — Mujeres | | 
+C2a | | QT | 6 | Num. | Participantes en cursos de formación profesional permanente — Menores de 25 años | | 
+C2b | | QT | 6 | Num. | Participantes en cursos de formación profesional permanente — De 25 a 54 años | | 
+C2c | | QT | 6 | Num. | Participantes en cursos de formación permanente — De 55 años o más | | 
+C3tot | Clave | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) dedicado al conjunto de cursos de formación profesional permanente | Variable clave — Ningún valor ausente — En horas | 
+C3i | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) para cursos internos de formación profesional permanente | En horas | 
+C3e | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) para cursos externos de formación profesional permanente | En horas | 
+C4tot | Clave | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) dedicado al conjunto de cursos de formación profesional permanente | Variable clave — Ningún valor ausente — En horas | 
+C4m | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) dedicado a cursos de formación profesional permanente — Hombres | En horas | 
+C4f | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) dedicado a cursos de formación profesional permanente — Mujeres | En horas | 
+C5a | | QT | 10 | Num. | Tiempo de trabajo remunerado en horas — %quot%Lenguas extranjeras%quot% (222) y %quot%Lengua materna%quot% (223) | En horas | 
+C5b | | QT | 10 | Num. | Tiempo de trabajo remunerado en horas — %quot%Ventas%quot% (341) y %quot%Marketing%quot% (342) | En horas | 
+C5c | | QT | 10 | Num. | Tiempo trabajado en horas — %quot%Contabilidad%quot% (344) y %quot%Finanzas%quot% (343), %quot%Gestión y administración%quot% (345) y %quot%Trabajos de oficina%quot% (346) | En horas | 
+C5d | | QT | 10 | Num. | Tiempo de trabajo remunerado en horas — %quot%Competencias personales/desarrollo%quot% (090), %quot%Vida profesional%quot% (347) | En horas | 
+C5e | | QT | 10 | Num. | Tiempo de trabajo remunerado — %quot%Informática%quot% (481) y %quot%Utilización de ordenadores%quot% (482) | En horas | 
+C5f | | QT | 10 | Num. | Tiempo de trabajo remunerado en horas — %quot%Ingeniería, industria de transformación y construcción%quot% (5) | En horas | 
+C5g | | QT | 10 | Num. | Tiempo de trabajo remunerado en horas — %quot%Protección del medio ambiente%quot% (850) y %quot%Salud y seguridad en el trabajo%quot% (862) | En horas | 
+C5h | | QT | 10 | Num. | Tiempo de trabajo remunerado en horas — %quot%Servicios personales%quot% (81), %quot%Servicios de transporte%quot% (84), %quot%Protección de bienes y personas%quot% (861) y %quot%Seguridad militar%quot% (863) | En horas | 
+C5i | | QT | 10 | Num. | Tiempo de trabajo remunerado — Otros temas de formación | En horas | 
+C6a | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) — Escuelas, universidades y otras instituciones de enseñanza superior | En horas | 
+C6b | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) — Instituciones públicas de formación (financiadas o dirigidas por los poderes públicos; por ejemplo, centros de educación de adultos) | En horas | 
+C6c | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) — Empresas privadas de formación | En horas | 
+C6d | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) — Empresas privadas cuya actividad principal no es la formación (suministradores de equipo, sociedades matrices, empresas asociadas) | En horas | 
+C6e | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) — Asociaciones patronales, cámaras de comercio, organismos sectoriales | En horas | 
+C6f | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) — Sindicatos | En horas | 
+C6g | | QT | 10 | Num. | Tiempo de trabajo remunerado (en horas) — Otros proveedores de formación | En horas | 
+C7aflag | | QL | 1 | Num. | Indicador — Tasas | | 
+C7a | | QT | 10 | Num. | Costes de los cursos de formación profesional permanente — Tasas y pagos para cursos destinados a los trabajadores | En euros | 
+C7bflag | | QL | 1 | Num. | Indicador — Gastos de desplazamiento | | 
+C7b | | QT | 10 | Num. | Costes de los cursos de formación profesional permanente — Reembolso de gastos de desplazamiento y de estancia | En euros | 
+C7cflag | | QL | 1 | Num. | Indicador — Costes salariales de los formadores | | 
+C7c | | QT | 10 | Num. | Costes de los cursos de formación profesional permanente — Costes salariales de los formadores internos | En euros | 
+C7dflag | | QL | 1 | Num. | Indicador — Centro de formación, material pedagógico, etc. | | 
+C7d | | QT | 10 | Num. | Costes de los cursos de formación profesional permanente — Centro o salas de formación y material pedagógico para los cursos de formación profesional permanente | En euros | 
+C7sflag | | QL | 1 | Num. | Indicador %quot%Subtotal únicamente%quot% | | 
+C7sub | Clave | QT | 10 | Num. | Subtotal de los costes de formación profesional permanente | Variable clave — Ningún valor ausente — En euros | 
+PAC | Clave | QT | 10 | Num. | Costes relacionados con la ausencia del personal — Debe calcularse (PAC=C3tot*A5/A4) | Variable clave — Ningún valor ausente — En euros | 
+C8aflag | | QL | 1 | Num. | Indicador — Participación financiera en acciones de formación profesional permanente | | 
+C8a | | QT | 10 | Num. | Participación financiera en acciones de formación profesional permanente | En euros | 
+C8bflag | | QL | 1 | Num. | Indicador — Ingresos procedentes de acciones de formación profesional permanente | | 
+C8b | | QT | 10 | Num. | Ingresos procedentes de acciones de formación profesional permanente | En euros | 
+C7tot | Clave | QT | 10 | Num. | Coste total de la formación permanente — Debe calcularse (C7sub + C8a – C8b) | Variable clave — Ningún valor ausente — En euros | 
+C9a1 | | QL | 1 | Num. | Trabajadores migrantes y minorías étnicas — Número de personas ocupadas | | 
+C9a2 | | QL | 1 | Num. | Trabajadores migrantes y minorías étnicas — Cursos específicos | | 
+C9b1 | | QL | 1 | Num. | Personas con discapacidad — Número de personas ocupadas | | 
+C9b2 | | QL | 1 | Num. | Personas con discapacidad — Cursos específicos | | 
+C9c1 | | QL | 1 | Num. | Personas sin cualificación formal — Número de personas ocupadas | | 
+C9c2 | | QL | 1 | Num. | Personas sin cualificación formal — Cursos específicos | | 
+C9d1 | | QL | 1 | Num. | Personas con riesgo de perder su empleo/de ser despedidos — Número de personas ocupadas | | 
+C9d2 | | QL | 1 | Num. | Personas con riesgo de perder su empleo/de ser despedidos — Cursos específicos | | 
+C10a1 | | QL | 1 | Num. | Personas con contrato a tiempo parcial — Número de personas ocupadas | | 
+C10a2 | | QL | 1 | Num. | Cursos de formación profesional permanente destinados a las personas con contrato a tiempo parcial | | 
+C10b1 | | QL | 1 | Num. | Personas con contratos de duración determinada — Número de personas ocupadas | | 
+C10b2 | | QL | 1 | Num. | Cursos de formación profesional permanente destinados a las personas con contratos de duración determinada | | 
+D1 | | QL | 1 | Num. | Centro de formación propio o compartido | | 
+D2 | | QL | 1 | Num. | Persona o unidad de su empresa encargada de la organización de la formación profesional permanente | | 
+D3 | | QL | 1 | Num. | La empresa recurre a un servicio externo de asesoramiento | | 
+D4 | | QL | 1 | Num. | La empresa pone en práctica regularmente procedimientos formales para evaluar sus necesidades futuras de competencias | | 
+D5 | | QL | 1 | Num. | La empresa realiza entrevistas estructuradas con los trabajadores para determinar sus necesidades específicas de formación | | 
+D6 | | QL | 1 | Num. | La planificación de la formación profesional permanente en la empresa da lugar a un plan o programa de formación | | 
+D7 | | QL | 1 | Num. | Presupuesto anual de formación, incluida la formación profesional permanente | | 
+D8 | | QL | 1 | Num. | La empresa mide la satisfacción de los participantes después de la formación | | 
+D9 | | QL | 1 | Num. | Después de la formación la empresa evalúa a los participantes para determinar si se han adquirido realmente las competencias específicas | | 
+D10 | | QL | 1 | Num. | A raíz de la formación, la empresa evalúa el comportamiento profesional de los participantes y la evolución de su rendimiento | | 
+D11 | | QL | 1 | Num. | La empresa mide la incidencia de la formación en sus resultados por medio de indicadores | | 
+D12 | | QL | 1 | Num. | Acuerdos nacionales, sectoriales o de otro tipo entre los interlocutores sociales que han influido en los planes, las medidas y las prácticas en materia de formación profesional permanente | | 
+D13 | | QL | 1 | Num. | Existencia de una estructura formal | | 
+D13a | | QL | 1 | Num. | Papel de la estructura formal — Establecimiento de los objetivos y las prioridades de las acciones de formación profesional permanente | | 
+D13b | | QL | 1 | Num. | Papel de la estructura formal — Determinación de los criterios para la selección del público destinatario que debería participar en la formación profesional permanente | | 
+D13c | | QL | 1 | Num. | Papel de la estructura formal — Tema de la acción de formación profesional permanente | | 
+D13d | | QL | 1 | Num. | Papel de la estructura formal — Proceso presupuestario relacionado con la formación profesional permanente | | 
+D13e | | QL | 1 | Num. | Papel de la estructura formal — Procedimiento de selección de los proveedores de formación profesional permanente | | 
+D13f | | QL | 1 | Num. | Papel de la estructura formal — Evaluación de los resultados de la formación | | 
+D14a | | QL | 1 | Num. | Servicio de asesoramiento público destinado a determinar las necesidades de formación y/o a elaborar planes de formación | | 
+D14b | | QL | 1 | Num. | Subvenciones financieras para sufragar los costes de formación de los trabajadores | | 
+D14c | | QL | 1 | Num. | Desgravación fiscal por los gastos en formación de los trabajadores | | 
+D14d | | QL | 1 | Num. | Procedimientos para garantizar la calidad de los formadores (por ejemplo, mediante registros nacionales, evaluaciones, etc.) | | 
+D14e | | QL | 1 | Num. | Existencia de normas y marcos de cualificación y certificación reconocidos | | 
+D15a | | QL | 1 | Num. | Costes elevados de los cursos de formación profesional permanente | Máx. 3 — Ninguna clasificación | 
+D15b | | QL | 1 | Num. | Falta de cursos de formación profesional permanente adecuados en el mercado | Máx. 3 — Ninguna clasificación | 
+D15c | | QL | 1 | Num. | Dificultades para evaluar las necesidades de la empresa en materia de formación profesional permanente | Máx. 3 — Ninguna clasificación | 
+D15d | | QL | 1 | Num. | Se han realizado esfuerzos de formación importantes en un año anterior | Máx. 3 — Ninguna clasificación | 
+D15e | | QL | 1 | Num. | Carga de trabajo elevada y tiempo disponible de los trabajadores limitado | Máx. 3 — Ninguna clasificación | 
+D15f | | QL | 1 | Num. | El nivel actual de formación responde a las necesidades de la empresa | Máx. 3 — Ninguna clasificación | 
+D15g | | QL | 1 | Num. | Se concede más importancia a la formación profesional inicial que a la formación profesional permanente | Máx. 3 — Ninguna clasificación | 
+D15h | | QL | 1 | Num. | Otras razones | Máx. 3 — Ninguna clasificación | 
+E1a | | QL | 1 | Num. | Las aptitudes y competencias existentes corresponden a las necesidades actuales de la empresa | Máx. 3 — Ninguna clasificación | 
+E1b | | QL | 1 | Num. | La estrategia preferida por la empresa ha sido contratar a personas con las aptitudes y las competencias necesarias | Máx. 3 — Ninguna clasificación | 
+E1c | | QL | 1 | Num. | La empresa ha tenido dificultades para evaluar sus necesidades en materia de formación profesional permanente | Máx. 3 — Ninguna clasificación | 
+E1d | | QL | 1 | Num. | Falta de cursos de formación profesional permanente adecuados en el mercado | Máx. 3 — Ninguna clasificación | 
+E1e | | QL | 1 | Num. | Coste de los cursos de formación profesional permanente demasiado elevado para la empresa | Máx. 3 — Ninguna clasificación | 
+E1f | | QL | 1 | Num. | La empresa ha preferido concentrarse en la formación profesional inicial más que en la formación profesional permanente | Máx. 3 — Ninguna clasificación | 
+E1g | | QL | 1 | Num. | Una inversión en formación profesional permanente realizada en un año anterior no ha debido repetirse en 2005 | Máx. 3 — Ninguna clasificación | 
+E1h | | QL | 1 | Num. | Los trabajadores no han dispuesto del tiempo necesario para participar en acciones de formación profesional permanente | Máx. 3 — Ninguna clasificación | 
+E1i | | QL | 1 | Num. | Otras razones | Máx. 3 — Ninguna clasificación | 
+F1tot05 | Básicas | QT | 6 | Num. | Número total de participantes en acciones de formación profesional inicial en la empresa en 2005 | Variable básica — Ningún valor ausente — Ninguna imputación | 
+F1m05 | | QT | 6 | Num. | Número total de hombres participantes en acciones de formación profesional inicial en la empresa en 2005 | | 
+F1f05 | | QT | 6 | Num. | Número total de mujeres participantes en acciones de formación profesional inicial en la empresa en 2005 | | 
+F2aflag | | QL | 1 | Num. | Indicador — Costes salariales individuales para la formación profesional inicial | | 
+F2a | | QT | 10 | Num. | Costes de formación profesional inicial — Costes salariales de los trabajadores inscritos en una acción de formación profesional inicial | En euros | 
+F2bflag | | QL | 1 | Num. | Indicador — Otros costes de formación profesional inicial | | 
+F2b | | QT | 10 | Num. | Costes de formación profesional inicial — Otros costes — Tasas de formación, gastos de desplazamiento, material pedagógico, costes de los centros de formación, etc. | En euros | 
+F2cflag | | QL | 1 | Num. | Indicador — Costes salariales de formadores o tutores de formación profesional inicial | Variable opcional | 
+F2c | | QT | 10 | Num. | Costes de formación profesional inicial — Costes salariales de formadores o tutores de formación profesional inicial | Variable opcional — En euros | 
+F3aflag | | QL | 1 | Num. | Indicador — Participación financiera en la formación profesional inicial | | 
+F3a | | QT | 10 | Num. | Participación financiera en la formación profesional permanente | En euros | 
+F3bflag | | QL | 1 | Num. | Indicador — Ingresos procedentes de acciones de formación profesional inicial | | 
+F3b | | QT | 10 | Num. | Ingresos procedentes de acciones de formación profesional inicial | En euros | 
+F2tot | Clave | QT | 10 | Num. | Costes totales de la formación profesional inicial (F2b + F3a – F3b) | Variable clave — Ningún valor ausente — En euros | 
+-------------------------------------------------- 
+ANEXO II 
+MUESTRA 
+1. El registro de empresas utilizado con fines estadísticos previsto en el Reglamento (CEE) no 2186/93 del Consejo [1] será normalmente la fuente principal del marco de muestreo. De dicho marco se extraerá una muestra aleatoria de empresas, representativa a nivel nacional. 
+2. La muestra se estratificará por categorías de la NACE y por categoría de tamaño con arreglo a los criterios mínimos siguientes: 
+- 20 categorías de la NACE rev. 1.1 [C, D (15-16, 17-19, 21-22, 23-26, 27-28, 29-33, 34-35, 20 + 36-37), E, F, G (50, 51, 52), H, I (60-63, 64), J (65-66, 67), K + O], 
+- 3 categorías de tamaño de empresas en función del número de personas ocupadas: (10-49) (50-249) (250 y más). 
+3. La muestra se calculará de tal modo que se garantice que el valor máximo de la semilongitud del intervalo de confianza del 95 % sea de 0,2 para los parámetros estimados, que son una proporción de las %quot%empresas formadoras%quot% (una vez deducida la tasa de no respuesta de la muestra) para cada uno de los 60 estratos determinados anteriormente. 
+4. Para definir el tamaño de la muestra puede utilizarse la fórmula siguiente: 
+nh = 1/[c2 . teh + 1/Nh] / rh 
+Donde: 
+nh = el número de unidades de muestreo en la casilla del estrato considerado, h 
+rh = la tasa de respuesta anticipada en la casilla del estrato considerado, h 
+c = el valor máximo de la semilongitud del intervalo de confianza 
+teh = la proporción anticipada de empresas de formación en la casilla del estrato considerado, h 
+Nh = el número total de empresas (formadoras o no) en la casilla del estrato considerado, h. 
+[1] DO L 196 de 5.8.1993, p. 1. Reglamento modificado por el Reglamento (CE) no 1882/2003 del Parlamento Europeo y del Consejo (DO L 284 de 31.10.2003, p. 1). 
+-------------------------------------------------- 
+ANEXO III 
+Principios de imputación y ponderación de los registros 
+Los países adoptarán las medidas adecuadas para reducir la no respuesta total (para una unidad) y parcial (para una variable). Antes de proceder a la imputación, los países harán todo lo que sea razonablemente posible para utilizar otras fuentes de datos. 
+Las variables básicas para las que no se aceptará ningún valor ausente ni ninguna imputación son las siguientes: 
+- A1, A2tot05, B1a, B1b, B2aflag, B2bflag, B2cflag, B2dflag, B2eflag, F1tot05. 
+Las variables clave en las que debe hacerse todo lo posible para evitar los valores ausentes y para las cuales se recomienda la imputación son las siguientes: 
+- A2tot04, A4, A5, C1tot, C3tot, C4tot, C7sub, C7tot, PAC, F2tot. 
+En caso de no respuesta parcial, la imputación se recomienda dentro de los límites generales siguientes (los expertos de los Estados miembros deben siempre aplicar estas normas según su criterio profesional): 
+1. Cuando un registro contenga menos del 50 % de las variables presentadas, dicho registro se considerará normalmente una no respuesta total. 
+2. Para una casilla NACE/Tamaño determinada, las imputaciones no estarán permitidas si en más del 50 % de las empresas que responden el porcentaje de datos ausentes es superior al 25 % de las variables cuantitativas. 
+3. Para una casilla NACE/Tamaño determinada, la imputación de una variable cuantitativa no se realizará si la proporción de empresas que responden a dicha variable es inferior al 50 %. 
+4. Para una casilla NACE/Tamaño determinada, la imputación de una variable cualitativa no se realizará si la proporción de empresas que responden a dicha variable es inferior al 80 %. 
+Las variables cuantitativas y cualitativas figuran en el anexo I. 
+Las desviaciones respecto a estos principios se documentarán y justificarán debidamente en el informe nacional de calidad. 
+Los Estados miembros calcularán y transmitirán un factor de ponderación que deberá aplicarse a cada registro de datos, acompañado en su caso de las variables auxiliares que hayan podido utilizarse para calcularlo. Dichas variables auxiliares se registrarán como variables EXTRA1, EXTRA2, EXTRA3, según sea necesario. El método adoptado para calcular los factores de ponderación se describirá detalladamente en el informe de calidad. 
+-------------------------------------------------- 
+ANEXO IV 
+Formato de los ficheros de datos y normas de transmisión 
+Los datos se transmitirán a la Comisión (Eurostat) por vía electrónica mediante una aplicación informática de transmisión de datos segura (STADIUM/EDAMIS) puesta a disposición por la Comisión (Eurostat). 
+Los países transmitirán dos series de datos verificados a Eurostat: 
+a) la serie de datos obtenida antes de la imputación con las verificaciones preliminares; 
+b) la serie de datos obtenida después de la imputación y verificada completamente. 
+Las dos series de datos deberán contener las variables señaladas en el anexo I. 
+Ambas se presentarán en formato .csv (%quot%comma separated variable%quot%). El primer registro de cada fichero será un registro de encabezamiento que contendrá los %quot%nombres de las variables%quot% que figuran en el anexo I. Los siguientes registros indicarán los valores de dichas variables para cada empresa que responde. 
+-------------------------------------------------- 
+ANEXO V 
+FORMATO DEL INFORME DE CALIDAD 
+1. PERTINENCIA 
+Realización de la encuesta y medida en la que las estadísticas responden a las necesidades de los usuarios actuales y potenciales: 
+- descripción y clasificación de los usuarios, 
+- necesidades individuales de cada grupo de usuarios, 
+- evaluación de la medida en que se han satisfecho dichas necesidades. 
+2. PRECISIÓN 
+2.1. Errores de muestreo 
+- Descripción del plan de muestreo y de la muestra realizada. 
+- Descripción del cálculo de las ponderaciones definitivas, incluido el modelo de tratamiento de las no respuestas y las variables auxiliares utilizadas. 
+- Estimador utilizado, por ejemplo el estimador Horvitz-Thompson. 
+- Varianza de las estimaciones en función de los estratos de la muestra. 
+- Programa informático de estimación de la varianza. 
+- En particular, la descripción de las variables auxiliares o de la información utilizadas debería figurar en el informe para que las ponderaciones definitivas puedan volverse a calcular en Eurostat, lo que es necesario para la estimación de la varianza. 
+- En caso de análisis de las no respuestas, una descripción de los sesgos de la muestra y de los resultados. 
+Cuadros que deben presentarse (desglosados por categorías de la NACE y clases de tamaño según el plan nacional de muestreo): 
+- número de empresas del marco de muestreo, 
+- número de empresas de la muestra. 
+Cuadros que deben presentarse (desglosados por categorías de la NACE y clases de tamaño según el plan nacional de muestreo; sin embargo, asignación con arreglo a las características observadas de las empresas): 
+- coeficientes de variación [1] para las estadísticas clave siguientes: 
+- número total de personas ocupadas, 
+- número total de empresas que han ofrecido formación profesional permanente, 
+- relación entre el número total de empresas que han ofrecido formación profesional permanente y el número total de empresas, 
+- número total de empresas que han ofrecido cursos de formación profesional permanente, 
+- relación entre el número total de empresas que han ofrecido cursos de formación profesional permanente y el número total de empresas, 
+- número total de personas ocupadas en empresas que han ofrecido formación profesional permanente, 
+- número total de participantes en cursos de formación profesional permanente, 
+- relación entre el número total de participantes en cursos de formación profesional permanente y el número total de personas ocupadas, 
+- relación entre el número total de participantes en cursos de formación profesional permanente y el número total de personas ocupadas en empresas que han ofrecido formación profesional permanente, 
+- coste total de los cursos de formación profesional permanente, 
+- número total de empresas que ofrecen formación profesional inicial, 
+- número total de participantes en una formación profesional inicial, 
+- coste total de la formación profesional inicial, 
+- relación entre el número total de empresas que ofrecen formación profesional inicial y el número total de empresas. 
+2.2. Errores no muestrales 
+2.2.1. Errores de cobertura 
+- Descripción del registro utilizado para el muestreo y de su calidad general. 
+- Información incluida en el registro y su frecuencia de actualización. 
+- Errores debidos a discrepancias entre el marco de muestreo y la población y subpoblaciones diana (exceso de cobertura, defecto de cobertura, errores de clasificación). 
+- Métodos utilizados para obtener esta información. 
+- Observaciones sobre el tratamiento de los errores de clasificación. 
+Cuadros que deben presentarse (desglosados por categorías de la NACE y clases de tamaño según el plan nacional de muestreo; sin embargo, asignación con arreglo a las características observadas de las empresas): 
+- número de empresas, 
+- relación entre el número de empresas en las que los estratos observados corresponden a los estratos de muestreo y el número de empresas de los estratos de muestreo. Indíquese si se han tenido en cuenta los cambios de actividades. 
+2.2.2. Errores de medición 
+En su caso, evaluación de los errores habidos en la fase de recopilación de datos, debidos por ejemplo a lo siguiente: 
+- el diseño del cuestionario (resultados de los ensayos preliminares o de los métodos de laboratorio; estrategias de encuesta) — el cuestionario se presentará en anexo, 
+- la unidad o persona que responde (reacción de los encuestados): 
+- errores de memoria, 
+- falta de atención de los encuestados, 
+- efectos de la edad, la educación, etc., 
+- errores en la cumplimentación de los formularios, 
+- el sistema de información de la entidad que responde y la utilización de registros administrativos (correspondencia entre el concepto administrativo y el de la encuesta, por ejemplo, el período de referencia, la disponibilidad de datos individuales), 
+- los modos de recopilación de datos (comparación de métodos diferentes de recopilación de datos), 
+- las características o el comportamiento del encuestador: 
+- características socioeconómicas, 
+- diferencias en el modo de administrar el cuestionario, 
+- diferencias en la ayuda prestada al encuestado, 
+- estudios o técnicas específicos que permiten evaluar estos errores, 
+- métodos utilizados para reducir este tipo de errores, 
+- comentarios detallados sobre los problemas con el cuestionario en su conjunto o con las preguntas individuales (comentarios sobre todas las variables), 
+- descripción y evaluación de las medidas adoptadas para garantizar una calidad elevada de los datos sobre los %quot%participantes%quot% y asegurar que no se han recogido datos sobre los %quot%eventos%quot%. 
+2.2.3. Errores de tratamiento 
+Descripción del proceso de edición de los datos: 
+- sistema y herramientas de tratamiento utilizados, 
+- errores debidos a la codificación, la edición, la ponderación, la tabulación, etc., 
+- verificaciones de la calidad en el nivel macro y micro, 
+- desglose de correcciones y ediciones fallidas en %quot%valores ausentes%quot%, %quot%errores%quot% y %quot%anomalías%quot%. 
+2.2.4. Errores de no respuesta 
+- Descripción de las medidas adoptadas en materia de %quot%repetición%quot%. 
+- Tasas de respuesta total y parcial. 
+- Evaluación de las no respuestas totales. 
+- Evaluación de las no respuestas parciales. 
+- Informe completo de los procedimientos de imputación, incluidos los métodos usados para la imputación y/o nueva ponderación. 
+- Observaciones metodológicas y resultados del análisis de la no respuesta u otros métodos para evaluar los efectos de ésta. 
+Cuadros que deben presentarse (desglosados por categorías de la NACE y clases de tamaño según el plan nacional de muestreo; sin embargo, asignación con arreglo a las características observadas de las empresas): 
+- tasas de respuesta total [2], 
+- tasas de respuesta parcial [3] para las siguientes cuestiones con respecto al conjunto de los encuestados: 
+- número total de horas de trabajo en relación con el número total de encuestados, 
+- costes salariales totales en relación con todos los encuestados, 
+- tasas de respuesta parcial a las cuestiones siguientes con respecto a empresas que ofrecen cursos de formación profesional permanente: 
+- cursos de formación profesional permanente por grupos de edad específicos en relación con las empresas que ofrecen cursos de este tipo, 
+- número total de participantes (hombres y mujeres) en cursos de formación profesional permanente en relación con las empresas que ofrecen cursos de este tipo, 
+- número total de horas dedicadas a cursos de formación permanente (por hombres y mujeres) en relación con las empresas que ofrecen cursos de este tipo, 
+- número total de horas dedicadas a cursos de formación permanente internos y externos en relación con las empresas que ofrecen cursos de este tipo, 
+- coste total de los cursos de formación profesional permanente en relación con las empresas que ofrecen cursos de este tipo, 
+- tasas de respuesta parcial a la cuestión siguiente con respecto a empresas que ofrecen cursos de formación profesional inicial: 
+- coste total de la formación profesional inicial en relación con las empresas que ofrecen formación de este tipo. 
+3. ACTUALIDAD Y PUNTUALIDAD 
+- Cuadro de fechas de comienzo y finalización de cada una de las fases siguientes del proyecto: 
+- recopilación de datos, 
+- envío de los cuestionarios, 
+- recordatorios y seguimiento, 
+- entrevistas personales, 
+- verificación y edición de datos, 
+- validación e imputación, 
+- encuesta sobre las no respuestas (en su caso), 
+- estimaciones, 
+- transmisión de datos a Eurostat, 
+- difusión de los resultados nacionales. 
+4. ACCESIBILIDAD Y CLARIDAD 
+- ¿Qué resultados se han enviado o se enviarán a las empresas? 
+- Plan de difusión de los resultados. 
+- Copia de todo documento metodológico relacionado con las estadísticas presentadas. 
+5. COMPARABILIDAD 
+- Cuando se considere necesario y pertinente, los países deberían presentar sus observaciones sobre: 
+- las divergencias con respecto al cuestionario europeo, 
+- la posible relación de la encuesta con otra encuesta nacional, 
+- la medida en la que la encuesta se ha realizado mediante datos existentes en los registros, 
+- las definiciones y las recomendaciones. 
+6. COHERENCIA 
+- Comparación de las estadísticas relativas al mismo fenómeno o a la misma variable procedentes de otras encuestas u otras fuentes. 
+- Evaluación de la concordancia del número de personas ocupadas con las estadísticas estructurales de las empresas en relación con la categoría NACE y la clase de tamaño. 
+- Evaluación de la concordancia de la distribución por grupo de edad de las personas ocupadas (A3a, A3b, A3c) con otras fuentes de datos nacionales en relación con la categoría NACE y la clase de tamaño (si está disponible). 
+- Evaluación de la concordancia de la distribución por grupo de edad de los participantes en la formación profesional permanente (C2a, C2b, C2c) con otras fuentes de datos nacionales en relación con la categoría NACE y la clase de tamaño (si está disponible). 
+Cuadros que deben presentarse (desglosados por categorías de la NACE y clases de tamaño según el plan nacional de muestreo; sin embargo, asignación con arreglo a las características observadas de las empresas): 
+- número de personas ocupadas según las estadísticas estructurales de las empresas (código 16 11 0 del Reglamento (CE) no 2700/98 de la Comisión [4], 
+- número de personas ocupadas según la CVTS3, 
+- porcentaje de diferencia (SBS — CVTS3)/SBS, 
+- número de personas ocupadas en cada uno de los grupos de edad A3a, A3b, A3c, 
+- número de personas ocupadas según otra fuente en cada grupo de edad, 
+- porcentaje de diferencia para (A3x — otra fuente nacional A3x)/A3x (donde x = a, b, c), 
+- número de participantes en la formación profesional permanente en cada uno de los grupos de edad C2a, C2b, C2c, 
+- número de participantes en la formación profesional permanente según otra fuente en cada grupo de edad, 
+- porcentaje de participantes en la formación profesional permanente (C2x — otra fuente nacional para C2x)/C2x (donde x = a, b, c). 
+7. CARGA Y BENEFICIO 
+- Análisis de la carga y del beneficio a nivel nacional, por ejemplo mediante la consideración de: 
+- el tiempo medio de respuesta a cada cuestionario, 
+- las cuestiones y las variables problemáticas, 
+- las variables que son más (o menos) útiles para describir la formación profesional permanente a nivel nacional, 
+- el nivel de satisfacción estimado o real de los usuarios de los datos a nivel nacional, 
+- la diferencia de carga para las pequeñas y las grandes empresas, 
+- los esfuerzos realizados para reducir la carga. 
+[1] El coeficiente de variación es la relación entre la raíz cuadrada de la varianza del estimador y el valor esperado. Se estima mediante la relación entre la raíz cuadrada de la estimación de la varianza muestral y el valor estimado. La estimación de la varianza del muestreo debe tener en cuenta el plan de muestreo y los cambios de estratos. 
+[2] La tasa de respuesta total (por unidad) es la relación entre el número de respuestas en el ámbito de la encuesta y el número de cuestionarios enviados a la población seleccionada. 
+[3] La tasa de respuesta parcial (por variable) para una variable determinada es la relación entre el número de datos disponibles y el número de datos disponibles y ausentes (igual al número de respuestas en el ámbito de la encuesta). 
+[4] DO L 344 de 18.12.1998, p. 49. Reglamento modificado en último lugar por el Reglamento (CE) no 1670/2003 (DO L 244 de 29.9.2003, p. 74). 
+-------------------------------------------------- 

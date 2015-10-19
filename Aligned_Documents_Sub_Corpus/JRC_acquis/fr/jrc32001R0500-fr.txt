@@ -1,0 +1,77 @@
+Règlement (CE) n° 500/2001 de la Commission du 14 mars 2001 relatif à l'établissement des modalités d'application du règlement (CEE) n° 2847/93 du Conseil relatif au contrôle des captures des navires de pêche communautaires dans les eaux des pays tiers et en haute mer 
+Règlement (CE) no 500/2001 de la Commission 
+du 14 mars 2001 
+relatif à l'établissement des modalités d'application du règlement (CEE) n° 2847/93 du Conseil relatif au contrôle des captures des navires de pêche communautaires dans les eaux des pays tiers et en haute mer 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CEE) n° 2847/93 du Conseil du 12 octobre 1993 instituant un régime de contrôle applicable à la politique commune de la pêche(1), modifié en dernier lieu par le règlement (CE) n° 2846/98(2), et notamment son article 18, paragraphe 4, 
+considérant ce qui suit: 
+(1) Les États membres sont tenus, en vertu de l'article 18, paragraphe 1, du règlement (CEE) n° 2847/93, de notifier par voie informatique à la Commission les quantités de chaque stock capturées par les navires battant leur pavillon dans les eaux relevant de la souveraineté ou de la juridiction de pays tiers et en haute mer ainsi que toute information reçue au titre de l'article 17, paragraphe 2. 
+(2) Il y donc lieu de préciser les informations détaillées à communiquer, les intervalles de ces communications ainsi que le format à utiliser pour les communications des informations en question. 
+(3) Les mesures prévues au présent règlement sont conformes à l'avis du comité de gestion de la pêche et de l'aquaculture, 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+1. Chaque État membre notifie par voie informatique à la Commission, avant la fin du premier mois de chaque trimestre, les quantités de chaque stock non soumis à TAC ou à quotas, capturées par les navires de pêche battant son pavillon dans les eaux relevant de la souveraineté ou de la juridiction de pays tiers et en haute mer et: 
+- débarquées directement sur son territoire au cours du trimestre précédent, 
+- débarquées directement dans des pays tiers au cours du trimestre précédent, 
+- transbordées sur des navires des pays tiers au cours du trimestre précédent. 
+2. Chaque État membre notifie par voie informatique à la Commission, avant la fin du premier mois de chaque trimestre, les quantités capturées par les navires de pêche battant pavillon d'un autre État membre dans les eaux relevant de la souveraineté ou de la juridiction de pays tiers et en haute mer et débarquées sur son territoire au cours du trimestre précédent. 
+3. Lorsqu'il transmet les communications de captures, visées aux paragraphes 1 et 2, l'État membre utilise le format défini à l'annexe. 
+Article 2 
+Le présent règlement entre en vigueur le septième jour suivant celui de sa publication au Journal officiel des Communautés européennes. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 14 mars 2001. 
+Par la Commission 
+Franz Fischler 
+Membre de la Commission 
+(1) JO L 261 du 20.10.1993, p. 1. 
+(2) JO L 358 du 31.12.1998, p. 5. 
+ANNEXE 
+I. RAPPORT E 
+Enregistrement trimestriel des captures non soumises à TAC et à quotas capturées par les navires de pêche communautaires dans les eaux relevant de la souveraineté ou de la juridiction de pays tiers et en haute mer et débarquées et/ou transbordées, à l'exception de celles débarquées sur le territoire d'un autre État membre 
+Le rapport contient cinq types d'enregistrements, décrits ci-après (points A à E). Tous les enregistrements sont obligatoires, à l'exception de celui décrit au point D. 
+Remarques générales: 
+- Chaque champ du même enregistrement se termine par le caractère %quot%;%quot% (point-virgule). 
+- Pour les champs numériques exprimant des quantités, l'alignement se fait à droite et le séparateur décimal est le point. 
+- Si le correspondant utilise l'approche FIDES(1) déterminée par la Commission - DG Pêche - pour envoyer les données, des alternatives de présentation (le contenu ne change pas) sont permises. 
+A. Type de rapport. Premier enregistrement du rapport 
+%gt%TABLE%gt% 
+B. Identification de l'État membre rapporteur. Deuxième enregistrement du rapport 
+%gt%TABLE%gt% 
+C. Identification de la période. Troisième enregistrement du rapport 
+%gt%TABLE%gt% 
+D. Commentaires. Quatrième enregistrement du rapport ou suivants, optionnel 
+%gt%TABLE%gt% 
+E. Données de captures cumulatives. Quatrième enregistrement du rapport et/ou suivants 
+%gt%TABLE%gt% 
+II. RAPPORT F 
+Enregistrement trimestriel des captures non soumises à TAC et à quotas capturées par les navires de pêche communautaires d'autres États membres dans les eaux relevant de la souveraineté ou de la juridiction de pays tiers et en haute mer et débarquées sur le territoire de l'État membre rapporteur 
+Le rapport contient cinq types d'enregistrements, décrits ci-après (points A à E). Tous les enregistrements sont obligatoires à l'exception de celui décrit au point D. 
+Les remarques générales applicables au rapport E, décrit au titre I, s'appliquent aussi au rapport F. 
+A. Type de rapport. Premier enregistrement du rapport 
+%gt%TABLE%gt% 
+B. Identification de l'État membre rapporteur. Deuxième enregistrement du rapport 
+%gt%TABLE%gt% 
+C. Identification de la période. Troisième enregistrement du rapport 
+%gt%TABLE%gt% 
+D. Commentaires. Quatrième enregistrement du rapport ou suivants, optionnel 
+%gt%TABLE%gt% 
+E. Données de captures cumulatives. Quatrième enregistrement du rapport et/ou suivants 
+%gt%TABLE%gt% 
+III. CODIFICATION DE LA PÉRIODE COUVERTE 
+- YYYYMMDD est la date (YYYY - année à 4 chiffres, MM mois à deux chiffres et DD le jour à deux chiffres) qui correspond au dernier jour de la période couverte. 
+- P est le type de période couverte (un caractère): 
+D- Jour 
+W- Semaine (le dernier jour de la semaine est le dimanche) 
+M- Mois 
+Q- Trimestre 
+S- Semestre 
+Y- Année. 
+IV. CODIFICATION DE LA ZONE 
+La codification de la zone doit être conforme à ce qui a été établi dans les règlements concernant la communication de statistiques sur les captures nominales des États membres se livrant à la pêche 
+1) dans l'Atlantique Nord-Est [règlement (CEE) no 3880/91 du Conseil (JO L 365 du 31.12.1991, p 1)]; 
+2) dans l'Atlantique Nord-Ouest [règlement (CEE) no 2018/93 du Conseil (JO L 186 du 28.7.1993, p. 1)]; 
+3) dans certaines zones en dehors de l'Atlantique Nord [règlement (CE) no 2597/95 du Conseil (JO L 270 du 13.11.1995, p. 1)]. 
+- Les deux premières positions correspondent à la zone statistique de pêche FAO. 
+- Les sept positions suivantes correspondent aux sous-divisions de la zone statistique de pêche FAO. 
+(1) FIDES: Fisheries Data Exchange System; projet IDA définissant une approche commune à l'échange de données pour voie électronique entre la Commission et les États membres. 

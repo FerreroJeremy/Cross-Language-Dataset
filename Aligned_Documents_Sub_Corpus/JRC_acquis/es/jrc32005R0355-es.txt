@@ -1,0 +1,113 @@
+Reglamento (CE) n%deg%%nbsp%355/2005 de la Comisi%oacute%n, de 28 de febrero de 2005, que modifica el Reglamento (CEE) n%deg%%nbsp%2676/90 por el que se determinan los m%eacute%todos de an%aacute%lisis comunitarios aplicables en el sector del vino 
+Reglamento (CE) no 355/2005 de la Comisión 
+de 28 de febrero de 2005 
+que modifica el Reglamento (CEE) no 2676/90 por el que se determinan los métodos de análisis comunitarios aplicables en el sector del vino 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) no 1493/1999 del Consejo, de 17 de mayo de 1999, por el que se establece la organización común del mercado vitivinícola [1], y, en particular, su artículo 46, apartado 3, 
+Considerando lo siguiente: 
+(1) El método de medición del grado alcohólico de los vinos por densimetría electrónica se ha validado según criterios reconocidos internacionalmente. La nueva descripción de este método fue adoptada por la Oficina Internacional de la Viña y el Vino en su asamblea general de 2000. 
+(2) La utilización de este método de medición puede permitir un control más simple y preciso del grado alcohólico volumétrico de los vinos. 
+(3) El reconocimiento de la equivalencia de este método con los métodos descritos en el capítulo 3 del anexo del Reglamento (CEE) no 2676/90 de la Comisión [2] ha perdido su razón de ser y, por lo tanto, debe suprimirse el artículo 3, apartado 2. Además, procede introducir en el capítulo 3 del anexo de dicho Reglamento la descripción actualizada de este método, acompañada de los valores experimentales de los parámetros de validación del mismo. 
+(4) Procede modificar en consecuencia el Reglamento (CEE) no 2676/90. 
+(5) Las medidas previstas en el presente Reglamento se ajustan al dictamen del comité de gestión del vino. 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+El Reglamento (CEE) no 2676/90 se modificará como sigue: 
+1) En el artículo 3, se suprimirá el apartado 2. 
+2) El anexo se modificará con arreglo a lo indicado en el anexo del presente Reglamento. 
+Artículo 2 
+El presente Reglamento entrará en vigor el séptimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 28 de febrero de 2005. 
+Por la Comisión 
+Mariann Fischer Boel 
+Miembro de la Comisión 
+[1] DO L 179 de 14.7.1999, p. 1. Reglamento modificado por el Acta de adhesión de 2003. 
+[2] DO L 272 de 3.10.1990, p. 1. Reglamento cuya última modificación la constituye el Reglamento (CE) no 128/2004 (DO L 19 de 27.1.2004, p. 3). 
+-------------------------------------------------- 
+ANEXO 
+El capítulo 3 del anexo del Reglamento (CEE) no 2676/90 "Grado alcohólico volumétrico" se modificará como sigue: 
+1) En la sección 2, el punto 2.2 se sustituirá por el texto siguiente: 
+"2.2. Métodos de referencia: 
+- Determinación del grado alcohólico del destilado por picnometría. 
+- Determinación del grado alcohólico de los vinos mediante balanza hidrostática. 
+- Determinación del grado alcohólico de los vinos por densimetría electrónica mediante un resonador de flexión.". 
+2) En la sección 4, el título se sustituirá por el título y el subtítulo siguientes: 
+"4. MÉTODOS DE REFERENCIA 
+4.A. Determinación del grado alcohólico del destilado por picnometría.". 
+3) En la sección 4 bis, el título se sustituirá por el título siguiente: 
+"4.B. Determinación del grado alcohólico de los vinos mediante balanza hidrostática.". 
+4) Después de la sección 4–B se insertará la sección 4–C siguiente: 
+"4.C. Determinación del grado alcohólico volumétrico de los vinos por densimetría electrónica mediante un resonador de flexión 
+1. Método de medición 
+1.1. Grado e introducción 
+El grado alcohólico volumétrico (GAV) de los vinos debe medirse antes de su comercialización, sobre todo a efectos de conformidad con las reglas de etiquetado. 
+El grado alcohólico volumétrico se define en el punto 1 del presente capítulo. 
+1.2. Objeto y ámbito de aplicación 
+El método de medición descrito es la densimetría electrónica mediante un resonador de flexión. 
+De acuerdo con las disposiciones reglamentarias vigentes, la temperatura de ensayo se fija en 20 °C. 
+1.3. Principio y definiciones 
+La primera fase del método consiste en destilar el vino de volumen a volumen. El método de destilación se describe en el punto 3 del presente capítulo. Esta destilación permite eliminar las sustancias no volátiles. El etanol, sus homólogos y los ésteres de ambos están comprendidos en el grado alcohólico, puesto que se encuentran en el destilado. 
+En una segunda etapa se mide la densidad absoluta del destilado obtenido. La densidad absoluta de un líquido a una temperatura determinada es igual al cociente de su masa por su volumen: 
+ρ = m/V (para el vino, se expresa en g/ml). 
+En el caso de una solución hidroalcohólica como un destilado, si se conoce la temperatura, unas tablas permiten hallar la equivalencia entre densidad absoluta y grado alcohólico. Éste corresponde al del vino (destilación de volumen a volumen). 
+En el presente método, la densidad absoluta del destilado se mide por densimetría electrónica mediante un resonador de flexión. El principio consiste en medir el período de oscilación de un tubo que contenga una muestra sometida a una excitación electromagnética. Entonces se calcula la densidad absoluta, que se relaciona con el período de oscilación mediante la fórmula siguiente: 
+ρ =T2 × C4π2V - MV (1) 
+ρ = densidad absoluta de la muestra 
+T = período de vibración inducida 
+M = masa del tubo vacío 
+C = constante de recuperación 
+V = volumen de la muestra vibrante 
+Esta relación es del tipo ρ = A T2 – B (2), de manera que existe una relación lineal entre la densidad absoluta y el período elevado al cuadrado. Las constantes A y B son propias de cada oscilador y se calculan midiendo el período de fluidos con una densidad absoluta conocida. 
+1.4. Reactivos y productos 
+1.4.1. Fluidos de referencia 
+Dos fluidos de referencia servirán para ajustar el densímetro. Las densidades absolutas de los fluidos de referencia deben enmarcar las de los destilados que deban medir. Se recomienda una diferencia de la densidad absoluta entre los fluidos de referencia superior a 0,01000 g/ml. Su densidad absoluta debe conocerse con una incertidumbre inferior a +/- 0,00005 g/ml, a una temperatura de 20,00 +/- 0,05 °C. 
+Para la medición del GAV de los vinos mediante densímetro electrónico, los fluidos de referencia serán: 
+- el aire seco (no contaminado), 
+- agua de grado al menos 3, según se define en la norma ISO 3696:1987, 
+- soluciones hidroalcóholicas con la densidad absoluta de referencia, 
+- soluciones referidas a los patrones nacionales de viscosidad inferior a 2 mm2/s. 
+1.4.2. Productos de limpieza y secado 
+- detergentes, ácidos, 
+- disolventes orgánicos: etanol 96 % vol., acetona pura. 
+1.5. Equipo 
+1.5.1. Densímetro electrónico con resonador de flexión 
+El densímetro electrónico constará de los elementos siguientes: 
+- una célula de medición formada por el tubo de medición y una cámara termostática, 
+- un sistema de puesta en oscilación del tubo y de medición del período de oscilación, 
+- un reloj, 
+- un indicador digital y eventualmente una calculadora. 
+El densímetro se colocará en un soporte completamente estable y libre de vibraciones. 
+1.5.2. Control de la temperatura de la célula de medición 
+El tubo de medición se colocará en una cámara termostática. La estabilidad de la temperatura deberá ser superior a +/- 0,02 °C. 
+Cuando el densímetro lo permita, habrá que controlar la temperatura de la célula de medición, ya que ésta influye mucho en los resultados de las determinaciones. La densidad absoluta de una solución hidroalcohólica de GAV 10 % vol. es de 0,98471 g/ml a 20 °C y de 0,98447 g/ml a 21 °C, o sea, una diferencia de 0,00024 g/ml. 
+La temperatura de ensayo se fijará en 20 °C. La medición de la temperatura en la célula se realizará con un termómetro de una resolución de menos de 0,01 °C y referido a los patrones nacionales, que debe garantizar una medición de la temperatura con una incertidumbre inferior a +/- 0,07 °C. 
+1.5.3. Calibración del aparato 
+El aparato se calibrará antes de su primera utilización y luego cada seis meses o si la comprobación no resultara satisfactoria. Se trata de utilizar dos fluidos de referencia para calcular las constantes A y B [véase la relación (2)]. A efectos prácticos, se seguirán las instrucciones del aparato para su calibración. En principio, esta calibración se llevará a cabo con aire seco (teniendo en cuenta la presión atmosférica) y agua muy pura (bidestilada o microfiltrada de resistividad muy alta %gt% 18 MΩ). 
+1.5.4. Comprobación de la calibración 
+Para comprobar la calibración se medirá la densidad absoluta de los fluidos de referencia. 
+Se procederá cada día a una comprobación de la densidad absoluta del aire. Una diferencia entre la densidad absoluta teórica y la observada superior a 0,00008 g/ml puede indicar que el tubo está sucio y hará falta limpiarlo. Tras la limpieza se comprobará de nuevo la densidad absoluta del aire. De no resultar concluyente esta comprobación, habrá que ajustar el aparato. 
+Se comprobará también la densidad absoluta del agua. Si la diferencia entre la densidad absoluta teórica y la observada es superior a 0,00008 g/ml, se ajustará el aparato. 
+Si resulta difícil comprobar la temperatura de la célula, se podrá comprobar directamente la densidad absoluta de una solución hidroalcohólica de GAV comparable a los de los destilados analizados. 
+1.5.5. Control 
+Cuando la diferencia entre la densidad absoluta teórica de una solución de referencia (conocida con una incertidumbre de +/- 0,00005 g/ml) y la medición sea superior a 0,00008 g/ml, habrá que comprobar la temperatura de la célula. 
+1.6. Muestreo y preparación de las muestras 
+(Véase el punto 3 "Obtención del destilado" del presente capítulo). 
+1.7. Procedimiento 
+Después de obtener el destilado, se medirá su densidad absoluta o su GAV por densimetría. 
+El operario velará por la estabilidad de la temperatura de la célula de medición. El destilado en la célula del densímetro no debe contener burbujas de aire y tiene que ser homogéneo. Si se dispone de un sistema de alumbrado que permita comprobar la ausencia de burbujas, habrá que apagarlo rápidamente después de la comprobación ya que el calor generado por la lámpara influye en la temperatura de medición. 
+Si el aparato sólo indica el período, se calculará la densidad absoluta gracias a las constantes A y B (véase 1.3). Si el aparato no indica directamente el GAV, se calculará dicho GAV mediante las tablas, una vez conocida la densidad absoluta. 
+1.8. Expresión de los resultados 
+El grado alcohólico volumétrico del vino es el obtenido para el destilado. Se expresará en % vol. 
+Si no se cumplen las condiciones de temperatura, habrá que proceder a una corrección para expresarlo a 20 °C. El resultado se indicará con dos decimales. 
+1.9. Observaciones 
+El volumen introducido en la célula será lo suficientemente grande como para prevenir una posible contaminación por la muestra anterior, por lo que se tendrán que realizar dos determinaciones como mínimo. Si éstas no arrojan resultados dentro del límite de repetibilidad, será necesaria una tercera determinación. En general, los resultados de las dos últimas determinaciones serán homogéneos y se eliminará el primer valor. 
+1.10. Fidelidad 
+En muestras de GAV entre 4 y 18 % vol. 
+Repetibilidad (r) | = | 0,067 (% vol.), | 
+Reproducibilidad (R) | = | 0,0454 + 0,0105 × GAV. | 
+2. Ensayo interlaboratorios. Fidelidad y exactitud (con adiciones de alcohol) 
+Las características del método indicadas en el punto 1.10 proceden de un ensayo interlaboratorios realizado por 11 laboratorios, con 6 muestras, conforme a procedimientos reconocidos internacionalmente. 
+Todos los datos y los cálculos de repetibilidad y reproducibilidad efectuados en este ensayo figuran en el capítulo "Grado alcohólico volumétrico" (Titre alcoometrique volumique — punto 4.B.2) de la Recopilación internacional de métodos de análisis de la Organización Internacional de la Viña y el Vino (Recueil International des Méthodes d’Analyses de l’Organisation Internationale de la Vigne et du Vin) — (edición de 2004).". 
+-------------------------------------------------- 

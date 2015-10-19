@@ -1,0 +1,163 @@
+R&amp;egrave;glement (CE) n&amp;deg; 1445/2005 de la Commission du 5 septembre 2005 d&amp;eacute;finissant les crit&amp;egrave;res appropri&amp;eacute;s d'&amp;eacute;valuation de la qualit&amp;eacute; ainsi que le contenu des rapports de qualit&amp;eacute; concernant les statistiques sur les d&amp;eacute;chets conform&amp;eacute;ment au r&amp;egrave;glement (CE) n&amp;deg; 2150/2002 du Parlement europ&amp;eacute;en et du Conseil (Texte pr&amp;eacute;sentant de l'int&amp;eacute;r&amp;ecirc;t pour l'EEE) 
+Règlement (CE) no 1445/2005 de la Commission 
+du 5 septembre 2005 
+définissant les critères appropriés d'évaluation de la qualité ainsi que le contenu des rapports de qualité concernant les statistiques sur les déchets conformément au règlement (CE) no 2150/2002 du Parlement européen et du Conseil 
+(Texte présentant de l'intérêt pour l'EEE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CE) no 2150/2002 du Parlement européen et du Conseil du 25 novembre 2002 relatif aux statistiques sur les déchets [1], et notamment son article 6, point d), 
+considérant ce qui suit: 
+(1) En vertu de l'article 6 du règlement (CE) no 2150/2002, la Commission est tenue d'arrêter les mesures nécessaires à l'application dudit règlement. 
+(2) Conformément à l'article 6, point d), du règlement (CE) no 2150/2002, la Commission doit définir les critères appropriés d'évaluation de la qualité ainsi que le contenu des rapports de qualité prévus par ledit règlement. 
+(3) Les mesures énoncées dans le présent règlement sont conformes à l'avis du comité du programme statistique institué par la décision 89/382/CEE, Euratom du Conseil [2], 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+1. Les critères d'évaluation de la qualité et le contenu des rapports de qualité tels que mentionnés dans la section 7 des annexes I et II du règlement (CE) no 2150/2002 sont définis à l'annexe du présent règlement. Les États membres fournissent un rapport de qualité établi conformément à l'annexe du présent règlement. 
+2. Le paragraphe 1 s'applique aux données soumises concernant la première année de référence 2004 ainsi que toutes les périodes de référence ultérieures. 
+Article 2 
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 5 septembre 2005. 
+Par la Commission 
+Joaquín Almunia 
+Membre de la Commission 
+[1] JO L 332 du 9.12.2002, p. 1. Règlement modifié en dernier lieu par le règlement (CE) no 783/2005 de la Commission (JO L 131 du 25.5.2005, p. 38). 
+[2] JO L 181 du 28.6.1989, p. 47. 
+-------------------------------------------------- 
+ANNEXE 
+CONTENU DU RAPPORT DE QUALITÉ ET CRITÈRES D'ÉVALUATION DES STATISTIQUES SUR LES DÉCHETS 
+INTRODUCTION AU CONTENU DU RAPPORT DE QUALITÉ 
+Environnement "multiméthodes" 
+Conformément au règlement (CE) no 2150/2002, chaque transmission d'une série de données ou de séries combinées de données doit être accompagnée d'un rapport de qualité. Ce règlement n'impose aucune méthode spécifique pour élaborer des statistiques de déchets. Les méthodes peuvent varier d'un pays à l'autre, d'une série de données à l'autre pour un même pays, voire à l'intérieur même de séries particulières. La façon dont la qualité est évaluée dépend des méthodes utilisées. Afin de mieux cerner cet environnement "multiméthodes", la partie I du rapport de qualité présente une description générale des données; elle identifie les méthodes et en donne un aperçu général. La partie II reprend les éléments standard constitutifs de la qualité tels qu'ils sont définis par le système statistique européen. 
+Structure 
+Le rapport de qualité qui doit être présenté par les États membres suit la structure définie au chapitre "Contenu du rapport de qualité" ci-dessous. Il reproduit également les paragraphes qui ne s'appliquent pas ou pour lesquels aucune information n'est disponible; les paragraphes concernés sont complétés par une mention explicite de cette situation. 
+Révision des données 
+En cas de révision des données, une note est jointe au rapport de qualité. Elle précise le domaine couvert par la révision, explique les raisons pour lesquelles celle-ci a été nécessaire et précise clairement son impact sur les résultats. 
+Données provisoires 
+La transmission de données provisoires n'est pas conforme aux dispositions du règlement relatif aux statistiques sur les déchets. Si une série contient des données provisoires, celles-ci doivent faire l'objet d'une explication dans la partie I. Dans ce cas, il convient d'indiquer également quand aura lieu la révision nécessaire. 
+Principaux agrégats 
+Dans le rapport de qualité, il est parfois demandé d'évaluer l'impact d'hypothèses ou d'erreurs. Cette évaluation peut se limiter aux principaux agrégats. En ce qui concerne la production de déchets, les principaux agrégats sont les suivants: 
+- déchets dangereux produits par les ménages, 
+- déchets non dangereux produits par les ménages, 
+- déchets dangereux produits par les entreprises (ensemble des classes de la NACE), 
+- déchets non dangereux produits par les entreprises (ensemble des classes de la NACE). 
+En ce qui concerne le traitement des déchets, les principaux agrégats sont les suivants: 
+- déchets dangereux utilisés comme combustibles, 
+- déchets non dangereux utilisés comme combustibles, 
+- déchets dangereux incinérés, 
+- déchets non dangereux incinérés, 
+- déchets dangereux valorisés, 
+- déchets non dangereux valorisés, 
+- déchets dangereux éliminés, 
+- déchets non dangereux éliminés. 
+Nom de fichier 
+Le rapport de qualité doit être transmis sous forme de document électronique; le nom du fichier comprendra cinq parties: 
+Rapport de qualité | 2 | Valeur: QR | 
+Domaine | 5 | Valeur: WASTE | 
+Code pays | 2 | Code pays à deux caractères | 
+Année | 4 | Année de référence (première année de référence = 2004) | 
+Révision | 1 | Numéro de révision, zéro (0) pour la version initiale | 
+Les différentes parties du nom de fichier doivent être séparées par un caractère de soulignement. À titre d'exemple, le rapport de qualité 2004 de la Belgique après la première révision portera comme nom de fichier QR_WASTE_ BE_2004_1. 
+CONTENU DU RAPPORT DE QUALITÉ 
+Partie I — Description des données 
+Identification: 
+- pays, 
+- année de référence, 
+- série(s) de données, 
+- date de transmission. 
+Coordonnées de la(des) personne(s) responsable(s) de la qualité des statistiques sur les déchets: 
+- nom, 
+- numéro de téléphone, 
+- adresse électronique, 
+- organisation et unité. 
+Il convient de mentionner les dérogations s'appliquant à la série de données. 
+Description des parties impliquées/des sources utilisées dans le processus de collecte des données. Il y a lieu de rattacher ces parties et ces sources aux domaines qui les concernent dans le règlement relatif aux statistiques sur les déchets. Quelle est la base juridique de la source de données? Comment évaluez-vous la continuité? 
+Description générale: quelles méthodes sont appliquées dans quelle partie de la série de données. Cette description sert de référence dans la partie II du rapport. Il faut distinguer les méthodes suivantes: 
+- enquête, 
+- sources administratives, 
+- modélisation, 
+- autres (préciser). 
+Les modifications apportées aux données de l'année de référence précédente doivent être signalées et accompagnées d'une évaluation de l'impact sur la qualité des données. La comparabilité dans le temps doit faire l'objet d'une attention toute particulière. Des précisions à ce sujet sont données dans la partie II au point 5 "Comparabilité". Pour la première année de référence, il n'y a pas lieu d'établir un tel compte rendu en ce qui concerne la collecte de données volontaire fondée sur le questionnaire commun OCDE/Eurostat sur les déchets. 
+Il est demandé aux États membres d'établir une liste des changements importants qu'ils prévoient d'introduire dans les méthodes utilisées pour l'année de référence suivante. 
+Partie II — Rapport sur les attributs de la qualité 
+1. Pertinence 
+Un résumé comprenant une description des utilisateurs et des besoins au niveau national doit être fourni. 
+Les États membres indiquent le degré d'exhaustivité des séries de données. Ils identifient les variables et/ou les ventilations requises par le règlement relatif aux statistiques sur les déchets qui ne sont pas disponibles (la valeur de la cellule dans la série de données transmise sera "M" ou "L"). Si les données qui font défaut ne sont pas couvertes par une dérogation, ils fournissent une explication et prennent les mesures qui s'imposent pour remédier à la situation. 
+2. Précision 
+2.1. Erreurs d'échantillonnage 
+Se reporter à la partie I pour la délimitation du domaine d'enquête concerné. Des informations doivent être fournies sur les points suivants: 
+- la base d'échantillonnage utilisée, 
+- le plan d'échantillonnage appliqué, 
+- le type de stratification (par exemple par classe de taille ou groupe de la NACE), 
+- les volumes d'échantillonnage: nombre d'entreprises dans la population et nombre d'entreprises sondées (par strate le cas échéant), 
+- le coefficient de variation pour la quantité totale de déchets produits et pour les quatre agrégats principaux. Le coefficient a comme dénominateur la quantité totale de déchets produits pour l'agrégat concerné, c'est-à-dire en incluant les strates qui n'ont pas été estimées à l'aide de méthodes d'échantillonnage. Pour estimer la variance, il convient de prendre en compte les non-réponses, 
+- le coefficient de variation pour la quantité totale de déchets traités et pour les huit agrégats principaux. Le coefficient a comme dénominateur la quantité totale de déchets traités pour l'agrégat concerné, c'est-à-dire en incluant les strates qui n'ont pas été estimées à l'aide de méthodes d'échantillonnage. Pour estimer la variance, il convient de prendre en compte les non-réponses. 
+2.2. Erreurs qui ne sont pas dues à l'échantillonnage 
+2.2.1. Erreurs de couverture 
+- Pour l'annexe I sur la production des déchets: description de la(des) méthode(s) utilisée(s) afin d'atteindre un niveau de couverture de 100 %. 
+- Pour l'annexe II sur le traitement des déchets: description des installations de traitement des déchets qui ne sont pas prises en compte et justification de cette exclusion. 
+- Description de la manière dont est estimée la part des déchets commerciaux produits par les entreprises/commerces qui est incluse dans les déchets ménagers; quelle méthode est employée pour évaluer les déchets purement ménagers. 
+- Description des principaux problèmes de classification erronée, de sous-couverture et de surcouverture rencontrés lors de la collecte des données. 
+2.2.2. Erreurs de mesure 
+- Quelles unités statistiques sont utilisées pour quelles parties de la série de données? Quels sont les résultats de l'évaluation des erreurs potentielles dans l'utilisation des unités statistiques? 
+- Erreurs dans la précision des quantités: décrire la façon dont les données sont pondérées puis enregistrées ainsi que les procédures de validation utilisées pour détecter les erreurs de pondération. Quels sont les résultats des procédures mises en place pour déceler les erreurs? 
+- Une description de la qualité des informations recueillies au moyen de l'instrument de collecte des données doit être fournie. Par exemple dans les enquêtes par sondage au moyen de questionnaires: le questionnaire a-t-il été validé dans un groupe cible? En ce qui concerne les données administratives: y a-t-il des mesures incitatives au niveau de l'unité déclarante ou de l'administration elle-même expliquant les phénomènes de surdéclaration, de sous-déclaration ou de retards? 
+2.2.3. Erreurs de traitement 
+- Récapitulation des étapes du traitement entre la collecte et la production de statistiques, y compris les mesures visant à déceler les erreurs de traitement et à y remédier. 
+- Liste des erreurs de traitement identifiées précisant leur ampleur et leurs conséquences. 
+- Erreurs d'encodage du type de déchets, de la catégorie NACE, du type d'opération de traitement et de la région. Une description des opérations d'encodage et des procédures de validation qui sont utilisées pour repérer les erreurs d'encodage doit être fournie. Quels sont les résultats de ces procédures de détection des erreurs? 
+- Dans la catégorie des déchets produits par les ménages, quel est le pourcentage de déchets qui proviennent en fait d'entreprises? Comment cette inexactitude dans la classification est-elle évaluée? 
+2.2.4. Erreurs de non-réponse 
+- Taux de réponse au niveau des principaux agrégats. 
+- Description du traitement des non-réponses dans les enquêtes (non-réponses d'unités et non-réponses à des questions). 
+- Identification des erreurs prévisibles à la suite de non-réponses. 
+2.2.5. Erreurs dans les hypothèses du modèle 
+- Description des modèles, des hypothèses associées à la modélisation et des erreurs attendues, ainsi que des solutions trouvées. 
+- Résultats de l'analyse de sensibilité. 
+- Quelles sources sont utilisées (voir la description des sources dans la partie I). 
+3. Actualité et ponctualité 
+- Description, sous forme d'échéancier, des principales étapes de la collecte des données dans le processus d'élaboration des ensembles de données. 
+- Description, sous forme d'échéancier, des principales étapes de traitement des données (par exemple, dates de début et de fin de la vérification de l'exhaustivité, de la codification, du contrôle de vraisemblance, de la validation des données et des mesures de non-divulgation). 
+- Description, sous forme d'échéancier, des principales étapes de la publication (par exemple les dates de calcul, de validation et de diffusion des résultats préliminaires et des résultats détaillés). 
+Le respect de la ponctualité dans la communication des données à Eurostat est évalué conformément à la périodicité et aux délais de transmission définis dans le règlement relatif aux statistiques sur les déchets. Tout retard doit être expliqué. En outre, le rapport doit indiquer les mesures prises pour éviter des retards à l'avenir. 
+4. Accessibilité et clarté 
+L'organisme déclarant national (identifié dans la partie I du rapport de qualité) doit décrire: 
+- la politique de diffusion des statistiques sur les déchets, 
+- les mesures et les outils utilisés pour établir/améliorer la clarté, 
+- la politique de confidentialité qui est appliquée. 
+5. Comparabilité 
+- Pour évaluer la comparabilité entre des données nationales produites au moyen de méthodologies différentes, l'incidence des limitations en ce qui concerne la couverture et la précision des données doit être clarifiée (sur la base des éléments de mesure de la précision présentés plus haut). 
+- Comment la comparabilité régionale des données concernant les installations de traitement des déchets est-elle validée? Quelle est l'unité statistique utilisée? Comment est-il tenu compte des installations mobiles de traitement des déchets? 
+- Comparabilité dans le temps; il convient de signaler aussi bien les changements intervenus au cours de la dernière période de référence que ceux qui sont attendus pour la période de référence suivante. Des précisions doivent être données en ce qui concerne les modifications dans les définitions, la couverture ou les méthodes (voir partie I). Il y a lieu d'en évaluer également les conséquences. 
+6. Cohérence 
+Statistiques de l'environnement 
+- Cohérence de la diffusion nationale avec les données déclarées dans le cadre du règlement relatif aux statistiques sur les déchets. 
+Il n'est pas nécessaire de rendre compte de la cohérence avec: 
+- le questionnaire commun OCDE/Eurostat, 
+- les obligations de déclaration particulières concernant certains déchets (véhicules hors d'usage, déchets d'équipements électriques et électroniques, emballages et déchets d'emballage, transferts de déchets, etc.), 
+- les déclarations en matière de prévention et de réduction intégrées de la pollution, 
+- les données transmises à l'Agence européenne pour l'environnement. 
+La Commission (Eurostat) traitera elle-même ces aspects. 
+Statistiques socio-économiques 
+Les États membres sont invités à faire des observations concernant la cohérence avec: 
+- les statistiques sur le commerce, 
+- la comptabilité intégrée de l'environnement et de l'économie, y compris les comptes nationaux, 
+- la production d'indicateurs structurels. 
+Ces observations pourraient porter également sur l'identification des différences dans la mise en œuvre des unités statistiques et des classifications. 
+7. Charge pour les déclarants 
+Il convient d'évaluer concrètement le nombre effectif de déclarants et la charge qui leur est imposée (temps nécessaire pour répondre aux questions). Pour ce qui est des sources administratives, il s'agit de la charge que représentent les questions supplémentaires posées à des fins statistiques. 
+CRITÈRES D'ÉVALUATION 
+La Commission (Eurostat) évaluera les informations recueillies sur la base du règlement relatif aux statistiques sur les déchets selon les cinq critères généraux suivants: 
+1. L'exhaustivité des séries de données 
+L'exhaustivité des séries de données est définie par le format de transmission des statistiques sur les déchets [règlement (CE) no 782/2005 de la Commission [1]]. 
+2. L'exhaustivité du rapport de qualité 
+L'exhaustivité du rapport de qualité est définie par le présent règlement. 
+3. L'actualité 
+L'actualité des séries de données et du rapport de qualité est spécifiée dans le règlement relatif aux statistiques sur les déchets (dans un délai de dix-huit mois à compter de la fin de l'année de référence). 
+4. L'application correcte des définitions et des classifications 
+Le manuel relatif aux statistiques sur les déchets établit une définition commune des concepts et des classifications utilisés. 
+5. L'utilisation de méthodes statistiques sûres 
+Le règlement relatif aux statistiques sur les déchets n'impose aucune méthode particulière pour établir les statistiques sur les déchets. Le manuel relatif aux statistiques sur les déchets doit servir de guide de bonnes pratiques. 
+Dans un délai de deux mois suivant la date limite fixée pour la transmission des données, la Commission (Eurostat) informe la personne responsable de la qualité des statistiques sur les déchets dans chaque État membre des résultats de l'évaluation. 
+[1] JO L 131 du 25.5.2005, p. 26. 
+-------------------------------------------------- 

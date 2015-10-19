@@ -1,0 +1,363 @@
+Commission Regulation (EC) No 28/2004 of 5 January 2004 implementing Regulation (EC) No 1177/2003 of the European Parliament and of the Council concerning Community statistics on income and living conditions (EU-SILC) as regards the detailed content of intermediate and final quality reports 
+Commission Regulation (EC) No 28/2004 
+of 5 January 2004 
+implementing Regulation (EC) No 1177/2003 of the European Parliament and of the Council concerning Community statistics on income and living conditions (EU-SILC) as regards the detailed content of intermediate and final quality reports 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Regulation (EC) No 1177/2003 of the European Parliament and the Council of 16 June 2003 concerning Community statistics on income and living conditions (EU-SILC)(1), and in particular Article 15(2)(b) thereof, 
+Whereas: 
+(1) Regulation (EC) No 1177/2003 established a common framework for the systematic production of Community statistics on income and living conditions, encompassing comparable and timely cross-sectional and longitudinal data on income and on the level and composition of poverty and social exclusion at national and European Union levels. 
+(2) Pursuant to Article 15(2)(b) of Regulation (EC) No 1177/2003, implementing measures are necessary to determine the detailed content of the intermediate report, relating to the common cross-sectional EU indicators based on the EU-SILC cross-sectional component, and the detailed content of the final quality report focusing on internal accuracy, which covers both cross-sectional and longitudinal components. 
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The definitions to be applied to the intermediate and final quality reports of the Community statistics on income and living conditions (EU-SILC) shall be as laid down in Annex I. 
+Article 2 
+Quality evaluation criteria and the detailed content of the intermediate quality report to be produced by Member States, relating to the common cross-sectional EU indicators based on the cross-sectional component of the EU-SILC shall be as laid down in Annex II. 
+Article 3 
+Quality evaluation criteria and the detailed content of the final quality report to be produced by Member States, relating to the EU-SILC cross-sectional and longitudinal components focussing on internal accuracy shall be as laid down in Annex III. 
+Article 4 
+The content of the comparative intermediate and final quality reports to be produced by the Commission (Eurostat) shall be as laid down in Annex IV. 
+Article 5 
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 5 January 2004. 
+For the Commission 
+Pedro Solbes Mira 
+Member of the Commission 
+(1) OJ L 165, 3.7.2003, p. 1. 
+ANNEX I 
+DEFINITIONS 
+(a) %quot%Substitution%quot% refers to replacement by other units of the original units selected in the sample which do not supply the required information, either because the address cannot be located or is inaccessible, or because the household refuses to cooperate, the entire household is temporarily away or the household is unable to respond 
+(b) %quot%Imputation%quot% means estimating plausible (but artificial) substitute values for missing values 
+(c) %quot%Equivalised disposable income%quot% is defined as the household's total disposable income divided by its %quot%equivalent size%quot% 
+(d) %quot%Equivalent size%quot% refers to the OECD modified scale (which gives a weight of 1,0 to the first adult, 0,5 to other persons aged 14 or over who are living in the household and 0,3 to each child aged under 14) 
+(e) %quot%Sampling frame%quot% is the population of units from which a sample can be selected 
+(f) %quot%Accuracy%quot% denotes the closeness of computations or estimates to the exact or true values 
+(g) %quot%Sampling errors%quot% refers to the variability that occurs at random because of the use of a sample rather than a census 
+(h) %quot%Non-sampling errors%quot% are errors that occur in all phases of the data collection and production process 
+Non-sampling errors are basically of four types: 
+- %quot%Coverage errors%quot% are errors due to differences between the target population and the sampling frame. Coverage errors include over-coverage, under-coverage and misclassification: 
+- %quot%over-coverage%quot% relates either to wrongly classified units that are in fact out of scope, or to units that do not exist in practice 
+- %quot%under-coverage%quot% refers to units not included in the sampling frame 
+- %quot%misclassification%quot% refers to incorrect classification of units that belong to the target population 
+- %quot%Measurement errors%quot% are errors that occur at the time of data collection. There are a number of sources for these errors, such as the survey instrument, the information system, the interviewer and the mode of collection 
+- %quot%Processing errors%quot% are errors in post-data-collection processes such as data entry, keying, editing and weighting 
+- %quot%Non-response errors%quot% are errors due to an unsuccessful attempt to obtain the desired information from an eligible unit. Two main types of non-response errors are considered: 
+- %quot%unit non-response%quot% refers to the absence of information of the whole units (households and/or persons) selected into the sample 
+- %quot%item non-response%quot% refers to the situation where a sample unit has been successfully enumerated, but not all the required information has been obtained 
+(i) %quot%Relevance%quot% is the degree to which statistics meet current and potential users' needs. It refers to whether all statistics that are needed are produced and the extent to which concepts used (definitions, classifications, etc.) reflect users' needs 
+(j) %quot%Timeliness and punctuality%quot%: 
+- %quot%Timeliness of information%quot% reflects the length of time between its availability and the event or phenomenon it describes 
+- %quot%Punctuality%quot% refers to the time lag existing between the actual Eurostat delivery date of data and the target date when it should have been delivered, for instance, with reference to dates announced in some official release calendar, laid down by regulations or previously agreed among partners 
+(k) %quot%Accessibility and clarity%quot%: 
+- %quot%Accessibility%quot% refers to the physical conditions in which users can obtain data: where to go, how to order, delivery time, clear pricing policy, convenient marketing conditions (copyright, etc.), availability of micro or macro data, various formats (paper, files, CD-ROM, internet), etc. 
+- %quot%Clarity%quot% refers to the data's information environment whether data are accompanied with appropriate metadata, illustrations such as graphs and maps, whether information on their quality also available (including limitation in use) and the extend to which additional assistance is provided by the National Statistical Institutes 
+ANNEX II 
+Quality evaluation criteria and content of the intermediate quality report to be produced by Member States 
+1. COMMON CROSS-SECTIONAL EUROPEAN UNION INDICATORS 
+1.1. Common cross-sectional EU indicators based on the cross-sectional component of EU-SILC 
+Members States will provide the common cross-sectional EU indicators, based on the cross-sectional sample of year N, which will be included in the annual spring report of year (N + 2) to the European Council. 
+The common cross-sectional EU indicators refer to those indicators adopted by the Council in the context of the open method of coordination, which can be derived from the EU-SILC instrument. 
+1.2. Other indicators 
+1.2.1. Equivalised disposable income 
+1.2.2. The unadjusted gender pay gap 
+Members States that compute the unadjusted gender pay gap indicator on the basis of EU-SILC will provide that indicator. 
+2. ACCURACY 
+2.1. Sample design 
+The following information will be provided: 
+2.1.1. Type of sampling design (stratified, multi-stage, clustered) 
+2.1.2. Sampling units (one stage, two stages) 
+2.1.3. Stratification and substratification criteria 
+2.1.4. Sample size and allocation criteria 
+2.1.5. Sample selection schemes 
+2.1.6. Sample distribution over time 
+2.1.7. Renewal of sample: rotational groups 
+2.1.8. Weightings 
+2.1.8.1. Design factor 
+2.1.8.2. Non-response adjustments 
+2.1.8.3. Adjustments to external data (level, variables used and sources) 
+2.1.8.4. Final cross-sectional weight 
+2.1.9. Substitutions 
+For Members States where substitution is applied in cases of unit non-response, the following information will be provided: 
+2.1.9.1. Method of selection of substitutes 
+2.1.9.2. Main characteristics of substituted units compared to original units, by region (NUTS 2) if available 
+2.1.9.3. Distribution of substituted units by record of contact at address (DB120), household questionnaire result (DB130) and household interview acceptance (DB135) of the original units 
+2.2. Sampling errors 
+2.2.1. Standard error and effective sample size 
+The following information will be provided: 
+- effective sample size for the common cross-sectional EU indicators based on the cross-sectional component of EU-SILC, for equivalised disposable income and for the unadjusted gender pay gap (if applicable), 
+- standard errors for the common cross-sectional EU indicators based on the cross-sectional component of EU-SILC, for equivalised disposable income and for the unadjusted gender pay gap (if applicable). 
+2.3. Non-sampling errors 
+2.3.1. Sampling frame and coverage errors 
+A description of the sampling frame (including information on the procedure used to update the frame, frequency and duplicates), and a description of the main coverage problems (misclassification, under-coverage and over-coverage), if available, will be provided. 
+For Member States using a rotational design, information on the sampling frame will be provided for the new replications only. 
+2.3.2. Measurement and processing errors 
+2.3.2.1. Measurement errors 
+The following information will be provided: 
+- a description of different sources of measurement errors likely to be found in the survey, 
+- a description of the way the questionnaire was built up, the use of a cognitive laboratory (if applicable), field testing of the questionnaire, the effect of its design, content and wording, 
+- information on the intensity and efficiency of interview training: number of training days, skills testing before starting the fieldwork (rate of success and so on), 
+- information on studies, such as re-interviews, record check studies, or split-sample experiments, if available, 
+- results from models, for instance to assess the impact of using a financial year instead of a calendar year, if available. 
+2.3.2.2. Processing errors 
+The following information will be provided: 
+- a description of data entry controls, coding controls and the editing system applied to the data. Main errors detected in the post-data-collection process, 
+- the rates of failed edits for income variables. 
+2.3.3. Non-response errors 
+The following information will be provided: 
+2.3.3.1. Achieved sample size 
+- number of households for which an interview is accepted for the database. Rotational group breakdown (if applicable) and total, 
+- number of persons of 16 years or older who are members of the households for which the interview is accepted for the database, and who completed a personal interview. Rotational group breakdown (if applicable) and total, 
+- number of selected respondents (if applicable) who are members of the households for which the interview is accepted for the database, and who completed a personal interview. Rotational group breakdown (if applicable) and total. 
+2.3.3.2. Unit non-response 
+For Member States using a rotational design, information on unit non-response will be provided for the new replications in accordance with the formulas described below. 
+For the total sample, the unit non-response will be calculated by removing, from the numerator and the denominator of the formulas described below, those units that according to the tracing rules are out of scope. 
+- Household non-response rates (NRh) will be computed as follows: 
+NRh = (1-(Ra * Rh)) * 100 
+Where: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Ra is the address contact rate 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Rh is the proportion of complete household interviews accepted for the database 
+DB120 is the record of contact at the address 
+DB130 is the household questionnaire result, and 
+DB135 is the household interview acceptance result. 
+For those Members States where substitutions are made in case of unit non-response, non-response rates will be calculated before and after substitutions. 
+- Individual non-response rates (NRp) will be computed as follows: 
+NRp=(1-(Rp)) * 100 
+Where: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Rp is the proportion of complete personal interviews within the households accepted for the database 
+RB245 is the respondent status, and 
+RB250 is the data status. 
+- Overall individual non-response rates (*NRp) will be computed as follows: 
+* NRp = (1-(Ra * Rh * Rp)) * 100 
+For those Members States where substitutions are made in cases of unit non-response, non-response rates will be calculated before and after substitutions. 
+For those Members States where a sample of persons rather than a sample of households (addresses) was selected, the individual non-response rates will be calculated for %quot%the selected respondent%quot% (RB245 = 2), for all individuals aged 16 years or older (RB245 = 2 + 3) and for the non-selected respondent (RB245 = 3). 
+2.3.3.3. Distribution of households (original units) by %quot%record of contact at address%quot% (DB120), by %quot%household questionnaire result%quot% (DB130) and by %quot%household interview acceptance%quot% (DB135), for each rotational group (if applicable) and for the total 
+2.3.3.4. Distribution of substituted units (if applicable) by %quot%record of contact at address%quot% (DB120), by %quot%household questionnaire result%quot% (DB130) and by %quot%household interview acceptance%quot% (DB135), for each rotational group (if applicable) and for the total 
+2.3.3.5. Item non-response 
+For income variables the following information will be provided: 
+- percentages of households (per income components collected or compiled at household level)/persons (per income components collected or compiled at personal level) having received an amount for each income component, 
+- percentage of missing values for each income component collected or compiled at household/personal level, 
+- percentage of partial information for each income component collected or compiled at household/personal level. 
+%gt%PIC FILE= %quot%L_2004005EN.004701.TIF%quot%%gt% 
+2.3.3.6. Total item non-response and number of observations in the sample at unit level of the common cross-sectional European Union indicators based on the cross-sectional component of EU-SILC, for equivalised disposable income and for the unadjusted gender pay gap (if applicable) 
+2.4. Mode of data collection 
+For Member States using a sample of addresses/households, the distribution of household members aged 16 or over by %quot%data status%quot% (RB250) and by %quot%type of interview%quot% (RB260) will be provided, for each rotational group (if applicable) and for the total. 
+For Member States using a sample of persons, the distribution of %quot%selected respondent%quot%, the distribution of %quot%household members aged 16 or over%quot%, and the distribution of %quot%non-selected respondent%quot% by %quot%data status%quot% (RB250) and by %quot%type of interview%quot% (RB260) will be provided, for each rotational group (if applicable) and for the total. 
+2.5. Interview duration 
+The mean household interview duration will be provided. 
+The mean interview duration per household will be calculated as the sum of the duration of all household interviews plus the sum of the duration of all personal interviews, divided by the number of household questionnaires completed and accepted for the database. 
+3. COMPARABILITY 
+3.1. Basic concepts and definitions 
+The national concepts used, the differences between the national concepts and standard EU-SILC concepts, and an assessment, if available, of the consequences of the differences mentioned will be reported for the following areas: 
+- the reference population, 
+- the private household definition, 
+- the household membership, 
+- the income reference period(s) used, 
+- the period for taxes on income and social insurance contributions, 
+- the reference period for taxes on wealth, 
+- the lag between the income reference period and current variables, 
+- the total duration of the data collection of the sample, 
+- basic information on activity status during the income reference period. 
+3.2. Components of income 
+3.2.1. Differences between the national definitions and standard EU-SILC definitions, and an assessment, if available, of the consequences of the differences mentioned will be reported for the following target variables: 
+- total household gross income, 
+- total disposable household income, 
+- total disposable household income, before social transfers other than old-age and survivors' benefits, 
+- total disposable household income, before social transfers including old-age and survivors' benefits, 
+- imputed rent(1), 
+- income from rental of property or land, 
+- family/children-related allowances, 
+- social exclusion payments not elsewhere classified, 
+- housing allowances, 
+- regular inter-household cash transfers received, 
+- interest, dividends, profit from capital investments in unincorporated businesses, 
+- interest paid on mortgages(2), 
+- income received by people aged under 16, 
+- regular taxes on wealth, 
+- regular inter-household transfers paid, 
+- tax on income and social insurance contributions, 
+- repayments/receipts for tax adjustments, 
+- cash or near-cash employee income, 
+- non-cash employee income(3), 
+- employers' social insurance contributions(4), 
+- cash profits or losses from self-employment (including royalties); 
+- value of goods produced for own consumption(5), 
+- unemployment benefits, 
+- old-age benefits, 
+- survivors' benefits, 
+- sickness benefits, 
+- disability benefits, 
+- education-related allowances, 
+- gross monthly earnings for employees(6). 
+3.2.2. The source or procedure used for the collection of income variables 
+3.2.3. The form in which income variables at component level have been obtained (e.g. gross, net of taxes on income at source and social contributions, net of tax on income at source, net of social contributions) 
+3.2.4. The method used for obtaining income target variables in the required form (i.e. as gross values) 
+4. COHERENCE 
+4.1. Comparison of income target variables and number of persons who receive income from each %quot%income component%quot%, with external sources 
+A comparison with external sources for all income target variables and the number of persons who receive income from each %quot%income component%quot% 
+(1) Mandatory from 2007. 
+(2) Mandatory from 2007. 
+(3) This variable (with the exception of company car) will be collected only from 2007 onwards. 
+(4) This variable will be recorded only from 2007 if feasibility studies show it is possible. 
+(5) Mandatory from 2007. 
+(6) Compulsory only for Member States that have no other source than EU-SILC to calculate the gender pay gap. 
+ANNEX III 
+Quality evaluation criteria and content of the final quality report to be produced by member states 
+1. COMMON LONGITUDINAL EUROPEAN UNION INDICATORS BASED ON THE LONGITUDINAL COMPONENT OF EU-SILC 
+Member States will provide common longitudinal EU indicators, based on the longitudinal sample of EU-SILC. 
+The longitudinal common EU indicators refer to those indicators adopted by the Council in the context of the open method of coordination, which can be derived from the EU-SILC instrument. 
+2. ACCURACY 
+2.1. Sample design 
+For the first wave of the EU-SILC longitudinal component the following information will be provided: 
+2.1.1. Type of sample design (stratified, multi-stage, clustered) 
+2.1.2. Sampling units (one stage, two stages) 
+2.1.3. Stratification and substratification criteria 
+2.1.4. Sample size and allocation criteria 
+2.1.5. Sample selection schemes 
+2.1.6. Sample distribution over time 
+2.1.7. Renewal of the sample: rotational groups 
+2.1.8. Weightings 
+2.1.8.1. Design factor 
+2.1.8.2. Non-response adjustments 
+2.1.8.3. Adjustment to external data (level, variables used and sources) 
+2.1.8.4. Final longitudinal weight 
+For the second and following waves of the EU-SILC longitudinal component the following information will be provided: 
+2.1.8.5. Non-response adjustments 
+2.1.8.6. Adjustments to external data (level, variables used and sources) 
+2.1.8.7. Final longitudinal weight 
+2.1.8.8. Final household cross-sectional weight 
+For the first wave of the EU-SILC longitudinal component, the following information will be provided for Members States where substitutions are applied in cases of unit non-response. 
+2.1.9. Substitutions 
+2.1.9.1. Method of selection of substitutes 
+2.1.9.2. Main characteristics of substituted units compared to original units, by region (NUTS 2) if available 
+2.1.9.3. Distribution of substituted units by record of contact at address (DB120), household questionnaire result (DB130) and household interview acceptance (DB135) of the original units 
+2.2. Sampling errors 
+For the EU-SILC cross-sectional component and for each wave of the EU-SILC longitudinal component, the following information will be provided: 
+- The mean, the total number of observations (before and after imputation) and the standard errors for the following income components: 
+%gt%PIC FILE= %quot%L_2004005EN.005101.TIF%quot%%gt% 
+- The mean, the number of observations (before and after imputations) and the standard error for the equivalised disposable income breakdown by sex, agegroups and household size: 
+%gt%PIC FILE= %quot%L_2004005EN.005102.TIF%quot%%gt% 
+2.3. Non-sampling errors 
+2.3.1. Sampling frame and coverage errors 
+For the first wave of the EU-SILC longitudinal component, the information on sampling frame and coverage errors as defined in Annex II, point 2.3.1, of the present Regulation will be provided. 
+2.3.2. Measurement and processing errors 
+For each wave of the EU-SILC longitudinal component, information on measurement and processing errors as defined in Annex II, point 2.3.2, of the present Regulation will be provided. 
+2.3.3. Non-response errors 
+2.3.3.1. Achieved sample size 
+For each wave of the EU-SILC longitudinal component the following information will be provided: 
+- number of households for which an interview is accepted for the database; 
+- number of persons 16 years or older, number of sample persons and number of co-residents, who are members of the households for which the interview is accepted for the database, and who completed a personal interview. 
+2.3.3.2. Unit non-response 
+For the first wave of the EU-SILC longitudinal component, the following information will be provided: 
+- household non-response rates (NRh) as defined in Annex II, point 2.3.3.2, of the present Regulation, 
+- individual non-response rates (NRp) as defined in Annex II, point 2.3.3.2, of the present Regulation, 
+- overall individual non-response rates (*NRp) as defined in Annex II, point 2.3.3.2, of the present Regulation. 
+The following information will be provided for the second and following waves of the EU-SILC longitudinal component: 
+- Response rate for households 
+- Wave response rate 
+Percentage of households successfully interviewed (DB135 = 1) which were passed on to wave t (from wave t-1) or newly created or added during wave t, excluding those out of scope (under the tracing rules) or non-existent. 
+- Longitudinal follow-up rate 
+Percentage of households which are passed on to wave t+1 for follow-up within the households received into wave t from wave t-1, excluding those out of scope (under the tracing rules) or non-existent. 
+- Follow-up ratio 
+Number of households passed on from wave t to wave t+1 in comparison to the number of households received for follow-up at wave t from wave t-1. 
+- Achieved sample size ratio 
+Ratio of the number of households accepted for the database (DB135 = 1) in wave t to the number of households accepted for the database (DB135 = 1) in wave t-1. 
+- Response rate for persons 
+- Wave response rate 
+Percentage of sample persons successfully interviewed (RB250 = 11,12,13) among those passed on to wave t (from wave t-1) or newly created or added during wave t, excluding those out of scope (under the tracing rules). 
+Percentage of co-residents selected in wave 1 successfully interviewed (RB = 11,12,13) among those passed on to wave t (from wave t-1). 
+- Longitudinal follow-up rate 
+Percentage of sample persons successfully interviewed (RB250 = 11,12,13) in wave t out of all of sample persons selected, excluding those who have died or been found ineligible (out of scope), breakdown by causes of non-response. 
+- Achieved sample size ratio 
+Ratio of the number of completed personal interviews (RB250 = 11,12,13) in wave t to the number of completed personal interviews in wave t-1. 
+This ratio will be defined for sample persons and for all persons including non-sample persons aged 16+ and for co-residents aged 16+ selected in first wave. 
+- Response rate for non-sample persons 
+Ratio of the number of completed personal interviews (RB250 = 11,12,13) of non-sample persons aged 16+ in wave t to all non-sample persons aged 16+ listed in the households accepted for the database (DB135 = 1) in wave t or listed in the most recently conducted household interviews for households, which were forwarded from wave t-1 to wave t for follow-up, but could not be successfully interviewed in wave t. 
+2.3.3.3. Distribution of households by household status (DB110), by record of contact at address (DB120), by household questionnaire result (DB130) and by household interview acceptance (DB135) 
+For each wave of EU-SILC longitudinal component, the distribution of households by household status, by record of contact at address, by household questionnaire result and by household interview acceptance will be provided. 
+2.3.3.4. Distribution of persons for membership status (RB110) 
+For the second and following waves of the EU-SILC longitudinal component, the distribution of persons by membership status will be provided. 
+2.3.3.5. Item non-response 
+For income variables, the following information will be provided for each wave of the EU-SILC longitudinal component: 
+- percentages of households (per income components collected or compiled at household level)/persons (per income components collected or compiled at personal level) having received an amount for each income component, 
+- percentage of missing values for each income component collected or compiled at household/personal level, 
+- percentage of partial information for each income component collected or compiled at household/personal level. 
+2.4. Mode of data collection 
+For each wave of EU-SILC longitudinal component, the distribution of household members aged 16 or over by %quot%data status%quot% (RB250) and by %quot%type of interview%quot% (RB260) will be provided, for each sample person, for co-residents and for the total. 
+2.5. Imputation procedure 
+For the EU-SILC cross-sectional component and for each wave of the EU-SILC longitudinal component, a description of the imputation procedure used for item non-response, when different from the Eurostat method, the variables imputed and the percentage of imputation over the total number of observations per target variable will be reported. 
+2.6. Imputed rent 
+For the EU-SILC cross-sectional component and for each wave of the EU-SILC longitudinal component, a description of the method used to calculate imputed rent, when different from the Eurostat method, will be reported. 
+2.7. Company cars 
+For the EU-SILC cross-sectional component and for each wave of the EU-SILC longitudinal component, a description of the method used to impute a value to the private use of a %quot%company car%quot% will be reported. 
+3. COMPARABILITY 
+3.1. Basic concepts and definitions 
+For the first wave of the EU-SILC longitudinal component, the information on basic concepts and definitions (described in Annex II, point 3.1, of the present Regulation), differences between the national definitions and standard EU-SILC definitions, and an assessment, if available, of the consequences of the differences mentioned will be provided. 
+For the second and following waves any changes in basic concepts and definitions from first wave will be reported. 
+3.2. Components of income 
+3.2.1. Differences between the national definitions and standard EU-SILC definitions, and an assessment (if available) of the consequences of the differences mentioned 
+For the first wave of the EU-SILC longitudinal component, the information on components of income, described in Annex II, point 3.2.1, of the present Regulation (with the exception of %quot%gross monthly earnings for employees%quot%), will be provided. 
+For the second and following waves, any changes in the definition of income components from first wave will be reported. 
+3.2.2. The source or procedure used for the collection of income variables 
+For the first wave of the EU-SILC longitudinal component, the source or procedure used for the collection of income variables will be provided. 
+For the second and following waves, any changes in the source or procedure used for the collection of income variables will be reported. 
+3.2.3. The form in which income variables at component level have been obtained 
+For the first wave of the EU-SILC longitudinal component, the form in which income variables at component level have been obtained (e.g. gross, net of taxes on income at source and social contributions, net of tax on income at source, net of social contributions) will be provided. 
+For the second and following waves any changes in the form in which income variables at component level have been obtained will be reported. 
+3.2.4. The method used for obtaining the income target variables in the required form (i.e. as gross values) 
+For the first wave of the EU-SILC longitudinal component, the method used for obtaining the income target variables in the required form (i.e. as gross values) will be provided. 
+For the second and following waves any changes in the source or procedure used for the collection of income variables will be reported. 
+3.3. Tracing rules 
+For the EU-SILC longitudinal component, differences between the national tracing rules and the standard EU-SILC tracing rules will be reported. 
+4. COHERENCE 
+4.1. Comparison with external sources of income target variables and number of persons who receive income from each %quot%income component%quot% 
+For each wave of the EU-SILC longitudinal component, a comparison with external sources of income target variables and the number of persons who receive income from each %quot%income component%quot% will be provided, where the Member States concerned consider such external data to be sufficiently reliable. 
+ANNEX IV 
+The content of the comparative intermediate and final quality reports to be produced by the Commission (Eurostat) 
+COMPARATIVE INTERMEDIATE QUALITY REPORT 
+Based on the intermediate quality reports provided by Member States, the Commission (Eurostat) shall produce a comparative intermediate quality report containing the following quality criteria: 
+1. Accuracy 
+1.1. Sample design 
+1.2. Sampling errors 
+1.2.1. The estimated value, the coefficient of variation, the 95 % confidence interval and effective sample size for the common cross-sectional EU indicators based on the cross-sectional component of EU-SILC, for the equivalised disposable income, and for the unadjusted gender pay gap (if applicable) 
+1.3. Non-sampling errors 
+1.4. Mode of data collection 
+1.5. Interview duration 
+2. Comparability 
+2.1. Basic concepts and definitions 
+2.2. Components of income 
+3. Coherence 
+COMPARATIVE FINAL QUALITY REPORT 
+Based on the final quality reports provided by Member States, the Commission (Eurostat) shall produce a comparative final quality report containing the following quality criteria: 
+1. Relevance 
+- a description and classification of users 
+- a description of the variety of users' needs (by class of users) 
+2. Accuracy 
+2.1. Sample design 
+2.2. Sampling errors 
+For EU-SILC cross-sectional component and for each wave of the EU-SILC longitudinal component the following information shall be provided: 
+- the mean, the total number of observations (before and after imputation), the coefficient of variation and the 95 % confidence interval for income components 
+- the mean, the total number of observations (before and after imputation), the coefficient of variation and the 95 % confidence interval for the equivalised disposable income breakdown by sex, age groups and household size 
+2.3. Non-sampling errors 
+2.4. Mode of data collection 
+2.5. Imputation procedure 
+2.6. Imputed rent 
+2.7. Company cars 
+3. Timeliness and punctuality 
+- the average timeliness of data 
+- the data frequency and average data freshness 
+- the percentage of late data releases, based on scheduled dissemination dates laid out in the EU-SILC Framework Regulation 
+- the mean delay of data non-punctually delivered (in number of weeks) 
+- the reasons for late delivery 
+4. Accessibility and clarity 
+- a description of the conditions of data access (media, support, marketing conditions, restrictions, confidentiality, etc.) 
+- a description of the conditions of data publication 
+5. Comparability 
+5.1. Basic concepts and definitions 
+5.2. Components of income 
+5.3. Tracing rules 
+6. Coherence 

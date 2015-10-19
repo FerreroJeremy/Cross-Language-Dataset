@@ -1,0 +1,712 @@
+R%egrave%glement (CE) n%deg%%nbsp%430/2005 de la Commission du 15 mars 2005 concernant la mise en %oelig%uvre du r%egrave%glement (CE) n%deg%%nbsp%577/98 du Conseil relatif %agrave% l'organisation d'une enqu%ecirc%te par sondage sur les forces de travail dans la Communaut%eacute% en ce qui concerne la codification %agrave% utiliser pour la transmission des donn%eacute%es %agrave% compter de 2006 et l%rsquo%utilisation d%rsquo%un sous-%eacute%chantillon pour la collecte de donn%eacute%es de variables structurelles 
+Règlement (CE) no 430/2005 de la Commission 
+du 15 mars 2005 
+concernant la mise en œuvre du règlement (CE) no 577/98 du Conseil relatif à l'organisation d'une enquête par sondage sur les forces de travail dans la Communauté en ce qui concerne la codification à utiliser pour la transmission des données à compter de 2006 et l’utilisation d’un sous-échantillon pour la collecte de données de variables structurelles 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu le règlement (CE) no 577/98 du Conseil du 9 mars 1998 relatif à l’organisation d’une enquête par sondage sur les forces de travail dans la Communauté [1], et notamment son article 3, son article 4, paragraphe 3, et son article 4, paragraphe 4, 
+considérant ce qui suit: 
+(1) Conformément à l’article 4, paragraphe 3, du règlement (CE) no 577/98, des modalités d’application sont nécessaires afin de définir la codification des variables à utiliser pour la transmission des données. 
+(2) Conformément à l’article 4, paragraphe 4, du règlement (CE) no 577/98, il est possible de distinguer parmi les caractéristiques de l’enquête une liste de variables, ci-après dénommées "variables structurelles", qui doivent être collectées uniquement comme moyennes annuelles sur la base de 52 semaines et non comme moyennes trimestrielles. Il y a donc lieu d’identifier les conditions d’utilisation d’un sous-échantillon pour la collecte des données des variables structurelles. 
+(3) Au vu de l’importance des données sur l’emploi et le chômage, les totaux pour ces indicateurs doivent être cohérents, qu’ils soient issus du sous-échantillon annuel ou qu’ils soient calculés sur la base d’une moyenne annuelle des quatre échantillons trimestriels complets. 
+(4) Au vu de l’importance des données collectées à partir des modules ad hoc, il doit être possible de combiner cette information avec toute autre variable de l’enquête. 
+(5) Les mesures prévues au présent règlement sont conformes à l’avis du comité du programme statistique institué par la décision 89/382/CEE, Euratom du Conseil [2], 
+A ARRÊTÉ LE PRÉSENT RÈGLEMENT: 
+Article premier 
+Les conditions pour l’utilisation d’un sous-échantillon pour la collecte de données de variables structurelles sont présentées à l’annexe I. 
+Article 2 
+La codification des variables à utiliser pour la transmission des données à compter de 2006 est présentée à l’annexe II. 
+Article 3 
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication Journal officiel de l’Union européenne. 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. 
+Fait à Bruxelles, le 15 mars 2005. 
+Par la Commission 
+Joaquín Almunia 
+Membre de la Commission 
+[1] JO L 77 du 14.3.1998, p. 3. Règlement modifié en dernier lieu par le règlement (CE) no 2257/2003 du Parlement européen et du Conseil (JO L 336 du 23.12.2003, p. 6). 
+[2] Décision du Conseil du 19 juin 1989 instituant un comité du programme statistique des Communautés européennes (JO L 181 du 28.6.1989, p. 47). 
+-------------------------------------------------- 
+ANNEXE I 
+CONDITIONS POUR L’UTILISATION D’UN SOUS-ÉCHANTILLON POUR LA COLLECTE DE DONNÉES RELATIVES AUX VARIABLES STRUCTURELLES 
+1. Variables annuelles/trimestrielles 
+Le mot "annuelle" dans la colonne "Périodicité" de la codification présentée à l’annexe 2 identifie les variables structurelles qui, de manière optionnelle, peuvent être collectées uniquement comme moyennes annuelles sur la base de 52 semaines au moyen d’un sous-échantillon d’observations indépendantes et non comme moyennes trimestrielles. Les principales variables à collecter chaque trimestre sont identifiées comme "trimestrielles". 
+2. Représentativité des résultats 
+Pour les variables structurelles, l’erreur type relative (en faisant abstraction de l’effet de sondage) de toute estimation annuelle représentant 1 % ou plus de la population en âge de travailler ne peut excéder: 
+a) 9 % pour les pays dont la population est comprise entre un et 20 millions d’habitants, et 
+b) 5 % pour les pays dont la population est supérieure à 20 millions d’habitants. 
+Les pays dont la population est inférieure à un million d’habitants ne sont pas soumis à ces exigences de précision et les variables structurelles doivent être collectées pour l’échantillon total, à moins que l’échantillon ne réponde aux exigences du point a). 
+Pour les pays utilisant un sous-échantillon pour la collecte de données relatives aux variables structurelles, si plus d’une vague est utilisée, le total du sous-échantillon devra être constitué d’observations indépendantes. 
+3. Cohérence des totaux 
+La cohérence entre les totaux annuels des sous-échantillons et les moyennes annuelles des échantillons complets doit être assurée pour l’emploi, le chômage et l’inactivité par sexe et pour les tranches d’âges suivantes: 15-24, 25-34, 35-44, 45-54, 55 et plus. 
+4. Modules ad hoc 
+L’échantillon utilisé pour la collecte des informations sur les modules ad hoc doit également fournir des informations sur les variables structurelles. 
+-------------------------------------------------- 
+ANNEXE II 
+CODIFICATION 
+Nom | Colonne | Périodicité | Code | Description | Filtres/Observations | 
+RENSEIGNEMENTS DÉMOGRAPHIQUES 
+HHSEQNUM | 1/2 | TRIMESTRIELLE | | Numéro d'ordre dans le ménage (devrait rester le même pour toutes les vagues) | Toutes personnes | 
+01-98 | Numéro d'ordre à deux positions attribué à chaque membre du ménage | 
+HHLINK | 3 | ANNUELLE | | Lien avec la personne de référence du ménage | HHTYPE = 1, 3 | 
+1 | Personne de référence | 
+2 | Conjoint (ou partenaire cohabitant) de la personne de référence | 
+3 | Enfant de la personne de référence (ou de son conjoint ou de son partenaire cohabitant) | 
+4 | Ascendant de la personne de référence (ou de son conjoint ou de son partenaire cohabitant) | 
+5 | Autre parent | 
+6 | Autre | 
+9 | Sans objet (HHTYPE ≠ 1, 2) | 
+HHSPOU | 4/5 | ANNUELLE | | Numéro d'ordre du conjoint ou du partenaire cohabitant | HHTYPE = 1, 3 | 
+01-98 | Numéro d'ordre du conjoint ou du partenaire cohabitant dans le ménage | 
+99 | Sans objet (la personne ne fait pas partie d'un ménage privé, n'a pas de partenaire ou le partenaire ne fait pas partie de ce ménage privé) | 
+HHFATH | 6/7 | ANNUELLE | | Numéro d'ordre du père | HHTYPE = 1, 3 | 
+01-98 | Numéro d'ordre du père dans le ménage | 
+99 | Sans objet (la personne ne fait pas partie d'un ménage privé ou le père ne fait pas partie de ce ménage privé) | 
+HHMOTH | 8/9 | ANNUELLE | | Numéro d'ordre de la mère | HHTYPE = 1, 3 | 
+01-98 | Numéro d'ordre de la mère dans le ménage | 
+99 | Sans objet (la personne ne fait pas partie d'un ménage privé ou la mère ne fait pas partie de ce ménage privé) | 
+SEX | 10 | TRIMESTRIELLE | | Sexe | Toutes personnes | 
+1 | Masculin | 
+2 | Féminin | 
+YEARBIR | 11/14 | TRIMESTRIELLE | | Année de naissance Indiquer les 4 chiffres de l'année de naissance | Toutes personnes | 
+DATEBIR | 15 | TRIMESTRIELLE | | Date de naissance par rapport à la fin de la période de référence | Toutes personnes | 
+1 | L'anniversaire de la personne se situe au cours de la période comprise entre le 1er janvier et la fin de la semaine de référence | 
+2 | L'anniversaire de la personne se situe dans la période de l'année qui est postérieure à la semaine de référence | 
+MARSTAT | 16 | ANNUELLE | | État civil | Toutes personnes | 
+1 | Célibataire | 
+2 | Marié | 
+3 | Veuf | 
+4 | Divorcé ou légalement séparé | 
+blanc | Sans réponse | 
+NATIONAL | 17/18 | TRIMESTRIELLE | | Nationalité Pour la codification, voir la classification ISO des pays | Toutes personnes | 
+YEARESID | 19/20 | ANNUELLE | | Nombre d'années de résidence dans ce pays | Toutes personnes | 
+00 | Personne née dans ce pays | 
+01-10 | Nombre d'années pour les personnes dont la durée de résidence dans le pays est comprise entre 1 et 10 ans | 
+11 | Plus de 10 ans | 
+blanc | Sans réponse | 
+COUNTRYB | 21/22 | TRIMESTRIELLE | | Pays de naissance Pour la codification, voir la classification ISO des pays | YEARESID ≠ 00 | 
+99 | Sans objet (colonne 19/20 = 00) | 
+blanc | Sans réponse | 
+PROXY | 23 | TRIMESTRIELLE | | Nature de la participation à l'enquête | Toute personne âgée de 15 ans ou plus | 
+1 | Participation directe | 
+2 | Participation par l'intermédiaire d'un autre membre du ménage | 
+9 | Sans objet (enfant de moins de 15 ans) | 
+blanc | Sans réponse | 
+SITUATION AU REGARD DE L'EMPLOI 
+WSTATOR | 24 | TRIMESTRIELLE | | Situation au regard de l'emploi au cours de la semaine de référence | Toute personne âgée de 15 ans ou plus | 
+1 | La personne a effectué un travail rémunéré, quel qu'il soit, — une heure ou plus — au cours de la semaine de référence (y compris les aides familiales mais à l'exclusion des personnes effectuant leur service militaire ou civil obligatoire) | 
+2 | La personne n'a pas travaillé, mais avait un emploi ou une activité dont elle était absente au cours de la semaine de référence (y compris les aides familiales mais à l'exclusion des personnes effectuant leur service militaire ou civil obligatoire) | 
+3 | La personne n'a pas travaillé parce qu'elle était mise à pied | 
+4 | La personne effectuait un service militaire ou civil obligatoire | 
+5 | Autres personnes (de 15 ans ou plus) qui n'ont pas travaillé et n'avaient pas d'activité au cours de la semaine de référence | 
+9 | Sans objet (enfant de moins de 15 ans) | 
+NOWKREAS | 25/26 | TRIMESTRIELLE | | Raison pour laquelle la personne n'a pas du tout travaillé bien qu'ayant un emploi | WSTATOR = 2 | 
+00 | Mauvais temps | 
+01 | Chômage partiel pour raisons techniques ou économiques | 
+02 | Conflit de travail | 
+03 | Enseignement scolaire ou formation | 
+04 | Maladie, accident ou incapacité temporaire | 
+05 | Congé de maternité | 
+06 | Congé parental | 
+07 | Congé, vacances | 
+08 | Congé de récupération (dans le cadre de la capitalisation du temps de travail ou d'un contrat d'annualisation du temps de travail) | 
+09 | Autres raisons (par exemple: responsabilités personnelles ou familiales) | 
+99 | Sans objet (WSTATOR = 1, 3-5, 9) | 
+CARACTÉRISTIQUES DE L'EMPLOI DANS L'ACTIVITÉ PRINCIPALE 
+STAPRO | 27 | TRIMESTRIELLE | | Statut professionnel | WSTATOR = 1, 2 | 
+1 | Employeur employant un ou plusieurs salariés | 
+2 | Indépendant n'employant aucun salarié | 
+3 | Salarié | 
+4 | Aide familial | 
+9 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+SIGNISAL | 28 | TRIMESTRIELLE | | Perception ininterrompue du salaire ou du traitement | (WSTATOR = 2 ou 3), NOWKREAS ≠ 04, NOWKREAS ≠ 05 et STAPRO = 3 | 
+1 | Absent pour trois mois au maximum | 
+2 | Absent pour plus de trois mois et percevant un salaire, traitement ou allocations sociales correspondant au moins à la moitié de son salaire | 
+3 | Absent pour plus de trois mois et percevant un salaire, traitement ou allocations sociales correspondant à moins de la moitié de son salaire | 
+4 | Ne sait pas | 
+9 | Sans objet (WSTATOR ≠ 2, 3 ou NOWKREAS = 04 et NOWKREAS = 05 ou STAPRO ≠ 3) | 
+NACE3D | 29/31 | TRIMESTRIELLE | | Activité économique de l'unité locale Codée selon la NACE Rév. 1.1, à 2 ou si possible 3 positions | WSTATOR = 1, 2 | 
+000 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+ISCO4D | 32/35 | TRIMESTRIELLE | | Profession Codée selon la CITP-88 (COM) à 3 ou si possible 4 positions | WSTATOR = 1, 2 | 
+9999 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+SUPVISOR | 36 | ANNUELLE | | Responsabilité d'encadrement | STAPRO = 3 | 
+1 | Oui | 
+2 | Non | 
+9 | STAPRO ≠ 3 | 
+blanc | Sans réponse | 
+SIZEFIRM | 37/38 | ANNUELLE | | Nombre de personnes travaillant dans l'unité locale | STAPRO = 1, 3, 4, blanc | 
+01-10 | Nombre précis de personnes entre 1 et 10 | 
+11 | 11 à 19 personnes | 
+12 | 20 à 49 personnes | 
+13 | 50 personnes ou plus | 
+14 | Ne sait pas, mais inférieur à 11 personnes | 
+15 | Ne sait pas, mais supérieur à 10 personnes | 
+99 | Sans objet (STAPRO = 2, 9) | 
+blanc | Sans réponse | 
+COUNTRYW | 39/40 | TRIMESTRIELLE | | Pays du lieu de travail Pour la codification, voir la classification ISO des pays | WSTATOR = 1, 2 | 
+99 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+REGIONW | 41/42 | TRIMESTRIELLE | | Région du lieu de travail NUTS 2 | WSTATOR = 1, 2 | 
+99 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+YSTARTWK | 43/46 | TRIMESTRIELLE | | Année au cours de laquelle la personne a commencé à travailler pour son employeur actuel ou comme indépendant Indiquer les 4 chiffres de l'année concernée | WSTATOR = 1, 2 | 
+9999 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+MSTARTWK | 47/48 | TRIMESTRIELLE | | Mois au cours duquel la personne a commencé à travailler pour son employeur actuel ou comme indépendant | YSTARTWK ≠ 9999, blanc et REFYEAR-YSTARTWK %lt%= 2 | 
+01-12 | Mois en deux chiffres | 
+99 | Sans objet (YSTARTWK = 9999, blanc ou REFYEAR-YSTARTWK%gt%2) | 
+blanc | Sans réponse | 
+WAYJFOUN | 49 | ANNUELLE | | Participation du bureau officiel de placement à la recherche du poste actuel | STAPRO = 3 et a commencé cet emploi au cours des douze derniers mois | 
+0 | Non | 
+1 | Oui | 
+9 | STAPRO ≠ 3 ou a commencé cet emploi il y a plus d'un an | 
+blanc | Sans réponse | 
+FTPT | 50 | TRIMESTRIELLE | | Distinction temps plein/temps partiel | WSTATOR = 1, 2 | 
+1 | Emploi à temps plein | 
+2 | Emploi à temps partiel | 
+9 | WSTATOR ≠ 1, 2 | 
+blanc | Sans réponse | 
+FTPTREAS | 51 | ANNUELLE | | Raisons de l'emploi à temps partiel L'emploi est un emploi à temps partiel car: | FTPT = 2 | 
+1 | la personne suit un enseignement ou une formation | 
+2 | la personne est malade ou handicapée | 
+3 | la personne garde des enfants ou des adultes en incapacité | 
+4 | autres raisons familiales ou personnelles | 
+5 | la personne n'a pas pu trouver un emploi à temps plein | 
+6 | autres raisons | 
+9 | Sans objet (FTPT ≠ 2) | 
+blanc | Sans réponse | 
+TEMP | 52 | TRIMESTRIELLE | | Permanence de l'emploi | STAPRO = 3 | 
+1 | La personne a un emploi permanent ou un contrat de travail à durée indéterminée | 
+2 | La personne a un emploi temporaire ou un contrat de travail à durée déterminée | 
+9 | Sans objet (STAPRO ≠ 3) | 
+blanc | Sans réponse | 
+TEMPREAS | 53 | ANNUELLE | | Raisons de l'emploi temporaire ou du contrat de travail à durée déterminée La personne a un emploi temporaire ou un contrat de travail à durée déterminée car: | TEMP = 2 | 
+1 | il s'agit d'un contrat couvrant une période de formation (apprentis, stagiaires, assistants de recherche, etc.) | 
+2 | elle n'a pas pu trouver un emploi permanent | 
+3 | elle ne souhaite pas avoir un emploi permanent | 
+4 | il s'agit d'un contrat pour une période probatoire | 
+9 | Sans objet (TEMP ≠ 2) | 
+blanc | Sans réponse | 
+TEMPDUR | 54 | TRIMESTRIELLE | | Durée totale de l'emploi temporaire ou du contrat de travail à durée déterminée | TEMP = 2 | 
+1 | Moins d'un mois | 
+2 | 1 à 3 mois | 
+3 | 4 à 6 mois | 
+4 | 7 à 12 mois | 
+5 | 13 à 18 mois | 
+6 | 19 à 24 mois | 
+7 | 25 à 36 mois | 
+8 | Plus de 3 ans | 
+9 | Sans objet (TEMP ≠ 2) | 
+blanc | Sans réponse | 
+TEMPAGCY | 55 | ANNUELLE | | Contrat avec une agence de travail temporaire | STAPRO = 3 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (STAPRO ≠ 3) | 
+blanc | Sans réponse | 
+TRAVAIL ATYPIQUE 
+SHIFTWK | 56 | ANNUELLE | | Travail posté | STAPRO = 3 | 
+1 | La personne effectue un travail posté | 
+3 | La personne n'effectue jamais un travail posté | 
+9 | Sans objet (STAPRO ≠ 3) | 
+blanc | Sans réponse | 
+EVENWK | 57 | ANNUELLE | | Travail le soir | WSTATOR = 1 ou WSTATOR = 2 | 
+1 | La personne travaille habituellement le soir | 
+2 | La personne travaille parfois le soir | 
+3 | La personne ne travaille jamais le soir | 
+9 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+NIGHTWK | 58 | ANNUELLE | | Travail la nuit | WSTATOR = 1 ou WSTATOR = 2 | 
+1 | La personne travaille habituellement la nuit | 
+2 | La personne travaille parfois la nuit | 
+3 | La personne ne travaille jamais la nuit | 
+9 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+SATWK | 59 | ANNUELLE | | Travail le samedi | WSTATOR = 1 ou WSTATOR = 2 | 
+1 | La personne travaille habituellement le samedi | 
+2 | La personne travaille parfois le samedi | 
+3 | La personne ne travaille jamais le samedi | 
+9 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+SUNWK | 60 | ANNUELLE | | Travail le dimanche | WSTATOR = 1 ou WSTATOR = 2 | 
+1 | La personne travaille habituellement le dimanche | 
+2 | La personne travaille parfois le dimanche | 
+3 | La personne ne travaille jamais le dimanche | 
+9 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+DURÉE DU TRAVAIL 
+HWUSUAL | 61/62 | TRIMESTRIELLE | | Nombre d'heures habituelles par semaine dans l'emploi principal | WSTATOR = 1, 2 | 
+00 | Le nombre habituel d'heures ne peut être indiqué, parce que les heures effectuées varient considérablement d'une semaine à l'autre ou d'un mois à l'autre | 
+01-98 | Nombre d'heures habituelles dans l'emploi principal au cours de la semaine de référence | 
+99 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+HWACTUAL | 63/64 | TRIMESTRIELLE | | Nombre d'heures réellement effectuées au cours de la semaine de référence dans l'emploi principal | WSTATOR = 1, 2 | 
+00 | Personne ayant un emploi ou une activité et n'ayant pas travaillé durant la semaine de référence (WSTATOR = 2) | 
+01-98 | Nombre d'heures réellement effectuées au cours de la semaine de référence dans l'emploi principal | 
+99 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+HWOVERP | 65/66 | TRIMESTRIELLE | | Nombres d'heures supplémentaires rémunérées effectuées dans l'emploi principal au cours de la semaine de référence | STAPRO = 3 | 
+00-98 | Nombre d'heures supplémentaires rémunérées | 
+99 | Sans objet (STAPRO ≠ 3) | 
+blanc | Sans réponse | 
+HWOVERPU | 67/68 | TRIMESTRIELLE | | Nombres d'heures supplémentaires non rémunérées effectuées dans l'emploi principal au cours de la semaine de référence | STAPRO = 3 | 
+00-98 | Nombre d'heures supplémentaires non rémunérées | 
+99 | Sans objet (STAPRO ≠ 3) | 
+blanc | Sans réponse | 
+HOURREAS | 69/70 | TRIMESTRIELLE | | Principale raison pour laquelle le nombre d'heures de travail réellement effectuées diffère du nombre d'heures habituellement effectuées | HWUSUAL = 00-98 et HWACTUAL = 01-98 | 
+| La personne a travaillé plus qu'habituellement à cause de: | 
+01 | — horaires variables (par exemple: horaire mobile) | 
+16 | — heures supplémentaires | 
+02 | — autres raisons | 
+| La personne a travaillé moins qu'habituellement à cause de: | 
+03 | — mauvais temps | 
+04 | — chômage partiel pour raisons techniques ou économiques | 
+05 | — conflit de travail | 
+06 | — enseignement scolaire ou formation | 
+07 | — horaires variables (par exemple : horaire mobile) | 
+08 | — maladie, accident ou incapacité temporaire de l'intéressé | 
+09 | — congé de maternité ou parental | 
+10 | — congé spécial pour raisons personnelles ou familiales | 
+11 | — congés, vacances annuelles | 
+12 | — jours fériés | 
+13 | — début/changement d'emploi pendant la semaine de référence | 
+14 | — fin d'emploi sans reprise d'un nouvel emploi pendant la semaine de référence | 
+15 | — autres raisons | 
+97 | Personne ayant effectué l'horaire normal pendant la semaine de référence (HWUSUAL = HWACTUAL = 01-98) | 
+98 | Personne dont l'horaire varie considérablement d'une semaine à l'autre ou d'un mois à l'autre et n'ayant pas précisé la raison de la divergence entre l'horaire effectif et l'horaire habituel (HWUSUAL = 00 et HOURREAS#01-16) | 
+99 | Sans objet (WSTATOR = 2-5, 9 ou HWUSUAL = blanc ou HWACTUAL = blanc) | 
+blanc | Sans réponse | 
+WISHMORE | 71 | TRIMESTRIELLE | | Désir de travailler habituellement plus que le nombre d'heures courant | (WSTATOR = 1 ou WSTATOR = 2) | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+WAYMORE | 72 | ANNUELLE | | Façon dont la personne souhaite travailler un nombre d'heures plus important: | WISHMORE = 1 | 
+1 | — par un emploi supplémentaire | 
+2 | — par un emploi où le nombre d'heures travaillées est supérieur à celui de l'emploi actuel | 
+3 | — uniquement dans le cadre de l'emploi actuel | 
+4 | — par n'importe lequel des moyens évoqués ci-dessus | 
+9 | Sans objet (WISHMORE ≠ 1) | 
+blanc | Sans réponse | 
+HWWISH | 73/74 | TRIMESTRIELLE | | Nombre total d'heures que la personne souhaiterait travailler | WSTATOR = 1 ou WSTATOR = 2 | 
+01-98 | Nombre total d'heures que la personne souhaite travailler | 
+99 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+HOMEWK | 75 | ANNUELLE | | Travail à domicile | WSTATOR = 1 ou WSTATOR = 2 | 
+1 | La personne effectue généralement son travail à domicile | 
+2 | La personne effectue parfois son travail à domicile | 
+3 | La personne ne travaille jamais à domicile | 
+9 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+LOOKOJ | 76 | TRIMESTRIELLE | | Recherche d'un autre emploi | WSTATOR = 1 ou WSTATOR = 2 | 
+0 | La personne ne cherche pas un autre emploi | 
+1 | La personne cherche un autre emploi | 
+9 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+LOOKREAS | 77 | ANNUELLE | | Motifs de la recherche d'un autre emploi: | LOOKOJ = 1 | 
+1 | — crainte ou certitude de perte ou de cessation de l'emploi actuel | 
+2 | — emploi actuel considéré comme un emploi d'attente | 
+3 | — recherche d'un emploi supplémentaire pour ajouter des heures à celles travaillées dans l'emploi actuel | 
+4 | — recherche d'un emploi où le nombre d'heures travaillées est supérieur à celui de l'emploi actuel | 
+5 | — recherche d'un emploi où le nombre d'heures travaillées est inférieur à celui de l'emploi actuel | 
+6 | — désir de trouver de meilleures conditions de travail (par exemple: rémunération, horaire de travail, temps de transport, qualité de l'emploi, etc.) | 
+7 | — autres motifs | 
+9 | Sans objet (LOOKOJ ≠ 1) | 
+blanc | Sans réponse | 
+DEUXIÈME ACTIVITÉ 
+EXIST2J | 78 | TRIMESTRIELLE | | Existence de plus d'un emploi ou activité | WSTATOR = 1 ou WSTATOR = 2 | 
+1 | La personne n'a eu qu'un seul emploi ou une seule activité durant la semaine de référence | 
+2 | La personne a eu plus d'un emploi/activité durant la semaine de référence (autre qu'un changement d'employeur ou d'activité) | 
+9 | Sans objet (WSTATOR = 3-5, 9) | 
+blanc | Sans réponse | 
+STAPRO2J | 79 | TRIMESTRIELLE | | Statut professionnel dans le deuxième emploi | EXIST2J = 2 | 
+1 | Employeur employant un ou plusieurs salariés | 
+2 | Indépendant n'employant aucun salarié | 
+3 | Salarié | 
+4 | Aide familial | 
+9 | Sans objet (EXIST2J = 1, 9 blanc) | 
+blanc | Sans réponse | 
+NACE2J2D | 80/81 | TRIMESTRIELLE | | Activité économique de l'unité locale dans laquelle la personne exerce le deuxième emploi Codée selon la NACE Rév. 1.1, à 2 positions | EXIST2J = 2 | 
+00 | Sans objet (EXIST2J = 1, 9, blanc) | 
+blanc | Sans réponse | 
+HWACTUA2 | 82/83 | TRIMESTRIELLE | | Nombre d'heures réellement effectuées au cours de la semaine de référence dans le deuxième emploi | EXIST2J = 2 | 
+00 | Personne n'ayant pas travaillé dans ce deuxième emploi durant la semaine de référence | 
+01-98 | Nombre d'heures réellement effectuées dans le deuxième emploi durant la semaine de référence | 
+99 | Sans objet (EXIST2J = 1, 9, blanc) | 
+blanc | Sans réponse | 
+EXPÉRIENCE PROFESSIONNELLE ANTÉRIEURE DE LA PERSONNE SANS EMPLOI 
+EXISTPR | 84 | TRIMESTRIELLE | | Expérience professionnelle | WSTATOR = 3-5 | 
+0 | La personne n'a jamais travaillé (les travaux purement occasionnels tels que les travaux de vacances, le service militaire ou civil obligatoire ne sont pas considérés comme un emploi) | 
+1 | La personne a déjà travaillé (les travaux purement occasionnels tels que les travaux de vacances, le service militaire ou civil obligatoire ne sont pas considérés comme un emploi) | 
+9 | Sans objet (WSTATOR = 1, 2 ou 9) | 
+blanc | Sans réponse | 
+YEARPR | 85/88 | TRIMESTRIELLE | | Année où la personne a travaillé pour la dernière fois Les 4 chiffres de l'année doivent être indiqués | EXISTPR = 1 | 
+9999 | Sans objet (EXISTPR = 0, 9, blanc) | 
+blanc | Sans réponse | 
+MONTHPR | 89/90 | TRIMESTRIELLE | | Mois où la personne a travaillé pour la dernière fois | YEARPR 9999, blanc et REFYEAR-YEARPR %lt%= 2 | 
+01-12 | Les 2 chiffres du mois doivent être indiqués | 
+99 | Sans objet (YEARPR = 9999, blanc ou REFYEAR-YEARPR%gt%2) | 
+blanc | Sans réponse | 
+LEAVREAS | 91/92 | ANNUELLE | | Principale raison pour avoir quitté le dernier emploi ou la dernière activité | EXISTPR = 1 et REFYEAR-YEARPR%lt%8 | 
+00 | Licenciement ou suppression de poste | 
+01 | Fin de l’emploi à durée déterminée | 
+02 | Garde d'enfants ou d'adultes en incapacité | 
+03 | Autres responsabilités personnelles ou familiales | 
+04 | Maladie ou incapacité de l'intéressé | 
+05 | Enseignement scolaire ou formation | 
+06 | Retraite anticipée | 
+07 | Retraite normale | 
+08 | Service militaire ou civil obligatoire | 
+09 | Autres raisons | 
+99 | Sans objet (EXISTPR = 0, 9, blanc ou EXISTPR = 1 et dernier emploi quitté depuis 8 ans ou plus) | 
+blanc | Sans réponse | 
+STAPROPR | 93 | TRIMESTRIELLE si la personne a travaillé ces 12 derniers mois, sinon ANNUELLE | | Statut professionnel dans le dernier emploi | EXISTPR = 1 et REFYEAR-YEARPR%lt%8 | 
+1 | Employeur employant un ou plusieurs salariés | 
+2 | Indépendant n'employant aucun salarié | 
+3 | Salarié | 
+4 | Aide familial | 
+9 | Sans objet (EXISTPR = 0, 9, blanc ou EXISTPR = 1 et dernier emploi quitté depuis 8 ans ou plus) | 
+blanc | Sans réponse | 
+NACEPR2D | 94/95 | TRIMESTRIELLE si la personne a travaillé ces 12 derniers mois, sinon ANNUELLE | | Activité économique de l'unité locale où la personne a travaillé pour la dernière fois | EXISTPR = 1 et REFYEAR-YEARPR%lt%8 | 
+| Codée selon la NACE Rév. 1.1, à 2 positions | 
+00 | Sans objet (EXISTPR = 0, 9, blanc ou EXISTPR = 1 et dernier emploi quitté depuis 8 ans ou plus) | 
+blanc | Sans réponse | 
+ISCOPR3D | 96/98 | TRIMESTRIELLE seulement si la personne a travaillé ces 12 derniers mois sinon ANNUELLE | | Profession exercée dans le dernier emploi Codée selon la CITP-88 (COM) à 3 positions | EXISTPR = 1 et REFYEAR-YEARPR%lt%8 | 
+999 | Sans objet (EXISTPR = 0, 9, blanc ou EXISTPR = 1 et dernier emploi quitté depuis 8 ans ou plus) | 
+blanc | Sans réponse | 
+RECHERCHE D'UN EMPLOI 
+SEEKWORK | 99 | TRIMESTRIELLE | | Recherche d'un emploi au cours des quatre dernières semaines | (WSTATOR = 3-5 ou SIGNISAL = 3) et âge%lt%75 | 
+1 | La personne a déjà trouvé un emploi et commencera à travailler dans un délai de 3 mois au maximum | 
+2 | La personne a déjà trouvé un emploi, commencera à travailler dans plus de 3 mois et ne recherche pas d'emploi | 
+3 | La personne ne recherche pas d'emploi et n'en a trouvé aucun qu'elle pourrait débuter ultérieurement | 
+4 | La personne recherche un emploi | 
+9 | Sans objet (WSTATOR = 1, 2 ou 9 et SIGNISAL ≠ 3) ou âge supérieur ou égal à 75 | 
+SEEKREAS | 100 | ANNUELLE | | Raisons pour lesquelles la personne ne recherche pas d'emploi La personne ne recherche pas d'emploi pour la raison suivante: | SEEKWORK = 3 | 
+1 | — elle attend d'être rappelée au travail (personne mise à pied) | 
+2 | — elle est malade ou invalide | 
+3 | — elle garde des enfants ou des adultes en incapacité | 
+4 | — elle a des responsabilités personnelles ou familiales | 
+5 | — elle poursuit des études ou suit une formation | 
+6 | — elle a pris sa retraite | 
+7 | — elle pense qu'il n'y a pas d'emploi disponible | 
+8 | — pour d'autres raisons | 
+9 | Sans objet (SEEKWORK ≠ 3) | 
+blanc | Sans réponse | 
+SEEKTYPE | 101 | TRIMESTRIELLE | | Type d'emploi recherché (ou trouvé) | SEEKWORK = 1, 2, 4 ou LOOKOJ = 1 | 
+| Emploi recherché (pour SEEKWORK = 1, 2, emploi trouvé): | 
+1 | En tant qu'indépendant | 
+| En tant que salarié: | 
+2 | — seul un emploi à temps plein est recherché (ou a déjà été trouvé) | 
+3 | — un emploi à temps plein est recherché mais s'il n'y en a pas, un emploi à temps partiel sera accepté | 
+4 | — un emploi à temps partiel est recherché mais s'il n'y en a pas, un emploi à temps plein sera accepté | 
+5 | — seul un emploi à temps partiel est recherché (ou a déjà été trouvé) | 
+6 | — la personne n'a pas précisé si elle recherche (ou a déjà trouvé) un emploi à temps plein ou à temps partiel | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 3 ou LOOKOJ = 0, blanc) | 
+blanc | Sans réponse | 
+SEEKDUR | 102 | TRIMESTRIELLE | | Durée de la recherche d'un emploi | SEEKWORK = 1, 4 ou LOOKOJ = 1 | 
+0 | La recherche n'a pas encore commencé | 
+1 | Moins d'un mois | 
+2 | 1 à 2 mois | 
+3 | 3 à 5 mois | 
+4 | 6 à 11 mois | 
+5 | 12 à 17 mois | 
+6 | 18 à 23 mois | 
+7 | 24 à 47 mois | 
+8 | 4 ans ou plus | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 2, 3 ou LOOKOJ = 0, blanc) | 
+blanc | Sans réponse | 
+MÉTHODES UTILISÉES AU COURS DES QUATRE SEMAINES PRÉCÉDENTES AFIN DE TROUVER UN EMPLOI 
+METHODA | 103 | TRIMESTRIELLE | | La personne s'est adressée à un bureau officiel de placement | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODB | 104 | TRIMESTRIELLE | | La personne s'est adressée à un service privé de placement | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODC | 105 | TRIMESTRIELLE | | La personne a pris directement contact avec les employeurs | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODD | 106 | TRIMESTRIELLE | | La personne s'est adressée à des amis, des parents, des syndicats, etc. | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODE | 107 | TRIMESTRIELLE | | La personne a mis des annonces dans des journaux ou y a répondu | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODF | 108 | TRIMESTRIELLE | | La personne a étudié les annonces d'offres d'emploi dans les journaux | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODG | 109 | TRIMESTRIELLE | | La personne a passé un test, un entretien ou un examen | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODH | 110 | TRIMESTRIELLE | | La personne a recherché un terrain, des locaux et du matériel | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODI | 111 | TRIMESTRIELLE | | La personne a cherché à obtenir des permis, licences, ressources financières | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODJ | 112 | TRIMESTRIELLE | | La personne attendait les résultats d'une demande d'emploi | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODK | 113 | TRIMESTRIELLE | | La personne attendait un appel d'un bureau officiel de placement | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODL | 114 | TRIMESTRIELLE | | La personne attendait les résultats d'un concours en vue d'un recrutement dans le secteur public | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+METHODM | 115 | TRIMESTRIELLE | | La personne a utilisé d'autres méthodes | SEEKWORK = 4 ou LOOKOJ = 1 | 
+0 | Non | 
+1 | Oui | 
+9 | Sans objet (WSTATOR = 9 ou SEEKWORK = 1-3 ou LOOKOJ = 0, blanc) | 
+WANTWORK | 116 | TRIMESTRIELLE | | Désir de travailler pour la personne ne recherchant pas d'emploi La personne ne recherche pas d'emploi: | SEEKWORK = 3 | 
+1 | — mais aimerait néanmoins en avoir un | 
+2 | — et ne souhaite pas en avoir | 
+9 | Sans objet (SEEKWORK ≠ 3) | 
+blanc | Sans réponse | 
+AVAILBLE | 117 | TRIMESTRIELLE | | Disponibilité pour le travail dans un délai de deux semaines | SEEKWORK = 1, 4 ou WANTWORK = 1, blanc ou WISHMORE = 1 ou SIGNISAL = 3 | 
+| Si un emploi était trouvé maintenant, la personne: | 
+1 | pourrait commencer à travailler immédiatement (dans les 15 jours) | 
+2 | ne pourrait pas commencer à travailler immédiatement (dans les 15 jours) | 
+9 | Sans objet (SEEKWORK ≠ 1 et SEEKWORK ≠ 4 et WANTWORK ≠ 1 et WANTWORK ≠ blanc et WISHMORE ≠ 1 et SIGNISAL ≠ 3) | 
+AVAIREAS | 118 | ANNUELLE | | Raisons pour lesquelles la personne ne pourrait pas commencer à travailler dans les 15 jours La personne ne pourrait pas commencer à travailler immédiatement (dans les 15 jours) pour une des raisons suivantes: | AVAILBLE = 2 | 
+1 | — elle doit achever ses études ou sa formation | 
+2 | — elle doit accomplir son service militaire ou civil obligatoire | 
+3 | — elle ne peut pas quitter son emploi actuel dans les 15 jours à cause d'une période de préavis | 
+4 | — elle a des responsabilités personnelles ou familiales (y compris maternité) | 
+5 | — elle est en maladie ou invalidité | 
+6 | — autres raisons | 
+9 | Sans objet (AVAILBLE ≠ 2) | 
+blanc | Sans réponse | 
+PRESEEK | 119 | ANNUELLE | | Situation de la personne immédiatement avant qu'elle ne commence à rechercher un emploi (ou dans l'attente que ce nouvel emploi commence) | SEEKWORK = 1, 2, 4 | 
+1 | La personne travaillait (y compris apprentis et stagiaires) | 
+2 | La personne suivait un enseignement à temps plein (à l'exclusion des apprentis et stagiaires) | 
+3 | La personne effectuait son service militaire ou civil obligatoire | 
+4 | La personne s'occupait de son foyer/sa famille | 
+5 | Autres (par exemple: retraités) | 
+9 | Sans objet (SEEKWORK = 3, 9) | 
+blanc | Sans réponse | 
+NEEDCARE | 120 | ANNUELLE | | Besoin de structures d'accueil La personne ne recherche pas un emploi ou travaille à temps partiel pour une des raisons suivantes: | FTPTREAS = 3 ou SEEKREAS = 3 | 
+1 | aucun service approprié d'accueil d'enfants n'est disponible ou abordable | 
+2 | aucun service approprié d'accueil de personnes malades, handicapées ou âgées n'est disponible ou abordable | 
+3 | aucun service approprié d'accueil à la fois d'enfants et de personnes malades, handicapées ou âgées n'est disponible ou abordable | 
+4 | Les structures d'accueil n'ont pas d'influence sur la décision de travailler à temps partiel ou de ne pas rechercher d'emploi | 
+9 | Sans objet (FTPTREAS ≠ 3 et SEEKREAS ≠ 3) | 
+blanc | Sans réponse | 
+REGISTER | 121 | ANNUELLE | | Inscription auprès d'un bureau officiel de placement | Toute personne âgée de 15 à 74 ans | 
+1 | La personne est inscrite auprès d'un bureau officiel de placement et bénéficie d'allocations ou d'aides | 
+2 | La personne est inscrite auprès d'un bureau officiel de placement, mais ne bénéficie pas d'allocations ou d'aides | 
+3 | La personne n'est pas inscrite auprès d'un bureau officiel de placement, mais bénéficie d'allocations ou d'aides | 
+4 | La personne n'est pas inscrite auprès d'un bureau officiel de placement et ne bénéficie pas d'allocations ou d'aides | 
+9 | Sans objet (enfant de moins de 15 ans ou personne de 75 ans ou plus) | 
+blanc | Sans réponse | 
+STATUT D'ACTIVITÉ PRINCIPAL 
+MAINSTAT (facultatif) | 122 | ANNUELLE | | Statut principal | Toute personne âgée de 15 ans ou plus | 
+1 | Exerce un emploi ou une activité, y compris les travaux non rémunérés pour une entreprise ou une affaire familiale, y compris un apprentissage ou un stage rémunéré, etc. | 
+2 | Chômeur | 
+3 | Élève, étudiant, en formation, travail non rémunéré | 
+4 | À la retraite ou à la retraite anticipée ou a cessé son activité | 
+5 | Invalidité permanente | 
+6 | Service militaire obligatoire | 
+7 | Effectue des tâches domestiques | 
+8 | Autres personnes sans activité | 
+9 | Sans objet (enfant de moins de 15 ans) | 
+blanc | Sans réponse | 
+ENSEIGNEMENT ET FORMATION 
+EDUCSTAT | 123 | TRIMESTRIELLE | | Étudiant ou apprenti dans le système éducatif normal durant les quatre dernières semaines | Toute personne âgée de 15 ans ou plus | 
+1 | Étudiant ou apprenti | 
+3 | Personne dans le système éducatif normal mais en vacances | 
+2 | Ni étudiant ni apprenti | 
+9 | Sans objet (enfant de moins de 15 ans) | 
+blanc | Sans réponse | 
+EDUCLEVL | 124 | TRIMESTRIELLE | | Niveau de cet enseignement ou de cette formation | EDUCSTAT = 1 ou 3 | 
+1 | CITE 1 | 
+2 | CITE 2 | 
+3 | CITE 3 | 
+4 | CITE 4 | 
+5 | CITE 5 | 
+6 | CITE 6 | 
+9 | Sans objet (EDUCSTAT = 2, 9, blanc) | 
+blanc | Sans réponse | 
+EDUCFILD (facultatif) | 125/127 | ANNUELLE | | Domaine de cet enseignement ou de cette formation | EDUCSTAT = 1 ou 3 et EDUCLEVL = 3-6 | 
+000 | Programmes généraux | 
+100 | Formation des enseignants et sciences de l'éducation | 
+200 | Lettres, langues et arts | 
+222 | Langues étrangères | 
+300 | Sciences sociales, commerce et droit | 
+400 | Sciences, mathématiques et informatique | 
+420 | Sciences de la vie (incluant la biologie et les sciences de l'environnement) | 
+440 | Sciences physiques (incluant, la physique, la chimie et les sciences de la terre) | 
+460 | Mathématiques et statistiques | 
+481 | Sciences informatiques | 
+482 | Utilisation de l'ordinateur | 
+500 | Ingénierie, industrie manufacturière et construction | 
+600 | Agriculture et sciences vétérinaires | 
+700 | Santé et protection sociale | 
+800 | Services | 
+900 | Inconnu | 
+999 | Sans objet [EDUCSTAT = 2, 9, blanc ou EDUCLEVL ≠ (3-6)] | 
+blanc | Sans réponse | 
+COURATT | 128 | TRIMESTRIELLE | | Avez-vous participé à des cours, des séminaires ou des conférences, ou reçu des cours particuliers en dehors du système éducatif normal au cours des quatre dernières semaines (toutes ces activités sont désignées ci-après par "activités d'apprentissage enseignées")? | Toute personne âgée de 15 ans ou plus | 
+1 | Oui | 
+2 | Non | 
+9 | Sans objet (enfants de moins de 15 ans) | 
+blanc | Sans réponse | 
+COURLEN | 129/131 | TRIMESTRIELLE | | Nombre d'heures consacrées à l'ensemble des activités d'apprentissage enseignées au cours des quatre dernières semaines | COURATT = 1 | 
+3 positions | Nombre d'heures | 
+999 | Sans objet (COURATT = 2, 9, blanc) | 
+blanc | Sans réponse | 
+COURPURP (facultatif) | 132 | ANNUELLE | | Objet de l'activité d'apprentissage la plus récente | COURATT = 1 | 
+1 | Principalement professionnel | 
+2 | Principalement personnel/social | 
+9 | Sans objet (COURATT = 2, 9, blanc) | 
+blanc | Sans réponse | 
+COURFILD (facultatif) | 133/135 | ANNUELLE | | Domaine de l'activité d'apprentissage la plus récente | COURATT = 1 | 
+000 | Programmes généraux | 
+100 | Formation des enseignants et sciences de l'éducation | 
+200 | Lettres, langues et arts | 
+222 | Langues étrangères | 
+300 | Sciences sociales, commerce et droit | 
+400 | Sciences, mathématiques et informatique | 
+420 | Sciences de la vie (incluant la biologie et les sciences de l'environnement) | 
+440 | Sciences physiques (incluant la physique, la chimie et les sciences de la terre) | 
+460 | Mathématiques et statistiques | 
+481 | Sciences informatiques | 
+482 | Utilisation de l'ordinateur | 
+500 | Ingénierie, industrie manufacturière et construction | 
+600 | Agriculture et sciences vétérinaires | 
+700 | Santé et protection sociale | 
+800 | Services | 
+900 | Inconnu | 
+999 | Sans objet (COURATT = 2, 9, blanc) | 
+blanc | Sans réponse | 
+COURWORH (facultatif) | 136 | ANNUELLE | | L'activité d'apprentissage la plus récente s'est-elle déroulée pendant les heures de travail rémunérées? | COURATT = 1 | 
+1 | Uniquement pendant les heures de travail rémunérées | 
+2 | Principalement durant les heures de travail rémunérées | 
+3 | Principalement en dehors des heures de travail rémunérées | 
+4 | Seulement en dehors des heures de travail rémunérées | 
+5 | Sans emploi à l'époque | 
+9 | Sans objet (COURATT = 2, 9, blanc) | 
+blanc | Sans réponse | 
+HATLEVEL | 137/138 | TRIMESTRIELLE | | Niveau dans l'enseignement ou la formation le plus élevé atteint avec succès | Toute personne âgée de 15 ans ou plus | 
+00 | N'a pas reçu d'éducation formelle ou éducation d'un niveau inférieur à la CITE 1 | 
+11 | CITE 1 | 
+21 | CITE 2 | 
+22 | CITE 3 c (moins de deux ans) | 
+31 | CITE 3 c (deux ans et plus) | 
+32 | CITE 3 a, b | 
+30 | CITE 3 (sans distinction possible entre a, b ou c, 2 ans ou plus) | 
+41 | CITE 4 a, b | 
+42 | CITE 4 c | 
+43 | CITE 4 (sans distinction possible entre a, b ou c) | 
+51 | CITE 5 b | 
+52 | CITE 5 a | 
+60 | CITE 6 | 
+99 | Sans objet (enfant de moins de 15 ans) | 
+blanc | Sans réponse | 
+HATFIELD | 139/141 | ANNUELLE | | Domaine dans lequel a été atteint avec succès le niveau dans l'enseignement ou la formation le plus élevé | HATLEVEL = 22-60 | 
+000 | Programmes généraux | 
+100 | Formation des enseignants et sciences de l'éducation | 
+200 | Lettres, langues et arts | 
+222 | Langues étrangères | 
+300 | Sciences sociales, commerce et droit | 
+400 | Sciences, mathématiques et informatique | 
+420 | Sciences de la vie (incluant la biologie et les sciences de l'environnement) | 
+440 | Sciences physiques (incluant la physique, la chimie et les sciences de la terre) | 
+460 | Mathématiques et statistiques | 
+481 | Sciences informatiques | 
+482 | Utilisation de l'ordinateur | 
+500 | Ingénierie, industrie manufacturière et construction | 
+600 | Agriculture et sciences vétérinaires | 
+700 | Santé et protection sociale | 
+800 | Services | 
+900 | Inconnu | 
+999 | Sans objet (HATLEVEL = 00, 11, 21, 99, blanc) | 
+blanc | Sans réponse | 
+HATYEAR | 142/145 | ANNUELLE | | Année au cours de laquelle a été atteint avec succès le niveau d'enseignement ou de formation le plus élevé Indiquer les quatre chiffres de l'année au cours de laquelle a été atteint le niveau d'enseignement ou de formation le plus élevé | Toute personne âgée de 15 ans ou plus | 
+9999 | Sans objet (enfant de moins de 15 ans) | 
+blanc | Sans réponse | 
+SITUATION UN AN AVANT L'ENQUÊTE 
+WSTAT1Y | 146 | ANNUELLE | | Situation au regard de l'activité un an avant l'enquête | Toute personne âgée de 15 ans ou plus | 
+1 | Exerce un emploi ou une activité, y compris les travaux non rémunérés pour une entreprise ou une affaire familiale, y compris un apprentissage ou un stage rémunéré, etc. | 
+2 | Chômeur | 
+3 | Élève, étudiant, en formation, travail non rémunéré | 
+4 | À la retraite ou à la retraite anticipée ou a cessé son activité | 
+5 | Invalidité permanente | 
+6 | Service militaire obligatoire | 
+7 | Effectue des tâches domestiques | 
+8 | Autres personnes sans activité | 
+9 | Sans objet (enfant de moins de 15 ans)) | 
+blanc | Sans réponse | 
+STAPRO1Y | 147 | ANNUELLE | | Statut professionnel un an avant l'enquête | WSTAT1Y = 1 | 
+1 | Employeur employant un ou plusieurs salariés | 
+2 | Indépendant n'employant aucun salarié | 
+3 | Salarié | 
+4 | Aide familial | 
+9 | Sans objet (WSTAT1Y ≠ 1) | 
+blanc | Sans réponse | 
+NACE1Y2D | 148/149 | ANNUELLE | | Activité économique de l'unité locale où la personne travaillait un an avant l'enquête Codée selon la NACE Rév. 1.1 | WSTAT1Y = 1 | 
+00 | Sans objet (WSTAT1Y ≠ 1) | 
+blanc | Sans réponse | 
+COUNTR1Y | 150/151 | ANNUELLE | | Pays de résidence un an avant l'enquête Pour la codification, voir la classification ISO des pays | Toute personne âgée d'un an ou plus | 
+99 | Sans objet (enfant de moins d'un an) | 
+blanc | Sans réponse | 
+REGION1Y | 152/153 | ANNUELLE | | Région de résidence un an avant l'enquête NUTS 2 | Toute personne âgée d'un an ou plus | 
+99 | Sans objet (personne qui a changé de pays de résidence ou enfant de moins d'un an) | 
+blanc | Sans réponse | 
+REVENU 
+INCMON (facultatif) Peut être communiquée dans un délai de 18 mois | 154/161 | ANNUELLE | | Salaire mensuel (net) de l'emploi principal | STAPRO = 3 | 
+00000000-99999998 | Indiquer les 8 chiffres de la rémunération mensuelle (nette) provenant de l'emploi principal, y compris les suppléments salariaux mensuels (monnaie nationale) | 
+99999999 | Sans objet (STAPRO ≠ 3) | 
+blanc | Sans réponse | 
+RENSEIGNEMENTS D'ORDRE TECHNIQUE RELATIFS À L'ENTRETIEN 
+REFYEAR | 162/165 | TRIMESTRIELLE | | Année de l'enquête Indiquer les 4 chiffres de l'année | Toutes personnes | 
+REFWEEK | 166/167 | TRIMESTRIELLE | | Semaine de référence Numéro de la semaine allant du lundi au dimanche | Toutes personnes | 
+INTWEEK | 168/169 | TRIMESTRIELLE | | Semaine de l'entretien Numéro de la semaine allant du lundi au dimanche | Toutes personnes | 
+COUNTRY | 170/171 | TRIMESTRIELLE | | Pays Pour la codification, voir la classification ISO des pays | Toutes personnes | 
+REGION | 172/173 | TRIMESTRIELLE | | Région du ménage NUTS 2 | Toutes personnes | 
+DEGURBA | 174 | TRIMESTRIELLE | | Degré d'urbanisation | Toutes personnes | 
+1 | Zone densément peuplée | 
+2 | Zone intermédiaire | 
+3 | Zone faiblement peuplée | 
+HHNUM | 175/180 | TRIMESTRIELLE | | Numéro d'ordre du ménage Les numéros d'ordre des ménages sont attribués par les instituts nationaux de statistique et doivent rester les mêmes pour toutes les vagues Les enregistrements relatifs aux différents membres d'un même ménage portent le même numéro d'ordre | Toutes personnes | 
+HHTYPE | 181 | TRIMESTRIELLE | | Type de ménage | Toutes personnes | 
+1 | Personne vivant dans un ménage privé (ou en permanence à l'hôtel) et interrogée dans celui-ci | 
+2 | Personne vivant dans un ménage collectif et interrogée dans celui-ci | 
+3 | Personne vivant dans un ménage collectif, mais interrogée dans ce ménage privé | 
+4 | Personne vivant dans un autre ménage privé sur le territoire du pays, mais interrogée par l'intermédiaire du ménage d'origine | 
+HHINST | 182 | TRIMESTRIELLE | | Type d'institution | HHTYPE = 2, 3 | 
+1 | Institution d'éducation | 
+2 | Institution hospitalière | 
+3 | Autre institution d'assistance | 
+4 | Institution religieuse (non comprise dans 1-3) | 
+5 | Foyer de travailleurs, logement sur le chantier, maison d'étudiant, centre universitaire, etc. | 
+6 | Établissement militaire | 
+7 | Autres (par exemple: prison) | 
+9 | Sans objet (HHTYPE = 1, 4) | 
+blanc | Sans réponse | 
+COEFFY | 183/188 | ANNUELLE | | Coefficient de pondération annuel | Toutes personnes | 
+0000-9999 | Les colonnes 183 à 186 contiennent les nombres entiers | 
+00-99 | Les colonnes 187 et 188 contiennent les décimales | 
+COEFFQ | 189/194 | TRIMESTRIELLE | | Coefficient de pondération trimestriel | Toutes personnes | 
+0000-9999 | Les colonnes 189 à 192 contiennent les nombres entiers | 
+00-99 | Les colonnes 193 et 194 contiennent les décimales | 
+COEFFH | 195/200 | ANNUELLE | | Coefficient de pondération trimestriel de l'échantillon pour les variables relatives aux ménages (en cas d'échantillon d'individus) | | 
+0000-9999 | Les colonnes 195 à 198 contiennent les nombres entiers | 
+00-99 | Les colonnes 199 et 200 contiennent les décimales | 
+INTWAVE | 201 | TRIMESTRIELLE | | Numéro d'ordre de la vague d'enquête | Toutes personnes | 
+1-8 | Numéro d'ordre de la vague d'enquête | 
+INTQUEST | 202 | TRIMESTRIELLE | | Questionnaire utilisé | Toutes personnes | 
+1 | Uniquement les variables principales | 
+2 | Tout le questionnaire | 
+-------------------------------------------------- 

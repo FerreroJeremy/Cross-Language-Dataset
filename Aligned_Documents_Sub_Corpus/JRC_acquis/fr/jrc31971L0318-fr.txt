@@ -1,0 +1,173 @@
+Directive 71/318/CEE du Conseil, du 26 juillet 1971, concernant le rapprochement des législations des États membres relatives aux compteurs de volume de gaz 
+DIRECTIVE DU CONSEIL du 26 juillet 1971 concernant le rapprochement des législations des États membres relatives aux compteurs de volume de gaz (71/318/CEE) 
+LE CONSEIL DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté économique européenne, et notamment son article 100, 
+vu la proposition de la Commission, 
+vu l'avis de l'Assemblée (1), 
+vu l'avis du Comité économique et social (2), 
+considérant que, dans les États membres, la construction, ainsi que les modalités de contrôle des compteurs de volume de gaz, font l'objet de dispositions impératives qui diffèrent d'un État membre à l'autre et entravent de ce fait les échanges de ces instruments ; qu'il faut donc procéder au rapprochement de ces dispositions; 
+considérant que la directive du Conseil, du 26 juillet 1971, concernant le rapprochement des législations des États membres relatives aux dispositions communes aux instruments de mesurage et aux méthodes de contrôle métrologique (3) a défini les procédures d'approbation CEE de modèle et de vérification primitive CEE ; que, conformément à cette directive, il y a lieu de fixer, pour les compteurs de volume de gaz, les prescriptions techniques de réalisation et de fonctionnement, 
+A ARRÊTÉ LA PRÉSENTE DIRECTIVE: 
+Article premier 
+La présente directive s'applique aux compteurs de volume de gaz suivants: 1. Compteurs volumétriques: - compteurs à parois déformables, 
+- compteurs à pistons rotatifs. 
+2. Compteurs non volumétriques: - compteurs à turbine. 
+Article 2 
+Les compteurs de volume de gaz qui peuvent recevoir les marques et signes CEE sont décrits en annexe à la présente directive. Ils font l'objet d'une approbation CEE de modèle et ils sont soumis à la vérification primitive CEE. 
+Article 3 
+Les États membres ne peuvent refuser, interdire ou restreindre la mise sur le marché et la mise en service des compteurs de volume de gaz munis du signe d'approbation CEE de modèle et de la marque de vérification primitive CEE. 
+Article 4 
+1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive dans un délai de dix-huit mois suivant sa notification et en informent immédiatement la Commission. 
+2. Les États membres veillent à communiquer à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine régi par la présente directive. 
+Article 5 
+Les États membres sont destinataires de la présente directive. 
+Fait à Bruxelles, le 26 juillet 1971. 
+Par le Conseil 
+Le président 
+A. MORO (1)JO nº C 65 du 5.6.1970, p. 30. (2)JO nº C 131 du 29.10.1970, p. 7. (3)Voir p. 1 du présent Journal officiel. 
+ANNEXE 
+CHAPITRE I 
+A. DÉFINITION DE CERTAINS TERMES UTILISÉS DANS LA PRÉSENTE ANNEXE 
+1. Étendue de la charge 
+L'étendue de charge d'un compteur de gaz est délimitée par le débit maximal Qmax et le débit minimal Qmin. 
+2. Volume cyclique d'un compteur volumétrique 
+Le volume cyclique V d'un compteur volumétrique est égal au volume de gaz correspondant au cycle de fonctionnement du compteur, c'est-à-dire à l'ensemble des mouvements des organes mobiles du compteur à la fin desquels tous ces organes, sauf le dispositif indicateur et les transmissions intermédiaires, reprennent pour la première fois la même position qu'à l'instant initial. 
+Il est déterminé par calcul en multipliant la valeur du volume représenté par un tour complet de l'élément contrôleur par le rapport de transmission du dispositif mesureur au dispositif indicateur. 
+3. Pression de fonctionnement et pression de référence 3.1. Pression de fonctionnement 
+La pression de fonctionnement d'un compteur de gaz est la différence entre la pression à l'entrée du compteur de gaz à mesurer et la pression atmosphérique. 
+3.2. Pression de référence 
+La pression de référence pr d'un compteur de gaz est la pression de gaz à laquelle est rapporté le volume de gaz indiqué. 
+La prise de pression pour la pression de référence est fixée au chapitre III. 
+4. Absorption de pression 
+L'absorption de pression d'un compteur de gaz est la différence entre les pressions mesurées à l'entrée et à la sortie du compteur pendant l'écoulement d'un gaz. 
+5. Constante des commandes de sortie 
+La constante d'une commande de sortie est la valeur du volume représenté par un tour complet de l'axe de cette commande ; cette valeur est déterminée par calcul en multipliant la valeur du volume représenté par un tour complet de l'élément contrôleur par le rapport de transmission du dispositif indicateur à cet axe. 
+B. PRESCRIPTIONS GÉNÉRALES POUR LES COMPTEURS DE VOLUME DE GAZ 
+1. Généralités 1.1. Le chapitre I de la présente annexe fixe les prescriptions générales auxquelles doivent satisfaire tous les compteurs de volume de gaz repris à l'article 1er de la présente directive. 
+1.2. Les chapitres II et III de la présente annexe fixent les prescriptions particulières relatives aux compteurs en question. 
+2. Construction 2.1. Matériaux 
+Les compteurs doivent être fabriqués en matériaux solides ayant peu de tensions internes, se modifiant peu par vieillissement et suffisamment résistants à la corrosion et aux attaques des divers gaz normalement distribués et de leurs condensats éventuels. 
+2.2. Etanchéité des compteurs 
+Les compteurs doivent être étanches à la pression maximale de fonctionnement. 
+2.3. Protection contre les interventions extérieures 
+Les compteurs doivent être construits de telle façon que toute intervention susceptible d'influencer l'exactitude de mesurage soit impossible sans endommager les marques de vérification ou de scellement. 
+2.4. Sens d'écoulement du gaz 
+Sur les compteurs dont le dispositif indicateur ne fonctionne dans le sens positif que pour un seul sens d'écoulement du gaz, ce sens doit être indiqué par une flèche. 
+Cette flèche n'est pas exigée si le sens d'écoulement du gaz est imposé par construction 
+2.5. Qualités métrologiques 
+A un débit égal à Qmax un compteur doit pouvoir fonctionner en régime continu pendant le temps déterminé aux chapitres II ou III sans que les modifications de ses qualités métrologiques dépassent les limites fixées dans ces chapitres. 
+3. Dispositifs additionnels 3.1. Les compteurs peuvent être munis de dispositifs additionnels (de correction, enregistreur, indicateur supplémentaire, etc.) ; leur adjonction est soumise à la procédure d'approbation CEE de modèle. 
+3.2. Les compteurs peuvent être munis de commandes de sortie pour actionner un dispositif indicateur détachable, un dispositif à pré-paiement, ou tout autre dispositif complémentaire ou additionnel. 3.2.1. Lorsque ces commandes ne sont pas utilisées, leur prise libre extérieure doit être protégée par un bouchon ou par un accessoire analogue pouvant être scellé. 
+3.2.2. Au cas où cette prise est un axe, celui-ci doit porter la mention de la valeur de sa constante sous la forme : «1 tr ^= ... m3 (ou dm3)». 
+3.3. Les compteurs peuvent être munis de générateurs d'impulsions incorporés. Les prises de sortie de ces générateurs d'impulsions doivent porter la mention de la valeur correspondant à une impulsion sous la forme : «1 imp ^= ... m3 (ou dm3)». 
+4. Inscriptions 4.1. Chaque compteur doit porter, groupées soit sur la plaque du dispositif indicateur, soit sur une plaque signalétique spéciale, les inscriptions suivantes: a) le numéro caractéristique de l'approbation de modèle du compteur, 
+b) la marque d'identification du constructeur ou sa raison sociale, 
+c) le numéro du compteur et son année de fabrication, 
+d) une désignation du compteur ; cette désignation a la forme de la lettre majuscule G, suivie d'un nombre qui est fixé aux chapitres II et III, 
+e) le débit maximal par la formule : Qmax ... m3/h, 
+f) le débit minimal par la formule : Qmin ... m3/h (ou dm3/h), 
+g) la pression maximale de fonctionnement par la formule : pmax ... MN/m2 (ou N/m2) ou p max ... bar (ou mbar), 
+h) pour les compteurs volumétriques, la valeur nominale du volume cyclique par la formule : V ... m3 (ou dm3). 
+Ces inscriptions doivent être directement visibles, facilement lisibles et indélébiles dans les conditions usuelles d'emploi des compteurs. 
+4.2. Le service de métrologie qui accorde l'approbation de modèle peut fixer les cas où la nature du gaz doit figurer parmi les inscriptions. 
+4.3. Le compteur peut, en outre, porter la désignation commerciale, un numéro d'ordre spécial, le nom du distributeur de gaz, une marque de conformité à une norme européenne et une indication relative aux réparations effectuées. Sauf autorisation spéciale, toute autre indication ou inscription est interdite. 
+5. Dispositifs indicateurs et élément contrôleur 5.1. Dispositifs indicateurs 5.1.1. Les dispositifs indicateurs doivent être composés de rouleaux ; toutefois, le dernier élément peut faire exception à cette règle. Les rouleaux doivent être chiffrés en mètres cubes ou en multiples ou sous-multiples décimaux du mètre cube. Sur la plaque du dispositif indicateur doit figurer le symbole «m3». 5.1.1.1. Les rouleaux destinés à indiquer les sous-multiples décimaux du mètre cube, s'ils existent, doivent se distinguer clairement des autres rouleaux et en être séparés par une virgule bien apparente. 
+5.1.1.2. Dans le cas où le dernier rouleau est chiffré en un multiple décimal du mètre cube, la plaque du dispositif indicateur doit porter: a) soit un (ou deux, ou trois, etc.) zéro fixe après le dernier rouleau, 
+b) soit l'indication «10» (ou «100», ou «1 000», etc.) de telle façon que la lecture se fasse toujours en m3. 
+5.1.2. Le dispositif indicateur doit avoir assez de rouleaux chiffrés pour pouvoir indiquer, à une unité près du dernier rouleau, le volume débité pendant une durée de fonctionnement de mille heures au débit maximal. 
+5.2. Élément contrôleur 5.2.1. Les compteurs doivent être conçus de telle façon que la vérification puisse être effectuée avec une précision suffisante. A cette fin, ils doivent comporter de par la construction soit un élément contrôleur propre, soit des dispositifs permettant l'adjonction d'un élément contrôleur amovible. 
+5.2.2. L'élément contrôleur propre au compteur peut être constitué par le dernier élément du dispositif indicateur sous l'une des deux formes suivantes: a) un rouleau à mouvement continu comportant une échelle chiffrée, 
+b) une aiguille se déplaçant devant un cadran fixe comportant une échelle chiffrée ou un disque muni d'une échelle chiffrée se déplaçant devant un repère fixe. 
+5.2.3. Sur les échelles chiffrées des éléments contrôleurs l'unité de chiffraison doit être indiquée de façon claire et non ambiguë en m3 ou en sous-multiples décimaux du m3 ; le début de l'échelle doit porter le chiffre zéro. 5.2.3.1. La longueur de l'échelon doit être constante pour toute l'échelle et non inférieure à 1 mm. 
+5.2.3.2. La valeur de l'échelon doit être de la forme 1 × 10n, 2 × 10n ou 5 × 10n m3, n'étant un nombre entier, positif, négatif ou nul. 
+5.2.3.3. Les traits de graduation doivent être fins et uniformément tracés. Dans le cas où la valeur de l'échelon est de la forme 1 × 10n ou 2 × 10n m3, tous les traits de rang multiple de cinq et, dans le cas où la valeur de l'échelon est de la forme 5 × 10n m3, tous les traits de rang multiple de deux doivent se distinguer par une plus grande longueur. 
+5.2.4. L'aiguille ou le repère fixe doivent être suffisamment déliés pour permettre une lecture sûre et facile. 
+5.3. Diamètres des rouleaux et des cadrans 
+Le diamètre des rouleaux doit être d'au moins 16 mm. 
+Le diamètre des échelles chiffrées visées au point I B 5.2.2 b) doit être d'au moins 32 mm. 
+5.4. Lecture du dispositif indicateur 
+Le dispositif indicateur doit être réalisé de façon à respecter le principe de la lecture par simple juxtaposition. 
+5.5. Avancement des chiffres 
+L'avancement d'une unité, d'un chiffre de rang quelconque doit se produire complètement pendant que le chiffre de rang immédiatement inférieur décrit le dernier dixième de sa course. 
+5.6. Démontage du dispositif indicateur 
+Les compteurs doivent être construits de telle façon que le dispositif indicateur puisse être facilement démonté lors d'une vérification. 
+6. Erreurs maximales tolérées 6.1. Les erreurs de mesurage sont exprimées en valeur relative par le rapport, en pour cent, de la différence entre le volume indiqué et le volume ayant réellement passé par le compteur, à ce dernier volume. 
+6.2. Ces erreurs se rapportent au mesurage de volumes d'air ayant une masse volumique de référence de 1,2 kg/m3. Dans des conditions atmosphériques normales on peut considérer que l'air ambiant d'un laboratoire de vérification satisfait à cette condition. 
+6.3. Les erreurs maximales tolérées sont fixées aux chapitres II et III ; elles sont valables pour les sens d'écoulement autorisés. 
+7. Absorption de pression 7.1. Valeurs maximales tolérées 
+Les valeurs maximales tolérées d'absorption de pression sont fixées aux chapitres II et III. 
+8. Apposition des marques de vérification et de scellement 8.1. Portée 
+L'apposition des marques de vérification et de scellement CEE sur un compteur de gaz certifie exclusivement que ce compteur répond aux dispositions de la présente directive. 
+8.2. Emplacement 8.2.1. Les emplacements des marques doivent être choisis de manière qu'un démontage de la partie scellée par une de ces marques entraîne la détérioration de cette marque. 
+8.2.2. Lorsque les inscriptions prévues au point I B 4.1 sont apposées sur une plaque signalétique spéciale, l'une des marques doit être située de telle façon qu'elle soit détériorée si la plaque spéciale est enlevée ; l'objectif étant d'empêcher l'enlèvement de cette plaque. 
+8.2.3. Il y a lieu de prévoir des emplacements pour des marques de vérification ou de scellement: a) sur toutes les plaquettes qui portent une indication prescrite par la présente annexe, 
+b) sur toutes les parties de l'enveloppe qui ne peuvent pas être protégées autrement contre des interventions susceptibles d'influencer l'exactitude du mesurage. 
+9. Approbation CEE de modèle et vérification primitive CEE 9.1. Approbation CEE de modèle 9.1.1. La demande d'approbation d'un modèle de compteur doit comprendre les documents ci-après accompagnant le modèle proposé: - une description du compteur dont l'approbation est demandée, 
+- un dessin en perspective ou une photographie de ce compteur, 
+- un plan de montage de l'ensemble du compteur complété, si nécessaire, par des plans de détails de construction, 
+- une nomenclature des pièces constitutives et toutes autres indications jugées nécessaires par le service de métrologie compétent, 
+- un plan indiquant les emplacements des marques de vérification et des marques de scellement, 
+- une déclaration précisant que les compteurs qui seront fabriqués conformément au modèle répondront aux conditions réglementaires de sécurité, notamment en ce qui concerne la pression maximale de fonctionnement indiquée sur la plaque signalétique. 
+9.2. Vérification primitive CEE 9.2.1. Les compteurs présentés à la vérification primitive CEE doivent être en état de fonctionnement. Si les compteurs doivent être utilisés avec des dispositifs additionnels actionnés par des commandes de sortie, ces dispositifs doivent déjà être raccordés lors de la vérification pour autant qu'un raccordement ultérieur après vérification ne soit pas expressément autorisé. 
+10. Marques de vérification et de scellement 
+Les compteurs ayant subi avec succès les épreuves de la vérification: - sont munis de la marque de vérification; 
+- reçoivent les marques de scellement aux emplacements prévus pour protéger certains organes contre des manoeuvres extérieures pouvant modifier les caractéristiques du compteur. 
+CHAPITRE II DISPOSITIONS RELATIVES AUX COMPTEURS DE VOLUME DE GAZ À PAROIS DÉFORMABLES 
+1. Champ d'application 
+Le présent chapitre s'applique, conjointement avec les prescriptions du chapitre I, aux compteurs de gaz dans lesquels le mesurage du gaz débité s'effectue au moyen de chambres mesureuses à parois déformables. 
+2. Étendue de la charge et désignation 2.1. Les valeurs autorisées des débits maxima et les limites supérieures des débits minima correspondants, ainsi que les valeurs minimales des volumes cycliques, sont données dans le tableau ci-après en relation avec la désignation (G) des compteurs: %gt%PIC FILE= %quot%T0002648%quot%%gt% 
+2.2. Si, pour un type de compteur, la valeur de Qmin est inférieure au nombre mentionné dans le tableau du point II 2.1, la valeur numérique de ce Qmin doit s'exprimer par un nombre de la colonne 3 de ce tableau ou par un sous-multiple décimal de ce nombre. 
+2.3. Les compteurs ayant un volume cyclique inférieur à la valeur mentionnée dans le tableau du point II 2.1 peuvent être approuvés pourvu que le modèle de ces compteurs satisfasse aux exigences de l'essai d'endurance mentionné à cet effet au point II 7.2.5. 
+3. Détails de construction 3.1. Pour chacun des compteurs, la différence entre la valeur calculée du volume cyclique V et la valeur de ce volume mentionnée sur le compteur ne peut pas être supérieure à 5 % de cette dernière valeur. 
+3.2. Les compteurs G 1,6 jusqu'à G 6 inclus peuvent être munis d'un dispositif empêchant le fonctionnement du dispositif mesureur lorsque le gaz s'écoule dans un sens non autorisé. 
+4. Élément contrôleur 4.1. Pour les compteurs G 1,6 jusqu'à G 6 inclus, l'élément contrôleur est réalisé comme visé au point I B 5.2.2. Pour les compteurs G 10 jusqu'à G 650 inclus, l'élément contrôleur est: - soit réalisé comme visé au point I B 5.2.2, 
+- soit amovible. 
+4.2. Lorsque l'élément contrôleur est réalisé comme visé au point I B 5.2.2. la valeur de l'échelon de l'élément contrôleur et la chiffraison doivent satisfaire aux dispositions du tableau ci-après: %gt%PIC FILE= %quot%T0002649%quot%%gt% 
+4.3. Pour les compteurs dont l'élément contrôleur est réalisé comme visé au point I B 5.2.2, l'écart type d'une série d'au moins 30 mesurages successifs, effectués à un débit de l'ordre de 0,1 Qmax et dans les mêmes conditions, d'un volume d'air fixé ci-dessous ne peut excéder les valeurs mentionnées au tableau ci-après: %gt%PIC FILE= %quot%T0002650%quot%%gt% 
+5. Erreurs maximales tolérées 5.1. Dispositions générales 5.1.1. Les erreurs maximales tolérées en plus et en moins sont données dans le tableau ci-après: %gt%PIC FILE= %quot%T0002651%quot%%gt% 
+5.1.2. En vérification primitive CEE, les erreurs d'un compteur pour les débits Q, compris entre 2 Qmin et Qmax, ne peuvent pas toutes dépasser 1 % si elles sont toutes de même signe. 
+6. Absorption de pression 6.1. L'absorption totale de pression 
+L'absorption totale de pression lors de l'écoulement d'un air de masse volumique 1,2 kg/m3 à un débit égal à Qmax ne doit pas dépasser en moyenne: %gt%PIC FILE= %quot%T0002652%quot%%gt% 
+6.2. L'absorption mécanique de pressio. 
+L'absorption mécanique de pression, absorption de pression lors de l'écoulement d'un air de masse volumique 1,2 kg/m3 à un débit compris entre Qmin et 2 Qmin, ne doit pas dépasser: %gt%PIC FILE= %quot%T0002653%quot%%gt% 
+Les valeurs ci-dessus se rapportent aux maxima de l'absorption mécanique de pression. 
+6.3. Disposition spéciale 
+Pour les compteurs dont la pression de fonctionnement est supérieure à 0,1 MN/m2 (1 bar), les dispositions du point II 6.2 relatives à l'absorption mécanique de pression sont appliquées, l'absorption totale de pression prévue au point II 6.1 de ces compteurs n'étant pas prise en considération. 
+7. Approbation CEE de modèle 7.1. En plus de l'exemplaire du modèle, le demandeur doit mettre initialement à la disposition du service compétent deux à six compteurs échantillons construits conformément au modèle. 
+Le nombre est à répartir, sur demande du service compétent, sur plusieurs valeurs de G si la demande d'approbation concerne des compteurs de valeur différente. 
+Selon le déroulement des essais, des compteurs échantillons supplémentaires peuvent être exigés. 7.1.1. Une dérogation à cette disposition peut être accordée en ce sens que les compteurs échantillons peuvent être mis ultérieurement à la disposition du service compétent. Toutefois, la décision d'approbation du modèle n'est prononcée que lorsque ces échantillons auront été complètement examinés. 
+7.1.2. Les compteurs échantillons restent la propriété du demandeur et lui sont restitués après que l'approbation du modèle est accordée. 
+7.2. L'examen 7.2.1. Le modèle et ses compteurs échantillons doivent satisfaire aux dispositions du chapitre I et des points 2, 3, 4, 5 et 6 du présent chapitre. 
+7.2.2. Par ailleurs, dans l'étendue de la charge, l'écart entre le maximum et le minimum des erreurs en fonction du débit Q ne doit pas être supérieur, pour chacun des compteurs, à 3 %. 
+7.2.3. Le modèle et ses échantillons sont ensuite soumis à un essai d'endurance. Cet essai est effectué: 7.2.3.1. Pour les compteurs G 1,6 jusqu'à G 10 inclus : au débit maximal des compteurs et avec de l'air ; toutefois, pour les compteurs sur la plaque signalétique desquels la nature du gaz à mesurer est indiquée, l'essai peut être effectué totalement ou partiellement avec le gaz indiqué; 
+7.2.3.2. Pour les compteurs G 16 jusqu'à G 650 inclus : autant que possible au débit maximal des compteurs et avec de l'air ou avec du gaz. 
+7.2.4. La durée de l'essai d'endurance pour les compteurs dont le volume cyclique est égal ou supérieur aux valeurs mentionnées dans le tableau du point II 2.1 est: 7.2.4.1. Pour les compteurs G 1,6 jusqu'à G 10 inclus : 1 000 heures ; l'essai peut être interrompu, toutefois il doit être terminé dans les soixante jours; 
+7.2.4.2. Pour les compteurs G 16 jusqu'à G 650 inclus : telle que chaque compteur mesure un volume d'air ou du gaz correspondant à un fonctionnement de 1 000 heures au débit maximal du compteur ; l'essai doit être terminé dans les six mois. 
+7.2.5. Pour les compteurs dont le volume cyclique est inférieur aux valeurs mentionnées dans le tableau du point II 2.1, la durée de l'essai d'endurance doit être de 2 000 heures, et porter sur un nombre d'appareils supérieur à celui prévu au point II 7.1, suivant la désignation du compteur examiné et ses caractéristiques générales. 
+7.2.6. Après l'essai d'endurance les compteurs doivent satisfaire aux exigences ci-après: a) dans l'étendue de la charge l'écart entre le maximum et le minimum des erreurs en fonction du débit Q ne doit pas être supérieur, pour chacun des compteurs, à 4 %; 
+b) aucun point de la courbe d'erreurs ne peut être plus de 1,5 % plus haut que le maximum initial ou plus bas que le minimum initial de la courbe d'erreurs; 
+c) l'absorption mécanique de pression ne doit pas avoir augmenté de plus de 20 N/m2 (0,2 mbar); 
+d) pour les compteurs dont la pression de fonctionnement est supérieure à 0,1 MN/m2 (1 bar), l'écart entre l'erreur au débit ½ Qmax et l'erreur au débit Qmax, ne doit pas avoir augmenté de plus de 1 %. 
+7.3. Modification d'un modèle déjà approuvé 
+Si la demande d'approbation concerne une modification d'un modèle déjà approuvé, le service de métrologie qui a approuvé le modèle primitif décide, d'après le caractère de la modification, si et dans quelle mesure les dispositions des points 7.1, 7.2.3, 7.2.4, et 7.2.5 du présent chapitre sont applicables. 
+8. Vérification primitive CEE 8.1. Essais d'exactitude 
+Un compteur est considéré satisfaire aux prescriptions concernant les erreurs maximales tolérées, si celles-ci sont respectées aux débits ci-après: a) à un débit compris entre Qmin et 2 Qmin; 
+b) à un débit de l'ordre de 1/5 Qmax; 
+c) au débit Qmax; 
+d) au débit ½ Qmax pour les compteurs dont la pression de fonctionnement est supérieure à 0,1 MN/m2 (1 bar). 
+Si l'essai est effectué dans d'autres conditions, celles-ci doivent garantir un résultat identique aux vérifications mentionnées ci-dessus. 
+CHAPITRE III PRESCRIPTIONS CONCERNANT LES COMPTEURS DE GAZ A PISTONS ROTATIFS ET LES COMPTEURS DE GAZ A TURBINE 
+1. Champ d'application 
+Le présent chapitre s'applique, conjointement avec les prescriptions du chapitre I, aux: 1.1. Compteurs de gaz à pistons rotatifs 
+dans lesquels le mesurage du gaz débité s'effectue au moyen de chambres mesureuses à parois rotatives. 
+1.2. Compteurs de gaz à turbine 
+dans lesquels l'écoulement du gaz met en mouvement une roue de turbine et dont le nombre de tours de la roue représente le volume du gaz débité. 
+2. Étendue des charges 2.1. Les compteurs de gaz doivent avoir une des étendues de charge ressortant du tableau ci-après en fonction de la désignation G du compteur: %gt%PIC FILE= %quot%T0002654%quot%%gt% 
+et les multiples décimaux des cinq dernières séries. 
+3. Détails de construction 3.1. Compteurs à pistons rotatifs 3.1.1. Les compteurs doivent comporter en amont et en aval du circuit du gaz une prise de pression statique de 3 à 5 mm de diamètre permettant de mesurer la perte de pression ; la pression mesurée en amont constitue la pression de référence. 
+3.1.2. Les compteurs peuvent comporter un dispositif manuel permettant de faire tourner les pistons à condition qu'il ne puisse être abusivement utilisé pour entraver le fonctionnement correct du compteur. 
+3.1.3. Les coussinets des axes des pistons rotatifs des compteurs de désignation G 160 et au-delà peuvent être construits de manière à pouvoir être accessibles sans détériorer des marques de protection. 
+3.2. Compteurs à turbine 3.2.1. Les compteurs doivent comporter une prise de pression statique permettant de déterminer, le cas échéant de manière indirecte, la pression immédiatement en amont de la roue de turbine comme pression de référence. 3.2.1.1. S'il existe un dispositif d'étranglement de l'écoulement gazeux en amont de la roue de turbine, les compteurs peuvent comporter, outre la prise de pression exigée au point III 3.2.1, une autre prise de pression immédiatement avant cet étranglement permettant de mesurer avec la prise de pression conforme au point III 3.2.1 la différence de pression au dispositif d'étranglement. 
+3.3. Prises de pression 3.3.1. Les prises de pression doivent être munies d'un dispositif de fermeture. 
+3.3.2. La prise de pression pour la pression de référence doit porter de façon visible et indélébile l'indication «pr», l'autre prise de pression l'indication «p». 
+4. Élément contrôleur %gt%PIC FILE= %quot%T9000404%quot%%gt% 

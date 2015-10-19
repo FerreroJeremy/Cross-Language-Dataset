@@ -1,0 +1,532 @@
+2004/90/EC: Commission Decision of 23 December 2003 on the technical prescriptions for the implementation of Article 3 of Directive 2003/102/EC of the European Parliament and of the Council relating to the protection of pedestrians and other vulnerable road users before and in the event of a collision with a motor vehicle and amending Directive 70/156/EEC (notified under document number C(2003) 5041) (Text with EEA relevance) 
+Commission Decision 
+of 23 December 2003 
+on the technical prescriptions for the implementation of Article 3 of Directive 2003/102/EC of the European Parliament and of the Council relating to the protection of pedestrians and other vulnerable road users before and in the event of a collision with a motor vehicle and amending Directive 70/156/EEC 
+(notified under document number C(2003) 5041) 
+(Text with EEA relevance) 
+(2004/90/EC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Directive 2003/102/EC of the European Parliament and of the Council relating to the protection of pedestrians and other vulnerable road users before and in the event of a collision with a motor vehicle and amending Directive 70/156/EEC(1), and in particular Article 3 thereof, 
+Whereas: 
+(1) Directive 2003/102/EC sets out the basic requirements in the form of tests and limit values for the Community type-approval of motor vehicles with regard to pedestrian protection. 
+(2) Under that Directive, with a view to ensuring its uniform application by the competent authorities of the Member States, the technical prescriptions necessary to carry out the tests laid down in section 3.1 or 3.2 of Annex I to that Directive should be specified. 
+(3) Those tests are based on the scientific work performed by the European Enhanced Vehicle Committee (EEVC); whereas the technical prescriptions to carry them out should also be based on the recommendations by the EEVC. 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+The technical prescriptions necessary to carry out the tests specified in section 3.1 and section 3.2 of Annex I to Directive 2003/102/EC are laid down in the Annex to this Decision. 
+Article 2 
+This Decision shall apply from 1 January 2004. 
+Article 3 
+This Decision is addressed to the Member States. 
+Done at Brussels, 23 December 2003. 
+For the Commission 
+Erkki Liikanen 
+Member of the Commission 
+(1) OJ L 321, 6.12.2003, p. 15. 
+ANNEX 
+CONTENTS 
+%gt%TABLE%gt% 
+PART I 
+1. General 
+When performing measurements on a vehicle as described in this Part, the vehicle should be positioned in its normal ride attitude as described in point 2.3. If the vehicle is fitted with a badge, mascot or other structure which would bend back or retract under a low applied load, then such a load shall be applied before and/or while these measurements are taken. Any vehicle component which could change shape or position, such as %quot%pop-up%quot% headlights, other than suspension components or active devices to protect pedestrians, shall be set to a shape or position that the test institutes, in consultation with the manufacturer, consider to be the most appropriate while taking these measurements. 
+2. Definitions 
+For the purposes of this Decision: 
+2.1. %quot%Vehicle type%quot% means a category of vehicles which, forward of the A-pillars, do not differ in such essential respects as: 
+- the structure, 
+- the main dimensions, 
+- the materials of the outer surfaces of the vehicle, 
+- the component arrangement (external or internal), 
+in so far as they may be considered to have a negative effect on the results of the impact tests prescribed in Part II. 
+Vehicles of category N1 described as being derived from M1 category refer to those vehicles of N1 category which, forward of the A-pillars, have the same general structure and shape as a pre-existing M1 category vehicle. 
+2.2. %quot%Primary reference marks%quot% means holes, surfaces, marks and identification signs on the vehicle body. The type of reference mark used and the vertical (Z) position of each mark relative to the ground shall be specified by the vehicle manufacturer according to the running conditions specified in point 2.3. These marks shall be selected such as to be able to easily check the vehicle front and rear ride heights and vehicle attitude. 
+If the primary reference marks are found to be within ± 25 mm of the design position in the vertical (Z) axis, then the design position shall be considered to be the normal ride height. If this condition is met, either the vehicle shall be adjusted to the design position, or all further measurements shall be adjusted, and tests performed, to simulate the vehicle being at the design position. 
+2.3. %quot%Normal ride attitude%quot% is the vehicle attitude in running order positioned on the ground, with the tyres inflated to the recommended pressures, the front wheels in the straight-ahead position, with maximum capacity of all fluids necessary for operation of the vehicle, with all standard equipment as provided by the vehicle manufacturer, with a 75 kg mass placed on the driver's seat and with a 75 kg mass placed on the front passenger's seat, and with the suspension set for a driving speed of 40 km/h or 35 km/h in normal running conditions specified by the manufacturer (especially for vehicles with an active suspension or a device for automatic levelling). 
+2.4. %quot%Ground reference level%quot% is the horizontal plane parallel to the ground level, representing the ground level for a vehicle placed at rest on a flat surface with the hand brake on, with the vehicle positioned in its normal ride attitude. 
+2.5. %quot%Bumper%quot% is the front, lower, outer structure of a vehicle. It includes all structures that are intended to give protection to a vehicle when involved in a low speed frontal collision with another vehicle and also any attachments to this structure. The reference height and lateral limits of the bumper are identified by the corners and the bumper reference lines as defined in points 2.5.1 to 2.5.5. 
+2.5.1. %quot%The upper bumper reference line%quot% identifies the upper limit to significant points of pedestrian contact with the bumper. It is defined as the geometric trace of the upper most points of contact between a straight edge 700 mm long and the bumper, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined rearwards by 20°, is traversed across the front of the car, while maintaining contact with the ground and with the surface of the bumper (see Figure 1a). 
+Where necessary the straight edge shall be shortened to avoid any contact with structures above the bumper. 
+2.5.2. %quot%The lower bumper reference line%quot% identifies the lower limit to significant points of pedestrian contact with the bumper. It is defined as the geometric trace of the lower most points of contact between a straight edge 700 mm long and the bumper, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined forwards by 25°, is traversed across the front of the car, while maintaining contact with the ground and with the surface of the bumper (see Figure 1b). 
+2.5.3. %quot%Upper bumper height%quot% is the vertical distance between the ground and the upper bumper reference line, defined in point 2.5.1 with the vehicle positioned in its normal ride attitude. 
+2.5.4. %quot%Lower bumper height%quot% is the vertical distance between the ground and the lower bumper reference line, defined in point 2.5.2 with the vehicle positioned in its normal ride attitude. 
+2.5.5. %quot%Corner of bumper%quot% is defined as the vehicle's point of contact with a vertical plane which makes an angle of 60° with the vertical longitudinal plane of the car and is tangential to the outer surface of the bumper (see Figure 2). 
+2.5.6. %quot%Third of the bumper%quot% is defined as the geometric trace between the %quot%Corners of the bumper%quot% as defined in point 2.5.5, measured with a flexible tape following the outer contour of the bumper, divided in three equal parts. 
+2.6. %quot%Bumper lead%quot% for any section of a car is the horizontal distance between the upper bumper reference line, as defined in point 2.5.1 and the bonnet leading edge reference line, as defined in point 2.9.2. 
+2.7. %quot%Frontal upper surface%quot% is the outer structure that includes the upper surface of all outer structures except the windscreen, the A-pillars and structure rearwards of them. It therefore includes, but is not limited to, the bonnet, wings, scuttle, wiper spindle and lower windscreen frame. 
+2.8. %quot%1000 mm wrap around distance%quot% is the geometric trace described on the frontal upper surface by one end of a 1000 mm long flexible tape, when it is held in a vertical fore and aft plane of the car and traversed across the front of the bonnet and bumper. The tape is held taut throughout the operation with one end held in contact with the ground, vertically below the front face of the bumper and the other end held in contact with the frontal upper surface (see Figure 3). The vehicle is positioned in the normal ride attitude. 
+Similar procedures shall be followed, using alternative tapes of appropriate lengths to describe 1500 and 2100 mm wrap around distances. 
+2.9. %quot%Bonnet top%quot% is the area which is bounded by (a), (b) and (c) as follows: 
+(a) the bonnet leading edge reference line, as defined in point 2.9.2; 
+(b) the bonnet side reference lines as defined in point 2.9.4; 
+(c) the bonnet rear reference line as defined in point 2.9.7. 
+2.9.1. %quot%Bonnet leading edge%quot% is the front upper outer structure including the bonnet and wings, the upper and side members of the headlight surround and any other attachments. The reference line identifying the position of the leading edge is defined by its height above the ground and by the horizontal distance separating it from the bumper (bumper lead), determined in accordance with points 2.6, 2.9.2 and 2.9.3. 
+2.9.2. %quot%Bonnet leading edge reference line%quot% is defined as the geometric trace of the points of contact between a straight edge 1000 mm long and the front surface of the bonnet, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined rearwards by 50° and with the lower end 600 mm above the ground, is traversed across and in contact with the bonnet leading edge (See Figure 4). For vehicles having the bonnet top surface inclined at essentially 50°, so that the straight edge makes a continuous contact or multiple contacts rather than a point contact, determine the reference line with the straight edge inclined rearwards at an angle of 40°. For vehicles of such shape that the bottom end of the straight edge makes first contact then that contact is taken to be the bonnet leading edge reference line, at that lateral position. For vehicles of such shape that the top end of the straight edge makes first contact then the geometric trace of 1000 mm wrap around distance as defined in point 2.8, will be used as bonnet leading edge reference line at that lateral position. 
+The top edge of the bumper shall also be regarded as the bonnet leading edge for this Commitment, if it is contacted by the straight edge during this procedure. 
+2.9.3. %quot%Bonnet leading edge height%quot% for any section of a car is the vertical distance between the ground and the bonnet leading edge reference line defined in point 2.9.2, with the vehicle positioned in its normal ride attitude. 
+2.9.4. %quot%Bonnet side reference line%quot% is defined as the geometric trace of the highest points of contact between a straight edge 700 mm long and the side of a bonnet, when the straight edge, held parallel to the lateral vertical plane of the car and inclined inwards by 45° is traversed down the side of the Frontal Upper Surface, while maintaining contact with the surface of the body shell (see Figure 5). 
+2.9.5. %quot%Corner reference point%quot% is the intersection of the bonnet leading edge reference line and of the bonnet side reference line (see Figure 6). 
+2.9.6. %quot%Third of the bonnet leading edge%quot% is defined as the geometric trace between the %quot%Corner reference points%quot% as defined in point 2.9.5, measured with a flexible tape following the outer contour of the leading edge, divided in three equal parts. 
+2.9.7. %quot%Bonnet rear reference line%quot% is defined as the geometric trace of the most rearward points of contact between a sphere and the Frontal Upper Surface, as defined in point 2.7, when the sphere is traversed across the Frontal Upper Surface, while maintaining contact with the windscreen (see Figure 7). The wiper blades and arms are removed during this process. For the tests described in Section 3.1 of Annex I to the Directive, the diameter of the sphere is 165 mm. For the tests described in Section 3.2 of Annex I to the Directive, the diameter of the sphere is 165 mm if the lower windscreen frame on the vehicle's centre line is located at a wrap around distance, as defined in point 2.8, of 1500 mm or more from the ground and the diameter of the sphere is 130 mm when this wrap around distance is less than 1500 mm. If the bonnet rear reference line is located at a wrap around distance of more than 2100 mm from the ground, the bonnet rear reference line is defined by the geometric trace of the 2100 mm wrap around distances, as defined in point 2.8. Where the Bonnet Rear Reference Line and bonnet side reference Lines do not intersect, the Bonnet Rear Reference Line is modified according to the procedure outlined in point 2.9.9. 
+2.9.8. %quot%Third of the bonnet top%quot% is defined as the geometric trace between the %quot%Bonnet side reference lines%quot% as defined in point 2.9.4, measured with a flexible tape following the outer contour of the bonnet top, divided in three equal parts. 
+2.9.9. %quot%Intersection bonnet rear reference line and bonnet side reference line%quot% where the bonnet rear reference line and bonnet side reference line do not intersect, the bonnet rear reference line should be extended and/or modified using a semi-circular template, of radius 100 mm. The template should be made of a thin flexible sheet material that easily bends to a single curvature in any direction. The template should, preferably, resist double or complex curvature where this could result in wrinkling. The recommended material is a foam backed thin plastic sheet to allow the template to %quot%grip%quot% the surface of the vehicle. The template should be marked up with four points %quot%A%quot% through %quot%D%quot%, as shown in Figure 8, while the template is on a flat surface. 
+The template should be placed on the vehicle with Corners %quot%A%quot% and %quot%B%quot% coincident with the side reference line. Ensuring these two corners remain coincident with the side reference line, the template should be slid progressively rearwards until the arc of the template makes first contact with the bonnet rear reference line. Throughout the process, the template should be curved to follow, as closely as possible, the outer contour of the vehicle's bonnet op, without wrinkling or folding of the template. If the contact between the template and bonnet rear reference line is tangential and the point of tangency lies outside the arc scribed by points %quot%C%quot% and %quot%D%quot%, then the bonnet rear reference line is extended and/or modified to follow the circumferential arc of the template to meet the bonnet side reference line, as shown in Figure 9. 
+If the template cannot make simultaneous contact with the bonnet side reference line at points %quot%A%quot% and %quot%B%quot% and tangentially with the bonnet rear reference line, or the point at which the bonnet rear reference line and template touch lies within the arc scribed by points %quot%C%quot% and %quot%D%quot%, then additional templates should be used where the radii are increased progressively in increments of 20 mm, until all the above criteria are met. 
+Once defined, the modified bonnet rear reference line is assumed in all subsequent paragraphs and the original ends of the line are no longer used. 
+2.10. %quot%Head performance criterion (HPC)%quot% shall be calculated from the resultant of accelerometer time histories as the maximum (depending on t1 and t2) of the equation: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+where %quot%a%quot% is the resultant acceleration as a multiple of %quot%g%quot%, and t1 and t2 are the two time instants (expressed in seconds) during the impact, defining the beginning and the end of the recording for which the value of HPC is a maximum. Values of HPC for which the time interval (t1 - t2) is greater than 15 ms are ignored for the purposes of calculating the maximum value. 
+2.11. %quot%Windscreen%quot% is the frontal glazing of the vehicle which meets all the relevant requirements of Annex I to EU Directive 77/649/EEC. 
+2.11.1 %quot%Rear windscreen reference line%quot% is defined as the geometric trace of the most forward points of contact between a sphere and the windscreen, as defined in paragraph 2.11, when a sphere of diameter 165 mm is traversed across the windscreen top frame, including any trim, while maintaining contact with the windscreen (see Figure 10). 
+Figure 1a 
+Determination of upper bumper reference line 
+%gt%PIC FILE= %quot%L_2004031EN.002601.TIF%quot%%gt% 
+Figure 1b 
+Determination of lower bumper reference line 
+%gt%PIC FILE= %quot%L_2004031EN.002602.TIF%quot%%gt% 
+Figure 2 
+Determination of corner of bumper 
+%gt%PIC FILE= %quot%L_2004031EN.002701.TIF%quot%%gt% 
+Figure 3 
+Determination of wrap around distance 
+%gt%PIC FILE= %quot%L_2004031EN.002702.TIF%quot%%gt% 
+Figure 4 
+Determination of bonnet leading edge reference line 
+%gt%PIC FILE= %quot%L_2004031EN.002801.TIF%quot%%gt% 
+Figure 5 
+Determination of bonnet side refernce line 
+%gt%PIC FILE= %quot%L_2004031EN.002802.TIF%quot%%gt% 
+Figure 6 
+Determination of corner reference point; intersection of the bonnet leading edge reference line and the bonnet side reference line 
+%gt%PIC FILE= %quot%L_2004031EN.002901.TIF%quot%%gt% 
+Figure 7 
+Determination of bonnet rear reference line 
+%gt%PIC FILE= %quot%L_2004031EN.003001.TIF%quot%%gt% 
+Figure 8 
+Template design and markings used to join bonnet rear reference line and bonnet side reference line 
+%gt%PIC FILE= %quot%L_2004031EN.003002.TIF%quot%%gt% 
+Figure 9 
+Plan view of rear corner of bonnet - extending the bonnet rear reference line to meet the bonnet side reference line along the circumferential arc of template 
+%gt%PIC FILE= %quot%L_2004031EN.003101.TIF%quot%%gt% 
+Figure 10 
+Determination of rear windscreen reference line 
+%gt%PIC FILE= %quot%L_2004031EN.003102.TIF%quot%%gt% 
+PART II 
+CHAPTER I 
+General conditions applicable 
+1. Complete vehicle 
+1.1. Tests on complete vehicles shall comply with the conditions detailed in paragraphs 1.1.1, 1.1.2 and 1.1.3. 
+1.1.1. The vehicle shall be in its normal ride attitude and shall be either securely mounted on raised supports or at rest on a flat surface with the hand brake on. 
+1.1.2. All devices designed to protect vulnerable road users shall be correctly activated before and/or be active during the appropriate test. It shall be the responsibility of the applicant for approval to show that the devices will act as intended in a pedestrian impact. 
+1.1.3. Any vehicle component which could change shape or position, such as %quot%pop-up%quot% headlights, other than active devices to protect pedestrians, shall be set to a shape or position that the test institutes in consultation with the manufacturer consider to be the most appropriate, for these tests. 
+2. Subsystem of vehicle 
+2.1. Where only a subsystem of the vehicle is supplied for tests, it shall comply with the conditions detailed in paragraphs 2.1.1, 2.1.2, 2.1.3 and 2.1.4. 
+2.1.1. All the parts of the vehicle structure and under bonnet components or behind windscreen components that may be involved in a frontal impact with a vulnerable road user shall be included in the test to demonstrate the performance and interactions of all the contributory vehicle components. 
+2.1.2. The vehicle subsystem shall be securely mounted in the normal vehicle ride attitude. 
+2.1.3. All devices designed to protect vulnerable road users shall be correctly activated before and/or be active during the appropriate test. It shall be the responsibility of the applicant for approval to show that the devices will act as intended in a pedestrian impact. 
+2.1.4. Any vehicle component which could change shape or position, such as %quot%pop-up%quot% headlights, other than active devices to protect pedestrians, shall be set to a shape or position that the test institutes in consultation with the manufacturer consider to be the most appropriate, for these tests. 
+CHAPTER II 
+Lower legform to bumper tests 
+1. Scope 
+This test procedure is applicable to requirements under both Section 3.1 and Section 3.2 of Annex I of the Directive 2003/102/EC. 
+2. General 
+2.1. The lower legform impactor for the bumper tests shall be in %quot%free flight%quot% at the moment of impact. The impactor shall be released to free flight at such a distance from the vehicle that the test results are not influenced by contact of the impactor with the propulsion system during rebound of the impactor. 
+2.2. The impactor may be propelled by an air, spring or hydraulic gun, or by other means that can be shown to give the same result. 
+3. Specification of the test 
+3.1. The purpose of the test is to ensure that the requirements given in paragraphs 3.1.1.1 and 3.2.1.1 of Annex I of the Directive 2003/102/EC are fulfilled. 
+3.2. A minimum of three lower legform to bumper tests shall be carried out, one each to the middle and the outer thirds of the bumper at positions judged to be the most likely to cause injury. Tests shall be to different types of structure, where they vary throughout the area to be assessed. The selected test points shall be a minimum of 132 mm apart, and a minimum of 66 mm inside the defined corners of the bumper. These minimum distances are to be set with a flexible tape held tautly along the outer surface of the vehicle. The positions tested by the laboratories shall be indicated in the test report. 
+3.3. Manufacturers might apply for derogation concerning an exemption zone for a removable towing hook. 
+3.4. Test method 
+3.4.1. Test apparatus 
+3.4.1.1. The lower legform impactor shall consist of two foam covered rigid segments, representing femur (upper leg) and tibia (lower leg), joined by a deformable, simulated knee joint. The overall length of the impactor shall be 926 ± 5 mm, having a required test mass of 13,4 ± 0,2 kg and comply with Section 4 of this Chapter and Figure 1 of this Part. Brackets, pulleys, etc. attached to the impactor for the purpose of launching it, may extend the dimensions shown in Figure 1. 
+3.4.1.2. Transducers shall be fitted to measure knee bending angle and knee shearing displacement. One uni-axial accelerometer shall be fitted to the non-impacted side of the tibia, close to the knee joint, with its sensitive axis in the impact direction. 
+3.4.1.3. The instrumentation response value CFC, as defined in ISO 6487:2000, shall be 180 for all transducers. The CAC response values, as defined in ISO 6487:2000, shall be 50° for the knee bending angle, 10 mm for the shearing displacement and 500 g for the acceleration. This does not require that the impactor itself be able to physically bend and shear to these angles and displacements. 
+3.4.1.4. The impactor shall meet the performance requirements specified in Section 2 of Appendix I, and shall be fitted with deformable knee elements from the same batch as those used in the certification tests. The impactor shall also be fitted with foam cut from one of up to four consecutive sheets of ConforTM foam flesh material produced from the same batch of manufacture (cut from one block or bun of foam), provided that foam from one of these sheets was used in the dynamic certification test and the individual weights of these sheets are within ± 2 % of the weight of the sheet used in the certification test. The certified impactor may be used for a maximum of 20 impacts before re-certification. With each test new plastically deformable knee elements should be used. The impactor shall also be re-certified if more than one year has elapsed since the previous certification or if any impactor transducer output, in any impact, has exceeded the specified CAC. 
+3.4.1.5. The impactor shall be mounted, propelled and released as defined in paragraphs 2.1 and 2.2. 
+3.4.2. Test procedure 
+3.4.2.1. The state of the vehicle or subsystem shall comply with the requirements of Chapter I of this Part. The stabilised temperature of the test apparatus and the vehicle or subsystem shall be 20 °C ± 4 °C. 
+3.4.2.2. Tests shall be made to the bumper between the corners to locations defined in point 3.2. 
+3.4.2.3. The direction of the impact velocity vector shall be in the horizontal plane and parallel to the longitudinal vertical plane of the vehicle. The tolerance for the direction of the velocity vector in the horizontal plane and in the longitudinal plane shall be ± 2° at the time of first contact. 
+The axis of the impactor shall be perpendicular to the horizontal plane with a tolerance of ± 2° in the lateral and longitudinal plane. The horizontal, longitudinal and lateral planes are orthogonal to each other (see Figure 3). 
+3.4.2.4. The bottom of the impactor shall be at ground reference level at the time of first contact with the bumper (see Figure 2), with a ± 10 mm tolerance. 
+When setting the height of the propulsion system, an allowance must be made for the influence of gravity during the period of free flight of the impactor. 
+At the time of first contact the impactor shall have the intended orientation about its vertical axis, for the correct operation of its knee joint, with a tolerance of ± 5° (see Figure 3). 
+3.4.2.5. At the time of first contact the centre line of the impactor shall be within a ± 10 mm tolerance to the selected impact location. 
+3.4.2.6. During contact between the impactor and the vehicle, the impactor shall not contact the ground or any object which is not part of the vehicle. 
+3.4.2.7. The impact velocity of the impactor when striking the bumper shall be 11,1 ± 0,2 m/s. The effect of gravity shall be taken into account when the impact velocity is obtained from measurements taken before the time of first contact. 
+4. Lower Legform impactor 
+4.1. The diameter of the femur and tibia shall be 70 ± 1 mm and both shall be covered by foam %quot%flesh%quot% and skin. The foam flesh shall be 25 mm thick ConforTM foam type CF-45. The skin shall be made of neoprene foam, faced with 1/2 mm thick nylon cloth both sides, with an overall thickness of 6 mm. 
+4.2. The %quot%centre of the knee%quot% is defined as the point about which the knee effectively bends. 
+The %quot%femur%quot% is defined as all components or parts of components (including flesh, skin covering, damper, instrumentation and brackets, pulleys, etc. attached to the impactor for the purpose of launching it) above the level of the centre of the knee. 
+The %quot%tibia%quot% is defined as all components or parts of components (including flesh, skin covering, instrumentation and brackets, pulleys, etc. attached to the impactor for the purpose of launching it) below the level of the centre of the knee. Note that the tibia as defined includes allowances for the mass etc. of the foot. 
+4.3. The total mass of the femur and tibia shall be 8,6 ± 0,1 kg and 4,8 ± 0,1 kg respectively, and the total mass of the impactor shall be 13,4 ± 0,2 kg. 
+The centre of gravity of the femur and tibia shall be 217 ± 10 mm and 233 ± 10 mm from the centre of the knee respectively. 
+The moment of inertia of the femur and tibia, about a horizontal axis through the respective centre of gravity and perpendicular to the direction of impact, shall be 0,127 ± 0,010 kg/m2 and 0,120 ± 0,010 kg/m2 respectively. 
+4.4. A uniaxial accelerometer shall be mounted on the non-impacted side of the tibia, 66 ± 5 mm below the knee joint centre, with its sensitive axis in the direction of impact. 
+4.5. The impactor shall be instrumented to measure the bending angle and the shearing displacement between femur and tibia. 
+4.6. A damper shall be fitted to the shear displacement system and may be mounted at any point on the rear face of the impactor or internally. The damper properties shall be such that the impactor meets both the static and dynamic shear displacement requirements and prevents excessive vibrations of the shear displacement system. 
+Figure 1 
+Lower legform impactor with skin and foam covering 
+%gt%PIC FILE= %quot%L_2004031EN.003501.TIF%quot%%gt% 
+Figure 2 
+Lower legform to bumper tests for complete vehicle in normal ride attitude (left) and for complete vehicle or sub-system mounted on supports (right) 
+%gt%PIC FILE= %quot%L_2004031EN.003601.TIF%quot%%gt% 
+Figure 3 
+Tolerances of angles for the lower legform impactor at the time of first impact 
+%gt%PIC FILE= %quot%L_2004031EN.003602.TIF%quot%%gt% 
+CHAPTER III 
+Upper legform to bumper tests 
+1. Scope 
+This test procedure is applicable to requirements under both Section 3.1 and Section 3.2 of Annex I of the Directive 2003/102/EC. 
+2. General 
+2.1. The upper legform impactor for the bumper test shall be mounted to the propulsion system, by a torque limiting joint, to prevent large off centre loads damaging the guidance system. The guidance system shall be fitted with low friction guides, insensitive to off-axis loading, that allow the impactor to move only in the specified direction of impact, when in contact with the vehicle. The guides shall prevent motion in other directions including rotation about any axis. 
+2.2. The impactor may be propelled by an air, spring or hydraulic gun, or by other means that can be shown to give the same result. 
+3. Specification of the test 
+3.1. The purpose of the test is to ensure that the requirements given in paragraphs 3.1.1.2 and 3.2.1.2 of Annex I of the Directive 2003/102/EC are fulfilled. 
+3.2. Upper legform to bumper tests shall be carried out to test positions selected in paragraph 3.2, Chapter II of this Part, if the lower bumper height at the test position is more than 500 mm and the manufacturer elects to perform an upper legform test instead of a lower legform test. In exceptional cases, and only with regard to the test procedure applicable under point 3.1.1.2 of Annex I of the Directive, manufacturers may apply for a derogation concerning the application of this alternative test to vehicles with a lower bumper height of less that 500 mm. 
+3.3. Manufacturers may apply for derogation concerning an exemption zone for a removable towing hook. 
+3.4. Test method 
+3.4.1. Test apparatus 
+3.4.1.1. The upper legform impactor shall be rigid, foam covered at the impact side, and 350 ± 5 mm long and comply with Section 4 of this Chapter and Figure 4a of this Part. 
+3.4.1.2. Two load transducers shall be fitted to measure individually the forces applied at either end of the upper legform impactor, plus strain gauges measuring bending moments at the centre of the upper legform impactor and at positions 50 mm either side of the centre line, see Figure 4a. 
+3.4.1.3. The instrumentation response value CFC, as defined in ISO 6487:2000, shall be 180 for all transducers. The CAC response values, as defined in ISO 6487:2000, shall be 10 kN for the force transducers and 1000 Nm for the bending moment measurements. 
+3.4.1.4. The upper legform impactor shall meet the performance requirements specified in Section 3 of Appendix I, and shall be fitted with foam cut from the sheet of material used for the dynamic certification test. The certified impactor may be used for a maximum of 20 impacts before re-certification (this limit does not apply to propulsion or guidance components). The impactor shall also be re-certified if more than one year has elapsed since the previous certification or if any impactor transducer output, in any impact, has exceeded the specified CAC. 
+3.4.1.5. The upper legform impactor shall be mounted and propelled as specified in points 2.1 and 2.2. 
+3.4.2. Test procedure 
+3.4.2.1. The state of the vehicle or sub-system shall comply with the requirements of Chapter I of this Part. The stabilised temperature of the test apparatus and the vehicle or sub-system shall be 20 °C ± 4 °C. 
+3.4.2.2. Tests shall be made to the bumper between the corners to locations defined in paragraph 3.2. 
+3.4.2.3. The direction of impact shall be parallel to the longitudinal axis of the vehicle, with the axis of the upper legform vertical at the time of first contact. The tolerance to these directions is ± 2°. At the time of first contact the impactor centre line shall be midway between the upper bumper reference line and the lower bumper reference line with a ± 10 mm tolerance and laterally with the selected impact location with a tolerance of ± 10 mm. 
+3.4.2.4. The impact velocity of the upper legform impactor when striking the bumper shall be 11,1 ± 0,2 m/s. 
+4. Upper legform impactor 
+4.1. The total mass of the upper legform impactor including those propulsion and guidance components which are effectively part of the impactor during the impact shall be 9,5 kg ± 0,1 kg. The upper legform impactor mass may be adjusted from this value by up to ± 1 kg, provided the required impact velocity is also changed using the formula: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+where 
+V= impact velocity (m/s) 
+M= mass (kg), measured to an accuracy of better than ± 1 % 
+4.2. The total mass of the front member and other components in front of the load transducer assemblies, together with those parts of the load transducer assemblies in front of the active elements, but excluding the foam and skin, shall be 1,95 ± 0,05 kg. 
+4.3. The foam shall be two sheets of 25 mm thick ConforTM foam type CF-45. The skin shall be a 1,5 mm thick fibre reinforced rubber sheet. The foam and rubber skin together shall weigh 0,6 ± 0,1 kg (this excludes any reinforcement, mountings, etc. which are used to attach the rear edges of the rubber skin to the rear member). The foam and rubber skin shall be folded back towards the rear, with the rubber skin attached via spacers to the rear member so that the sides of the rubber skin are held parallel. The foam shall be of such a size and shape that an adequate gap is maintained between the foam and components behind the front member, to avoid significant load paths between the foam and these components. 
+4.4. The front member shall be strain gauged to measure bending moments in three positions, as shown in Figure 4a, each using a separate channel. The strain gauges are located on the impactor on the back of the front member. The two outer strain gauges are located 50 ± 1 mm from the impactor's symmetrical axis. The middle strain gauge is located on the symmetrical axis with a ± 1 mm tolerance. 
+4.5. The torque limiting joint shall be set so that the longitudinal axis of the front member is perpendicular to the axis of the guidance system, with a tolerance of ± 2°, with the joint friction torque set to a minimum of 650 Nm. 
+4.6. The centre of gravity of those parts of the impactor which are effectively forward of the torque limiting joint, including any weights fitted, shall lie on the longitudinal centre line of the impactor, with a tolerance of ± 10 mm. 
+4.7. The length between the load transducer centre lines shall be 310 ± 1 mm and the front member diameter shall be 50 ± 1 mm. 
+Figure 4a 
+Upper legform impactor 
+%gt%PIC FILE= %quot%L_2004031EN.003901.TIF%quot%%gt% 
+CHAPTER IV 
+Upper legform to bonnet leading edge tests 
+1. Scope 
+This test procedure is applicable to requirements under both Section 3.1 and Section 3.2 of Annex I of the Directive 2003/102/EC. 
+2. General 
+2.1. The upper legform impactor for the bonnet leading edge test shall be mounted to the propulsion system, by a torque limiting joint, to prevent large off centre loads damaging the guidance system. The guidance system shall be fitted with low friction guides, insensitive to off-axis loading, that allow the impactor to move only in the specified direction of impact, when in contact with the vehicle. The guides shall prevent motion in other directions including rotation about any axis. 
+2.2. The impactor may be propelled by an air, spring or hydraulic gun, or by other means that can be shown to give the same result. 
+3. Specification of the test 
+3.1. The purpose of the test is to ensure that the requirements given in points 3.1.3 and 3.2.3 of Annex I of the Directive 2003/102/EC are fulfilled. 
+3.2. A minimum of three upper legform to bonnet leading edge tests shall be carried out, one each to the middle and the outer thirds of the bonnet leading edge at positions judged to be the most likely to cause injury. However, the test point in each third shall be selected such that the required kinetic energy of impact, determined in point 3.4.2.7, exceeds 200 J, if such a point is available. Tests shall be to different types of structure, where they vary throughout the area to be assessed. The selected test points shall be a minimum of 150 mm apart, and a minimum of 75 mm inside the defined corner reference points. These minimum distances are to be set with a flexible tape held tautly along the outer surface of the vehicle. The positions tested by the laboratories shall be indicated in the test report. 
+3.3. All standard equipment fitted to the front end of the vehicle shall be in position. 
+3.4. Test method 
+3.4.1. Test apparatus 
+3.4.1.1. The upper legform impactor shall be rigid, foam covered at the impact side, and 350 ± 5 mm long and comply with Section 4 of this Chapter and Figure 4b of this Part. 
+3.4.1.2. The upper legform impactor mass shall be dependent upon the general shape of the front of the car and determined as specified in point 3.4.2.7. 
+3.4.1.3. Two load transducers shall be fitted to measure individually the forces applied at either end of the upper legform impactor, plus strain gauges measuring bending moments at the centre of the upper legform impactor and at positions 50 mm either side of the centre line, see Figure 4b. 
+3.4.1.4. The instrumentation response value CFC, as defined in ISO 6487:2000, shall be 180 for all transducers. The CAC response values, as defined in ISO 6487:2000, shall be 10 kN for the force transducers and 1000 Nm for the bending moment measurements. 
+3.4.1.5. The upper legform impactor shall meet the performance requirements specified in Section 3 of Appendix I, and shall be fitted with foam cut from the sheet of material used for the dynamic certification test. The certified impactor may be used for a maximum of 20 impacts before re-certification (this limit does not apply to propulsion or guidance components). The impactor shall also be re-certified if more than one year has elapsed since the previous certification or if any impactor transducer output, in any impact, has exceeded the specified CAC. 
+3.4.1.6. The upper legform impactor shall be mounted and propelled as specified in paragraphs 2.1 and 2.2. 
+3.4.2. Test procedure 
+3.4.2.1. The state of the vehicle or subsystem shall comply with the requirements of Chapter I of this Part. The stabilised temperature of the test apparatus and the vehicle or sub-system shall be 20 °C ± 4 °C. 
+3.4.2.2. Tests shall be made to the bonnet leading edge, between the %quot%corner reference points%quot% to locations defined in point 3.2. 
+3.4.2.3. The upper legform impactor shall be aligned such that the centre line of the propulsion system and the longitudinal axis of the impacting upper legform impactor are in the fore and aft vertical plane of the section of the vehicle to be tested. The tolerances to these directions are ± 2°. At the time of first contact the impactor centre line shall be coincident with the bonnet leading edge reference line with a ± 10 mm tolerance (see Figure 5), and laterally with the selected impact location with a tolerance of ± 10 mm. 
+3.4.2.4. The required impact velocity, the direction of impact and the upper legform impactor mass shall be determined as specified in points 3.4.2.6 and 3.4.2.7. The tolerance to the impact velocity is ± 2 % and the tolerance to the impact direction is ± 2°. The effect of gravity shall be taken into account when the impact velocity is obtained from measurements taken before the time of first contact. The upper legform impactor mass should be measured to an accuracy of better than ± 1 %, and if the measured value differs from the required value then the required velocity should be adjusted to compensate, as specified in point 3.4.2.7. 
+3.4.2.5. Determination of vehicle shape: 
+3.4.2.5.1. The position of the upper bumper reference line shall be determined as defined in point 2.5.1 of Part I. 
+3.4.2.5.2. The bonnet leading edge reference line shall be determined as defined in point 2.9.2 of Part I. 
+3.4.2.5.3. For the section of bonnet leading edge to be tested the bonnet leading edge height and the bumper lead shall be determined as defined in points 2.9.3 and 2.6 of Part I. 
+3.4.2.6. The required impact velocity and the direction of impact shall be determined from Figures 6 and 7 with reference to the values of bonnet leading edge height and bumper lead determined in point 3.4.2.5. 
+3.4.2.7. The total mass of the upper legform impactor includes those propulsion and guidance components which are effectively part of the impactor during the impact, including the extra weights. 
+Calculate the value of the upper legform impactor mass from: 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+where 
+M= Mass [kg] 
+E= Impact Energy [J] 
+V= Velocity [m/s]. 
+The required velocity shall be the value derived in point 3.4.2.6 and the energy shall be derived from Figure 8 with reference to the values of bonnet leading edge height and bumper lead determined in point 3.4.2.5. 
+The upper legform impactor mass may be adjusted from the calculated value by up to ± 10 %, provided the required impact velocity is also changed using the above formula to maintain the same impactor kinetic energy. 
+3.4.2.8. Fit the required extra weights to give the calculated value of upper legform impactor mass, determined in point 3.4.2.7, to the rear of the rear member as shown in Figure 4b, or to components of the guidance system which are effectively part of the impactor during the impact. 
+4. Upper legform impactor 
+4.1. The total mass of the front member and other components in front of the load transducer assemblies, together with those parts of the load transducer assemblies in front of the active elements, but excluding the foam and skin, shall be 1,95 ± 0,05 kg. 
+4.2. The foam shall be two sheets of 25 mm thick ConforTM foam type CF-45. The skin shall be a 1,5 mm thick fibre reinforced rubber sheet. The foam and rubber skin together shall weigh 0,6 ± 0,1 kg (this excludes any reinforcement, mountings, etc. which are used to attach the rear edges of the rubber skin to the rear member). The foam and rubber skin shall be folded back towards the rear, with the rubber skin attached via spacers to the rear member so that the sides of the rubber skin are held parallel. The foam shall be of such a size and shape that an adequate gap is maintained between the foam and components behind the front member, to avoid significant load paths between the foam and these components. 
+4.3. The front member shall be strain gauged to measure bending moments in three positions, as shown in Figure 4b, each using a separate channel. The strain gauges are located on the impactor on the back of the front member. The two outer strain gauges are located 50 ± 1 mm from the impactor's symmetrical axis. The middle strain gauge is located on the symmetrical axis with a ± 1 mm tolerance. 
+4.4. The torque limiting joint shall be set so that the longitudinal axis of the front member is perpendicular to the axis of the guidance system, with a tolerance of ± 2°, with the joint friction torque set to a minimum of 650 Nm. 
+4.5. The centre of gravity of those parts of the impactor which are effectively forward of the torque limiting joint, including any weights fitted, shall lie on the longitudinal centre line of the impactor, with a tolerance of ± 10 mm. 
+4.6. The length between the load transducer centrelines shall be 310 ± 1 mm and the front member diameter shall be 50 ± 1 mm. 
+Figure 4b 
+Upper legform impactor 
+%gt%PIC FILE= %quot%L_2004031EN.004301.TIF%quot%%gt% 
+Figure 5 
+Upper legform to bonnet leading edge tests 
+%gt%PIC FILE= %quot%L_2004031EN.004401.TIF%quot%%gt% 
+Figure 6 
+Velocity of upper legform to bonnet leading edge tests with respect to vehicle shape 
+%gt%PIC FILE= %quot%L_2004031EN.004501.TIF%quot%%gt% 
+Notes: 
+1. Interpolate horizontally between curves. 
+2. With configurations below 20 km/h - test at 20 km/h. 
+3. With configurations above 40 km/h - test at 40 km/h. 
+4. With negative bumper leads - test as for zero bumper lead. 
+5. With bumper leads above 400 mm - test as for 400 mm. 
+Figure 7 
+Angle of upper legform to bonnet leading edge tests with respect to vehicle shape 
+%gt%PIC FILE= %quot%L_2004031EN.004601.TIF%quot%%gt% 
+Key: 
+A= 0 mm bumper lead 
+B= 50 mm bumper lead 
+C= 150 mm bumper lead 
+Notes 
+1. Interpolate vertically between curves. 
+2. With negative bumper leads - test as for zero bumper lead. 
+3. With bumper leads above 150 mm - test as for 150 mm. 
+4. With bonnet leading edge heights above 1050 mm - test as for 1050 mm. 
+Figure 8 
+Kinetic energy of upper legform to bonnet leading edge tests with respect to vehicle shape 
+%gt%PIC FILE= %quot%L_2004031EN.004701.TIF%quot%%gt% 
+Key: 
+A= 50 mm bumper lead 
+B= 100 mm bumper lead 
+C= 150 mm bumper lead 
+D= 250 mm bumper lead 
+E= 350 mm bumper lead 
+Notes 
+1. Interpolate vertically between curves. 
+2. With bumper leads below 50 mm - test as for 50 mm. 
+3. With bumper leads above 350 mm - test as for 350 mm. 
+4. With bonnet leading edge heights above 1050 mm - test as for 1050 mm. 
+5. With a required kinetic energy above 700 J - test at 700 J. 
+6. With a required kinetic energy equal to or below 200 J - no test is required. 
+CHAPTER V 
+Child/small adult headform to bonnet top tests 
+1. Scope 
+This test procedure is applicable to the requirements of Section 3.1 of Annex I of the Directive 2003/102/EC. 
+2. General 
+2.1. The headform impactor for the bonnet top test shall be in %quot%free flight%quot% at the moment of impact. The impactor shall be released to free flight at such a distance from the vehicle that the test results are not influenced by contact of the impactor with the propulsion system during rebound of the impactor. 
+2.2. The impactor may be propelled by an air, spring or hydraulic gun, or by other means that can be shown to give the same result. 
+3. Specification of the test 
+3.1. The purpose of the test is to ensure that the requirements given in point 3.1.2 of Annex I of the Directive 2003/102/EC are fulfilled. 
+3.2. Headform impactor tests shall be to the bonnet top as defined in paragraph 2.9 of Part I. A minimum of eighteen tests shall be carried out with the headform impactor, six tests each to the middle and the outer thirds of the bonnet top, as described in point 2.9.8 of Part I, at positions judged to be the most likely to cause injury. Tests shall be to different types of structure, where these vary throughout the area to be assessed. 
+Among the minimum of eighteen tests, at least twelve tests shall be carried out with the headform impactor within the %quot%Bonnet Top Zone A%quot% and a minimum of six tests shall be carried out within the %quot%Bonnet Top Zone B%quot% as defined in paragraph 3.3. 
+The test points shall be located so that the impactor is not expected to impact the bonnet top with a glancing blow and then impact the windscreen or an A pillar more severely. The selected test points for the child/small adult headform impactor shall be a minimum of 165 mm apart, a minimum of 82,5 mm inside the defined bonnet side reference lines, a minimum of 82,5 mm forwards of the defined bonnet rear reference line. Each selected test point for the child/small adult headform shall also be a minimum of 165 mm rearwards of the bonnet leading edge reference line, unless no point in the bonnet leading edge test area within 165 mm laterally would, if chosen for an upper legform to bonnet leading edge test, require a kinetic energy of impact of more than 200 J. 
+These minimum distances are to be set with a flexible tape held tautly along the outer surface of the vehicle. If a number of test positions have been selected in order of potential to cause injury and the test area remaining is too small to select another test position while maintaining the minimum spacing between tests, then less than eighteen tests may be performed. The positions tested by the laboratories shall be indicated in the test report. 
+However, the technical services conducting the tests shall perform as many tests as necessary to guarantee the compliance of the vehicle with the head protection criteria (HPC) limit values of 1000 for %quot%bonnet top zone A%quot% and 2000 for %quot%bonnet top zone B%quot%, especially in the points near to the borders between the two types of zones. 
+3.3. %quot%Bonnet top zone A%quot% and %quot%bonnet top zone B%quot% 
+3.3.1. The manufacturer shall identify the zones of the bonnet top where the head protection criterion (HPC) must not exceed 1000 (bonnet top zone A) respectively 2000 (bonnet top zone B), according to the technical requirements set out in paragraph 3.1.2 of Annex I of the Directive (see Figure 9). 
+Figure 9 
+Bonnet top zone A and bonnet top zone B 
+%gt%PIC FILE= %quot%L_2004031EN.004901.TIF%quot%%gt% 
+3.3.2. Marking of the %quot%bonnet top%quot% impact area as well as %quot%bonnet top zone A%quot% and %quot%bonnet top zone B%quot% will be based on a drawing supplied by the manufacturer, when viewed from a horizontal plane above the vehicle that is parallel to the vehicle horizontal zero plane. A sufficient number of x and y coordinates shall be supplied by the manufacturer to mark up the areas on the actual vehicle while considering the vehicle outer contour in the z direction. 
+3.3.3. The areas of %quot%bonnet top zone A%quot% and %quot%bonnet top zone B%quot% may consist of several parts, with the number of these parts not being limited. 
+3.3.4. The calculation of the surface of the impact area as well as the surface areas of %quot%bonnet top zone A%quot% and %quot%bonnet top zone B%quot% shall be done on the basis of a projected bonnet when viewed from a horizontal plane parallel to the horizontal zero plane above the vehicle, on the basis of the drawing data supplied by the manufacturer. 
+3.4. Test method 
+3.4.1. Test apparatus 
+3.4.1.1. The child/small adult headform impactor shall be a rigid sphere fitted with a synthetic skin and shall comply with Section 4 of this Chapter and Figure 10 of this Part. The diameter shall be 165 ± 1 mm as shown in Figure 10. The total impactor mass shall be 3,5 ± 0,07 kg. 
+3.4.1.2. One triaxial (or three uniaxial) accelerometer shall be mounted in the centre of the sphere. 
+3.4.1.3. The instrumentation response value CFC, as defined in ISO 6487:2000, shall be 1000. The CAC response value, as defined in ISO 6487:2000, shall be 500 g for the acceleration. 
+3.4.1.4. The child/small adult headform impactor shall meet the performance requirements specified in Section 4 of Appendix I. The certified impactor may be used for a maximum of 20 impacts before re-certification. The impactor shall be re-certified if more than one year has elapsed since the previous certification or if the transducer output, in any impact, has exceeded the specified CAC. 
+3.4.1.5. The headform impactor shall be mounted, propelled and released as specified in paragraphs 2.1 and 2.2. 
+3.4.2. Test procedure 
+3.4.2.1. The state of the vehicle or subsystem shall comply with the requirements of Chapter I of this Part. The stabilised temperature of the test apparatus and the vehicle or subsystem shall be 20 °C ± 4 °C. 
+3.4.2.2. Tests shall be made to the bonnet top within the boundaries as defined in points 3.2 and 3.4.2.3. 
+For tests at the rear of the bonnet top the headform impactor shall not contact the windscreen or A pillar before impacting the bonnet top. 
+3.4.2.3. A child/small adult headform impactor as defined in paragraph 3.4.1 shall be used for tests to the bonnet top, with the points of first contact lying between boundaries described by a wrap around distance of 1000 mm and by the bonnet rear reference line as defined in paragraph 2.9.7 of Part I. 
+The direction of impact shall be as specified in point 3.4.2.4 and the impact velocity as specified in point 3.4.2.6. 
+3.4.2.4. The direction of impact shall be in the fore and aft vertical plane of the section of the vehicle to be tested. The tolerance for this direction is ± 2°. The direction of impact of tests to the bonnet top shall be downward and rearward, as if the vehicle were on the ground. The angle of impact for tests with the child/small adult headform impactor shall be 50° ± 2° to the Ground Reference Level. The effect of gravity shall be taken into account when the impact angle is obtained from measurements taken before the time of first contact. 
+3.4.2.5. At the time of first contact, the point of first contact of the headform impactor shall be within a ± 10 mm tolerance to the selected impact location. 
+3.4.2.6. The impact velocity of the headform impactor when striking the bonnet top shall be 9,7 ± 0,2 m/s. The effect of gravity shall be taken into account when the impact velocity is obtained from measurements taken before the time of first contact. 
+4. Child/small adult headform impactor 
+4.1. The child/small adult headform impactor is a sphere made of aluminium and of homogenous construction. 
+4.2. The sphere shall be covered with a 13,9 ± 0,5 mm thick synthetic skin, which shall cover at least half of the sphere. 
+4.3. The centre of gravity of the child/small adult headform impactor, including instrumentation, shall be located in the centre of the sphere with a tolerance of ± 5 mm. The moment of inertia about an axis through the centre of gravity and perpendicular to the direction of impact shall be 0,010 ± 0,0020 kg/m2. 
+4.4. A recess in the sphere shall allow for mounting one triaxial or three uniaxial accelerometers. The accelerometers shall be positioned according points 4.4.1 and 4.4.2. 
+4.4.1. One of the accelerometers shall have its sensitive axis perpendicular to the mounting face A (Figure 10) and its seismic mass shall be positioned within a cylindrical tolerance field of 1 mm radius and 20 mm length. The centre line of the tolerance field shall run perpendicular to the mounting face and its mid point shall coincide with the centre of the sphere of the headform impactor. 
+4.4.2. The remaining accelerometers shall have their sensitive axes perpendicular to each other and parallel to the mounting face A and their seismic mass shall be positioned within a spherical tolerance field of 10 mm radius. The centre of the tolerance field shall coincide with the centre of the sphere of the headform impactor. 
+Figure 10 
+Child/small adult headform impactor (dimensions in mm) 
+%gt%PIC FILE= %quot%L_2004031EN.005101.TIF%quot%%gt% 
+CHAPTER VI 
+Adult headform to windscreen tests 
+1. Scope 
+This test procedure is applicable to requirements under Section 3.1 of Annex I of the Directive 2003/102/EC. 
+2. General 
+2.1. The headform impactor for the windscreen top test shall be in %quot%free flight%quot% at the moment of impact. The impactor shall be released to free flight at such a distance from the vehicle that the test results are not influenced by contact of the impactor with the propulsion system during rebound of the impactor. 
+2.2. The impactor may be propelled by an air, spring or hydraulic gun, or by other means that can be shown to give the same result. 
+3. Specification of the test 
+3.1. The purpose of the test is to ensure that the requirements given in point 3.1.4 of Annex I of the Directive 2003/102/EC are fulfilled. 
+3.2. The adult headform impactor tests shall be to the windscreen. A minimum of five tests shall be carried out with the headform impactor at positions judged to be the most likely to cause injury. 
+The selected test points for the adult headform impactor to the windscreen shall be a minimum of 165 mm apart, a minimum of 82,5 mm inside the windscreen limits as defined in Directive 77/649/EEC and a minimum of 82,5 mm forwards of the rear windscreen reference line as defined in point 2.11.1 of Part I (see Figure 11). 
+These minimum distances are to be set with a flexible tape held tautly along the outer surface of the vehicle. If a number of test positions have been selected in order of potential to cause injury and the test area remaining is too small to select another test position while maintaining the minimum spacing between tests, then less than five tests may be performed. The positions tested by the laboratories shall be indicated in the test report. 
+3.3. Within the area described in point 3.2 all areas are to be considered in the same manner. 
+3.4. Test method 
+3.4.1. Test apparatus 
+3.4.1.1. The adult headform impactor shall be a rigid sphere fitted with a synthetic skin and shall comply with Section 4 of this Chapter, and Figure 12 of this Part. The diameter shall be 165 ± 1 mm as shown in Figure 12. The total impactor mass, including instrumentation, shall be 4,8 ± 0,1 kg. 
+3.4.1.2. One triaxial (or three uniaxial) accelerometer shall be mounted in the centre of the sphere. 
+3.4.1.3. The instrumentation response value CFC, as defined in ISO 6487:2000, shall be 1000. The CAC response value, as defined in ISO 6487:2000, shall be 500 g for the acceleration. 
+3.4.1.4. The headform impactors shall meet the performance requirements specified in Section 4 of Appendix I. The certified impactor may be used for a maximum of 20 impacts before re-certification. The impactor shall be re-certified if more than one year has elapsed since the previous certification or if the transducer output, in any impact, has exceeded the specified CAC. 
+3.4.1.5. The headform impactors shall be mounted, propelled and released as specified in points 2.1 and 2.2. 
+3.4.2. Test procedure 
+3.4.2.1. The state of the vehicle or sub-system shall comply with the requirements of Chapter I of this Part. The stabilised temperature of the test apparatus and the vehicle or sub-system shall be 20 °C ± 4 °C. 
+3.4.2.2. Tests shall be made to the windscreen within the boundaries as defined in point 3.2. 
+3.4.2.3. An adult headform impactor as defined in point 3.4.1 shall be used for tests to the windscreen, with the points of first contact lying between boundaries described in point 3.4.2.2. 
+The direction of impact shall be as specified in point 3.4.2.4 and the impact velocity as specified in point 3.4.2.6. 
+3.4.2.4. The direction of impact shall be in the fore and aft vertical plane of the section of the vehicle to be tested. The tolerance for this direction is ± 2°. The angle of impact shall be 35° ± 2° to the Ground Reference Level. The effect of gravity shall be taken into account when the impact angle is obtained from measurements taken before the time of first contact. 
+3.4.2.5. At the time of first contact, the point of first contact of the headform impactor shall be within a ± 10 mm tolerance to the selected impact location. 
+3.4.2.6. The impact velocity of the headform impactor when striking the windscreen shall be 9,7 ± 0,2 m/s. The effect of gravity shall be taken into account when the impact velocity is obtained from measurements taken before the time of first contact. 
+4. Adult headform inpactor 
+4.1. The adult headform impactor is a sphere made of aluminium and of homogenous construction. 
+4.2. The sphere shall be covered with a 13,9 ± 0,5 mm thick synthetic skin, which shall cover at least half of the sphere. 
+4.3. The centre of gravity of the adult headform impactor, including instrumentation, shall be located in the centre of the sphere with a tolerance of ± 5 mm. The moment of inertia about an axis through the centre of gravity and perpendicular to the direction of impact shall be 0,0125 ± 0,0010 kg/m2. 
+4.4. A recess in the sphere shall allow for mounting one triaxial or three uniaxial accelerometers. The accelerometers shall be positioned according to points 4.4.1 and 4.4.2. 
+4.4.1. One of the accelerometers shall have its sensitive axis perpendicular to the mounting face A (Figure 12) and its seismic mass shall be positioned within a cylindrical tolerance field of 1 mm radius and 20 mm length. The centre line of the tolerance field shall run perpendicular to the mounting face and its mid point shall coincide with the centre of the sphere of the headform impactor. 
+4.4.2. The remaining accelerometers shall have their sensitive axes perpendicular to each other and parallel to the mounting face A and their seismic mass shall be positioned within a spherical tolerance field of 10 mm radius. The centre of the tolerance field shall coincide with the centre of the sphere of the headform impactor. 
+Figure 11 
+Windscreen impact area 
+%gt%PIC FILE= %quot%L_2004031EN.005301.TIF%quot%%gt% 
+Figure 12 
+Adult headform impactor (dimensions in mm) 
+%gt%PIC FILE= %quot%L_2004031EN.005401.TIF%quot%%gt% 
+CHAPTER VII 
+Child and adult headform to bonnet top tests 
+1. Scope 
+This test procedure is applicable to Section 3.2 of Annex I of the Directive 2003/102/EC. 
+2. General 
+2.1. The headform impactors for the bonnet top tests shall be in %quot%free flight%quot% at the moment of impact. The impactors shall be released to free flight at such a distance from the vehicle that the test results are not influenced by contact of the impactors with the propulsion system during rebound of the impactors. 
+2.2. The impactors may be propelled by an air, spring or hydraulic gun, or by other means that can be shown to give the same result. 
+3. Specification of the test 
+3.1. The purpose of the test is to ensure that the requirements given in points 3.2.2 and 3.2.4 of Annex I of the Directive 2003/102/EC are fulfilled. 
+3.2. Headform impactor tests shall be to the bonnet top as defined in point 2.9 of Part I. Tests to the forward section of the bonnet top defined in point 3.4.2.3 shall be with a child headform impactor defined in point 3.4.1.1. Tests to the rearward section of the bonnet top defined in point 3.4.2.4 shall be with an adult headform impactor, defined in point 3.4.1.1. A minimum of nine tests shall be carried out with each headform impactor, three tests each to the middle and the outer thirds of the forward and rearward bonnet top sections, as described in point 2.9.8 of Part I, at positions judged to be the most likely to cause injury. Tests shall be to different types of structure, where these vary throughout the area to be assessed. 
+3.3. The selected test points for the adult headform impactor shall be a minimum of 165 mm apart, a minimum of 82,5 mm inside the defined bonnet side reference lines and a minimum of 82,5 mm forwards of the defined bonnet rear reference line. The test points shall be located so that the impactor is not expected to impact the bonnet top with a glancing blow and then impact the windscreen or an A pillar more severely. The selected test points for the child headform impactor shall be a minimum of 130 mm apart, a minimum of 65 mm inside the defined bonnet side reference lines, a minimum of 65 mm forwards of the defined bonnet rear reference line. Each selected test point for the child headform shall also be a minimum of 130 mm rearwards of the bonnet leading edge reference line, unless no point in the bonnet leading edge test area within 130 mm laterally would, if chosen for an upper legform to bonnet leading edge test, require a kinetic energy of impact of more than 200 J. 
+These minimum distances are to be set with a flexible tape held tautly along the outer surface of the vehicle. If a number of test positions have been selected in order of potential to cause injury and the test area remaining is too small to select another test position while maintaining the minimum spacing between tests, then less than nine tests may be performed. The positions tested by the laboratories shall be indicated in the test report. 
+3.4. Test method 
+3.4.1. Test apparatus 
+3.4.1.1. The adult and child headform impactors shall be rigid spheres fitted with a synthetic skin and shall comply with Section 4 of this Chapter and with Figures 13 and 14 respectively of this Part. Diameters shall be 165 ± 1 mm for the adult headform and 130 ± 1 mm for the child headform respectively, as shown in Figures 13 and 14. The total impactor masses, including instrumentation, shall be 4,8 ± 0,1 kg for the adult headform and 2,5 ± 0,05 kg for the child headform impactor. 
+3.4.1.2. One triaxial (or three uniaxial) accelerometer shall be mounted in the centre of the sphere for both child and adult headform impactors. 
+3.4.1.3. The instrumentation response value CFC, as defined in ISO 6487:2000, shall be 1000. The CAC response value, as defined in ISO 6487:2000, shall be 500 g for the acceleration. 
+3.4.1.4. The headform impactors shall meet the performance requirements specified in Section 4 of Appendix I. The certified impactors may be used for a maximum of 20 impacts before re-certification. The impactors shall be re-certified if more than one year has elapsed since the previous certification or if a transducer output, in any impact, has exceeded the specified CAC. 
+3.4.1.5. The headform impactors shall be mounted, propelled and released as specified in paragraphs 2.1 and 2.2. 
+3.4.2. Test procedure 
+3.4.2.1. The state of the vehicle or subsystem shall comply with the requirements of Chapter I of this Part. The stabilised temperature of the test apparatus and the vehicle or sub-system shall be 20 °C ± 4 °C. 
+3.4.2.2. Tests shall be made to the bonnet top within the boundaries as defined in points 3.2, 3.4.2.3 and 3.4.2.4. 
+For tests at the rear of the bonnet top the headform impactor shall not contact the windscreen or A pillar before impacting the bonnet top. 
+3.4.2.3. A child headform impactor as defined in point 3.4.1 shall be used for tests to the forward section of the bonnet top, with the points of first contact lying between boundaries described by wrap around distances of 1000 mm and 1500 mm or by the bonnet rear reference line as defined in point 2.9.7 of Part I. 
+The direction of impact shall be as specified in point 3.4.2.5 and the impact velocity as specified in point 3.4.2.7. 
+3.4.2.4. An adult headform impactor as defined in point 3.4.1 shall be used for tests to the rearward section of the bonnet top, with the points of first contact lying between boundaries described by wrap around distances of 1500 mm and 2100 mm or by the bonnet rear reference line as defined in point 2.9.7 of Part I. 
+The direction of impact shall be as specified in point 3.4.2.5 and the impact velocity as specified in point 3.4.2.7. 
+3.4.2.5. The direction of impact shall be in the fore and aft vertical plane of the section of the vehicle to be tested. The tolerance for this direction is ± 2°. The direction of impact of tests to the bonnet top shall be downward and rearward, as if the vehicle were on the ground. The angle of impact for tests with the child headform impactor shall be 50° ± 2° to the Ground Reference Level. For tests with the adult headform impactor the angle of impact shall be 65° ± 2° to the Ground Reference Level. The effect of gravity shall be taken into account when the impact angle is obtained from measurements taken before the time of first contact. 
+3.4.2.6. At the time of first contact, the point of first contact of the headform impactor shall be within a ± 10 mm tolerance to the selected impact location. 
+3.4.2.7. The impact velocity of the headform impactors when striking the bonnet top shall be 11,1 ± 0,2 m/s. The effect of gravity shall be taken into account when the impact velocity is obtained from measurements taken before the time of first contact. 
+4. Headform impactors 
+4.1. Adult headform impactor 
+4.1.1. The adult headform impactor is a sphere made of aluminium and of homogenous construction. 
+4.1.2. The sphere shall be covered with a 13,9 ± 0,5 mm thick synthetic skin, which shall cover at least half of the sphere. 
+4.1.3. The centre of gravity of the adult headform impactor, including instrumentation, shall be located in the centre of the sphere with a tolerance of ± 5 mm. The moment of inertia about an axis through the centre of gravity and perpendicular to the direction of impact shall be 0,0125 ± 0,0010 kg/m2. 
+4.1.4. A recess in the sphere shall allow for mounting one triaxial or three uniaxial accelerometers. The accelerometers shall be positioned according points 4.1.4.1 and 4.1.4.2. 
+4.1.4.1. One of the accelerometers shall have its sensitive axis perpendicular to the mounting face A (Figure 13) and its seismic mass shall be positioned within a cylindrical tolerance field of 1 mm radius and 20 mm length. The centre line of the tolerance field shall run perpendicular to the mounting face and its mid point shall coincide with the centre of the sphere of the headform impactor. 
+4.1.4.2. The remaining accelerometers shall have their sensitive axes perpendicular to each other and parallel to the mounting face A and their seismic mass shall be positioned within a spherical tolerance field of 10 mm radius. The centre of the tolerance field shall coincide with the centre of the sphere of the headform impactor. 
+4.2. Child headform impactor 
+4.2.1. The child headform impactor is a sphere made of aluminium and of homogenous construction. 
+4.2.2. The sphere shall be covered with a 11,0 ± 0,5 mm thick synthetic skin, which shall cover at least half of the sphere. 
+4.2.3. The centre of gravity of the child headform impactor, including instrumentation, shall be located in the centre of the sphere with a tolerance of ± 5 mm. The moment of inertia about an axis through the centre of gravity and perpendicular to the direction of impact shall be 0,0036 ± 0,0003 kg/m2. 
+4.2.4. A recess in the sphere shall allow for mounting one triaxial or three uniaxial accelerometers. The accelerometers shall be positioned according to points 4.2.4.1 and 4.2.4.2. 
+4.2.4.1. One of the accelerometers shall have its sensitive axis perpendicular to the mounting face A (Figure 14) and its seismic mass shall be positioned within a cylindrical tolerance field of 1 mm radius and 20 mm length. The centre line of the tolerance field shall run perpendicular to the mounting face and its mid point shall coincide with the centre of the sphere of the headform impactor. 
+4.2.4.2. The remaining accelerometers shall have their sensitive axes perpendicular to each other and parallel to the mounting face A and their seismic mass shall be positioned within a spherical tolerance field of 10 mm radius. The centre of the tolerance field shall coincide with the centre of the sphere of the headform impactor. 
+Figure 13 
+Adult headform impactor (dimensions in mm) 
+%gt%PIC FILE= %quot%L_2004031EN.005701.TIF%quot%%gt% 
+Figure 14 
+Child headform impactor (dimensins in mm) 
+%gt%PIC FILE= %quot%L_2004031EN.005801.TIF%quot%%gt% 
+Appendix I 
+CERTIFICATION OF IMPACTORS 
+1. Certification requirements 
+1.1. The impactors that are used in the tests detailed in Part II are required to comply with appropriate performance requirements. 
+The requirements for the lower legform impactor are specified in Section 2; the upper legform impactor requirements are specified in Section 3 and the adult, child and child/small adult headform impactor requirements are specified in Section 4. 
+2. Lower legform impactor 
+2.1. Static tests 
+2.1.1. The lower legform impactor shall meet the requirements specified in point 2.1.2 when tested as specified in point 2.1.4 and the impactor shall meet the requirements specified in point 2.1.3 when tested as specified in point 2.1.5. 
+For both tests the impactor shall have the intended orientation about its longitudinal axis, for the correct operation of its knee joint, with a tolerance of ± 2°. 
+The stabilised temperature of the impactor during certification shall be 20 °C ± 2 °C. 
+The CAC response values, as defined in ISO 6487:2000, shall be 50° for the knee bending angle and 500 N for the applied force when the impactor is loaded in bending in accordance with point 2.1.4, and 10 mm for the shearing displacement and 10 kN for the applied force when the impactor is loaded in shearing in accordance with point 2.1.5. For both tests low-pass filtering at an appropriate frequency is permitted, to remove higher frequency noise without significantly affecting the measurement of the response of the impactor. 
+2.1.2. When the impactor is loaded in bending in accordance with point 2.1.4, the applied force/bending angle response shall be within the limits shown in Figure 1. Also, the energy taken to generate 15,0° of bending shall be 100 ± 7 J. 
+2.1.3. When the impactor is loaded in shearing in accordance with point 2.1.5, the applied force/shearing displacement response shall be within the limits shown in Figure 2. 
+2.1.4. The legform impactor, without foam covering and skin, shall be mounted with the tibia firmly clamped to a fixed horizontal surface and a metal tube connected firmly to the femur, as shown in Figure 3. To avoid friction errors, no support shall be provided to the femur section or the metal tube. The bending moment applied at the centre of the knee joint, due to the weight of the metal tube and other components (excluding the legform itself), shall not exceed 25 Nm. 
+A horizontal normal force shall be applied to the metal tube at a distance of 2,0 ± 0,01 m from the centre of the knee joint and the resulting angle of knee deflection shall be recorded. The load shall be increased until the angle of deflection of the knee is in excess of 22°. 
+The energy is calculated by integrating the force with respect to the bending angle in radians, and multiplying by the lever length of 2,0 ± 0,01 m. 
+2.1.5. The impactor, without foam covering and skin, shall be mounted with the tibia firmly clamped to a fixed horizontal surface and a metal tube connected firmly to the femur and restrained at 2,0 m from the centre of the knee joint, as shown in Figure 4. 
+A horizontal normal force shall be applied to the femur at a distance of 50 mm from the centre of the knee joint and the resulting knee shearing displacement shall be recorded. The load shall be increased until the shearing displacement of the knee is in excess of 8,0 mm or the load is in excess of 6,0 kN. 
+2.2. Dynamic tests 
+2.2.1. The lower legform impactor shall meet the requirements specified in point 2.2.2 when tested as specified in point 2.2.4. 
+The stabilised temperature of the impactor during certification shall be 20 °C ± 2 °C. 
+2.2.2. When the impactor is impacted by a linearly guided certification impactor, as specified in point 2.2.4, the maximum upper tibia acceleration shall be not less than 120 g and not more than 250 g. The maximum bending angle shall be not less than 6,2° and not more than 8,2°. The maximum shearing displacement shall be not less than 3,5 mm and not more than 6,0 mm. 
+For all these values the readings used shall be from the initial impact with the certification impactor and not from the arresting phase. Any system used to arrest the impactor or certification impactor shall be so arranged that the arresting phase does not overlap in time with the initial impact. The arresting system shall not cause the transducer outputs to exceed the specified CAC. 
+2.2.3. The instrumentation response value CFC, as defined in ISO 6487:2000, shall be 180 for all transducers. The CAC response values, as defined in ISO 6487:2000, shall be 50° for the knee bending angle, 10 mm for the shearing displacement and 500 g for the acceleration. This does not require that the impactor itself be able to physically bend and shear to these angles and displacements. 
+2.2.4 Test procedure 
+2.2.4.1. The impactor, including foam covering and skin, shall be suspended horizontally by three wire ropes of 1,5 ± 0,2 mm diameter and of 2,0 m minimum length, as shown in Figure 5a. It shall be suspended with its longitudinal axis horizontal, with a tolerance of ± 0,5°, and perpendicular to the direction of the certification impactor motion, with a tolerance of ± 2°. The impactor shall have the intended orientation about its longitudinal axis, for the correct operation of its knee joint, with a tolerance of ± 2°. The impactor must meet the requirements of point 3.4.1.1, Chapter II of Part II with the attachment bracket(s) for the wire ropes fitted. 
+2.2.4.2. The certification impactor shall have a mass of 9,0 ± 0,05 kg, this mass includes those propulsion and guidance components which are effectively part of the impactor during impact. The dimensions of the face of the certification impactor shall be as specified in Figure 5b. The face of the certification impactor shall be made of aluminium, with an outer surface finish of better than 2,0 micrometers. 
+The guidance system shall be fitted with low friction guides, insensitive to off-axis loading, that allow the impactor to move only in the specified direction of impact, when in contact with the vehicle. The guides shall prevent motion in other directions including rotation about any axis. 
+2.2.4.3. The impactor shall be certified with previously unused foam. 
+2.2.4.4. The impactor foam shall not be excessively handled or deformed before, during or after fitting. 
+2.2.4.5. The certification impactor shall be propelled horizontally at a velocity of 7,5 ± 0,1 m/s into the stationary impactor as shown in Figure 5a. The certification impactor shall be positioned so that its centreline aligns with a position on the tibia centreline of 50 mm from the centre of the knee, with tolerances of ± 3 mm laterally and ± 3 mm vertically. 
+3. Upper legform impactor 
+3.1. The upper legform impactor shall meet the requirements specified in point 3.2 when tested as specified in point 3.3. 
+The stabilised temperature of the impactor during certification shall be 20 °C ± 2 °C. 
+3.2. Requirements 
+3.2.1. When the impactor is propelled into a stationary cylindrical pendulum the peak force measured in each load transducer shall be not less 1,20 kN and not more than 1,55 kN and the difference between the peak forces measured in the top and bottom load transducers shall not be more than 0,10 kN. Also, the peak bending moment measured by the strain gauges shall not be less than 190 Nm and not more than 250 Nm on the centre position and not less than 160 Nm and not more than 220 Nm for the outer positions. The difference between the upper and lower peak bending moments shall not be more than 20 Nm. 
+For all these values the readings used shall be from the initial impact with the pendulum and not from the arresting phase. Any system used to arrest the impactor or pendulum shall be so arranged that the arresting phase does not overlap in time with the initial impact. The arresting system shall not cause the transducer outputs to exceed the specified CAC. 
+3.2.2. The instrumentation response value CFC, as defined in ISO 6487:2000, shall be 180 for all transducers. The CAC response values, as defined in ISO 6487:2000, shall be 10 kN for the force transducers and 1000 Nm for the bending moment measurements. 
+3.3. Test procedure 
+3.3.1. The impactor shall be mounted to the propulsion and guidance system, by a torque limiting joint. The torque limiting joint shall be set so that the longitudinal axis of the front member is perpendicular to the axis of the guidance system, with a tolerance of ± 2°, with the joint friction torque set to a minimum of 650 Nm. The guidance system shall be fitted with low friction guides that allow the impactor to move only in the specified direction of impact, when in contact with the pendulum. 
+3.3.2. The impactor mass shall be adjusted to give a mass of 12 ± 0,1 kg, this mass includes those propulsion and guidance components which are effectively part of the impactor during impact. 
+3.3.3. The centre of gravity of those parts of the impactor which are effectively forward of the torque limiting joint, including the extra weights fitted, shall lie on the longitudinal centreline of the impactor, with a tolerance of ± 10 mm. 
+3.3.4. The impactor shall be certified with previously unused foam. 
+3.3.5. The impactor foam shall not be excessively handled or deformed before, during or after fitting. 
+3.3.6. The impactor with the front member vertical shall be propelled horizontally at a velocity of 7,1 ± 0,1 m/s into the stationary pendulum as shown in Figure 6. 
+3.3.7. The pendulum tube shall have a mass of 3 ± 0,03 kg, an outside diameter of and a wall thickness of 3 ± 0,15 mm. Total pendulum tube length shall be 275 ± 25 mm. The pendulum tube shall be made from cold finished seamless steel (metal surface plating is permissible for protection from corrosion), with an outer surface finish of better than 2,0 micrometers. It shall be suspended on two wire ropes of 1,5 ± 0,2 mm diameter and of 2,0 m minimum length. The surface of the pendulum shall be clean and dry. The pendulum tube shall be positioned so that the longitudinal axis of the cylinder is perpendicular to the front member (i.e. level), with a tolerance of ± 2°, and to the direction of impactor motion, with a tolerance of ± 2°, and with the centre of the pendulum tube aligned with the centre of the impactor front member, with tolerances of ± 5 mm laterally and ± 5 mm vertically. 
+4. Headform impactors 
+4.1. The child, child/small adult and the adult headform impactors shall meet the requirements specified in point 4.2 when tested as specified in point 4.3. 
+The stabilised temperature of the impactors during certification shall be 20 °C ± 2 °C. 
+4.2. Requirements 
+4.2.1. When the child headform impactor is impacted by a linearly guided certification impactor, as specified in point 4.3, the peak resultant acceleration measured by one triaxial (or three uniaxial) accelerometer in the headform shall be not less than 405 g and not more than 495 g. The resultant acceleration time curve shall be uni-modal. 
+4.2.2. When the child/small adult headform impactor is impacted by a linearly guided certification impactor, as specified in point 4.3, the peak resultant acceleration measured by one triaxial (or three uniaxial) accelerometer in the headform shall be not less than 290 g and not more than 350 g. The resultant acceleration time curve shall be uni-modal. 
+4.2.3. When the adult headform impactor is impacted by a linearly guided certification impactor, as specified in point 4.3, the peak resultant acceleration measured by one triaxial (or three uniaxial) accelerometer in the headform shall be not less than 337,5 g and not more than 412,5 g. The resultant acceleration time curve shall be uni-modal. 
+4.2.4. The instrumentation response value CFC, as defined in ISO 6487:2000, shall be 1000. The CAC response value, as defined in ISO 6487:2000, shall be 1000 g for the acceleration. 
+4.3. Test procedure 
+4.3.1. The headform impactors shall be suspended as shown in Figure 7. The headform impactors shall be suspended with the rear face at an angle between 25° and 90° with the horizontal, as shown in Figure 7. 
+4.3.2. The certification impactor shall have a mass of 1,0 ± 0,01 kg. This mass includes those propulsion and guidance components which are effectively part of the impactor during impact. The linear guidance system shall be fitted with low friction guides which do not contain any rotating parts. The diameter of the flat impactor face shall be 70 ± 1 mm, while the edge shall be rounded by a 5 ± 0,5 mm radius. The face of the certification impactor shall be made of aluminium, with an outer surface finish of better than 2,0 micrometers. 
+4.3.3. The certification impactor shall be propelled horizontally at a velocity of 7,0 ± 0,1 m/s into the stationary child and child/small adult headform impactors and at a velocity of 10,0 ± 0,1 m/s into the stationary adult headform impactor. The certification impactor shall be positioned so that the centre of gravity of the headform impactor is located on the centre line of the certification impactor, with tolerances of ± 5 mm laterally and ± 5 mm vertically. 
+4.3.4. The test shall be performed on three different impact locations on each headform impactor. Previously used and/or damaged skins shall be tested in those specific areas. 
+Table 1: Summary of response requirements for headform impactors 
+%gt%TABLE%gt% 
+Figure 1 
+Force versus angle requirement in static lower legform impactor bending certification test 
+%gt%PIC FILE= %quot%L_2004031EN.006301.TIF%quot%%gt% 
+Figure 2 
+Force versus displacement requirement in static lower legform impactor shearing certification test 
+%gt%PIC FILE= %quot%L_2004031EN.006401.TIF%quot%%gt% 
+Figure 3 
+Top view of test set-up for static lower legform impactor bending certification test 
+%gt%PIC FILE= %quot%L_2004031EN.006501.TIF%quot%%gt% 
+Figure 4 
+Top view of test set-up for static lower legform impactor shearing certification test 
+%gt%PIC FILE= %quot%L_2004031EN.006502.TIF%quot%%gt% 
+Figure 5a 
+Test set-up for dynamic lower legform impactor certification test (side view top diagram, view from above bottom diagram) 
+%gt%PIC FILE= %quot%L_2004031EN.006601.TIF%quot%%gt% 
+Figure 5b 
+Details of dynamic lower legform certification impactor face 
+%gt%PIC FILE= %quot%L_2004031EN.006701.TIF%quot%%gt% 
+Notes: 
+1. Saddle may be made as a complete diameter and cut as shown to make two components. 
+2. The shaded areas may be removed to give the alternative form shown. 
+3. Tolerance on all dimensions is ± 1,0 mm. 
+Material: aluminium alloy 
+Figure 6 
+Test set-up for dynamic upper legform impactor certification test 
+%gt%PIC FILE= %quot%L_2004031EN.006801.TIF%quot%%gt% 
+Figure 7 
+Test set-up for dynamic headform impactor certification test 
+%gt%PIC FILE= %quot%L_2004031EN.006802.TIF%quot%%gt% 

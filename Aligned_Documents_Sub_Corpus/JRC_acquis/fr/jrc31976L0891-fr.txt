@@ -1,0 +1,301 @@
+Directive 76/891/CEE du Conseil, du 4 novembre 1976, concernant le rapprochement des législations des États membres relatives aux compteurs d'énergie électrique 
+DIRECTIVE DU CONSEIL du 4 novembre 1976 concernant le rapprochement des législations des États membres relatives aux compteurs d'énergie électrique (76/891/CEE) 
+LE CONSEIL DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté économique européenne, et notamment son article 100, 
+vu la proposition de la Commission, 
+vu l'avis de l'Assemblée (1), 
+vu l'avis du Comité économique et social (2), 
+considérant que, dans les États membres, la construction ainsi que les modalités de contrôle des compteurs d'énergie électrique font l'objet de dispositions réglementaires impératives qui diffèrent d'un État membre à l'autre et entravent de ce fait les échanges de ces compteurs ; qu'il faut donc procéder au rapprochement de ces dispositions; 
+considérant que la directive 71/316/CEE du Conseil, du 26 juillet 1971, concernant le rapprochement des législations des États membres relatives aux dispositions communes aux instruments de mesurage et aux méthodes de contrôle métrologique (3), modifiée en dernier lieu par la directive 72/427/CEE (4), a défini les procédures d'approbation CEE de modèle et de vérification primitive CEE ; que, conformément à cette directive, il y a lieu de fixer, pour les compteurs d'énergie électrique, les prescriptions techniques de réalisation et de fonctionnement, 
+A ARRÊTÉ LA PRÉSENTE DIRECTIVE: 
+Article premier 
+La présente directive s'applique aux compteurs à induction, d'usage courant, à branchement direct, neufs, à tarif simple ou à tarifs multiples, destinés au mesurage de l'énergie active en courant monophasé et polyphasé de fréquence 50 Hz. 
+Article 2 
+Les compteurs d'énergie électrique qui peuvent recevoir les marques et signes CEE sont décrits en annexe à la présente directive. 
+Ils font l'objet d'une approbation CEE de modèle et sont soumis à la vérification primitive CEE. 
+Article 3 
+Les États membres ne peuvent refuser, interdire ou restreindre la mise sur le marché et la mise en service des compteurs d'énergie électrique munis du signe d'approbation CEE de modèle et de la marque de vérification primitive CEE. 
+Les États membres dans lesquels les erreurs maximales tolérées sont plus petites que celles prévues dans la présente directive pour la vérification primitive CEE peuvent continuer à utiliser de telles erreurs maximales tolérées pendant une période de cinq ans et six mois à compter de la notification de la présente directive. 
+En fonction de l'expérience acquise et des résultats obtenus au niveau international, et au plus tard avant la fin de cette période de cinq ans et six mois, toutes mesures appropriées seront arrêtées conformément à la procédure prévue à l'article 19 de la directive 71/316/CEE. 
+Article 4 
+1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive dans un délai de dix-huit mois suivant sa notification et en informent immédiatement la Commission. 
+2. Les États membres veillent à communiquer à la Commission le texte des dispositions de droit interne qu'ils adoptent dans le domaine régi par la présente directive. 
+Article 5 
+Les États membres sont destinataires de la présente directive. 
+Fait à Bruxelles, le 4 novembre 1976. 
+Par le Conseil 
+Le président 
+Th. E. WESTERTERP (1)JO n ºC 23 du 8.3.1974, p. 51. (2)JO n ºC 101 du 23.11.1973, p. 6. (3)JO nº L 202 du 6.9.1971, p. 1. (4)JO nº L 291 du 28.12.1972, p. 156. 
+ANNEXE CHAPITRE PREMIER - DÉFINITIONS 
+1. DÉFINITION DE CERTAINS TERMES UTILISÉS DANS LA PRÉSENTE ANNEXE 1.1. Grandeur ou facteur d'influence 
+Toute grandeur ou tout facteur, autre que la grandeur mesurée, dont les effets peuvent modifier le résultat de la mesure. 
+1.2. Variation de l'erreur en fonction d'une grandeur d'influence 
+Différence entre les erreurs du compteur lorsqu'une seule grandeur d'influence prend successivement deux valeurs spécifiées. 
+1.3. Valeur de référence d'une grandeur d'influence 
+Valeur de cette grandeur en fonction de laquelle certaines des caractéristiques du compteur sont fixées. 
+1.4. Courant de base (Ib) 
+Valeur du courant en fonction de laquelle les valeurs de certaines caractéristiques du compteur sont fixées. 
+1.5. Courant maximal (Imax) 
+Valeur la plus grande du courant pour laquelle le compteur doit satisfaire aux prescriptions de la présente directive. 
+1.6. Facteur de distorsion 
+Rapport de la valeur efficace du résidu obtenu en retranchant d'une grandeur alternative non sinusoïdale son terme fondamental, à la valeur efficace de la grandeur non sinusoïdale. Le facteur de distorsion est exprimé habituellement en pourcent. 
+1.7. Vitesse de rotation de base 
+Valeur nominale de la vitesse de rotation du rotor, exprimée en tours par minute ; pour les conditions de référence, le courant de base et un facteur de puissance égal à l'unité. 
+1.8. Couple de base 
+Valeur nominale du couple à appliquer au rotor pour le maintenir à l'arrêt ; pour les conditions de référence, le courant de base et un facteur de puissance égal à l'unité. 
+1.9. Modèle 
+Désignation utilisée pour définir l'ensemble des compteurs à tarif simple ou à tarifs multiples, fabriqués par un même constructeur, auxquels correspondent: - des qualités métrologiques similaires, 
+- l'uniformité constructive des pièces déterminant ces qualités, 
+- un même nombre d'ampères-tours des enroulements de courant pour le courant de base et un même nombre de tours par volt des enroulements de tension pour la tension de référence, 
+- un même rapport entre courant maximal et courant de base. 
+Le modèle peut comporter différentes valeurs de courant de base et de tension de référence. 
+Remarques a) Ces compteurs sont désignés, par le constructeur, par une ou plusieurs associations, soit de lettres, soit de chiffres, soit de lettres et de chiffres. À chaque modèle correspond une seule désignation. 
+b) Le modèle est représenté par trois compteurs destinés aux essais d'approbation de modèle et dont les caractéristiques (courant de base et tension de référence) sont choisies parmi celles figurant dans les tableaux proposés par le constructeur (point 6.1.1), par le service de métrologie concerné. 
+c) Dans le cas d'exécutions particulières d'un même modèle, le produit du nombre de tours des enroulements de courant par l'intensité du courant de base peut différer de celui des compteurs représentatifs du modèle. Il y a lieu de choisir le produit immédiatement supérieur ou inférieur pour avoir des nombres entiers de tours. 
+Pour cette raison seulement, le nombre de tours par volt des enroulements de tension peut différer d'une valeur ne dépassant pas de plus de 20 % celui des compteurs représentatifs du modèle. 
+d) Le rapport de la plus grande à la plus petite vitesse de rotation de base du rotor de chacun des compteurs de même modèle ne doit pas dépasser 1,5. 
+CHAPITRE II - PRESCRIPTIONS TECHNIQUES 
+2. PRESCRIPTIONS MÉCANIQUES 2.1. Généralités 
+Les compteurs doivent être conçus et construits de façon à ne présenter aucun danger en service normal et dans les conditions usuelles d'emploi, afin que soient assurées en particulier: - la protection des personnes contre les chocs électriques, 
+- la protection des personnes contre les effets d'une température excessive, 
+- la non-propagation du feu. 
+Toutes les parties exposées à la corrosion dans les conditions usuelles d'emploi doivent être protégées efficacement. Les couches de protection ne doivent pas être susceptibles de subir des dégâts pendant les manipulations normales, ni d'être endommagées par l'exposition à l'air dans les conditions usuelles d'emploi. 
+Le compteur doit avoir une robustesse mécanique suffisante et doit être capable de résister à la température élevée susceptible d'être atteinte dans les conditions usuelles d'emploi. 
+Les éléments doivent être fixés de façon appropriée pour éviter tout relâchement pendant le transport ou en service normal. 
+Les liaisons électriques doivent être établies de telle sorte que le circuit ne puisse être interrompu en aucun cas, y compris toutes conditions de surcharge prescrites dans la présente directive. 
+Le compteur doit être construit de manière à minimiser les risques de court-circuit entre les parties sous tension et les parties conductrices accessibles à la suite d'un relâchement accidentel ou du desserrage d'un enroulement, d'une vis etc. 
+2.2. Boîtier 
+Le boîtier du compteur doit être pratiquement étanche aux poussières. Ce boîtier doit pouvoir être plombé ou scellé de manière que les organes internes du compteur ne puissent être accessibles qu'après enlèvement des scellés. 
+Le couvercle ne doit pas pouvoir être enlevé sans l'aide d'un objet quelconque tel qu'un outil ou une pièce de monnaie. 
+Le boîtier doit être construit et disposé de façon que toute déformation non permanente ne puisse entraver le bon fonctionnement du compteur. 
+Les compteurs destinés à être branchés sur un réseau dont la tension est supérieure à 250 V par rapport à la terre et dont le boîtier comprend des parties métalliques accessibles, doivent être munis d'une borne de protection. Pour ceux dont la tension est inférieure ou égale à 250 V par rapport à la terre et dont le boîtier comprend des parties métalliques accessibles, il doit être possible de fixer une prise de terre. 
+2.3. Fenêtres 
+Si le boîtier du compteur n'est pas transparent, il doit comporter une ou plusieurs fenêtres pour la lecture de l'élément indicateur et l'observation du mouvement du rotor. Ces fenêtres doivent être obturées par des plaques en matière transparente qu'il doit être impossible d'enlever sans rompre les scellés. 
+2.4. Bornes - plaques à bornes 
+Les bornes doivent être groupées dans une ou plusieurs plaques à bornes d'une résistance mécanique suffisante. Elles doivent permettre la fixation de conducteurs rigides ou de câbles. 
+Les bornes de tension doivent pouvoir être facilement déconnectées des bornes d'entrée du courant. 
+Le raccordement des conducteurs aux bornes doit être fait de façon à assurer un contact suffisant et durable, de telle sorte que l'on ne coure pas le risque d'un desserrage ou d'un échauffement exagéré. Les trous qui, dans la matière isolante, sont dans le prolongement des trous des bornes doivent avoir des dimensions suffisantes pour permettre l'introduction facile de l'isolant des conducteurs. 
+Remarque 
+Le matériau dans lequel la plaque à bornes est réalisée doit satisfaire aux essais de la recommandation ISO R 75 (1958) paragraphe 6, pour une température de 135 ºC. 
+2.5. Couvre-bornes 
+Les bornes du compteur doivent être recouvertes par un couvre-bornes qu'il doit être possible de plomber indépendamment du couvercle. 
+Lorsque le compteur est monté sur son tableau, il ne doit pas être possible d'accéder aux bornes sans rompre les scellés du couvre-bornes. En conséquence, le couvre-bornes doit couvrir la plaque à bornes, les vis de serrage des conducteurs dans les bornes et, le cas échéant, une longueur suffisante des conducteurs de branchement et de leur isolant. 
+2.6. Dispositif indicateur 
+Le dispositif indicateur peut être à rouleaux ou à aiguilles. L'unité du dispositif indicateur doit être le kilowatt-heure. 
+Dans les dispositifs indicateurs à rouleaux, l'unité doit être inscrite près de l'ensemble des rouleaux. %gt%PIC FILE= %quot%T0009639%quot%%gt% 
+Le cadran des dispositifs indicateurs à aiguilles ou le rouleau des dispositifs indicateurs à rouleaux, qui indique le dixième des unités de lectrue, doit être encadré en couleur ou coloré. 
+Le dernier cadran, ou le rouleau à rotation continue qui indique les plus faibles valeurs, doit comporter une graduation de cent échelons égaux, ou toute autre disposition assurant une précision de lecture analogue. 
+Le dispositif indicateur doit pouvoir enregistrer, en partant de zéro, pendant un minimum de 1 500 heures, l'énergie correspondant au courant maximal, sous la tension de référence et le facteur de puissance unité. 
+Toutes les indications figurant sur le dispositif indicateur doivent être indélébiles et facilement lisibles. 
+2.7. Sens de rotation du rotor et marques 
+La partie antérieure du rotor, pour un observateur placé devant le compteur et regardant celui-ci, doit se déplacer de la gauche vers la droite. Ce sens doit être indiqué par une flèche fixe, nettement visible et indélébile. 
+La tranche ou la tranche et le dessus du disque doivent porter une marque principale de largeur comprise entre un vingtième et un trentième de la circonférence du disque, pour permettre le comptage du nombre de tours. 
+Le disque peut porter également des marques permettant d'effectuer des essais stroboscopiques ou autres. Ces marques doivent être telles qu'elles ne gênent pas l'emploi de la marque principale lorsqu'elle est utilisée pour le comptage photoélectrique du nombre de tours du disque. 
+3. PRESCRIPTIONS ÉLECTRIQUES 3.1. Consommation des circuits 3.1.1. Circuits de tension 
+La puissance absorbée par chaque circuit de tension pour la tension de référence, la fréquence de référence et la température de référence ne doit pas dépasser 2 W et 8 VA en courant monophasé ainsi que 2 W et 10 VA en courant polyphasé. 
+3.1.2. Circuits de courant 
+Pour des compteurs dont le courant de base est inférieur à 30 A, la puissance apparente absorbée par chaque circuit de courant, pour le courant de base, la fréquence de référence et la température de référence, ne doit pas dépasser 2,5 VA. Pour des courants de base plus élevés, elle ne doit pas dépasser 5 VA. 
+3.2. Échauffement 
+Dans les conditions usuelles d'emploi, les enroulements et les isolants ne doivent pas atteindre une température qui risquerait de perturber le fonctionnement du compteur. %gt%PIC FILE= %quot%T0009597%quot%%gt% 
+De plus, après l'essai, le compteur ne doit présenter aucun dommage et doit satisfaire aux essais à la tension alternative du point 3.3.3. 
+L'échauffement des enroulements doit être déterminé par la méthode de variation de résistance (voir publication 28 de la CEI «Spécification internationale d'un cuivre-type recuit»). 
+Pour la mesure de la résistance du circuit, les connexions d'alimentation du compteur doivent avoir au moins une longueur de 100 cm et une section telle que la densité du courant soit inférieure à 4 A/mm2. La mesure de variation de résistance doit être effectuée au niveau des connexions de la boîte à bornes. 
+3.3. Qualités diélectriques 
+Le compteur et ses dispositifs auxiliaires incorporés, s'il y en a, doivent conserver des qualités diélectriques satisfaisantes dans les conditions usuelles d'emploi, compte tenu des influences atmosphérique et des différentes tensions auxquelles leurs circuits sont soumis en service usuel. 
+En conséquence, le compteur doit supporter sans dommage les essais diélectriques indiqués aux points 3.3.2 et 3.3.3. 
+Ces essais doivent être faits uniquement sur un compteur à l'état neuf, monté, couvercle (à l'exception des cas signalés plus loin) et couvre-bornes en place, les vis de serrage des conducteurs étant dans la position correspondant au serrage du conducteur de plus grande section admissible dans les bornes. 
+L'ensemble de ces essais n'est fait qu'une seule fois sur un même compteur, conformément aux modalités indiquées dans la publication 60 de la CEI «Essais à haute tension (1962)». 
+Note : Lorsque la disposition des bornes d'un compteur diffère de celle du compteur soumis à l'approbation, les essais des qualités diélectriques doivent être effectués à nouveau. 
+Pour ces essais, le terme masse a la signification suivante: a) dans le cas des compteurs à boîtier entièrement métallique, la masse est le boîtier lui-même posé sur une plaque métallique; 
+b) dans la cas des compteurs à boîtier entièrement isolant ou en partie seulement, la masse est une feuille conductrice enveloppant le compteur, connectée elle-même à une plaque métallique plane sur laquelle est posé le socle du compteur à plat. 
+Lorsque le couvre-bornes le permet, la feuille conductrice doit laisser autour des trous de passage des conducteurs de la boîte à bornes une distance de l'ordre de 2 cm. 
+Pour les essais à la tension de choc et à la tension alternative, les circuits qui ne sont pas soumis à la tension d'essai sont connectés, selon le cas, soit au bâti, soit à la masse, comme il est indiqué plus loin. 
+On effectue d'abord les essais à la tension de choc, puis les essais à la tension alternative. 
+Pendant les essais, aucun contournement, amorçage ou perforation ne doit se produire. 
+Après les essais, la variation de l'erreur en pourcentage ne doit pas être supérieure à l'incertitude de mesurage. 
+Par la suite, dans ce point, on désignera par toutes les bornes l'ensemble des bornes des circuits de courant, des circuits de tension et, s'il y en a, des circuits auxiliaires dont la tension de référence est supérieure à 40 V. 3.3.1. Conditions générales pour les essais des qualités diélectriques 
+Les essais doivent être effectués dans les conditions normales d'emploi. Lors de l'essai, la qualité de l'isolation ne doit pas être altérée par la présence de poussière ou d'humidité anormale. 
+Sauf spécifications contraires, les conditions normales pour les essais d'isolement sont: - température ambiante 15 à 25 ºC 
+- humidité relative 45 à 75 % %gt%PIC FILE= %quot%T0009651%quot%%gt% 
+3.3.2. Essais à la tension de choc 
+Les essais à la tension de choc sont prévus pour déterminer l'aptitude du compteur à résister sans dommage aux surtensions de courte durée mais de valeur élevée. 
+Note : Les essais, selon le point 3.3.2.1, ont essentiellement pour but de s'assurer, d'une part, de la qualité de l'isolation des enroulements de tension entre spires ou entre couches et, d'autre part, de l'isolation entre différents circuits du compteur qui sont branchés, en service normal, à des conducteurs de phases différentes du réseau et entre lesquelles des surtensions peuvent apparaître. 
+L'essai du point 3.3.2.2 est destiné à vérifier globalement la tenue de l'isolation de l'ensemble des circuits électriques du compteur par rapport à la masse. Cette isolation représente un facteur essentiel de sécurité pour les personnes en cas de surtension sur le réseau. 
+L'énergie du générateur utilisé pour ces essais doit être choisie conformément aux prescriptions correspondantes de la publication 60 de la CEI. La forme d'onde est celle de la tension de choc normale 1,2/50 et sa valeur de crête est 6 kV. Pour chaque essai, la tension de choc est appliquée dix fois sans inversion de polarité. 3.3.2.1. Essai de l'isolation des circuits de tension et de l'isolation entre circuits 
+L'essai est effectué indépendamment sur chaque circuit (ou ensemble de circuits) qui, en service normal, est isolé par rapport aux autres circuits du compteur. Les bornes des circuits qui ne sont pas soumis à la tension de choc sont reliées à la masse. 
+Ainsi, lorsqu'en service normal la bobine de tension et l'enroulement de courant d'un élément moteur sont connectés ensemble, l'essai est effectué sur cet ensemble. Dans ce cas, l'autre extrémité du circuit de tension est connectée à la masse et la tension de choc est appliquée entre la borne de courant et la masse. 
+Lorsque plusieurs circuits de tension d'un compteur comportent un point commun, ce dernier est connecté à la masse et la tension de choc est appliquée successivement entre chacune des connexions libres (ou le circuit de courant relié à celle-ci) et la masse. 
+Les circuits auxiliaires destinés à être alimentés directement par le réseau ou par les mêmes transformateurs de tension que les circuits du compteur et dont la tension de référence est supérieure à 40 V sont soumis à l'essai à la tension de choc dans les mêmes conditions que celles indiquées ci-dessus pour les circuits de tension. Les autres circuits auxiliaires sont exemptés de cet essai. 
+3.3.2.2. Essai de l'isolation des circuits électriques par rapport à la masse 
+Toutes les bornes des circuits électriques du compteur, à l'exception des circuits auxiliaires dont la tension de référence est inférieure ou égale à 40 V, sont reliées entre elles. 
+Les circuits auxiliaires dont la tension de référence est inférieure ou égale à 40 V sont reliés à la masse. 
+La tension de choc est appliquée entre la masse et l'ensemble des circuits électriques du compteur. 
+3.3.3. Essai à la tension alternative 
+Les essais à la tension alternative doivent être effectués conformément au tableau ci-dessous. 
+La tension d'épreuve doit être pratiquement sinusoïdale, de fréquence 50 Hz et appliquée pendant une minute. 
+La puissance de la source ne doit pas être inférieure à 500 VA. 
+Lors des essais A et B du tableau ci-dessous, les circuits qui ne sont pas soumis à la tension d'épreuve sont reliés au bâti. 
+Lors des essais par rapport à la masse, essais C du tableau ci-dessous, les circuits auxiliaires dont la tension de référence est inférieure ou égale à 40 V sont connectés à la masse. %gt%PIC FILE= %quot%T0009598%quot%%gt% 
+4. INDICATIONS À PORTER SUR LES COMPTEURS 4.1. Plaque signalétique 
+Chaque compteur doit comporter une plaque signalétique qui peut être, soit le cadran du dispositif indicateur, soit une plaque fixée à l'intérieur du compteur. 
+Les indications suivantes doivent y être inscrites, de manière indélébile, facilement lisible et visible de l'extérieur: a) la marque d'identification du constructeur ou sa raison sociale; 
+b) la désignation du modèle; 
+c) le signe de l'approbation CEE de modèle du compteur; 
+d) la désignation du nombre et de la disposition des éléments moteurs, soit sous la forme monophasé deux fils, triphasé quatre fils, etc., soit en utilisant des symboles conformes à une norme harmonisée sur le plan communautaire; 
+e) la tension de référence; 
+f) le courant de base et le courant maximal, sous la forme : 10-40 A ou 10 (40) A; 
+g) la fréquence de référence sous la forme 50 Hz; 
+h) la constante du compteur sous l'une des formes : x Wh/tr ou x tr/kWh 
+i) le numéro du compteur et son année de fabrication; 
+j) la température de référence, si elle diffère de 23 ºC. 
+Le compteur peut, en outre, porter le lieu de fabrication, une désignation commerciale, un numéro d'ordre spécial, le nom du distributeur d'électricité, une marque de conformité à une norme européenne, le numéro qui identifie le schéma de branchement. Sauf autorisation spéciale, toute autre indication ou inscription est interdite. 
+4.2. Schéma de branchement et marquage des bornes 
+Chaque compteur doit être muni d'un schéma de branchement facilement identifiable indiquant la correspondance entre les bornes de raccordement, y compris les bornes des dispositifs auxiliaires, et les diverses phases des conducteurs à raccorder. Le schéma de branchement peut être accompagné d'un numéro porté sur la plaque signalétique. Si les bornes du compteur comportent des marques, celles-ci doivent être reproduites sur le schéma. Il est admis de remplacer les schémas de branchement par un numéro de référence défini dans la norme nationale de l'État membre où sera utilisé le compteur. 
+CHAPITRE III - PRESCRIPTIONS MÉTROLOGIQUES 
+5. PRESCRIPTIONS MÉTROLOGIQUES 5.1. Erreurs maximales tolérées 
+Dans les conditions de référence décrites au point 5.2, les compteurs pour courant monophasé (ci-après dénommés compteurs monophasés) et les compteurs pour courant polyphasé (ci-après dénommés compteurs polyphasés) avec des charges équilibrées ne doivent pas dépasser les erreurs indiquées au tableau I et les compteurs polyphasés avec une seule phase chargée (sous tensions équilibrées) ne doivent pas dépasser les erreurs indiquées au tableau II. 
+TABLEAU I %gt%PIC FILE= %quot%T0009599%quot%%gt% 
+TABLEAU II %gt%PIC FILE= %quot%T0009600%quot%%gt% 
+Au courant de base et avec un facteur de puissance égal à 1, la différence entre l'erreur du compteur avec une seule phase chargée et l'erreur en % avec les charges polyphasées équilibrées ne doit pas excéder 2,5 %. 
+Remarque : La charge monophasée d'un compteur triphasé doit s'entendre comme n'intéressant qu'une seule tension étoilée dans un système à quatre conducteurs (dont un neutre) ou une seule tension composée dans un système à trois conducteurs (sans neutre). Dans tous les cas, le système complet des tensions doit rester appliqué au compteur. 
+5.2. Conditions de référence 
+Les essais pour la détermination des erreurs et des variations d'erreur en fonction des grandeurs d'influence doivent, sauf exception explicitement mentionnée dans cette annexe, être effectués dans les conditions de référence suivantes: a) le compteur doit être fermé, c'est-à-dire muni de son couvercle; 
+b) dans le cas des dispositifs indicateurs à rouleaux, seul le rouleau tournant le plus vite doit être en prise, même s'il n'est pas apparent; 
+c) avant toute mesure, la tension doit avoir été appliquée pendant au moins une heure et les courants de mesure doivent être réglés chacun par valeurs progressivement croissantes ou décroissantes et appliqués pendant un temps suffisant pour que la vitesse de rotation du rotor soit stabilisée; 
+En plus, pour les compteurs polyphasés: 
+d) l'ordre des phases doit correspondre à la séquence directe (comme il est indiqué dans le schéma de branchement); 
+e) les tensions et les courants doivent être pratiquement équilibrés, c'est-à-dire que: - chacune des tensions simples ou composées ne diffère pas de plus de 1 % de la moyenne des tensions correspondantes; 
+- chacun des courants dans les conducteurs ne diffère pas de plus de 2 % de la moyenne de ces courants; 
+- les déphasages présentés par chacun de ces courants avec la tension étoilée correspondante ne diffèrent pas entre eux de plus de 2º quel que soit le facteur de puissance. 
+Les valeurs de référence des grandeurs d'influence sont indiquées au tableau III. 
+TABLEAU III %gt%PIC FILE= %quot%T0009601%quot%%gt% 
+5.3. Effets de grandeurs d'influence 
+Les variations de l'erreur sont déterminées pour chacune des grandeurs d'influence dans les conditions indiquées au tableau IV, toutes les autres conditions du point 5.2 étant respectées. 
+TABLEAU IV %gt%PIC FILE= %quot%T0009602%quot%%gt% 
+%gt%PIC FILE= %quot%T0009603%quot%%gt% 
+5.4. Effet des fortes surintensités de faible durée 
+Le circuit d'essai doit être pratiquement non inductif. Après l'application de l'intensité de courte durée et la tension étant maintenue aux bornes du compteur, on doit laisser celui-ci au repos pendant le temps suffisant pour qu'il puisse retrouver la température initiale (environ une heure). 
+Les compteurs doivent être capables de supporter une impulsion de courant (obtenue, par exemple, par une décharge de condensateur, ou du réseau, par une commande à thyristors) dont la valeur de crête est égale à 50 fois le courant maximal (avec un maximum de 7 000 A) et qui conserve une valeur supérieure à 25 fois le courant maximal (ou 3 500 A) pendant 1 ms. 
+A l'issue de cet essai, la variation de l'erreur ne doit pas être supérieure à 1,5 %, au courant de base et au facteur de puissance unité. 
+5.5. Variation de l'erreur due à l'échauffement propre 
+Le compteur ayant été préalablement maintenu sous tension de référence pendant une heure au moins sans alimentation des circuits de courant, est mis en service sous le courant maximal. 
+L'erreur du compteur est mesurée immédiatement après la mise en service et ensuite à intervalles suffisamment courts afin de permettre un tracé correct de la courbe de variation d'erreur en fonction du temps. 
+L'essai doit être poursuivi au moins pendant une heure et de toute façon jusqu'à ce que la variation relevée sur une durée de 20 minutes ne dépasse pas 0,2 %. 
+La variation de l'erreur à l'échauffement propre, mesurée comme indiqué ci-dessus, ne doit pas dépasser 1 % pour un facteur de puissance égal à 1 et 1,5 % pour le facteur de puissance égal à 0,5. 
+5.6. Marche à vide 
+Dans les conditions du point 5.2, les circuits de courant du compteur étant ouverts, il ne faut pas que le rotor tourne à vide pour une valeur de la tension comprise entre 80 et 110 % de la tension de référence. Le rotor peut tourner légèrement, mais en aucun cas il ne peut effectuer une révolution. Dans le cas d'un dispositif indicateur à rouleaux, cette prescription est valable lorsqu'un seul rouleau est en prise. 
+5.7. Démarrage 
+Dans les conditions indiquées au point 5.2, le compteur, parcouru par un courant égal à 0,5 % du courant de base, avec un facteur de puissance égal à l'unité, doit démarrer nettement et continuer à tourner. On doit vérifier que le rotor fait sûrement un tour complet. 
+Dans le cas d'un dispositif indicateur à rouleaux, cette prescription est valable lorsqu'un ou deux rouleaux sont en prise. 
+5.8. Concordance du dispositif indicateur avec la constante de lecture du compteur 
+Le rapport entre le nombre de tours du rotor et les indications du dispositif indicateur doit être correct. 
+5.9. Marges de réglage 
+Le compteur étant réglé de façon à satisfaire aux présentes prescriptions doit au moins posséder les marges de réglage indiquées ci-dessous: a) Réglage au grand débit: 
+4 % en plus et en moins de la variation de la vitesse du rotor pour un courant égal à la moitié du courant maximal, avec la tension de référence, la fréquence 50 Hz et un facteur de puissance égal à l'unité. 
+b) Réglage à faible charge: 
+4 % en plus et en moins de la variation de la vitesse du rotor, à 5 % du courant de base, avec la fréquence 50 Hz, la tension de référence et un facteur de puissance égal à l'unité. 
+c) Réglage en déphasé (si le compteur comporte un tel dispositif de réglage): 
+1 % en plus et en moins de la variation de vitesse du rotor pour un facteur de puissace égal à 0,5 (inductif) avec un courant égal à la moitié du courant maximal, la fréquence 50 Hz et la tension de référence. 
+CHAPITRE IV - APPROBATION CEE DE MODÈLE 
+L'approbation CEE de modèle des compteurs d'énergie électrique s'effectue selon les prescriptions de la directive 71/316/CEE. Certaines de ses prescriptions sont précisées dans le présent chapitre. 
+6. APPROBATION CEE DE MODÈLE 6.1. Procédure d'approbation de modèle 6.1.1. Documents techniques 
+La demande d'approbation CEE de modèle doit être accompagnée des documents ci-après: - un dessin d'ensemble du compteur et éventuellement une photographie; 
+- une description détaillée de la construction du compteur et de ses principaux éléments (y compris les différentes variantes); 
+- les dessins des éléments principaux suivants (y compris leurs différentes variantes): 
+socle, poignée et points de fixation 
+couvercle 
+plaques à bornes, couvre-bornes 
+système d'entraînement, enroulements et intervalle d'air 
+dispositif de freinage et son réglage 
+dispositifs(s) indicateur(s) 
+rotor 
+paliers supérieur et inférieur du rotor 
+dispositifs de compensation de température 
+dispositifs de compensation de surcharge 
+réglage de la charge inductive 
+réglage en faible charge 
+circuits auxiliaires 
+plaque signalétique; - schéma des connexions internes et externes (y compris les circuits auxiliaires) montrant l'ordre des phases; 
+- tableau de tous les enroulements de tension et de courant, c'est-à-dire le nombre de spires, la dimension des conducteurs et l'isolation; 
+- tableau des constantes et des couples pour toutes les valeurs de tension et de courant; 
+- une notice descriptive ainsi que des plans relatifs aux emplacements prévus pour les marques de vérification et les scellements. 
+6.1.2. Depôt des compteurs échantillons pour l'approbation de modèle 
+La demande d'approbation CEE de modèle doit être accompagnée du dépôt de trois compteurs représentant le modèle [voir point 1.9 sous b]. 
+Le service compétent peut demander le dépôt de compteurs supplémentaires si: - la demande se rapporte non seulement aux trois compteurs visés au premier alinéa, mais aussi à une ou plusieurs variantes de celui-ci (matière constitutive du boîtier, dispositifs éventuels pour tarif multiple, dispositif pour télé-indication, dispositif anti-marche arrière, etc.) pouvant être considérées comme appartenant à un même modèle, notamment lorsque la disposition des bornes est différente; 
+- la demande a pour objet l'extension de l'approbation d'un modèle déjà approuvé. 
+6.2. Examen pour l'approbation CEE de modèle 
+Les compteurs déposés doivent satisfaire aux prescriptions techniques des points 2, 3 et 4 et aux prescriptions métrologiques du point 5. 
+Cependant, pour tenir compte des erreurs possibles des moyens d'étalonnage, il est admis, lors du tracé des courbes d'erreur correspondant aux tableaux I et II, de déplacer l'axe des abscisses, parallèlement à lui-même, d'une valeur ne dépassant pas 1 %, la même pour toutes les courbes. 
+6.3. Points de mesure pour les essais d'approbation CEE de modèle 
+Lors des essais concernant les prescriptions métrologiques du point 5, on doit effectuer les mesures au moins pour les points suivants: - pour tous les compteurs monophasés et les compteurs polyphasés ayant des charges équilibrées, avec un facteur de puissance égal à 1 : 5 %, 10 %, 20 %, 50 % et 100 % de Ib et tout multiple entier de Ib jusqu'à Imax; 
+- pour tous les compteurs monophasés et les compteurs polyphasés ayant des charges équilibrées, avec un facteur de puissance égal à 0,5 (inductif) : 10 %, 20 %, 50 % et 100 % de Ib et tout multiple entier de Ib jusqu'à Imax; 
+- pour les compteurs polyphasés avec une seule phase chargée : 20 %, 50 % et 100 % de Ib, 50 % Imax et Imax avec un facteur de puissance égal à 1, et Ib avec un facteur de puissance égal à 0,5 (inductif). 
+Ces essais sont effectués successivement pour toutes les phases. 
+Les effets des grandeurs d'influence sont examinés pour les points suivants au moins: - l'influence de la température ambiante pour 
+0,1 Ib, Ib et Imax (facteur de puissance égal à 1); 
+0,2 Ib, Ib et Imax (facteur de puissance égal à 0,5 inductif); - l'influence de la position, de la tension, de la fréquence, de la forme d'onde, des inductions magnétiques d'origine extérieure, du champ magnétique d'un accessoire, de la charge mécanique de chaque élément indicateur pour les points et dans les conditions indiquées au tableau IV; 
+- l'influence de l'inversion des phases (compteurs polyphasés) pour 0,5 Ib, Ib et Imax avec charge équilibrée et un facteur de puissance égal à 1,0,5 Ib avec une seule phase chargée et un facteur de puissance égal à 1 (ce dernier essai étant répété pour chacune des phases). 
+Les essais suivants sont en outre effectués: - les essais de surintensité de courte durée, d'échauffement propre, de démarrage et la vérification des marges de réglage sont effectués conformément aux indications des points 5.4, 5.5, 5.7 et 5.9; 
+- l'essai de marche à vide est effectué avec 80 %, 100 % et 110 % de la tension de référence; 
+- l'essai de l'élément indicateur est effectué comme il est précisé au point 5.8. La durée de l'essai doit être suffisante pour que l'incertitude de lecture ne dépasse pas 0,2 % en plus ou en moins. 
+6.4. Certificat d'approbation CEE de modèle 
+Le certificat d'approbation CEE de modèle est accompagné des descriptions, plans et schémas nécessaires pour identifier le modèle et pour expliquer son fonctionnement. 
+CHAPITRE V - VÉRIFICATION PRIMITIVE CEE 
+La vérification primitive CEE des compteurs d'énergie électrique s'effectue conformément aux prescriptions de la directive 71/316/CEE. Ces prescriptions sont complétées par les dispositions particulières suivantes: 
+7. VÉRIFICATION PRIMITIVE CEE 
+La vérification primitive des compteurs d'énergie électrique comporte des essais de réception et des examens de conformité au modèle approuvé. 7.1. Essais de réception 
+Les essais de réception des compteurs garantissent la qualité de ceux-ci en ce qui concerne les points énumérés au point 7.1.1. 7.1.1. Nature des essais de réception (1) - Épreuve de rigidité diélectrique 
+(2) - Vérifications ne nécessitant pas l'ouverture du boîtier 
+(3) - Essai de marche à vide 
+(4) - Essai de démarrage 
+(5 à 10) - Essais d'exactitude 
+(11) - Vérification de la constante 
+Les essais sont à effectuer de préférence dans l'ordre indiqué ci-dessus et détaillés aux points 7.1.2 et 7.1.3. 
+7.1.2. Conditions des essais de réception 
+Les contrôles doivent être effectués sur chaque compteur, boîtier fermé, sauf pour certaines des qualités mécaniques et si nécessaire pour le contrôle du dispositif indicateur. 
+Toutefois, lorsque la vérification primitive a lieu dans les ateliers du constructeur, il peut être admis que les essais soient effectués boîtier ouvert, sous réserve que l'influence du couvercle ait été reconnue préalablement négligeable. Néanmoins, lors du contrôle des qualités diélectriques, les boîtiers doivent être fermés. 
+Après l'épreuve satisfaisante de rigidité diélectrique mais avant tout autre contrôle, les compteurs doivent être alimentés pendant au moins une demi-heure à la tension de référence et avec un courant d'environ 0,1 Ib, à facteur de puissance unité. Cette alimentation permet d'obtenir l'échauffement préalable du circuit de tension et de vérifier que le rotor tourne librement. 
+Les essais nºs 3 à 11 doivent être effectués dans les conditions du tableau III ou du tableau V. 
+TABLEAU V %gt%PIC FILE= %quot%T0009604%quot%%gt% 
+7.1.3. Exécution des essais de réception 
+7.1.3.1. Épreuve de rigidité diélectrique (essai nº 1) 
+L'essai à la tension alternative consiste à appliquer pendant une minute une tension alternative de fréquence 50 Hz et de valeur efficace de 2 kV entre l'ensemble des bornes reliées entre elles et la surface métallique plane sur laquelle est placé le compteur. Pour cet essai, les circuits auxiliaires dont la tension nominale est inférieure ou égale à 40 V sont connectés à la surface métallique plane. 
+Cet essai est effectué par le fabricant sous sa responsabilité et sur chaque appareil. Un contrôle est effectué par le service métrologique compétent. 
+7.1.3.2. Vérifications à effectuer boîtier fermé (essai nº 2) - Bon état apparent du boîtier et de la plaque à bornes 
+- Positionnement correct du cadran 
+- Présence de toutes les indications prescrites. 
+7.1.3.3. Marche à vide (essai nº 3) 
+Le choix entre les deux essais suivants est laissé à la liberté du service métrologique compétent: - le compteur étant alimenté sous la tension de référence, avec un facteur de puissance égal à 1, par un courant égal à 0,001 Ib, le rotor ne fait pas un tour complet. 
+- l'essai est effectué en conformité avec le point 5.6. 
+7.1.3.4. Démarrage (essai nº 4) 
+Si l'essai de marche à vide a été effectué dans les conditions du point 7.1.3.3 premier tiret, l'essai de démarrage doit se faire comme suit: 
+le compteur étant alimenté sous la tension de référence, avec un facteur de puissance égal à 1, par un courant égal à 0,006 Ib, le rotor doit démarrer et faire plus d'un tour. 
+Si l'essai de marche à vide a été effectué dans les conditions du point 7.1.3.3 deuxième tiret, l'essai de démarrage doit être effectué en conformité avec le point 5.7. 
+Note : Pour les compteurs polyphasés, les essais nºs 3 et 4 doivent être effectués toutes phases chargées. 
+7.1.3.5. Essais d'exactitude (essais nºs 5 à 10) 
+Les essais d'exactitude doivent être effectués pour les valeurs de courant et de facteurs de puissance indiquées au tableau VI. Il n'est pas nécessaire à cette fin d'attendre l'équilibre thermique des enroulements. Étant donné qu'en général ces essais ne sont pas effectués dans les conditions qui sont exigées pour l'approbation de modèle, à la place des valeurs contenues dans les tableau I et II, on emploie les valeurs élargies du tableau VI. 
+TABLEAU VI %gt%PIC FILE= %quot%T0009605%quot%%gt% 
+Note : Pour les compteurs à tarif multiple, l'essai nº 5 doit être refait pour les indications correspondant à chacun des tarifs, l'alimentation du (ou des) électro-aimant(s), change-tarifs étant effectuée conformément aux indications du schéma de branchement. 
+Les limites d'erreurs admissibles ne doivent pas être exploitées systématiquement dans le même sens. 
+7.1.3.6. Contrôle de la concordance du dispositif indicateur avec la constante du compteur (essai nº 11) 
+Il faut s'assurer que le rapport entre le nombre de tours du rotor et les indications du ou des dispositif(s) indicateur(s) est correct. 
+7.1.3.7. Incertitude de mesurage 
+Les qualités des appareils de mesure et des autres appareillages utilisés pour effectuer les essais nºs 5 à 10 et, le cas échéant, nº 11 doivent être telles que les erreurs de mesurage qui leur sont imputables ne dépassent pas en valeur relative: - 0,4 % en plus ou en moins avec un facteur de puissance égal à 1, 
+- 0,6 % en plus ou en moins avec un facteur de puissance égal à 0,5 (inductif) 
+7.2. Examen de conformité au modèle approuvé 7.2.1. Nature de l'examen de conformité au modèle approuvé 
+Afin de déterminer si les qualités métrologiques des compteurs fabriqués et présentés à la vérification primitive sont restées conformes aux prescriptions de la présente directive, il peut être procédé, avec une périodicité déterminée par le service métrologique compétent, à un examen de conformité au modèle approuvé, mené sur trois compteurs choisis au hasard après les essais de réception. 
+Cet examen consiste en un ou plusieurs essais choisis parmi ceux qui sont décrits par la présente directive (points 3 et 5), en particulier parmi ceux qui permettent de déterminer les effets des grandeurs d'influence. 
+Ces essais devront être effectués dans les conditions de référence décrites au point 5.2 sur les points de mesure indiqués au point 6.3. 
+On peut également vérifier, après ouverture du boîtier, les points suivants: - qualité de protection de surface, par exemple des peintures; 
+- rapport d'engrenages; 
+- qualité d'engrènement de l'élément indicateur; 
+- qualité des soudures; 
+- serrage des vis; 
+- absence de limaille et de poussière métallique; 
+- marges de réglage (examen visuel). 
+Remarque 
+Lorsque les compteurs d'un modèle donné sont fabriqués de manière continue, il est souhaitable que la périodicité de l'examen de conformité au modèle approuvé soit en rapport avec le rapport de la production. 
+De plus, cette procédure doit être appliquée chaque fois que des défauts paraissant systématiques sont décelés au cours des essais de réception ou lors d'autres essais. 
+7.3. Marques de vérification et de scellement 
+Les compteurs qui auront subi avec succès les épreuves de la vérification primitive reçoivent les marques de la vérification primitive CEE. 
+Les scellés doivent comporter les marques de la vérification primitive CEE et être apposés de manière qu'il soit impossible d'avoir accès au mécanisme interne du compteur sans briser les scellés portant les marques de la vérification primitive CEE. 

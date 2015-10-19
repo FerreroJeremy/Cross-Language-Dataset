@@ -1,0 +1,54 @@
+Commission Directive 2003/76/EC of 11 August 2003 amending Council Directive 70/220/EEC relating to measures to be taken against air pollution by emissions from motor vehicles (Text with EEA relevance) 
+Commission Directive 2003/76/EC 
+of 11 August 2003 
+amending Council Directive 70/220/EEC relating to measures to be taken against air pollution by emissions from motor vehicles 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers(1), as last amended by Regulation (EC) No 807/2003(2), and in particular Article 13(2) thereof, 
+Having regard to Council Directive 70/220/EEC of 20 March 1970 on the approximation of the laws of the Member States on measures to be taken against air pollution by emissions from motor vehicles(3), as last amended by Commission Directive 2002/80/EC(4), and in particular Article 5 thereof, 
+Whereas: 
+(1) Directive 70/220/EEC is one of the separate directives for the purposes of the EC type-approval procedure established by Directive 70/156/EEC. 
+(2) Directive 70/220/EEC, as amended by Directive 2002/80/EC, introduced specific requirements relating to the type-approval of bi-fuelled and mono-fuelled gas vehicles with respect to on-board diagnostic (OBD) systems. It also made provision for the type-approval, for a limited period of time, of gas-fuelled vehicle OBD systems containing minor deficiencies. It is necessary to complement those provisions with additional technical measures covering the transmission of diagnostic signals in order to prevent a barrier to trade arising as a result of certain recently developed gas vehicle OBD technologies that comply in all other respects with the requirements of Directive 70/220/EEC. 
+(3) Directive 70/220/EEC, as amended by Directive 2002/80/EC, also introduced specific requirements relating to the EC-type-approval of replacement catalytic converters. Those requirements should be adjusted so that a replacement catalytic converter can be type-approved as a separate technical unit on the ground that it is of the same type as an original equipment catalytic converter or an original replacement catalytic converter for which type-approval has already been granted. 
+(4) Directive 70/220/EEC should therefore be amended accordingly. 
+(5) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress established by Directive 70/156/EEC, 
+HAS ADOPTED THIS DIRECTIVE: 
+Article 1 
+Annexes XI and XIII to Directive 70/220/EEC are amended in accordance with the Annex to this Directive. 
+Article 2 
+1. Member States shall adopt and publish, by 4 September 2004 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive. 
+They shall apply those provisions from 4 September 2004. 
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive. 
+Article 3 
+This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union. 
+Article 4 
+This Directive is addressed to the Member States. 
+Done at Brussels, 11 August 2003. 
+For the Commission 
+Erkki Liikanen 
+Member of the Commission 
+(1) OJ L 42, 23.2.1970, p. 1. 
+(2) OJ L 122, 16.5.2003, p. 36. 
+(3) OJ L 76, 6.4.1970, p. 1. 
+(4) OJ L 291, 28.10.2002, p. 20. 
+ANNEX 
+Annexes XI and XIII to Directive 70/220/EEC are amended as follows: 
+A. Annex XI is amended as follows: 
+1. Section 3.3.3.4 is replaced by the following: 
+%quot%3.3.3.4. If active on the selected fuel, other emission control system components or systems, or emission-related powertrain components or systems which are connected to a computer, the failure of which may result in tailpipe emissions exceeding the limits given in 3.3.2;%quot%. 
+2. Section 4.5.2 is replaced by the following: 
+%quot%4.5.2. Notwithstanding the requirements of section 6.6 of Appendix 1 to this Annex, and where requested by the manufacturer, the type-approval authority shall accept the following deficiencies as meeting the requirements of this Annex for the evaluation and transmission of diagnostic signals: 
+- transmission of the diagnostic signals for the fuel currently in use on a single source address, 
+- evaluation of one set of diagnostic signals for both fuel types (corresponding to the evaluation on mono-fuelled gas vehicles, and independent of the fuel currently in use), 
+- selection of one set of diagnostic signals (associated to one of the two fuel types) by the position of a fuel switch, 
+- evaluation and transmission of one set of diagnostic signals for both fuels in the petrol computer independent of the fuel in use. The gas supply system computer will evaluate and transmit the gaseous fuel system related diagnostic signals and store fuel status history. 
+Further options may be requested by the manufacturer and granted at the discretion of the type-approval authority.%quot%. 
+3. In Appendix 1, section 6.6 is replaced by the following: 
+%quot%6.6. Specific requirements regarding the transmission of diagnostic signals from bi-fuelled gas vehicles 
+6.6.1. For bi-fuelled gas vehicles where the specific signals of the different fuels systems are stored in the same computer, the diagnostic signals for the operation on petrol and for the operation on gas shall be evaluated and transmitted independently of each other. 
+6.6.2. For bi-fuelled gas vehicles where the specific signals of the different fuel systems are stored in separate computers, the diagnostic signals for the operation on petrol and for the operation on gas shall be evaluated and transmitted from the computer specific to the fuel. 
+6.6.3. On a request from a diagnostic tool, the diagnostic signals for the vehicle operating on petrol shall be transmitted on one source address and the diagnostic signals for the vehicle operating on gas shall be transmitted on another source address. The use of source addresses is described in ISO DIS 15031-5 'Road vehicles - communication between vehicles and external test equipment for emissions-related diagnostics - Part 5: Emissions-related diagnostic services', dated 1 November 2001.%quot%. 
+B. In Annex XIII, the following section 4.4 is added: 
+%quot%4.4. If the applicant for type-approval is able to demonstrate to the type-approval authority or technical service that the replacement catalytic converter is of a type indicated in section 1.10 of the Appendix to Annex X to this Directive, the granting of a type-approval certificate shall not be dependent on verification of compliance with the requirements specified in section 6.%quot%. 

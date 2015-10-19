@@ -1,0 +1,58 @@
+2002/38/EC: Commission Decision of 27 December 2001 setting out the survey parameters and laying down the code and standard rules for the transcription, in machine-readable form, of the data relating to the surveys on plantations of certain species of fruit trees (notified under document number C(2001) 4626) 
+Commission Decision 
+of 27 December 2001 
+setting out the survey parameters and laying down the code and standard rules for the transcription, in machine-readable form, of the data relating to the surveys on plantations of certain species of fruit trees 
+(notified under document number C(2001) 4626) 
+(2002/38/EC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Directive 76/625/EEC, of 20 July 1976, concerning the statistical surveys to be carried out by the Member States in order to determine the production potential of plantations of certain species of fruit trees(1), and in particular Article 4(2) and (4) thereof, 
+Whereas: 
+(1) The equipment which the Commission has to analyse the survey results on plantations of certain species of fruit trees and the need to use this equipment in a rational way requires that the machine-readable media compatible with this equipment be specified and that a standard format be prescribed for the transcription of data in machine-readable form. 
+(2) In certain production areas there are homogeneous climatic and agronomic conditions corresponding to fairly considerable uniformity of fruit yields per hectare; the use of the survey results for each of these production areas increases the accuracy of the medium-term estimates of production; the limits of these production areas will be set out. 
+(3) It is necessary to survey the technical characteristics which are likely to be changed, in order to ensure that the statistics are constantly adapted to economic conditions. 
+(4) The measures provided for in this Decision are in line with the opinion of the Standing Committee on Agricultural Statistics, instituted by Council Decision 72/279/EEC(2), 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+The limits of the production areas to be set and their respective codes are set out in Annex I to this Decision. 
+Article 2 
+The statistical classes on the age of the trees planted referred to in Article 2(1)(B) of Directive 76/625/EEC are listed in Annex II to this Decision. 
+Article 3 
+The species of fruit and the varieties referred to in Article 2(1)(A) of Directive 76/625/EEC are listed in Annex III to this Decision. 
+Article 4 
+The statistical classes for the net area planted, the number of trees and the density of plantation referred to in Article 2(1)(C) of Directive 76/625/EEC are listed in Annex IV to this Decision. 
+Article 5 
+The codes for the transcription, on computer or multimedia medium, of the data referred to in Article 4 of Directive 76/625/EEC must conform to the description given in Annex V to this Decision. 
+Article 6 
+This Decision is addressed to the Member States. 
+Done at Brussels, 27 December 2001. 
+For the Commission 
+Pedro Solbes Mira 
+Member of the Commission 
+(1) OJ L 218, 11.8.1976, p. 10. 
+(2) OJ L 179, 7.8.1972, p. 1. 
+ANNEX I 
+Limits of production areas (where appropriate, by species) together with their codes 
+%gt%TABLE%gt% 
+ANNEX II 
+Age classes of plantations of certain species of fruit trees 
+The age classes(1) are defined as follows: 
+%gt%TABLE%gt% 
+The area of each age class is given in ares. 
+(1) The date of grafting has no influence on the age of the trees. 
+ANNEX III 
+Codes per species and variety to be applied when transmitting to the Commission the results of the statistical surveys on the plantations of certain species of fruit trees 
+%gt%TABLE%gt% 
+ANNEX IV 
+Classes of density of plantation of certain species of fruit trees 
+%gt%TABLE%gt% 
+ANNEX V 
+Computer specifications 
+1. The information recorded in accordance with the characteristics referred to in Article 2 of Directive 76/625/EEC must be communicated to the Commission on computer or multimedia medium, in accordance with the following procedure: 
+2. The information shall reproduce the results of the survey, but shall not relate to individual holdings; 
+3. Data shall be recorded in TXT format with fixed-length entries (58 characters); 
+4. Structure of entry 
+Each entry shall consist of the following 12 fields: 
+%gt%TABLE%gt% 
+The information entered is to be lined up on the right of each field. The coding for the first five fields is given in the special provisions of this Annex as are the six seven-digit fields, containing the area in ares in each of the six age classes. 
+5. Member States shall specify, in their transmission documents, the number of species and the number of varieties for each species. 

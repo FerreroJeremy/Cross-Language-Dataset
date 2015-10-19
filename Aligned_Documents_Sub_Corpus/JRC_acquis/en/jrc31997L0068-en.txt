@@ -1,0 +1,1684 @@
+Directive 97/68/EC of the European Parliament and of the Council of 16 December 1997 on the approximation of the laws of the Member States relating to measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery 
+DIRECTIVE 97/68/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 1997 on the approximation of the laws of the Member States relating to measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery 
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof, 
+Having regard to the proposal from the Commission (1), 
+Having regard to the opinion of the Economic and Social Committee (2), 
+Acting in accordance with the procedure laid down in Article 189b of the Treaty (3), in the light of the joint text approved by the Conciliation Committee on 11 November 1997, 
+(1) Whereas the Community programme of policy and action in relation to the environment and sustainable development (4) recognizes as a fundamental principle that all persons should be effectively protected against recognized health risks from air pollution and that this necessitates in particular the control of emissions of nitrogen dioxide (NO2), particulates (PT) - black smoke, and other pollutants such as carbon monoxide (CO); whereas with regard to the prevention of tropospheric ozone (O3) formation and its associated health and environmental impact, the emissions of the precursors nitrogenoxides (NOx) and hydrocarbons (HC) must be reduced; whereas the environmental damage caused by acidification will also require reductions inter alia on the emission of NOx and HC; 
+(2) Whereas the Community signed the UN/ECE protocol on volatile organic compound (VOC) reduction in April 1992 and adhered to the protocol on NOx reduction in December 1993, both of which are related to the 1979 Convention on Long-range Transboundary Air Pollution which was approved in July 1982; 
+(3) Whereas the objective of reducing the level of pollutant emissions from non-road mobile machinery engines and the establishment and operation of the internal market for engines and machinery cannot be sufficiently achieved by individual Member States, and can therefore be better achieved by the approximation of the laws of the Member States relating to measures against air pollution by engines to be installed in non-road mobile machinery; 
+(4) Whereas recent investigations undertaken by the Commission show that the emissions from non-road mobile machinery engines constitute a significant proportion of the total man-made emissions of certain noxious atmospheric pollutants; whereas the category of compression ignition engines which will be regulated by this Directive is responsible for a considerable share of air pollution by NOx and PT, in particular when it is compared with that coming from the road transport sector; 
+(5) Whereas emissions from non-road mobile machinery operating on the ground equipped with compression ignition engines, and in particular the emissions of NOx and PT, constitute a primary cause of concern in this area; whereas these sources should be regulated in the first instance; whereas, however, it will also be appropriate subsequently to extend the scope of this Directive to include the control of emissions from other non-road mobile machinery engines, including transportable generating sets, based on appropriate test cycles, and in particular from gasoline engines; whereas a considerable reduction of the CO and HC emissions may be achievable with the envisaged enlargement of the scope of this Directive to include gasoline engines; 
+(6) Whereas emissions control legislation on agricultural and forestry tractor engines, ensuring a level of environmental protection equivalent to the level established pursuant to this Directive, with standards and requirements fully consistent with it, should be introduced as soon as possible; 
+(7) Whereas, in respect of certification procedures, that type-approval approach has been taken which, as a European method, has stood the test of time for approvals of road vehicles and their components; whereas, as a new element, the approval of a parent engine on behalf of a group of engines (engine family) built using similar components according to similar construction principles, has been introduced; 
+(8) Whereas the engines produced in compliance with the requirements of this Directive will have to be accordingly marked and notified to the approval authorities; whereas, in order to keep administrative burdens low, no direct control by the authority of the engine production dates relevant for strengthened requirements has been foreseen; whereas this freedom for the manufacturers requires them to facilitate the preparation of spot checks by the authority and to make available relevant production planning information at regular intervals; whereas absolute compliance with notification made in accordance with this procedure is not obligatory but a high degree of compliance would facilitate the approval authorities' planning of assessments and contribute to a relationship of increased trust between manufacturers and type-approval authorities; 
+(9) Whereas approvals granted in accordance with Directive 88/77/EEC (5) and with UN/ECE Regulation 49 Series 02, as listed in Annex IV, Appendix II to Directive 92/53/EEC (6) are recognized as equivalent to those required by this Directive in its first stage; 
+(10) Whereas engines which are in compliance with the requirements of this Directive and covered by its scope must be permitted to be placed on the market in the Member States; whereas these engines must not be subject to any other national emission requirement; whereas the Member State granting approvals will take the necessary control measures; 
+(11) Whereas, in laying down the new test procedures and limit values, it is necessary to take into account the specific usage patterns of these types of engines; 
+(12) Whereas it is appropriate to introduce these new standards according to the proven principle of a two-stage approach; 
+(13) Whereas, for engines with higher power output, the achievement of substantial emission reduction seems to be easier, as existing technology that has been developed for engines of road vehicles can be used; whereas, taking this into account a staggered implementation of the requirements has been foreseen, beginning with the highest of three powerbands for stage I; whereas this principle has been retained for stage II with the exception of a new fourth powerband not covered by stage I; 
+(14) Whereas for this sector of non-road mobile machinery applications, which is now regulated and is the most important one besides agricultural tractors if compared with emissions coming from road transport, a considerable reduction of emissions can be expected by the implementation of this Directive; whereas due to, in general, very good performance of diesel engines with respect to CO and HC emissions, the margin for improvement in respect of the total amount emitted is very small; 
+(15) Whereas, in order to make provision for the case of exceptional technical or economic circumstances, procedures have been integrated which could exempt manufacturers from the obligations arising from this Directive; 
+(16) Whereas, in order to ensure 'conformity of production`(COP) once an approval is granted for an engine, manufacturers will be required to provide corresponding arrangements; whereas provisions have been made for the case of discovered non-conformity which lay down information procedures, corrective actions and a cooperation procedure which will allow the settling of possible differences of opinion between Member States in respect of conformity of certified engines; 
+(17) Whereas the entitlement of Member States to lay down requirements ensuring that workers are protected when using non-road mobile machinery shall not be affected by this Directive; 
+(18) Whereas the technical provisions in certain Annexes to this Directive should be supplemented and, as necessary, adapted to technical progress according to a committee procedure; 
+(19) Whereas provisions should be laid down to ensure testing of the engines in compliance with the rules of good laboratory practice; 
+(20) Whereas there is a need to promote global trade in this sector by harmonizing, as far as possible, emission standards in the Community with those applied or planned in third countries; 
+(21) Whereas it is therefore necessary to envisage the possibility of reconsidering the situation on the basis of the availability and the economic feasibility of new technologies and taking account of progress achieved in the implementation of the second stage; 
+(22) Whereas an agreement on a modus vivendi between the European Parliament, the Council and the Commission concerning the implementing measures for acts adopted in accordance with the procedure laid down in Article 189b of the Treaty was reached on 20 December 1994 (7), 
+HAVE ADOPTED THIS DIRECTIVE: 
+Article 1 Objectives 
+This Directive aims at approximating the laws of the Member States relating to emission standards and type-approval procedures for engines to be installed in non-road mobile machinery. It will contribute to the smooth functioning of the internal market, while protecting human health and the environment. 
+Article 2 Definitions 
+For the purposes of this Directive: 
+- non-road mobile machinery shall mean any mobile machine, transportable industrial equipment or vehicle with or without body work, not intended for the use of passenger- or goods-transport on the road, in which an internal combustion engine as specified in Annex I section 1 is installed, 
+- type-approval shall mean the procedure whereby a Member State certifies that an internal combustion engine type or engine family with regard to the level of emission of gaseous and particulate pollutants by the engine(s), satisfies the relevant technical requirements of this Directive, 
+- engine type shall mean a category of engines which do not differ in such essential engine characteristics as specified in Annex II, Appendix 1, 
+- engine family shall mean a manufacturer's grouping of engines which, through their design, are expected to have similar exhaust emission characteristics and which comply with the requirements of this Directive, 
+- parent engine shall mean an engine selected from an engine family in such a way that it complies with the requirements set out in sections 6 and 7 of Annex I, 
+- engine power output shall mean net power as specified in section 2.4 of Annex I, 
+- engine production date shall mean the date when the engine passes the final check after it has left the production line. At this stage the engine is ready to be delivered or to be put on stock, 
+- placing on the market small mean the action of making available on the Community market, for payment or free of charge, a product covered by this Directive, with a view to distribution and/or use in the Community, 
+- manufacturer shall mean the person or body who is responsible to the approval authority for all aspects of the type-approval process and for ensuring conformity of production. It is not essential that the person or body is directly involved in all stages of the construction of the engine, 
+- approval authority shall mean a Member State's competent authority or authorities responsible for all aspects of type-approval of an engine or of an engine family, for issuing and withdrawing approval certificates, for serving as the contact point with the approval authorities of the other Member States, and for verifying the manufacturer's conformity of production arrangements, 
+- technical service shall mean the organization(s) or body(ies) that has(have) been appointed as a testing laboratory to carry out tests or inspections on behalf of the approval authority of a Member State. This function may also be carried out by the approval authority itself, 
+- information document shall mean the document set out in Annex II that prescribes the information to be supplied by an applicant, 
+- information folder shall mean the total folder or file of data, drawings, photographs, etc. supplied by the applicant to the technical service or the approval authority as prescribed in the information document, 
+- information package shall mean the information folder plus any test reports or other documents that the technical service or the approval authority have added to the information folder in the course of carrying out their functions, 
+- index to the information package shall mean the document in which the contents of the information package, suitably numbered or otherwise marked to clearly identify all pages, are listed. 
+Article 3 Application for type-approval 
+1. Application for engine or engine family type-approval shall be submitted by the manufacturer to the approval authority of a Member State. An application shall be accompanied by an information folder, the contents of which are given in the information document in Annex II. An engine conforming to the engine type characteristics described in Annex II, Appendix 1, shall be submitted to the technical service responsible for conducting the approval tests. 
+2. In the case of an application for type-approval of an engine family, if the approval authority determines that, with regard to the selected parent engine, the submitted application does not fully represent the engine family described in Annex II, Appendix 2, an alternative and, if necessary, an additional parent engine which is determined by the approval authority shall be provided for approval according to paragraph 1. 
+3. No application in respect of one engine type or engine family may be submitted to more than one Member State. A separate application shall be submitted for each engine type or engine family to be approved. 
+Article 4 Type-approval procedure 
+1. The Member State receiving the application shall grant type-approval to all engine types or engine families which conform to the particulars in the information folder and which meet the requirements of this Directive. 
+2. The Member State shall complete all applicable sections of the type-approval certificate, the model being given in Annex VI, for each engine type or engine family which it approves and shall compile or verify the contents of the index to the information package. Type-approval certificates shall be numbered in accordance with the method described in Annex VII. The completed type-approval certificate and its attachments shall be delivered to the applicant. 
+3. Where the engine to be approved fulfils its function or offers a specific feature only in conjunction with other parts of the non-road mobile machinery, and for this reason compliance with one or more requirements can be verified only when the engine to be approved operates in conjunction with other machinery parts, whether real or simulated, the scope of the type-approval of the engine(s) must be restricted accordingly. The type-approval certificate for an engine type or engine family shall then include any restrictions on its use and shall indicate any conditions for fitting it. 
+4. The approval authority of each Member State shall: 
+(a) send monthly to the approval authorities of the other Member States a list (containing the particulars shown in Annex VIII) of the engine and engine family type-approvals it has granted, refused to grant or withdrawn during that month; 
+(b) on receiving a request from the approval authority of another Member State, send forthwith: 
+- a copy of the engine or engine family type-approval certificate with/without information package for each engine type or engine family which it has approved or refused to approve or withdrawn, and/or 
+- the list of engines produced according to type-approvals granted, as described in Article 6(3), containing the particulars shown in Annex IX, and/or 
+- a copy of the declaration described in Article 6(4). 
+5. The approval authority of each Member State shall yearly, or in addition on receiving a corresponding application, send the Commission a copy of the data sheet as shown in Annex X related to the engines approved since the last notification was made. 
+Article 5 Amendments to approvals 
+1. The Member State which has granted type-approval must take the necessary measures to ensure that it is informed of any change in the particulars appearing in the information package. 
+2. The application for the amendment or extension of a type-approval shall be submitted exclusively to the approval authority of the Member State which granted the original type-approval. 
+3. If particulars appearing in the information package have changed, the approval authority of the Member State in question shall: 
+- issue revised page(s) of the information package as necessary, marking each revised page to show clearly the nature of the change and the date of re-issue. Wherever revised pages are issued the index to the information package (which is attached to the type-approval certificate) shall also be amended to show the latest dates of revised pages, and 
+- issue a revised type-approval certificate (denoted by an extension number) if any information on it (excluding its attachments) has changed or if the standards of this Directive have changed since the date currently on the approval. The revised certificate shall show clearly the reason for revision and the date of re-issue. 
+If the approval authority of the Member State in question finds that an amendment to an information package warrants fresh tests or checks, it shall inform the manufacturer thereof and issue the documents mentioned above only after the conduct of successful fresh tests or checks. 
+Article 6 Conformity 
+1. The manufacturer shall affix to each unit manufactured in conformity with the approved type the markings as defined in section 3 of Annex I, including the type-approval number. 
+2. Where the type-approval certificate, in accordance with Article 4(3), includes restrictions on use, the manufacturer shall deliver with each unit manufactured, detailed information on these restrictions and shall indicate any conditions for fitting it. Where a series of engine types is delivered to one single manufacturer of machinery, it is sufficient that he will be provided with only one such information document, at the latest on the delivery date of the first engine, which additionally lists the relevant engine identification numbers. 
+3. The manufacturer shall send on demand to the approval authority which granted the type-approval, within 45 days after the end of each calendar year, and without delay after each application date when the requirements of this Directive change, and immediately following each additional date the authority may stipulate, a list which contains the range of identification numbers for each engine type produced in accordance with the requirements of this Directive since the last reporting was made, or since the requirements of this Directive were first applicable. Where not clarified by the engine coding system, this list must specify correlations of the identification numbers to the corresponding engine types or engine families and to the type-approval numbers. Additionally, this list must contain particular information if the manufacturer ceases to produce an approved engine type or engine family. Where this list is not required to be regularly sent to the approval authority, the manufacturer must maintain these records for a minimum period of 20 years. 
+4. The manufacturer shall send to the approval authority which granted the type-approval, within 45 days after the end of each calendar year and at each application date referred to in Article 9, a declaration specifying the engine types and engine families together with the relevant engine identification codes for those engines he intends to produce from this date on. 
+Article 7 Acceptance of equivalent approvals 
+1. The European Parliament and the Council, acting on a proposal from the Commission, may acknowledge the equivalence between the conditions and provisions for type-approval of engines established by this Directive and the procedures established by international regulations or regulations of third countries, in the framework of multilateral or bilateral agreements between the Community and third countries. 
+2. Type-approvals according to Directive 88/77/EEC which are in compliance with stages A or B, provided for in Article 2 and section 6.2.1 of Annex I to Directive 91/542/EEC (8), and, where applicable, the pertaining approval marks shall be accepted for stage I provided for in Article 9(2) of this Directive. This validity shall be terminated with effect from the mandatory implementation of stage II provided for in Article 9(3) of this Directive. 
+Article 8 Registration and placing on the market 
+1. Member States may not refuse registration, where applicable, or placing on the market of new engines, whether or not already installed in machinery, which meet the requirements of this Directive. 
+2. Member States shall only permit registration, where applicable, or placing on the market of new engines, whether or not already installed in machinery, which meet the requirements of this Directive. 
+3. The approval authority of a Member State granting a type-approval shall take the necessary measures in relation to that approval to register and control, if need be in cooperation with the approval authorities of the other Member States, the identification numbers of those engines produced in conformity with the requirements of this Directive. 
+4. An additional control of the identification numbers may take place in conjunction with the control of conformity of production as described in Article 11. 
+5. With regard to the control of the identification numbers, the manufacturer or his agents established in the Community shall without delay give, on request, to the responsible approval authority all the information needed related to his/their purchasers together with the identification numbers of the engines reported as produced in accordance with Article 6(3). Where engines are sold to a manufacturer of machinery, further information is not required. 
+6. If, at the request of the approval authority, the manufacturer is not able to verify the requirements as specified in Article 6 particularly in conjunction with paragraph 5 of this Article, the approval granted in respect of the corresponding engine type or family pursuant to this Directive may be withdrawn. The information procedure shall then be carried out as described in Article 12(4). 
+Article 9 Timetable 
+1. GRANT OF TYPE-APPROVALS 
+After 30 June 1998, Member States may not refuse to grant type-approval for an engine type or engine family or to issue the document as described in Annex VI, and may not impose any other type-approval requirements with regard to air-polluting emissions for non-road mobile machinery in which an engine is installed, if the engine meets the requirements specified in this Directive as regards the emissions of gaseous and particulate pollutants. 
+2. TYPE-APPROVALS STAGE I 
+(ENGINE CATEGORIES A/B/C) 
+Member States shall refuse to grant type-approval for an engine type or engine family and to issue the document as described in Annex VI, and shall refuse to grant any other type-approval for non-road mobile machinery in which an engine is installed: 
+after 30 June 1998 for engines of a power output: 
+%gt%TABLE%gt% 
+if the engine fails to meet the requirements specified in this Directive and where the emissions of gaseous and particulate pollutants from the engine do not comply with the limit values as set out in the table in section 4.2.1 of Annex I. 
+3. TYPE-APPROVALS STAGE II 
+(ENGINE CATEGORIES: D, E, F, G) 
+Member States shall refuse to grant type-approval for an engine type or engine family and to issue the document as described in Annex VI, and shall refuse to grant any other type-approval for non-road mobile machinery in which an engine is installed: 
+%gt%TABLE%gt% 
+if the engine fails to meet the requirements specified in this Directive and where the emissions of gaseous and particulate pollutants from the engine do not comply with the limit values as set out in the table in section 4.2.3. of Annex I. 
+4. REGISTRATION AND PLACING ON THE MARKET: ENGINE PRODUCTION DATES 
+After the dates referred to hereafter, with the exception of machinery and engines intended for export to third countries, Member States shall permit the registration, where applicable, and placing on the market of new engines, whether or not already installed in machinery, only if they meet the requirements of this Directive, and only if the engine is approved in compliance with one of the categories as defined in paragraphs 2 and 3. 
+%gt%TABLE%gt% 
+Nevertheless, for each category, Member States may postpone each date mentioned in the above requirement for two years in respect of engines with a production date prior to the said date. 
+The permission granted for stage I-engines shall be terminated with effect from the mandatory implementation of stage II. 
+Article 10 Exemptions and alternative procedures 
+1. The requirements of Article 8(1) and (2) and of Article 9(4) do not apply to: 
+- engines for use by the armed services, 
+- engines exempted in accordance with paragraph 2. 
+2. Each Member State may, at the request of the manufacturer, exempt end-of-series engines which are still in stock, or stocks of non-road mobile machinery in respect of their engines, from the time limit(s) for placing on the market set out in Article 9(4) in accordance with the following conditions: 
+- the manufacturer must submit an application to the approval authorities of that Member State which approved the corresponding engine type(s) or engine family(ies) before the entry into force of the time limit(s), 
+- the application of the manufacturer must include a list as defined in Article 6(3) of those new engines which are not placed on the market within the time limit(s); in the case of engines covered by this Directive for the first time, he must submit his application to the type-approval authority of that Member State where the engines are stored, 
+- the request must specify the technical and/or economic reasons on which it is based, 
+- the engines must conform to a type or family for which the type-approval is no longer valid, or which did not need a type-approval before, but which have been produced according to the time limit(s), 
+- the engines must have been physically stored within the Community within the time limit(s), 
+- the maximum number of new engines of one or more types placed on the market in each Member State by the application of this exemption must not exceed 10 % of the new engines of all types concerned placed on the market in that Member State during the previous year, 
+- if the request is accepted by the Member State, the latter must, within one month, send the approval authorities of the other Member States particulars of, and reasons for, the exemptions granted to the manufacturer, 
+- the Member State granting exemptions according to this Article shall be responsible for ensuring that the manufacturer complies with all corresponding obligations, 
+- the approval authority shall release for each engine in question a certificate of conformity on which a special entry has been made. If applicable a consolidated document that contains all engine identification numbers in question may be used, 
+- Member States shall each year send the Commission a list of exemptions granted specifying the reasons. 
+This option shall be limited to a period of 12 months as from the date on which the engines for the first time were subject to the time limit(s) for placing on the market. 
+Article 11 Conformity of production arrangements 
+1. The Member State granting a type-approval shall take the necessary measures to verify, with regard to the specifications laid down in section 5 of Annex I, if need be in cooperation with the approval authorities of the other Member States, that adequate arrangements have been made to ensure effective control of the conformity of production before it grants type-approval. 
+2. The Member State which has granted a type-approval shall take the necessary measures to verify, with regard to the specifications laid down in section 5 of Annex I, if need be in cooperation with the approval authorities of the other Member States, that the arrangements referred to in paragraph 1 continue to be adequate and that each production engine bearing a type-approval number pursuant to this Directive continues to conform to the description as given in the approval certificate and its Annexes for the approved engine type or family. 
+Article 12 Non-conformity with the approved type or family 
+1. There shall be failure to conform to the approved type or family where deviations from the particulars in the type-approval certificate and/or the information package are found to exist and where these deviations have not been authorized, pursuant to Article 5(3), by the Member State which granted the type-approval. 
+2. If a Member State which has granted type-approval finds that engines accompanied by a certificate of conformity or bearing an approval mark do not conform to the type or family it has approved, it shall take the necessary measures to ensure that the engines in production again conform to the approved type or family. The approval authorities of that Member State shall advise those of the other Member States of the measures taken which may, where necessary, extend to withdrawal of type-approval. 
+3. If a Member State demonstrates that engines bearing a type-approval number do not conform to the approved type or family it may request the Member State which granted the type-approval to verify that engines in production conform to the approved type or family. Such action shall be taken within six months of the date of the request. 
+4. The approval authorities of the Member States shall inform each other within one month of any withdrawal of type-approval and of the reasons for such measure. 
+5. If the Member State which granted type-approval disputes the failure to conform notified to it, the Member States concerned shall endeavour to settle the dispute. The Commission shall be kept informed and shall, where necessary, hold appropriate consultations for the purpose of reaching a settlement. 
+Article 13 Worker protection requirements 
+The provisions of this Directive shall not affect Member States' entitlement to lay down, in due observance of the Treaty, such requirements as they may deem necessary to ensure that workers are protected when using the machinery referred to in this Directive, provided that this does not affect the placing on the market of the engines in question. 
+Article 14 Adaptation to technical progress 
+Any amendments which are necessary in order to adapt the Annexes to this Directive, with exemption of the requirements specified in section 1, sections 2.1 to 2.8 and section 4 of Annex I, to take account of technical progress shall be adopted by the Commission assisted by the Committee established in accordance with Article 13 of Directive 92/53/EEC and in accordance with the procedure laid down in Article 15 of this Directive. 
+Article 15 Committee procedure 
+1. The representative of the Commission shall submit to the committee a draft of the measures to be taken. The committee shall deliver its opinion on the draft within a time limit which the chairman may lay down according to the urgency of the matter. The opinion shall be delivered by the majority laid down in Article 148(2) of the Treaty in the case of decisions which the Council is required to adopt on a proposal from the Commission. The votes of the representatives of the Member States within the committee shall be weighted in the manner set out in that Article. The chairman shall not vote. 
+2. (a) The Commission shall adopt measures which shall apply immediately. 
+(b) However, if the measures envisaged are not in accordance with the opinion of the committee, they shall be communicated by the Commission to the Council forthwith. In that event: 
+- the Commission shall defer application of the measures which it has decided for a period not exceeding three months from the date of the communication, 
+- the Council, acting by a qualified majority, may take a different decision within the time limit referred to in the first indent. 
+Article 16 Approval authorities and technical services 
+The Member States shall notify to the Commission and to the other Member States the names and addresses of the approval authorities and technical services that are responsible for the purposes of this Directive. The notified services must satisfy the requirements as laid down in Article 14 of Directive 92/53/EEC. 
+Article 17 Transposal into national law 
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 30 June 1998. They shall forthwith inform the Commission thereof. 
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by Member States. 
+2. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field governed by this Directive. 
+Article 18 Entry into force 
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities. 
+Article 19 Further reduction in emission limit values 
+The European Parliament and the Council shall decide, by the end of the year 2000 on a proposal which the Commission will submit before the end of 1999, on a further reduction in emission limit values, taking into account the global availability of techniques for controlling air-polluting emissions from compression ignition engines and the air quality situation. 
+Article 20 Addressees 
+This Directive is addressed to the Member States. 
+Done at Brussels, 16 December 1997. 
+For the European Parliament 
+The President 
+J. M. GIL-ROBLES 
+For the Council 
+The President 
+J. LAHURE 
+(1) OJ C 328, 7.12.1995, p. 1. 
+(2) OJ C 153, 28.3.1996, p. 2. 
+(3) Opinion of the European Parliament of 25 October 1995 (OJ C 308, 20.11.1995, p. 29), Council common position of 20 January 1997 (OJ C 123, 21.4.1997, p. 1) and Decision of the European Parliament of 13 May 1997, (OJ C 167, 2.7.1997, p. 22). Council Decision of 4 December 1997 and Decision of the European Parliament of 16 December 1997. 
+(4) Resolution of the Council and the representatives of the Governments of the Member States, meeting within the Council of 1 February 1993 (OJ C 138, 17.5.1993, p. 1). 
+(5) Council Directive 88/77/EEC of 3 December 1987 on the approximation of the laws of the Member States relating to the measures to be taken against the emission of gaseous pollutants from diesel engines for use in vehicles (OJ L 36, 9.2.1988, p. 33). Directive as last amended by Directive 96/1/EC (OJ L 40, 17.2.1996, p. 1). 
+(6) Council Directive 92/53/EEC of 18 June 1992 amending Directive 70/156/EEC on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (OJ L 225, 10.8.1992, p. 1). 
+(7) OJ C 102, 4.4.1996, p. 1. 
+(8) OJ L 295, 25.10.1991, p. 1. 
+ANNEX I 
+SCOPE, DEFINITIONS, SYMBOLS AND ABBREVIATIONS, ENGINE MARKINGS, SPECIFICATIONS AND TESTS, SPECIFICATION OF CONFORMITY OF PRODUCTION ASSESSMENTS, PARAMETERS DEFINING THE ENGINE FAMILY, CHOICE OF THE PARENT ENGINE 
+1. SCOPE 
+This Directive applies to engines to be installed in non-road mobile machinery. 
+This Directive does not apply to engines for the propulsion of: 
+- vehicles as defined by Directive 70/156/EEC (1), and by Directive 92/61/EEC (2), 
+- agricultural tractors as defined by Directive 74/150/EEC (3). 
+Additionally, in order to be covered by this Directive, the engines have to be installed in machinery which meets the following specific requirements: 
+A. intended and suited, to move, or to be moved on the ground, with or without road, and with a C.I. engine having a net power in accordance with section 2.4 that is higher than 18 kW but not more than 560 kW (4) and that is operated under intermittent speed rather than a single constant speed. 
+Machinery, the engines of which are covered under this definition, includes but is not limited to: 
+- industrial drilling rigs, compressors, etc., 
+- construction equipment including wheel loaders, bulldozers, crawler tractors, crawler loaders, truck-type loaders, off-highway trucks, hydraulic excavators, etc., 
+- agricultural equipment, rotary tillers, 
+- forestry equipment, 
+- self-propelled agricultural vehicles (except tractors as defined above), 
+- material handling equipment, 
+- fork-lift trucks, 
+- road maintenance equipment (motor graders, road rollers, asphalt finishers), 
+- snow-plough equipment, 
+- ground support equipment in airports, 
+- aerial lifts, 
+- mobile cranes. 
+This Directive is not applicable for the following applications: 
+B. ships 
+C. railway locomotives 
+D. aircrafts 
+E. generating sets 
+2. DEFINITIONS, SYMBOLS AND ABBREVIATIONS 
+For the purpose of this Directive, 
+2.1. compression ignition (C.I.) engine shall mean an engine which works on the compression-ignition principle (e.g. diesel engine); 
+2.2. gaseous pollutants shall mean carbon monoxide, hydrocarbons (assuming a ratio of C1 : H1.85) and oxides of nitrogen, the last named being expressed in nitrogen dioxide (NO2) equivalent; 
+2.3. particulate pollutants shall mean any material collected on a specified filter medium after diluting C.I. engine exhaust gas with clean filtered air so that the temperature does not exceed 325 K (52 °C); 
+2.4. net power shall mean the power in 'EEC kW` obtained on the test bench at the end of the crankshaft, or its equivalent, measured in accordance with the EEC method of measuring the power of internal combustion engines for road vehicles as set out in Directive 80/1269/EEC (5), except that the power of the engine cooling fan is excluded (6) and the test conditions and reference fuel specified in this Directive are adhered to; 
+2.5. rated speed shall mean the maximum full load speed allowed by the governor as specified by the manufacturer; 
+2.6. per cent load shall mean the fraction of the maximum available torque at an engine speed; 
+2.7. maximum torque speed shall mean the engine speed at which the maximum torque is obtained from the engine, as specified by the manufacturer; 
+2.8. intermediate speed shall mean that engine speed which meets one of the following requirements: 
+- for engines which are designed to operate over a speed range on a full load torque curve, the intermediate speed shall be the declared maximum torque speed if it occurs between 60 % and 75 % of rated speed, 
+- if the declared maximum torque speed is less than 60 % of rated speed, then the intermediate speed shall be 60 % of the rated speed, 
+- if the declared maximum torque speed is greater than 75 % of the rated speed then the intermediate speed shall be 75 % of rated speed. 
+2.9. Symbols and abbreviations 
+2.9.1. %gt%TABLE%gt% 
+2.9.2. %gt%TABLE%gt% 
+2.9.3. %gt%TABLE%gt% 
+3. ENGINE MARKINGS 
+3.1. The engine approved as a technical unit must bear: 
+3.1.1. the trade mark or trade name of the manufacturer of the engine; 
+3.1.2. the engine type, engine family (if applicable), and a unique engine identification number; 
+3.1.3. the EC type-approval number as described in Annex VII. 
+3.2. These marks must be durable for the useful life of the engine and must be clearly legible and indelible. If labels or plates are used, they must be attached in such a manner that in addition the fixing is durable for the useful life of the engine, and the labels/plates cannot be removed without destroying or defacing them. 
+3.3. These marks must be secured to an engine part necessary for normal engine operation and not normally requiring replacement during engine life. 
+3.3.1. These marks must be located so as to be readily visible to the average person after the engine has been completed with all the auxiliaries necessary for engine operation. 
+3.3.2. Each engine must be provided with a supplementary movable plate in a durable material, which must bear all data indicated under section 3.1, to be positioned, if necessary, in order to make the marks referred to under section 3.1 readily visible to the average person and easily accessible when the engine is installed in a machine. 
+3.4. The coding of the engines in context with the identification numbers must be such that it allows for the indubitable determination of the sequence of production. 
+3.5. Before leaving the production line the engines must bear all markings. 
+3.6. The exact location of the engine markings shall be declared in Annex VI, Section 1. 
+4. SPECIFICATIONS AND TESTS 
+4.1. General 
+The components liable to affect the emission of gaseous and particulate pollutants shall be so designed, constructed and assembled as to enable the engine, in normal use, despite the vibrations to which it may be subjected, to comply with the provisions of this Directive. 
+The technical measures taken by the manufacturer must be such as to ensure that the mentioned emissions are effectively limited, pursuant to this Directive, throughout the normal life of the engine and under normal conditions of use. These provisions are deemed to be met if the provisions of sections 4.2.1, 4.2.3 and 5.3.2.1 are respectively complied with. 
+If a catalytic converter and/or a particulates trap is used the manufacturer must prove by durability tests, which he himself may carry out in accordance with good engineering practice, and by corresponding records, that these after-treatment devices can be expected to function properly for the lifetime of the engine. The records must be produced in compliance with the requirements of section 5.2 and in particular with section 5.2.3. A corresponding warranty must be guaranteed to the customer. Systematic replacement of the device, after a certain running time of the engine, is permissible. Any adjustment, repair, disassembly, cleaning, or replacement of engine components or systems which is performed on a periodic basis to prevent malfunction of the engine in context with the after-treatment device, shall only be done to the extent that is technologically necessary to assure proper functioning of the emission control system. Accordingly scheduled maintenance requirements must be included in the customer's manual, and be covered by the warranty provisions mentioned above, and be approved before an approval is granted. The corresponding extract from the manual with respect to maintenance/replacements of the treatment device(s), and to the warranty conditions, must be included in the information document as set out in Annex II to this Directive. 
+4.2. Specifications concerning the emissions of pollutants 
+The gaseous and particulate components emitted by the engine submitted for testing shall be measured by the methods described in Annex V. 
+Other systems or analysers may be accepted if they yield equivalent results to the following reference systems: 
+- for gaseous emissions measured in the raw exhaust, the system shown in Figure 2 of Annex V, 
+- for gaseous emissions measured in the dilute exhaust of a full flow dilution system, the system shown in Figure 3 of Annex V, 
+- for particulate emissions, the full flow dilution system, operating either with a separate filter for each mode or with the single filter method, shown in Figure 13 of Annex V. 
+The determination of system equivalency shall be based on a seven-test cycle (or larger) correlation study between the system under consideration and one or more of the above reference systems. 
+The equivalency criterion is defined as a ± 5 % agreement of the averages of the weighted cycle emissions values. The cycle to be used shall be that given in Annex III, section 3.6.1. 
+For introduction of a new system into the Directive the determination of equivalency shall be based upon the calculation of repeatability and reproducibility, as described in ISO 5725. 
+4.2.1. The emissions of the carbon monoxide, the emissions of hydrocarbons, the emissions of the oxides of nitrogen and the emissions of particulates obtained shall for stage I not exceed the amount shown in the table below: 
+%gt%TABLE%gt% 
+4.2.2. The emission limits given in point 4.2.1 are engine-out limits and shall be achieved before any exhaust after-treatment device. 
+4.2.3. The emissions of the carbon monoxide, the emissions of hydrocarbons, the emissions of the oxides of nitrogen and the emissions of particulates obtained shall for stage II not exceed amounts shown in the table below: 
+%gt%TABLE%gt% 
+4.2.4. Where, as defined according to Section 6 in conjunction with Annex II, Appendix 2, one engine family covers more than one power band, the emission values of the parent engine (type approval) and of all engine types within the same family (COP) must meet the more stringent requirements of the higher power band. The applicant has the free choice to restrict the definition of engine families to single power bands, and to correspondingly apply for certification. 
+4.3. Installation on the mobile machinery 
+The engine installation on the mobile machinery shall comply with the restrictions set out in the scope of the type-approval. Additionally the following characteristics in respect to the approval of the engine always must be met: 
+4.3.1. intake depression shall not exceed that specified for the approved engine in Annex II, Appendix 1 or 3 respectively; 
+4.3.2. exhaust back pressure shall not exceed that specified for the approved engine in Annex II, Appendix 1 or 3 respectively. 
+5. SPECIFICATION OF CONFORMITY OF PRODUCTION ASSESSMENTS 
+5.1. With regard to the verification of the existence of satisfactory arrangements and procedures for ensuring effective control of production conformity before granting type-approval, the approval authority must also accept the manufacturer's registration to harmonized standard EN 29002 (whose scope covers the engines concerned) or an equivalent accreditation standard as satisfying the requirements. The manufacturer must provide details of the registration and undertake to inform the approval authority of any revisions to its validity or scope. In order to verify that the requirements of section 4.2 are continuously met, suitable controls of the production shall be carried out. 
+5.2. The holder of the approval shall in particular: 
+5.2.1. ensure existence of procedures for the effective control of the quality of the product; 
+5.2.2. have access to the control equipment necessary for checking the conformity to each approved type; 
+5.2.3. ensure that data of test results are recorded and that annexed documents shall remain available for a period to be determined in accordance with the approval authority; 
+5.2.4. analyse the results of each type of test, in order to verify and ensure the stability of the engine characteristics, making allowance for variations in the industrial production process; 
+5.2.5. ensure that any sampling of engines or components giving evidence of non-conformity with the type of test considered shall give rise to another sampling and another test. All the necessary steps shall be taken to re-establish the conformity of the corresponding production. 
+5.3. The competent authority which has granted approval may at any time verify the conformity control methods applicable to each production unit. 
+5.3.1. In every inspection, the test books and production survey record shall be presented to the visiting inspector. 
+5.3.2. When the quality level appears unsatisfactory or when it seems necessary to verify the validity of the data presented in application of section 4.2, the following procedure is adopted: 
+5.3.2.1. an engine is taken from the series and subjected to the test described in Annex III. The emissions of the carbon monoxide, the emissions of the hydrocarbons, the emissions of the oxides of nitrogen and the emissions of particulates obtained shall not exceed the amounts shown in the table in section 4.2.1, subject to the requirements of section 4.2.2, or those shown in the table in section 4.2.3 respectively; 
+5.3.2.2. if the engine taken from the series does not satisfy the requirements of section 5.3.2.1 the manufacturer may ask for measurements to be performed on a sample of engines of the same specification taken from the series and including the engine originally taken. The manufacturer shall determine the size n of the sample in agreement with the technical service. Engines other than the engine originally taken shall be subjected to a test. The arithmetical mean (%gt%START OF GRAPHIC%gt% 
+%gt%END OF GRAPHIC%gt% 
+) of the results obtained with the sample shall then be determined for each pollutant. The production of the series shall then be deemed to confirm if the following condition is met: 
+%gt%START OF GRAPHIC%gt% 
+%gt%END OF GRAPHIC%gt% 
++ k 7 St %amp%le; L (7) 
+where: 
+L is the limit value laid down in section 4.2.1/4.2.3 for each pollutant considered, 
+k is a statistical factor depending on n and given in the following table: 
+%gt%TABLE%gt% 
+if n %amp%ge; 20, k = %gt%NUM%gt%0,860 
+%gt%DEN%gt%%amp%radic;n 
+5.3.3. The approval authority or the technical service responsible for verifying the conformity of production shall carry out tests on engines which have been run-in partially or completely, according to the manufacturer's specifications. 
+5.3.4. The normal frequency of inspections authorized by the competent authority shall be one per year. If the requirements of section 5.3.2 are not met, the competent authority shall ensure that all necessary steps are taken to re-establish the conformity of production as rapidly as possible. 
+6. PARAMETERS DEFINING THE ENGINE FAMILY 
+The engine family may be defined by basic design parameters which must be common to engines within the family. In some cases there may be interaction of parameters. These effects must also be taken into consideration to ensure that only engines with similar exhaust emission characteristics are included within an engine family. 
+In order that engines may be considered to belong to the same engine family, the following list of basic parameters must be common: 
+6.1. Combustion cycle: 
+- 2 cycle 
+- 4 cycle 
+6.2. Cooling medium: 
+- air 
+- water 
+- oil 
+6.3. Individual cylinder displacement: 
+- engines to be within a total spread of 15 % 
+- number of cylinders for engines with after-treatment device 
+6.4. Method of air aspiration: 
+- naturally aspirated 
+- pressure charged 
+6.5. Combustion chamber type/design: 
+- pre-chamber 
+- swirl chamber 
+- open chamber 
+6.6. Valve and porting - configuration, size and number: 
+- cylinder head 
+- cylinder wall 
+- crankcase 
+6.7. Fuel system: 
+- pump-line-injector 
+- in-line pump 
+- distributor pump 
+- single element 
+- unit injector 
+6.8. Miscellaneous features: 
+- exhaust gas recirculation 
+- water injection/emulsion 
+- air injection 
+- charge cooling system 
+6.9. Exhaust after-treatment 
+- oxidation catalyst 
+- reduction catalyst 
+- thermal reactor 
+- particulates trap 
+7. CHOICE OF THE PARENT ENGINE 
+7.1. The parent engine of the family shall be selected using the primary criteria of the highest fuel delivery per stroke at the declared maximum torque speed. In the event that two or more engines share this primary criteria, the parent engine shall be selected using the secondary criteria of highest fuel delivery per stroke at rated speed. Under certain circumstances, the approval authority may conclude that the worst case emission rate of the family can best be characterized by testing a second engine. Thus, the approval authority may select an additional engine for test based upon features which indicate that it may have the highest emission levels of the engines within that family. 
+7.2. If engines within the family incorporate other variable features which could be considered to affect exhaust emissions, these features must also be identified and taken into account in the selection of the parent engine. 
+(1) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Directive 93/81/EEC (OJ L 264, 23.10.1993, p. 49). 
+(2) OJ L 225, 10.8.1992, p. 72. 
+(3) OJ L 84, 28.3.1974, p. 10. Directive as last amended by Directive 88/297/EEC (OJ L 126, 20.5.1988, p. 52). 
+(4) An approval granted in accordance with Regulation 49 of the Economic Commission for Europe, series of amendments 02, corrigenda 1/2 shall be deemed to be equivalent to an approval granted in accordance with Directive 88/77/EEC (see Directive 92/53/EEC, Annex IV, section II). 
+(5) OJ L 375, 31.12.1980, p. 46. Directive as last amended by Directive 89/491/EEC (OJ L 238, 15.8.1989, p. 43). 
+(6) This means that, contrary to the requirements of section 5.1.1.1 of Annex I to Directive 80/1269/EEC, the engine cooling fan must not be installed during the test for the check of the engine net power; if on the contrary the manufacturer carries out the test with the fan installed on the engine, the power absorbed by the fan itself must be summed up to the power so measured. 
+(7) St² = Ó %gt%NUM%gt%(x - %gt%START OF GRAPHIC%gt% 
+%gt%END OF GRAPHIC%gt% 
+)² 
+%gt%DEN%gt%n - 1 
+where x is any one of the individual results obtained with the sample n. 
+ANNEX II 
+INFORMATION DOCUMENT No. . . . relating to type-approval and referring to measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery (Directive 97/68/EC as last amended by Directive . ./. . ./EC) 
+%gt%START OF GRAPHIC%gt% 
+Parent engine/engine type (1): . 
+0 General 
+0.1. Make (name of undertaking): . 
+0.2. Type and commercial description of the parent- and (if applicable) of the family engine(s) (1): 
+. 
+0.3. Manufacturer's type coding as marked on the engine(s) (1): . 
+. 
+0.4. Specification of machinery to be propelled by the engine (2): . 
+. 
+0.5. Name and address of manufacturer: . 
+Name and address of manufacturer's authorized representative (if any): . 
+. 
+0.6. Location, coding and method of affixing of the engine identification number: . 
+. 
+0.7. Location and method of affixing of the EC approval mark: . 
+. 
+0.8. Address(es) of assembly plant(s): . 
+Attachments 
+1.1. Essential characteristics of the parent engine(s) (see Appendix 1) 
+1.2. Essential characteristics of the engine family (see Appendix 2) 
+1.3. Essential characteristics of engine types within the family (see Appendix 3) 
+2. Characteristics of engine-related parts of the mobile machinery (if applicable) 
+3. Photographs of the parent engine 
+4. List further attachments if any 
+Date, file 
+(1) Delete as appropriate.(2) As defined in Annex I, section 1 (e. g. 'A'). 
+%gt%END OF GRAPHIC%gt% 
+Appendix 1 
+ESSENTIAL CHARACTERISTICS OF THE (PARENT) ENGINE (1) 
+%gt%START OF GRAPHIC%gt% 
+1. DESCRIPTION OF ENGINE 
+1.1. Manufacturer: . 
+1.2. Manufacturer's engine code: . 
+1.3. Cycle: four stroke/two stroke (2) 
+1.4. Bore: . mm 
+1.5. Stroke: . mm 
+1.6. Number and layout of cylinders: . 
+1.7. Engine capacity: . cm3 
+1.8. Rated speed: . 
+1.9. Maximum torque speed: . 
+1.10. Volumetric compression ratio (3): . 
+1.11. Combustion system description: . 
+1.12. Drawing(s) of combustion chamber and piston crown . 
+1.13. Minimum cross sectional area of inlet and outlet ports: . 
+1.14. Cooling system 
+1.14.1. Liquid 
+1.14.1.1. Nature of liquid: . 
+1.14.1.2. Circulating pump(s): yes/no (2) 
+1.14.1.3. Characteristics or make(s) and type(s) (if applicable): . 
+1.14.1.4. Drive ratio(s) (if applicable): . 
+1.14.2. Air 
+1.14.2.1. Blower: yes/no (2) 
+1.14.2.2. Characteristics or make(s) and type(s) (if applicable): . 
+1.14.2.3. Drive ratio(s) (if applicable): . 
+1.15. Temperature permitted by the manufacturer 
+1.15.1. Liquid cooling: maximum temperature at outlet: . K 
+1.15.2. Air cooling: reference point: . 
+Maximum temperature at reference point: . K 
+1.15.3. Maximum charge air outlet temperature of the inlet intercooler (if applicable): . K 
+1.15.4. Maximum exhaust temperature at the point in the exhaust pipe(s) adjacent to the outer flange(s) of the exhaust manifold(s): . K 
+1.15.5. Lubricant temperature: minimum: . K 
+maximum: . K 
+(2) Strike out what does not apply.(3) Specify the tolerance.1.16. Pressure charger: yes/no (1) 
+1.16.1. Make: . 
+1.16.2. Type: . 
+1.16.3. Description of the system (e.g. max charge pressure, waste-gate, if applicable): . 
+1.16.4. Intercooler: yes/no (1) 
+1.17. Intake system: maximum allowable intake depression at rated engine speed and at 100 % load: . kPa 
+1.18. Exhaust system: maximum allowable exhaust backpressure at rated engine speed and at 100 % load: . kPa 
+2. ADDITIONAL ANTI-POLLUTION DEVICES (if any, and if not covered by another heading) 
+- Description and/or diagram(s): . 
+3. FUEL FEED 
+3.1. Feed pump 
+Pressure (2) or characteristic diagram: . kPa 
+3.2. Injection system 
+3.2.1. Pump 
+3.2.1.1. Make(s): . 
+3.2.1.2. Type(s): . 
+3.2.1.3. Delivery: . . . and . . . mm3 (2) per stroke or cycle at full injection at pump speed of: . . . rpm (rated) and . . . rpm (maximum torque) respectively, or characteristic diagram. 
+Mention the method used: On engine/on pump bench (1) 
+3.2.1.4. Injection advance 
+3.2.1.4.1. Injection advance curve (2): . 
+3.2.1.4.2. Timing (2): . 
+3.2.2. Injection piping 
+3.2.2.1. Length: . mm 
+3.2.2.2. Internal diameter: . mm 
+3.2.3. Injector(s) 
+3.2.3.1. Make(s): . 
+3.2.3.2. Type(s): . 
+3.2.3.3. Opening pressure (2) or characteristic diagram: . kPa 
+3.2.4. Governor 
+3.2.4.1. Make(s): . 
+3.2.4.2. Type(s): . 
+3.2.4.3. Speed at which cut-off starts under full load (2): . rpm 
+3.2.4.4. Maximum no-load speed (2): . rpm 
+3.2.4.5. Idling speed (2): . rpm 
+3.3. Cold start system 
+3.3.1. Make(s): . 
+3.3.2. Type(s): . 
+3.3.3. Description: . 
+(1) Strike out what does not apply.(2) Specify the tolerance.4. VALVE TIMING 
+4.1. Maximum lift and angles of opening and closing in relation to dead centres or equivalent data: 
+. 
+4.2. Reference and/or setting ranges (1) 
+(1) Strike out what does not apply. 
+%gt%END OF GRAPHIC%gt% 
+(1) For the case of several parent engines to be submitted for each of them. 
+Appendix 2 
+ESSENTIAL CHARACTERISTICS OF THE ENGINE FAMILY 
+%gt%START OF GRAPHIC%gt% 
+1. COMMON PARAMETERS (1): 
+1.1. Combustion cycle: . 
+1.2. Cooling medium: . 
+1.3. Method of air aspiration: . 
+1.4. Combustion chamber type/design: . 
+1.5. Valve and porting - configuration, size and number: 
+1.6. Fuel system: . 
+1.7. Engine management systems: 
+Proof of identity pursuant to drawing number(s): 
+- charge cooling system: . 
+- exhaust gas recirculation (2): . 
+- water injection/emulsion (2): . 
+- air injection (2): . 
+1.8. Exhaust after-treatment system (2): . 
+Proof of identical (or lowest for the parent engine) ratio: system capacity/fuel delivery per stroke, pursuant to diagram number(s): 
+2. ENGINE FAMILY LISTING 
+2.1. Name of engine family: . 
+2.2. Specification of engines within this family: 
+Parent engine (1) 
+Engine type 
+No of cylinders 
+Rated speed (rpm) 
+Fuel delivery per stroke (mm3) 
+Rated net power (kW) 
+Maximum torque speed (rpm) 
+Fuel delivery per stroke (mm3) 
+Maximum torque (Nm) 
+Low idle speed (rpm) 
+Cylinder displacement (in % of parent engine) 
+100 
+(1) For full details see Appendix 1. 
+(1) To be completed in conjunction with the specifications given in sections 6 and 7 of Annex I.(2) If not applicable mark n.a. 
+%gt%END OF GRAPHIC%gt% 
+Appendix 3 
+ESSENTIAL CHARACTERISTICS OF ENGINE TYPE WITHIN THE FAMILY (1) 
+%gt%START OF GRAPHIC%gt% 
+1. DESCRIPTION OF ENGINE 
+1.1. Manufacturer: . 
+1.2. Manufacturer's engine code: . 
+1.3. Cycle: four stroke / two stroke (2) 
+1.4. Bore: . mm 
+1.5. Stroke: . mm 
+1.6. Number and layout of cylinders: . 
+1.7. Engine capacity: . cm3 
+1.8. Rated speed: . 
+1.9. Maximum torque speed: . 
+1.10. Volumetric compression ratio (3): . 
+1.11. Combustion system description: . 
+1.12. Drawing(s) of combustion chamber and piston crown: . 
+1.13. Minimum cross sectional area of inlet and outlet ports: . 
+1.14. Cooling system 
+1.14.1. Liquid 
+1.14.1.1. Nature of liquid: . 
+1.14.1.2. Circulating pump(s): yes/no (2) . 
+1.14.1.3. Characteristics or make(s) and type(s) (if applicable): . 
+1.14.1.4. Drive ratio(s) (if applicable): . 
+1.14.2. Air 
+1.14.2.1. Blower: yes/no (2) 
+1.14.2.2. Characteristics or make(s) and type(s) (if applicable): . 
+1.14.2.3. Drive ratio(s) (if applicable): . 
+1.15. Temperature permitted by the manufacturer 
+1.15.1. Liquid cooling: maximum temperature at outlet: . K 
+1.15.2. Air cooling: reference point: . 
+Maximum temperature at reference point: . K 
+1.15.3. Maximum charge air outlet temperature of the inlet intercooler (if applicable): . K 
+1.15.4. Maximum exhaust temperature at the point in the exhaust pipe(s) adjacent to the outer flange(s) of the exhaust manifold(s): . K 
+(2) Strike out what does not apply.(3) Specify the tolerance.1.15.5. Lubricant temperature: minimum . K 
+maximum . K 
+1.16. Pressure charger: yes/no (1) 
+1.16.1. Make: . 
+1.16.2. Type: . 
+1.16.3. Description of the system (e.g. max charge pressure, waste-gate, if applicable): . 
+1.16.4. Intercooler: yes/no (1) 
+1.17. Intake system: Maximum allowable intake depression at rated engine speed and at 100 % load: . kPa 
+1.18. Exhaust system: Maximum allowable exhaust backpressure at rated engine speed and at 100 % load: . kPa 
+2. ADDITIONAL ANTI-POLLUTION DEVICES (if any, and if not covered by another heading) 
+- Description and/or diagram(s): . 
+3. FUEL FEED 
+3.1. Feed pump 
+Pressure (2) or characteristic diagram: . kPa 
+3.2. Injection system 
+3.2.1. Pump 
+3.2.1.1. Make(s): . 
+3.2.1.2. Type(s): . 
+3.2.1.3. Delivery: . . . and . . . mm3 (2) per stroke or cycle at full injection at pump speed of: . . . rpm (rated) and . . . rpm (maximum torque) respectively, or characteristic diagram. 
+Mention the method used: On engine/on pump bench (1) 
+3.2.1.4. Injection advance 
+3.2.1.4.1. Injection advance curve (2): . 
+3.2.1.4.2. Timing (2): . 
+3.2.2. Injection piping 
+3.2.2.1. Length: . mm 
+3.2.2.2. Internal diameter: . mm 
+3.2.3. Injector(s) 
+3.2.3.1. Make(s): . 
+3.2.3.2. Type(s): . 
+3.2.3.3. Opening pressure (2) or characteristic diagram: . kPa 
+3.2.4. Governor 
+3.2.4.1. Make(s): . 
+3.2.4.2. Type(s): . 
+3.2.4.3. Speed at which cut-off starts under full load (2): . rpm 
+3.2.4.4. Maximum no-load speed (2): . rpm 
+3.2.4.5. Idling speed (2): . rpm 
+(1) Strike out what does not apply.(2) Specify the tolerance.3.3. Cold start system 
+3.3.1. Make(s): . 
+3.3.2. Type(s): . 
+3.3.3. Description: . 
+4. VALVE TIMING 
+4.1. Maximum lift and angles of opening and closing in relation to dead centres or equivalent data: . 
+4.2. Reference and/or setting ranges (1): . 
+(1) Strike out what does not apply. 
+%gt%END OF GRAPHIC%gt% 
+(1) To be submitted for each engine of the family. 
+ANNEX III 
+TEST PROCEDURE 
+1. INTRODUCTION 
+1.1. This Annex describes the method of determining emissions of gaseous and particulate pollutants from the engines to be tested. 
+1.2. The test shall be carried out with the engine mounted on a test bench and connected to a dynamometer. 
+2. TEST CONDITIONS 
+2.1. General requirements 
+All volumes and volumetric flow rates shall be related to 273 K (0 °C) and 101,3 kPa. 
+2.2. Engine test conditions 
+2.2.1. The absolute temperature Ta of the engine intake air expressed in Kelvin, and the dry atmospheric pressure ps, expressed in kPa, shall be measured, and the parameter fa shall be determined according to the following provisions: 
+Naturally aspirated and mechanically supercharged engines: 
+fa = ( 
+%gt%NUM%gt%99 
+%gt%DEN%gt%ps 
+) ( 
+%gt%NUM%gt%T 
+%gt%DEN%gt%298 
+)0,7 
+Turbocharged engine with or without cooling of the intake air: 
+fa = ( 
+%gt%NUM%gt%99 
+%gt%DEN%gt%ps 
+)0,7 × ( 
+%gt%NUM%gt%T 
+%gt%DEN%gt%298 
+)1,5 
+2.2.2. Test validity 
+For a test to be recognized as valid, the parameter fa shall be such that: 
+0,98 %amp%le; fa %amp%le; 1,02 
+2.2.3. Engines with charge air cooling 
+The temperature of the cooling medium and the temperature of the charge air have to be recorded. 
+2.3. Engine air inlet system 
+The test engine shall be equipped with an air inlet system presenting an air inlet restriction at the upper limit specified by the manufacturer for a clean air cleaner at the engine operating conditions as specified by the manufacturer which result in maximum air flow. 
+A test shop system may be used, provided it duplicates actual engine operating conditions. 
+2.4. Engine exhaust system 
+The test engine shall be equipped with an exhaust system presenting an exhaust back pressure at the upper limit specified by the manufacturer for the engine operating conditions which result in maximum declared power. 
+2.5. Cooling system 
+An engine cooling system with sufficient capacity to maintain the engine at normal operating temperatures prescribed by the manufacturer. 
+2.6. Lubricating oil 
+Specifications of the lubricating oil used for the test shall be recorded and presented with the results of the test. 
+2.7. Test fuel 
+The fuel shall be the reference fuel specified in Annex IV. 
+The cetane number and the sulphur content of the reference fuel used for test shall be recorded at sections 1.1.1 and 1.1.2 respectively of Annex VI, Appendix 1. 
+The fuel temperature at the injection pump inlet shall be 306-316 K (33-43 °C). 
+2.8. Determination of dynamometer settings 
+The settings of inlet restriction and exhaust pipe backpressure shall be adjusted to the manufacturer's upper limits, in accordance with sections 2.3 and 2.4. 
+The maximum torque values at the specified test speeds shall be determined by experimentation in order to calculate the torque values for the specified test modes. For engines which are not designed to operate over a speed range on a full load torque curve, the maximum torque at the test speeds shall be declared by the manufacturer. 
+The engine setting for each test mode shall be calculated using the formula: 
+S = ((PM + PAE) × %gt%NUM%gt%L 
+%gt%DEN%gt%100 
+) - PAE 
+If the ratio, 
+%gt%NUM%gt%PAE 
+%gt%DEN%gt%PM 
+%amp%ge; 0,03the value of PAE may be verified by the technical authority granting type approval. 
+3. TEST RUN 
+3.1. Preparation of the sampling filters 
+At least one hour before the test, each filter (pair) shall be placed in a closed, but unsealed petri dish and placed in a weighing chamber for stabilization. At the end of the stabilization period, each filter (pair) shall be weighed and the tare weight shall be recorded. The filter (pair) shall then be stored in a closed petri dish or filter holder until needed for testing. If the filter (pair) is not used within eight hours of its removal from the weighing chamber, it must be reweighed before use. 
+3.2. Installation of the measuring equipment 
+The instrumentation and sample probes shall be installed as required. When using a full flow dilution system for exhaust gas dilution, the tailpipe shall be connected to the system. 
+3.3. Starting the dilution system and engine 
+The dilution system and the engine shall be started and warmed up until all temperatures and pressures have stabilized at full load and rated speed (section 3.6.2). 
+3.4. Adjustment of the dilution ratio 
+The particulate sampling system shall be started and running on bypass for the single filter method (optional for the multiple filter method). The particulate background level of the dilution air may be determined by passing dilution air through the particulate filters. If filtered dilution air is used, one measurement may be done at any time prior to, during, or after the test. If the dilution air is not filtered, measurements at a minimum of three points, after the starting, before the stopping, and at a point near the middle of the cycle, are required, and the values averaged. 
+The dilution air shall be set to obtain a maximum filter face temperature of 325 K (52 °C) or less at each mode. The total dilution ratio shall not be less than four. 
+For the single filter method, the sample mass flow rate through the filter shall be maintained at a constant proportion of the dilute exhaust mass flow rate for full flow systems for all modes. This mass ratio shall be within ± 5 %, except for the first 10 seconds of each mode for systems without bypass capability. For partial flow dilution systems with single filter method, the mass flow rate through the filter shall be constant within ± 5 % during each mode, except for the first 10 seconds of each mode for systems without bypass capability. 
+For CO2 or NOx concentration controlled systems, the CO2 or NOx content of the dilution air must be measured at the beginning and at the end of each test. The pre and post test background CO2 or NOx concentration measurements of the dilution air must be within 100 ppm or 5 ppm of each other, respectively. 
+When using a dilute exhaust gas analysis system, the relevant background concentrations shall be determined by sampling dilution air into a sampling bag over the complete test sequence. 
+Continuous (non bag) background concentration may be taken at the minimum of three points, at the beginning, at the end, and a point near the middle of the cycle and averaged. At the manufacturer's request background measurements may be omitted. 
+3.5. Checking the analysers 
+The emission analysers shall be set at zero and spanned. 
+3.6. Test cycle 
+3.6.1. Specification A of machinery according to Section 1 of Annex I: 
+3.6.1.1. The following 8-mode cycle (1) shall be followed in dynamometer operation on the test engine: 
+%gt%TABLE%gt% 
+3.6.2. Conditioning of the engine 
+Warming up of the engine and the system shall be at maximum speed and torque in order to stabilize the engine parameters according to the recommendations of the manufacturer. 
+Note: The conditioning period should also prevent the influence of deposits from a former test in the exhaust system. There is also a required period of stabilization between test points which has been included to minimise point to point influences. 
+3.6.3. Test sequence 
+The test sequence shall be started. The test shall be performed in the order of the mode numbers as set out above for the test cycle. 
+During each mode of the test cycle after the initial transition period, the specified speed shall be held to within ± 1 % of rated speed or ± 3 min-1 whichever is greater except for low idle which shall be within the tolerances declared by the manufacturer. The specified torque shall be held so that the average over the period during which the measurements are being taken is within ± 2 % of the maximum torque at the test speed. 
+For each measuring point a minimum time of 10 minutes is necessary. If for the testing of an engine, longer sampling times are required for reasons of obtaining sufficient particulate mass on the measuring filter the test mode period can be extended as necessary. 
+The mode length shall be recorded and reported. 
+The gaseous exhaust emission concentration values shall be measured and recorded during the last three minutes of the mode. 
+The particulate sampling and the gaseous emission measurement should not commence before engine stabilization, as defined by the manufacturer, has been achieved and their completion must be coincident. 
+The fuel temperature shall be measured at the inlet to the fuel injection pump or as specified by the manufacturer, and the location of measurement recorded. 
+3.6.4. Analyser response 
+The output of the analysers shall be recorded on a strip chart recorder or measured with an equivalent data acquisition system with the exhaust gas flowing through the analysers at least during the last three minutes of each mode. If bag sampling is applied for the diluted CO and CO2 measurement (see Appendix 1, section 1.4.4), a sample shall be bagged during the last three minutes of each mode, and the bag sample analysed and recorded. 
+3.6.5. Particulate sampling 
+The particulate sampling can be done either with the single filter method or with the multiple filter method (Appendix 1, section 1.5). Since the results of the methods may differ slightly, the method used must be declared with the results. 
+For the single filter method the modal weighting factors specified in the test cycle procedure shall be taken into account during sampling by adjusting sample flow rate and/or sampling time, accordingly. 
+Sampling must be conducted as late as possible within each mode. The sampling time per mode must be at least 20 seconds for the single filter method and at least 60 seconds for the multi-filter method. For systems without bypass capability, the sampling time per mode must be a least 60 seconds for single and multiple filter methods. 
+3.6.6. Engine conditions 
+The engine speed and load, intake air temperature, fuel flow and air or exhaust gas flow shall be measured for each mode once the engine has been stabilized. 
+If the measurement of the exhaust gas flow or the measurement of combustion air and fuel consumption is not possible, it can be calculated using the carbon and oxygen balance method (see Appendix 1, section 1.2.3). 
+Any additional data required for calculation shall be recorded (see Appendix 3, sections 1.1 and 1.2). 
+3.7. Re-checking the analysers 
+After the emission test a zero gas and the same span gas will be used for re-checking. The test will be considered acceptable if the difference between the two measuring results is less than 2 %. 
+(1) Identical with C1 cycle of the draft ISO 8178-4 standard. 
+Appendix 1 
+1. MEASUREMENT AND SAMPLING PROCEDURES 
+Gaseous and particulate components emitted by the engine submitted for testing shall be measured by the methods described in Annex V. The methods of Annex V describe the recommended analytical systems for the gaseous emissions (section 1.1) and the recommended particulate dilution and sampling systems (section 1.2). 
+1.1. Dynamometer specification 
+An engine dynamometer with adequate characteristics to perform the test cycle described in Annex III, section 3.6.1 shall be used. The instrumentation for torque and speed measurement shall allow the measurement of the shaft power within the given limits. Additional calculations may be necessary. 
+The accuracy of the measuring equipment must be such that the maximum tolerances of the figures given in point 1.3 are not exceeded. 
+1.2. Exhaust gas flow 
+The exhaust gas flow shall be determined by one of the methods mentioned in sections 1.2.1 to 1.2.4. 
+1.2.1. Direct measurement method 
+Direct measurement of the exhaust flow by flow nozzle or equivalent metering system (for detail see ISO 5167). 
+Note: Direct gaseous flow measurement is a difficult task. Precautions must be taken to avoid measurement errors which will impact emission value errors. 
+1.2.2. Air and fuel measurement method 
+Measurement of the air flow and the fuel flow. 
+Air flow-meters and fuel flow-meters with an accuracy defined in section 1.3 shall be used. 
+The calculation of the exhaust gas flow is as follows: 
+GEXHW = GAIRW + GFUEL (for wet exhaust mass) 
+or 
+VEXHD = VAIRD - 0,766 × GFUEL (for dry exhaust volume) 
+or 
+VEXHW = VAIRW + 0,746 × GFUEL (for wet exhaust volume) 
+1.2.3. Carbon balance method 
+Exhaust mass calculation from fuel consumption and exhaust gas concentrations using the carbon balance method (see Annex III, Appendix 3). 
+1.2.4. Total dilute exhaust gas flow 
+When using a full flow dilution system, the total flow of the dilute exhaust (GTOTW, VTOTW) shall be measured with a PDP or CFV - Annex V, section 1.2.1.2. The accuracy shall conform to the provisions of Annex III, Appendix 2, section 2.2. 
+1.3. Accuracy 
+The calibration of all measurement instruments shall be traceable to national (international) standards and comply with the following requirements: 
+%gt%TABLE%gt% 
+1.4. Determination of the gaseous components 
+1.4.1. General analyser specifications 
+The analysers shall have a measuring range appropriate for the accuracy required to measure the concentrations of the exhaust gas components (section 1.4.1.1). It is recommended that the analysers be operated such that the measured concentration falls between 15 % and 100 % of full scale. 
+If the full scale value is 155 ppm (or ppm C) or less or if read-out systems (computers, data loggers) that provide sufficient accuracy and resolution below 15 % of full scale are used concentrations below 15 % of full scale are also acceptable. In this case, additional calibrations are to be made to ensure the accuracy of the calibration curves - Annex III, Appendix 2, section 1.5.5.2. 
+The electromagnetic compatibility (EMC) of the equipment shall be on a level as to minimize additional errors. 
+1.4.1.1. Measurement error 
+The total measurement error, including the cross sensitivity to other gases - see Annex III, Appendix 2, point 1.9 shall not exceed ± 5 % of the reading or 3,5 % of full scale, whichever is smaller. For concentrations of less than 100 ppm the measurement error shall not exceed ± 4 ppm. 
+1.4.1.2. Repeatability 
+The repeatability, defined as 2,5 times the standard deviation of 10 repetitive responses to a given calibration or span gas, must be no greater than ± 1 % of full scale concentration for each range used above 155 ppm (or ppm C) or ± 2 % of each range used below 155 ppm (or ppm C). 
+1.4.1.3. Noise 
+The analyser peak-to-peak response to zero and calibration or span gases over any 10-second period shall not exceed 2 % of full scale on all ranges used. 
+1.4.1.4. Zero drift 
+The zero drift during a one-hour period shall be less than 2 % of full scale on the lowest range used. The zero response is defined as the mean response, including noise, to a zero gas during a 30-seconds time interval. 
+1.4.1.5. Span drift 
+The span drift during a one hour period shall be less than 2 % of full scale on the lowest range used. Span is defined as the difference between the span response and the zero response. The span response is defined as the mean response, including noise, to a span gas during a 30-seconds time interval. 
+1.4.2. Gas drying 
+The optional gas drying device must have a minimal effect on the concentration of the measured gases. Chemical dryers are not an acceptable method of removing water from the sample. 
+1.4.3. Analysers 
+Sections 1.4.3.1 to 1.4.3.5 of this Appendix describe the measurement principles to be used. A detailed description of the measurement systems is given in Annex V. 
+The gases to be measured shall be analysed with the following instruments. For non-linear analysers, the use of linearizing circuits is permitted. 
+1.4.3.1. Carbon monoxide (CO) analysis 
+The carbon monoxide analyser shall be of the non-dispersive infra-red (NDIR) absorption type. 
+1.4.3.2. Carbon dioxide (CO2) analysis 
+The carbon dioxide analyser shall be of the non-dispersive infra-red (NDIR) absorption type. 
+1.4.3.3. Hydrocarbon (HC) analysis 
+The hydrocarbon analyser shall be of the heated flame ionization detector (HFID) type with detector, valves, pipework, etc, heated so as to maintain a gas temperature of 463 K (190 °C) ± 10 K. 
+1.4.3.4. Oxides of nitrogen (NOx) analysis 
+The oxides of nitrogen analyser shall be of the chemiluminescent detector (CLD) or heated chemiluminescent detector (HCLD) type with a NO2/NO converter, if measured on a dry basis. If measured on a wet basis, a HCLD with converter maintained above 333 K (60 °C) shall be used, provided the water quench check (Annex III, Appendix 2, section 1.9.2.2) is satisfied. 
+1.4.4. Sampling for gaseous emissions 
+The gaseous emissions sampling probes must be fitted at least 0,5 m or three times the diameter of the exhaust pipe - whichever is the larger - upstream of the exit of the exhaust gas system as far as applicable and sufficiently close to the engine as to ensure an exhaust gas temperature of at least 343 K (70 °C) at the probe. 
+In the case of a multicylinder engine with a branched exhaust manifold, the inlet of the probe shall be located sufficiently far downstream so as to ensure that the sample is representative of the average exhaust emissions from all cylinders. In multicylinder engines having distinct groups of manifolds, such as in a 'V`-engine configuration, it is permissible to acquire a sample from each group individually and calculate an average exhaust emission. Other methods which have been shown to correlate with the above methods may be used. For exhaust emissions calculation the total exhaust mass flow of the engine must be used. 
+If the composition of the exhaust gas is influenced by any exhaust after-treatment system, the exhaust sample must be taken upstream of this device in the tests of stage I and downstream of this device in the tests of stage II. When a full flow dilution system is used for the determination of the particulates, the gaseous emissions may also be determined in the diluted exhaust gas. The sampling probes shall be close to the particulate sampling probe in the dilution tunnel (Annex V, section 1.2.1.2, DT and section 1.2.2, PSP). CO and CO2 may optionally be determined by sampling into a bag and subsequent measurement of the concentration in the sampling bag. 
+1.5. Determination of the particulates 
+The determination of the particulates requires a dilution system. Dilution may be accomplished by a partial flow dilution system or a full flow dilution system. The flow capacity of the dilution system shall be large enough to completely eliminate water condensation in the dilution and sampling systems, and maintain the temperature of the diluted exhaust gas at or below 325 K (52 °C) immediately upstream of the filter holders. De-humidifying the dilution air before entering the dilution system is permitted, if the air humidity is high. Dilution air pre-heating above the temperature limit of 303 K (30 °C) is recommended, if the ambient temperature is below 293 K (20 °C). However, the diluted air temperature must not exceed 325 K (52 °C) prior to the introduction of the exhaust in the dilution tunnel. 
+For a partial flow dilution system, the particulate sampling probe must be fitted close to and upstream of the gaseous probe as defined in section 4.4 and in accordance with Annex V, section 1.2.1.1, figures 4-12 EP and SP. 
+The partial flow dilution system has to be designed to split the exhaust stream into two fractions, the smaller one being diluted with air and subsequently used for particulate measurement. From that it is essential that the dilution ratio be determined very accurately. Different splitting methods can be applied, whereby the type of splitting used dictates to a significant degree the sampling hardware and procedures to be used (Annex V, section 1.2.1.1). 
+To determine the mass of the particulates, a particulate sampling system, particulate sampling filters, a microgram balance and a temperature and humidity controlled weighing chamber are required. 
+For particulate sampling, two methods may be applied: 
+- the single filter method uses one pair of filters (see section 1.5.1.3 of this Appendix) for all modes of the test cycle. Considerable attention must be paid to sampling times and flows during the sampling phase of the test. However, only one pair of filters will be required for the test cycle, 
+- the multiple filter method dictates that one pair of filters (see section 1.5.1.3 of this Appendix) is used for each of the individual modes of the test cycle. This method allows more lenient sample procedures but uses more filters. 
+1.5.1. Particulate sampling filters 
+1.5.1.1. Filter specification 
+Fluorocarbon coated glass fibre filters or fluorocarbon based membrane filters are required for certification tests. For special applications different filter materials may be used. All filter types shall have a 0,3 µm DOP (di-octylphthalate) collection efficiency of at least 95 % at a gas face velocity between 35 and 80 cm/s. When performing correlation tests between laboratories or between a manufacturer and an approval authority, filters of identical quality must be used. 
+1.5.1.2. Filter size 
+Particulate filters must have a minimum diameter of 47 mm (37 mm stain diameter). Larger diameter filters are acceptable (section 1.5.1.5). 
+1.5.1.3. Primary and back-up filters 
+The diluted exhaust shall be sampled by a pair of filters placed in series (one primary and one back-up filter) during the test sequence. The back-up filter shall be located no more than 100 mm downstream of, and shall not be in contact with the primary filter. The filters may be weighed separately or as a pair with the filters placed stain side to stain side. 
+1.5.1.4. Filter face velocity 
+A gas face velocity through the filter of 35 to 80 cm/s shall be achieved. The pressure drop increase between the beginning and the end of the test shall be no more than 25 kPa. 
+1.5.1.5. Filter loading 
+The recommended minimum filter loading shall be 0,5 mg/1 075 mm² stain area for the single filter method. For the most common filter size the values are as follows: 
+%gt%TABLE%gt% 
+For the multiple filter method, the recommended minimum filter loading for the sum of all filters shall be the product of the appropriate value above and the square root of the total number of modes. 
+1.5.2. Weighing chamber and analytical balance specifications 
+1.5.2.1. Weighing chamber conditions 
+The temperature of the chamber (or room) in which the particulate filters are conditioned and weighed shall be maintained to within 295 K (22 °C) ± 3 K during all filter conditioning and weighing. The humidity shall be maintained to a dewpoint of 282,5 (9,5 °C) ± 3 K and a relative humidity of 45 ± 8 %. 
+1.5.2.2. Reference filter weighing 
+The chamber (or room) environment shall be free of any ambient contaminants (such as dust) that would settle on the particulate filters during their stabilisation. Disturbances to weighing room specifications as outlined in section 1.5.2.1 will be allowed if the duration of the disturbances does not exceed 30 minutes. The weighing room should meet the required specifications prior to personnel entrance into the weighing room. At least two unused reference filters or reference filter pairs shall be weighed within four hours of, but preferably at the same time as the sample filter (pair) weighing. They shall be the same size and material as the sample filters. 
+If the average weight of the reference filters (reference filter pairs) changes between sample filter weighing by more than ± 5 % (± 7,5 % for the filter pair) of the recommended minimum filter loading (section 1.5.1.5), then all sample filters shall be discarded and the emissions test repeated. 
+If the weighing room stability criteria outlined in section 1.5.2.1 is not met, but the reference filter (pair) weighing meet the above criteria, the engine manufacturer has the option of accepting the sample filter weights or voiding the tests, fixing the weighing room control system and re-running the test. 
+1.5.2.3. Analytical balance 
+The analytical balance used to determine the weights of all filters shall have a precision (standard deviation) of 20 µg and a resolution of 10 µg (1 digit = 10 µg). For filters less than 70 mm diameter, the precision and resolution shall be 2 µg and 1 µg, respectively. 
+1.5.2.4. Elimination of static electricity effects 
+To eliminate the effects of static electricity, the filters shall be neutralized prior to weighing, for example, by a Polonium neutralizer or a device of similar effect. 
+1.5.3. Additional specifications for particulate measurement 
+All parts of the dilution system and the sampling system from the exhaust pipe up to the filter holder, which are in contact with raw and diluted exhaust gas, must be designed to minimize deposition or alteration of the particulates. All parts must be made of electrically conductive materials that do not react with exhaust gas components, and must be electrically grounded to prevent electrostatic effects. 
+Appendix 2 
+1. CALIBRATION OF THE ANALYTICAL INSTRUMENTS 
+1.1. Introduction 
+Each analyzer shall be calibrated as often as necessary to fulfil the accuracy requirements of this standard. The calibration method that shall be used is described in this paragraph for the analysers indicated in Appendix 1, section 1.4.3. 
+1.2. Calibration gases 
+The shelf life of all calibration gases must be respected. 
+The expiry date of the calibration gases stated by the manufacturer shall be recorded. 
+1.2.1. Pure gases 
+The required purity of the gases is defined by the contamination limits given below. The following gases must be available for operation: 
+- purified nitrogen 
+(contamination %amp%le; 1 ppm C, %amp%le; 1 ppm CO, %amp%le; 400 ppm CO2, %amp%le; 0,1 ppm NO) 
+- purified oxygen 
+(purity %gt% 99,5 % vol O2) 
+- hydrogen-helium mixture 
+(40 ± 2 % hydrogen, balance helium) 
+(contamination %amp%le; 1 ppm C, %amp%le; 400 ppm CO) 
+- purified synthetic air 
+(contamination %amp%le; 1 ppm C, %amp%le; 1 ppm CO, %amp%le; 400 ppm CO2, %amp%le; 0,1 ppm NO) 
+(oxygen content between 18-21 % vol) 
+1.2.2. Calibration and span gases 
+Mixture of gases having the following chemical compositions shall be available: 
+- C3H8 and purified synthetic air (see section 1.2.1) 
+- CO and purified nitrogen 
+- NO and purified nitrogen (the amount of NO2 contained in this calibration gas must not exceed 5 % of the NO content) 
+- O2 and purified nitrogen 
+- CO2 and purified nitrogen 
+- CH4 and purified synthetic air 
+- C2H6 and purified synthetic air 
+Note: other gas combinations are allowed provided the gases do not react with one another. 
+The true concentration of a calibration and span gas must be within ± 2 % of the nominal value. All concentrations of calibration gas shall be given on a volume basis (volume percent or volume ppm). 
+The gases used for calibration and span may also be obtained by means of a gas divider, diluting with purified N2 or with purified synthetic air. The accuracy of the mixing device must be such that the concentration of the diluted calibration gases may be determined to within ± 2 %. 
+1.3. Operating procedure for analysers and sampling system 
+The operating procedure for analysers shall follow the start-up and operating instructions of the instrument manufacturer. The minimum requirements given in sections 1.4 to 1.9 shall be included. 
+1.4. Leakage test 
+A system leakage test shall be performed. The probe shall be disconnected from the exhaust system and the end plugged. The analyser pump shall be switched on. After an initial stabilization period all flow meters should read zero. If not, the sampling lines shall be checked and the fault corrected. The maximum allowable leakage rate on the vacuum side shall be 0,5 % of the in-use flow rate for the portion of the system being checked. The analyser flows and bypass flows may be used to estimate the in-use flow rates. 
+Another method is the introduction of a concentration step change at the beginning of the sampling line by switching from zero to span gas. 
+If after an adequate period of time the reading shows a lower concentration compared to the introduced concentration, this points to calibration or leakage problems. 
+1.5. Calibration procedure 
+1.5.1. Instrument assembly 
+The instrument assembly shall be calibrated and calibration curves checked against standard gases. The same gas flow rates shall be used as when sampling exhaust. 
+1.5.2. Warming-up time 
+The warming-up time should be according to the recommendations of the manufacturer. If not specified, a minimum of two hours is recommended for warming-up the analysers. 
+1.5.3. NDIR and HFID analyser 
+The NDIR analyser shall be tuned, as necessary, and the combustion flame of the HFID analyser shall be optimized (section 1.8.1). 
+1.5.4. Calibration 
+Each normally used operating range shall be calibrated. 
+Using purified synthetic air (or nitrogen), the CO, CO2, Nox, HC and O2 analysers shall be set at zero. 
+The appropriate calibration gases shall be introduced to the analysers, the values recorded, and the calibration curve established according to section 1.5.6. 
+The zero setting shall be re-checked and the calibration procedure repeated, if necessary. 
+1.5.5. Establishment of the calibration curve 
+1.5.5.1. General guidelines 
+The analyser calibration curve is established by at least five calibration points (excluding zero) spaced as uniformly as possible. The highest nominal concentration must be equal to or higher than 90 % of full scale. 
+The calibration curve is calculated by the method of least squares. If the resulting polynomial degree is greater than three, the number of calibration points (zero included) must be at least equal to this polynomial degree plus two. 
+The calibration curve must not differ by more than ± 2 % from the nominal value of each calibration point and by more than ± 1 % of full scale at zero. 
+From the calibration curve and the calibration points, it is possible to verify that the calibration has been carried out correctly. The different characteristic parameters of the analyser must be indicated, particularly: 
+- the measuring range, 
+- the sensitivity, 
+- the date of carrying out the calibration. 
+1.5.5.2. Calibration below 15 % of full scale 
+The analyser calibration curve is established by at least ten calibration points (excluding zero) spaced so that 50 % of the calibration points is below 10 % of full scale. 
+The calibration curve is calculated by the method of least squares. 
+The calibration curve must not differ by more than ± 4 % from the nominal value of each calibration point and by more than ± 1 % of full scale at zero. 
+1.5.5.3. Alternative methods 
+If it can be shown that alternative technology (e.g. computer, electronically controlled range switch, etc.) can give equivalent accuracy, then these alternatives may be used. 
+1.6. Verification of the calibration 
+Each normally used operating range shall be checked prior to each analysis in accordance with the following procedure. 
+The calibration is checked by using a zero gas and a span gas whose nominal value is more than 80 % of full scale of the measuring range. 
+If, for the two points considered, the value found does not differ by more than ± 4 % of full scale from the declared reference value, the adjustment parameters may be modified. Should this not be the case, a new calibration curve shall be established in accordance with section 1.5.4. 
+1.7. Efficiency test of the NOx converter 
+The efficiency of the converter used for the conversion of NO2 into NO is tested as given in sections 1.7.1 to 1.7.8 (Figure 1). 
+1.7.1. Test set-up 
+Using the test set-up as shown in Figure 1 (see also Appendix 1, section 1.4.3.5) and the procedure below, the efficiency of converters can be tested by means of an ozonator. 
+Figure 1 Schematic of NO2 converter efficiency device 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+1.7.2. Calibration 
+The CLD and the HCLD shall be calibrated in the most common operating range following the manufacturer's specifications using zero and span gas (the NO content of which must amount to about 80 % of the operating range and the NO2 concentration of the gas mixture to less than 5 % of the NO concentration). The NOx analyser must be in the NO mode so that the span gas does not pass through the converter. The indicated concentration has to be recorded. 
+1.7.3. Calculation 
+The efficiency of the NOx converter is calculated as follows: 
+Efficiency (%) = (1 + %gt%NUM%gt%a - b 
+%gt%DEN%gt%c - d 
+) × 100 
+(a) NOx concentration according to section 1.7.6; 
+(b) NOx concentration according to section 1.7.7; 
+(c) NO concentration according to section 1.7.4; 
+(d) NO concentration according to section 1.7.5. 
+1.7.4. Adding of oxygen 
+Via a T-fitting, oxygen or zero air is added continuously to the gas flow until the concentration indicated is about 20 % less than the indicated calibration concentration given in section 1.7.2. (The analyser is in the NO mode.) 
+The indicated concentration (c) shall be recorded. The ozonator is kept de-activated throughout the process. 
+1.7.5. Activation of the ozonator 
+The ozonator is now activated to generate enough ozone to bring the NO concentration down to about 20 % (minimum 10 %) of the calibration concentration given in section 1.7.2. The indicated concentration (d) shall be recorded. (The analyser is in the NO mode.) 
+1.7.6. NOx mode 
+The NO analyser is then switched to the NOx mode so that the gas mixture (consisting of NO, NO2, O2 and N2) now passes through the converter. The indicated concentration (a) shall be recorded. (The analyser is in the NOx mode.) 
+1.7.7. De-activation of the ozonator 
+The ozonator is now de-activated. The mixture of gases described in section 1.7.6 passes through the converter into the detector. The indicated concentration (b) shall be recorded. (The analyser is in the NOx mode.) 
+1.7.8. NO mode 
+Switched to NO mode with the ozonator de-activated, the flow of oxygen or synthetic air is also shut off. The NOx reading of the analyser shall not deviate by more than ± 5 % from the value measured according to section 1.7.2. (The analyser is in the NO mode.) 
+1.7.9. Test interval 
+The efficiency of the converter must be tested prior to each calibration of the NOx analyser. 
+1.7.10. Efficiency requirement 
+The efficiency of the converter shall not be less than 90 %, but a higher efficiency of 95 % is strongly recommended. 
+Note: If, with the analyser in the most common range, the ozonator cannot give a reduction from 80 % to 20 % according to section 1.7.5, then the highest range which will give the reduction shall be used. 
+1.8. Adjustment of the FID 
+1.8.1. Optimization of the detector response 
+The HFID must be adjusted as specified by the instrument manufacturer. A propane in air span gas should be used to optimize the response on the most common operating range. 
+With the fuel and air flow rates set at the manufacturer's recommendations, a 350 ± 75 ppm C span gas shall be introduced to the analyser. The response at a given fuel flow shall be determined from the difference between the span gas response and the zero gas response. The fuel flow shall be incrementally adjusted above and below the manufacturer's specification. The span and zero response at these fuel flows shall be recorded. The difference between the span and zero response shall be plotted and the fuel flow adjusted to the rich side of the curve. 
+1.8.2. Hydrocarbon response factors 
+The analyser shall be calibrated using propane in air and purified synthetic air, according to section 1.5. 
+Response factors shall be determined when introducing an analyser into service and after major service intervals. The response factor (Rf) for a particular hydrocarbon species is the ratio of the FID C1 reading to the gas concentration in the cylinder expressed by ppm C1. 
+The concentration of the test gas must be at a level to give a response of approximately 80 % of full scale. The concentration must be known to an accuracy of ± 2 % in reference to a gravimetric standard expressed in volume. In addition, the gas cylinder must be pre-conditioned for 24 hours at a temperature of 298 K (25 °C) ± 5 K. 
+The test gases to be used and the recommended relative response factor ranges are as follows: 
+%gt%TABLE%gt% 
+These values are relative to the response factor (Rf) of 1,00 for propane and purified synthetic air. 
+1.8.3. Oxygen interference check 
+The oxygen interference check shall be determined when introducing an analyser into service and after major service intervals. 
+The response factor is defined and shall be determined as described in section 1.8.2. The test gas to be used and the recommended relative response factor range are as follows: 
+- propane and nitrogen: 0,95 %amp%le; Rf %amp%le; 1,05 
+This value is relative to the response factor (Rf) of 1,00 for propane and purified synthetic air. 
+The FID burner air oxygen concentration must be within ± 1 mole % of the oxygen concentration of the burner air used in the latest oxygen interference check. If the difference is greater, the oxygen interference must be checked and the analyser adjusted, if necessary. 
+1.9. Interference effects with NDIR and CLD analysers 
+Gases present in the exhaust other than the one being analysed can interfere with the reading in several ways. Positive interference occurs in NDIR instruments where the interfering gas gives the same effect as the gas being measured, but to a lesser degree. Negative interference occurs in NDIR instruments by the interfering gas broadening the absorption band of the measured gas, and in CLD instruments by the interfering gas quenching the radiation. The interference checks in sections 1.9.1 and 1.9.2 shall be performed prior to an analyser's initial use and after major service intervals. 
+1.9.1. CO analyser interference check 
+Water and CO2 can interfere with the CO analyser performance. Therefore a CO2 span gas having a concentration of 80 to 100 % of full scale of the maximum operating range used during testing shall be bubbled through water at room temperature and the analyser response recorded. The analyser response must not be more than 1 % of full scale for ranges equal to or above 300 ppm or more than 3 ppm for ranges below 300 ppm. 
+1.9.2. NOx analyser quench checks 
+The two gases of concern for CLD (and HCLD) analysers are CO2 and water vapour. Quench responses of these gases are proportional to their concentrations, and therefore require test techniques to determine the quench at the highest expected concentrations experienced during testing. 
+1.9.2.1. CO2 quench check 
+A CO2 span gas having a concentration of 80 to 100 % of full scale of the maximum operating range shall be passed through the NDIR analyser and the CO2 value recorded as A. It shall then be diluted approximately 50 % with NO span gas and passed through the NDIR and (H)CLD with the CO2 and NO values recorded as B and C, respectively. The CO2 shall be shut off and only the NO span gas be passed through the (H)CLD and the NO value recorded as D. 
+The quench shall be calculated as follows: 
+% CO2 quench = [1 - ( 
+%gt%NUM%gt%(C × A) 
+%gt%DEN%gt%(D × A) - (D × B) 
+)] × 100 
+and must not be greater than 3 % of full scale. 
+where: 
+A: undiluted CO2 concentration measured with NDIR % 
+B: diluted CO2 concentration measured with NDIR % 
+C: diluted NO concentration measured with CLD ppm 
+D: undiluted NO concentration measured with CLD ppm 
+1.9.2.2. Water quench check 
+This check applies to wet gas concentration measurements only. Calculation of water quench must consider dilution of the NO span gas with water vapour and scaling of water vapour concentration of the mixture to that expected during testing. A NO span gas having a concentration of 80 to 100 % of full scale to the normal operating range shall be passed through the (H)CLD and the NO value recorded as D. The NO gas shall be bubbled through water at room temperature and passed through the (H)CLD and the NO value recorded as C. The analyser's absolute operating pressure and the water temperature shall be determined and recorded as E and F, respectively. The mixture's saturation vapour pressure that corresponds to the bubbler water temperature (F) shall be determined and recorded as G. The water vapour concentration (in %) of the mixture shall be calculated as follows: 
+H = 100 × ( 
+%gt%NUM%gt%G 
+%gt%DEN%gt%E 
+) 
+and recorded as H. The expected diluted NO span gas (in water vapour) concentration shall be calculated as follows: 
+De = D × (1 - %gt%NUM%gt%H 
+%gt%DEN%gt%100 
+) 
+and recorded as De. For diesel exhaust, the maximum exhaust water vapour concentration (in %) expected during testing shall be estimated, under the assumption of a fuel atom H/C ratio of 1,8 to 1, from the undiluted CO2 span gas concentration (A, as measured in section 1.9.2.1) as follows: 
+Hm = 0,9 × A 
+and recorded as Hm. 
+The water quench shall be calculated as follows: 
+% H2O Quench = 100 × ( 
+%gt%NUM%gt%De - C 
+%gt%DEN%gt%De 
+) × ( 
+%gt%NUM%gt%Hm 
+%gt%DEN%gt%H 
+) 
+and must not be greater than 3 % of full scale 
+De: expected diluted NO concentration (ppm) 
+C: diluted NO concentration (ppm) 
+Hm: maximum water vapour concentration (%) 
+H: actual water vapour concentration (%) 
+Note: It is important that the NO span gas contains minimal NO2 concentration for this check, since absorption of NO2 in water has not been accounted for in the quench calculations. 
+1.10. Calibration intervals 
+The analysers shall be calibrated according to section 1.5 at least every three months or whenever a system repair or change is made that could influence calibration. 
+2. CALIBRATION OF THE PARTICULATE MEASURING SYSTEM 
+2.1. Introduction 
+Each component shall be calibrated as often as necessary to fulfil the accuracy requirements of this standard. The calibration method to be used is described in this section for the components indicated in Annex III, Appendix 1, section 1.5 and Annex V. 
+2.2. Flow measurement 
+The calibration of gas flow-meters or flow measurement instrumentation shall be traceable to national and/or international standards. 
+The maximum error of the measured value shall be within ± 2 % of reading. 
+If the gas flow is determined by differential measurement, the maximum error of the difference shall be such that the accuracy of GEDF is within ± 4 % (see also Annex V, section 1.2.1.1 EGA). It can be calculated by taking the root-mean-square of the errors of each instrument. 
+2.3. Checking the dilution ratio 
+When using particulate sampling systems without EGA (Annex V, section 1.2.1.1), the dilution ratio shall be checked for each new engine installation with the engine running and the use of either the CO2 or NOx concentration measurements in the raw and dilute exhaust. 
+The measured dilution ratio shall be within ± 10 % of the calculated dilution ratio from CO2 or NOx concentration measurement. 
+2.4. Checking the partial flow conditions 
+The range of the exhaust gas velocity and the pressure oscillations shall be checked and adjusted according to the requirements of Annex V, section 1.2.1.1, EP, if applicable. 
+2.5. Calibration intervals 
+The flow measurement instrumentation shall be calibrated at least every three months, or whenever a system change is made that could influence calibration. 
+Appendix 3 
+1. DATA EVALUATION AND CALCULATIONS 
+1.1. Gaseous emissions data evaluation 
+For the evaluation of the gaseous emissions, the chart reading of the last 60 seconds of each mode shall be averaged, and the average concentrations (conc) of HC, CO, NOx and CO2 if the carbon balance method is used, during each mode shall be determined from the average chart readings and the corresponding calibration data. A different type of recording can be used if it ensures an equivalent data acquisition. 
+The average background concentrations (concd) may be determined from the bag readings of the dilution air or from the continuous (non-bag) background reading and the corresponding calibration data. 
+1.2. Particulate emissions 
+For the evaluation of the particulates, the total sample masses (MSAM,i) or volumes (VSAM,i) through the filters shall be recorded for each mode. 
+The filters shall be returned to the weighing chamber and conditioned for at least one hour, but not more than 80 hours, and then weighed. The gross weight of the filters shall be recorded and the tare weight (see section 3.1, Annex III) subtracted. The particulate mass (Mf for single filter method; Mf,i for the multiple filter method) is the sum of the particulate masses collected on the primary and back-up filters. 
+If background correction is to be applied, the dilution air mass (MDIL) or volume (VDIL) through the filters and the particulate mass (Md) shall be recorded. If more than one measurement was made, the quotient Md/MDIL or Md/VDIL must be calculated for each single measurement and the values averaged. 
+1.3. Calculation of the gaseous emissions 
+The finally reported test results shall be derived through the following steps: 
+1.3.1. Determination of the exhaust gas flow 
+The exhaust gas flow rate (GEXHW, VEXHW or VEXHD) shall be determined for each mode according to Annex III, Appendix 1, sections 1.2.1 to 1.2.3. 
+When using a full flow dilution system, the total dilute exhaust gas flow rate (GTOTW, VTOTW) shall be determined for each mode according to Annex III, Appendix 1, section 1.2.4. 
+1.3.2. Dry/wet correction 
+When applying GEXHW, VEXHW, GTOTW or VTOTW, the measured concentration shall be converted to a wet basis according to the following formulae, if not already measured on a wet basis: 
+conc (wet) = kw × conc (dry) 
+For the raw exhaust gas: 
+kw,r,1 = (1 - FFH × %gt%NUM%gt%GFUEL 
+%gt%DEN%gt%GAIRD 
+) - kw2 
+or: 
+kw,r,2 = ( 
+%gt%NUM%gt%1 
+%gt%DEN%gt%1 + 1,88 × 0,005 × (% CO [dry] + % CO2 [dry]) 
+) - kw2For the diluted exhaust gas: 
+kw,e,1 = (1 - %gt%NUM%gt%1,88 × CO2 % (wet) 
+%gt%DEN%gt%200 
+) - kw1 
+or: 
+kw,e,2 = ( 
+%gt%NUM%gt%1 - kw1 
+%gt%DEN%gt%1 + %gt%NUM%gt%1,88 × CO2 % (dry) 
+%gt%DEN%gt%200 
+) 
+FFH may be calculated by: 
+FFH = %gt%NUM%gt%1,969 
+%gt%DEN%gt%(1 + %gt%NUM%gt%GFUEL 
+%gt%DEN%gt%GAIRW 
+) 
+For the dilution air: 
+kW,d = 1 - kWl 
+kW1 = %gt%NUM%gt%1,608 × [Hd × (1 - %gt%NUM%gt%1/ 
+%gt%DEN%gt%DF 
+) + Ha × ( 
+%gt%NUM%gt%1/ 
+%gt%DEN%gt%DF 
+)] 
+%gt%DEN%gt%1 000 + 1,608 × [Hd × (1 - %gt%NUM%gt%1/ 
+%gt%DEN%gt%DF 
+) + Ha × ( 
+%gt%NUM%gt%1/ 
+%gt%DEN%gt%DF 
+)] 
+Hd = %gt%NUM%gt%6,22 × Rd × pd 
+%gt%DEN%gt%PB - Pd × Rd × 10-2 
+For the intake air (if different from the dilution air): 
+kW,a = 1 - kW2 
+kW2 = %gt%NUM%gt%1,608 × Ha 
+%gt%DEN%gt%1 000 + (1,608 × Ha) 
+Ha = %gt%NUM%gt%6,22 × Ra × pa 
+%gt%DEN%gt%pB - pa × Ra × 10-2 
+where: 
+Ha: absolute humidity of the intake air, g water per kg dry air 
+Hd: absolute humidity of the dilution air, g water per kg dry air 
+Rd: relative humidity of the dilution air, % 
+Ra: relative humidity of the intake air, % 
+pd: saturation vapour pressure of the dilution air, kPa 
+pa: saturation vapour pressure of the intake air, kPa 
+pb: total barometric pressure, kPa. 
+1.3.3. Humidity correction for NOx 
+As the NOx emission depends on ambient air conditions, the NOx concentration shall be corrected for ambient air temperature and humidity by the factors KH given in the following formula: 
+KH = %gt%NUM%gt%1 
+%gt%DEN%gt%1 + A × (Ha - 10,71) + B × (Ta - 298) 
+where: 
+A: 0,309 GFUEL/GAIRD - 0,0266 
+B: - 0,209 GFUEL/GAIRD + 0,00954 
+T: temperatures of the air in K 
+%gt%NUM%gt%GFUEL 
+%gt%DEN%gt%GAIRD 
+= Fuel air ratio (dry air basis) 
+Ha: humidity of the intake air, g water per kg dry air: 
+Ha = %gt%NUM%gt%6,220 × Ra × pa 
+%gt%DEN%gt%pB - pa × Ra × 10-2 
+Ra: relative humidity of the intake air, % 
+pa: saturation vapour pressure of the intake air, kPa 
+pb: total barometric pressure, kPa. 
+1.3.4. Calculation of emission mass flow rates 
+The emission mass flow rates for each mode shall be calculated as follows: 
+(a) For the raw exhaust gas (1): 
+Gasmass = u × conc × GEXHW 
+or: 
+Gasmass = v × conc × VEXHD 
+or: 
+Gasmass = w × conc × VEXHW 
+(b) For the dilute exhaust gas (2): 
+Gasmass = u × concc × GTOTW 
+or: 
+Gasmass = w × concc × VTOTW 
+where: 
+concc is the background corrected concentration 
+concc = conc-concd × (1 - ( 
+%gt%NUM%gt%1/ 
+%gt%DEN%gt%DF 
+)) 
+DF = %gt%NUM%gt%13,4/ 
+%gt%DEN%gt%(concCO2 + (concCO + concHC) × 10- 4) 
+or: 
+DF = %gt%NUM%gt%13,4/ 
+%gt%DEN%gt%concCO2 
+.The coefficients u - wet, v - dry, w - wet shall be used according to the following table: 
+%gt%TABLE%gt% 
+The density of HC is based upon an average carbon to hydrogen ratio of 1:1,85. 
+1.3.5. Calculation of the specific emissions 
+The specific emission (g/kWh) shall be calculated for all individual components in the following way: 
+Individual gas = %gt%NUM%gt%Ói = 1nGasmass i × WFi 
+%gt%DEN%gt%Ói = 1nPi × WFi 
+where Pi = Pm,i + PAE,i. 
+The weighting factors and the number of modes (n) used in the above calculation are according to Annex III, section 3.6.1. 
+1.4. Calculation of the particulate emission 
+The particulate emission shall be calculated in the following way: 
+1.4.1. Humidity correction factor for particulates 
+As the particulate emission of diesel engines depends on ambient air conditions, the particulate mass flow rate shall be corrected for ambient air humidity with the factor Kp given in the following formula: 
+Kp = %gt%NUM%gt%1/ 
+%gt%DEN%gt%(1 + 0,0133 × (Ha - 10,71)) 
+Ha: humidity of the intake air, grammes of water per kg dry air 
+Ha = %gt%NUM%gt%6,22 × Ra × pa 
+%gt%DEN%gt%pB - pa × Ra × 10-2 
+Ra: relative humidity of the intake air,% 
+pa: saturation vapour pressure of the intake air, kPa 
+pb: total barometric pressure, kPa 
+1.4.2. Partial flow dilution system 
+The final reported test results of the particulate emission shall be derived through the following steps. Since various types of dilution rate control may be used, different calculation methods for equivalent diluted exhaust gas mass flow rate GEDF or equivalent diluted exhaust gas volume flow rate VEDF apply. All calculations shall be based upon the average values of the individual modes (i) during the sampling period. 
+1.4.2.1. Isokinetic systems 
+GEDFW,i = GEXHW,i × qi 
+or: 
+VEDFW,i = VEXHW,i × qi 
+qi = %gt%NUM%gt%GDILW,i + (GEXHW,i × r) 
+%gt%DEN%gt%(GEXHW,i × r) 
+or: 
+qi = %gt%NUM%gt%VDILW,i + (VEXHW,i × r) 
+%gt%DEN%gt%(VEXHW,i × r) 
+where r corresponds to the ratio of the cross sectional areas of the isokinetic probe Ap and exhaust pipe AT: 
+r = %gt%NUM%gt%Ap 
+%gt%DEN%gt%AT 
+1.4.2.2. Systems with measurement of CO2 or NOx concentration 
+GEDFW,i = GEXHW,i × qi 
+or: 
+VEDFW,i = VEXHW,i × qi 
+qi = %gt%NUM%gt%ConcE,i - ConcA,i 
+%gt%DEN%gt%ConcD,i - ConcA,i 
+where: 
+ConcE = wet concentration of the tracer gas in raw exhaust 
+ConcD = wet concentration of the tracer gas in the diluted exhaust 
+ConcA = wet concentration of the tracer gas in the dilution air 
+Concentrations measured on a dry basis shall be converted to a wet basis according to section 1.3.2 of this Appendix. 
+1.4.2.3. Systems with CO2 measurement and carbon balance method 
+GEDFW,i = %gt%NUM%gt%206,6 × GFUEL,i 
+%gt%DEN%gt%CO2D,i - CO2A,i 
+where: 
+CO2D = CO2 concentration of the diluted exhaust 
+CO2A = CO2 concentration of the dilution air 
+(concentrations in volume % on wet basis) 
+This equation is based upon the carbon balance assumption (carbon atoms supplied to the engine are emitted as CO2) and derived through the following steps: 
+GEDFW,i = GEXHW,i × qi 
+and: 
+qi = %gt%NUM%gt%206,6 × GFUEL,i 
+%gt%DEN%gt%GEXHW,i × (CO2D,i - CO2A,i) 
+1.4.2.4. Systems with flow measurement 
+GEDFW,i = GEXHW,i × qi 
+qi = %gt%NUM%gt%GTOTW,i 
+%gt%DEN%gt%(GTOTW,i - GDILW,i) 
+1.4.3. Full flow dilution system 
+The final reported test results of the particulate emission shall be derived through the following steps. 
+All calculations shall be based upon the average values of the individual modes (i) during the sampling period. 
+GEDFW,i = GTOTW,i 
+or: 
+VEDFW,i = VTOTW,i 
+1.4.4. Calculation of the particulate mass flow rate 
+The particulate mass flow rate shall be calculated as follows: 
+For the single filter method: 
+PTmass = %gt%NUM%gt%Mf 
+%gt%DEN%gt%MSAM 
+× %gt%NUM%gt%(GEDFW)aver 
+%gt%DEN%gt%1 000 
+or: 
+PTmass = %gt%NUM%gt%Mf 
+%gt%DEN%gt%VSAM 
+× %gt%NUM%gt%(VEDFW)aver 
+%gt%DEN%gt%1 000 
+where: 
+(GEDFW)aver, (VEDFW)aver, (MSAM)aver, (VSAM)aver over the test cycle shall be determined by summation of the average values of the individual modes during the sampling period: 
+(GEDFW)aver = Ói=1n GEDFW,i × WFi 
+(VEDFW)aver = Ói=1n VEDFW,i × WFi 
+MSAM = Ói=1n MSAM,i 
+VSAM = Ói=1n VSAM,i 
+where i = 1, . . . n 
+For the multiple filter method: 
+PTmass,i = %gt%NUM%gt%Mf,i 
+%gt%DEN%gt%MSAM,i 
+× %gt%NUM%gt%(GEDFW,i) 
+%gt%DEN%gt%1 000 
+or: 
+PTmass,i = %gt%NUM%gt%Mf,i 
+%gt%DEN%gt%VSAM,i 
+× %gt%NUM%gt%(VEDFW,i) 
+%gt%DEN%gt%1 000 
+where i = 1, . . . n 
+The particulate mass flow rate may be background corrected as follows: 
+For single filter method: 
+PTmass = [ 
+%gt%NUM%gt%Mf 
+%gt%DEN%gt%MSAM 
+- ( 
+%gt%NUM%gt%Md 
+%gt%DEN%gt%MDIL 
+× (1 - %gt%NUM%gt%1 
+%gt%DEN%gt%DF 
+))] × [ 
+%gt%NUM%gt%(GEDFW)aver 
+%gt%DEN%gt%1 000 
+] 
+or: 
+PTmass = [ 
+%gt%NUM%gt%Mf 
+%gt%DEN%gt%VSAM 
+- ( 
+%gt%NUM%gt%Md 
+%gt%DEN%gt%VDIL 
+× (1 - %gt%NUM%gt%1 
+%gt%DEN%gt%DF 
+))] × [ 
+%gt%NUM%gt%(VEDFW)aver 
+%gt%DEN%gt%1 000 
+] 
+If more than one measurement is made, (Md/MDIL) or (Md/VDIL) shall be replaced with (Md/MDIL)aver or (Md/VDIL)aver, respectively. 
+DF = %gt%NUM%gt%13,4 
+%gt%DEN%gt%concCO2 + (concCO + concHC) × 10-4 
+or: 
+DF = %gt%NUM%gt%13,4/ 
+%gt%DEN%gt%concCO2 
+For multiple filter method: 
+PTmass,i = [ 
+%gt%NUM%gt%Mf,i 
+%gt%DEN%gt%MSAM,i 
+- ( 
+%gt%NUM%gt%Md 
+%gt%DEN%gt%MDIL 
+× (1 - %gt%NUM%gt%1 
+%gt%DEN%gt%DF 
+))] × [ 
+%gt%NUM%gt%GEDFW,i 
+%gt%DEN%gt%1 000 
+] 
+or: 
+PTmass,i = [ 
+%gt%NUM%gt%Mf,i 
+%gt%DEN%gt%VSAM,i 
+- ( 
+%gt%NUM%gt%Md 
+%gt%DEN%gt%VDIL 
+× (1 - %gt%NUM%gt%1 
+%gt%DEN%gt%DF 
+))] × [ 
+%gt%NUM%gt%VEDFW,i 
+%gt%DEN%gt%1 000 
+] 
+If more than one measurement is made, (Md/MDIL) or (Md/VDIL) shall be replaced with (Md/MDIL)aver or (Md/VDIL)aver, respectively. 
+DF = %gt%NUM%gt%13,4 
+%gt%DEN%gt%concCO2 + (concCO + concHC) × 10-4 
+or: 
+DF = %gt%NUM%gt%13,4/ 
+%gt%DEN%gt%concCO2 
+1.4.5. Calculation of the specific emissions 
+The specific emission of particulates PT (g/kWh) shall be calculated in the following way (3): 
+For the single filter method: 
+PT = %gt%NUM%gt%PTmass 
+%gt%DEN%gt%Ói = 1nPi × WFi 
+For the multiple filter method: 
+PT = %gt%NUM%gt%Ói = 1nPTmass,i × WFi 
+%gt%DEN%gt%n Ó i = 1Pi × WFi 
+Pi = Pm,i + PAE,i 
+1.4.6. Effective weighting factor 
+For the single filter method, the effective weighting factor WFE,i for each mode shall be calculated in the following way: 
+WFE,i = %gt%NUM%gt%MSAM,i × (GEDFW)aver 
+%gt%DEN%gt%MSAM × (GEDFW,i) 
+or: 
+WFE,i = %gt%NUM%gt%VSAM,i × (VEDFW)aver 
+%gt%DEN%gt%VSAM × (VEDFW,i) 
+where i = l, . . . n. 
+The value of the effective weighting factors shall be within ± 0,005 (absolute value) of the weighting factors listed in Annex III, section 3.6.1. 
+(1) In the case of NOx, the NOx concentration (NOxconc or NOxconcc) has to be multiplied by KHNOX (humidity correction factor for NOx quoted in the previous section 1.3.3) as follows: 
+KHNOX × conc or KHNOX × concc 
+(2) The particulate mass flow rate PTmass has to be multiplied by Kp (humidity correction factor for particulates quoted in section 1.4.1). 
+ANNEX IV 
+TECHNICAL CHARACTERISTICS OF REFERENCE FUEL PRESCRIBED FOR APPROVAL TESTS AND TO VERIFY CONFORMITY OF PRODUCTION 
+%gt%TABLE%gt% 
+ANNEX V 
+1. ANALYTICAL AND SAMPLING SYSTEM 
+GASEOUS AND PARTICULATE SAMPLING SYSTEMS 
+%gt%TABLE%gt% 
+1.1. Determination of the gaseous emissions 
+Section 1.1.1 and Figures 2 and 3 contain detailed descriptions of the recommended sampling and analysing systems. Since various configurations can produce equivalent results, exact conformance with these figures is not required. Additional components such as instruments, valves, solenoids, pumps and switches may be used to provide additional information and coordinate the functions of the component systems. Other components which are not needed to maintain the accuracy on some systems, may be excluded if their exclusion is based upon good engineering judgement. 
+1.1.1. Gaseous exhaust components CO, CO2, HC, NOx 
+An analytical system for the determination of the gaseous emissions in the raw or diluted exhaust gas is described based on the use of: 
+- HFID analyser for the measurement of hydrocarbons, 
+- NDIR analysers for the measurement of carbon monoxide and carbon dioxide, 
+- HCLD or equivalent analyser for the measurement of nitrogen oxide. 
+For the raw exhaust gas (see Figure 2), the sample for all components may be taken with one sampling probe or with two sampling probes located in close proximity and internally split to the different analysers. Care must be taken that no condensation of exhaust components (including water and sulphuric acid) occurs at any point of the analytical system. 
+For the diluted exhaust gas (see Figure 3), the sample for the hydrocarbons shall be taken with another sampling probe than the sample for the other components. Care must be taken that no condensation of exhaust components (including water and sulphuric acid) occurs at any point of the analytical system. 
+Figure 2 Flow diagram of exhaust gas analysis system for CO, NOx and HC 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Figure 3 Flow diagram of dilute exhaust gas analysis system for CO, CO2, NOx and HC 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Descriptions - Figures 2 and 3 
+General statement: 
+All components in the sampling gas path must be maintained at the temperature specified for the respective systems. 
+- SP1 raw exhaust gas sampling probe (Figure 2 only) 
+A stainless steel straight closed and multihole probe is recommended. The inside diameter shall not be greater than the inside diameter of the sampling line. The wall thickness of the probe shall not be greater than 1 mm. There shall be a minimum of three holes in three different radial planes sized to sample approximately the same flow. The probe must extend across at least 80 % of the diameter of the exhaust pipe. 
+- SP2 dilute exhaust gas HC sampling probe (Figure 3 only) 
+The probe shall: 
+- be defined as the first 254 mm to 762 mm of the hydrocarbon sampling line (HSL3), 
+- have a 5 mm minimum inside diameter, 
+- be installed in the dilution tunnel DT (section 1.2.1.2) at a point where the dilution air and exhaust gas are well mixed (i.e. approximately 10 tunnel diameters downstream of the point where the exhaust enters the dilution tunnel), 
+- be sufficiently distant (radially) from other probes and the tunnel wall so as to be free from the influence of any wakes or eddies, 
+- be heated so as to increase the gas stream temperature to 463 K (190 °C) ± 10 K at the exit of the probe. 
+- SP3 dilute exhaust gas CO, CO2, NOx sampling probe (Figure 3 only) 
+The probe shall: 
+- be in the same plane as SP2, 
+- be sufficiently distant (radially) from other probes and the tunnel wall so as to be free from the influence of any wakes or eddies, 
+- be heated and insulated over its entire length to a minimum temperature of 328 K (55 °C) to prevent water condensation. 
+- HSL1 heated sampling line 
+The sampling line provides gas sampling from a single probe to the split point(s) and the HC analyser. 
+The sampling line shall: 
+- have a 5 mm minimum and a 13,5 mm maximum inside diameter, 
+- be made of stainless steel or PTFE, 
+- maintain a wall temperature of 463 (190 °C) ± 10 K as measured at every separately controlled heated section, if the temperature of the exhaust gas at the sampling probe is equal or below 463 K (190 °C), 
+- maintain a wall temperature greater than 453 K (180 °C) if the temperature of the exhaust gas at the sampling probe is above 463 K (190 °C), 
+- maintain a gas temperature of 463 K (190 °C) ± 10 K immediately before the heated filter (F2) and the HFID. 
+- HSL2 heated NOx sampling line 
+The sampling line shall: 
+- maintain a wall temperature of 328 to 473 K (55 to 200 °C) up to the converter when using a cooling bath, and up to the analyser when a cooling bath is not used, 
+- be made of stainless steel or PTFE. 
+Since the sampling line need only be heated to prevent condensation of water and sulphuric acid, the sampling line temperature will depend on the sulphur content of the fuel. 
+- SL sampling line for CO (CO2) 
+The line shall be made of PTFE or stainless steel. It may be heated or unheated. 
+- BK background bag (optional; Figure 3 only) 
+For the measurement of the background concentrations. 
+- BG sample bag (optional; Figure 3 CO and CO2 only) 
+For the measurement of the sample concentrations. 
+- F1 heated pre-filter (optional) 
+The temperature shall be the same as HSL1. 
+- F2 heated filter 
+The filter shall extract any solid particles from the gas sample prior to the analyser. The temperature shall be the same as HSL1. The filter shall be changed as needed. 
+- P heated sampling pump 
+The pump shall be heated to the temperature of HSL1. 
+- HC 
+Heated flame ionization detector (HFID) for the determination of the hydrocarbons. The temperature shall be kept at 453 to 473 K (180 to 200 °C). 
+- CO, CO2 
+NDIR analysers for the determination of carbon monoxide and carbon dioxide. 
+- NO2 
+(H)CLD analyser for the determination of the oxides of nitrogen. If a HCLD is used it shall be kept at a temperature of 328 to 473 K (55 to 200 °C). 
+- C converter 
+A converter shall be used for the catalytic reduction of NO2 to NO prior to analysis in the CLD or HCLD. 
+- B cooling bath 
+To cool and condense water from the exhaust sample. The bath shall be maintained at a temperature of 273 to 277 K (0 to 4 °C) by ice or refrigeration. It is optional if the analyser is free from water vapour interference as determined in Annex III, Appendix 3, sections 1.9.1 and 1.9.2. 
+Chemical dryers are not allowed for removing water from the sample. 
+- T1, T2, T3 temperature sensor 
+To monitor the temperature of the gas stream. 
+- T4 temperature sensor 
+Temperature of the NO2-NO converter. 
+- T5 temperature sensor 
+To monitor the temperature of the cooling bath. 
+- G1, G2, G3 pressure gauge 
+To measure the pressure in the sampling lines. 
+- R1, R2 pressure regulator 
+To control the pressure of the air and the fuel, respectively, for the HFID. 
+- R3, R4, R5 pressure regulator 
+To control the pressure in the sampling lines and the flow to the analysers. 
+- FL1, FL2, FL3 flow-meter 
+To monitor the sample bypass flow. 
+- FL4 to FL7 flowmeter (optional) 
+To monitor the flow rate through the analysers. 
+- V1 to V6 selector valve 
+Suitable valving for selecting sample, span gas or zero gas flow to the analyser. 
+- V7, V8 solenoid valve 
+To bypass the NO2-NO converter. 
+- V9 needle valve 
+To balance the flow through the NO2-NO converter and the bypass. 
+- V10, V11 needle valve 
+To regulate the flows to the analysers. 
+- V12, V13 toggle valve 
+To drain the condensate from the bath B. 
+- V14 selector valve 
+Selecting the sample or background bag. 
+1.2. Determination of the particulates 
+Sections 1.2.1 and 1.2.2 and Figures 4 to 15 contain detailed descriptions of the recommended dilution and sampling systems. Since various configurations can produce equivalent results, exact conformance with these figures is not required. Additional components such as instruments, valve, solenoids, pumps and switches may be used to provide additional information and coordinate the functions of the component systems. Other components which are not needed to maintain the accuracy on some systems, may be excluded if their exclusion is based on good engineering judgement. 
+1.2.1. Dilution system 
+1.2.1.1. Partial flow dilution system (Figures 4 to 12) 
+A dilution system is described based on the dilution of a part of the exhaust stream. Splitting of the exhaust stream and the following dilution process may be done by different dilution system types. For subsequent collection of the particulates, the entire dilute exhaust gas or only a portion of the dilute exhaust gas may be passed to the particulate sampling system (section 1.2.2, Figure 14). The first method is referred to as total sampling type, the second method as fractional sampling type. 
+The calculation of the dilution ratio depends on the type of system used. 
+The following types are recommended: 
+- isokinetic systems (Figures 4 and 5) 
+With these systems, the flow into the transfer tube is matched to the bulk exhaust flow in terms of gas velocity and/or pressure, thus requiring an undisturbed and uniform exhaust flow at the sampling probe. This is usually achieved by using a resonator and a straight approach tube upstream of the sampling point. The split ratio is then calculated from easily measurable values like tube diameters. It should be noted that isokinesis is only used for matching the flow conditions and not for matching the size distribution. The latter is typically not necessary, as the particles are sufficiently small as to follow the fluid streamlines, 
+- flow controlled systems with concentration measurement (Figures 6 to 10) 
+With these systems, a sample is taken from the bulk exhaust stream by adjusting the dilution air flow and the total dilution exhaust flow. The dilution ratio is determined from the concentrations of tracer gases, such as CO2 or NOx, naturally occurring in the engine exhaust. The concentrations in the dilution exhaust gas and in the dilution air are measured, whereas the concentration in the raw exhaust gas can be either measured directly or determined from fuel flow and the carbon balance equation, if the fuel composition is known. The systems may be controlled by the calculated dilution ratio (Figures 6 and 7) or by the flow into the transfer tube (Figures 8, 9 and 10), 
+- flow controlled systems with flow measurement (Figures 11 and 12) 
+With these systems, a sample is taken from the bulk exhaust stream by setting the dilution air flow and the total dilution exhaust flow. The dilution ratio is determined from the difference of the two flow rates. Accurate calibration of the flow-meters relative to one another is required, since the relative magnitude of the two flow rates can lead to significant errors at higher dilution ratios (Figures 9 and above). Flow control is very straightforward by keeping the dilute exhaust flow rate constant and varying the dilution air flow rate, if needed. 
+In order to realize the advantages of the partial flow dilution systems, attention must be paid to avoiding the potential problems of loss of particulates in the transfer tube, ensuring that a representative sample is taken from the engine exhaust, and determination of the split ratio. 
+The systems described pay attention to these critical areas. 
+Figure 4 Partial flow dilution system with isokinetic probe and fractional sampling (SB control) 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Raw exhaust gas is transferred from the exhaust pipe to EP to the dilution tunnel DT through the transfer tube TT by the isokinetic sampling probe ISP. The differential pressure of the exhaust gas between exhaust pipe and inlet to the probe is measured with the pressure transducer DPT. This signal is transmitted to the flow controller FC1 that controls the suction blower SB to maintain a differential pressure of zero at the tip of the probe. Under these conditions, exhaust gas velocities in EP and ISP are identical, and the flow through ISP and TT is a constant fraction (split) of the exhaust gas flow. The split ratio is determined from the cross sectional areas of EP and ISP. The dilution air flow rate is measured with the flow measurement device FM1. The dilution ratio is calculated from the dilution air flow rate and the split ratio. 
+Figure 5 Partial flow dilution system with isokinetic probe and fractional sampling (PB control) 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Raw exhaust gas is transferred from the exhaust pipe EP to the dilution tunnel DT through the transfer tube TT by the isokinetic sampling probe ISP. The differential pressure of the exhaust gas between exhaust pipe and inlet to the probe is measured with the pressure transducer DPT. This signal is transmitted to the flow controller FC1 that controls the pressure blower PB to maintain a differential pressure of zero at the tip of the probe. This is done by taking a small fraction of the dilution air whose flow rate has already been measured with the flow measurement device FM1, and feeding it to TT by means of a pneumatic orifice. Under these conditions, exhaust gas velocities in EP and ISP are identical, and the flow through ISP and TT is a constant fraction (split) of the exhaust gas flow. The split ratio is determined from the cross sectional areas of EP and ISP. The dilution air is sucked through DT by the suction blower SB, and the flow rate is measured with FM1 at the inlet to DT. The dilution ratio is calculated from the dilution air flow rate and the split ratio. 
+Figure 6 Partial flow dilution system with CO2 or NOx concentration measurement and fractional sampling 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Raw exhaust gas is transferred from the exhaust pipe EP to the dilution tunnel DT through the sampling probe SP and the transfer tube TT. The concentrations of a tracer gas (CO2 or NOx) are measured in the raw and diluted exhaust gas as well as in the dilution air with the exhaust gas analyser(s) EGA. These signals are transmitted to the flow controller FC2 that controls either the pressure blower PB or the suction blower SB to maintain the desired exhaust split and dilution ratio in DT. The dilution ratio is calculated from the tracer gas concentrations in the raw exhaust gas, the diluted exhaust gas, and the dilution air. 
+Figure 7 Partial flow dilution system with CO2 concentration measurement, carbon balance and total sampling 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Raw exhaust gas is transferred from the exhaust pipe EP to the dilution tunnel DT through the sampling probe SP and the transfer tube TT. The CO2 concentrations are measured in the diluted exhaust gas and in the dilution air with the exhaust gas analyser(s) EGA. The CO2 and fuel flow GFUEL signals are transmitted either to the flow controller FC2, or to the flow controller FC3 of the particulate sampling system (see Figure 14). FC2 controls the pressure blower PB, while FC3 controls the particulate sampling system (see Figure 14), thereby adjusting the flows into and out of the system so as to maintain the desired exhaust split and dilution ratio in DT. The dilution ratio is calculated from the CO2 concentrations and GFUEL using the carbon balance assumption. 
+Figure 8 Partial flow dilution system with single venturi, concentration measurement and fractional sampling 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Raw exhaust gas is transferred from the exhaust pipe EP to the dilution tunnel DT through the sampling probe SP and the transfer tube TT due to the negative pressure created by the venturi VN in DT. The gas flow rate through TT depends on the momentum exchange at the venturi zone, and is therefore affected by the absolute temperature of the gas at the exit of TT. Consequently, the exhaust split for a given tunnel flow rate is not constant, and the dilution ratio at low load is slightly lower than at high load. The tracer gas concentrations (CO2 or NOx) are measured in the raw exhaust gas, the diluted exhaust gas, and the dilution air with the exhaust gas analyser(s) EGA, and the dilution ratio is calculated from the values so measured. 
+Figure 9 Partial flow dilution system twin venturi or twin orifice, concentration measurement and fractional sampling 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Raw exhaust gas is transferred from the exhaust pipe EP to the dilution tunnel DT through the sampling probe SP and the transfer tube TT by a flow divider that contains a set of orifices or venturis. The first one (FD1) is located in EP, the second one (FD2) in TT. Additionally, two pressure control valves (PCV1 and PCV2) are necessary to maintain a constant exhaust split by controlling the backpressure in EP and the pressure in DT. PCV1 is located downstream of SP in EP, PCV2 between the pressure blower PB and DT. The tracer gas concentrations (CO2 or NOx) are measured in the raw exhaust gas, the diluted exhaust gas, and the dilution air with the exhaust gas analyser(s) EGA. They are necessary for checking the exhaust split, and may be used to adjust PCV1 and PCV2 for precise split control. The dilution ratio is calculated from the tracer gas concentrations. 
+Figure 10 Partial flow dilution system with multiple tube splitting, concentration measurement and fractional sampling 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Raw exhaust gas is transferred from the exhaust pipe EP to the dilution tunnel DT through the transfer tube TT by the flow divider FD3 that consists of a number of tubes of the same dimensions (same diameter, length and bed radius) installed in EP. The exhaust gas through one of these tubes is lead to DT, and the exhaust gas through the rest of the tubes is passed through the damping chamber DC. Thus, the exhaust split is determined by the total number of tubes. A constant split control requires a differential pressure of zero between DC and the outlet of TT, which is measured with the differential pressure transducer DPT. A differential pressure of zero is achieved by injecting fresh air into DT at the outlet of TT. The tracer gas concentrations (CO2 or NOx) are measured in the raw exhaust gas, the diluted exhaust gas, and the dilution air with the exhaust gas analyser(s) EGA. They are necessary for checking the exhaust split and may be used to control the injection air flow rate for precise split control. The dilution ratio is calculated from the tracer gas concentrations. 
+Figure 11 Partial flow dilution system with flow control and total sampling 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Raw exhaust gas is transferred from the exhaust pipe EP to the dilution tunnel DT through the sampling probe SP and the transfer tube TT. The total flow through the tunnel is adjusted with the flow controller FC3 and the sampling pump P of the particulate sampling system (see Figure 16). The dilution air flow is controlled by the flow controller FC2, which may use GEXH, GAIR or GFUEL as command signals, for the desired exhaust split. The sample flow into DT is the difference of the total flow and the dilution air flow. The dilution air flow rate is measured with flow measurement device FM1, the total flow rate with the flow measurement device FM3 of the particulate sampling system (see Figure 14). The dilution ratio is calculated from these two flow rates. 
+Figure 12 Partial flow dilution system with flow control and fractional sampling 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+Raw exhaust gas is transferred from the exhaust pipe EP to the dilution tunnel DT through the sampling probe SP and the transfer tube TT. The exhaust split and the flow into DT is controlled by the flow controller FC2 that adjusts the flows (or speeds) of the pressure blower PB and the suction blower SB, accordingly. This is possible since the sample taken with the particulate sampling system is returned into DT. GEXH, GAIR or GFUEL may be used as command signals for FC2. The dilution air flow rate is measured with the flow measurement device FM1, the total flow with the flow measurement device FM2. The dilution ratio is calculated from these two flow rates. 
+Description - Figures 4 to 12 
+- EP exhaust pipe 
+The exhaust pipe may be insulated. To reduce the thermal inertia of the exhaust pipe a thickness to diameter ratio of 0,015 or less is recommended. The use of flexible sections shall be limited to a length to diameter ratio of 12 or less. Bends will be minimized to reduce inertial deposition. If the system includes a test bed silencer, the silencer may also be insulated. 
+For an isokinetic system, the exhaust pipe must be free of elbows, bends and sudden diameter changes for at least six pipe diameters upstream and three pipe diameters downstream of the tip of the probe. The gas velocity at the sampling zone must be higher than 10 m/s except at idle mode. Pressure oscillations of the exhaust gas must not exceed ± 500 Pa on the average. Any steps to reduce pressure oscillations beyond using a chassis-type exhaust system (including silencer and after-treatment device) must not alter engine performance nor cause the deposition of particulates. 
+For systems without isokinetic probes, it is recommended to have a straight pipe of six pipe diameters upstream and three pipe diameters downstream of the tip of the probe. 
+- SP sampling probe (Figures 6 to 12) 
+The minimum inside diameter shall be 4 mm. The minimum diameter ratio between exhaust pipe and probe shall be four. The probe shall be an open tube facing upstream on the exhaust pipe centre-line, or a multiple hole probe as described under SP1 in section 1.1.1. 
+- ISP isokinetic sampling probe (Figures 4 and 5) 
+The isokinetic sampling probe must be installed facing upstream on the exhaust pipe centre-line where the flow conditions in section EP are met, and designed to provide a proportional sample of the raw exhaust gas. The minimum inside diameter shall be 12 mm. 
+A control system is necessary for isokinetic exhaust splitting by maintaining a differential pressure of zero between EP and ISP. Under these conditions exhaust gas velocities in EP and ISP are identical and the mass flow through ISP is a constant fraction of the exhaust gas flow. The ISP has to be connected to a differential pressure transducer. The control to provide a differential pressure of zero between EP and ISP is done with blower speed or flow controller. 
+- FD1, FD2 flow divider (Figure 9) 
+A set of venturis or orifices is installed in the exhaust pipe EP and in the transfer tube TT, respectively, to provide a proportional sample of the raw exhaust gas. A control system consisting of two pressure control valves PCV1 and PCV2 is necessary for proportional splitting by controlling the pressures in EP and DT. 
+- FD3 flow divider (Figure 10) 
+A set of tubes (multiple tube unit) is installed in the exhaust pipe EP to provide a proportional sample of the raw exhaust gas. One of the tubes feeds exhaust gas to the dilution tunnel DT, whereas the other tubes exit exhaust gas to a damping chamber DC. The tubes must have the same dimensions (same diameter, length, bend radius), so that the exhaust split depends on the total number of tubes. A control system is necessary for proportional splitting by maintaining a differential pressure of zero between the exit of the multiple tube unit into DC and the exit of TT. Under these conditions, exhaust gas velocities in EP and FD3 are proportional, and the flow TT is a constant fraction of the exhaust gas flow. The two points have to be connected to a differential pressure transducer DPT. The control to provide a differential pressure of zero is done with the flow controller FC1. 
+- EGA exhaust gas analyser (Figures 6 to 10) 
+CO2 or NOx analysers may be used (with carbon balance method CO2 only). The analysers shall be calibrated like the analysers for the measurement of the gaseous emissions. One or several analysers may be used to determine the concentration differences. 
+The accuracy of the measuring systems has to be such that the accuracy of GEDFW,i or VEDFW,i is within ± 4 %. 
+- TT transfer tube (Figures 4 to 12) 
+The particulate sample transfer tube shall be: 
+- as short as possible, but not more than 5 m in length, 
+- equal to or greater than the probe diameter, but not more than 25 mm in diameter, 
+- exiting on the centre-line of the dilution tunnel and pointing down-stream. 
+If the tube is 1 metre or less in length, it is to be insulated with material with a maximum thermal conductivity of 0,05 W/(m 7 K) with a radial insulation thickness corresponding to the diameter of the probe. If the tube is longer than 1 metre, it must be insulated and heated to a minimum wall temperature of 523 K (250 °C). 
+Alternatively, the transfer tube wall temperatures required may be determined through standard heat transfer calculations. 
+- DPT differential pressure transducer (Figures 4, 5 and 10) 
+The differential pressure transducer shall have a range of ± 500 Pa or less. 
+- FC1 flow controller (Figures 4, 5 and 10) 
+For the isokinetic systems (Figures 4 and 5) a flow controller is necessary to maintain a differential pressure of zero between EP and ISP. The adjustment can be done by: 
+(a) controlling the speed or flow of the suction blower (SB) and keeping the speed of the pressure blower (PB) constant during each mode (Figure 4); 
+or 
+(b) adjusting the suction blower (SB) to a constant mass flow of the diluted exhaust and controlling the flow of the pressure blower PB, and therefore the exhaust sample flow in a region at the end of the transfer tube (TT) (Figure 5). 
+In the case of a pressure controlled system the remaining error in the control loop must not exceed ± 3 Pa. The pressure oscillations in the dilution tunnel must not exceed ± 250 Pa on average. 
+For a multi-tube system (Figure 10) a flow controller is necessary for proportional exhaust splitting to maintain a differential pressure of zero between the outlet of the multi-tube unit and the exit of TT. The adjustment can be done by controlling the injection air flow rate into DT at the exit of TT. 
+- PCV1, PCV2 pressure control valve (Figure 9) 
+Two pressure control valves are necessary for the twin venturi/twin orifice system for proportional flow splitting by controlling the backpressure of EP and the pressure in DT. The valves shall be located downstream of SP in EP and between PB and DT. 
+- DC damping chamber (Figure 10) 
+A damping chamber shall be installed at the exit of the multiple tube unit to minimize the pressure oscillations in the exhaust pipe EP. 
+- VN venturi (Figure 8) 
+A venturi is installed in the dilution tunnel DT to create a negative pressure in the region of the exit of the transfer tube TT. The gas flow rate through TT is determined by the momentum exchange at the venturi zone, and is basically proportional to the flow rate of the pressure blower PB leading to a constant dilution ratio. Since the momentum exchange is affected by the temperature at the exit of TT and the pressure difference between EP and DT, the actual dilution ratio is slightly lower at low load than at high load. 
+- FC2 flow controller (Figures 6, 7, 11 and 12; optional) 
+A flow controller may be used to control the flow of the pressure blower PB and/or the suction blower SB. It may be connected to the exhaust flow or fuel flow signal and/or to the CO2 or NOx differential signal. 
+When using a pressurized air supply (Figure 11) FC2 directly controls the air flow. 
+- FM1 flow measurement device (Figures 6, 7, 11 and 12) 
+Gas meter or other flow instrumentation to measure the dilution air flow. FM1 is optional if PB is calibrated to measure the flow. 
+- FM2 flow measurement device (Figure 12) 
+Gas meter or other flow instrumentation to measure the diluted exhaust gas flow. FM2 is optional if the suction blower SB is calibrated to measure the flow. 
+- PB pressure blower (Figures 4, 5, 6, 7, 8, 9 and 12) 
+To control the dilution air flow rate, PB may be connected to the flow controllers FC1 or FC2. PB is not required when using a butterfly valve. PB may be used to measure the dilution air flow, if calibrated. 
+- SB suction blower (Figures 4, 5, 6, 9, 10 and 12) 
+For fractional sampling systems only. SB may be used to measure the dilute exhaust gas flow, if calibrated. 
+- DAF dilution air filter (Figures 4 to 12) 
+It is recommended that the dilution air be filtered and charcoal scrubbed to eliminate background hydrocarbons. The dilution air shall have a temperature of 298 K (25 °C) ± 5 K. 
+At the manufacturer's request the dilution air shall be sampled according to good engineering practice to determine the background particulate levels, which can then be subtracted from the values measured in the diluted exhaust. 
+- PSP particulate sampling probe (Figures 4, 5, 6, 8, 9, 10 and 12) 
+The probe is the leading section of PTT and 
+- shall be installed facing upstream at a point where the dilution air and exhaust gas are well mixed, i.e. on the dilution tunnel DT centre-line of the dilution systems approximately 10 tunnel diameters downstream of the point where the exhaust enters the dilution tunnel, 
+- shall be 12 mm in minimum inside diameter, 
+- may be heated to no greater than 325 K (52 °C) wall temperature by direct heating or by dilution air pre-heating, provided the air temperature does not exceed 325 K (52 °C) prior to the introduction of the exhaust in the dilution tunnel, 
+- may be insulated. 
+- DT dilution tunnel (Figures 4 to 12) 
+The dilution tunnel: 
+- shall be of a sufficient length to cause complete mixing of the exhaust and dilution air under turbulent flow conditions, 
+- shall be constructed of stainless steel with: 
+- a thickness to diameter ratio of 0,025 or less for dilution tunnels of greater than 75 mm inside diameter, 
+- a nominal wall thickness of not less than 1,5 mm for dilution tunnels of equal to or less than 75 mm inside diameter, 
+- shall be at least 75 mm in diameter for the fractional sampling type, 
+- is recommended to be at least 25 mm in diameter for the total sampling type. 
+May be heated to no greater than 325 K (52 °C) wall temperature by direct heating or by dilution air pre-heating, provided the air temperature does not exceed 325 K (52 °C) prior to the introduction of the exhaust in the dilution tunnel. 
+May be insulated. 
+The engine exhaust shall be thoroughly mixed with the dilution air. For fractional sampling systems, the mixing quality shall be checked after introduction into service by means of a CO2 profile of the tunnel with the engine running (at least four equally spaced measuring points). If necessary, a mixing orifice may be used. 
+Note: If the ambient temperature in the vicinity of the dilution tunnel (DT) is below 293 K (20 °C), precautions should be taken to avoid particle losses onto the cool walls of the dilution tunnel. Therefore, heating and/or insulating the tunnel within the limits given above is recommended. 
+At high engine loads, the tunnel may be cooled by a non-aggressive means such as a circulating fan, as long as the temperature of the cooling medium is not below 293 K (20 °C). 
+- HE heat exchanger (Figures 9 and 10) 
+The heat exchanger shall be of sufficient capacity to maintain the temperature at the inlet to the suction blower SB within ± 11 K of the average operating temperature observed during the test. 
+1.2.1.2. Full flow dilution system (Figure 13) 
+A dilution system is described based upon the dilution of the total exhaust using the constant volume sampling (CVS) concept. The total volume of the mixture of exhaust and dilution air must be measured. Either a PDP or a CFV system may be used. 
+For subsequent collection of the particulates, a sample of the dilute exhaust gas is passed to the particulate sampling system (section 1.2.2, Figures 14 and 15). If this is done directly, it is referred to as single dilution. If the sample is diluted once more in the secondary dilution tunnel, it is referred to as double dilution. This is useful, if the filter face temperature requirement cannot be met with single dilution. Although partly a dilution system, the double dilution system is described as a modification of a particulate sampling system in section 1.2.2, Figure 15, since it shares most of the parts with a typical particulate sampling system. 
+The gaseous emissions may also be determined in the dilution tunnel of a full flow dilution system. Therefore, the sampling probes for the gaseous components are shown in Figure 13 but do not appear in the description list. The respective requirements are described in section 1.1.1. 
+Descriptions - Figure 13 
+- EP exhaust pipe 
+The exhaust pipe length from the exit of the engine exhaust manifold, turbocharger outlet or after-treatment device to the dilution tunnel is required to be not more than 10 m. If the system exceeds 4 m in length, then all tubing in excess of 4 m shall be insulated, except for an in-line smoke-meter, if used. The radial thickness of the insulation must be at least 25 mm. The thermal conductivity of the insulating material must have a value no greater than 0,1 W/(m 7 K) measured at 673 K (400 °C). To reduce the thermal inertia of the exhaust pipe a thickness to diameter ratio of 0,015 or less is recommended. The use of flexible sections shall be limited to a length to diameter ratio of 12 or less. 
+Figure 13 Full flow dilution system 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+The total amount of raw exhaust gas is mixed in the dilution tunnel DT with the dilution air. 
+The diluted exhaust gas flow rate is measured either with a positive displacement pump PDP or with a critical flow venturi CFV. A heat exchanger HE or electronic flow compensation EFC may be used for proportional particulate sampling and for flow determination. Since particulate mass determination is based on the total diluted exhaust gas flow, the dilution ratio is not required to be calculated. 
+- PDP positive displacement pump 
+The PDP meters total diluted exhaust flow from the number of the pump revolutions and the pump displacement. The exhaust system back pressure must not be artificially lowered by the PDP or dilution air inlet system. Static exhaust back pressure measured with the CVS system operating shall remain within ± 1,5 kPa of the static pressure measured without connection to the CVS at identical engine speed and load. 
+The gas mixture temperature immediately ahead of the PDP shall be within ± 6 K of the average operating temperature observed during the test, when no flow compensation is used. 
+Flow compensation can only be used if the temperature at the inlet of the PDP does not exceed 50 °C (323 K). 
+- CFV critical flow venturi 
+CFV measures total diluted exhaust flow by maintaining the flow at choked conditions (critical flow). Static exhaust backpressure measured with the CFV system operating shall remain within ± 1,5 kPa of the static pressure measured without connection to the CFV at identical engine speed and load. The gas mixture temperature immediately ahead of the CFV shall be within ± 11 K of the average operating temperature observed during the test, when no flow compensation is used. 
+- HE heat exchanger (optional if EFC is used) 
+The heat exchanger shall be of sufficient capacity to maintain the temperature within the limits required above. 
+- EFC electronic flow compensation (optional if HE is used) 
+If the temperature at the inlet to either the PDP or CFV is not kept within the limits stated above, a flow compensation system is required for continuous measurement of the flow rate and control of the proportional sampling in the particulate system. 
+To that purpose, the continuously measured flow rate signals are used to correct the sample flow rate through the particulate filters of the particulate sampling system (see Figures 14 and 15), accordingly. 
+- DT dilution tunnel 
+The dilution tunnel: 
+- shall be small enough in diameter to cause turbulent flow (Reynolds number greater than 4 000) of sufficient length to cause complete mixing of the exhaust and dilution air. A mixing orifice may be used, 
+- shall be at least 75 mm in diameter, 
+- may be insulated. 
+The engine exhaust shall be directed downstream at the point where it is introduced into the dilution tunnel, and thoroughly mixed. 
+When using single dilution, a sample from the dilution tunnel is transferred to the particulate sampling system (section 1.2.2, Figure 14). The flow capacity of the PDP or CFV must be sufficient to maintain the diluted exhaust at a temperature of less than or equal to 325 K (52 °C) immediately before the primary particulate filter. 
+When using double dilution, a sample from the dilution tunnel is transferred to the secondary dilution tunnel where it is further diluted, and then passed through the sampling filters (section 1.2.2, Figure 15). 
+The flow capacity of the PDP or CFV must be sufficient to maintain the diluted exhaust stream in the DT at a temperature of less than or equal to 464 K (191 °C) at the sampling zone. The secondary dilution system must provide sufficient secondary dilution air to maintain the doubly-diluted exhaust stream at a temperature of less than or equal to 325 K (52 °C) immediately before the primary particulate filter. 
+- DAF dilution air filter 
+It is recommended that the dilution air be filtered and charcoal scrubbed to eliminate background hydrocarbons. The dilution air shall have a temperature of 298 K (25 °C) ± 5 K. At the manufacturer's request the dilution air shall be sampled according to good engineering practice to determine the background particulate levels, which can then be subtracted from the values measured in the diluted exhaust. 
+- PSP particulate sampling probe 
+The probe is the leading section of PTT and 
+- shall be installed facing upstream at a point where the dilution air and exhaust gas are well mixed, i.e. on the dilution tunnel DT centre-line of the dilution systems approximately 10 tunnel diameters downstream of the point where the exhaust enters the dilution tunnel, 
+- shall be 12 mm in minimum inside diameter, 
+- may be heated to no greater than 325 K (52 °C) wall temperature by direct heating or by dilution air pre-heating, provided the air temperature does not exceed 325 K (52 °C) prior to the introduction of the exhaust in the dilution tunnel, 
+- may be insulated. 
+1.2.2. Particulate sampling system (Figures 14 and 15) 
+The particulate sampling system is required for collecting the particulates on the particulate filter. In the case of total sampling partial flow dilution, which consists of passing the entire dilute exhaust sample through the filters, dilution (section 1.2.1.1, Figures 7 and 11) and sampling system usually form an integral unit. In the case of fractional sampling partial flow dilution or full flow dilution, which consists of passing through the filters only a portion of the diluted exhaust, the dilution (section 1.2.1.1, Figures 4, 5, 6, 8, 9, 10 and 12 and section 1.2.1.2, Figure 13) and sampling systems usually form different units. 
+In this Directive, the double dilution system DDS (Figure 15) of a full flow dilution system is considered as a specific modification of a typical particulate sampling system as shown in Figure 14. The double dilution system includes all important parts of the particulate sampling system, like filter holders and sampling pump, and additionally some dilution features, like a dilution air supply and a secondary dilution tunnel. 
+In order to avoid any impact on the control loops, it is recommended that the sample pump be running throughout the complete test procedure. For the single filter method, a bypass system shall be used for passing the sample through the sampling filters at the desired times. Interference of the switching procedure on the control loops must be minimized. 
+Descriptions - Figures 14 and 15 
+- PSP particulate sampling probe (Figures 14 and 15) 
+The particulate sampling probe shown in the figures is the leading section of the particulate transfer tube PTT. 
+The probe: 
+- shall be installed facing upstream at a point where the dilution air and exhaust gas are well mixed, i.e. on the dilution tunnel DT centre-line of the dilution systems (see section 1.2.1), approximately 10 tunnel diameters downstream of the point where the exhaust enters the dilution tunnel), 
+- shall be 12 mm in minimum inside diameter, 
+- may be heated to no greater than 325 K (52 °C) wall temperature by direct heating or by dilution air pre-heating, provided the air temperature does not exceed 325 K (52 °C) prior to the introduction of the exhaust in the dilution tunnel, 
+- may be insulated. 
+Figure 14 Particulate sampling system 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+A sample of the diluted exhaust gas is taken from the dilution tunnel DT of a partial flow or full flow dilution system through the particulate sampling probe PSP and the particulate transfer tube PTT by means of the sampling pump P. The sample is passed through the filter holders(s) FH that contain the particulate sampling filters. The sample flow rate is controlled by the flow controller FC3. If electronic flow compensation EFC (see Figure 13) is used, the diluted exhaust gas flow is used as command signal for FC3. 
+Figure 15 Dilution system (full flow system only) 
+%gt%REFERENCE TO A GRAPHIC%gt% 
+A sample of the diluted exhaust gas is transferred from the dilution tunnel DT of a full flow dilution system through the particulate sampling probe PSP and the particulate transfer tube PTT to the secondary dilution tunnel SDT, where it is diluted once more. The sample is then passed through the filter holder(s) FH that contain the particulate sampling filters. The dilution air flow rate is usually constant whereas the sample flow rate is controlled by the flow controller FC3. If electronic flow compensation EFC (see Figure 13) is used, the total diluted exhaust gas flow is used as command signal for FC3. 
+- PTT particulate transfer tube (Figures 14 and 15) 
+The particulate transfer tube must not exceed 1 020 mm in length, and must be minimized in length whenever possible. 
+The dimensions are valid for: 
+- the partial flow dilution fractional sampling type and the full flow single dilution system from the probe tip to the filter holder, 
+- the partial flow dilution total sampling type from the end of the dilution tunnel to the filter holder, 
+- the full flow double dilution system from the probe tip to the secondary dilution tunnel. 
+The transfer tube: 
+- may be heated to no greater than 325 K (52 °C) wall temperature by direct heating or by dilution air pre-heating, provided the air temperature does not exceed 325 K (52 °C) prior to the introduction of the exhaust in the dilution tunnel, 
+- may be insulated. 
+- SDT secondary dilution tunnel (Figure 15) 
+The secondary dilution tunnel should have a minimum diameter of 75 mm and should be sufficient length so as to provide a residence time of at least 0,25 seconds for the doubly-diluted sample. The primary filter holder, FH, shall be located within 300 mm of the exit of the SDT. 
+The secondary dilution tunnel: 
+- may be heated to no greater than 325 K (52 °C) wall temperature by direct heating or by dilution air pre-heating, provided the air temperature does not exceed 325 K (52 °C) prior to the introduction of the exhaust in the dilution tunnel, 
+- may be insulated. 
+- FH filter holder(s) (Figures 14 and 15) 
+For primary and back-up filters one filter housing or separate filter housings may be used. The requirements of Annex III, Appendix 1, section 1.5.1.3 have to be met. 
+The filter holder(s): 
+- may be heated to no greater than 325 K (52 °C) wall temperature by direct heating or by dilution air pre-heating, provided the air temperature does not exceed 325 K (52 °C), 
+- may be insulated. 
+- P sampling pump (Figures 14 und 15) 
+The particulate sampling pump shall be located sufficiently distant from the tunnel so that the inlet gas temperature is maintained constant (± 3 K), if flow correction by FC3 is not used. 
+- DP dilution air pump (Figure 15) (full flow double dilution only) 
+The dilution air pump shall be located so that the secondary dilution air is supplied at a temperature of 298 K (25 °C) ± 5 K. 
+- FC3 flow controller (Figures 14 und 15) 
+A flow controller shall be used to compensate the particulate sample flow rate for temperature and backpressure variations in the sample path, if no other means are available. The flow controller is required if electronic flow compensation EFC (see Figure 13) is used. 
+- FM3 flow measurement device (Figures 14 und 15) (particulate sample flow) 
+The gas meter or flow instrumentation shall be located sufficiently distant from the sample pump so that the inlet gas temperature remains constant (± 3 K), if flow correction by FC3 is not used. 
+- FM4 flow measurement device (Figure 15) (dilution air, full flow double dilution only) 
+The gas meter or flow instrumentation shall be located so that the inlet gas temperature remains at 298 K (25 °C) ± 5 K. 
+- BV ball valve (optional) 
+The ball valve shall have a diameter not less than the inside diameter of the sampling tube and a switching time of less than 0,5 seconds. 
+Note: If the ambient temperature in the vicinity of PSP, PTT, SDT, and FH is below 239 K (20 °C), precautions should be taken to avoid particle losses onto the cool wall of these parts. Therefore, heating and/or insulating these parts within the limits given in the respective descriptions is recommended. It is also recommended that the filter face temperature during sampling be not below 293 K (20 °C). 
+At high engine loads, the above parts may be cooled by a non-aggressive means such as a circulating fan, as long as the temperature of the cooling medium is not below 293 K (20 °C). 
+ANNEX VI 
+(Model) TYPE-APPROVAL CERTIFICATE 
+%gt%START OF GRAPHIC%gt% 
+Stamp of administration 
+Communication concerning the: 
+- type-approval/extension/refusal/withdrawal (1) of type-approval 
+of an engine type or family of engine types with regard to the emission of pollutants pursuant to Directive 97/68/EC, as last amended by Directive . . ./. . ./EC 
+Type-approval No: . . . . . . . . . . . . . . . . . . . . . Extension No: . 
+Reason for extension (where appropriate): . 
+SECTION I 
+0. General 
+0.1. Make (name of undertaking): . 
+0.2. Manufacturer's designation of the parent-/and (if applicable) of the family engine(s) type(s) (1): 
+. 
+0.3. Manufacturer's type coding as marked on the engine(s): . 
+Location: . 
+Method of affixing: . 
+0.4. Specification of machinery to be propelled by the engine (2): . 
+0.5. Name and address of manufacturer: . 
+Name and address of manufacturer's authorized representative (if any): . 
+. . 
+0.6. Location, coding and method of affixing of the engine identification number: . 
+. . 
+0.7. Location and method of affixing of the EC approval mark: . 
+0.8. Address(es) of assembly plant(s): . 
+SECTION II 
+1. Restriction of use (if any): . 
+1.1. Particular conditions to be respected in the installation of the engine(s) on the machinery 
+1.1.1. Maximum allowable intake depression: . kPa 
+1.1.2. Maximum allowable back pressure: . kPa 
+2. Technical service responsible for carrying out the tests (3): . 
+. 
+3. Date of test report: . 
+(1) Delete as appropriate.(2) As defined in Annex I, section 1 of this Directive (e.g.: 'A').(3) Fill in n.a. where the tests are carried out by the approval authority itself.4. Number of test report: . 
+5. The undersigned hereby certifies the accuracy of the manufacturer's description in the attached information document of the engine(s) described above and that the attached test results are applicable to the type. The sample(s) has (have) been selected by the approval authority and submitted by the manufacturer as the (parent) engine type(s) (1). 
+Type-approval is granted/refused/withdrawn (1) 
+Place: . 
+Date: . 
+Signature: . 
+Attachments: Information package. 
+Test results (see Appendix 1) 
+Correlation study relevant to sampling systems used which are different from the reference systems (2) (if applicable) 
+(1) Delete as appropriate.(2) Specified in Annex I section 4.2. 
+%gt%END OF GRAPHIC%gt% 
+Appendix 1 
+TEST RESULTS 
+%gt%START OF GRAPHIC%gt% 
+1. Information concerning the conduct of the test(s) (1): 
+1.1. Reference fuel used for test 
+1.1.1. Cetane number: . 
+1.1.2. Sulphur content: . 
+1.1.3. Density . 
+1.2. Lubricant 
+1.2.1. Make(s): . 
+1.2.2. Type(s): . 
+(state percentage of oil in mixture if lubricant and fuel are mixed) 
+1.3. Engine driven equipment (if applicable) 
+1.3.1. Enumeration and identifying details: . 
+1.3.2. Power absorbed at indicated engine speeds (as specified by the manufacturer): 
+Power PAE (kW) absorbed at various engine speeds (1) Equipment 
+Intermediate 
+Rated 
+Total: 
+(1) Must not be greater than 10 % of the power measured during the test. 
+1.4. Engine performance 
+1.4.1. Engine speeds: 
+Idle: . rpm 
+Intermediate: . rpm 
+Rated: . rpm 
+1.4.2. Engine power (2) 
+Power setting (kW) at various engine speeds 
+Condition 
+Intermediate 
+Rated 
+Maximum power measured on test (PM) (kW) (a) 
+Total power absorbed by engine driven equipment as per section 1.3.2 of this Appendix, or section 2.8 of Annex III (PAE) (kW) (b) 
+Net engine power as specified in section 2.4 of Annex I (kW) (c) 
+c = a + b 
+(1) For the case of several parent engines to be indicated for each of them.(2) Uncorrected power measured in accordance with the provisions of section 2.4 of Annex I. 1.5. Emission levels 
+1.5.1. Dynamometer setting (kW) 
+Dynamometer setting (kW) at various engine speeds 
+Percent Load 
+Intermediate 
+Rated 
+10 
+50 
+75 
+100 
+1.5.2. 8 mode emission test results: 
+CO: . g/kWh 
+HC: . g/kWh 
+NOx: . g/kWh 
+Particulates: . g/kWh 
+1.5.3. Sampling system used for the test: 
+1.5.3.1. Gaseous emissions (1): . 
+1.5.3.2. Particulates (1): . 
+1.5.3.2.1. Method (2): single/multiple filter 
+(1) Indicate figure numbers defined in Annex V section 1.(2) Delete as appropriate. 
+%gt%END OF GRAPHIC%gt% 
+ANNEX VII 
+APPROVAL CERTIFICATE NUMBERING SYSTEM (see Article 4 (2)) 
+1. The number shall consist of five sections separated by the '*` character. 
+%gt%TABLE%gt% 
+Section 2: the number of this Directive. As it contains different implementation dates and different technical standards, two alphabetical characters are added. These characters refer to the different application dates for the stages of severity and to the application of the engine for different specification of mobile machinery, on the basis of which type-approval was granted. The first character is defined in Article 9. The second character is defined in Annex I, section 1 with regard to the test mode defined in Annex III, section 3.6. 
+Section 3: the number of the latest amending Directive applicable to the approval. If applicable two further alphabetical characters are to be added depending on the conditions described in section 2, even if as a result of the new parameters only one of the characters was to be changed. If no change of these characters apply they shall be omitted. 
+Section 4: a four-digit sequential number (with leading zeros as applicable) to denote the base approval number. The sequence shall start from 0001. 
+Section 5: a two-digit sequential number (with a leading zero if applicable) to denote the extension. The sequence shall start from 01 for each base approval number. 
+2. Example for the third approval (with, as yet, no extension) corresponding to application date A (stage I, upper powerband) and to the application of the engine for specification A of mobile machinery, issued by the United Kingdom: 
+e 11*98/...AA*00/000XX*0003*00 
+3. Example of the second extension to the fourth approval corresponding to application date E (stage II, medium powerband) for the same specification of machinery (A), issued by Germany: 
+e 1*01/...EA*00/000XX*0004*02 
+ANNEX VIII 
+LIST OF ENGINE/ENGINE FAMILY TYPE-APPROVALS ISSUED 
+%gt%START OF GRAPHIC%gt% 
+Stamp of administration List number: . 
+Covering the period . . . . . . . . . . . . . . . . . . . . . . to . 
+The following information in respect of each approval granted, refused or withdrawn in the abovementioned period shall be given: 
+Manufacturer: . 
+Approval number: . 
+Reason for extension (where applicable): . 
+Make: . 
+Type of engine / engine family (1): . 
+Date of issue: . 
+First issued date (in the case of extensions): . 
+(1) Delete as appropriate. 
+%gt%END OF GRAPHIC%gt% 
+ANNEX IX 
+LIST OF ENGINES PRODUCED 
+%gt%START OF GRAPHIC%gt% 
+Stamp of administration List number: . 
+Covering the period . . . . . . . . . . . . . . to . 
+The following information in respect of identification numbers, types, families and type-approval numbers of engines produced in the abovementioned period in accordance with the requirements of this Directive shall be given: 
+Manufacturer: . 
+Make: . 
+Approval number: . 
+Engine family name (1): . 
+Type of engine: 1: . . . . . 2: . . . . . n: . . . . . 
+Engine identification numbers: . . . 001 . . . 001 . . . 001 
+. . . 002 . . . 002 . . . 002 
+. . . 
+. . . 
+. . . 
+. . . . . m . . . . . p . . . . . q 
+Date of issue: . 
+First issued date (in the case of addenda): . 
+(1) Omit as appropriate; the example shows an engine family containing 'n' different engine types of which were produced units bearing identification numbers from 
+. . . 001 up to . . . . . m of type 1 
+. . . 001 up to . . . . . p of type 2 
+. . . 001 up to . . . . . q of type n 
+%gt%END OF GRAPHIC%gt% 
+ANNEX X 
+DATA SHEET OF TYPE-APPROVED ENGINES 
+%gt%START OF GRAPHIC%gt% 
+Stamp of administration 
+Engine description Emissions (g/kWh) No Date of certification Manufacturer Type/family Cooling medium (1) No of cylinders Swept volume (cm3) Power (kW) Rated speed (min-1) Combustion (2) Aftertreatment (3) PT NOx CO HC (1) Liquid or air.(2) Abbreviate: DI = direct injection, PC = pre/swirl chamber, NA = natural aspirated, TC = turbocharged, TCA = turbocharged including aftercooling. 
+Examples: DI NA, DI TC, DI TCA, PC NA, PC TC, PC TCA.(3) Abbreviate: CAT = catalyst, PT = particulate trap, EGR = exaust gas recirculation. 
+%gt%END OF GRAPHIC%gt% 
+Statement by the Commission regarding Article 15 
+The Commission confirms that, in accordance with the letter and the spirit of the modus vivendi on the Committee procedure, it will keep the European Parliament fully informed regarding the implementing measures arising out of this Directive which it proposes to adopt. 

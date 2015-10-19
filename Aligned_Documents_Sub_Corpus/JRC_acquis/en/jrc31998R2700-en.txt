@@ -1,0 +1,725 @@
+Commission Regulation (EC) No 2700/98 of 17 December 1998 concerning the definitions of characteristics for structural business statistics (Text with EEA relevance) 
+COMMISSION REGULATION (EC) No 2700/98 of 17 December 1998 concerning the definitions of characteristics for structural business statistics (Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC, Euratom) No 58/97 of 20 December 1996 concerning structural business statistics (1) and in particular Article 12(iii) thereof, 
+Whereas Council Regulation (EC, Euratom) No 58/97 established a common framework for the production of Community statistics on the structure, activity, competitiveness and performance of businesses in the Community; 
+Whereas it is necessary to implement a set of definitions for the structural business statistics characteristics; 
+Whereas the envisaged measures are in accordance with the opinion of the Statistical Programme Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+1. The characteristics referred to in Article 4 of Regulation (EC, Euratom) No 58/97 are defined in the Annex to this Regulation. 
+2. In these definitions, references to company accounts use the headings laid down in Article 9 (balance sheet), Article 23 (profit and loss account) or Article 43 (notes on the accounts) of the Council Directive 78/660/EEC (2). 
+Article 2 
+1. Member States shall apply these definitions for the data concerning the 1999 reference year and subsequent years. 
+2. Member States shall also apply these definitions for data concerning the 1995, 1996, 1997 and 1998 reference years where this corresponds to existing national practices. 
+Article 3 
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 17 December 1998. 
+For the Commission 
+Yves-Thibault de SILGUY 
+Member of the Commission 
+(1) OJ L 14, 17.1.1997, p. 1. 
+(2) OJ L 222, 14.8.1978, p. 11. 
+ANNEX 
+DEFINITIONS OF CHARACTERISTICS 
+%gt%TABLE%gt% 
+Definition 
+A count of the number of enterprises registered to the population concerned in the business register corrected for errors, in particular frame errors. Dormant units are excluded. This statistic should include all units active during at least a part of the reference period. 
+%gt%TABLE%gt% 
+Definition 
+A count of the number of births of enterprises registered to the population concerned in the business register corrected for errors. A birth amounts to the creation of a combination of production factors with the restriction that no other enterprises are involved in the event. Births do not include entries into the population due to mergers, break-ups, split-off or restructuring of a set of enterprises. It does not include entries into a sub-population resulting only from a change of activity. 
+Link to other variables 
+Part of number of enterprises (11 11 0). 
+%gt%TABLE%gt% 
+Definition 
+A count of the number of deaths of enterprises registered to the population concerned in the business register corrected for errors. A death amounts to the dissolution of a combination of production factors with the restriction that no other enterprises are involved in the event. Deaths do not include exits from the population due to mergers, take-overs, break-ups or restructuring of a set of enterprises. It does not include exits from a sub-population resulting only from a change of activity. 
+%gt%TABLE%gt% 
+Definition 
+A count of the number of local units registered to the population concerned in the business register corrected for errors, in particular frame errors. Local units must be included even if they have no paid employees. This statistic should include all units active for at least a part of the reference period. 
+%gt%TABLE%gt% 
+Definition 
+A count of the number of kind-of-activity units registered to the population concerned in the business register corrected for errors, in particular frame errors, or an estimate if this type of unit is not registered. This statistic should include all units active for at least a part of the reference period. 
+%gt%TABLE%gt% 
+Definition 
+Turnover comprises the totals invoiced by the observation unit during the reference period, and this corresponds to market sales of goods or services supplied to third parties. 
+Turnover includes all duties and taxes on the goods or services invoiced by the unit with the exception of the VAT invoiced by the unit vis-à-vis its customer and other similar deductible taxes directly linked to turnover. 
+It also includes all other charges (transport, packaging, etc.) passed on to the customer, even if these charges are listed separately in the invoice. Reduction in prices, rebates and discounts as well as the value of returned packing must be deducted. 
+Income classified as other operating income, financial income and extraordinary income in company accounts is excluded from turnover. Operating subsidies received from public authorities or the institutions of the European Union are also excluded. 
+For NACE Rev. 1 classes 66.01 and 66.03, the corresponding title of this characteristic is 'Gross premiums written`. 
+Note: indirect taxes can be separated into three groups. 
+(i) The first comprises VAT and other deductible taxes directly linked to turnover which are excluded from turnover. These taxes are collected in stages by the enterprise and fully borne by the final purchaser. 
+(ii) The second group concerns all other taxes and duties linked to products which are either (1) linked to turnover and not deductible or (2) taxes on products not linked to turnover. Included here are taxes and duties on imports and taxes on the production, export, sale, transfer, leasing or delivery of goods and services or as a result of their use for own consumption or own capital formation. 
+(iii) The third group concerns taxes and duties linked to production. These are compulsory, unrequited payments, in cash or in kind which are levied by general government, or by the institutions of the European Union, in respect of the production and importation of goods and services, the employment of labour, the ownership or use of land, buildings or other assets used in production irrespective of the quantity or the value of goods and services produced or sold. 
+Link to company accounts 
+Turnover as defined above for statistical purposes comprises the accounting heading 'Net turnover`. 
+Link to other variables 
+- Turnover is used in the calculation of Production value (12 12 0) and other aggregates and balances, 
+- Turnover may be broken down by activity: Turnover from (i) the principal activity, (ii) industrial activities, (iii) trading activities of purchase and resale, (iv) intermediary activities (agents), (v) other service activities (18 11 0 to 18 15 0), 
+- Turnover may be broken down by product type: Breakdown of turnover by product type (18 21 0), 
+- Turnover may be broken down by type of customer: Percentage share of turnover to (i) retail traders (25 11 1), (ii) professional users (25 11 2), (iii) final customers (25 11 3). 
+%gt%TABLE%gt% 
+Definition 
+The production value measures the amount actually produced by the unit, based on sales, including changes in stocks and the resale of goods and services. 
+The production value is defined as turnover, plus or minus the changes in stocks of finished products, work in progress and goods and services purchased for resale, minus the purchases of goods and services for resale, plus capitalised production, plus other operating income (excluding subsidies). Income and expenditure classified as financial or extraordinary in company accounts is excluded from production value. Included in purchases of goods and services for resale are the purchases of services purchased in order to be rendered to third parties in the same condition. 
+Specific calculation methods are needed for NACE Rev. 1 classes 66.01 and 66.03 
+Note: capitalised production includes the own-account production of all goods that are retained by their producers as investment. The latter includes the production of fixed tangible assets (buildings etc.) as well as intangible assets (development of software etc.). Capitalised production is unsold production and is valued at production cost. Note that these capital goods are also to be included in investment. 
+Note: other operating income is a company accounting heading. The contents of this heading may vary between sectors and over time and as such cannot be defined precisely for statistical purposes. 
+Link to company accounts 
+The components of production value are included in the following accounting headings: 
+- net turnover, 
+- part of other operating income - excluding subsidies, 
+- Variation in stocks of finished goods and work in progress, part of raw materials and consumables relating to purchases and change in stocks of goods for resale, 
+- work performed by the undertaking for its own purposes and capitalised. 
+Link to other variables 
+Production value is based on: 
+Turnover (12 11 0), 
++/- Change in stocks of finished products and work in progress manufactured by the unit (13 21 3), 
++/- Change in stocks of goods and services purchased for resale in the same condition as received (13 21 1), 
+- Purchases of goods and services purchased for resale in the same condition as received (13 12 0), 
++ Capitalised production, 
++ Other operating income (excluding subsidies). 
+- Production value is used in the calculation of value-added at factor cost (12 15 0) and other aggregates and balances. 
+%gt%TABLE%gt% 
+Definition 
+Corresponds to the return on the activity of purchase and resale without further processing. It is calculated from turnover, purchases and changes in stocks of goods and services purchased for resale in the same condition as received. 
+Included in turnover, purchases and changes in stocks of goods and services for resale are the sales, purchases and changes in stocks of services purchased in order to be rendered to third parties in the same condition. 
+Also called gross trading margin. 
+Link to company accounts 
+These figures may not be isolated in company accounts. They are part of net turnover and raw materials and consumables. 
+Link to other variables 
+Gross margin on goods for resale is based on: 
+Turnover from trading activities of purchase and resale (18 13 0), 
+- Purchases of goods and services purchased for resale in the same condition as received (13 12 0), 
++/- Changes in stocks of goods and services purchased for resale in the same condition as received (13 21 1), 
+- Gross margin on goods for resale is a part of Production value (12 12 0). 
+%gt%TABLE%gt% 
+Definition 
+Value-added at basic prices is calculated from the production value plus subsidies on products less the purchases of goods and services (other than those purchased for resale in the same condition) plus or minus the change in stocks of raw materials and consumables less other taxes on products which are linked to turnover but not deductible. It represents the value added by the various factor inputs in the operating activities of the unit concerned. 
+Income and expenditure classified as financial or extraordinary in company accounts is excluded from valued-added. 
+Value-added at basic prices is calculated 'gross` because value adjustments (such as depreciation) are not subtracted. 
+Note: operating subsidies can be separated into two groups. 
+(i) Subsidies on products are subsidies payable per unit of a good or service. The subsidy may be a specific amount of money per unit of a good or service or it may be calculated ad valorem as a specified percentage of the price per unit. A subsidy on a product usually becomes payable when the good or service is produced, sold or imported, but it may also be payable in other circumstances such as when a good is transferred, leased, delivered or used for own consumption or own capital formation. 
+(ii) Subsidies linked to production are subsidies received by a unit which are not linked to the quantity or the value of goods produced or sold. Notably these subsidies include subsidies on the payroll and workforce, subsidies for environmental protection and grants for interest relief. 
+Investment subsidies are excluded. Specific calculation methods are needed for NACE Rev. 1 classes 66.01 and 66.03 
+Note: indirect taxes can be separated into three groups. 
+(i) The first comprises VAT and other deductible taxes directly linked to turnover which are excluded from turnover. These taxes are collected in stages by the enterprise and fully borne by the final purchaser. 
+(ii) The second group concerns all other taxes and duties linked to products which are either (1) linked to turnover and not deductible or (2) taxes on products not linked to turnover. Included here are taxes and duties on imports and taxes on the production, export, sale, transfer, leasing or delivery of goods and services or as a result of their use for own consumption or own capital formation. 
+(iii) The third group concerns taxes and duties linked to production. These are compulsory, unrequited payments, in cash or in kind which are levied by general government, or by the institutions of the European Union, in respect of the production and importation of goods and services, the employment of labour, the ownership or use of land, buildings or other assets used in production irrespective of the quantity or the value of goods and services produced or sold. 
+Link to company accounts 
+Value-added at basic prices can be calculated from the following accounting headings: 
+- Net turnover, 
+- Variation in stocks of finished goods and work in progress, 
+- Work performed by the undertaking for its own purposes and capitalised, 
+- Raw materials and consumables, 
+- Other external charges, 
+- part of other operating charges - excluding duties and taxes linked to production, 
+- part of other operating income - excluding operating subsidies linked to production. 
+Link to other variables 
+Value at basic prices is based on: 
+Turnover (12 11 0), 
+- Total purchases of goods and services (13 11 0), 
++/- Change in stocks of goods and services (13 21 0), 
++ Capitalised production, 
++ Other operating income (excluding subsidies linked to production), 
+- Other taxes on products which are linked to turnover but not deductible. 
+%gt%TABLE%gt% 
+Definition 
+Value-added at factor cost is the gross income from operating activities after adjusting for operating subsidies and indirect taxes. 
+It can be calculated from turnover, plus capitalised production, plus other operating income, plus or minus the changes in stocks, minus the purchases of goods and services, minus other taxes on products which are linked to turnover but not deductible, minus the duties and taxes linked to production. Alternatively it can be calculated from gross operating surplus by adding personnel costs. 
+Income and expenditure classified as financial or extraordinary in company accounts is excluded from value-added. 
+Value-added at factor costs is calculated 'gross` as value adjustments (such as depreciation) are not subtracted. 
+Note: indirect taxes can be separated into three groups. 
+(i) The first comprises VAT and other deductible taxes directly linked to turnover which are excluded from turnover. These taxes are collected in stages by the enterprise and fully borne by the final purchaser. 
+(ii) The second group concerns all other taxes and duties linked to products which are either (1) linked to turnover and not deductible or (2) taxes on products not linked to turnover. Included here are taxes and duties on imports and taxes on the production, export, sale, transfer, leasing or delivery of goods and services or as a result of their use for own consumption or own capital formation. 
+(iii) The third group concerns taxes and duties linked to production. These are compulsory, unrequited payments, in cash or in kind which are levied by general government, or by the institutions of the European Union, in respect of the production and importation of goods and services, the employment of labour, the ownership or use of land, buildings or other assets used in production irrespective of the quantity or the value of goods and services produced or sold. 
+Specific calculation methods are needed for NACE Rev. 1 classes 66.01 and 66.03 
+Link to company accounts 
+Value-added at factor costs can be calculated directly from the following accounting headings: 
+- Net turnover, 
+- Variation in stocks of finished goods and work in progress, 
+- Work performed by the undertaking for its own purposes and capitalised, 
+- Raw materials and consumables, 
+- Other external charges, 
+- Other operating charges, 
+- Other operating income. 
+Link to other variables 
+Value-added at factor cost is based on: 
+Turnover (12 11 0), 
++/- Change in stocks of goods and services (13 12 0), 
++ Capitalised production, 
++ Other operating income, 
+- Purchases of goods and services (13 11 0), 
+- Other taxes on products which are linked to turnover but not deductible, 
+- Duties and taxes linked to production, 
+- Value-added at factor cost is used in the calculation of gross operating surplus (12 17 0) and other aggregates and balances. 
+%gt%TABLE%gt% 
+Definition 
+Gross operating surplus is the surplus generated by operating activities after the labour factor input has been recompensed. It can be calculated from the value-added at factor cost less the personnel costs. It is the balance available to the unit which allows it to recompense the providers of own funds and debt, to pay taxes and eventually to finance all or a part of its investment. 
+Income and expenditure classified as financial or extraordinary in company accounts is excluded from gross operating surplus. 
+Link to company accounts 
+Gross operating surplus can be calculated from the following accounting headings: 
+- Net turnover, 
+- Variation in stocks of finished goods and work in progress, 
+- Work performed by the undertaking for its own purposes and capitalised, 
+- Raw materials and consumables, 
+- Other external charges, 
+- Other operating charges, 
+- Other operating income, 
+- Staff costs. 
+Link to other variables 
+Gross operating surplus is based on: 
+Value-added at factor cost (12 15 0) 
+- Personnel costs (13 31 0). 
+%gt%TABLE%gt% 
+Definition 
+Purchases of goods and services include the value of all goods and services purchased during the accounting period for resale or consumption in the production process, excluding capital goods the consumption of which is registered as consumption of fixed capital. The goods and services concerned may be either resold with or without further transformation, completely used up in the production process or, finally, be stocked. 
+Included in these purchases are the materials that enter directly into the goods produced (raw materials, intermediary products, components), plus non-capitalised small tools and equipment. Also included are the value of ancillary materials (lubricants, water, packaging, maintenance and repair materials, office materials) as well as energy products. Included in this variable are the purchases of materials made for the production of capital goods by the unit. 
+Services paid for during the reference period are also included regardless of whether they are industrial or non-industrial. In this figure are payments for all work carried out by third parties on behalf of the unit including current repairs and maintenance, installation work and technical studies. Amounts paid for the installation of capital goods and the value of capitalised goods are excluded. 
+Also included are payments made for non-industrial services such as legal and accountancy fees, patents and licence fees (where they are not capitalised), insurance premiums, costs of meetings of shareholders and governing bodies, contributions to business and professional associations, postal, telephone, electronic communication, telegraph and fax charges, transport services for goods and personnel, advertising costs, commissions (where they are not included in wages and salaries), rents, bank charges (excluding interest payments) and all other business services provided by third parties. Included are services which are transformed and capitalised by the unit as capitalised production. 
+Expenditure classified as financial expenditure or extraordinary expenditure in company accounts is excluded from the total purchases of goods and services. 
+Purchases of goods and services are valued at the purchase price excluding deductible VAT and other deductible taxes linked directly to turnover. 
+All other taxes and duties on the products are therefore not deducted from the valuation of the purchases of goods and services. The treatment of taxes on production is not relevant in the valuation of these purchases. 
+Specific calculation methods are needed for NACE Rev.1 classes 66.01 and 66.03 
+Link to company accounts 
+Purchases of goods and services can be calculated from the accounting headings: 
+- Raw materials and consumables (before account is made of changes in stocks of goods and services), 
+- Other external charges (before account is made of changes in stocks of goods and services), 
+- part of Other operating charges, the part included here concerns payments for goods and services not included in the two headings above (raw materials and consumables and other external charges). The part not included here concerns the payment of taxes on production. 
+Link to other variables 
+Total purchases of goods and services is used in the calculation of value-added at factor cost (12 15 0) and other aggregates and balances. 
+Many items included within total purchases of goods and services are identified separately 
+- Purchases of goods and services purchased for resale in the same condition as received (13 12 0), 
+- Operating costs linked to buildings and equipment (13 41 0), Cost of selling (13 42 0), Other operating costs (13 43 0). Note that these three variables, when combined with variable 13 12 0 above are an exhaustive breakdown of total purchases of goods and services for enterprises in wholesale and retail trade, 
+- Payments for agency workers (13 13 1), 
+- Payments for long-term rental and operational leasing of goods (13 41 1), 
+- Purchases of energy products (20 11 0 and 20 21 0 to 20 31 0), 
+- Percentage share of purchases from wholesalers and purchasing groups (25 21 1) and Percentage share of purchases from producers (25 21 2). 
+%gt%TABLE%gt% 
+Definition 
+Purchases for resale are purchases of goods for resale to third parties without further processing. It also includes purchases of services by 'invoicing` service companies, i.e. those whose turnover is composed not only of agency fees charged on a service transaction (as in the case of estate agents) but also the actual amount involved in the service transaction, e.g. transport purchases by travel agents. The value of goods and services which are sold to third parties on a commission basis are excluded since these goods are neither bought nor sold by the agent receiving the commission. 
+When services for resale are referred to here, the services concerned are the output from service activities, rights to use predetermined services, or physical supports for services. Purchases of goods and services purchased for resale in the same condition as received are valued at the purchase price excluding deductible VAT and other deductible taxes linked directly to turnover. All other taxes and duties on the products are therefore not deducted from the valuation of the purchases of goods and services. 
+The treatment of taxes on production is not relevant in the valuation of these purchases. 
+Link to company accounts 
+Purchases of goods and services purchased for resale in the same condition as received may not be isolated in company accounts. It is a part of: 
+- Raw materials and consumables, 
+- Other external charges, 
+- Other operating charges. 
+Link to other variables 
+Part of Total purchases of goods and services (13 11 0) 
+Purchases of goods and services purchased for resale in the same condition as received is used in the calculation of Gross margin on goods for resale (12 13 0), in Production value (12 12 0) and other aggregates and balances. 
+%gt%TABLE%gt% 
+Definition 
+Included in this figure are payments to employment agencies and similar organisations for the provision of personnel. Only the payments for the provision of personnel which is not linked to the provision of a particular industrial or other non-industrial service is included. 
+Link to company accounts 
+Payments for agency workers may not be isolated in company accounts. It is part of other external charges and other operating charges. 
+Link to company accounts 
+Part of Total purchases of goods and services (13 11 0). 
+%gt%TABLE%gt% 
+Definition 
+Change in stocks (positive or negative) is the difference between the value of the stocks at the end and the beginning of the reference period. Change in stocks may be measured by the value of entries into stocks less the value of withdrawals and the value of any recurrent losses of goods held in stocks. Stocks are recorded at purchaser's prices exclusive of VAT if they are purchased from another unit, otherwise at production cost. 
+Among stocks (and the change in stocks), the following breakdown can be made: 
+- stocks of finished goods, 
+- stocks of work in progress, 
+- stocks of goods and services purchased for resale in the same condition as received, 
+- stocks of raw materials and consumables. 
+Included are the stocks of finished products or in the course of production, which have been produced by the unit and which have not yet been sold. These products include work in progress belonging to the unit, even if the products in question are in the possession of third parties. Equally, products held by the unit which belong to third parties are excluded. 
+Included are the stocks of goods and services bought for the sole purpose of reselling them in the same condition. Excluded are stocks of goods and services which are provided to third parties on a commission basis. Products purchased for resale and stocked by services enterprises can include goods (industrial equipment in the case of 'turnkey` engineering contracts, or buildings in the case of property development, etc.) as well as services (rights to use advertising space, transport, accommodation, etc.). 
+When services are stocked the services concerned are the output from service activities, rights to use predetermined services, or physical supports for services. 
+Included also are the stocks of raw and ancillary materials, intermediary products, components, energy, non-capitalised small tools and services which belong to the unit. 
+Link to company accounts 
+Changes in stocks of goods and services can be calculated from the following headings: 
+- Variation in stocks of finished goods and in work in progress 
+- Part of raw materials and consumables, 
+- Part of other external charges, 
+- Part of other operating charges. 
+Link to other variables 
+- Change in stocks of goods and services is used in the calculation of Value-added at market prices (12 14 0) and other aggregates and balances, 
+- Change in stocks of goods and services may be broken down by type of stocks: (i) Change in stocks of goods and services purchased for resale in the same condition as received (13 21 1) (ii) Change in stocks of finished products and work in progress manufactured by the unit (13 21 3) and (iii) Change in stocks of raw materials and consumables. 
+%gt%TABLE%gt% 
+Definition 
+This variable is defined as the change in stocks at purchaser's prices exclusive of VAT between the end and the beginning of the reference period. The change in stocks may be measured by the value of entries into stocks of products purchased for resale less the value of withdrawals and the value of any recurrent losses of goods held in stocks. 
+Included in these stocks are goods and services bought for the sole purpose of reselling them in the same condition. Excluded are stocks of goods and services which are provided to third parties on a commission basis. 
+Products purchased for resale and stocked by services enterprises can include goods (industrial equipment in the case of 'turnkey` engineering contracts, or buildings in the case of property development, etc.) as well as services (rights to use advertising space, transport, accommodation, etc.). 
+When services are stocked the services concerned are the output from service activities, rights to use predetermined services, or physical supports for services. 
+Link to company accounts 
+Change in stocks of goods purchased for resale in the same condition may not be isolated in company accounts. They are part of raw materials and consumables, other external charges and other operating charges. 
+Link to other variables 
+- Change in stocks of goods purchased for resale in the same condition is used in the calculation of gross margin on goods for resale (12 13 0), Production value (12 12 0) and other aggregates and balances, 
+- Part of Change in stocks of goods and services (13 21 0). 
+%gt%TABLE%gt% 
+Definition 
+This variable is defined as the change in the value of the stocks of finished products or in the course of production, which have been produced by the unit and which have not yet been sold, between the first and last days of the reference period. 
+These products include work in progress belonging to the unit, even if the products in question are in the possession of third parties. Equally, products held by the unit which belong to third parties are excluded. 
+Stocks are valued at production cost, and are valued prior to value adjustments (such as depreciation). 
+Link to company accounts 
+Change in stocks of finished goods and work in progress are recorded in company accounts as the heading Variation in stocks of finished goods and work in progress. 
+Link to other variables 
+- Change in stocks of finished goods and work in progress is used in the calculation of Production value (12 12 0) and other aggregates and balances, 
+- Part of Change in stocks of goods and services (13 21 0). 
+%gt%TABLE%gt% 
+Definition 
+Personnel costs are defined as the total remuneration, in cash or in kind, payable by an employer to an employee (regular and temporary employees as well as home-workers) in return for work done by the latter during the reference period. Personnel costs also include taxes and employees' social security contributions retained by the unit as well as the employer's compulsory and voluntary social contributions. 
+Personnel costs are made up of: 
+- wages and salaries, 
+- employers' social security costs. 
+All remuneration paid during the reference period is included, regardless of whether it is paid on the basis of working time, output or piecework, and whether it is paid regularly or not. Included are all gratuities, workplace and performance bonuses, ex gratia payments, 13th month pay (and similar fixed bonuses), payments made to employees in consideration of dismissal, lodging, transport, cost of living and family allowances, commissions, attendance fees, overtime, night work, etc. as well as taxes, social security contributions and other amounts owed by the employees and retained at source by the employers. 
+Also included are the social security costs for the employer. These include employer's social security contributions to schemes for retirement pensions, sickness, maternity, disability, unemployment, occupational accidents and diseases, family allowances as well as other schemes. These costs are included regardless of whether they are statutory, collectively agreed, contractual or voluntary in nature. 
+Payments for agency workers are not included in personnel costs. 
+Link to company accounts 
+Personnel costs can be calculated directly from the following accounting headings: 
+- Staff costs, which is the sum of the headings wages and salaries and social security costs. 
+Link to other variables 
+Personnel costs is based on 
+Wages and salaries (13 32 0), 
++ Social security costs (13 33 0). 
+Personnel costs is used in the calculation of Gross operating surplus (12 17 0) and other aggregates and balances. 
+%gt%TABLE%gt% 
+Definition 
+Wages and salaries are defined as 'the total remuneration, in cash or in kind, payable to all persons counted on the payroll (including homeworkers), in return for work done during the accounting period` regardless of whether it is paid on the basis of working time, output or piecework and whether it is paid regularly or not. 
+Wages and salaries include the values of any social contributions, income taxes, etc. payable by the employee even if they are actually withheld by the employer and paid directly to social insurance schemes, tax authorities, etc. on behalf of the employee. Wages and salaries do not include social contributions payable by the employer. 
+Wages and salaries include: all gratuities, bonuses, ex gratia payments, 13th month payments, severance payments, lodging, transport, cost-of-living, and family allowances, tips, commission, attendance fees, etc. received by employees, as well as taxes, social security contributions and other amounts payable by employees and withheld at source by the employer. Wages and salaries which the employer continues to pay in the event of illness, occupational accident, maternity leave or short-time working may be recorded here or under social security costs, dependent on the unit's accounting practices. 
+Payments for agency workers are not included in wages and salaries. 
+Link to company accounts 
+Wages and salaries are recorded in company accounts as the heading Wages and salaries. 
+Link to other variables 
+Wages and salaries is used in the calculation of Personnel costs (13 31 0). 
+%gt%TABLE%gt% 
+Definition 
+Employers' social security costs correspond to an amount equal to the value of the social contributions incurred by employers in order to secure for their employees the entitlement to social benefits. 
+Social security costs for the employer include the employer's social security contributions to schemes for retirement pensions, sickness, maternity, disability, unemployment, occupational accidents and diseases, family allowances as well as other schemes. 
+Included are the costs for all employees including homeworkers and apprentices. 
+Charges are included for all schemes, regardless of whether they are statutory, collectively agreed, contractual or voluntary in nature. Wages and salaries which the employer continues to pay in the event of illness, occupational accident, maternity leave or short-time working may be recorded here or under wages and salaries, dependent on the unit's accounting practices. 
+Link to company accounts 
+Social security costs are recorded in company accounts as the heading Social security costs. 
+Link to other variables 
+Social security costs is used in the calculation of Personnel costs (13 31 0). 
+%gt%TABLE%gt% 
+Definition 
+Operating costs linked to buildings and equipment consist of: 
+- costs related to buildings, including: 
+- rents, payments for energy for heating and electricity and the maintenance and repair of buildings, 
+- operational leasing payments, 
+- the expenses related to equipment, including: 
+- payments for maintenance and repair of all machines (including computers and vehicles) and the cost of renting 
+- payments for operational leasing of machines. 
+Link to company accounts 
+Operating costs linked to buildings and equipment may not be isolated in company accounts. It is a part of Raw materials and consumables, other external charges and other operating charges. 
+Link to other variables 
+Part of Total purchases of goods and services (13 11 0). 
+For distributive trade activities (Section G of NACE Rev. 1), the other parts of total purchases of goods and services are: Purchases of goods and services purchased for resale in the same condition as received (13 12 0), Cost of selling (13 42 0) and Other operating costs (13 43 0). 
+%gt%TABLE%gt% 
+Definition 
+The payments for long-term rental include all charges relative to the renting of tangible goods for a period greater than one year. 
+Operational leases are those leases which do not transfer substantially all the risks and rewards incident to legal ownership to the lessee. Under an operational lease, the lessee acquires the right to use a durable good for a certain period of time, which may be long or short and not necessarily settled in advance. When the leasing period expires, the lessor expects to receive his good back in more or less the same condition as when he hired it out, apart from normal wear and tear. Thus the leasing period does not cover all, or a predominant part of, the good's economic lifetime. Payments for the operational leasing of goods relate to the cost of using the tangible goods made available to the unit through these contracts. 
+Link to company accounts 
+Payments for long-term rental and operational leasing of goods may not be isolated in company accounts. It is part of other external charges and other operating charges. 
+Link to other variables 
+Part of Purchases of good and services (13 11 0), 
+Part of Operating costs linked to buildings and equipment (13 41 0). 
+%gt%TABLE%gt% 
+Definition 
+Cost of selling, which forms part of 'Purchases of goods and services` consists of advertising expenses, transport of goods, travelling expenses, hotel accommodation, entertaining expenses and other expenses related to the selling of goods (payments for agency workers included). 
+Link to company accounts 
+Cost of selling may not be isolated in company accounts. It is a part of Raw materials and consumables, other external charges and other operating charges. 
+Link to other variables 
+Part of Total purchases of goods and services (13 11 0). 
+For distributive trade activities (Section G of NACE Rev. 1), the other parts of total purchases of goods and services are: Purchases of goods and services purchased for resale in the same condition as received (13 12 0), Operating costs linked to buildings and equipment (13 41 0) and Other operating costs (13 43 0). 
+%gt%TABLE%gt% 
+Definition 
+Other operating costs may for example consist of expenses for bookkeeping, consultancy, office stationery, recruitment, insurance premiums, costs of collective staff transport, cost of bank services (excluding interest payments), postal and telecommunication expenses (telephone, telex). 
+Link to company accounts 
+Other operating costs may not be isolated in company accounts. It is a part of Raw materials and consumables, other external charges and other operating charges. 
+Link to other variables 
+Part of Total purchases of goods and services (13 11 0). 
+For distributive trade activities (Section G of NACE Rev. 1), the other parts of total purchases of goods and services are: Purchases of goods and services purchased for resale in the same condition as received (13 12 0), Operating costs linked to buildings and equipment (13 41 0) and Cost of selling (13 42 0). 
+%gt%TABLE%gt% 
+Definition 
+Investment during the reference period in all tangible goods. Included are new and existing tangible capital goods, whether bought from third parties or produced for own use (i.e. capitalised production of tangible capital goods), having a useful life of more than one year including non-produced tangible goods such as land. The threshold for the useful life of a good that can be capitalised may be increased according to company accounting practices where these practices require, a greater expected useful life than the one-year threshold indicated above. 
+All investments are valued prior to (i.e. gross of) value adjustments, and before the deduction of income from disposals. Purchased goods are valued at purchase price, i.e. transport and installation charges, fees, taxes and other costs of ownership transfer are included. Own produced tangible goods are valued at production cost. Goods acquired through restructuring (such as mergers, take-overs, break-ups, split-off) are excluded. Purchases of small tools which are not capitalised are included under current expenditure. 
+Also included are all additions, alterations, improvements and renovations which prolong the service life or increase the productive capacity of capital goods. 
+Current maintenance costs are excluded as is the value and current expenditure on capital goods used under rental and lease contracts. Investment in intangible and financial assets are excluded. 
+Concerning the recording of investments where the invoicing, delivery, payment and first use of the good may take place in different reference periods, the following method is proposed as an objective: 
+Investments are recorded when the ownership is transferred to the unit that intends to use them. Capitalised production is recorded when produced. Concerning the recording of investments made in identifiable stages, each part-investment should be recorded in the reference period in which they are made. 
+In practice this may not be possible and company accounting conventions may mean that the following approximations to this method need to be used: 
+(i) investments are recorded in the reference period in which they are delivered, 
+(ii) investments are recorded in the reference period in which they enter into the production process, 
+(iii) investments are recorded in the reference period in which they are invoiced, 
+(iv) investments are recorded in the reference period in which they are paid for. 
+Link to company accounts 
+Investment is not recorded in the balance sheet. However, the additions, disposals and transfers of all fixed assets as well as the value adjustments of these fixed assets are shown in the balance sheet or the notes to the accounts. 
+Tangible goods are listed in company accounts under Fixed assets - tangible assets. 
+Link to other variables 
+Gross investment in tangible goods is based on: 
+Gross investment in land (15 12 0), 
++ Gross investment in existing buildings and structures (15 13 0), 
++ Gross investment in construction and alteration of buildings (15 14 0), 
++ Gross investment in machinery and equipment (15 15 0). 
+%gt%TABLE%gt% 
+Definition 
+Included under this variable, in addition to land, are underground deposits, forests and inland waters. Where land is purchased with existing buildings and the value of the two components is not separable, the total is recorded under this heading if it is estimated that the value of the land exceeds the value of the existing buildings. If the existing buildings are estimated to be of greater value than the land, the total is recorded under gross investment in existing buildings and structures (15 13 0). Also included here is land merely improved by levelling, the laying of pipes or by the provision of paths or roads. Land acquired through restructurations (such as mergers, take-overs, break-ups, split-off) is excluded. 
+Link to company accounts 
+Investment is not recorded in the balance sheet. However, the additions, disposals and transfers of all fixed assets as well as the value adjustments of these fixed assets are shown in the balance sheet or the notes to the accounts. 
+Land is not isolated in the list of tangible assets included in company accounts under fixed assets - tangible assets - land and buildings. The part relating to buildings should be excluded from this. Part of payments on account and tangible assets in course of construction should be included in so far as they relate to land. 
+Link to other variables 
+Part of Gross investment in tangible goods (15 11 0). 
+%gt%TABLE%gt% 
+Definition 
+The investment includes the cost of the existing buildings and structures which have been acquired during the reference period. Where land is purchased with existing buildings and the value of the two components is not separable, the total is recorded under this heading if it is estimated that the value of the existing buildings exceeds the value of the land. If the land is estimated to be of greater value than the existing buildings, the total is recorded under gross investment in land (15 12 0). Purchases of new buildings that have never been used are excluded. Existing buildings and structures acquired through restructurations (such as mergers, take-overs, break-ups, split-off) are excluded. 
+Link to company accounts 
+Investment is not recorded in the balance sheet. However, the additions, disposals and transfers of all fixed assets as well as the value adjustments of these fixed assets are shown in the balance sheet or the notes to the accounts. 
+Gross investment in existing buildings and structures is not isolated in the list of tangible assets included in company accounts under Fixed assets - tangible assets - land and buildings. The parts relating to land and construction and alteration of buildings should be excluded from this. Part of payments on account and tangible assets in course of construction should be included in so far as they relate to existing buildings and structures. 
+Link to other variables 
+Part of Gross investment in tangible goods (15 11 0). 
+%gt%TABLE%gt% 
+Definition 
+This variable covers expenditure during the reference period on the construction or conversion of buildings. Purchases of new buildings that have never been used are included. Also included are all additions, alterations, improvements and renovations which prolong the service life or increase the productive capacity of buildings. 
+Included are permanent installations such as water supply, central heating, air conditioning, lighting, etc. as well as construction expenditure related to oil wells (drilling), operational mines, pipelines, power transmission lines, gas-pipes, railway lines, port installations, roads, bridges, viaducts, drains and other site improvements. Current maintenance costs are excluded. 
+Link to company accounts 
+Investment is not recorded in the balance sheet. However, the additions, disposals and transfers of all fixed assets as well as the value adjustments of these fixed assets are shown in the balance sheet or the notes to the accounts. 
+Gross investment in construction and alteration of buildings is not isolated in the list of tangible assets included in company accounts under Fixed assets - tangible assets - land and buildings. The parts relating to land and existing buildings and structures should be excluded from this. Part of payments on account and tangible assets in course of construction should be included in so far as they relate to existing construction and alteration of buildings. 
+Link to other variables 
+Part of Gross investment in tangible goods (15 11 0). 
+%gt%TABLE%gt% 
+Definition 
+This variable covers machinery (office machines etc.), special vehicles used on the premises, other machinery and equipment, all vehicles and boats used off the premises, i.e. motor cars, commercial vehicles and lorries as well as special vehicles of all types, boats, railway wagons, etc. acquired new or second hand during the reference period. Machinery and equipment acquired through restructurations (such as mergers, take-overs, break-ups, split-offs) are excluded. Also included are all additions, alterations, improvements and renovations which prolong the service life or increase the productive capacity of these capital goods. Current maintenance costs are excluded. 
+Link to company accounts 
+Investment is not recorded in the balance sheet. However, the additions, disposals and transfers of all fixed assets as well as the value adjustments of these fixed assets are shown in the balance sheet or the notes to the accounts. 
+Gross investment in machinery and equipment is included in the list of tangible assets included in company accounts under Fixed assets - tangible assets - plant and machinery and other fixtures and fittings, tools and equipment. Part of payments on account and tangible assets in course of construction should be included in so far as they relate to machinery and equipment. 
+Link to other variables 
+Part of Gross investment in tangible goods (15 11 0) 
+%gt%TABLE%gt% 
+Definition 
+Sales of tangible goods includes the value of existing tangible capital goods, sold to third parties. Sales of tangible capital goods are valued at the price actually received (excluding VAT), and not at book value, after deducting any costs of ownership transfer incurred by the seller. Value adjustments and disposals other than by sale are excluded. 
+Link to company accounts 
+Sales of investment goods are not recorded in the balance sheet. However, the additions, disposals and transfers of all fixed assets are shown in the balance sheet or the notes to the accounts. 
+Tangible investment goods refers to assets listed in company accounts under Fixed assets - tangible assets. 
+%gt%TABLE%gt% 
+Definition 
+Under a financial lease the lessee acquires the right to use a durable good in exchange for rental payments over a predetermined and protracted term. If all risks and rewards of ownership are de facto though not de jure, transferred from lessor to lessee, the lease is a financial one. In financial leasing, the leasing period covers all, or most of, the economic lifetime of the durable good. At the end of the leasing period the lessee often has the option to buy the good at a nominal price. The lessor's role is purely financial. 
+The value to be recorded corresponds to the market value of the good if it had been purchased. This value is in principle known in the contract or can be estimated by summing-up the part of the instalments that cover the capital reimbursement. The part of instalments corresponding to the interest payments are to be excluded. 
+This value should be recorded at the time when the good is delivered to the lessee. 
+Annual payments for assets used under financial leasing should be excluded. The value of goods used under leases other than financial ones should also be excluded. 
+Link to company accounts 
+Note: The value of tangible goods acquired through financial leasing is not referred to in the fourth Directive. However, some national accounting standards do permit these goods to be capitalised in the balance sheet. 
+Link to other variables 
+Note: The value of tangible goods acquired through financial leasing is not included in Gross investment in tangible goods (15 11 0). 
+%gt%TABLE%gt% 
+Definition 
+The number of persons employed is defined as the total number of persons who work in the observation unit (inclusive of working proprietors, partners working regularly in the unit and unpaid family workers), as well as persons who work outside the unit who belong to it and are paid by it (e.g. sales representatives, delivery personnel, repair and maintenance teams). It includes persons absent for a short period (e.g. sick leave, paid leave or special leave), and also those on strike, but not those absent for an indefinite period. It also includes part-time workers who are regarded as such under the laws of the country concerned and who are on the payroll, as well as seasonal workers, apprentices and home workers on the payroll. 
+The number of persons employed excludes manpower supplied to the unit by other enterprises, persons carrying out repair and maintenance work in the enquiry unit on behalf of other enterprises, as well as those on compulsory military service. 
+Unpaid family workers refer to persons who live with the proprietor of the unit and work regularly for the unit, but do not have a contract of service and do not receive a fixed sum for the work they perform. This is limited to those persons who are not included on the payroll of another unit as their principal occupation. 
+Note: In order to check the comparability of data, it is necessary to indicate whether voluntary workers have been included under this heading or not. 
+Link to company accounts 
+The number of persons employed is recorded in the notes on the company accounts (Article 43(8)). 
+Link to other variables 
+The number of persons employed may be broken down into the number of employees (16 13 0) and unpaid workers. 
+%gt%TABLE%gt% 
+Definition 
+The number of employees is defined as those persons who work for an employer and who have a contract of employment and receive compensation in the form of wages, salaries, fees, gratuities, piecework pay or remuneration in kind. 
+The relationship of employer to employee exists when there is an agreement, which may be formal or informal, between an enterprise and a person, normally entered into voluntarily by both parties, whereby the person works for the enterprise in return for remuneration in cash or in kind. 
+A worker is considered to be a wage or salary earner of a particular unit if he or she receives a wage or salary from the unit regardless of where the work is done (in or outside the production unit). A worker from a temporary employment agency is considered to be an employee of the temporary employment agency and not of the unit (customer) in which they work. 
+In particular the following are considered as employees: 
+- paid working proprietors, 
+- students who have a formal commitment whereby they contribute to the unit's process of production in return for remuneration and/or education services, 
+- employees engaged under a contract specifically designed to encourage the recruitment of unemployed persons, 
+- homeworkers if there is an explicit agreement that the homeworker is remunerated on the basis of the work done and they are included on the payroll. 
+The number of employees includes part-time workers, seasonal workers, persons on strike or on short-term leave, but excludes those persons on long-term leave. 
+The number of employees does not include voluntary workers. 
+The number of employees is calculated in the same manner as the number of persons employed, namely as the number of jobs and is measured as an annual average. 
+Link to other variables 
+Part of the Number of persons employed (16 11 0). 
+Many categories of employees are identified separately 
+- Number of part-time employees (16 13 1) 
+- Number of apprentices (16 13 2) 
+- Number of homeworkers (16 13 5) 
+%gt%TABLE%gt% 
+Definition 
+This is a division of the number of employees calculated by reference to the number of hours worked per week for which they are paid; this number of hours is considered in relation to the length of what is considered to be a full-time working week in the Member State or the sector of the unit or the unit itself. 
+Part-time workers are persons whose usual hours of work are less than the normal working hours. This definition encompasses all forms of part-time work (half-day work, work for one, two or three days a week, etc.). This number may be established at the national, regional, industrial or unit level. 
+The number of employees may be broken down according to the weekly number of hours which they work. This number of hours is considered in relation to the length of what is regarded as a standard full-time working week in the Member State, region, industry or unit. 
+It should be noted that whereas the 'full-time employee` category is relatively homogeneous, the same cannot be said of the 'part-time employee` category since this can cover anything between 20 % or even less and 80 % or more of the normal working hours of the employing unit. 
+It is impossible to establish an exact distinction between part-time and full-time work due to variation in working practices between Member States and industries. 
+Part-time employees (duration of work less than the norm) and intermittent/seasonal employees (who may work full time but for a fixed short period, e.g. temporary workers, film crew, etc.) should not be confused. 
+Link to other variables 
+Part of Number of employees (16 13 0) 
+%gt%TABLE%gt% 
+Definition 
+All employees who do not participate fully in the production process of the unit because they are working under an apprentice's contract or because the fact that they are undertaking vocational training impinges significantly on their productivity are included in this variable. 
+Link to other variables 
+Part of Number of employees (16 13 0) 
+%gt%TABLE%gt% 
+Definition 
+Homeworkers are a sub-division of persons employed of the observation unit who carry out their professional activity from their own home. Only homeworkers who appear on the payroll of the observation unit should be included. 
+Link to other variables 
+Part of Number of employees (16 13 0) 
+%gt%TABLE%gt% 
+Definition 
+The number of employees converted into full-time equivalents (FTE). 
+Figures for the number of persons working less than the standard working time of a full-year full-time worker, should be converted into full-time equivalents, with regard to the working time of a full-time full-year employee in the unit. 
+Included in this category are people working less than a standard working day, less than the standard number of working days in the week, or less than the standard number of weeks/months in the year. The conversion should be carried out on the basis of the number of hours, days, weeks or months worked. 
+Link to other variables 
+The Number of hours worked by employees (16 15 0) or the Number of part-time employees (16 13 1) may be used in the conversion of the Number of employees (16 13 0) into full-time equivalents. 
+%gt%TABLE%gt% 
+Definition 
+The total number of hours worked by employees represents the aggregate number of hours actually worked for the output of the observation unit during the reference period. 
+This variable excludes hours paid but not actually worked such as for annual leave, holidays and sick leave. It also excludes meal breaks and commuting between home and work. 
+Included are hours actually worked during normal working hours; hours worked in addition to those; time which is spent at the place of work on tasks such as preparing the site and time corresponding to short periods of rest at the work place. 
+If the exact number of hours actually worked is not known, it may be estimated on the basis of the theoretical number of working hours and the average rate of absences (sickness, maternity, etc.). 
+Link to other variables 
+The number of hours worked by employees may be used in the conversion of the Number of employees (16 13 0) into the Number of employees in full-time equivalent units (16 14 0). 
+%gt%TABLE%gt% 
+Definition 
+This is the total number of retail stores operated by the enterprise, either owned or rented. Stores are defined as fixed sales premises which the customers enter to make their purchases. Retail stores are to be classified within the groups 52.1-52.5 of NACE Rev. 1. 
+Link to other variables 
+Part of Number of local units (11 21 0) 
+%gt%TABLE%gt% 
+Definition 
+In addition to the total number of retail stores a breakdown by class of sales space is added. 
+These classes shall be used: 
+- less than 120 m² 
+- from 120 to 399 m² 
+- from 400 to 999 m² 
+- from 1 000 to 2 499 m² 
+- from 2 500 to 4 999 m² 
+- from 5 000 to 9 999 m² 
+- 10 000m² and more 
+Link to other variables 
+This is a breakdown of Number of retail stores (17 32 0) 
+%gt%TABLE%gt% 
+Definition 
+Sales space is taken to mean the estimated floor area of that part of the premises devoted to selling and display, i.e.: 
+- the total space to which customers have access, including fitting rooms, 
+- counter space and window space, 
+- the space behind counters used by shop assistants. 
+Sales space does not include offices, storage and preparation rooms, workshops, staircases, cloakrooms and other amenity rooms. 
+%gt%TABLE%gt% 
+Definition 
+The characteristic covers the total number of fixed market stands and/or permanent stalls operated by an enterprise, either owned or rented. Contrary to stores, the customers do not usually enter the sales premises of the stands/stalls to make their purchases. Fixed market stands/stalls are to be classified as part of class 52.62 of NACE Rev. 1. 
+%gt%TABLE%gt% 
+Definition 
+The part of turnover derived from activities classified to Sections A to F of NACE Rev. 1. 
+Turnover derived from the resale of goods and services purchased for resale in the same condition is excluded. 
+Link to company accounts 
+Turnover from industrial activities cannot be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+%gt%TABLE%gt% 
+Definition 
+The part of turnover derived from the principal activity of the unit. The principal activity of a unit is determined according to the rules laid down in the Council Regulation on statistical units No 696/93 of 15 March 1993 on the statistical units for the observation and analysis of the production system in the Community (1). 
+Turnover derived from the sale of goods and services which have been subject to a subcontracting relationship is included. Turnover derived from the resale of goods and services purchased for resale in the same condition is excluded. 
+Link to company accounts 
+Turnover from the principal activity at the NACE Rev. 1 4-digit level cannot be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+%gt%TABLE%gt% 
+Definition 
+The part of turnover derived from activities classified to Sections C to F of NACE Rev. 1. 
+Turnover derived from the sale of goods and services which have been subject to a subcontracting relationship is included. Turnover derived from the resale of goods and services purchased for resale in the same condition is excluded. 
+Link to company accounts 
+Turnover from industrial activities cannot be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+Part of turnover from agriculture, forestry, fishing and industrial activities (18 10 0) 
+%gt%TABLE%gt% 
+Definition 
+The part of turnover derived from activities classified to Sections C to E of NACE Rev. 1. 
+Turnover derived from the sale of goods and services which have been subject to a subcontracting relationship is included. Turnover derived from the resale of goods and services purchased for resale in the same condition is excluded. 
+Link to company accounts 
+Turnover from industrial activities excluding construction cannot be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+Part of turnover from agriculture, forestry, fishing and industrial activities (18 10 0) 
+Part of Turnover from industrial activities (18 12 0) 
+%gt%TABLE%gt% 
+Definition 
+The part of turnover derived from activities classified to Section F of NACE Rev. 1. 
+Turnover derived from the sale of goods and services which have been subject to a subcontracting relationship is included. Turnover derived from the resale of goods and services purchased for resale in the same condition is excluded. 
+Link to company accounts 
+Turnover from construction activities cannot be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+Part of turnover from agriculture, forestry, fishing and industrial activities (18 10 0) 
+Part of Turnover from industrial activities (18 12 0) 
+%gt%TABLE%gt% 
+Definition 
+The part of turnover derived from the trading activities of purchase and resale of the unit. This corresponds to the sales of goods purchased by the unit in its own name and for its own account and resold in the same condition in which they were purchased, or after such labelling, packaging and wrapping as is usually practised in distributive trade enterprises. 
+Resales of this type may be broken down into: 
+- resales to other traders, professional users, etc. (wholesale sales), 
+- resales to households or small-scale users (retail sales). 
+These activities are classified in section G of NACE Rev. 1 (except the maintenance, repair and fee or contract based wholesaling groups 50.2, 50.4, 51.1 and 52.7). 
+Link to company accounts 
+Turnover from trading activities of purchase and resale may not be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+%gt%TABLE%gt% 
+Definition 
+The part of turnover derived from the intermediary activity of the unit. This corresponds to any commissions on purchases and sales made in the name and on behalf of third parties, and similar activities. 
+These activities are classified in group 51.1 of NACE Rev. 1. 
+Link to company accounts 
+Turnover from intermediary activities may not be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+%gt%TABLE%gt% 
+Definition 
+Revenue from all services rendered (banking and insurance services, business and personal services). 
+This variable encompasses turnover from service activities resulting from a principal or secondary activity; some service activities may be performed by industrial units. These activities are classified to Sections H to K and M to O and also to the maintenance and repair groups 50.2, 50.4 and 52.7 of Section G of NACE Rev. 1. 
+Link to company accounts 
+Turnover from service activities may not be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+%gt%TABLE%gt% 
+Definition 
+The part of turnover derived from the trading activities of purchase and resale of the unit and the intermediary activity of the unit. This corresponds to the sales of goods purchased by the unit in its own name and for its own account and resold in the same condition in which they were purchased, or after such labelling, packaging and wrapping as is usually practised in distributive trade enterprises as well as any commissions on purchases and sales made in the name and on behalf of third parties, and similar activities. 
+Resales may be broken down into: 
+- resales to other traders, professional users, etc. (wholesale sales), 
+- resales to households or small-scale users (retail sales). 
+These activities are classified in Section G of NACE Rev. 1 (except the maintenance and repair groups 50.2, 50.4 and 52.7). 
+Link to company accounts 
+Turnover from trading and intermediary activities may not be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+%gt%TABLE%gt% 
+Definition 
+The part of turnover derived from activities classified to Section F of NACE Rev. 1 and relating to constructions classified as buildings in the classification of types of constructions (CC). 
+Turnover derived from the sale of goods and services which have been subject to a subcontracting relationship is included. Turnover derived from the resale of goods and services purchased for resale in the same condition is excluded. 
+Link to company accounts 
+Turnover from building may not be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+Part of turnover from agriculture, forestry, fishing and industrial activities (18 10 0) 
+Part of turnover from industrial activities (18 12 0) 
+Part of turnover from construction activities (18 12 2) 
+%gt%TABLE%gt% 
+Definition 
+The part of turnover derived from activities classified to Section F of NACE Rev. 1 and relating to constructions classified as civil engineering works in the classification of types of constructions (CC). 
+Turnover derived from the sale of goods and services which have been subject to a subcontracting relationship is included. Turnover derived from the resale of goods and services purchased for resale in the same condition is excluded. 
+Link to company accounts 
+Turnover from civil engineering may not be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+Part of turnover from agriculture, forestry, fishing and industrial activities (18 10 0) 
+Part of turnover from industrial activities (18 12 0) 
+Part of turnover from construction activities (18 12 2) 
+%gt%TABLE%gt% 
+Definition 
+Purchases of all energy products during the reference period should be included in this variable only if they are purchased to be used as fuel. Energy products purchased as a raw material or for resale without transformation should be excluded. The figure should be given in value only. 
+Link to company accounts 
+Purchases of energy products cannot be isolated in company accounts. It is part of Raw materials and consumables. 
+Link to other variables 
+Part of total purchases of goods and services (13 11 0) 
+%gt%TABLE%gt% 
+- Purchases of hard coal 
+- Purchases of coke 
+- Purchases of patent fuels 
+- Purchases of gasoil 
+- Purchases of heavy fuel oil 
+- Purchases of other petroleum products 
+- Purchases of natural gas 
+- Purchases of derived gas 
+- Purchases of renewable energy sources 
+- Purchases of heat 
+- Purchases of electricity. 
+Link to company accounts 
+Purchases of individual energy products cannot be isolated in company accounts. They are part of raw materials and consumables. 
+Link to other variables 
+Part of purchases of energy products (20 11 0) 
+%gt%TABLE%gt% 
+Definition 
+Investment expenditure resulting from actions and activities which have as their prime objective the prevention, reduction and elimination of pollution and any other degradation of the environment. 
+Actions and activities which have a favourable impact on the environment but which do not come under environmental protection are excluded. Hence, excluded from this field are activities which, while beneficial to the environment, primarily satisfy technical needs or the internal requirements for health and safety of the enterprise. This restriction applies in most cases to recycling activities classified under NACE 37.00 (recycling). Data collected for this industry should not be added to other NACE headings (see classification of environmental protection activities UNECE/Eurostat DOC/CES/822). 
+End-of-pipe equipment concerns additional technical installations for use in the context of environmental control. These installations operate independently of or are identifiable parts added to the production facilities, treat pollution that has been generated, prevent the emissions or spread of the pollutants or measure the level of pollution (monitoring). The investment is calculated by the purchase price or construction cost of the installation, including design and installation costs. The purchase of land necessary for the installation is also included. Expenditure made principally for the purpose of health and safety inside the workplace should be excluded. 
+These investments occur in activities such as the reduction, prevention or treatment of waste and waste water, the prevention and elimination or reduction of air emissions, the treatment and disposal of contaminated soil and ground water, the prevention or reduction of noise and vibration levels, the preservation of ecological entities and landscapes as well as the monitoring of the quality of the environmental media and waste. 
+Link to company accounts 
+Investment is not recorded in the balance sheet. However, the additions, disposals and transfers of all fixed assets as well as the value adjustments of these fixed assets are shown in the balance sheet or the notes to the accounts. Investment in equipment and plant for pollution control and special anti-pollution accessories is included, but not isolated in the list of tangible assets included in company accounts under fixed assets - tangible assets. The Advisory Accounting Forum has proposed that this information should be disclosed. 
+Link to other variables 
+Part of gross investment in tangible goods (15 11 0). 
+%gt%TABLE%gt% 
+Definition 
+Research and experimental development comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications. 
+Intra-mural expenditures are all expenditures for R %amp% D (Research %amp% Development) performed within the unit, regardless of the source of funds. 
+R %amp% D must be distinguished from expenditures for a wide range of related activities. The following are therefore excluded from R %amp% D expenditure: 
+- expenditures on education and training, 
+- expenditures on other scientific and technological activities (e.g. information services, testing and standardisation, feasibility studies, etc.), 
+- expenditures on other industrial activities (e.g. industrial innovations n.e.s.), 
+- expenditures on purely financing activities (other administration and other indirect supporting activities are included). 
+Intra-mural expenditures are valued at production cost and include all operating costs including the labour cost and capital expenditure. 
+Link to company accounts 
+Research and development expenditure may, depending upon national laws, be recorded in one of three places, movements in intangible assets, movements in tangible assets or operating expenditure. 
+If under national law it may be partly or completely capitalised the expenditure is included in the movement of the intangible assets included in company accounts under fixed assets - intangible assets - costs of research and development. 
+If under national law it is only partially capitalised or not capitalised at all, the current expenditure is part of Raw materials and consumables, other external charges, staff costs and other operating charges and the capital expenditure is included in the movement of the tangible assets included in company accounts under Fixed assets - tangible assets. 
+%gt%TABLE%gt% 
+Definition 
+Research and experimental development comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications. 
+All persons employed directly on Research %amp% Development (R %amp% D) should be counted, as well as those providing direct services such as R %amp% D managers, administrators and clerical staff. Those persons providing an indirect service, such as canteen and security staff, should be excluded, even though their wages and salaries are included as an overhead in the measurement of expenditure. 
+R %amp% D personnel must be distinguished from personnel for a wide range of related activities. The following are therefore excluded from R %amp% D personnel: 
+- personnel employed on education and training, 
+- personnel employed on other scientific and technological activities (e.g. information services, testing and standardisation, feasibility studies, etc.), 
+- personnel employed on other industrial activities (e.g. industrial innovations n.e.s.), 
+- personnel employed on administration and other indirect supporting activities. 
+Link to company accounts 
+The total number of research and development personnel may not be isolated in company accounts. It is part of the number of persons employed which is recorded in the notes on the company accounts (Article 43 (8)). 
+Link to other variables 
+Part of the number of persons employed (16 11 0) 
+%gt%TABLE%gt% 
+Definition (for industry - Sections C to E of NACE Rev. 1) 
+Payments to subcontractors are payments made by the unit to third parties in return for industrial goods and services supplied as part of a subcontracting relationship defined as follows: 
+Two enterprises are linked by a subcontracting relationship whenever conditions A and B are met together: 
+A. the customer enterprise, also said main-contractor, participates in the conception of the product providing, even partially, technical specifications to the supplier enterprise, also said subcontractor, and/or provides it with the materials to be processed; 
+B. the customer enterprise sells the subcontracted product, either as such or as part of a more complex product, and takes on the after-sales liability for the product. 
+Note: The mere stipulation of a colour, size or catalogue number does not constitute a technical specification in itself. The manufacture of a tailor-made product does not of itself necessarily imply a subcontracting relationship. 
+Link to company accounts 
+Payments to subcontractors are not necessarily treated separately in company accounting. They may be included in other external charges and other operating costs. 
+Link to other variables 
+Part of total purchases of goods and services (13 11 0). 
+%gt%TABLE%gt% 
+Definition 
+The share of wholesale enterprises' turnover (Division 51 of NACE Rev. 1) accounted for by retail traders. This share corresponds to the traditional scheme producer . wholesaler . retailer . consumer. Note that the share shall be calculated on the basis of turnover from trading activities of purchase and resale (18 13 0). 
+Link to company accounts 
+Percentage share of turnover to retail traders may be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of Turnover (12 11 0) 
+Part of Turnover from trading activities of purchase and resale (18 13 0) 
+Note: This variable forms together with (25 11 2), professional users and (25 11 3) final consumers an exhaustive breakdown of turnover from trading activities of purchase and resale (18 13 0). 
+%gt%TABLE%gt% 
+Definition 
+The share of wholesale enterprise' turnover (Division 51 of NACE Rev. 1) accounted for by professional users (businesses, institutions, government bodies, etc.) and wholesalers. Sales to retailers and final consumers are excluded. The wholesalers may form a complex distribution network involving several wholesalers prior to the final user. 
+Note that the share of turnover shall be calculated on the basis of turnover from trading activities of purchase and resale (18 13 0). 
+Link to company accounts 
+Percentage share of turnover to professional users may not be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+Part of turnover from trading a activities of purchase and resale (18 13 0) 
+Note: This variable forms together with (25 11 1), retail traders and (25 11 3) final consumers an exhaustive breakdown of turnover from trading activities of purchase and resale (18 13 0). 
+%gt%TABLE%gt% 
+Definition 
+The share of wholesale enterprises' turnover (Division 51 of NACE Rev. 1) accounted for by final consumers. This corresponds to a secondary activity of the wholesalers, acting in a retail capacity. 
+Note that the share of turnover shall be calculated on the basis of turnover from trading activities of purchase and resale (18 13 0). 
+Link to company accounts 
+Percentage share of turnover to final consumers may not be isolated in company accounts. It is part of net turnover. 
+Link to other variables 
+Part of turnover (12 11 0) 
+Part of turnover from trading activities of purchase and resale (18 13 0) 
+Note: This variable forms together with (25 11 1), retail traders and (25 11 2) professional users an exhaustive breakdown of turnover from trading activities of purchase and resale (18 13 0). 
+%gt%TABLE%gt% 
+Definition 
+This characteristic, as well as describing the supply network of retail trade, is an approximation made by the retailer to assess the share of direct purchases from wholesalers and through purchasing groups. 
+Note that the share of purchases shall be calculated on the basis of purchases of goods and services purchased for resale in the same condition as received (13 12 0). 
+Link to company accounts 
+Percentage share of purchases from wholesalers and purchasing groups may not be isolated in company accounts. It is a part of raw materials and consumables, other external charges and other operating charges. 
+Link to other variables 
+Part of total purchases of goods and services (13 11 0). 
+Part of purchases of goods and services purchased for resale in the same condition as received (13 12 0). 
+Note that the shares of purchases from wholesalers and purchasing groups (25 21 1) and producers (25 21 2) may not correspond to the total purchases for resale (13 12 0). The first two variables do not include e.g. purchases from retailers and purchases of used goods from professional/private users. 
+%gt%TABLE%gt% 
+Definition 
+This characteristic, as well as 25 21 1, describes the supply network of retail trade. It is an approximation made by the retailer to assess the share of direct purchases from producers. 
+Note that the share of purchases shall be calculated on the basis of purchases of goods and services purchased for resale in the same condition as received (13 12 0). 
+Link to company accounts 
+Percentage share of purchases from producers may not be isolated in company accounts. It is a part of raw materials and consumables, other external charges and other operating charges. 
+Link to other variables 
+Part of total purchases of goods and services (13 11 0). 
+Part of purchases of goods and services purchased for resale in the same condition as received (13 12 0). 
+Note that the shares of purchases from wholesalers and purchasing groups (25 21 1) and producers (25 21 2) may not correspond to the total purchases for resale (13 12 0). The first two variables do not include e.g. purchases from retailers and purchases of used goods from professional/private users. 
+(1) OJ L 76, 30.3.1993, p. 1. 

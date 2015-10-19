@@ -1,0 +1,193 @@
+Council Directive 71/318/EEC of 26 July 1971 on the approximation of the laws of the Member States relating to gas volume meters 
+COUNCIL DIRECTIVE of 26 July 1971 on the approximation of the laws of the Member States relating to gas volume meters (71/318/EEC) 
+THE COUNCIL OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof; 
+Having regard to the proposal from the Commission; 
+Having regard to the Opinion of the European Parliament1; 
+Having regard to the Opinion of the Economic and Social Committee2; 
+Whereas in the Member States the construction and methods of control of gas volume meters are subject to mandatory provisions which differ from one Member State to another and consequently hinder trade in such instruments ; whereas it is therefore necessary to approximate these provisions; 
+Whereas the Council Directive of 26 July 19713 on the approximation of the laws of the Member States relating to provisions both for measuring instruments and methods of metrological control has laid down the EEC type approval and EEC initial verification procedures ; whereas, in accordance with that Directive, the technical requirements for the design and functioning of gas volume meters should be laid down; 
+HAS ADOPTED THIS DIRECTIVE: 
+Article 1 
+This Directive applies to the following gas volume meters: 1. Volumetric meters: - meters with deformable walls; 
+- meters with rotary pistons. 
+2. Non-volumetric meters: - turbine meters. 
+Article 2 
+Those meters which may bear EEC marks and symbols are described in the Annex to this Directive. They shall be subject to EEC type approval and shall be submitted to EEC initial verification. 
+Article 3 
+No Member State may refuse, prohibit, or restrict the placing on the market or entry into service of gas volume meters bearing the EEC type approval symbol and the EEC initial verification mark. 
+Article 4 
+1. Member States shall put into force the laws, regulations and administrative provisions needed in order to comply with this Directive within eighteen months of its notification, and shall forthwith inform the Commission thereof. 
+2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. 
+Article 5 
+This Directive is addressed to the Member States. 
+Done at Brussels, 26 July 1971. 
+For the Council 
+The President 
+A. MORO 
+1 OJ No C 65, 5.6.1970, p. 30. 2 OJ No C 131, 29.10.1970, p. 7. 3 OJ No L 202, 6.9.1971, p. 1. 
+ANNEX 
+CHAPTER I 
+A. DEFINITION OF CERTAIN TERMS USED IN THE ANNEX 
+1. Range of load 
+The range of load of a gas meter is bounded by the maximum flow Qmax and the minimum flow Qmin. 
+2. Cyclic volume of a volumetric meter 
+%quot%Cyclic volume V of a volumetric meter%quot% means the volume of gas corresponding to a cycle of operation of the meter, that is to say to the whole of the movements of the moving components of the meter at the end of which all these components except the indicator and the intermediate transmissions return, for the first time, to their original position. 
+It is calculated by multiplying the value of the volume represented by a complete revolution of the test element, by the transmission ratio of the measuring device to the index counter. 
+3. Operating pressure and reference pressure 3.1. Operating pressure 
+The operating pressure of a gas meter is the difference between the pressure of the gas at the inlet of the meter and the atmospheric pressure. 
+3.2. Reference pressure 
+The reference pressure pr of a gas meter is the gas pressure to which the indicated volume of gas is related. 
+The pressure tapping for measuring the reference pressure is laid down in Chapter III. 
+4. Pressure absorption 
+The pressure absorption of a gas meter is the difference between the pressures measured at the inlet and outlet of the meter during the flow of a gas. 
+5. Output drive constant 
+The constant of an output drive is the value of the volume represented by a complete turn of the shaft of this drive ; this value is calculated by multiplying the value of the volume represented by a complete turn of the test element by the transmission ratio of the index counter to this shaft. 
+B. GENERAL PROVISIONS FOR GAS VOLUME METERS 
+1. General 1.1. Chapter I of this Annex lays down the general provisions which must be satisfied by all gas volume meters covered by Article 1 of this Directive. 
+1.2. Chapters II and III of this Annex lay down the special provisions relating to the meters concerned. 
+2. Construction 2.1. Materials 
+The meters must be manufactured of solid materials with low internal stresses, which change little with age, and which are sufficiently resistant to corrosion and attack by the various gases which are normally distributed or by any of their condensates. 
+2.2. Soundness of meters 
+The cases of meters must be gas-tight at the maximum operating pressure. 
+2.3. Protection against interference 
+The meters must be so constructed that any interference which could affect the accuracy of measurement is impossible without damaging the verification marks or protective seals. 
+2.4. Direction of gas flow 
+For meters whose indicating devices function positively only for one direction of flow, this direction must be indicated by an arrow. 
+This arrow is not required if the direction of gas flow is fixed by the construction. 
+2.5. Metrological properties 
+At a flow equal to Qmax a meter must be able to operate continuously for the time laid down in Chapter II of III without any change in its metrological performance beyond the limits specified in those chapters. 
+3. Additional devices 3.1. Meters may be fitted with additional devices (for correction, recording, supplementary indication etc) ; their addition is subject to the EEC type approval procedure. 
+3.2. Meters may be fitted with output drives to operate a detachable indicator, a pre-payment device, or any other complementary or additional device. 3.2.1. When these controls are not used, the free end of the drive must be protected by a plug or similar arrangement which can be sealed. 
+3.2.2. %gt%PIC FILE= %quot%T0038182%quot%%gt% 
+3.3. Meters may be fitted with integral pulse generators. 
+%gt%PIC FILE= %quot%T0038183%quot%%gt% 
+4. Inscriptions 4.1. Each meter must carry, grouped together either on the dial plate of the indicating device or on a special badge plate, the following inscriptions: (a) the number of the type approval of the meter 
+(b) the identification mark or name of the manufacturer 
+(c) the number and year of manufacture of the meter 
+(d) the size designation of the meter : this has the form of a capital G followed by a number which is laid down in Chapter II and III 
+(e) the maximum flow expressed as : Qmax =... m3/h 
+(f) the minimum flow expressed as : Qmin =... m3/h (or dm3/h) 
+(g) the maximum operating pressure expressed as : Pmax... MN/m2 (or N/m2), or Pmax... bar (or... mbar) 
+(h) for volumetric meters, the nominal value of the cyclic volume expressed as : V =... m3 (or dm3). 
+These inscriptions must be directly visible, easily legible, and indelible under the normal conditions of use of the meter. 
+4.2. The metrological service which issues the type approval may decide the cases in which the nature of the gas must also be specified on the badge plate. 
+4.3. The meter may also carry the commercial designation, a special series number, the name of the gas distributor, a mark indicating that it conforms to a European standard, and an indication relating to any repairs made. Unless specially authorised, any other indication or inscription is prohibited. 
+5. Counter and test element 5.1. Counter 5.1.1. The counters must be in the form of drums ; however, the last element may be excepted from this rule. The drums must be calibrated in cubic metres or decimal multiples or submultiples of the cubic metre. The symbol m3 must be marked on the index plate. 5.1.1.1. The drums indicating the submultiples of the cubic metre if provided must be clearly distinguishable from the other drums, and separated from them by a clearly marked decimal point. 
+5.1.1.2. In cases in which the last drum is figured in decimal multiples of a cubic metre, the index plate must be marked with either: (a) one or more fixed zero's as appropriate after the last drum ; or 
+(b) the indication %quot%× 10, × 100, × 1000 etc. %quot% in such a way that the reading is always made in cubic metres. 
+5.1.2. The counter must have sufficient numbered drums to be able to indicate within one unit of the last drum, the volume passed during an operating period of one thousand hours at maximum flow rate. 
+5.2. Test element 5.2.1. Meters must be designed in such a way that checking can be done with sufficient accuracy. For this purpose they must incorporate in their design an integral test unit or arrangements permitting the connection of a portable test unit. 
+5.2.2. The integral test element may be the last element of the counter in one of the two following forms: (a) a continuously revolving drum carrying a graduated scale; 
+(b) a pointer passing over a fixed dial having a graduated scale or a disc carrying a graduated scale moving past a fixed reference mark. 
+5.2.3. On the graduated scales of these test elements the unit of the graduations must be indicated clearly and unambiguously in m3 or decimal submultiples of the m3 ; the beginning of the scale must be indicated by the figure zero. 5.2.3.1. The interval between scale divisions must be constant throughout the scale and not less than 1 millimetre. 
+5.2.3.2. The value of the scale divisions must be in the form 1 × 10n, 2 × 10n, or 5 × 10n m3, n being a whole positive or negative number or zero. 
+5.2.3.3. The graduation lines must be fine and uniform. In cases in which the division is of the form 1 × 10n or 2 × 10n m3, all the lines representing multiples of 5, and in the case of a division of the form 5 × 10n m3, all the lines representing multiples of 2, must be distinguished by a greater length. 
+5.2.4. The pointer or the reference mark must be sufficiently thin to permit certain and easy reading. 
+5.3. Diameters of drums and dials 
+The diameters of drums must be at least 16 millimetres. 
+The diameter of the graduated scales mentioned in Chapter I B 5.2.2. b must be at least 32 millimetres. 
+5.4. Reading of the counter 
+The counter must be so designed that it can be read by simple juxtaposition of the figures. 
+5.5. Advance of figures 
+The advance by one figure at any part of the index must be completed whilst the figure of the immediately next lower range describes the last tenth of its course. 
+5.6. Removal of the counter 
+Meters must be so designed that the counter may be removed easily during examination. 
+6. Maximum permissible errors 6.1. The measuring errors are expressed as a relative value by the ratio, as a percentage, of the difference between the volume indicated and the volume actually passed by the meter, to the latter volume. 
+6.2. These errors relate to the measurement of volumes of air having a reference density of 1 72 kg/m3. Under normal atmospheric conditions the ambient air in a test laboratory may be considered to satisfy this condition. 
+6.3. The maximum permissible errors are specified in Chapters II and III ; they are valid for the authorised direction of flow. 
+7. Pressure absorption 7.1. Maximum permissible values 
+The maximum permissible values of pressure absorption are specified in Chapters II and III. 
+8. Application of verification marks and seals 8.1. Purpose 
+The application of EEC verification marks and seals on a gas meter certifies solely that the meter meets the requirements of the present Directive. 
+8.2. Location 8.2.1. The locations of the marks must be chosen in such a way that dismantling of the part sealed will involve destruction of the marks. 
+8.2.2. When the inscriptions mentioned in item 4.1. of Chapter I B are on a special badge plate, one of the marks should be fixed in such a manner that it is damaged if the special plate is removed. 
+8.2.3. Locations should be provided for verification marks or sealing: (a) on all plates carrying an inscription required by the present Annex; 
+(b) on all parts of the casing which cannot otherwise be protected against interference liable to affect the accuracy of measurement. 
+9. EEC Type approval and initial verification 9.1. EEC Type approval 9.1.1 The request for type approval of a meter must include the following documents, accompanying the type submitted: - a description of the meter for which approval is requested; 
+- a drawing in perspective or a photograph of this meter; 
+- a plan of the assembly of the complete meter, supplemented if necessary by detailed drawings; 
+- a parts list and all other information considered necessary by the metrology services concerned; 
+- a plan showing the locations for verification marks and for protective seals; 
+- a declaration specifying that the meters manufactured in conformity with the type meet the requirements for safety, particularly those concerning the maximum operating pressure as indicated on the badge plate. 
+9.2. EEC Initial verification 9.2.1. Meters submitted for the EEC initial verification shall be in working order. If the meters are to be used with additional devices operated by output drives, these accessories must have been connected during the examination unless a later connection has been expressly authorised. 
+10. Verification marks and seals 
+Meters having undergone successfully the verification tests: - shall be provided with a verification mark; 
+- shall receive seals in the locations provided for the protection of certain components against interference liable to affect the meter characteristics. 
+CHAPTER II PROVISIONS RELATING TO GAS VOLUME METERS WITH DEFORMABLE WALLS 
+1. Field of application 
+The present Chapter applies, together with the provisions of Chapter I, to gas meters in which the measurement of gas passed through is effected by means of measuring chambers with deformable walls. 
+2. Range of capacity and designation 2.1. The following table gives the authorised values for maximum flow, the upper limits of the corresponding minimum flows, and the minimum values of cyclic volumes, corresponding to the designation (G) of the meters: %gt%PIC FILE= %quot%T0038184%quot%%gt% 
+2.2. If for a type of meter the value of Qmin is lower than the number given in the table of item 2.1 of this Chapter, the numerical value of this Qmin must be expressed by a number in column 3 of this table or by a decimal submultiple of this number. 
+2.3. Meters having a cyclic volume less than the value given in the table of item 2.1 of this Chapter may be approved provided that the model satisfies the requirements of the endurance test mentioned in this connection in item 7.2.5 of this Chapter. 
+3. Details of construction 3.1. For each of the meters the difference between the calculated value of the cyclic volume V and the value of this volume specified on the meter must not exceed 5 % of the latter. 
+3.2. Meters G 1 76 to G 6 inclusive may be provided with a device to prevent operation of the counter when the gas flows in a non-authorised direction. 
+4. Test element 4.1. For meters G 1 76 to G 6 inclusive the test element is manufactured as indicated in item 5.2.2 of Chapter I. For meters G 10 to G 650 inclusive the test element is: - either manufactured as in item 5.2.2 of Chapter I; 
+- or is detachable. 
+4.2. When the test element is manufactured as in item 5.2.2 of Chapter I B the value of the scale division of the element and its graduation must satisfy the requirements of the type as shown in the following table : %gt%PIC FILE= %quot%T0038185%quot%%gt% 
+4.3. For meters of which the test element is manufactured as in item 5.2.2 of Chapter I B, the typical deviation for a series of at least thirty successive measurements, carried out at a flow of the order of 0 71 Qmax, and under the same conditions, of a volume of air specified below must exceed the values in the following table: %gt%PIC FILE= %quot%T0038186%quot%%gt% 
+5. Maximum permissible errors 5.1. General Provisions 5.1.1. The maximum permissible errors, positive or negative, are given in the following table: %gt%PIC FILE= %quot%T0038187%quot%%gt% 
+5.1.2. In EEC initial verification the errors for a meter for flows Q between 2 Qmin and Qmax must not all exceed 1 % if they are all of the same sign. 
+6. Pressure absorption 6.1. Total pressure absorption 
+The total pressure absorption with a flow of air of density 1 72 kg/m3 at a flow rate equal to Qmax must not exceed on average: %gt%PIC FILE= %quot%T0038188%quot%%gt% 
+6.2. Mechanical pressure absorption 
+The mechanical pressure absorption, that is to say the absorption of pressure with a flow of air of density 1 72 kg/m3 at a flow between Qmin and 2 Qmin must not exceed: %gt%PIC FILE= %quot%T0038189%quot%%gt% 
+The above values relate to the maximum of the mechanical pressure absorption. 
+6.3. Special provision 
+For meters for which the operating pressure exceeds 0 71 MN/m2 (1 bar) the provisions of item 6.2 of this Chapter regarding the mechanical pressure absorption apply, but the total pressure absorption mentioned in item 6.1 of this Chapter of these meters is not taken into consideration. 
+7. EEC type approval 7.1. As well as the type sample the applicant must place initially at the disposal of the competent authority two to six further sample meters manufactured in accordance with the type sample. 
+The number is to be spread over several G sizes at the request of the competent authority if the application for approval covers meters of different sizes. 
+If the results of the tests are not wholly satisfactory further sample meters may be called for. 7.1.1. A derogation from this provision may be allowed in that these sample meters be placed at the disposal of the competent authority at a later date. However, the decision regarding type approval will not be taken until all samples have been fully examined. 
+7.1.2. The sample meters shall remain the property of the applicant and will be returned to him after type approval has been granted. 
+7.2. The examination 7.2.1. The type sample and the sample meters must satisfy the requirements of Chapter I and items 2, 3, 4, 5 and 6 of this Chapter. 
+7.2.2. In addition, over the range, the difference between the maximum and the minimum of errors as a function of the flow rate Q must not exceed 3 % for each meter. 
+7.2.3. The type sample and the sample meters shall be subjected to an endurance test. This test is carried out: 7.2.3.1. For meters G 1 76 to G 10 inclusive : at the maximum meter capacities and with air : however, for meters on which the badge plate specifies the gas to be metered, the test may be effected wholly or partly with this gas. 
+7.2.3.2. For meters G 16 to G 650 inclusive : so far as possible at the maximum capacity of the meter with air or with gas. 
+7.2.4. The duration of the endurance test for meters of which the cyclic volume is equal to or greater than the values mentioned in the Table of item 2.1 of this Chapter shall be: 7.2.4.1. For meters G 1 76 to G 10 inclusive : 1000 hrs. The test may be interrupted but must be completed within sixty days. 
+7.2.4.2. For meters G 16 to G 650 inclusive : such that each meter will measure a volume of air or of gas corresponding to an operation of 1000 hrs at the maximum output of the meter ; the test must be completed within the six-month period. 
+7.2.5. For meters of which the cyclic volume is less than the values specified in the table of item 2.1 of this Chapter, the duration of the endurance test must be of a duration of 2000 hrs and must be carried out on a greater number of meters than that specified in item 7.1 of this Chapter, according to the description of the meter and its general characteristics. 
+7.2.6. After the endurance test, the meters must satisfy the following requirements: (a) over the range, the difference between the maximum and minimum errors as a function of the flow Q must not exceed, for each meter, a value of 4 %; 
+(b) at no point should the errors be more than 1 75 % greater than the maximum or less than the minimum initial error; 
+(c) the mechanical pressure absorption must not have increased by more than 20 N/m2 (0 72 mbar); 
+(d) for meters for which the operating pressure ist greater than 0 71 MN/m2 (1 bar), the difference between the error at flow rate 0 75 Qmax and the error at flow rate Qmax must not have increased by more than 1 %. 
+7.3. Modification of a model already approved 
+If the request for approval concerns a modification to a model already approved, the metrology service which approved the primary model shall decide, according to the nature of the modification, whether and to what extent the provisions of items 7.1, 7.2.3, 7.2.4 and 7.2.5 of this Chapter are applicable. 
+8. EEC initial verification 8.1. Accuracy tests 
+A meter is considered to satisfy the requirements concerning maximum permissible errors if these requirements are met at the following flow rates: (a) at a flow rate between Qmin and 2 Qmin; 
+(b) at a flow rate of the order of 1/5 Qmax; 
+(c) at a flow rate of Qmax; 
+(d) at a flow rate 0 750 Qmax for meters which the operating pressure is greater than 0 71 MN/m2 (1 bar). 
+If the examination is conducted under different conditions, the guarantees must be at least equal to those obtained by the tests mentioned above. 
+CHAPTER III PROVISIONS CONCERNING GAS METERS WITH ROTARY PISTONS OR TURBINES 
+1. Field of application 
+The present Chapter applies, together with the provisions of Chapter I, to: 1.1. Rotary piston gas meters - in which the measurement of gas passed is effected by means of measuring chambers with rotary walls. 
+1.2. Turbine gas meters - in which the axial flow of gas rotates a turbine wheel and the number of revolutions of the wheel represents the volume of gas passed. 
+2. Range of capacities 2.1. Gas meters shall have only the ranges shown in the following table which correspond to their designation(G): %gt%PIC FILE= %quot%T0038190%quot%%gt% 
+and decimal multiples of the last five lines. 
+3. Details of construction 3.1. Rotary Piston Meters 3.1.1. Meters should include upstream and downstream static pressure tappings of 3 to 5 millimetre diameter to permit measurement of the pressure drop : the pressure measured upstream will constitute the reference pressure. 
+3.1.2. The meters may incorporate a manual arrangement for turning the pistons provided that it cannot be used in such a way as to interfere with the correct operation of the meter. 
+3.1.3. The bearings of the shafts of the rotary pistons of meters of sizes G160 and above may be constructed in such a way as to provide access to them without breaking the protective seals. 
+3.2. Turbine Meters 3.2.1. The meters must incorporate a pressure tapping permitting, if necessary indirectly, the determination of the pressure immediately upstream of the turbine wheel as a reference pressure. 3.2.1.1. If there is a device for throttling the gas flow upstream of the rotor, the meter may incorporate, as well as the pressure tapping required by item 3.2.1 of this Chapter, another pressure tapping immediately before the throttle to permit determination of the pressure drop across the throttling device. 
+3.3. Pressure Tappings 3.3.1. These pressure tappings must be provided with means for closing them. 
+3.3.2. The pressure tappings for the reference pressure must be clearly and indelibly marked %quot%pr%quot% and the pressure tapping should be indicated as %quot%p%quot%. 
+4. Test element 4.1. In applying the provisions of item 5.1.1.2 (a) and (b) of Chapter I B, the maximum value of the scale unit of the test element must be: %gt%PIC FILE= %quot%T0038191%quot%%gt% 
+4.2. The scale of the test element must be numbered: %gt%PIC FILE= %quot%T0038192%quot%%gt% 
+5. Maximum permissible errors 5.1. The maximum permissible errors, positive and negative, are given in the following table: %gt%PIC FILE= %quot%T0038193%quot%%gt% 
+5.2. The errors must not all exceed half the maximum permissible error if they are all of the same sign. 
+6. EEC type approval 6.1. As well as the type sample, the applicant must place initially at the disposal of the competent authority two to six sample meters manufactured in accordance with the type sample. 
+At the request of the competent authority this number shall be spread over several G sizes in the case of a request for approval covering meters of different sizes. 
+If the results of the tests are not wholly satisfactory supplementary samples may be called for. 6.1.1. A derogation from this provision may be allowed in that these sample meters may be placed at the disposal of the competent authority at a later date. However, the decision regarding type approval will not be taken until all samples have been fully examined. 
+6.1.2. The sample meters shall remain the property of the applicant and be returned to him after type approval has been granted. 
+6.2. Examination 6.2.1. The examination will include in particular the determination of the errors of each meter, by a test with air of density 1 72 kg/m3. Each test result shall be taken into separate consideration. 6.2.1.1. The error curve of each of the meters must remain within the band given by the limits of the maximum permissible errors of EEC initial verifications over the range of flow rates for which approval is requested. 
+6.2.1.2. The difference between the maximum value and minimum value of the errors for each of the meters must not exceed 1 % over the range from 0 75 Qmax to Qmax. 
+6.2.2. The meters shall then be subjected to an endurance test with air or gas. 6.2.2.1. So far as possible the endurance test shall be carried out at the maximum capacity of the meter. The period of operation shall be such that each meter measures a volume of air or gas corresponding to operation for 1000 hrs at its maximum capacity, without this total period of test exceeding six months. 
+6.2.2.2. After this endurance test, the meters shall be examined again with air of density 1 72 kg/m3 using the same standard equipment as in the test referred to in item 6.2.1 of this Chapter. 
+Under these test conditions: (a) The values of the errors determined at the flows specified in item 7.1 of this Chapter for each meter (with the exception of not more than one) should not differ by more than 1 % from the errors found in the test referred to in item 6.2.1 of this Chapter; 
+(b) the difference between the maximum value and the minimum value of the error curve should not exceed, for each of the meters (with the exception of not more than one) 1 75 % over the range 0 75 Qmax to Qmax. 
+7. EEC initial verification 7.1. Accuracy tests 
+A meter is considered to satisfy the requirements concerning the maximum permissible errors if the requirements are met at the following flow rates: (a) For rotary piston meters: 
+Qmin, 1 75 Qmin, 0 725 Qmax, 0 75 Qmax and Qmax; 
+(b) For turbine meters: 
+Qmin, 1 75 Qmin, 3 Qmin, 0 725 Qmax, 0 75 Qmax and Qmax. 
+If the examination is conducted under different conditions, the guarantees must be at least equal to those obtained by the tests mentioned above. 
+7.2. The values specified in item 7.1 of this Chapter may be varied by ±5 %. 

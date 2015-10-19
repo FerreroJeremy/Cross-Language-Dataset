@@ -1,0 +1,58 @@
+Directiva 2001/63/CE de la Comisión, de 17 de agosto de 2001, por la que se adapta al progreso técnico la Directiva 97/68/CE del Parlamento Europeo y del Consejo relativa a la aproximación de las legislaciones de los Estados miembros sobre medidas contra la emisión de gases y partículas contaminantes procedentes de los motores de combustión interna que se instalen en las máquinas móviles no de carretera 
+Directiva 2001/63/CE de la Comisión 
+de 17 de agosto de 2001 
+por la que se adapta al progreso técnico la Directiva 97/68/CE del Parlamento Europeo y del Consejo relativa a la aproximación de las legislaciones de los Estados miembros sobre medidas contra la emisión de gases y partículas contaminantes procedentes de los motores de combustión interna que se instalen en las máquinas móviles no de carretera 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Vista la Directiva 97/68/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 1997, relativa a la aproximación de las legislaciones de los Estados miembros sobre medidas contra la emisión de gases y partículas contaminantes procedentes de los motores de combustión interna que se instalen en las máquinas móviles no de carretera(1), y, en particular, su artículo 14, 
+Considerando lo siguiente: 
+(1) El ámbito de aplicación del Reglamento n° 96 de la Comisión Económica para Europa (CEPE) sobre emisiones de motores de encendido por compresión destinados a tractores agrícolas y forestales ha sido ampliado para cubrir otros tipos de máquinas móviles no de carretera. 
+(2) La Comunidad Europea es parte contratante de dicho Reglamento de la CEPE. 
+(3) Es necesario adaptar los requisitos técnicos de dicho Reglamento a los requisitos correspondientes de la Directiva 97/68/CE. 
+(4) Las medidas previstas en la presente Directiva se ajustan al dictamen del Comité de adaptación al progreso técnico previsto en la Directiva 92/53/CEE del Consejo(2). 
+(5) La Directiva 97/68/CE debe modificarse en consecuencia. 
+HA ADOPTADO LA PRESENTE DIRECTIVA: 
+Artículo 1 
+Los anexos III y IV de la Directiva 97/68/CE se modifican de acuerdo con lo dispuesto en el anexo de la presente Directiva. 
+Artículo 2 
+La presente Directiva no invalida las homologaciones concedidas con anterioridad a la fecha mencionada en el artículo 3 de conformidad con la Directiva 97/68/CE, ni impide la extensión de tales homologaciones de conformidad con la Directiva con arreglo a la cual hubieran sido concedidas. 
+Artículo 3 
+Los Estados miembros promulgarán las disposiciones legales, reglamentarias y administrativas necesarias para dar cumplimiento a lo dispuesto en la presente Directiva antes del 30 de junio de 2002. Informarán inmediatamente de ello a la Comisión. 
+Cuando los Estados miembros adopten dichas disposiciones, éstas harán referencia a la presente Directiva o irán acompañadas de dicha referencia en su publicación oficial. Los Estados miembros determinarán cómo deberá hacerse dicha referencia. 
+Artículo 4 
+La presente Directiva entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de las Comunidades Europeas. 
+Artículo 5 
+Los destinatarios de la presente Directiva serán los Estados miembros. 
+Hecho en Bruselas, el 17 de agosto de 2001. 
+Por la Comisión 
+Margot Wallström 
+Miembro de la Comisión 
+(1) DO L 59 de 27.2.1998, p. 1. 
+(2) DO L 225 de 10.8.1992, p. 1. 
+ANEXO 
+Modificaciones de los anexos III y IV de la Directiva 97/68/CE 
+1. El anexo III se modificará como sigue: 
+1) La fórmula del punto 2.2.2 se sustituirá por la siguiente: %quot%0,96 %amp%lt;= fa %amp%lt;= 1,06%quot%. 
+2) En el tercer guión del punto 1.2.1 del apéndice 2, %quot%CO%quot% se sustituirá por %quot%CO2%quot%. 
+3) El punto 1.9.2.2 del apéndice 2 se sustituirá por el sexto siguiente: %quot%1.9.2.2. Comprobación de la amortiguación por agua 
+Esta comprobación sólo es aplicable a las mediciones de concentración de gas en fase húmeda. Para el cálculo de la amortiguación por agua, se tendrá en cuenta la dilución del gas de span de NO con vapor de agua y la adaptación de la escala de concentración de vapor de agua de la mezcla con relación a la esperada durante la prueba. Se hará pasar por el (H)CLD un gas de span de NO con una concentración del 80 % al 100 % del valor máximo de la escala correspondiente al campo operativo normal y se registrará el valor de NO como D. A continuación se hará barbotear por agua el gas de NO a temperatura ambiente, y se le hará pasar por el (H)CLD y se registrará el valor de NO como C. Se determinará la temperatura del agua y se registrará como F. Se determinará la presión de vapor de saturación de la mezcla correspondiente a la temperatura (F) del agua de la cuba de barboteo y se registrará como G. La concentración de vapor de agua (en %) de la mezcla se calculará como sigue: 
+%gt%PIC FILE= %quot%L_2001227ES.004202.TIF%quot%%gt% 
+y se registrará como H. La concentración esperada del gas de span de NO diluido (en vapor de agua) se calculará como sigue: 
+%gt%PIC FILE= %quot%L_2001227ES.004203.TIF%quot%%gt% 
+y se registrará como De. Para el escape diesel se efectuará un cálculo estimado de la máxima concentración (en %) de vapor de agua en el escape esperada en la prueba, a partir de la máxima concentración de CO2 en el escape o de la concentración del gas de span de CO2 no diluido (valor A medido de acuerdo con el punto 1.9.2.1), suponiendo una relación atómica H/C de 1,8 a 1, utilizando la fórmula siguiente: 
+Hm = 0,9 x A 
+y se registrará como Hm. 
+La amortiguación por agua se calculará de la manera siguiente: 
+%gt%PIC FILE= %quot%L_2001227ES.004204.TIF%quot%%gt% 
+y no deberá ser superior al 3 % del valor máximo de la escala. 
+De: concentración esperada de NO diluido (ppm) 
+C: concentración de NO diluido (ppm) 
+Hm: máxima concentración de vapor de agua (%) 
+H: concentración real de vapor de agua (%) 
+Nota: 
+Para esta comprobación es importante que el gas de span de NO contenga una concentración mínima de NO2, dado que la absorción de NO2 en agua no se ha tenido en cuenta en los cálculos de amortiguación.%quot% 
+4) En el punto 1.4.4 del apéndice 3, la segunda fórmula para las correcciones de base del gasto másico de partículas con filtro único se suprimirá, y la primera fórmula se modificará como sigue: 
+%gt%PIC FILE= %quot%L_2001227ES.004205.TIF%quot%%gt% 
+2. El anexo IV se modificará como sigue: 
+1) La línea 17 de la segunda columna de cuadro se sustituirá por el texto siguiente: %gt%SITIO PARA UN CUADRO%gt% 
+2) La segunda frase de la nota 9 se modificará como sigue: %quot%... A efectos de la homologación inicial de un motor sin postratamiento de los gases de escape a petición del solicitante se admitirá un contenido nominal de azufre en peso del 0,05 % (mínimo 0,03 % en peso), en cuyo caso el nivel medido de partículas deberá corregirse al alza hasta el valor medio especificado nominalmente para el contenido de azufre del combustible (0,15 % en peso), por medio de la ecuación siguiente:%quot% 

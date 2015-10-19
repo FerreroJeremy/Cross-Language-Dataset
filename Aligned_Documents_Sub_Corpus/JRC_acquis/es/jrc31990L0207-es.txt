@@ -1,0 +1,226 @@
+Directiva 90/207/CEE de la Comisión de 4 de abril de 1990 por la que se modifica la segunda Directiva 82/434/CEE sobre la aproximación de las legislaciones de los Estados Miembros relativas a los métodos de análisis necesarios para el control de la composición de los productos cosméticos 
+Conservacion : tres dias a 25 *C . // 
+No debe observarse evolucion en el color . 
+5.2.18 . 
+Formaldehido patron : solucion madre // 
+En un matraz aforado de 1 000 ml, introducir 10 g de formaldehido ( 5.2.9 .) y completar hasta 1 000 ml con agua . // 
+Determinacion del titulo de la solucion madre : // 
+Extraer 5,00 ml, anadir 25 ml de la solucion titulada de iodo ( 5.2.14 ) y 10 ml de solucion de hidroxido de sodio ( 5.2.10 ). // 
+Dejar reposar durante cinco minutos . // 
+Acidificar con 11 ml de HCL ( 5.2.11 ) y determinar el iodo en exceso con una solucion titulada de tiosulfato de sodio ( 5.2.15 ) en presencia de engrudo de almidon como indicador . // 
+1 ml de solucion de iodo consumida ( 5.2.14 ) corresponde a 1,5 
+( 1 ) Segun la norma ISO 5725 . 
+5.2.19 . 
+Formaldehido patron : solucion diluida // 
+Realizar una dilucion al 1/100 de la solucion madre en la fase movil ( 5.2.16 ). // 
+1 ml de esta solucion contiene aproximadamente 37 *g de formaldehido . Calcular su contenido exacto . 
+5.3 . 
+Aparatos 
+5.3.1 . 
+Material habitual de laboratorio 
+5.3.2 . 
+Una bomba HPLC sin pulsaciones 
+5.3.3 . 
+Una bomba de baja presion sin pulsaciones para el reactivo ( o una segunda bomba HPLC ). 
+5.3.4 . 
+Una valvula de inyeccion provista de un bucle de 10 *l 
+5.3.5 . 
+Reactor post-columna incluyendo los elementos siguientes : // 
+1 bombona tritubular de 1 litro, // 
++ 1 calienta bombonas de 1 litro // 
++ 2 columnas Vigreux con 10 platos minimo ( refrigeracion por aire ) // 
++ tubo inoxidable ( para intercambio térmico ) de 1,6 mm _ diametro interior 0,23 mm L = 400 mm // 
++ tubo de teflon de 1,6 mm _ diametro interior 0,30 mm _ L = 5 m, ( Tricotin ) ( ver apéndice 1 ) // 
++ 1 pieza en T sin volumen muerto ( Valco o equivalente ) // 
++ 3 racores Union sin volumen muerto // 
+O : un modulo post-columna de tipo Applied Biosystems PCRS 520 o equivalente provisto de un reactor de 1 ml 
+5.3.6 . 
+Filtro acrodisco RCR 0,45 * 5.3.7 . 
+Cartucho SEPPAK RC18 
+5.3.8 . 
+Columnas listas para el empleo : // 
+_ Bischoff hypersil RP 18 ( tipo NC ref . C 25.46 1805 ) ( 5 * - L = 250 mm - 0 int . = 4,6 mm ) // 
+_ o Dupont, Zorbax ODS ( 5 * - L = 250 mm - 0 int . = 4,6 mm ) // 
+_ o Phase SEP, esferisorbe ODS 2 ( 5* - L = 250 mm _ 0 int . = 4,0 mm ) 
+5.3.9 . 
+Precolumna // 
+_ Bischoff K1 hypersil RP 18 ( ref . KL G 6301 1805 ) 5* - L = 10 mm, o equivalente 
+5.3.10 . 
+La columna y la precolumna se conectaran por medio de un sistema Ecotube ( ref . A 15020508 Bischoff ) o equivalente . 
+5.3.11 . 
+Realizar el montaje ( 5.3.5 ) segun el esquema del apéndice 2 . // 
+Las conexiones después de la valvula de inyeccion deben ser lo mas cortas posible . // 
+En el caso de utilizar ( 5.3.6 ), el tubo inoxidable colocado entre la salida del reactor y la entrada del detector tiene por finalidad enfriar la mezcla antes de la deteccion y la temperatura en el detector no es conocida pero es constante . 
+5.3.12 . 
+Detector, U.V . visible 
+5.3.13 . 
+Registradora 
+5.3.14 . 
+Centrifuga 
+5.3.15 . 
+Bano de ultrasonidos 
+5.3.16 . 
+Agitador vibratorio ( tipo Vortex o equivalente ) 
+5.4 . 
+Procedimiento 
+5.4.1 . 
+Curva patron // 
+Las soluciones estandar se preparan por dilucion de la solucion diluida de formaldehido patron ( 5.2.19 ) con la fase movil ( 5.2.16 ). // 
+_ 1 ml de solucion patron ( 5.2.19 ) diluida a 20,00 ml aproximadamente 185 *g/100 ml // 
+_ 2 ml de solucion patron ( 5.2.19 ) diluida a 20,00 ml aproximadamente 370 *g/100 ml // 
+_ 5 ml de solucion patron ( 5.2.19 ) diluida a 25,00 ml aproximadamente 740 *g/100 ml // 
+_ 5 ml de solucion patron ( 5.2.19 ) diluida a 20,00 ml aproximadamente 925 *g/100 ml // 
+Las soluciones estandar se almacenan durante una hora a la temperatura del laboratorio y deben estar recién preparadas . // 
+La linearidad de la curva patron es buena para concentraciones de 100 a 1 500 *g/ml 
+5.4.2 . 
+Preparacion de las muestras 
+5.4.2.1 . 
+Caso de las emulsiones ( cremas _ maquillajes de base _ delineadores de ojos ) // 
+Pesar en un frasco con tapon, con una precision de 0,001 g, una masa ( m ) de muestra para ensayo ( en g ) correspondiente a una cantidad supuesta de formaldehido de unos 100 *g . // 
+Anadir 20,00 ml de diclorometano ( 5.2.8 ) y 20,00 ml de acido clorhidrico ( 5.2.12 ) medidos exactamente . // 
+Mezclar por medio del agitador vibratorio ( 5.3.16 ) y de los ultrasonidos ( 5.3.15 ). // 
+Separar las dos fases por centrifugacion ( 3 000 r.p.m . durante 2 minutos ). // 
+Por otra parte, lavar un cartucho ( 5.3.7 ) con 2 ml de metanol ( 5.2.7 ) y después acondicionar con 5 ml de agua ( 5.2.1 ). // 
+Hacer pasar 4 ml de la fase acuosa del extracto a través del cartucho ( 5.3.8 ), eliminar los primeros 2 ml y recuperar la fraccion siguiente . 
+5.4.2.2 . 
+Caso de las lociones y champues // 
+Pesar con una precision de 0,001 g una masa ( m ) de muestra para ensayo ( en g ) correspondiente a una cantidad supuesta de formaldehido de unos 500 *g . // 
+Completar hasta 100 ml con la fase movil ( 5.2.16 ). // 
+La solucion se filtra a través de un filtro ( 5.3.6 ) y se inyecta o se pasa a través de un cartucho ( 5.3.7 ) acondicionado como en el caso anterior ( 5.4.2.1 ) // 
+Todas las soluciones deben ser inyectadas extemporaneamente . 
+5.4.3 . 
+Condiciones cromatograficas // 
+_ caudal de la fase movil : 1 ml/min // 
+_ caudal del reactivo : 0,5 ml/min // 
+_ caudal total a la salida del detector : 1,5 ml/min // 
+_ volumen inyectado : 10 *l // 
+_ temperatura de elucion : en las separaciones dificiles, la columna se sumerge en un bano de hielo fundente y se espera el equilibrio de las temperaturas . // 
+_ temperatura reaccion post-columna : 100 *C // 
+_ deteccion : 420 nm // 
+_ atenuacion : 0,32 escala plena // 
+_ registrador : 10 mv escala plena desarrollo 10 mm/min . // 
+NB : El conjunto del sistema cromatografico y post-columna debe enjuagarse con agua después de utilizado ( 5.2.1 ). En el caso de una parada superior a dos dias, a este enjuagado le sigue un enjuagado con metanol ( 5.2.7 ). // 
+Antes de reacondicionar el sistema, efectuar una pasada de agua para evitar las recristalizaciones . 
+5.5 . 
+Calculo // 
+Caso de las emulsiones // 
+Contenido en % de formaldehido ( m/m ): 
+1.2.3.4 // 
+C 10-6 100 5 m 
+= 
+C 10-4 5 m 
+1.2 // **** ** *** ******** * ****** ** ****** **** * *** 
+1.2.3.4 // * // 10-6 100 m 
+= 
+C 10-4 m 
+1.2 // ***** * ** **** ** * ** ** ******* ******** * ******* * ** ************ ** *********** ** 
+*g/100ml leida en la curva maestra ( 5.4.1 .) 
+5.6 . 
+Repetibilidad ( 1 ) // 
+Para un contenido de formaldehido del 0,05 % la diferencia entre los resultados de 2 determinaciones paralelas efectuadas en la misma muestra no debe superar el 0,001 %. // 
+Para un contenido de formaldehido del 0,2 %, la diferencia entre los resultados de 2 determinaciones paralelas efectuadas en la misma muestra no debe superar el 0,005 %. mg de formaldehido . 
+( 1 ) Segun la norma ISO 5725 . 
+Apéndice 1 
+CONFECCION DE UN SERPENTIN 
+ACCESORIOS UTILIZADOS PARA LA REALIZACION DEL %quot% SERPENTIN %quot% 
+_ 1 bobina de madera : 
+de un diametro exterior de 5 cm, en medio de la cual se practicara un agujero de 1,5 cm . Se plantaran cuatro puntas de acero equidistantes ( ver esquema de la bobina en la figura 1 y figura 2 ). La separacion entre dos puntas sera de 1,8 cm; las puntas se plantaran a 0,5 cm del agujero . 
+_ 1 vastago rigido ( del tipo gancho ) para realizar los bucles a partir del tubo de Teflon 
+_ tubo de Teflon de 1,6 mm _ OE int . 0,3 mm _ Longitud : 5 metros 
+REALIZACION DEL %quot% SERPENTIN %quot% 
+Para poner en marcha el serpentin, es preciso enhebrar el tubo de Teflon de arriba a abajo por el agujero central de la bobina ( dejando que el tubo sobresalga aproximadamente unos 10 cm por debajo de la cara inferior, lo que permitira tirar ligeramente de la cadenilla durante la confeccion ) y después enrollar el tubo alrededor de cada una de las cuatro puntas para completar la primera vuelta ( véase figura 3 ). 
+La entrada y la salida del serpentin estaran guarnecidas con abrazaderas y tornillos de compresion, por lo que es preciso proceder con atencion para no aplastar el Teflon al realizar el engarce . 
+A partir de la segunda hilera, hacer pasar el tubo por el exterior de cada punta para formar a continuacion un bucle de la manera siguiente : 
+_ hacer pasar el tubo de la hilera inferior por encima del tubo de la hilera superior con ayuda del vastago rigido ( véase figura 4 ). 
+Se repetira dicho trabajo en cada una de las puntas respetando el orden 1 - 2 - 3 - 4, hasta el maximo de los 5 metros o de la longitud deseada . 
+Dejar aproximadamente 10 cm de tubo para cerrar la cadenilla . Pasar el tubo por cada uno de los 4 bucles y tirar ligeramente : asi la cadenilla queda cerrada . 
+NB : Existen Tricotins en el mercado confeccionados para las reaciones post-columna ( Supelco ) 
+Esquemas de la bobina 
+1.2.3Figura 1 Figura 2 
+Figura 3 1a vuelta Figura 4 2a vuelta Para formar el bucle coger el tubo inferior ( trazo continuo ) y pasarlo por el segundo tubo ( trazo en punteado ) Figura 5 
+Apéndice 2 
+1.21 
+= bomba HPLC 
+2 
+= valvula de inyeccion 
+3 
+= columna con precolumna 
+4 
+= bomba reactiva 
+5 
+= pieza en forma de T sin volumen muerto 
+5' 
+= pieza en forma de T ( Vortex ) 
+6-6' 
+= raccord Union sin volumen muerto 
+7 
+= serpentin 
+7' 
+= reactor 
+8 
+= globo de tres tubuladuras con agua hirviendo 
+9 
+= calientaglobo 
+10 
+= refrigerador 
+11 
+= tubo inoxidable intercambiador térmico 
+11' 
+= intercambiador térmico 
+12 
+= detector UV/visible 
+13 
+= modulo postcolumna PCRS 520 
+5.3.5 . 
+5.3.6 . 
+Fase movil Reactivo %quot%***** 
+DIRECTIVA DE LA COMISIÓN 
+de 4 de abril de 1990 
+por la que se modifica la segunda Directiva 82/434/CEE sobre la aproximación de las legislaciones de los Estados miembros relativas a los métodos de análisis necesarios para el control de la composición de los productos cosméticos 
+(90/207/CEE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Económica Europea, 
+Considerando que la segunda Directiva 82/434/CEE, de 14 de mayo de 1982, sobre la aproximación de las legislaciones de los Estados miembros relativas a los métodos de análisis necesarios para el control de la composición de los productos cosméticos (1), establece un método común de análisis para la identificación y la determinación del formaldehído libre; 
+Considerando que, dados los últimos avances científicos y técnicos, es necesario modificar dicho método de análisis; 
+Considerando que las medidas previstas en la presente Directiva se ajustan al dictamen del Comité para la adaptación al progreso técnico de las directivas ralativas a la eliminación de los obstáculos técnicos a los intercambios en el sector de los productos cosméticos, 
+HA ADOPTADO LA PRESENTE DIRECTIVA: 
+Artículo 1 
+Se sustituye el Capítulo IV del Anexo de la Directiva 82/434/CEE por el Anexo de la presente Directiva. 
+Artículo 2 
+Los Estados miembros aplicarán, a más tardar el 31 de diciembre de 1990 las disposiciones legales, reglamentarias o administrativas necesarias para cumplir la presente Directiva e informarán de ello inmediatamente a la Comisión. 
+Las disposiciones adoptadas en virtud del párrafo primero se referirán explícitamente a la presente Directiva. 
+Artículo 3 
+Los destinatarios de la presente Directiva serán los Estados miembros. 
+Hecho en Bruselas, el 4 de abril de 1990. 
+Por la Comisión 
+Karel VAN MIERT 
+Miembro de la Comisión 
+(1) DO no L 185 de 30. 6. 1982, p. 1. 
+ANEXO 
+« IV. IDENTIFICACIÓN Y DETERMINACIÓN DEL FORMALDEHÍDO LIBRE 
+1.2 // 1. // OBJETO Y CAMPO DE APLICACIÓN // // El método describe una identificación y dos determinaciones según la presencia o no de donadores de formaldehído. Se aplica a todos los productos cosméticos. // 1.1. // Identificación // 1.2. // Determinación global por colorimetría con acetilacetona: // // Se aplica este método cuando el formaldehído se utiliza solo o con otros conservantes no donadores de formaldehído. // // En caso contrario, y si el resultado sobrepasa la concentración máxima autorizada en el producto acabado, se utiliza el método de confirmación siguiente. // 1.3. // Determinación en presencia de donadores de formaldehído: // // En el método precedente en el proceso de formación del derivado los donadores (donantes) de formaldehído se separan y conducen a resultados demasiado elevados (formaldehído libre y combinado). // // Es necesario separar el formaldehído libre por medio de una cromatografía líquida. // 2. // DEFINICIÓN // // El contenido en formaldehído libre de la muestra, determinado con arreglo a este método, se expresa en porcentaje de la masa de formaldehído. // 3. // IDENTIFICACIÓN // 3.1. // Principio // // En medio sulfúrico, el formaldehído libre y combinado da una coloración rosa o malva en presencia del reactivo de Schiff. // 3.2. // Reactivos // // Todos los reactivos deben ser de calidad analítica y el agua ha de ser desmineralizada. // 3.2.1. // Fucsina // 3.2.2. // Sulfito de sodio hidratado 7H2O // 3.2.3. // Ácido clorhídrico concentrado (d=1,19) // 3.2.4. // Ácido sulfúrico aproximadamente 1 M // 3.2.5. // Reactivo de Schiff // // En un vaso, pesar 100 mg de fucsina (3.2.1). Disolverlos en 75 ml de agua a 80 °C. Después de enfriar, añadir 2,5 g de sulfito de sodio (3.2.2) y 1,5 ml de ácido clorhídrico (3.2.3). Completar hasta 100 ml. // // Tiempo de conservación: 2 semanas. // 3.3. // Procedimiento // 3.3.1. // En un vaso de 10 ml, introducir aproximadamente 2 g de muestra. // 3.3.2. // Añadir dos gotas de H2SO4 (3.2.4) y 2 ml de reactivo Schiff (3.2.5). Este reactivo debe estar rigurosamente incoloro en el momento de su empleo. // // Agitar, dejar en contacto durante 5 minutos. // 3.3.3. // Si en un plazo de 5 minutos se observa una coloración rosa o malva, la cantidad de formaldehído presente es superior al 0,01 %. Proceder entonces a la determinación libre y combinada siguiendo el procedimiento del punto 4 y, si es necesario, el del punto 5. // 4. // DETERMINACIÓN COLORIMÉTRICA CON ACETILACETONA // 4.1. // Principio // // El formaldehído reacciona con la acetilacetona en presencia de acetato de amonio para formar la 3-5-diacetil-1-4-dihidrolutidina. Ésta se extrae con el butanol-1. La absorbancia del extracto se mide a 410 nm. // 4.2. // Reactivos // // Todos los reactivos deben ser de calidad analítica y el agua ha de ser desmineralizada. // 4.2.1. // Acetato de amonio anhidro // 4.2.2. // Ácido acético concentrado d20 4 = 1,05 // 4.2.3. // Acetilacetona recién destilada a presión reducida 25 mm Hg 25°, no debiendo presentar ninguna absorción a 410 nm. // 4.2.4. // Butanol-1 // 4.2.5. // Ácido clorhídrico 1 M // 4.2.6. // Ácido clorhídrico aproximadamente 0,1 M // 4.2.7. // Hidróxido de sodio 1 M // 4.2.8. // Engrudo de almidón recién preparado, según la Farmacopea Europea, segunda edición 1980, parte I-VII-1-1 (1 g/50 ml de agua) // 4.2.9. // Formaldehído al 37-40 % // 4.2.10. // Solución valorada de iodo 0,05 M // 4.2.11. // Solución valorada de tiosulfato de sodio 0,1 M // 4.2.12. // Reactivo de acetilacetona // // En un matraz aforado de 1 000 ml, disolver: // // - 150 g de acetato de amonio (4.2.1), // // - 2 ml de acetilacetona (4.2.3), // // - 3 ml de ácido acético (4.2.2). // // Completar hasta 1 000 ml con agua (pH de la solución aproximadamente 6,4). // // Este reactivo debe estar recién preparado. // 4.2.13. // Reactivo (4.2.12) sin acetilacetona // 4.2.14. // Formaldehído-patrón: disolución madre // // En un matraz aforado de 1000 ml, introducir 5 g de formaldehído (4.2.9) y completar hasta 1000 ml. // // Determinación de la concentración de la disolución madre. // // Partir 10,00 ml, añadir 25,00 ml de disolución valorada iodo (4.2.10) y 10 ml de solución de hidróxido de sodio 1 M (4.2.7). // // Dejar reposar durante 5 minutos. // // Acidificar con 11 ml HCL 1M (4.2.5) y determinar el iodo en exceso con una solución titulada de tiosulfato de sodio (4.2.11) en presencia de engrudo de almidón como indicador. // // 1 ml de solución de iodo 0,1N(4.2.10) consumido corresponde a 1,5 mg de formaldehído. // 4.2.15. // Formaldehído patrón: solución diluida // // Realizar sucesivamente una dilución a 1/20 y después una dilución a una centésima parte de la solución madre en agua desmineralizada. // // 1 ml de esta solución contiene aproximadamente 1 mg de formaldehído. // // Calcular su contenido exacto. // 4.3. // Aparatos // 4.3.1. // Material habitual de laboratorio // 4.3.2. // Filtro « separador de fases » ref. Whatman 1 PS (o equivalente) // 4.3.3. // Centrífuga // 4.3.4. // Baño de María regulado a 60 °C // 4.3.5. // Espectrofotómetro // 4.3.6. // Cubetas de vidrio de 1 cm de recorrido óptico // 4.4. // Procedimiento // 4.4.1. // Solución de muestra // // En un matraz aforado de 100 ml, pesar con una precisión de 0,001 g aproximadamente una masa de muestra para ensayo (g) correspondiente a una cantidad supuesta de formaldehído de unos 150 m g. // // Completar hasta 100 ml con agua y mezclar // // [Comprobar que el pH es cercano a 6; en caso contrario, efectuar la dilución en la solución de ácido clorhídrico (4.2.6)] // // En un matraz cónico de 50 ml, añadir: // // - 10,00 ml de solución S, // // - 5,00 ml de reactivo de acetilacetona (4.2.12) y agua desmineralizada para obtener un volumen de 30 ml. // 4.4.2. // Disolución testigo // // La posible interferencia de una coloración de fondo en la muestra para ensayo se elimina de la manera siguiente: // // En un matraz cónico de 50 ml, añadir: // // - 10,0 ml de disolución S, // // - 5,0 ml del reactivo (4.2.13) y agua desmineralizada para obtener un volumen de 30 ml. // 4.4.3. // Ensayo en blanco // // En un matraz cónico de 50 ml, añadir: // // - 5,0 ml de reactivo de acetilacetona (4.2.12) y agua desmineralizada para obtener un volumen de 30 ml. // 4.4.4. // Determinación // 4.4.4.1. // Agitar las mezclas preparadas en 4.4.1, 4.4.2 y 4.4.3 sumergir los matraces cónicos en un baño de María a 60 °C durante 10 minutos exactamente. Enfriar durante dos minutos en un baño de agua helada. // 4.4.4.2. // Trasvasar a una ampolla de decantación de 50 ml que contenga exactamente 10 ml de butanol-1 (4.2.4). Enjuagar con 3 a 5 ml de agua. // // Agitar enérgicamente la mezcla durante treinta segundos exactamente. // // Dejar decantar. // 4.4.4.3. // Filtrar la fase butanólica en filtro « separador de fases » (4.3.2) en las cubetas de medida. Se puede realizar también una centrifugación (3000 r.p.m. durante cinco minutos). // 4.4.4.4. // Medir la absorbancia A1 a 410 nm del extracto de la solución de muestra obtenida en el punto (4.4.1). Frente el extracto de la solución testigo del punto (4.4.2). // 4.4.4.5. // De la misma manera, medir la absorbancia A2 del extracto del ensayo en blanco obtenido en el punto (4.4.3) Frente butanol-1. // // NB: Todas estas operaciones deben ejecutarse en un plazo de veinticinco minutos a partir del momento en que el matraz cónico se coloca en el baño de María a 60 °C. // 4.4.5. // Curva patrón // 4.4.5.1. // En un matraz cónico de 50 ml introducir: // // - 5,00 ml de solución patrón diluida (4.2.15) // // - 5,00 ml de reactivo de acetilacetona (4.2.12) y agua desmineralizada para obtener un volumen final de 30 ml. // 4.4.5.2. // Continuar según las indicaciones del punto (4.4.4) y medir la absorbancia con relación al butanol-1 (4.2.4). // 4.4.5.3. // Repetir el proceso con 10, 15, 20 y 25 ml de solución patrón diluida (4.2.15). // 4.4.5.4. // Para obtener el valor del punto 0 (que corresponde a la coloración de los reactivos) proceder como en el punto 4.4.4.5. // 4.4.5.5. // Construir la curva patrón después de restar el valor del punto 0 de cada una de las absorbencias obtenidas en los puntos 4.4.5.1 y 4.4.5.3. La ley de Beer se respecta hasta 30 mg de formaldehído. // 4.5. // Cálculos // 4.5.1. // Restar A2 de A1 y leer en la curva patrón (4.4.5.5) la cantidad C expresada en microgramos de formaldehído contenida en la solución del punto 4.4.1. // 4.5.2. // El contenido de formaldehído de la muestra (% m/m) se calcula mediante la fórmula: 1.2.3 // // % de formaldehído % = // C 103 ; m 1.2 // // donde: // // m = masa en g de la toma de ensavo. 
+1.2 // 4.6. // Repetibilidad (1) // // Para un contenido en formaldehído del 0,2 %, la diferencia entre los resultados de dos determinaciones paralelas efectuadas sobre la misma muestra no debe superar el 0,005 % para la determinación colorimétrica con acetilacetona. // // Si la determinación del formaldehído libre conduce a resultados superiores a los previstos en la Directiva 76/768/CEE, a saber: // // a) comprendidos entre el 0,05 % y el 0,2 % del producto no etiquetado, // // b) superiores al 0,2 % del producto etiquetado o no; es obligatorio proceder con arreglo al método descrito en el punto 5. // 5. // DETERMINACIÓN EN PRESENCIA DE DONADORES DE FORMALDEHÍDO // 5.1. // Principio // // El formaldehído libre se separa por cromatografía líquida de alto rendimiento. // // Para evitar la separación de los donadores de formaldehído en el momento de la derivatización, previamente se procede a una cromatografía líquida, el fomaldehído separado se transforma en derivado lutidínico amarillo por reacción en línea con la acetilacetona en un reactor postcolumna y el derivado formado se detecta por absorbencia a 420 nm. // 5.2. // Reactivos // // Todos los reactivos deben ser de calidad analítica y el agua ha de ser desmineralizada. // 5.2.1. // Agua Baker o de calidad equivalente // 5.2.2. // Acetato de amonio anhidro // 5.2.3. // Ácido acético concentrado // 5.2.4. // Acetilacetona (conservada a 4 °C) // 5.2.5. // Fosfato disódico anhidro // 5.2.6. // Ácido ortofosfórico al 85 % (d = 1,7) // 5.2.7. // Metanol de calidad espectro // 5.2.8. // Diclorometano de calidad espectro // 5.2.9. // Formaldehído al 37 - 40 % // 5.2.10. // Hidróxido de sodio 1 M // 5.2.11. // Ácido clorhídrico 1 M // 5.2.12. // Ácido clorhídrico 0,002 M // 5.2.13. // Engrudo de almidón recientemente preparado conforme con la Farmacopea Europea // 5.2.14. // Solución titulada de iodo 0,1 M // 5.2.15. // Solución titulada de tiosulfato de sodio 0,1 M // 5.2.16. // Fase móvil // // Solución acuosa de fosfato disódico (5.2.5) 0,006 M ajustada a un pH 2,1 con ácido ortofosfórico (5.2.6) . // 5.2.17. // Reactivo postcolumna // // Disolver en un matraz aforado de 1 000 ml: // // - 62,5 g de acetato de amonio (5.2.2), // // - 7,5 ml de ácido acético (5.2.3), // // - 5 ml de acetilacetona (5.2.4). // // Completar hasta 1 000 ml con agua (5.2.1). // // Mantener este reactivo al abrigo de la luz. // // Conservación: tres días a 25 °C. // // No debe observarse evolución en el color. // 5.2.18. // Formaldehído patrón: solución madre // // En un matraz aforado de 1 000 ml, introducir 10 g de formaldehído (5.2.9.) y completar hasta 1 000 ml con agua. // // Determinación del título de la solución madre: // // Extraer 5,00 ml, añadir 25 ml de la solución titulada de iodo (5.2.14) y 10 ml de solución de hidróxido de sodio (5.2.10). // // Dejar reposar durante cinco minutos. // // Acidificar con 11 ml de HCL (5.2.11) y determinar el iodo en exceso con una solución titulada de tiosulfato de sodio (5.2.15) en presencia de engrudo de almidón como indicador. // // 1 ml de solución de iodo consumida (5.2.14) corresponde a 1,5 mg de 
+(1) Según la norma ISO 5725. 
+// 5.2.19. // Formaldehído patrón: solución diluida // // Realizar una dilución al 1/100 de la solución madre en la fase móvil (5.2.16). // // 1 ml de esta solución contiene aproximadamente 37 mg de formaldehído. Calcular su contenido exacto. // 5.3. // Aparatos // 5.3.1. // Material habitual de laboratorio // 5.3.2. // Una bomba HPLC sin pulsaciones // 5.3.3. // Una bomba de baja presión sin pulsaciones para el reactivo (o una segunda bomba HPLC). // 5.3.4. // Una válvula de inyección provista de un bucle de 10 m,l // 5.3.5. // Reactor post-columna incluyendo los elementos siguientes: // // 1 bombona tritubular de 1 litro, // // + 1 calienta bombonas de 1 litro // // + 2 columnas Vigreux con 10 platos mínimo (refrigeración por aire) // // + tubo inoxidable (para intercambio térmico) de 1,6 mm - diámetro interior 0,23 mm L = 400 mm // // + tubo de teflón de 1,6 mm - diámetro interior 0,30 mm - L = 5 m, (Tricotin) (ver apéndice 1) // // + 1 pieza en T sin volumen muerto (Valco o equivalente) // // + 3 racores Union sin volumen muerto // // O: un módulo post-columna de tipo Applied Biosystems PCRS 520 o equivalente provisto de un reactor de 1 ml // 5.3.6. // Filtro acrodisco RCR 0,45 m // 5.3.7. // Cartucho SEPPAK RC18 // 5.3.8. // Columnas listas para el empleo: // // - Bischoff hypersil RP 18 (tipo NC ref. C 25.46 1805) (5 m - L = 250 mm - 0 int. = 4,6 mm) // // - o Dupont, Zorbax ODS (5 m - L = 250 mm - 0 int. = 4,6 mm) // // - o Phase SEP, esferisorbe ODS 2 (5m - L = 250 mm - 0 int. = 4,0 mm) // 5.3.9. // Precolumna // // - Bischoff K1 hypersil RP 18 (ref. KL G 6301 1805) 5m - L = 10 mm, o equivalente // 5.3.10. // La columna y la precolumna se conectarán por medio de un sistema Ecotube (ref. A 15020508 Bischoff) o equivalente. // 5.3.11. // Realizar el montaje (5.3.5) según el esquema del apéndice 2. // // Las conexiones después de la válvula de inyección deben ser lo más cortas posible. // // En el caso de utilizar (5.3.6), el tubo inoxidable colocado entre la salida del reactor y la entrada del detector tiene por finalidad enfriar la mezcla antes de la detección y la temperatura en el detector no es conocida pero es constante. // 5.3.12. // Detector, U.V. visible // 5.3.13. // Registradora // 5.3.14. // Centrífuga // 5.3.15. // Baño de ultrasonidos // 5.3.16. // Agitador vibratorio (tipo Vortex o equivalente) // 5.4. // Procedimiento // 5.4.1. // Curva patrón // // Las soluciones estándar se preparan por dilución de la solución diluida de formaldehído patrón (5.2.19) con la fase móvil (5.2.16). // // - 1 ml de solución patrón (5.2.19) diluida a 20,00 ml aproximadamente 185 mg/100 ml // // - 2 ml de solución patrón (5.2.19) diluida a 20,00 ml aproximadamente 370 mg/100 ml // // - 5 ml de solución patrón (5.2.19) diluida a 25,00 ml aproximadamente 740 mg/100 ml // // - 5 ml de solución patrón (5.2.19) diluida a 20,00 ml aproximadamente 925 mg/100 ml // // Las soluciones estándar se almacenan durante una hora a la temperatura del laboratorio y deben estar recién preparadas. // // La linearidad de la curva patrón es buena para concentraciones de 100 a 1 500 mg/ml // 5.4.2. // Preparación de las muestras // 5.4.2.1. // Caso de las emulsiones (cremas - maquillajes de base - delineadores de ojos) // // Pesar en un frasco con tapón, con una precisión de 0,001 g, una masa (m) de muestra para ensayo (en g) correspondiente a una cantidad supuesta de formaldehído de unos 100 mg. // // Añadir 20,00 ml de diclorometano (5.2.8) y 20,00 ml de ácido clorhídrico (5.2.12) medidos exactamente. // // Mezclar por medio del agitador vibratorio (5.3.16) y de los ultrasonidos (5.3.15). // // Separar las dos fases por centrifugación (3 000 r.p.m. durante 2 minutos). // // Por otra parte, lavar un cartucho (5.3.7) con 2 ml de metanol (5.2.7) y después acondicionar con 5 ml de agua (5.2.1). // // Hacer pasar 4 ml de la fase acuosa del extracto a través del cartucho (5.3.8), eliminar los primeros 2 ml y recuperar la fracción siguiente. // 5.4.2.2. // Caso de las lociones y champúes // // Pesar con una precisión de 0,001 g una masa (m) de muestra para ensayo (en g) correspondiente a una cantidad supuesta de formaldehído de unos 500 mg. // // Completar hasta 100 ml con la fase móvil (5.2.16). // // La solución se filtra a través de un filtro (5.3.6) y se inyecta o se pasa a través de un cartucho (5.3.7) acondicionado como en el caso anterior (5.4.2.1) // // Todas las soluciones deben ser inyectadas extemporáneamente. // 5.4.3. // Condiciones cromatográficas // // - caudal de la fase móvil: 1 ml/min // // - caudal del reactivo: 0,5 ml/min // // - caudal total a la salida del detector: 1,5 ml/min // // - volumen inyectado: 10 ml // // - temperatura de elución: en las separaciones difíciles, la columna se sumerge en un baño de hielo fundente y se espera el equilibrio de las temperaturas. // // - temperatura reacción post-columna: 100 °C // // - detección: 420 nm // // - atenuación: 0,32 escala plena // // - registrador: 10 mv escala plena desarrollo 10 mm/min. // // NB: El conjunto del sistema cromatográfico y post-columna debe enjuagarse con agua después de utilizado (5.2.1). En el caso de una parada superior a dos días, a este enjuagado le sigue un enjuagado con metanol (5.2.7). // // Antes de reacondicionar el sistema, efectuar una pasada de agua para evitar las recristalizaciones. // 5.5. // Cálculo // // Caso de las emulsiones // // Contenido en % de formaldehído (m/m): 1.2.3.4 // // C ; 10-6 ; 100 5 m // = // C ; 10-4 5 ; m 1.2 // // Psaso de las lopsiones y psiamps // // La frmthla pasa a ser: 1.2.3.4 // // PS ; 10-6 ; 100 m // = // C ; 10-4 m 1.2 // // donde // // m = la masa en g de la mthestra sometida a anlisis // // PS = la psonpsentrapsin de formaldeido en mg/100ml leída en la curva maestra (5.4.1.) // 5.6. // Repetibilidad (1) // // Para un contenido de formaldehído del 0,05 % la diferencia entre los resultados de 2 determinaciones paralelas efectuadas en la misma muestra no debe superar el 0,001 %. // // Para un contenido de formaldehído del 0,2 %, la diferencia entre los resultados de 2 determinaciones paralelas efectuadas en la misma muestra no debe superar el 0,005 %. formaldehído. 
+(1) Según la norma ISO 5725. 
+Apéndice 1 
+CONFECCIÓN DE UN SERPENTÍN 
+ACCESORIOS UTILIZADOS PARA LA REALIZACIÓN DEL « SERPENTÍN » 
+- 1 bobina de madera: 
+de un diámetro exterior de 5 cm, en medio de la cual se practicará un agujero de 1,5 cm. Se plantarán cuatro puntas de acero equidistantes (ver esquema de la bobina en la figura 1 y figura 2). La separación entre dos puntas será de 1,8 cm; las puntas se plantarán a 0,5 cm del agujero. 
+- 1 vástago rígido (del tipo gancho) para realizar los bucles a partir del tubo de Teflon 
+- tubo de Teflon de 1,6 mm - OE int. 0,3 mm - Longitud: 5 metros 
+REALIZACIÓN DEL « SERPENTÍN » 
+Para poner en marcha el serpentín, es preciso enhebrar el tubo de Teflon de arriba a abajo por el agujero central de la bobina (dejando que el tubo sobresalga aproximadamente unos 10 cm por debajo de la cara inferior, lo que permitirá tirar ligeramente de la cadenilla durante la confección) y después enrollar el tubo alrededor de cada una de las cuatro puntas para completar la primera vuelta (véase figura 3). 
+La entrada y la salida del serpentín estarán guarnecidas con abrazaderas y tornillos de compresión, por lo que es preciso proceder con atención para no aplastar el Teflon al realizar el engarce. 
+A partir de la segunda hilera, hacer pasar el tubo por el exterior de cada punta para formar a continuación un bucle de la manera siguiente: 
+- hacer pasar el tubo de la hilera inferior por encima del tubo de la hilera superior con ayuda del vástago rígido (véase figura 4). 
+Se repetirá dicho trabajo en cada una de las puntas respetando el orden 1 - 2 - 3 - 4, hasta el máximo de los 5 metros o de la longitud deseada. 
+Dejar aproximadamente 10 cm de tubo para cerrar la cadenilla. Pasar el tubo por cada uno de los 4 bucles y tirar ligeramente: así la cadenilla queda cerrada. 
+NB: Existen Tricotins en el mercado confeccionados para las reaciones post-columna (Supelco) Esquemas de la bobina 
+1.2.3 // Figura 1 Figura 2 // // Figura 3 1a vuelta Figura 4 2a vuelta Para formar el bucle coger el tubo inferior (trazo continuo) y pasarlo por el segundo tubo (trazo en punteado) Figura 5 
+Apéndice 2 
+1.2 // 1 // = bomba HPLC // 2 // = válvula de inyección // 3 // = columna con precolumna // 4 // = bomba reactiva // 5 // = pieza en forma de T sin volumen muerto // 5' // = pieza en forma de T (Vortex) // 6-6' // = raccord Union sin volumen muerto // 7 // = serpentín // 7' // = reactor // 8 // = globo de tres tubuladuras con agua hirviendo // 9 // = calientaglobo // 10 // = refrigerador // 11 // = tubo inoxidable intercambiador térmico // 11' // = intercambiador térmico // 12 // = detector UV/visible // 13 // = módulo postcolumna PCRS 520 
+5.3.5. 
+5.3.6. 
+Fase móvil Reactivo » 

@@ -1,0 +1,120 @@
+Reglamento (CE) n%deg% 1227/1999 de la Comisi%oacute%n, de 28 de mayo de 1999, relativo al formato t%eacute%cnico de la transmisi%oacute%n de las estad%iacute%sticas de servicios de seguros (Texto pertinente a los fines del EEE) 
+REGLAMENTO (CE) N° 1227/1999 DE LA COMISIÓN 
+de 28 de mayo de 1999 
+relativo al formato técnico de la transmisión de las estadísticas de servicios de seguros 
+(Texto pertinente a efectos del EEE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE, Euratom) n° 58/97 del Consejo, de 20 de diciembre de 1996, relativo a las estadísticas estructurales de las empresas(1), cuya última modificación la constituye el Reglamento (CE, Euratom) n° 410/98(2), y, en particular, el inciso viii) de su artículo 12, 
+(1) Considerando que el Reglamento (CE, Euratom) n° 58/97 ha establecido un marco común para la elaboración de estadísticas comunitarias sobre la estructura, actividad, competitividad y rendimiento del sector de los seguros de la Comunidad; 
+(2) Considerando que es necesario especificar el formato técnico de la transmisión de las estadísticas de servicios de seguros; 
+(3) Considerando que las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité del programa estadístico, 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+El formato técnico a que se hace referencia en el artículo 9 del Reglamento (CE, Euratom) n° 58/97 se define en el anexo del presente Reglamento. 
+Artículo 2 
+Los Estados miembros aplicarán dicho formato para los datos relativos al año de referencia 1996 y los años subsiguientes. 
+Artículo 3 
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de las Comunidades Europeas. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 28 de mayo de 1999. 
+Por la Comisión 
+Yves-Thibault de SILGUY 
+Miembro de la Comisión 
+(1) DO L 14 de 17.1.1997, p. 1. 
+(2) DO L 52 de 21.1.1998, p. 1. 
+ANEXO 
+FORMATO TÉCNICO 
+1. Forma de los datos 
+Los datos se enviarán en un conjunto de registros, compuestos, en gran parte, por la descripción de las características de los datos (país, año, actividad económica, etc.). Los propios datos serán números vinculables a comentarios y notas explicativas en que se describirán, por ejemplo, las agregaciones de los códigos de la NACE. Los datos confidenciales se enviarán registrando el valor real en el campo correspondiente al valor y un comentario que indique la naturaleza del dato confidencial añadido al registro. 
+Para precisar la naturaleza de los datos, deberán distinguirse los siguientes casos especiales: 
+- datos iguales a cero (código %quot%0%quot%): valores reales de cero solamente, 
+- datos confidenciales (código %quot%x%quot%): datos que los Estados miembros no transmiten a Eurostat por ser confidenciales, 
+- datos pendientes (código %quot%m%quot%): datos de los que aún no se dispone, pero que el Estado miembro tiene previsto presentar cuando los obtenga, 
+- datos no disponibles: datos que no se recogen en un Estado miembro. En este caso, no se envía el registro correspondiente. 
+Por defecto, cuando no se recoja una categoría completa (variable, código NUTS, código NACE, etc.), los registros correspondientes no existirán, salvo en el caso de los que estén pendientes por formar parte de una reagrupación de códigos NACE. Por este motivo, es importante distinguir entre los datos pendientes, proporcionando un registro (uno por cada elemento pendiente) en que como valor del dato figure el código %quot%m%quot%, y los datos realmente iguales a cero, proporcionando los registros correspondientes en que el valor de los datos se registrará como 0. 
+2. Estructura de los registros 
+%gt%SITIO PARA UN CUADRO%gt% 
+Este formato puede convertirse a un formato fijo utilizando la longitud máxima de cada campo y alineando a la derecha los contenidos de cada campo precedidos por espacios en blanco. 
+3. Descripción de los campos 
+3.1. Serie 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.2. Año 
+3.3. Unidad territorial 
+Este código corresponde al país en las series nacionales. 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.4. Actividad económica 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.5. Medida 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.6. Unidad 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.7. Variable 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.8. Tipo de empresa u operación de seguro 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.9. Tamaños / Residencia de la empresa matriz 
+%gt%SITIO PARA UN CUADRO%gt% 
+%gt%SITIO PARA UN CUADRO%gt% 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.10. Clasificación de productos 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.11. Personalidad jurídica / Clasificación geográfica 
+%gt%SITIO PARA UN CUADRO%gt% 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.12. Valor 
+Los datos monetarios se expresan en millones de la moneda nacional, salvo en el caso siguiente: 
+- Italia: los datos se dan en miles de millones de la moneda nacional. 
+Para precisar la naturaleza de los datos, deben distinguirse los siguientes casos: 
+- datos iguales a cero (código %quot%0%quot%): valores reales de cero solamente, 
+- datos confidenciales (código %quot%x%quot%): datos que los Estados miembros no transmiten a Eurostat por ser confidenciales; deberá incluirse también un comentario para indicar que el dato no figura por ser confidencial (véase el punto 3.14), 
+- datos pendientes (código %quot%m%quot%): datos de los que aún no se dispone, pero que el Estado miembro tiene previsto presentar cuando los obtenga, 
+- datos no disponibles: datos que no se recogen en un Estado miembro. En este caso, no se envía el registro correspondiente. 
+Por defecto, cuando no se recoja una categoría completa (variable, código NUTS, código NACE, etc.), los registros correspondientes no existirán, salvo en el caso de los que estén pendientes por formar parte de una reagrupación de códigos NACE. Por este motivo, es importante distinguir los datos pendientes, proporcionando un registro (uno por cada elemento pendiente) en que como valor del dato figure el código %quot%m%quot%. 
+3.13. Comentario de calidad 
+%gt%SITIO PARA UN CUADRO%gt% 
+Los %quot%datos revisados%quot% corresponden a datos que se envían por segunda (o enésima) vez y son correcciones de datos ya enviados. 
+Los %quot%datos actualizados%quot% se refieren a datos de los que no se disponía anteriormente y figuraban como pendientes en el campo %quot%valor%quot% (véase el punto 3.12) pero de los que ya se dispone. 
+El comentario que señala que son %quot%datos provisionales%quot% se usará para indicar que es probable que los datos que se transmiten se corrijan posteriormente. 
+3.14. Confidencialidad 
+Se pide a los Estados miembros que indiquen claramente los datos confidenciales, por medio de los comentarios enumerados a continuación. 
+Los países que no puedan enviar datos confidenciales consignarán el valor %quot%x%quot% (véase el punto 3.12) y señalarán por medio de un comentario que el dato no figura por ser confidencial. 
+%gt%SITIO PARA UN CUADRO%gt% 
+3.15. Control 
+Valor número inferior o igual a 100. Indica el porcentaje de control de una o dos empresas que dominan el dato y lop hacen confidencial. El valor se redondea al número entero más cercano: por ejemplo, 90,3 se convierte en 90 y 94,50 se convierte en 95. Este campo se deja en blanco para los datos no confidenciales. Este campo sólo se utiliza cuando se usan los comentarios B o C en el campo anterior. 
+3.16. Lista 
+Las variables -características- figuran en el Reglamento (CE) no 410/98 en dos listas diferentes: A y B. El primer año de referencia para elque deben recogerse difiere. Tres variables son optativas. 
+%gt%SITIO PARA UN CUADRO%gt% 
+4. Ejemplos de registros 
+Ejemplo 1 
+%gt%SITIO PARA UN CUADRO%gt% 
+Bélgica declara en la serie 5A -estadísticas anuales de las empresas- para el año de referencia 1996, NACE Rev. 1 clase 6603: 95 empresas de seguros no de vida. Los datos no son confidenciales y corresponden a la lista A. 
+5A; 1996; BE; 6603; NBR; UNIT; 11110; 2;;;; 95;;;; A 
+Ejemplo 2 
+%gt%SITIO PARA UN CUADRO%gt% 
+Dinamarca declara en la serie 5B -estadísticas anuales de las empresas clasificadas por tipo de personalidad jurídica- para el año de referencia 1996, NACE Rev. 1 clase 66.01: 49 empresas de seguros de vida que son sociedades anónimas. Los datos no son confidenciales y corresponden a la lista A. 
+5B; 1996; DK; 6601; NBR; UNIT; 11111; 1;;; LS01; 49;;;; A 
+Ejemplo 3 
+%gt%SITIO PARA UN CUADRO%gt% 
+Portugal declara en la serie 5C -estadísticas anuales de las empresas según la residencia de la empresa matriz- para el año de referencia 1996, NACE Rev. 1 clase 66.01: 47 empresas de seguros de vida cuya empresa matriz está situada en otro país. Los datos no son confidenciales y corresponden a la lista A. 
+5C; 1996; PT; 6601; NBR; UNIT; 11115; 1; RE02;;; 47;;;; A 
+Ejemplo 4 
+%gt%SITIO PARA UN CUADRO%gt% 
+Finlandia declara en la serie 5D -estadísticas anuales de las empresas clasificadas por tamaño- para el año de referencia 1996, NACE Rev. 1 clase 6603: 7 empresas de seguros no vida con un volumen de negocio entre 251 y 500 millones de ecus. Los datos no son confidenciales y corresponden a la lista A. 
+5D; 1996; FI; 6603; NBR; UNIT; 11112; 2; SC14;;; 7;;;; A 
+Ejemplo 5 
+%gt%SITIO PARA UN CUADRO%gt% 
+España declara en la serie 5E -estadísticas anuales de las empresas clasificadas por producto- para el año de referencia 1996, NACE Rev. 1 clase 66011: 1410692 millones de pesetas de primas directas brutas devengadas en servicios de seguros de vida no ligados a un fondo de inversión por empresas de seguros de vida. Los datos no son confidenciales y corresponden a la lista A. 
+5E; 1996; ES; 6601; NC; MIO; 33111; 1;; 66011;; 1410692;;;; A 
+Ejemplo 6 
+%gt%SITIO PARA UN CUADRO%gt% 
+Suiza declara en la serie 5F -estadísticas anuales de las empresas clasificadas por localización geográfica- para el año de referencia 1996, NACE Rev. 1 clase 6601: 302 millones de francos suizos de primas directas brutas devengadas a través de sucursales en los Países Bajos por empresas de seguros de vida en el producto servicios de planes de pensiones. Los datos no son confidenciales y corresponden a la lista A. 
+5F; 1996; CH; 6601; NC; MIO; 34311; 1;; 66032; NLD; 302;;;; A 
+%gt%SITIO PARA UN CUADRO%gt% 
+España declara en la serie 5F -estadísticas anuales de las empresas clasificadas por localización geográfica- para el año de referencia 2000, NACE Rev. 66.04 clase 6601: datos pendientes en millones de pesetas sobre primas de reaseguro aceptado, devengadas por empresas de reaseguro especializadas, en otros Estados miembros. Los datos no son confidenciales y corresponden a la lista B. 
+5F; 2000; ES; 6604; NC; MIO; 34120; 4;;; OMS; M;;;; B 
+5. Tipo de soporte magnético 
+Para facilitar su lectura, los datos deberán presentarse en disquetes de 3,5 pulgadas. 
+6. Otros métodos 
+Se anima a los Estados miembros a que envíen las series de datos a través de Gesmes. 
+Previa solicitud por escrito, Eurostat podrá proporcionar a los Estados miembros cuestionarios electrónicos en Microsoft Excel. La solicitud deberá hacerse con suficiente antelación sobre la fecha prevista de entrega. 

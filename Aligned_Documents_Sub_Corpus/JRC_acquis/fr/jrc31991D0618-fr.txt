@@ -1,0 +1,143 @@
+91/618/CEE: Décision de la Commission du 18 novembre 1991 modifiant la décision 77/144/CEE établissant le code et les règles relatifs à la transcription sous une forme lisible par machine des données des enquêtes sur les plantations de certaines espèces d'arbres fruitiers et fixant les limites des zones de production pour ces enquêtes 
+DÉCISION DE LA COMMISSION du 18 novembre 1991 modifiant la décision 77/144/CEE établissant le code et les règles relatifs à la transcription sous une forme lisible par machine des données des enquêtes sur les plantations de certaines espèces d'arbres fruitiers et fixant les limites des zones de production pour ces enquêtes (91/618/CEE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES 
+vu le traité instituant la Communauté économique européenne, 
+vu la directive 76/625/CEE du Conseil, du 20 juillet 1976, concernant les enquêtes statistiques à effectuer par les États membres en vue de déterminer le potentiel de production des plantations de certaines espèces d'arbres fruitiers (1), modifiée en dernier lieu par le règlement (CEE) no 1057/91 de la Commission (2), et notamment son article 4 paragraphes 2 et 4, 
+considérant que l'expérience acquise lors de l'exécution de la dernière enquête de base conseille certaines adaptations dans le découpage régional à utiliser pour la communication des données à la Commission et dans la liste commune des variétés à enquêter, et qu'il est par conséquent nécessaire d'adapter les annexes de la décision 77/144/CEE de la Commission (3), modifiée en dernier lieu par la décision 87/228/CEE (4); 
+considérant que les mesures prévues par la présente décision sont conformes à l'avis du comité permanent de la statistique agricole, 
+A ARRÊTÉ LA PRÉSENTE DÉCISION: 
+Article premier 
+Les annexes de la décision 77/144/CEE sont remplacées par les annexes jointes à la présente décision. 
+Article 2 
+Les États membres sont destinataires de la présente décision. 
+Fait à Bruxelles, le 18 novembre 1991. Par la Commission 
+Henning CHRISTOPHERSEN 
+Vice-président 
+(1) JO no L 218 du 11. 8. 1976, p. 10. (2) JO no L 107 du 27. 4. 1991, p. 11. (3) JO no L 47 du 18. 2. 1977, p. 52. (4) JO no L 94 du 8. 4. 1987, p. 32. 
+ANNEXE I 
+Spécification des bandes magnétiques destinées à la transmission à l'Office statistique des Communautés européennes des résultats des enquêtes statistiques sur les plantations de certaines espèces d'arbres fruitiers à effectuer par les États membres 
+(Directive 76/625/CEE) 
+DISPOSITIONS GÉNÉRALES 
+I. L'information enregistrée conformément aux caractéristiques visées à l'article 2 de la directive 76/625/CEE doit être communiquée à l'Office statistique des Communautés européennes sous la forme suivante par les États membres qui exploitent par ordinateur les résultats d'enquête: 
+1) sur bande magnétique à neuf pistes 1600 BPI (630 bytes/cm) avec label standard IBM ou pas de label; 
+2) l'information reproduit des données globales sur les exploitations si l'enquête est exhaustive (ou des données globales extrapolées sur les exploitations si l'enquête est fondée sur un échantillonnage aléatoire), mais ne porte pas sur les exploitations individuelles; 
+3) l'information doit être d'une longueur d'enregistrement fixe et elle sera enregistrée, selon le format Fortran suivant: I2, I2, I2, I3, I1, 6F7.0 (début en position 1); 
+4) les cinq premiers champs de chaque enregistrement doivent contenir des informations pour permettre l'identification (pays, zone de production, espèce, variété et classe de densité). La codification pour ces cinq champs est donnée dans les dispositions spécifiques et dans l'annexe II. Les six champs qui suivent, chacun de sept digits, doivent contenir des informations concernant la superficie en ares dans chacune des six classes d'âge de l'enregistrement. Les classes d'âge sont définies dans les dispositions spécifiques. Les informations sont à enregistrer justifiées à droite dans chaque champ; 
+5) les États membres ont le choix du facteur de blocage; il convient d'informer l'Office statistique des Communautés européennes du facteur de blocage utilisé; 
+6) les États membres spécifient, sur les documents de transmission, le nombre d'espèces et le nombre de variétés pour chaque espèce; 
+7) les enregistrements doivent être classés suivant l'espèce, la variété, la zone ou la circonscription et la densité de plantation. 
+II. Les pages suivantes donnent pour les différents articles d'un enregistrement: 
+a) les codes à utiliser; 
+b) le nombre de digits requis pour l'article considéré; 
+c) le numérotage consécutif des positions pour les différents articles. 
+DISPOSITIONS SPÉCIFIQUES 
+Code Chiffres Numéro byte 
+sur la bande 1. Pays 2 1,2 République fédérale d'Allemagne 01 France 02 Italie 03 Pays-Bas 04 Belgique 05 Luxembourg 06 Royaume-Uni 07 Irlande 08 Danemark 09 Grèce 10 Espagne 11 Portugal 12 2. Zone de production 2 3,4 République fédérale d'Allemagne Norden 01 Mitte 02 Sueden 03 Ost 04 France Sud-ouest 01 Sud-est 02 Loire 03 Reste 04 Italie (Pommiers, poiriers) Val Padana 11 Trentino-Alto Adige 21 Piemonte e Valle d'Aosta 02 Centrale 03 Meridionale 04 (Pêchers et abricotiers) Val Padana e Trentino-Alto Adige 01 Piemonte e Valle d'Aosta 02 Centrale 03 Meridionale 04 (Orangers, citronniers et agrumes à petits fruits) Sicilia 14 Calabria 24 Puglia e Basilicata 34 Altre zone 05 Pays-Bas 00 Belgique/België 00 Luxembourg 00 Royaume-Uni 00 Irlande 00 Danemark 00 Grèce (Pommiers) Péloponnèse 01 Macédoine 02 Thessalie 03 Autre zones 96 (Poiriers) Péloponnèse 01 Macédoine 02 Thessalie 03 Crète 04 Autres zones 97 (Pêchers) Macédoine 02 Thessalie 03 Autres zones 92 (Abricotiers) Péloponnèse 01 Macédoine 02 Autres zones 95 (Orangers) Péloponnèse 01 Crète 04 Épire 05 Autres zones 99 (Citronniers) Péloponnèse 01 Grèce centrale et Eubée 06 Autres zones 94 (Agrumes à petits fruits) Péloponnèse 01 Crète 04 Îles Égée 07 Autres zones 93 Espagne Galicia 01 Principado de Asturias 02 Cantabria 03 País Vasco 04 Navarra 05 La Rioja 06 Aragón 07 Cataluña 08 Baleares 09 Castilla y León 10 Madrid 11 Castilla-La Mancha 12 Comunidad Valenciana 13 Región de Murcia 14 Extremadura 15 Andalucía 16 Canarias 17 Portugal Norte 01 Centro 02 Lisboa e Vale do Tejo 03 Alentejo 04 Algarve 05 Regiao Autónoma dos Açores 06 Regiao Autónoma da Madeira 07 3. Espèces 2 5-6 Pommes: de table 
+autres 01 
+02 Poires: de table 
+autres 03 
+04 Pêches: Chair blanche 
+Chair jaune 
+Couleur non spécifiée 05 
+06 
+07 Abricots 08 Oranges 09 Citrons 10 Agrumes à petits fruits 11 4. Variété 3 7-9 Les codes pour les variétés spécifiques de chaque espèce figurent à l'annexe II 5. Densité de plantation 1 10 (arbres par hectare) Pommiers et poiriers Moins de 400 1 400 à 799 2 800 à 1 599 3 1 600 et plus 4 Total 9 Pêchers et abricotiers Moins de 300 1 300 à 399 2 400 à 599 3 600 à 799 4 800 et plus 5 Total 9 Orangers, citronniers et agrumes à petits fruits Moins de 250 1 250 à 374 2 375 à 499 3 500 à 624 4 625 à 749 5 750 et plus 6 Total 9 6. Âge des arbres (1) Classe d'âge 1 
+2 
+3 
+4 
+5 
+6 7 
+7 
+7 
+7 
+7 
+7 11-17 
+18-24 
+25-31 
+32-38 
+39-45 
+46-52 
+(1) La superficie de chaque classe d'âge est donnée en ares. 
+Les classes d'âge sont définies comme suit. 
+(en années) 
+Pommiers et poiriers Pêchers et abricotiers Orangers, citronniers 
+et agrumes à petits fruits 1 0- 4 0- 4 0- 4 2 5- 9 5- 9 5- 9 3 10-14 10-14 10-14 4 15-24 15-19 15-24 5 25 et plus 20 et plus 25-39 6 (1) - - 40 et plus 
+(1) Dans le cas des pommiers, des poiriers, des pêchers et des abricotiers, l'information relative à la classe 6 est de sept zéros. 
+ANNEXE II 
+Codes pour les variétés spécifiques de chaque espèce, pour la transmission à l'Office statistique des Communautés européennes des résultats des enquêtes statistiques sur les plantations de certaines espèces d'arbres fruitiers à effectuer par les États membres 
+(Directive 76/625/CEE) 
+Variétés Code 1. Pommiers Pommiers produisant des pommes de table Cardinal 001 Discovery 002 Gravenstein/Graasten 003 Tydeman's Early Worcester 004 James Grieve 005 Worcester Pearmain 006 Reine des Reinettes/Goldparmaene 007 Ingrid Marie 008 McIntosh 009 Jonathan 010 Red Delicious, etc. (groupe) et Starking Delicious 011 Golden Delicious et Golden Spur 012 Spartan 013 Reinette du Canada 014 Cox's Orange Pippin 015 Boskoop 016 Morgenduft (Imperatore) et Rome Beauty 017 Rambour d'hiver 018 Granny Smith 019 Reinette du Mans 020 Annurca 021 Stayman 022 Glockenapfel 023 Laxton's Superb 024 Winston 025 Abbondanza 026 Holsteiner Cox 027 Reinette Clochard 028 Horneburger Pfannkuchen 029 Lombartscalville 030 Gloster 031 Crispin/Mutzu 033 Melrose 034 Egremont Russet 035 Lobo 036 Cortland 037 Luxembourg Triumpf 038 Luxembourg Reinette 039 Lord Lambourne 040 George Cave 041 Fyriki 042 Delicious Pilafa 043 Jonagold 044 Katy 045 Idared 046 Elstar 047 Suntan 048 Queen Cox et Cox clones 049 Reinette Parda 050 Starkimson et clones (Coopers) 051 Verde doncella 052 Fiesta 053 Autres variétés (à spécifier par l'État membre), parmis lesquelles les « Autres reinettes » 900-998 Variétés non spécifiées ailleurs 999 Pommiers produisant des pommes destinées exclusivement à d'autres usages que la table (facultatif) Bramley's Seedling 001 Autres variétés (à spécifier par l'État membre) 900-998 Variétés non spécifiées ailleurs 999 2. Poiriers Poiriers produisant des poires de table Gentile Bianca 001 Coscia 002 Butirra Precoce Morettini 003 Spadoncina 004 Jules Guyot/Limonera 005 Santa Maria Morettini 006 Spadona d'Estate 007 William's 008 Clara Frijs 009 Clapp's Favourite 010 Grev Moltke 011 Triomphe de Vienne 012 Alexandrine Douillard 013 Beurré Hardy 014 Durondeau 015 Légipont/Charneu 016 Louise Bonne d'Avranches 017 Abate Fetel 018 Conférence 019 Clairgeau 020 Kaiser Alexander 021 Doyenné du Comice 022 Passe Crassane 023 Alexandra Lucas 024 Decana d'Inverno 025 Packam's Triumph 026 Épine du Mas 027 Madernassa 028 Butirra d'Estate 029 Curé 030 William's rouge 031 Précoce de Trévoux 032 Pierre Corneille 033 Krystalli 034 Blanquilla 035 M. P. Morettini 036 Ercolini 037 Rocha 038 Kontoula 039 Général Leclerc 040 Roma 041 Concorde 042 Autres variétés (à spécifier par l'État membre) 900-998 Variétés non spécifiées ailleurs 999 Poiriers produisant des poires destinées exclusivement à d'autres usages que la table (facultatif) Saint Rémy 001 Gieser Wildman 002 Autres variétés (à spécifier par l'État membre) 900-998 Variétés non spécifiées ailleurs 999 3. Pêchers Pêchers produisant des fruits à chair blanche Groupe springtime: Springtime 
+Mayflower 
+Autres 011 
+012 
+019 Morettini 1 et 5/14 020 Groupe Amsden 030 Groupe Redwing 040 Bella di Cesena et Sant'Anna Balducci 050 Pieri 81 060 Michelini et Impero 070 Paraguya 080 Honey dew Hale 090 Maria Bianca 100 Nectarines et brugnons (à spécifier par l'État membre) 201-298 Autres nectarines et brugnons non spécifiées 299 Autres variétés à chair blanche (à spécifier par l'État membre) 901-998 Variétés à chair blanche non spécifiées ailleurs 999 Pêchers produisant des fruits à chair jaune Armgold 010 Spring Crest 011 Blazing gold et Collins 020 Groupe Dixired: Dixired 
+Cardinal 
+June Gold 
+Autres 031 
+032 
+033 
+034 Groupe Redhaven 040 Groupe Fairhaven: Fairhaven 
+Southland 
+Autres 061 
+062 
+063 Groupe Merril Franciscan: Merril Franciscan 
+Loring 
+Suncrest 
+Loadel 
+Vivian 
+Andros 
+Halford 
+Dixon 
+Autres 071 
+072 
+073 
+074 
+075 
+076 
+077 
+078 
+079 Groupe J. H. Hale: J. H. Hale 
+Elberta 
+Autres 081 
+082 
+083 Cresthaven 091 Glohaven 092 Groupe Pavie/Percoche: Fortuna 
+Klamt 
+Caroline 
+Di Francia 
+Vesuvio 
+Autres 101 
+102 
+103 
+104 
+105 
+199 Nectarines et brugnons: Groupe Armking-Mayred 
+Groupe Grimson-Maygrand 
+Independence 
+Stark Red Gold 
+Nectared 
+Autres 201 
+202 
+203 
+204 
+205 
+299 Bowen 301 Fayette 302 Katherina 303 Meriam 304 Autres variétés à chair jaune (à spécifier par l'État membre) 900-998 Variétés non spécifiées ailleurs 999 Pêchers produisant des fruits à chair d'autre couleur ou de couleur non spécifiée Variétés à spécifier par l'État membre 900-998 Variétés non spécifiées ailleurs 999 4. Abricotiers Polonais 001 Rouge du Roussillon 002 Bergeron 003 Cafona 004 Boccucia 005 Monaco Bello 006 Bebecou 007 Diamantopoulou 008 Précoce de Tyrinthe 009 Bulida 010 Canino 011 Moniqui 012 Borida 013 Currot 014 Paviot 015 Real Fino 016 Pellecchiella 017 Précoce d'Imola 018 S. Castrese 019 Autres variétés (à spécifier par l'État membre) 900-998 Variétés non spécifiées ailleurs 999 5. Orangers Orangers produisant des oranges sanguines Sanguinello 001 Moro 002 Tarocco 004 Sanguinello « Cuscuna » 011 Sanguina Comune 042 Autres oranges sanguines (à spécifier par l'État membre) 900-948 Variétés non spécifiées ailleurs 949 Orangers produisant des oranges blondes Ovale/Calabrese 003 Belladonna 006 Shamottti (Jaffa) 008 Salustiana 009 De Setúbal 010 Valencia Late 015 Bionda Comune 016 D. Joao 023 Do Tua 025 Spera da Vidigueira 026 D. Maria 027 De Vale de Besteiros 028 Bionda Apirena 029 Vaniglia Apirena 030 Cadenera 031 Vema 033 Groupe Navels: Total 
+Merlin ou Washinton Navel 
+Navelina ou Dalmau 050 
+051 
+052 Navel New Hall 
+Thonson Navel 
+Navelate 
+Lane Late 
+Autres Navels 053 
+054 
+055 
+056 
+059 Autres oranges blondes (à spécifier par l'État membre) 950-998 Variétés non spécifiées ailleurs 999 6. Citroniers Femminello Ovale 001 Femminello di S. Teresa 002 Monachello 003 Inter Donato 004 Lunario Tondo (Arancino) 005 Lunario Sfusato (Palermo) 006 Maglini 007 Karystini 008 Adamopoulou 009 Lisbon 010 Eureka 011 Groupe Berna 012 Groupe Mesero 013 Lunero (4 Saisons) 014 Real 015 Comune 016 Siagara bianca 017 Autres variétés (à spécifier par l'État membre) 900-998 Variétés non spécifiées ailleurs 999 7. Agrumiers à petits fruits Agrumiers à petits fruits produisant des mandarines Avana 101 Tardivo o Di Ciaculli 102 Common 103 Wilking 104 Kara 105 Kina 106 Encore 107 Palazzeli 108 Setubalense 109 Carvalhais 110 Autres variétés (à spécifier par l'État membre) 190-198 Variétés non spécifiées ailleurs 199 Agrumiers à petits fruits produisant des clémentines Clémentine de Corse 201 Montreal 202 Comune 203 Fina 204 Oroval 205 Clemenules ou Clémentine Di Nules 206 Tomatera 207 Clémentine Porou 208 Autres variétés (à spécifier par l'État membre) 290-298 Variétés non spécifiées ailleurs 299 Agrumiers à petits fruits produisant des satsumas Satsuma 301 Clausellina 302 Salzara 303 Mineola 304 Temple 305 Owari 306 Wase 307 Autres variétés (à spécifier par l'État membre) 390-398 Variétés non spécifiées ailleurs 399 Autres agrumiers à petits fruits Tangero 401 Mandarine clementine o nova 501 Autres variétés (à spécifier par l'État membre) 900-998 Variétés non spécifiées ailleurs 999 
+ANNEXE III 
+Les limites des zones de production (le cas échéant par espèce) visées à l'article 3 
+BELGIQUE: Constitue une zone de production DANEMARK: Constitue une zone de production RÉPUBLIQUE FÉDÉRALE 
+D'ALLEMAGNE: 1. Nord: Schleswig-Holstein, Niedersachsen, 
+Hamburg, Bremen 2. Mitte: Nordrhein-Westfalen, Hessen, 
+Rheinland-Pfalz, Saarland 3. Sued: Baden-Wuerttemberg, Bayern 4. Ost: Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt, Thueringen GRÈCE: (Pommes) 1. Péloponnèse 2. Macédoine 3. Thessalie 4. Autres zones (Poires) 1. Péloponnèse 2. Macédoine 3. Thessalie 4. Crète 5. Autres zones (Pêches) 1. Macédoine 2. Thessalie 3. Autres zones (Abricots) 1. Péloponnèse 2. Macédoine 3. Autres zones (Oranges) 1. Péloponnèse 2. Crète 3. Épire 4. Autres zones (Citrons) 1. Péloponnèse 2. Grèce centrale et Eubée 3. Autres zones (Agrumes à petits fruits) 1. Péloponnèse 2. Crète 3. Îles Égée 4. Autres zones ESPAGNE: 1. Galicia 2. Principado de Asturias 3. Cantabria 4. País Vasco 5. Navarra 6. La Rioja 7. Aragón 8. Cataluña 9. Baleares 10. Castilla y León 11. Madrid 12. Castilla-La Mancha 13. Comunidad Valenciana 14. Región de Murcia 15. Extremadura 16. Andalucía 17. Canarias FRANCE: 1. Sud-ouest: Limousin, Auvergne, Aquitaine, 
+Midi-Pyrénées 2. Sud-est: Rhône-Alpes, Languedoc-Roussillon, Provence-Alpes, Côte d'Azur, Corse 3. Loire: Pays de Loire, Poitou-Charentes, Centre, Île de France 4. Autres régions de la France IRLANDE: Constitue une zone de production ITALIE: (Pommes, poires) 1. Val Padana: Lombardia, Veneto, Friuli-Venezia Giulia, Emilia-Romagna 2. Trentino-Alto Adige 3. Piemonte, Valle d'Aosta 4. Centrale: Liguria, Toscana, Umbria, Marche, Lazio, Abruzzo 5. Meridionale: Campania, Calabria, Molise, Puglia, Basilicata, Sicilia, Sardegna (Pêches, abricots) 1. Val Padana et Trentino-Alto Adige: Lombardia, Veneto, Friuli-Venezia Giulia, Emilia-Romagna, Trentino-Alto Adige 2. Piemonte, Valle d'Aosta 3. Centrale: Liguria, Toscana, Umbria, Marche, Lazio, Abruzzo 4. Meridionale: Campania, Calabria, Molise, Puglia, Basilicata, Sicilia, Sardegna (Oranges, citrons, 
+agrumes à petits fruits) 1. Sicilia 
+2. Calabria 3. Puglia, Basilicata 4. Autres régions de l'Italie LUXEMBOURG: Constitue une zone de production PAYS-BAS: Constitue une zone de production PORTUGAL: 1. Norte 2. Centro 3. Lisboa e Vale do Tejo 4. Alentejo 5. Algarve 6. Regiao Autónoma dos Açores 7. Regiao Autónoma da Madeira ROYAUME-UNI: Constitue une zone de production 

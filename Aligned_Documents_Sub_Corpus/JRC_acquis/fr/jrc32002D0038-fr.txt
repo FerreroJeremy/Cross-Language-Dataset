@@ -1,0 +1,58 @@
+2002/38/CE: Décision de la Commission du 27 décembre 2001 fixant les paramètres des enquêtes et établissant le code et les règles types relatifs à la transcription, sous forme lisible par machine, des données des enquêtes sur les plantations de certaines espèces d'arbres fruitiers [notifiée sous le numéro C(2001) 4626] 
+Décision de la Commission 
+du 27 décembre 2001 
+fixant les paramètres des enquêtes et établissant le code et les règles types relatifs à la transcription, sous forme lisible par machine, des données des enquêtes sur les plantations de certaines espèces d'arbres fruitiers 
+[notifiée sous le numéro C(2001) 4626] 
+(2002/38/CE) 
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté européenne, 
+vu la directive 76/625/CEE du Conseil du 20 juillet 1976 concernant les enquêtes statistiques à effectuer par les États membres, en vue de déterminer le potentiel de production des plantations de certaines espèces d'arbres fruitiers(1), et notamment son article 4, paragraphes 2 et 4, 
+considérant ce qui suit: 
+(1) L'équipement dont dispose la Commission pour analyser les résultats des enquêtes sur les plantations de certaines espèces d'arbres fruitiers, ainsi que la nécessité de son emploi rationnel, imposent que les supports lisibles par machines compatibles avec l'équipement soient précisés et qu'un format type soit prescrit pour la transcription des données, sous une forme lisible, par machine. 
+(2) Il existe, dans certaines zones de production, des conditions climatiques et agronomiques homogènes correspondant à une uniformité plus ou moins grande des rendements en fruits à l'hectare. L'utilisation des résultats des enquêtes pour chacune de ces zones de production augmente la précision des prévisions à moyen terme de la production. Les limites de ces zones de production seront fixées. 
+(3) Il est nécessaire d'enquêter sur des caractéristiques techniques susceptibles d'être modifiées, dans le but de garantir l'adaptation permanente des statistiques aux conditions économiques. 
+(4) Les mesures prévues à la présente décision sont conformes à l'avis du comité permanent de statistique agricole, institué par la décision 72/279/CEE du Conseil(2), 
+A ARRÊTÉ LA PRÉSENTE DÉCISION: 
+Article premier 
+Les limites des zones de production à prévoir ainsi que leurs codes respectifs figurent à l'annexe I jointe à de la présente décision. 
+Article 2 
+Les classes statistiques concernant l'âge des arbres des plantations visées à l'article 2, paragraphe 1, point B, de la directive 76/625/CEE figurent à l'annexe II de la présente décision. 
+Article 3 
+Les espèces fruitières ainsi que les variétés mentionnées à l'article 2, paragraphe 1, point A, de la directive 76/625/CEE figurent à l'annexe III de la présente décision. 
+Article 4 
+Les classes statistiques concernant la superficie plantée nette, le nombre d'arbres ainsi que la densité des plantations visées à l'article 2, paragraphe 1, point C, de la directive 76/625/CEE figurent à l'annexe IV de la présente décision. 
+Article 5 
+Les codes de transcription, sur support informatique ou multimédia, des données visées à l'article 4 de la directive 76/625/CEE doivent être conformes à la description figurant à l'annexe V de la présente décision. 
+Article 6 
+Les États membres sont destinataires de la présente décision. 
+Fait à Bruxelles, le 27 décembre 2001. 
+Par la Commission 
+Pedro Solbes Mira 
+Membre de la Commission 
+(1) JO L 218 du 11.8.1976, p. 10. 
+(2) JO L 179 du 7.8.1972, p. 1. 
+ANNEXE I 
+Limites des zones de production (le cas échéant par espèce) accompagnées de leurs codes 
+%gt%TABLE%gt% 
+ANNEXE II 
+Classes d'âge de plantation de certaines espèces d'arbres fruitiers 
+Les classes d'âge(1) sont définies comme suit: 
+%gt%TABLE%gt% 
+La superficie de chaque classe d'âge est donnée en ares. 
+(1) La date du surgreffage n'a pas d'influence sur l'âge des arbres. 
+ANNEXE III 
+Codes par espèces et par variétés à appliquer lors de la transmission, à la Commission, des résultats des enquêtes statistiques sur les plantations de certaines espèces d'arbres fruitiers 
+%gt%TABLE%gt% 
+ANNEXE IV 
+Classes de densité de plantation de certaines espèces d'arbres fruitiers 
+%gt%TABLE%gt% 
+ANNEXE V 
+Spécifications informatiques 
+1. L'information enregistrée conformément aux caractéristiques visées à l'article 2 de la directive 76/625/CEE doit être communiquée à la Commission sur support informatique ou multimédia, selon les modalités suivantes. 
+2. L'information reproduit les résultats de l'enquête, mais ne porte pas sur les exploitations individuelles. 
+3. Les données seront enregistrées selon le format TXT avec des enregistrements de longueur fixe (58 caractères). 
+4. Structure de l'enregistrement 
+Chaque enregistrement se compose des 12 champs suivants: 
+%gt%TABLE%gt% 
+Les informations sont à enregistrer, cadrées à droite dans chaque champ. La codification pour les cinq premiers champs est donnée dans les dispositions spécifiques de cette annexe ainsi que les six champs, suivant chacune des sept positions, qui contiennent la superficie en ares dans chacune des six classes d'âge. 
+5. Les États membres spécifient, sur les documents de transmission, le nombre d'espèces et le nombre de variétés pour chaque espèce. 

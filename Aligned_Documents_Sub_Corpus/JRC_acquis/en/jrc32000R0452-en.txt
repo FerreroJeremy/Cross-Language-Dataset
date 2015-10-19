@@ -1,0 +1,151 @@
+Commission Regulation (EC) No 452/2000 of 28 February 2000 implementing Council Regulation (EC) No 530/1999 concerning structural statistics on earnings and on labour costs as regards quality evaluation on labour costs statistics (Text with EEA relevance) 
+COMMISSION REGULATION (EC) No 452/2000 
+of 28 February 2000 
+implementing Council Regulation (EC) No 530/1999 concerning structural statistics on earnings and on labour costs as regards quality evaluation on labour costs statistics 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC) No 530/1999 of 9 March 1999 concerning structural statistics on earnings and on labour costs(1) and in particular Article 11 thereof, 
+Whereas: 
+(1) In accordance with Article 11 of Regulation (EC) No 530/1999, implementing measures are necessary concerning the quality evaluation and the content of the report on quality. 
+(2) The measures provided for in this Regulation are in accordance with the opinion delivered by the Statistical Programme Committee established by Council Decision 89/382/EEC, Euratom(2), 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Quality evaluation criteria and content of the report on quality 
+The quality evaluation criteria and the content of the report on quality referred to in Article 10 of Regulation (EC) No 530/1999, are laid down in the Annex to the present Regulation. 
+Article 2 
+Entry into force 
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 28 February 2000. 
+For the Commission 
+Pedro SOLBES MIRA 
+Member of the Commission 
+(1) OJ L 63, 12.3.1999, p. 6. 
+(2) OJ L 181, 28.6.1989, p. 47. 
+ANNEX 
+QUALITY EVALUATION CRITERIA AND CONTENT OF THE REPORT ON QUALITY FOR LABOUR COSTS STATISTICS 
+DELAY FOR TRANSMISSION OF THE REPORT 
+The quality report shall be transmitted at best together with the data delivery and at the latest 24 months after the end of the reference period for which the data was collected. 
+TRANSITIONAL PERIOD 
+As quality reporting is a new feature of the European statistical system; it is admitted that national statistical authorities have to adapt their tools, knowledge and resources for this reporting progressively. Therefore, the content of the quality report presented below provides some optional items for the first quality report to be delivered for the reference year 2000 labour cost survey. The feasibility and relevance of these optional items will be reviewed in the light of the information actually delivered by the Member States and the general progress made in the field of statistical science. This review should be carried out by Eurostat and the national statistical authorities before the next survey in order to be able to decide whether the optional items should so remain. 
+SCOPE 
+The information is requested in so far as the derogations in relevant Council Regulations or Commission Regulations allow. These Regulations concern the structural statistics on labour costs and earnings, labour force survey, structural business statistics and national accounts. The same holds true for optional characteristics or breakdowns. 
+DIFFUSION OF THE INFORMATION COLLECTED THROUGH THE QUALITY REPORT 
+The quality components: relevance, timeliness and punctuality, accessibility, clarity and completeness will be mainly used for internal purposes of the European system of statistics. 
+The accuracy, comparability and coherence components are of main interest for users. The information will be disseminated to the users through statistical or methodological documents. 
+CONTENT 
+Note: 
+Tables A, B and C and the associated variables (for example A11, B1, D1, ...) are defined in Commission Regulation (EC) No 1726/1999 of 27 July 1999 implementing Council Regulation (EC) No 530/1999 concerning structural statistics on earnings and on labour costs as regards the definition and transmission of information on labour costs(1). 
+1. Relevance 
+Optional item: 
+- a summary including users' description, origin and satisfaction of users' needs, and relevance of statistics for the users. 
+2. Accuracy 
+2.1. Sampling errors 
+2.1.1. Probability sampling 
+2.1.1.1. Bias 
+Optional item: 
+- biases due to the estimation method, when measurable. 
+2.1.1.2. Variance 
+- coefficients of variation(2) broken down according to the structure of Tables A, B, and C for: 
+- annual labour costs per employee (D1/A11+A121+A131), 
+- hourly labour costs (D1/B1), 
+- coefficients of variation broken down according to the structure of the Table A for: 
+- B1 hours worked by all employees, 
+- D1 compensation of employees, 
+- D11 wages and salaries (total), 
+- methodology used for variance estimation. 
+Optional items: 
+- coefficients of variation broken down according to the structure of Tables B, and C for: 
+- B1 hours worked by all employees, 
+- D1 compensation of employees, 
+- D11 wages and salaries (total), 
+- coefficients of variation broken down according to the structure of Tables A, B, and C for: 
+- A1 total number of employees, 
+- A11+A121+A131 total number of employees in full-time units. 
+2.1.2. Non-probability sampling 
+Where existing sources are used, where calculation of a coefficient of variation is not meaningful a description of possible sources of lack of precision should be provided instead. 
+2.2. Non-sampling errors 
+2.2.1. Frame errors 
+- description of the main mis-classification, under-and over-coverage problems(3) encountered in collecting the data, 
+- The methods used to process these eventual errors. 
+Optional items: 
+- rates of over-coverage, under-coverage and mis-classification broken down according to the stratification used for sampling. 
+The requested information can be derived partially from the report on the quality of the register. 
+Note: 
+Where individual administrative data are used, a similar analysis has to be reported based on the administrative reference file. 
+2.2.2. Measurement and processing errors 
+- Description of the methods used to reduce measurement and processing errors(4) 
+Optional items: 
+- number of corrected cases for the variables requested in Table A in a percentage of the units with responses for the variable under consideration, 
+- the error rates of data entry or coding for the variables: 
+- number of employees, 
+- wages and salaries, 
+- local unit activity (NACE Rev. 1 divisions), 
+- region (NUTS 1), 
+- methodological notes on the estimation(5) of these rates. 
+2.2.3. Non-response errors 
+- unit response rates(6) total and broken down according to the stratification used for sampling, 
+- a description of the methods used for imputation and/or reweighting for non-response. 
+Note: 
+Where individual administrative data are used, non-availability of the administrative record or item of data replaces non-response. 
+Optional items: 
+- item response rates for each variable. The rate is the ratio of the number of item responses to the number of in scope respondents, 
+- a description of the reasons for non-response and an assessment of non-response biases for one of the major questions in the questionnaire. 
+2.2.4. Model assumption errors 
+- Report(7) on the eventual use of the following models: 
+- to adjust fiscal year to calendar year, 
+- to take into account small enterprises, 
+- to combine data from administrative sources and surveys. 
+Note: 
+Where individual administrative data are used, the correspondence between the administrative concepts and the theoretical statistical concept has to be commented on. 
+3. Timeliness and punctuality 
+- key data-collection dates: e.g. the legal deadline imposed on respondents in the Member State, when the questionnaires and recalls and follow-ups were sent out and when the field work took place, 
+- key dates for the post-collection phase: e.g. starting and finishing dates for completeness, coding and plausibility checks, date of the quality check (congruency of results) and non-disclosure measures, 
+- key publication dates: e.g. when the advance and detailed results were calculated and disseminated. 
+Note: 
+Punctuality of data transmission to Eurostat will be evaluated according to the Regulation specifying periodicity and delays for data transmission. 
+4. Accessibility and clarity 
+- a copy of the publication(s), 
+- information on what, if any, results are sent to reporting units included in the sample, 
+- information on the dissemination scheme for the results (e.g. to whom the results are sent), 
+- a copy of any methodological documents relating to the statistics provided. 
+5. Comparability 
+5.1. Spatial comparability 
+- a comparison between national concepts and European concepts has to be reported if there are differences especially on the definition of statistical units, the reference population, classifications and definitions of variables in the transferred results. When possible, the differences should be quantified. 
+Note: 
+when classifications and units come from the register, the quality of this information should come from the report on the quality of the register. 
+5.2. Comparability over time 
+- details of changes in definitions, coverage or methods and if possible an evaluation of the consequences of eventual non-negligible changes. 
+6. Coherence 
+Note: 
+This item has two goals: to inform the users on the conceptual differences that exist between several sources of variables that are very close and usually have the same name in statistical publications and to provide information to evaluate how to go from one concept to the other. The second goal is to check that statistics which are in principle fairly coherent conceptually give comparable results on the same reference population. With these aims, labour costs statistics and other statistics sent to Eurostat should be compared by appropriate ratios using national practical concepts and measurements. For example, the labour force survey (LFS) has a fairly different employment definition: in the LFS employment of residents is measured; whereas in labour cost surveys it is employment on the national territory, a concept coherent with national accounts and business statistics. Comparisons should also take into account that labour costs statistics are based on enterprises with more than nine employees. 
+6.1. Coherence with statistics from labour force survey 
+Optional item: 
+- explanations of main differences in ratios of the %quot%number of part-time employees to the number of full-time employees%quot% and in the ratio of %quot%average number of hours actually worked by part time employees to the average number of hours actually worked%quot% by full time employees in both sources. A view broken down by economic activity (NACE Rev. 1, Sections C to K) would be helpful. The accuracy and concepts of sources have to be taken into account. 
+6.2. Coherence with structural business statistics 
+The Regulation(8) concerning structural business statistics covers all market activities in sections C to K and M to O of NACE Rev.1. 
+The closest part of both sources is summarised in the table below: 
+%gt%TABLE%gt% 
+- Explanations of the main differences of these variables taking into account the accuracy and concepts of each source (broken down by NACE Rev. 1 divisions). Optionally, cross tabulations by NUTS 1 and broad NACE Rev. 1 groupings (C-D-E, F, G-H, I-J-K). 
+Optional items: 
+The table below summarises other parts of the statistics that could be compared: 
+%gt%TABLE%gt% 
+- Explanations of the main differences, taking into account the accuracy of each statistic and differences in concepts. These comparisons could be cross-tabulated by enterprise size classes and broad NACE Rev1 groupings. 
+6.3. Coherence with national accounts 
+The closest part of both sources is summarised in the table below: 
+%gt%TABLE%gt% 
+- Explanations of the main differences, taking into account differences in concepts and coverage and if available the accuracy of each statistic, 
+- comments on how the labour cost survey is a source for national accounts. 
+7. Completeness 
+- A list of variables and/or breakdown required in the Regulation that eventually are not available and the reasons why. 
+(1) OJ L 203, 3.8.1999, p. 28. 
+(2) The coefficient of variation is the ratio of the square root of the variance of the estimator to the expected value. It is estimated by the ratio of the square root of the estimate of the sampling variance to the estimated value. The estimation of the sampling variance must take into account the sampling design. 
+(3) Over-coverage relates either to wrongly classified units that are in fact out of scope (e.g. actual local unit activity not in C-K NACE Rev. 1), or to units that do not exist in practice. 
+Under-coverage refers to (new) units not included in the frame, either through real birth or demergers, and to wrongly classified units. Black economy is not concerned. 
+Mis-classification refers to incorrect classification of units that belong to the target population. 
+(4) Measurement errors are errors that occur at the time of data collection. There are a number of sources of measurement error, including the survey instrument (the form or questionnaire), the respondent, the information system, the mode of data collection, and the interviewer. Processing errors are errors in post-data-collection processes such as data entry, coding, keying, editing, weighting and tabulating. 
+(5) The measures of the error rates can be achieved through standard techniques of quality control, for instance by verifying the quality of a subsample of the processed questionnaires (to check the level of errors either during the keying phase or during the processing of edits by NSI staff). 
+(6) The rate is the ratio of the number of in scope respondents to the number of questionnaires sent to the population selected. 
+(7) Comments should for example cover the selection procedure of these models (i.e. why a given model has been chosen in preference to alternative ones), if relevant the associated estimation error of the corresponding estimates, elements on the verification of the assumptions underlying the model, the test of the predictive power of the model using historical data, the comparison of the results generated by the model with other related sources of data, the use of screening and cross-validation studies, the tests of sensitivity of the model to parameters' estimation, the validation of the data inputs to the model. 
+(8) OJ L 14, 17.1.1997. 

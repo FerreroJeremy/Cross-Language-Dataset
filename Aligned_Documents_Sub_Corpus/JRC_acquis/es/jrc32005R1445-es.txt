@@ -1,0 +1,163 @@
+Reglamento (CE) n%deg% 1445/2005 de la Comisi%oacute%n, de 5 de septiembre de 2005, por el que se definen criterios de evaluaci%oacute%n de la calidad apropiados y el contenido de los informes de calidad de las estad%iacute%sticas sobre residuos a efectos del Reglamento (CE) n%deg% 2150/2002 del Parlamento Europeo y del Consejo (Texto pertinente a efectos del EEE) 
+Reglamento (CE) no 1445/2005 de la Comisión 
+de 5 de septiembre de 2005 
+por el que se definen criterios de evaluación de la calidad apropiados y el contenido de los informes de calidad de las estadísticas sobre residuos a efectos del Reglamento (CE) no 2150/2002 del Parlamento Europeo y del Consejo 
+(Texto pertinente a efectos del EEE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) no 2150/2002 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2002, relativo a las estadísticas sobre residuos [1], y, en particular, su artículo 6, letra d), 
+Considerando lo siguiente: 
+(1) En virtud del artículo 6 del Reglamento (CE) no 2150/2002, la Comisión debe adoptar las medidas necesarias para la aplicación de dicho Reglamento. 
+(2) De acuerdo con el artículo 6, letra d), del Reglamento (CE) no 2150/2002, la Comisión debe definir criterios de evaluación de la calidad apropiados y el contenido de los informes de calidad contemplados en dicho Reglamento. 
+(3) Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité del programa estadístico creado en virtud de la Decisión 89/382/CEE, Euratom del Consejo [2]. 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+1. Los criterios de evaluación de la calidad y el contenido de los informes de calidad contemplados en la sección 7 de los anexos I y II del Reglamento (CE) no 2150/2002 se establecerán de acuerdo con lo dispuesto en el anexo del presente Reglamento. Los Estados miembros presentarán un informe de calidad de conformidad con lo dispuesto en el anexo del presente Reglamento. 
+2. El apartado 1 se aplicará a los datos presentados en relación con el primer año de referencia (2004) y todos los períodos de referencia posteriores. 
+Artículo 2 
+El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 5 de septiembre de 2005. 
+Por la Comisión 
+Joaquín Almunia 
+Miembro de la Comisión 
+[1] DO L 332 de 9.12.2002, p. 1. Reglamento modificado en último lugar por el Reglamento (CE) no 783/2005 de la Comisión (DO L 131 de 25.5.2005, p. 38). 
+[2] DO L 181 de 28.6.1989, p. 47. 
+-------------------------------------------------- 
+ANEXO 
+CONTENIDO DEL INFORME DE CALIDAD Y CRITERIOS DE EVALUACIÓN DE LAS ESTADÍSTICAS SOBRE RESIDUOS 
+PREÁMBULO AL CONTENIDO DEL INFORME DE CALIDAD 
+Entorno multimétodo 
+En virtud del Reglamento (CE) no 2150/2002, toda transmisión de un conjunto de datos o de una combinación de conjuntos de datos debe ir acompañada de un informe de calidad. Dicho Reglamento no prescribe un método específico de elaboración de estadísticas sobre residuos. Puede haber diferencias entre los métodos de los distintos países, entre los conjuntos de datos de un mismo país e incluso dentro de los distintos conjuntos de datos. La evaluación de la calidad depende de los métodos aplicados. Para clarificar el entorno multimétodo, la parte I del informe de calidad presenta una descripción general de los datos y determina los métodos, de los que ofrece una visión general. La parte II sigue los elementos estándar utilizados para definir la calidad en el sistema estadístico europeo. 
+Estructura 
+El informe de calidad que han de presentar los Estados miembros debe tener la estructura establecida en el capítulo "Contenido del informe de calidad" que figura más abajo. El informe incluirá asimismo algunos apartados que no se aplican o acerca de los cuales no hay información disponible. Conviene incluir una referencia explícita a estos apartados en el informe de calidad. 
+Revisión de los datos 
+Deberá adjuntarse una nota al informe de calidad si se ha hecho una revisión de los datos. La nota deberá especificar el ámbito cubierto por la revisión, explicar por qué era necesaria una revisión y aclarar el impacto de la revisión en los resultados. 
+Datos provisionales 
+La puesta a disposición de datos provisionales no es conforme al Reglamento relativo a las estadísticas sobre residuos. Si un conjunto contiene datos provisionales, deberá darse una explicación al respecto en la parte I. Asimismo, deberá programarse la revisión de estos datos. 
+Agregados básicos 
+En el informe de calidad es a veces necesario evaluar el impacto de hipótesis o errores. Esta evaluación puede limitarse al impacto en agregados básicos. Para la generación de residuos, los agregados básicos son: 
+- residuos domésticos peligrosos, 
+- residuos domésticos no peligrosos, 
+- residuos peligrosos generados por empresas (el total de todas las categorías NACE), 
+- residuos no peligrosos generados por empresas (el total de todas las categorías NACE). 
+Para el tratamiento de residuos, los agregados básicos son: 
+- residuos peligrosos utilizados como carburante, 
+- residuos no peligrosos utilizados como carburante, 
+- residuos peligrosos incinerados, 
+- residuos no peligrosos incinerados, 
+- residuos peligrosos recuperados, 
+- residuos no peligrosos recuperados, 
+- residuos peligrosos eliminados, 
+- residuos no peligrosos eliminados. 
+Nombre de fichero: 
+El informe de calidad se presentará en formato electrónico en un documento cuyo nombre de fichero se componga de cinco partes: 
+Informe de calidad | 2 | Valor: QR | 
+Ámbito | 5 | Valor: WASTE | 
+Código de país | 2 | Código de país de dos caracteres | 
+Año | 4 | Año de referencia (el primer año de referencia es 2004) | 
+Revisión | 1 | Número de revisión; cero (0) para la primera entrega | 
+Las partes del nombre de fichero deben separarse con el signo de subrayado. Por ejemplo, el informe de calidad de 2004 de Bélgica después de la primera revisión llevará el nombre QR_WASTE_BE_2004_1. 
+CONTENIDO DEL INFORME DE CALIDAD 
+Parte I: Descripción de los datos 
+Identificación: 
+- país, 
+- año de referencia, 
+- conjunto(s) de datos, 
+- fecha de transmisión. 
+Datos de la(s) persona(s) responsable(s) de la calidad de las estadísticas sobre residuos: 
+- nombre y apellidos, 
+- teléfono, 
+- correo electrónico, 
+- organización y unidad. 
+Debe hacerse referencia a las excepciones aplicables al conjunto de datos. 
+Descripción de los participantes / las fuentes utilizadas en la recogida de datos. Relación de los participantes / las fuentes con los ámbitos del Reglamento relativo a las estadísticas sobre residuos. ¿Cuál es el fundamento jurídico aplicable a la fuente de datos? ¿Cómo se evalúa la continuidad? 
+Indicación general de los métodos que se utilizan en las distintas partes del conjunto de datos. Esta indicación se utiliza como referencia en la parte II del informe. Los diferentes métodos utilizados son: 
+- las encuestas, 
+- las fuentes administrativas, 
+- la modelización, 
+- otros (especifíquense). 
+Deben notificarse los cambios introducidos respecto al año de referencia anterior, así como una evaluación de sus consecuencias en la calidad de los datos. Conviene prestar especial atención a la comparabilidad en el tiempo. Los detalles sobre la comparabilidad se introducirán en el apartado 5 (Comparabilidad) de la parte II. Para el primer año de referencia no es preciso informar sobre la comparabilidad con la recogida de datos voluntaria basada en el cuestionario conjunto OCDE/Eurostat sobre residuos. 
+Los Estados miembros deben enumerar los principales cambios anticipados en los métodos que se aplicarán para el siguiente año de referencia. 
+Parte II: Informe sobre los atributos de calidad 
+1. Pertinencia 
+Debe presentarse un resumen que incluya una descripción de los usuarios y las necesidades a escala nacional. 
+Los Estados miembros deben indicar el nivel de compleción de los conjuntos de datos. Deben precisar qué variables o desgloses que requiera el Reglamento relativo a las estadísticas sobre residuos no están disponibles (por ejemplo, el valor de la celda es "M" o "L" en el conjunto de datos transmitido). Es necesario dar una explicación de los casos en que no se contemple una excepción. Asimismo, cuando se indique la ausencia de celdas deben tomarse medidas para subsanar dicha deficiencia. 
+2. Precisión 
+2.1. Errores de muestreo 
+Debe hacerse referencia a la parte I para delimitar el área de encuesta correspondiente. Es preciso facilitar información sobre los aspectos siguientes: 
+- el marco de muestreo aplicado, 
+- el sistema de muestreo aplicado, 
+- la estratificación (por ejemplo, especificar si se hace por clase de tamaño, grupo NACE, etc.), 
+- el volumen de las muestras: especificar el número de empresas de una población y cuántas figuran en la encuesta (por estrato, si procede), 
+- el coeficiente de variación para la cantidad total de residuos generados y la distribución en cuatro agregados básicos; el denominador del coeficiente es la cantidad total de residuos generados en el agregado correspondiente, con inclusión de los estratos no estimados mediante métodos de muestreo; para estimar la variación, debe tomarse en consideración el nivel de no-respuesta, 
+- el coeficiente de variación para la cantidad total de residuos tratados y la distribución en ocho agregados básicos; el denominador del coeficiente es la cantidad total de residuos tratados en el agregado correspondiente, con inclusión de los estratos no estimados mediante métodos de muestreo; para estimar la variación, debe tomarse en consideración el nivel de no-respuesta. 
+2.2. Errores no muestrales 
+2.2.1. Errores de cobertura 
+- Para el anexo I, sobre generación de residuos: descripción de los métodos aplicados para alcanzar una cobertura del 100 %. 
+- Para el anexo II, sobre el tratamiento de residuos: descripción de las instalaciones de tratamiento de residuos excluidos de los informes y el motivo de su exclusión. 
+- Descripción del modo de evaluación de la cantidad de residuos comerciales de empresas/comercios incluidos en los residuos domésticos. Qué método se utiliza para estimar los residuos domésticos puros. 
+- Descripción de los principales problemas de clasificación inadecuada, cobertura deficiente y cobertura excesiva encontrados al recoger los datos. 
+2.2.2. Errores de medición 
+- ¿Qué unidades estadísticas se aplican en las distintas partes del conjunto de datos? ¿Cuál es el resultado de la evaluación de posibles errores en la aplicación de unidades estadísticas? 
+- Errores en la precisión de las cantidades: debe explicarse cómo se realiza el pesaje y posterior registro y describirse la validación de los procedimientos aplicados para detectar errores de pesaje. ¿Cuál es el resultado de los procedimientos de detección de errores aplicados? 
+- Debe hacerse una descripción de la calidad informativa de los instrumentos de recogida de datos. Por ejemplo, ¿se validó el cuestionario en un grupo temático en el caso de encuestas por muestreo con un cuestionario? En el caso de datos administrativos, ¿existen incentivos en la unidad informante o en la propia administración para la información deficiente, la información excesiva o los retrasos? 
+2.2.3. Errores de procesamiento 
+- Resumen de las etapas de procesamiento entre la recogida y la elaboración de estadísticas, con inclusión de medidas para detectar y rectificar errores de procesamiento. 
+- Listado de los errores de procesamiento detectados, así como su alcance e impacto. 
+- Errores de codificación de la categoría de residuos, de la categoría NACE, de tipo de operación de tratamiento y de región. Debe hacerse una descripción de la manera de efectuar la codificación e indicarse qué procedimientos de validación se aplican para detectar los errores de codificación. ¿Cuál es el resultado de los procedimientos de detección de errores aplicados? 
+- Porcentaje de la categoría "residuos domésticos" generados realmente en empresas. ¿Cómo se evalúan los errores de clasificación? 
+2.2.4. Errores de no-respuesta 
+- Tasa de respuesta y nivel de los agregados clave. 
+- Descripción del uso de las no-respuestas (unidades y elementos de no-respuesta) en las encuestas. 
+- Determinación de la previsión de errores resultante de la ausencia de las no-respuestas. 
+2.2.5. Errores de hipótesis de modelos 
+- Descripción de modelos, hipótesis relacionadas con la aplicación del modelo, errores esperados y formas de tratarlos. 
+- Resultados del análisis de sensibilidad. 
+- Fuentes utilizadas (referirse a la descripción de fuentes en la parte I). 
+3. Oportunidad y puntualidad 
+- Descripción en un calendario de las etapas clave de la recogida de datos en el proceso de establecimiento de conjuntos de datos. 
+- Descripción en un calendario de las etapas clave del procesamiento de datos (por ejemplo, las fechas de inicio y final para completar el procesamiento, los controles de codificación y plausibilidad, la validación de datos y las medidas de no divulgación). 
+- Descripción en un calendario de las etapas de publicación clave (por ejemplo, ¿cuándo se calculan, se validan y se divulgan los resultados avanzados y detallados?). 
+La puntualidad de la transmisión de datos a Eurostat se evaluará de acuerdo con el Reglamento relativo a las estadísticas sobre residuos, que especifica la periodicidad y los plazos de transmisión de los datos. Deberá explicarse todo retraso. Además, en el informe deberá indicarse qué medidas se han adoptado para evitar retrasos en el futuro. 
+4. Accesibilidad y claridad 
+La organización nacional informante (identificada en la parte I del informe de calidad) debe describir: 
+- la política de divulgación de estadísticas sobre residuos, 
+- las medidas y herramientas para lograr o mejorar la claridad, 
+- una política de confidencialidad adecuada. 
+5. Comparabilidad 
+- Para evaluar la comparabilidad entre los datos nacionales generados por distintas metodologías, es necesario clarificar el impacto de las restricciones en relación con la cobertura y la precisión de los datos (de acuerdo con los elementos de precisión descritos anteriormente). 
+- ¿Cómo se valida la comparabilidad regional de los datos sobre las instalaciones de tratamiento de los residuos? ¿Qué unidad estadística se utiliza? ¿Cómo se gestionan las instalaciones móviles de tratamiento de los residuos? 
+- Comparabilidad en el tiempo: deben notificarse tanto los cambios relacionados con el período de referencia anterior como los cambios anticipados para el período de referencia siguiente. Han de especificarse los cambios en las definiciones, la cobertura o los métodos (referirse a la parte I). Debe hacerse una evaluación de las consecuencias. 
+6. Coherencia 
+Estadísticas medioambientales: 
+- Coherencia de la difusión nacional con los datos notificados en virtud del Reglamento relativo a las estadísticas sobre residuos. 
+No es necesario informar sobre la coherencia con: 
+- el cuestionario conjunto OCDE/Eurostat, 
+- obligaciones de información sobre residuos específicos (vehículos al final de su vida útil, residuos de equipo eléctrico y electrónico, embalajes y residuos de embalaje, transporte de residuos, etc.), 
+- la información sobre la prevención y el control integrados de la contaminación, 
+- la información facilitada a la Agencia Europea del Medio Ambiente. 
+La Comisión (Eurostat) se ocupará directamente de estas cuestiones. 
+Estadísticas socioeconómicas: 
+Se invita a los Estados miembros a comentar la coherencia con: 
+- las estadísticas sobre comercio, 
+- la contabilidad medioambiental/económica, con inclusión de las cuentas nacionales, 
+- la producción de indicadores estructurales. 
+Los comentarios sobre estas cuestiones pueden incluir la notificación de diferencias en la aplicación de unidades y clasificaciones estadísticas. 
+7. Carga para los entrevistados 
+Debe hacerse una evaluación de la carga, en términos físicos, para los entrevistados (tiempo necesario para responder) y el número real de entrevistados. En el caso de las fuentes administrativas, debe evaluarse la carga para los entrevistados por las preguntas adicionales con fines estadísticos. 
+CRITERIOS DE EVALUACIÓN 
+La Comisión (Eurostat) evaluará la información recogida de acuerdo con el Reglamento relativo a las estadísticas sobre residuos en función de los cinco criterios generales siguientes: 
+1. Conjuntos de datos completos 
+La compleción de los conjuntos de datos la define el formato de transmisión de estadísticas sobre residuos [Reglamento (CE) no 782/2005 de la Comisión [1]]. 
+2. Informe de calidad completo 
+La compleción del informe de calidad se define en el presente Reglamento. 
+3. Oportunidad 
+La oportunidad de los conjuntos de datos y del informe de calidad que los acompaña la define el Reglamento relativo a las estadísticas sobre residuos (dieciocho meses después del final del año de referencia). 
+4. Aplicación adecuada de definiciones y clasificaciones 
+El manual relativo a las estadísticas sobre residuos establecerá la interpretación común de definiciones y clasificaciones. 
+5. Aplicación de métodos estadísticos adecuados 
+El Reglamento relativo a las estadísticas sobre residuos no prescribe ningún método particular para la elaboración de estadísticas sobre residuos. El manual relativo a las estadísticas sobre residuos aconsejará buenas prácticas. 
+La Comisión (Eurostat) informará a las personas responsables de la calidad de las estadísticas sobre residuos en los Estados miembros del resultado de la evaluación en el plazo de dos meses a partir de la fecha límite para la transmisión de los datos. 
+[1] DO L 131 de 25.5.2005, p. 26. 
+-------------------------------------------------- 

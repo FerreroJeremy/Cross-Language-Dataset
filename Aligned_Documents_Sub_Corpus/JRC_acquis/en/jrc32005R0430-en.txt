@@ -1,0 +1,712 @@
+Commission Regulation (EC) No%nbsp%430/2005 of 15 March 2005 implementing Council Regulation (EC) No%nbsp%577/98 on the organisation of a labour force sample survey in the Community concerning the codification to be used for data transmission from 2006 onwards and the use of a sub-sample for the collection of data on structural variables 
+Commission Regulation (EC) No 430/2005 
+of 15 March 2005 
+implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community concerning the codification to be used for data transmission from 2006 onwards and the use of a sub-sample for the collection of data on structural variables 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EC) No 577/98 of 9 March 1998 on the organisation of a labour force sample survey in the Community [1], and in particular Articles 3, 4(3) and 4(4) thereof, 
+Whereas: 
+(1) In accordance with Article 4(3) of Regulation (EC) No 577/98 implementing measures are necessary in order to define the codification of the variables to be used for the data transmission. 
+(2) Under Article 4(4) of Regulation (EC) No 577/98 a list of variables, hereinafter referred to as structural variables, may be identified from among the survey characteristics which need to be surveyed only as annual averages with reference to 52 weeks rather than as quarterly averages. Therefore the conditions for the use of a sub-sample for the collection of data on structural variables should be laid down. 
+(3) In view of the importance of data on employment and unemployment, the totals for these indicators should be consistent whether they are produced from the annual sub-sample or on the basis of an annual average of the four quarterly full samples. 
+(4) In view of the importance of data collected in ad hoc modules, this information should be combinable with any other variable from the survey. 
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee established by Council Decision 89/382/EEC, Euratom [2], 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The conditions for the use of a sub-sample for the collection of data on structural variables are laid down in Annex I. 
+Article 2 
+The codes for the variables to be used for data transmission for the years 2006 onwards are laid down in Annex II. 
+Article 3 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 15 March 2005. 
+For the Commission 
+Joaquín Almunia 
+Member of the Commission 
+[1] OJ L 77, 14.3.1998, p. 3. Regulation as last amended by Regulation (EC) No 2257/2003 of the European Parliament and the Council (OJ L 336, 23.12.2003, p. 6). 
+[2] Council Decision of 19 June 1989 establishing a Committee on the Statistical Programmes of the European Communities (OJ L 181, 28.6.1989, p. 47). 
+-------------------------------------------------- 
+ANNEX I 
+CONDITIONS FOR THE USE OF A SUB-SAMPLE FOR THE COLLECTION OF DATA ON STRUCTURAL VARIABLES 
+1. Yearly/quarterly variables 
+The word "yearly" in the "Periodicity" column of the Codification laid down in Annex II, identifies structural variables which optionally need only to be surveyed as annual averages, using a sub-sample of independent observations with reference to 52 weeks, rather than as quarterly averages. Core variables to be surveyed each quarter are identified as "quarterly". 
+2. Representativeness of the results 
+For structural variables, the relative standard error (without taking design effect into account) of any yearly estimate representing 1 % or more of the working age population shall not exceed: 
+(a) 9 % for countries with a population between 1 million and 20 million inhabitants and 
+(b) 5 % for countries with a population of 20 million or more. 
+Countries with less than 1 million inhabitants are exempted from these precision requirements and structural variables should be collected for the total sample unless the sample meets requirements expressed in (a). 
+For countries using a sub-sample for data collection on structural variables, if more than one wave is used, the total sub-sample used shall consist of independent observations. 
+3. Consistency of totals 
+Consistency between annual sub-sample totals and full sample annual averages shall be ensured for employment, unemployment and inactive population by sex and for the following age groups: 15 to 24, 25 to 34, 35 to 44, 45 to 54, 55 +. 
+4. Ad hoc modules 
+The sample used to collect information on ad hoc modules shall also provide information on structural variables. 
+-------------------------------------------------- 
+ANNEX II 
+CODIFICATION 
+Name | Column | Periodicity | Code | Description | Filter/Remarks | 
+DEMOGRAPHIC BACKGROUND 
+HHSEQNUM | 1/2 | QUARTERLY | | Sequence number in the household (it should remain the same for all waves) | everybody | 
+01-98 | Two-digit sequence number allocated to each member of the household | 
+HHLINK | 3 | YEARLY | | Relationship to reference person in the household | HHTYPE = 1, 3 | 
+1 | Reference person | 
+2 | Spouse (or cohabiting partner) of reference person | 
+3 | Child of reference person (or of his/her spouse or cohabiting partner) | 
+4 | Ascendant relative of reference person (or of his/her spouse or cohabiting partner) | 
+5 | Other relative | 
+6 | Other | 
+9 | Not applicable (HHTYPE ≠ 1, 2) | 
+HHSPOU | 4/5 | YEARLY | | Sequence number of spouse or cohabiting partner | HHTYPE = 1, 3 | 
+01-98 | Sequence number of spouse or cohabiting partner in the household | 
+99 | Not applicable (person does not belong to a private household, or has no partner, or the partner does not belong to this private household) | 
+HHFATH | 6/7 | YEARLY | | Sequence number of father | HHTYPE = 1, 3 | 
+01-98 | Sequence number of father in the household | 
+99 | Not applicable (person does not belong to a private household, or the father does not belong to this private household) | 
+HHMOTH | 8/9 | YEARLY | | Sequence number of mother | HHTYPE = 1, 3 | 
+01-98 | Sequence number of mother in the household | 
+99 | Not applicable (person does not belong to a private household, or the mother does not belong to this private household) | 
+SEX | 10 | QUARTERLY | | Sex | everybody | 
+1 | Male | 
+2 | Female | 
+YEARBIR | 11/14 | QUARTERLY | | Year of birth The 4 digits of year of birth are entered | everybody | 
+DATEBIR | 15 | QUARTERLY | | Date of birth in relation to the end of reference period | everybody | 
+1 | Person’s birthday falls between 1 January and the end of the reference week | 
+2 | Person’s birthday falls after the end of the reference week | 
+MARSTAT | 16 | YEARLY | | Marital status | everybody | 
+1 | Single | 
+2 | Married | 
+3 | Widowed | 
+4 | Divorced or legally separated | 
+blank | No answer | 
+NATIONAL | 17/18 | QUARTERLY | | Nationality For coding, see ISO country classification | everybody | 
+YEARESID | 19/20 | YEARLY | | Years of residence in this country | everybody | 
+00 | Born in this country | 
+01-10 | Number of years for person who has been in this country for 1 to 10 years | 
+11 | Been in this country for more than 10 years | 
+blank | No answer | 
+COUNTRYB | 21/22 | QUARTERLY | | Country of birth For coding, see ISO country classification | YEARESID ≠ 00 | 
+99 | Not applicable (col.19/20 = 00) | 
+blank | No answer | 
+PROXY | 23 | QUARTERLY | | Nature of participation in the survey | everybody aged 15 years or more | 
+1 | Direct participation | 
+2 | Participation via another member of the household | 
+9 | Not applicable (child less than 15 years old) | 
+blank | No answer | 
+LABOUR STATUS 
+WSTATOR | 24 | QUARTERLY | | Labour status during the reference week | everybody aged 15 years or more | 
+1 | Did any work for pay or profit during the reference week — one hour or more (including family workers but excluding conscripts on compulsory military or community service) | 
+2 | Was not working but had a job or business from which he/she was absent during the reference week (including family workers but excluding conscripts on compulsory military or community service) | 
+3 | Was not working because on lay-off | 
+4 | Was a conscript on compulsory military or community service | 
+5 | Other (15 years or more) who neither worked nor had a job or business during the reference week | 
+9 | Not applicable (child less than 15 years old) | 
+NOWKREAS | 25/26 | QUARTERLY | | Reason for not having worked at all though having a job | WSTATOR = 2 | 
+00 | Bad weather | 
+01 | Slack work for technical or economic reasons | 
+02 | Labour dispute | 
+03 | School education or training | 
+04 | Own illness, injury or temporary disability | 
+05 | Maternity leave | 
+06 | Parental leave | 
+07 | Holidays | 
+08 | Compensation leave (within the framework of working time banking or an annualised hours contract) | 
+09 | Other reasons (e.g. personal or family responsibilities) | 
+99 | Not applicable (WSTATOR = 1, 3-5, 9) | 
+EMPLOYMENT CHARACTERISTICS OF THE MAIN JOB 
+STAPRO | 27 | QUARTERLY | | Professional status | WSTATOR = 1, 2 | 
+1 | Self-employed with employees | 
+2 | Self-employed without employees | 
+3 | Employee | 
+4 | Family worker | 
+9 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+SIGNISAL | 28 | QUARTERLY | | Continuing receipt of the wage or salary | (WSTATOR = 2 or 3) and NOWKREAS ≠ 04 and NOWKREAS ≠ 05 and STAPRO = 3 | 
+1 | Absent for up to and including 3 months | 
+2 | Absent for more than 3 months and receiving a wage, salary or social allowances corresponding to half or more of the salary | 
+3 | Absent for more than 3 months and receiving a wage, salary or social allowances corresponding to less than half of the salary | 
+4 | Don’t know | 
+9 | Not applicable (WSTATOR ≠ 2, 3 or NOWKREAS = 04 and NOWKREAS = 05 or STAPRO ≠ 3) | 
+NACE3D | 29/31 | QUARTERLY | | Economic activity of the local unit NACE Rev. 1.1 coded at 2 or if possible 3 digit level | WSTATOR = 1, 2 | 
+000 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+ISCO4D | 32/35 | QUARTERLY | | Occupation ISCO-88 (COM) coded at 3 or if possible 4 digit level | WSTATOR = 1, 2 | 
+9999 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+SUPVISOR | 36 | YEARLY | | Supervisory responsibilities | STAPRO = 3 | 
+1 | Yes | 
+2 | No | 
+9 | STAPRO ≠ 3 | 
+blank | No answer | 
+SIZEFIRM | 37/38 | YEARLY | | Number of persons working at the local unit | STAPRO = 1, 3, 4, blank | 
+01-10 | Exact number of persons, if between 1 and 10 | 
+11 | 11 to 19 persons | 
+12 | 20 to 49 persons | 
+13 | 50 persons or more | 
+14 | Do not know but less than 11 persons | 
+15 | Do not know but more than 10 persons | 
+99 | Not applicable (STAPRO = 2, 9) | 
+blank | No answer | 
+COUNTRYW | 39/40 | QUARTERLY | | Country of place of work For coding, see ISO country classification | WSTATOR = 1, 2 | 
+99 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+REGIONW | 41/42 | QUARTERLY | | Region of place of work NUTS 2 | WSTATOR = 1, 2 | 
+99 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+YSTARTWK | 43/46 | QUARTERLY | | Year in which person started working for this employer or as self-employed Enter the 4 digits of the year concerned | WSTATOR = 1, 2 | 
+9999 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+MSTARTWK | 47/48 | QUARTERLY | | Month in which person started working for this employer or as self-employed | YSTARTWK ≠ 9999, blank %amp% REFYEAR-YSTARTWK %lt%= 2 | 
+01-12 | Enter the number of the month concerned | 
+99 | Not applicable (YSTARTWK = 9999, blank or REFYEAR-YSTARTWK%gt%2) | 
+blank | No answer | 
+WAYJFOUN | 49 | YEARLY | | Involvement of the public employment office at any moment in finding the present job | STAPRO = 3 %amp% has started this job in the last 12 months | 
+0 | No | 
+1 | Yes | 
+9 | STAPRO ≠ 3 or has started this job more than 1 year ago | 
+blank | No answer | 
+FTPT | 50 | QUARTERLY | | Full-time/part-time distinction | WSTATOR = 1, 2 | 
+1 | Full-time job | 
+2 | Part-time job | 
+9 | WSTATOR ≠ 1, 2 | 
+blank | No answer | 
+FTPTREAS | 51 | YEARLY | | Reasons for the part-time work Part-time job is taken because: | FTPT = 2 | 
+1 | Person is undergoing school education or training | 
+2 | Of own illness or disability | 
+3 | Looking after children or incapacitated adults | 
+4 | Other personal or family reasons | 
+5 | Person could not find a full-time job | 
+6 | Of other reasons | 
+9 | Not applicable (FTPT ≠ 2) | 
+blank | No answer | 
+TEMP | 52 | QUARTERLY | | Permanency of the job | STAPRO = 3 | 
+1 | Person has a permanent job or work contract of unlimited duration | 
+2 | Person has temporary job/work contract of limited duration | 
+9 | Not applicable (STAPRO ≠ 3) | 
+blank | No answer | 
+TEMPREAS | 53 | YEARLY | | Reasons for having a temporary job/work contract of limited duration Person has temporary job/work contract of limited duration because: | TEMP = 2 | 
+1 | It is a contract covering a period of training (apprentices, trainees, research assistants, etc.) | 
+2 | Person could not find a permanent job | 
+3 | Person did not want a permanent job | 
+4 | It is a contract for a probationary period | 
+9 | Not applicable (TEMP ≠ 2) | 
+blank | No answer | 
+TEMPDUR | 54 | QUARTERLY | | Total duration of temporary job or work contract of limited duration | TEMP = 2 | 
+1 | Less than one month | 
+2 | 1 to 3 months | 
+3 | 4 to 6 months | 
+4 | 7 to 12 months | 
+5 | 13 to 18 months | 
+6 | 19 to 24 months | 
+7 | 25 to 36 months | 
+8 | More than 3 years | 
+9 | Not applicable (TEMP ≠ 2) | 
+blank | No answer | 
+TEMPAGCY | 55 | YEARLY | | Contract with a temporary employment agency | STAPRO = 3 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (STAPRO ≠ 3) | 
+blank | No answer | 
+ATYPICAL WORK 
+SHIFTWK | 56 | YEARLY | | Shift work | STAPRO = 3 | 
+1 | Person does shift work | 
+3 | Person never does shift work | 
+9 | Not applicable (STAPRO ≠ 3) | 
+blank | No answer | 
+EVENWK | 57 | YEARLY | | Evening work | WSTATOR = 1 or WSTATOR = 2 | 
+1 | Person usually works in the evening | 
+2 | Person sometimes works in the evening | 
+3 | Person never works in the evening | 
+9 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+NIGHTWK | 58 | YEARLY | | Night work | WSTATOR = 1 or WSTATOR = 2 | 
+1 | Person usually works at night | 
+2 | Person sometimes works at night | 
+3 | Person never works at night | 
+9 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+SATWK | 59 | YEARLY | | Saturday work | WSTATOR = 1 or WSTATOR = 2 | 
+1 | Person usually works on Saturdays | 
+2 | Person sometimes works on Saturdays | 
+3 | Person never works on Saturdays | 
+9 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+SUNWK | 60 | YEARLY | | Sunday work | WSTATOR = 1 or WSTATOR = 2 | 
+1 | Person usually works on Sundays | 
+2 | Person sometimes works on Sundays | 
+3 | Person never works on Sundays | 
+9 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+HOURS WORKED 
+HWUSUAL | 61/62 | QUARTERLY | | Number of hours per week usually worked in the main job | WSTATOR = 1, 2 | 
+00 | Usual hours cannot be given because hours worked vary considerably from week to week or from month to month | 
+01-98 | Number of hours usually worked in the main job | 
+99 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+HWACTUAL | 63/64 | QUARTERLY | | Number of hours actually worked during the reference week in the main job | WSTATOR = 1, 2 | 
+00 | Person having a job or business and not having worked at all in the main activity during the reference week (WSTATOR = 2) | 
+01-98 | Number of hours actually worked in the main job during the reference week | 
+99 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+HWOVERP | 65/66 | QUARTERLY | | Paid overtime in the reference week in the main job | STAPRO = 3 | 
+00-98 | Number of paid overtime hours | 
+99 | Not applicable (STAPRO ≠ 3) | 
+blank | No answer | 
+HWOVERPU | 67/68 | QUARTERLY | | Unpaid overtime in the reference week in the main job | STAPRO = 3 | 
+00-98 | Number of unpaid overtime hours | 
+99 | Not applicable (STAPRO ≠ 3) | 
+blank | No answer | 
+HOURREAS | 69/70 | QUARTERLY | | Main reason for hours actually worked during the reference week being different from the person’s usual hours | HWUSUAL = 00-98 %amp% HWACTUAL = 01-98 | 
+| Person has worked more than usual due to: | 
+01 | — variable hours (e.g. flexible working hours) | 
+16 | — overtime | 
+02 | — other reasons | 
+| Person has worked less than usual due to: | 
+03 | — bad weather | 
+04 | — slack work for technical or economic reasons | 
+05 | — labour dispute | 
+06 | — education or training | 
+07 | — variable hours (e.g. flexible working hours) | 
+08 | — own illness, injury or temporary disability | 
+09 | — maternity or parental leave | 
+10 | — special leave for personal or family reasons | 
+11 | — annual holidays | 
+12 | — bank holidays | 
+13 | — start of/change in job during reference week | 
+14 | — end of job without taking up a new one during reference week | 
+15 | — other reasons | 
+97 | Person having worked usual hours during the reference week (HWUSUAL = HWACTUAL = 01-98) | 
+98 | Person whose hours vary considerably from week to week or month to month and who did not state a reason for a divergence between the actual and usual hours (HWUSUAL = 00 %amp% HOURREAS#01-16) | 
+99 | Not applicable (WSTATOR = 2-5, 9 or HWUSUAL = blank or HWACTUAL = blank) | 
+blank | No answer | 
+WISHMORE | 71 | QUARTERLY | | Wish to work usually more than the current number of hours | (WSTATOR = 1 or WSTATOR = 2) | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+WAYMORE | 72 | YEARLY | | Way that a person who wants to work more hours, can | WISHMORE = 1 | 
+1 | Through an additional job | 
+2 | Through a job working more hours than the present job | 
+3 | Only within the present job | 
+4 | In any of the above ways | 
+9 | Not applicable (WISHMORE ≠ 1) | 
+blank | No answer | 
+HWWISH | 73/74 | QUARTERLY | | Number of hours that the person would like to work in total | WSTATOR = 1 or WSTATOR = 2 | 
+01-98 | Number of hours wished to work in total | 
+99 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+HOMEWK | 75 | YEARLY | | Working at home | WSTATOR = 1 or WSTATOR = 2 | 
+1 | Person usually works at home | 
+2 | Person sometimes works at home | 
+3 | Person never works at home | 
+9 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+LOOKOJ | 76 | QUARTERLY | | Looking for another job | WSTATOR = 1 or WSTATOR = 2 | 
+0 | Person is not looking for another job | 
+1 | Person is looking for another job | 
+9 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+LOOKREAS | 77 | YEARLY | | Reasons for looking for another job | LOOKOJ = 1 | 
+1 | — of risk or certainty of loss or termination of present job | 
+2 | — actual job is considered as a transitional job | 
+3 | — seeking an additional job to add more hours to those worked in present job | 
+4 | — seeking a job with more hours worked than in present job | 
+5 | — seeking a job with less hours worked than in present job | 
+6 | — of wish to have better working conditions (e.g. pay, working or travel time, quality of work) | 
+7 | — of other reasons | 
+9 | — Not applicable (LOOKOJ ≠ 1) | 
+blank | No answer | 
+SECOND JOB 
+EXIST2J | 78 | QUARTERLY | | Existence of more than one job or business | WSTATOR = 1 or WSTATOR = 2 | 
+1 | Person had only one job or business during the reference week | 
+2 | Person had more than one job or business during the reference week (not due to change of job or business) | 
+9 | Not applicable (WSTATOR = 3-5, 9) | 
+blank | No answer | 
+STAPRO2J | 79 | QUARTERLY | | Professional status (in the second job) | EXIST2J = 2 | 
+1 | Self-employed with employees | 
+2 | Self-employed without employees | 
+3 | Employee | 
+4 | Family worker | 
+9 | Not applicable (EXIST2J = 1, 9, blank) | 
+blank | No answer | 
+NACE2J2D | 80/81 | QUARTERLY | | Economic activity of the local unit (in the second job) NACE Rev. 1.1 | EXIST2J = 2 | 
+00 | Not applicable (EXIST2J = 1, 9, blank) | 
+blank | No answer | 
+HWACTUA2 | 82/83 | QUARTERLY | | Number of hours actually worked during the reference week in the second job | EXIST2J = 2 | 
+00 | Person not having worked in the second job during the reference week | 
+01-98 | Number of hours actually worked in the second job during the reference week | 
+99 | Not applicable (EXIST2J = 1, 9, blank) | 
+blank | No answer | 
+PREVIOUS WORK EXPERIENCE OF PERSON NOT IN EMPLOYMENT 
+EXISTPR | 84 | QUARTERLY | | Existence of previous employment experience | WSTATOR = 3-5 | 
+0 | Person has never been in employment (purely occasional work, such as vacation work, compulsory military or community service are not to be considered as employment) | 
+1 | Person has already been in employment (purely occasional work, such as vacation work, compulsory military or community service are not to be considered as employment) | 
+9 | Not applicable (WSTATOR = 1, 2 or 9) | 
+blank | No answer | 
+YEARPR | 85/88 | QUARTERLY | | Year in which person last worked Enter the 4 digits of the year in which person last worked | EXISTPR = 1 | 
+9999 | Not applicable (EXISTPR = 0, 9, blank) | 
+blank | No answer | 
+MONTHPR | 89/90 | QUARTERLY | | Month in which person last worked | YEARPR ≠ 9999, blank %amp% REFYEAR-YEARPR %lt%= 2 | 
+01-12 | Enter the number of the month in which person last worked | 
+99 | Not applicable (YEARPR = 9999, blank or REFYEAR-YEARPR%gt%2) | 
+blank | No answer | 
+LEAVREAS | 91/92 | YEARLY | | Main reason for leaving last job or business | EXISTPR = 1 and REFYEAR-YEARPR%lt%8 | 
+00 | Dismissed or made redundant | 
+01 | A job of limited duration has ended | 
+02 | Looking after children or incapacitated adults | 
+03 | Other personal or family responsibilities | 
+04 | Own illness or disability | 
+05 | Education or training | 
+06 | Early retirement | 
+07 | Normal retirement | 
+08 | Compulsory military or community service | 
+09 | Other reasons | 
+99 | Not applicable (EXISTPR = 0, 9, blank, or EXISTPR = 1 and did not work in last 8 years) | 
+blank | No answer | 
+STAPROPR | 93 | QUARTERLY only if having worked in the last 12 months YEARLY otherwise | | Professional status in last job | EXISTPR = 1 and REFYEAR-YEARPR%lt%8 | 
+1 | Self-employed with employees | 
+2 | Self-employed without employees | 
+3 | Employee | 
+4 | Family worker | 
+9 | Not applicable (EXISTPR = 0, 9, blank, or EXISTPR = 1 and did not work in last 8 years) | 
+blank | No answer | 
+NACEPR2D | 94/95 | QUARTERLY if having worked in the last 12 months, YEARLY otherwise | | Economic activity of the local unit in which person last worked | EXISTPR = 1 and REFYEAR-YEARPR%lt%8 | 
+| NACE Rev. 1.1 | 
+00 | Not applicable (EXISTPR = 0, 9, blank, or EXISTPR = 1 and did not work in last 8 years) | 
+blank | No answer | 
+ISCOPR3D | 96/98 | QUARTERLY if having worked in the last 12 months, YEARLY otherwise | | Occupation of last job ISCO-88 (COM) | EXISTPR = 1 and REFYEAR-YEARPR%lt%8 | 
+999 | Not applicable (EXISTPR = 0, 9, blank, or EXISTPR = 1 and did not work in last 8 years) | 
+blank | No answer | 
+SEARCH FOR EMPLOYMENT 
+SEEKWORK | 99 | QUARTERLY | | Seeking employment during previous four weeks | (WSTATOR = 3-5 or SIGNISAL = 3) and Age%lt%75 | 
+1 | Person has already found a job which will start within a period of at most 3 months | 
+2 | Person has already found a job which will start in more than 3 months and is not seeking employment | 
+3 | Person is not seeking employment and has not found any job to start later | 
+4 | Person is seeking employment | 
+9 | Not applicable (WSTATOR = 1, 2 or 9 and SIGNISAL ≠ 3) or Age equal or greater than 75 | 
+SEEKREAS | 100 | YEARLY | | Reasons for not searching an employment Person is not seeking employment because: | SEEKWORK = 3 | 
+1 | — awaiting recall to work (persons on lay-off) | 
+2 | — of own illness or disability | 
+3 | — looking after children or incapacitated adults | 
+4 | — of other personal or family responsibilities | 
+5 | — of education or training | 
+6 | — of retirement | 
+7 | — of belief that no work is available | 
+8 | — of other reasons | 
+9 | Not applicable (SEEKWORK ≠ 3) | 
+blank | No answer | 
+SEEKTYPE | 101 | QUARTERLY | | Type of employment sought (or found) | SEEKWORK = 1, 2, 4 or LOOKOJ = 1 | 
+| The employment sought (for SEEKWORK = 1, 2 the employment found) is: | 
+1 | as self-employed | 
+| as employee: | 
+2 | — and only full-time job is looked for (or has already been found) | 
+3 | — and full-time job is sought, but if not available, part-time job will be accepted | 
+4 | — and part-time job is sought, but if not available, full-time job will be accepted | 
+5 | — and only part-time job is looked for (or has already been found) | 
+6 | — and person did not state whether full-time or part-time job is looked for (or has already been found) | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 3 or LOOKOJ=0, blank) | 
+blank | No answer | 
+SEEKDUR | 102 | QUARTERLY | | Duration of search for employment | SEEKWORK = 1, 4 or LOOKOJ = 1 | 
+0 | Search not yet started | 
+1 | Less than 1 month | 
+2 | 1-2 months | 
+3 | 3-5 months | 
+4 | 6-11 months | 
+5 | 12-17 months | 
+6 | 18-23 months | 
+7 | 24-47 months | 
+8 | 4 years or longer | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 2, 3 or LOOKOJ = 0, blank) | 
+blank | No answer | 
+METHODS USED DURING PREVIOUS FOUR WEEKS TO FIND WORK 
+METHODA | 103 | QUARTERLY | | Contacted public employment office to find work | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ=0, blank) | 
+METHODB | 104 | QUARTERLY | | Contacted private employment agency to find work | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODC | 105 | QUARTERLY | | Applied to employers directly | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODD | 106 | QUARTERLY | | Asked friends, relatives, trade unions, etc. | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODE | 107 | QUARTERLY | | Inserted or answered advertisements in newspapers or journals | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODF | 108 | QUARTERLY | | Studied advertisements in newspapers or journals | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODG | 109 | QUARTERLY | | Took a test, interview or examination | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODH | 110 | QUARTERLY | | Looked for land, premises or equipment | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODI | 111 | QUARTERLY | | Looked for permits, licences, financial resources | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODJ | 112 | QUARTERLY | | Awaiting the results of an application for a job | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODK | 113 | QUARTERLY | | Waiting for a call from a public employment office | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODL | 114 | QUARTERLY | | Awaiting the results of a competition for recruitment to the public sector | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+METHODM | 115 | QUARTERLY | | Other method used | SEEKWORK = 4 or LOOKOJ = 1 | 
+0 | No | 
+1 | Yes | 
+9 | Not applicable (WSTATOR = 9 or SEEKWORK = 1-3 or LOOKOJ = 0, blank) | 
+WANTWORK | 116 | QUARTERLY | | Willingness to work for person not seeking employment Person is not seeking employment: | SEEKWORK = 3 | 
+1 | — but would nevertheless like to have work | 
+2 | — and does not want to have work | 
+9 | Not applicable (SEEKWORK ≠ 3) | 
+blank | No answer | 
+AVAILBLE | 117 | QUARTERLY | | Availability to start working within two weeks | SEEKWORK = 1, 4 or WANTWORK = 1, blank or WISHMORE = 1 or SIGNISAL = 3 | 
+| If work were found now: | 
+1 | Person could start to work immediately (within 2 weeks) | 
+2 | Person could not start to work immediately (within 2 weeks) | 
+9 | Not applicable (SEEKWORK ≠ 1 and SEEKWORK ≠ 4 and WANTWORK ≠ 1 and WANTWORK ≠ blank and WISHMORE ≠ 1 and SIGNISAL ≠ 3) | 
+AVAIREAS | 118 | YEARLY | | Reasons for not being available to start working within 2 weeks Person could not start to work immediately (within 2 weeks) because: | AVAILBLE = 2 | 
+1 | — he/she must complete education or training | 
+2 | — he/she must complete compulsory military or community service | 
+3 | — he/she cannot leave present employment within two weeks due to period of notice | 
+4 | — of personal or family responsibilities (including maternity) | 
+5 | — of own illness or incapacity | 
+6 | — of other reasons | 
+9 | Not applicable (AVAILBLE ≠ 2) | 
+blank | No answer | 
+PRESEEK | 119 | YEARLY | | Situation immediately before person started to seek employment (or was waiting for new job to start) | SEEKWORK = 1, 2, 4 | 
+1 | Person was working (including apprentices, trainees) | 
+2 | Person was in full-time education (excluding apprentices, trainees) | 
+3 | Person was conscript on compulsory military or community service | 
+4 | Person had domestic/family responsibilities | 
+5 | Other (e.g. retired) | 
+9 | Not applicable (SEEKWORK = 3, 9) | 
+blank | No answer | 
+NEEDCARE | 120 | YEARLY | | Need for care facilities Person is not searching for a job or is working part time because: | FTPTREAS = 3 or SEEKREAS = 3 | 
+1 | Suitable care services for children are not available or affordable | 
+2 | Suitable care services for ill, disabled, elderly are not available or affordable | 
+3 | Suitable care services for both children and ill, disabled and elderly are not available or affordable. | 
+4 | Care facilities do not influence decision for working part time or not searching for a job | 
+9 | Not applicable (FTPTREAS ≠ 3 and SEEKREAS ≠ 3) | 
+blank | No answer | 
+REGISTER | 121 | YEARLY | | Registration at a public employment office | everybody aged 15 to 74 years | 
+1 | Person is registered at a public employment office and receives benefit or assistance | 
+2 | Person is registered at a public employment office but does not receive benefit or assistance | 
+3 | Person is not registered at a public employment office but receives benefit or assistance | 
+4 | Person is not registered at a public employment office and does not receive benefit or assistance | 
+9 | Not applicable (person aged less than 15 years or older than 75) | 
+blank | No answer | 
+MAIN LABOUR STATUS 
+MAINSTAT (optional) | 122 | YEARLY | | Main status | everybody aged 15 years or more | 
+1 | Carries out a job or profession, including unpaid work for a family business or holding, including an apprenticeship or paid traineeship, etc. | 
+2 | Unemployed | 
+3 | Pupil, student, further training, unpaid work experience | 
+4 | In retirement or early retirement or has given up business | 
+5 | Permanently disabled | 
+6 | In compulsory military service | 
+7 | Fulfilling domestic tasks | 
+8 | Other inactive person | 
+9 | Not applicable (child less than 15 years) | 
+blank | No answer | 
+EDUCATION AND TRAINING 
+EDUCSTAT | 123 | QUARTERLY | | Student or apprentice in regular education during the last four weeks | everybody aged 15 years or more | 
+1 | Has been a student or an apprentice | 
+3 | Person in regular education but on holidays | 
+2 | Has not been a student or apprentice | 
+9 | Not applicable (child less than 15 years) | 
+blank | No answer | 
+EDUCLEVL | 124 | QUARTERLY | | Level of this education or training | EDUCSTAT = 1 or 3 | 
+1 | ISCED 1 | 
+2 | ISCED 2 | 
+3 | ISCED 3 | 
+4 | ISCED 4 | 
+5 | ISCED 5 | 
+6 | ISCED 6 | 
+9 | Not applicable (EDUCSTAT = 2, 9, blank) | 
+blank | No answer | 
+EDUCFILD (optional) | 125/127 | YEARLY | | Field of this education or training | EDUCSTAT = 1 or 3 and EDUCLEVL = 3 to 6 | 
+000 | General programmes | 
+100 | Teacher training and education science | 
+200 | Humanities, languages and arts | 
+222 | Foreign languages | 
+300 | Social sciences, business and law | 
+400 | Science, mathematics and computing | 
+420 | Life science (including biology and environmental science) | 
+440 | Physical science (including physics, chemistry and earth science) | 
+460 | Mathematics and statistics | 
+481 | Computer science | 
+482 | Computer use | 
+500 | Engineering, manufacturing and construction | 
+600 | Agriculture and veterinary | 
+700 | Health and welfare | 
+800 | Services | 
+900 | Unknown | 
+999 | Not applicable (EDUCSTAT = 2, 9, blank or EDUCLEVL ≠ (3 to 6)) | 
+blank | No answer | 
+COURATT | 128 | QUARTERLY | | Did you attend any courses, seminars, conferences or receive private lessons or instructions outside the regular education system (hereafter mentioned as taught learning activities) within the last four weeks | Everybody aged 15 years or more | 
+1 | Yes | 
+2 | No | 
+9 | Not applicable (child less than 15 years) | 
+blank | No answer | 
+COURLEN | 129/131 | QUARTERLY | | Number of hours spent on all taught learning activities within the last four weeks | COURATT = 1 | 
+3 digits | Number of hours | 
+999 | Not applicable (COURATT = 2, 9, blank) | 
+blank | No answer | 
+COURPURP (optional) | 132 | YEARLY | | Purpose of the most recent taught learning activity | COURATT = 1 | 
+1 | Mostly job related (professional) | 
+2 | Mostly personal/social | 
+9 | Not applicable (COURATT = 2, 9, blank) | 
+blank | No answer | 
+COURFILD (optional) | 133/135 | YEARLY | | Field of the most recent taught learning activity | COURATT = 1 | 
+000 | General programmes | 
+100 | Teacher training and education science | 
+200 | Humanities, languages and arts | 
+222 | Foreign languages | 
+300 | Social sciences, business and law | 
+400 | Science, mathematics and computing | 
+420 | Life science (including biology and environmental science) | 
+440 | Physical science (including physics, chemistry and earth science) | 
+460 | Mathematics and statistics | 
+481 | Computer science | 
+482 | Computer use | 
+500 | Engineering, manufacturing and construction | 
+600 | Agriculture and veterinary | 
+700 | Health and welfare | 
+800 | Services | 
+900 | Unknown | 
+999 | Not applicable (COURATT = 2, 9, blank) | 
+blank | No answer | 
+COURWORH (optional) | 136 | YEARLY | | Did the most recent taught learning activity take place during paid working hours? | COURATT = 1 | 
+1 | Only during paid working hours | 
+2 | Mostly during paid working hours | 
+3 | Mostly outside paid working hours | 
+4 | Only outside paid working hours | 
+5 | No job at that time | 
+9 | Not applicable (COURATT = 2, 9, blank) | 
+blank | No answer | 
+HATLEVEL | 137/138 | QUARTERLY | | Highest level of education or training successfully completed | Everybody aged 15 years or more | 
+00 | No formal education or below ISCED 1 | 
+11 | ISCED 1 | 
+21 | ISCED 2 | 
+22 | ISCED 3c (shorter than two years) | 
+31 | ISCED 3c (two years and more) | 
+32 | ISCED 3 a, b | 
+30 | ISCED 3 (without distinction a, b or c possible, 2 y+) | 
+41 | ISCED 4a, b | 
+42 | ISCED 4c | 
+43 | ISCED 4 (without distinction a, b or c possible) | 
+51 | ISCED 5b | 
+52 | ISCED 5a | 
+60 | ISCED 6 | 
+99 | Not applicable (child less than 15 years) | 
+blank | No answer | 
+HATFIELD | 139/141 | YEARLY | | Field of highest level of education or training successfully completed | HATLEVEL = 22 to 60 | 
+000 | General programmes | 
+100 | Teacher training and education science | 
+200 | Humanities, languages and arts | 
+222 | Foreign languages | 
+300 | Social sciences, business and law | 
+400 | Science, mathematics and computing | 
+420 | Life science (including biology and environmental science) | 
+440 | Physical science (including physics, chemistry and earth science) | 
+460 | Mathematics and statistics | 
+481 | Computer science | 
+482 | Computer use | 
+500 | Engineering, manufacturing and construction | 
+600 | Agriculture and veterinary | 
+700 | Health and welfare | 
+800 | Services | 
+900 | Unknown | 
+999 | Not applicable (HATLEVEL = 00, 11, 21, 99, blank) | 
+blank | No answer | 
+HATYEAR | 142/145 | YEARLY | | Year when highest level of education or training was successfully completed The 4 digits of year when highest level of education or training was successfully completed are entered | everybody aged 15 years or more | 
+9999 | Not applicable (child less than 15 years) | 
+blank | No answer | 
+SITUATION ONE YEAR BEFORE SURVEY 
+WSTAT1Y | 146 | YEARLY | | Situation with regard to activity one year before survey | everybody aged 15 years or more | 
+1 | Carries out a job or profession, including unpaid work for a family business or holding, including an apprenticeship or paid traineeship, etc. | 
+2 | Unemployed | 
+3 | Pupil, student, further training, unpaid work experience | 
+4 | In retirement or early retirement or has given up business | 
+5 | Permanently disabled | 
+6 | In compulsory military service | 
+7 | Fulfilling domestic tasks | 
+8 | Other inactive person | 
+9 | Not applicable (child less than 15 years) | 
+blank | No answer | 
+STAPRO1Y | 147 | YEARLY | | Professional status one year before survey | WSTAT1Y = 1 | 
+1 | Self-employed with employees | 
+2 | Self-employed without employees | 
+3 | Employee | 
+4 | Family-worker | 
+9 | Not applicable (WSTAT1Y ≠ 1) | 
+blank | No answer | 
+NACE1Y2D | 148/149 | YEARLY | | Economic activity of local unit in which person was working one year before survey NACE Rev. 1.1 | WSTAT1Y = 1 | 
+00 | Not applicable (WSTAT1Y ≠ 1) | 
+blank | No answer | 
+COUNTR1Y | 150/151 | YEARLY | | Country of residence one year before survey For coding, see ISO country classification | Everybody aged 1 year or more | 
+99 | Not applicable (child less than one year old) | 
+blank | No answer | 
+REGION1Y | 152/153 | YEARLY | | Region of residence one year before survey NUTS 2 | Everybody aged 1 year or more | 
+99 | Not applicable (person who has changed country of residence or child less than one year old) | 
+blank | No answer | 
+INCOME 
+INCMON (optional) Can be delivered with a 18 months delay | 154/161 | YEARLY | | Monthly (take home) pay from main job | STAPRO = 3 | 
+00000000-99999998 | The 8 digits of monthly (take home) pay from main job, including extra payments monthly paid (national currency) | 
+99999999 | Not applicable (STAPRO ≠ 3) | 
+blank | No answer | 
+TECHNICAL ITEMS RELATING TO THE INTERVIEW 
+REFYEAR | 162/165 | QUARTERLY | | Year of survey Last 4 digits of the year | STAPRO = 3 | 
+REFWEEK | 166/167 | QUARTERLY | | Reference week Number of the week running from Monday to Sunday | everybody | 
+INTWEEK | 168/169 | QUARTERLY | | Interview week Number of the week running from Monday to Sunday | everybody | 
+COUNTRY | 170/171 | QUARTERLY | | Country For coding, see ISO country classification | everybody | 
+REGION | 172/173 | QUARTERLY | | Region of household NUTS 2 | everybody | 
+DEGURBA | 174 | QUARTERLY | | Degree of urbanisation | everybody | 
+1 | Densely-populated area | 
+2 | Intermediate area | 
+3 | Thinly-populated area | 
+HHNUM | 175/180 | QUARTERLY | | Serial number of household Serial numbers are allocated by the national statistical institutes and remain the same for all waves. Records relating to different members of the same household carry the same serial number | everybody | 
+HHTYPE | 181 | QUARTERLY | | Type of household | everybody | 
+1 | Person living in private household (or permanently in a hotel) and surveyed in this household | 
+2 | Person living in an institution and surveyed in this institution | 
+3 | Person living in an institution but surveyed in this private household | 
+4 | Person living in another private household on the territory of the country but surveyed in this household of origin | 
+HHINST | 182 | QUARTERLY | | Type of institution | HHTYPE = 2, 3 | 
+1 | Educational institution | 
+2 | Hospital | 
+3 | Other welfare institution | 
+4 | Religious institution (not already included in 1-3) | 
+5 | Workers’ hostel, working quarters at building sites, student hostel, university accommodation, etc. | 
+6 | Military establishment | 
+7 | Other (e.g. prison) | 
+9 | Not applicable (HHTYPE = 1, 4) | 
+blank | No answer | 
+COEFFY | 183/188 | YEARLY | | Yearly weighting factor | everybody | 
+0000-9999 | Cols 183-186 contain whole numbers | 
+00-99 | Cols 187-188 contain decimal places | 
+COEFFQ | 189/194 | QUARTERLY | | Quarterly weighting factor | everybody | 
+0000-9999 | Cols 189-192 contain whole numbers | 
+00-99 | Cols 193-194 contain decimal places | 
+COEFFH | 195/200 | YEARLY | | Quarterly weighting factor of the sample for household characteristics (in the case of a sample of individuals) | everybody | 
+0000-9999 | Cols 195-198 contain whole numbers | 
+00-99 | Cols 199-200 contain decimal places | 
+INTWAVE | 201 | QUARTERLY | | Sequence number of the survey wave | everybody | 
+1-8 | Sequence number of the wave | 
+INTQUEST | 202 | QUARTERLY | | Questionnaire used | everybody | 
+1 | Only core variables | 
+2 | Whole questionnaire | 
+-------------------------------------------------- 

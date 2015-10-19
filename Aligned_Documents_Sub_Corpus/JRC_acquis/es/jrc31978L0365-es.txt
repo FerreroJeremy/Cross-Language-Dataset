@@ -1,0 +1,160 @@
+Directiva 78/365/CEE de la Comisión, de 31 de marzo de 1978, que adapta, por segunda vez, al progreso técnico la Directiva 71/318/CEE del Consejo, relativa a la aproximación de las legislaciones de los Estados Miembros sobre los contadores de volumen de gas 
+DIRECTIVA DE LA COMISIÓN 
+de 31 de marzo de 1978 
+de adaptación , por vez segunda , al progreso técnico de la Directiva 71/318/CEE del Consejo , relativa a la aproximación de las legislaciones de los Estados miembros sobre los contadores de volumen de gas 
+( 78/365/CEE ) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS , 
+Visto el Tratado constitutivo de la Comunidad Económica Europea , 
+Vista la Directiva 71/316/CEE del Consejo , de 26 de julio de 1971 , relativa a la aproximación de las legislaciones de los Estados miembros sobre las disposiciones comunes a los instrumentos de medida y a los métodos de control metrológico (1) , modificada por el Acta de adhesión y , en particular , sus artículos 17 , 18 y 19 , 
+Vista la Directiva 71/318/CEE del Consejo , de 26 de julio de 1971 , relativa a la aproximación de las legislaciones de los Estados miembros sobre los contadores de volumen de gas (2) , modificada por la Directiva 74/331/CEE de la Comisión (3) , 
+Considerando que se hace necesario modificar y completar la Directiva 71/318/CEE habida cuenta de la evolución técnica en la materia ; 
+Considerando que las disposiciones de la presente Directiva se adecúan al dictamen del Comité para la adaptación al progreso técnico de las directivas dirigidas a la eliminación de obstáculos técnicos a los intercambios comerciales en el sector de los instrumentos de medida , 
+HA ADOPTADO LA PRESENTE DIRECTIVA : 
+Artículo 1 
+Los textos correspondientes a los números I.B.3 , I.B.4.1 , I.B.8.2.3 , I.B.9 , II.6.3 , III.2 , III.4 y III.5 del Anexo de la Directiva 71/318/CEE quedan modificados con arreglo a los números correspondientes del Anexo de la presente Directiva . 
+Los números II.5.2 , II.7.2.7 y III.6.2.3 que figuran en el Anexo de la presente Directiva se añadirán al Anexo de la Directiva 71/318/CEE . 
+Artículo 2 
+1 . Los Estados miembros adoptarán las disposiciones legales reglamentarias y administrativas necesarias para cumplir la presente Directiva , de manera que dichas disposiciones surtan efecto un año después de la fecha de notificación de la presente Directiva . Los Estados miembros informarán de ello inmediatamente a la Comisión . 
+2 . Los Estados miembros comunicarán a la Comisión el texto de las disposiciones de Derecho interno que adopten en el ámbito regulado por la presente Directiva . 
+Artículo 3 
+Los destinatarios de la presente Directiva serán los Estados miembros . 
+Hecho en Bruselas , el 31 de marzo de 1978 . 
+Por la Comisión 
+Étienne DAVIGNON 
+Miembro de la Comisión 
+(1) DO n º L 202 de 6 . 9 . 1971 , p. 1 . 
+(2) DO n º L 202 de 6 . 9 . 1971 , p. 21 . 
+(3) DO n º L 189 de 12 . 7 . 1974 , p. 9 . 
+ANEXO 
+CAPÍTULO I 
+3 . Dispositivos adicionales 
+3.1 . Los contadores podrán estar provistos : 
+a ) de dispositivos de previo pago , 
+b ) de generadores de impulsos incorporados ; la salida de dichos generadores de impulsos deberá llevar indicado el valor correspondiente a un impulso , en la forma : 
+« 1 imp * ... m³ ( o dm³ ) » 
+o 
+« 1 m³ * ... imp » . 
+Estos dispositivos adicionales se considerarán como si fuesen parte del contador ; deberán por lo tanto estar acoplados al contador en el momento de la primera comprobación CEE . Su influencia sobre las propiedades metrológicas del contador no estará sujeta a exigencias especiales . 
+3.2 . Los contadores podrán estar provistos de árboles motores , es decir , de árboles de salida u otros dispositivos para accionar los dispositivos adicionales amovibles . El par de torsión que el contador deberá desarrollar para poner en movimiento los dispositivos adicionales acoplados no deberá provocar variaciones en la indicación del contador superiores a los valores señalados en los números II.5.2.1 y III.5.2.1 . 
+3.2.1 . Cuando sólo exista un árbol motor , éste deberá identificarse por la indicación de su constante en la forma « 1 tr * ... m³ ( o dm³ ) » , por la de su par de torsión máximo admisible en la forma « Mmáx = ... N.mm » y por la de su sentido de rotación . 
+3.2.2 . Cuando exista más de un árbol motor , cada uno de ellos deberá identificarse por su constante en la forma « 1 tr * ... m³ ( o dm³ ) » , y por la indicación de su sentido de rotación . 
+En el contador , y preferentemente en la placa descriptiva , figurará la fórmula siguiente : 
+k1 M1 + k2 M2 + ... + k n M n * A N.mm 
+en la que A es el valor numérico del par de torsión máximo admisible para el árbol motor que tenga la constante más elevada cuando sólo dicho árbol esté cargado . 
+dicho árbol se identificará mediante la designación M1 . 
+k i ( i = 1 , 2 , ... , n ) será el valor numérico determinado por k1 = C1/C i 
+M i ( i = 1 , 2 , ... , n ) será el par de torsión aplicado al árbol motor que lleve la designación M1 
+C i ( i = 1 , 2 , ... , n ) será la constante del árbol motor que lleve la designación M1 . 
+3.2.3 . El extremo de cada árbol motor deberá ir protegido por medio de un tapón precintado o de un empalme precintado entre el dispositivo adicional y el contador . 
+3.2.4 . El acoplamiento entre el dispositivo medidor y el mecanismo de transmisión no deberá ser interceptado ni modificado por la aplicación de un par de torsión igual al triple del par de torsión admisible definido con arreglo a los números I.B.3.2.1 y I.B.3.2.2 . 
+4 . Inscripciones 
+4.1 . Cada contador deberá llevar estampadas , bien sobre la placa del dispositivo indicador , bien sobre una placa descriptiva especial , o distribuidas entre las dos , las inscripciones siguientes : 
+a ) el signo de aprobación CEE de modelo ; 
+b ) la marca de identificación del fabricante o su razón social ; 
+c ) el número del contador y su año de fabricación ; 
+d ) una designación del contador , con la forma de la letra mayúscula G seguida de un número que se determina en los Capítulos II o III ; 
+e ) el caudal máximo mediante la fórmula : Qmáx ... m³/h ; 
+f ) el caudal mínimo mediante la fórmula : Qmín ... m³/h ( o dm³ ) ; 
+g ) la presión máxima de funcionamiento mediante la fórmula P máx ... MPa ( o kPa o Pa o bar o mbar ) ; 
+h ) para los contadores volumétricos , el valor nominal del volumen cíclico mediante la fórmula : V ... m³ ( o dm³ ) ; 
+i ) en su caso , las inscripciones señaladas en los puntos I.B.3.1 y I.B.3.2 ; dichas inscripciones , sin embargo , podrán figurar en el contador mismo o en otras placas . 
+Estas inscripciones deberán ser directamente visibles , fácilmente legibles e indelebles en condiciones normales de empleo de los contadores . 
+8.2.3 . Será conveniente prever los lugares para las marcas de comprobación o de precinto : 
+a ) en todas las placas que lleven una indicación prescrita por el presente Anexo ; 
+b ) en todas las partes del contador que no se puedan proteger de otro modo contra manejos susceptibles : 
+- de influir o modificar la indicación del dispositivo indicador del contador , 
+- de modificar o interrumpir el acoplamiento entre el dispositivo medidor y el dispositivo indicador , 
+- de ocasionar la supresión o el desplazamiento de elementos importantes desde el punto de vista metrológico . 
+9 . Aprobación CEE de modelo y de primera comprobación CEE 
+La aprobación CEE de modelo y la primera comprobación CEE de los contadores de volumen de gas se efectuarán según las prescripciones de la Directiva 71/316/CEE del Consejo , de 26 de julio de 1971 , relativa a la aproximación de las legislaciones de los Estados miembros sobre las disposiciones comunes a los instrumentos de medida y a los métodos de control metrológico . 
+9.1 . Aprobación CEE de modelo 
+9.1.1 . La solicitud de aprobación CEE de modelo de un contador deberá ir acompañada de los documentos siguientes : 
+- una nota descriptiva que especifique las características técnicas del contador y describa el principio de su funcionamiento , 
+- un dibujo en perspectiva o una fotografía , 
+- una nomenclatura de las piezas en la que se indique la naturaleza de los materiales que las componen , 
+- un plano de conjunto con la designación de las piezas constitutivas incluidas en la nomenclatura , 
+- un plano de volumen acotado , 
+- un plano que muestre los lugares de las marcas de comprobación y precinto , 
+- un plano del dispositivo indicador , con sus medios de ajuste , 
+- un plano acotado de los elementos importantes desde el punto de vista metrológico , 
+- un plano de la placa del dispositivo indicador y de la realización de las inscripciones , 
+- en su caso , un plano de los dispositivos adicionales señalados en el número I.B.3.1 , 
+- en su caso , un cuadro de las características de los árboles motores ( número I.B.3.1 ) , 
+- una lista de los documentos que se presenten , 
+- una declaración que precise que los contadores fabricados con arreglo al modelo responderán a las condiciones reglamentarias de seguridad , particularmente en lo que se refiere a la presión máxima de funcionamiento indicada en la placa descriptiva . 
+9.1.2 . El certificado de aprobación CEE de modelo constará de : 
+- el nombre y domicilio del beneficiario del certificado de aprobación CEE de modelo , 
+- la denominación de modelo y/o su designación comercial , 
+- las principales características técnicas y metrológicas , tales como el caudal mínimo y máximo , la presión máxima de funcionamiento , el diámetro nominal interior de las piezas de acoplamiento y , en el caso de contadores volumétricos , el valor del volumen cíclico , 
+- el signo de aprobación CEE de modelo , 
+- el período de validez de la aprobación CEE de modelo , 
+- para los contadores equipados con árboles motores : 
+a ) si sólo existiere un árbol motor , las características del árbol tal como se señala en el número I.B.3.2.1 , 
+b ) si existiere más de un árbol motor , las características de cada árbol y la fórmula señalada en el número I.B.3.2.2 ; 
+- la indicación , en su caso , sobre fotografía o dibujo , del lugar para el signo de aprobación CEE de modelo , las marcas de primera comprobación CEE y las marcas de precinto , 
+- el inventario de los documentos que acompañen al certificado de aprobación CEE de modelo , 
+- cualquier otra observación especial . 
+9.2 . Primera comprobación CEE 
+9.2.1 . Los contadores que se presenten a la primera comprobación CEE deberán estar en condiciones de funcionamiento . La primera comprobación CEE no garantizará ni el buen funcionamiento ni la exactitud de las indicaciones relativas a los dispositivos adicionales eventualmente acoplados , con arreglo a los números I.B.3.1 y I.B.3.2 . No se deberá estampar en estos dispositivos adicionales ninguna marca de comprobación o de precinto CEE . 
+CAPÍTULO II 
+5.2 . Disposiciones particulares 
+5.2.1 . Si se aplican a los árboles motores los pares de torsión máximos mencionados sobre el contador de acuerdo con los números I.B.3.2.1 y I.B.3.2.2 , la indicación del contador en Qmín podrá variar como máximo en un 0,5 % . 
+6.3 . Disposiciones particulares 
+6.3.1 . Para los contadores cuya presión de funcionamiento sea superior a 0,1 MPa ( 1 bar ) , se aplicarán las disposiciones del número II.6.2 relativas a la absorción mecánica de presión , sin tener en cuenta la absorción total de presión de dichos contadores prevista en el número II.6.1 . 
+6.3.2 . El acoplamiento de dispositivos adicionales no deberá provocar un aumento de la absorción mecánica de presión de los contadores superior a 20 Pa ( 0,2 mbar ) . 
+7.2.7 . En el caso de contadores provistos de uno o varios árboles motores , por lo menos tres contadores de cada designación G deberán ser comprobados con aire de masa de volumen 1,2 kg/m³ ( cf punto I.B.6.2 ) , en cuanto a su conformidad con las disposiciones del número I.B.3.2.4 y de los números II.5.2.1 y II.6.3.2 . 
+En el caso de contadores provistos de varios árboles motores , las pruebas se efectuará en el árbol que presente el valor más desfavorable . 
+Para los contadores de igual designación , se adoptará como valor del par de torsión máximo admisible el menor de los resultados obtenidos . 
+Cuando un modelo conste de contadores de designaciones diferentes , bastará con efectuar la prueba del par de torsión en los contadores de menor designación , si ese mismo par de torsión hubiere de aplicarse a los contadores de mayor designación y si el árbol motor de estos últimos se caracterizase por la misma constante o por una constante superior . 
+CAPÍTULO III 
+2 . Amplitud de cargas 
+2.1 . Los contadores deberán tener una de las amplitudes de carga que resulte del cuadro siguiente , en función de su designación G : 
+G * Q máx ( m³/h ) * Amplitud de carga * 
+* * pequeña * mediana * grande * 
+* * Q mín ( m³/h ) * 
+16 * 25 * 5 * 2,5 * 1,3 * 
+25 * 40 * 8 * 4 * 2 * 
+40 * 65 * 13 * 6 * 3 * 
+65 * 100 * 20 * 10 * 5 * 
+100 * 160 * 32 * 16 * 8 * 
+160 * 250 * 50 * 25 * 13 * 
+250 * 400 * 80 * 40 * 20 * 
+400 * 650 * 130 * 65 * 32 * 
+650 * 1 000 * 200 * 100 * 50 * 
+1 000 * 1 600 * 320 * 160 * 80 * 
+y los múltiplos decimales de las cinco últimas series . 
+4 . Elemento controlador 
+4.1 . En aplicación de las disposiciones de las letras I.B.5.2.2 a ) y b ) , el valor máximo del intervalo de graduación del elemento controlador deberá ser : 
+0,002 m³ para las designaciones comprendidas entre los valores G 16 y G 65 , ambos inclusive , 
+0,02 m³ para las designaciones comprendidas entre los valores G 100 y G 650 , ambos inclusive , 
+0,2 m³ para las designaciones comprendidas entre los valores G 1 000 y G 6 500 , ambos inclusive , 
+2,0 m³ para las designaciones G 10 000 y siguientes . 
+4.2 . La escala del elemento controlador deberá ir numerada al menos : 
+para las designaciones comprendidas entre los valores 
+G 16 y G 65 , ambos inclusive , después de cada 0,01 m³ 
+G 100 y G 650 , ambos inclusive , después de cada 0,1 m³ 
+G 1 000 y G 6 500 , ambos inclusive , después de cada 1,0 m³ 
+para las designaciones G 10 000 y siguientes , después de cada 10,0 m³ 
+5 . Errores máximos tolerados 
+5.1 . Disposiciones generales 
+5.1.1 . Los errores máximos tolerados en más o menos se especifican en el cuadro siguiente : 
+Caudales Q * Errores máximos tolerados en primera comprobación CEE * 
+Q mín %lt% Q %lt% 0,2 Q máx * 2 % * 
+0,2 Q máx %lt% Q %lt% Q máx * 1 % * 
+5.1.2 . Los errores , si fueren todos del mismo signo , no deberán sobrepasar la mitad de los errores máximos tolerados . 
+5.2 . Disposiciones particulares 
+5.2.1 . Si se aplican a los árboles motores los pares de torsión máximos mencionados sobre el contador de acuerdo con los números I.B.3.2.1 y I.B.3.2.2 , las variaciones de la indicación del contador no deberán sobrepasar , en Q mín , los valores señalados en el cuadro siguiente : 
+Q mín * Variaciones de la indicación en Q mín * 
+0,05 Q máx * 1 % * 
+0,1 Q máx * 0,5 % * 
+0,2 Q máx * 0,25 % * 
+6.2.3 . Contadores de árboles motores 
+6.2.3.1 . En el caso de contadores provistos de uno o varios árboles motores , por lo menos tres contadores de cada designación G deberán ser comprobados con aire de masa de volumen 1,2 kg/m³ ( ver punto I.B.6.2 ) , en cuanto a su conformidad con las disposiciones del número I.B.3.2.4 y el número III.5.2.1 . 
+En el caso de contadores provistos de varios árboles motores , la prueba deberá efectuarse en el árbol que presente el valor más desfavorable . 
+Para los contadores de igual designación se adoptará , como valor del par de torsión máximo admisible , el menor de los resultados obtenidos . 
+Cuando un modelo conste de contadores de designaciones diferentes , será suficiente efectuar la prueba de pares de torsión en los contadores de menor designación , si ese mismo par de fuerzas hubiere de aplicarse a los contadores de mayor designación y si el árbol motor de estos últimos se caracterizare por la misma constante o por una constante superior . 
+6.2.3.2 . En el caso de contadores que tengan varios valores para Q mín , será suficiente efectuar la prueba prevista en el número III.6.2.3.1 para el menor valor de Q mín . 
+A partir del resultado de esta prueba , se podrán calcular los pares de torsión admisibles para las demás amplitudes de carga . 
+Para la conversión en otros valores de Q mín , se aplicarán las reglas siguientes : 
+a ) a caudal constante , la variación del error será proporcional al par de torsión . 
+b ) a par de torsión constante , la variación del error , en el caso de los contadores de pistones rotativos , será inversamente proporcional al caudal , y en el caso de los contadores de turbina será inversamente proporcional al cuadrado del caudal . 

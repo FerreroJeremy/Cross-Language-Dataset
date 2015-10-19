@@ -1,0 +1,180 @@
+Directive 2004/108/EC of the European Parliament and of the Council of 15 December 2004 on the approximation of the laws of the Member States relating to electromagnetic compatibility and repealing Directive 89/336/EECText with EEA relevance 
+Directive 2004/108/EC of the European Parliament and of the Council 
+of 15 December 2004 
+on the approximation of the laws of the Member States relating to electromagnetic compatibility and repealing Directive 89/336/EEC 
+(Text with EEA relevance) 
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof, 
+Having regard to the proposal from the Commission, 
+Having regard to the opinion of the European Economic and Social Committee [1], 
+Acting in accordance with the procedure referred to in Article 251 of the Treaty [2], 
+Whereas: 
+(1) Council Directive 89/336/EEC of 3 May 1989 on the approximation of laws of the Member States relating to electromagnetic compatibility [3] has been the subject of a review under the initiative known as Simpler Legislation for the Internal Market (SLIM). Both the SLIM process and a subsequent in-depth consultation have revealed the need to complete, reinforce and clarify the framework established by Directive 89/336/EEC. 
+(2) Member States are responsible for ensuring that radiocommunications, including radio broadcast reception and the amateur radio service operating in accordance with International Telecommunication Union (ITU) radio regulations, electrical supply networks and telecommunications networks, as well as equipment connected thereto, are protected against electromagnetic disturbance. 
+(3) Provisions of national law ensuring protection against electromagnetic disturbance should be harmonised in order to guarantee the free movement of electrical and electronic apparatus without lowering justified levels of protection in the Member States. 
+(4) Protection against electromagnetic disturbance requires obligations to be imposed on the various economic operators. Those obligations should be applied in a fair and effective way in order to achieve such protection. 
+(5) The electromagnetic compatibility of equipment should be regulated with a view to ensuring the functioning of the internal market, that is to say, of an area without internal frontiers in which the free movement of goods, persons, services and capital is assured. 
+(6) The equipment covered by this Directive should include both apparatus and fixed installations. However, separate provision should be made for each. This is so because, whereas apparatus as such may move freely within the Community, fixed installations on the other hand are installed for permanent use at a predefined location, as assemblies of various types of apparatus and, where appropriate, other devices. The composition and function of such installations correspond in most cases to the particular needs of their operators. 
+(7) Radio equipment and telecommunications terminal equipment should not be covered by this Directive since they are already regulated by Directive 1999/5/EC of the European Parliament and of the Council of 9 March 1999 on radio equipment and telecommunications terminal equipment and the mutual recognition of their conformity [4]. The electromagnetic compatibility requirements in both Directives achieve the same level of protection. 
+(8) Aircraft or equipment intended to be fitted into aircraft should not be covered by this Directive, since they are already subject to special Community or international rules governing electromagnetic compatibility. 
+(9) This Directive need not regulate equipment which is inherently benign in terms of electromagnetic compatibility. 
+(10) This Directive should not deal with the safety of equipment, since that is dealt with by separate Community or national legislation. 
+(11) Where this Directive regulates apparatus, it should refer to finished apparatus commercially available for the first time on the Community market. Certain components or sub-assemblies should, under certain conditions, be considered to be apparatus if they are made available to the end-user. 
+(12) The principles on which this Directive is based are those set out in the Council Resolution of 7 May 1985 on a new approach to technical harmonization and standards [5]. In accordance with that approach, the design and manufacture of equipment is subject to essential requirements in relation to electromagnetic compatibility. Those requirements are given technical expression by harmonised European standards, to be adopted by the various European standardisation bodies, European Committee for Standardisation (CEN), European Committee for Electro-technical Standardisation (CENELEC) and European Telecommunications Standards Institute (ETSI). CEN, CENELEC and ETSI are recognised as the competent institutions in the field of this Directive for the adoption of harmonised standards, which they draw up in accordance with the general guidelines for cooperation between themselves and the Commission, and with the procedure laid down in Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services [6]. 
+(13) Harmonised standards reflect the generally acknowledged state of the art as regards electromagnetic compatibility matters in the European Union. It is thus in the interest of the functioning of the internal market to have standards for the electromagnetic compatibility of equipment which have been harmonised at Community level. Once the reference to such a standard has been published in the Official Journal of the European Union, compliance with it should raise a presumption of conformity with the relevant essential requirements, although other means of demonstrating such conformity should be permitted. Compliance with a harmonised standard means conformity with its provisions and demonstration thereof by the methods the harmonised standard describes or refers to. 
+(14) Manufacturers of equipment intended to be connected to networks should construct such equipment in a way that prevents networks from suffering unacceptable degradation of service when used under normal operating conditions. Network operators should construct their networks in such a way that manufacturers of equipment liable to be connected to networks do not suffer a disproportionate burden in order to prevent networks from suffering an unacceptable degradation of service. The European standardisation organisations should take due account of that objective (including the cumulative effects of the relevant types of electromagnetic phenomena) when developing harmonised standards. 
+(15) It should be possible to place apparatus on the market or put it into service only if the manufacturers concerned have established that such apparatus has been designed and manufactured in conformity with the requirements of this Directive. Apparatus placed on the market should bear the "CE" marking attesting to compliance with this Directive. Although conformity assessment should be the responsibility of the manufacturer, without any need to involve an independent conformity assessment body, manufacturers should be free to use the services of such a body. 
+(16) The conformity assessment obligation should require the manufacturer to perform an electromagnetic compatibility assessment of apparatus, based on relevant phenomena, in order to determine whether or not it meets the protection requirements under this Directive. 
+(17) Where apparatus is capable of taking different configurations, the electromagnetic compatibility assessment should confirm whether the apparatus meets the protection requirements in the configurations foreseeable by the manufacturer as representative of normal use in the intended applications; in such cases it should be sufficient to perform an assessment on the basis of the configuration most likely to cause maximum disturbance and the configuration most susceptible to disturbance. 
+(18) Fixed installations, including large machines and networks, may generate electromagnetic disturbance, or be affected by it. There may be an interface between fixed installations and apparatus, and the electromagnetic disturbances produced by fixed installations may affect apparatus, and vice versa. In terms of electromagnetic compatibility, it is irrelevant whether the electromagnetic disturbance is produced by apparatus or by a fixed installation. Accordingly, fixed installations and apparatus should be subject to a coherent and comprehensive regime of essential requirements. It should be possible to use harmonised standards for fixed installations in order to demonstrate conformity with the essential requirements covered by such standards. 
+(19) Due to their specific characteristics, fixed installations need not be subject to the affixation of the "CE" marking or to the declaration of conformity. 
+(20) It is not pertinent to carry out the conformity assessment of apparatus placed on the market for incorporation into a given fixed installation, and otherwise not commercially available, in isolation from the fixed installation into which it is to be incorporated. Such apparatus should therefore be exempted from the conformity assessment procedures normally applicable to apparatus. However, such apparatus should not be permitted to compromise the conformity of the fixed installation into which it is incorporated. Should apparatus be incorporated into more than one identical fixed installation, identifying the electromagnetic compatibility characteristics of these installations should be sufficient to ensure exemption from the conformity assessment procedure. 
+(21) A transitional period is necessary in order to ensure that manufacturers and other concerned parties are able to adapt to the new regulatory regime. 
+(22) Since the objective of this Directive, namely to ensure the functioning of the internal market by requiring equipment to comply with an adequate level of electromagnetic compatibility, cannot be sufficiently achieved by Member States and can therefore, by reason of its scale and effects, be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective. 
+(23) Directive 89/336/EEC should therefore be repealed, 
+HAVE ADOPTED THIS DIRECTIVE: 
+CHAPTER I 
+GENERAL PROVISIONS 
+Article 1 
+Subject matter and scope 
+1. This Directive regulates the electromagnetic compatibility of equipment. It aims to ensure the functioning of the internal market by requiring equipment to comply with an adequate level of electromagnetic compatibility. This Directive applies to equipment as defined in Article 2. 
+2. This Directive shall not apply to: 
+(a) equipment covered by Directive 1999/5/EC; 
+(b) aeronautical products, parts and appliances as referred to in Regulation (EC) No 1592/2002 of the European Parliament and of the Council of 15 July 2002 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency [7]; 
+(c) radio equipment used by radio amateurs within the meaning of the Radio Regulations adopted in the framework of the Constitution and Convention of the ITU [8], unless the equipment is available commercially. Kits of components to be assembled by radio amateurs and commercial equipment modified by and for the use of radio amateurs are not regarded as commercially available equipment. 
+3. This Directive shall not apply to equipment the inherent nature of the physical characteristics of which is such that: 
+(a) it is incapable of generating or contributing to electromagnetic emissions which exceed a level allowing radio and telecommunication equipment and other equipment to operate as intended; and 
+(b) it will operate without unacceptable degradation in the presence of the electromagnetic disturbance normally consequent upon its intended use. 
+4. Where, for the equipment referred to in paragraph 1, the essential requirements referred to in Annex I are wholly or partly laid down more specifically by other Community directives, this Directive shall not apply, or shall cease to apply, to that equipment in respect of such requirements from the date of implementation of those directives. 
+5. This Directive shall not affect the application of Community or national legislation regulating the safety of equipment. 
+Article 2 
+Definitions 
+1. For the purposes of this Directive, the following definitions shall apply: 
+(a) "equipment" means any apparatus or fixed installation; 
+(b) "apparatus" means any finished appliance or combination thereof made commercially available as a single functional unit, intended for the end user and liable to generate electromagnetic disturbance, or the performance of which is liable to be affected by such disturbance; 
+(c) "fixed installation" means a particular combination of several types of apparatus and, where applicable, other devices, which are assembled, installed and intended to be used permanently at a predefined location; 
+(d) "electromagnetic compatibility" means the ability of equipment to function satisfactorily in its electromagnetic environment without introducing intolerable electromagnetic disturbances to other equipment in that environment; 
+(e) "electromagnetic disturbance" means any electromagnetic phenomenon which may degrade the performance of equipment. An electromagnetic disturbance may be electromagnetic noise, an unwanted signal or a change in the propagation medium itself; 
+(f) "immunity" means the ability of equipment to perform as intended without degradation in the presence of an electromagnetic disturbance; 
+(g) "safety purposes" means the purposes of safeguarding human life or property; 
+(h) "electromagnetic environment" means all electromagnetic phenomena observable in a given location. 
+2. For the purposes of this Directive the following shall be deemed to be an apparatus within the meaning of paragraph 1(b): 
+(a) "components" or "sub-assemblies" intended for incorporation into an apparatus by the end user, which are liable to generate electromagnetic disturbance, or the performance of which is liable to be affected by such disturbance; 
+(b) "mobile installations" defined as a combination of apparatus and, where applicable, other devices, intended to be moved and operated in a range of locations. 
+Article 3 
+Placing on the market and/or putting into service 
+Member States shall take all appropriate measures to ensure that equipment is placed on the market and/or put into service only if it complies with the requirements of this Directive when properly installed, maintained and used for its intended purpose. 
+Article 4 
+Free movement of equipment 
+1. Member States shall not impede, for reasons relating to electromagnetic compatibility, the placing on the market and/or the putting into service in their territory of equipment which complies with this Directive. 
+2. The requirements of this Directive shall not prevent the application in any Member State of the following special measures concerning the putting into service or use of equipment: 
+(a) measures to overcome an existing or predicted electromagnetic compatibility problem at a specific site; 
+(b) measures taken for safety reasons to protect public telecommunications networks or receiving or transmitting stations when used for safety purposes in well-defined spectrum situations. 
+Without prejudice to Directive 98/34/EC, Member States shall notify those special measures to the Commission and to the other Member States. 
+The special measures which have been accepted shall be published by the Commission in the Official Journal of the European Union. 
+3. Member States shall not create any obstacles to the display and/or demonstration at trade fairs, exhibitions or similar events of equipment which does not comply with this Directive, provided that a visible sign clearly indicates that such equipment may not be placed on the market and/or put into service until it has been brought into conformity with this Directive. Demonstration may only take place provided that adequate measures are taken to avoid electromagnetic disturbances. 
+Article 5 
+Essential requirements 
+The equipment referred to in Article 1 shall meet the essential requirements set out in Annex I. 
+Article 6 
+Harmonised standards 
+1. "Harmonised standard" means a technical specification adopted by a recognised European standardisation body under a mandate from the Commission in conformity with the procedures laid down in Directive 98/34/EC for the purpose of establishing a European requirement. Compliance with a "harmonised standard" is not compulsory. 
+2. The compliance of equipment with the relevant harmonised standards whose references have been published in the Official Journal of the European Union shall raise a presumption, on the part of the Member States, of conformity with the essential requirements referred to in Annex I to which such standards relate. This presumption of conformity is limited to the scope of the harmonised standard(s) applied and the relevant essential requirements covered by such harmonised standard(s). 
+3. Where a Member State or the Commission considers that a harmonised standard does not entirely satisfy the essential requirements referred to in Annex I, it shall bring the matter before the Standing Committee set up by Directive 98/34/EC (hereinafter "the Committee"), stating its reasons. The Committee shall deliver an opinion without delay. 
+4. Upon receipt of the Committee's opinion, the Commission shall take one of the following decisions with regard to the references to the harmonised standard concerned: 
+(a) not to publish; 
+(b) to publish with restrictions; 
+(c) to maintain the reference in the Official Journal of the European Union; 
+(d) to withdraw the reference from the Official Journal of the European Union. 
+The Commission shall inform the Member States of its decision without delay. 
+CHAPTER II 
+APPARATUS 
+Article 7 
+Conformity assessment procedure for apparatus 
+Compliance of apparatus with the essential requirements referred to in Annex I shall be demonstrated by means of the procedure described in Annex II (internal production control). However, at the discretion of the manufacturer or of his authorised representative in the Community, the procedure described in Annex III may also be followed. 
+Article 8 
+"CE" marking 
+1. Apparatus whose compliance with this Directive has been established by means of the procedure laid down in Article 7 shall bear the "CE" marking which attests to that fact. The affixing of the "CE" marking shall be the responsibility of the manufacturer or his authorised representative in the Community. The "CE" marking shall be affixed in accordance with Annex V. 
+2. Member States shall take the necessary measures to prohibit the affixing to the apparatus, or to its packaging, or to the instructions for its use, of marks which are likely to mislead third parties in relation to the meaning and/or graphic form of the "CE" marking. 
+3. Any other mark may be affixed to the apparatus, its packaging, or the instructions for its use, provided that neither the visibility nor the legibility of the "CE" marking is thereby impaired. 
+4. Without prejudice to Article 10, if a competent authority establishes that the "CE" marking has been unduly affixed, the manufacturer or his authorised representative in the Community shall bring the apparatus into conformity with the provisions concerning the "CE" marking under conditions imposed by the Member State concerned. 
+Article 9 
+Other marks and information 
+1. Each apparatus shall be identified in terms of type, batch, serial number or any other information allowing for the identification of the apparatus. 
+2. Each apparatus shall be accompanied by the name and address of the manufacturer and, if he is not established within the Community, the name and address of his authorised representative or of the person in the Community responsible for placing the apparatus on the Community market. 
+3. The manufacturer shall provide information on any specific precautions that must be taken when the apparatus is assembled, installed, maintained or used, in order to ensure that, when put into service, the apparatus is in conformity with the protection requirements set out in Annex I, point 1. 
+4. Apparatus for which compliance with the protection requirements is not ensured in residential areas shall be accompanied by a clear indication of this restriction of use, where appropriate also on the packaging. 
+5. The information required to enable apparatus to be used in accordance with the intended purpose of the apparatus shall be contained in the instructions accompanying the apparatus. 
+Article 10 
+Safeguards 
+1. Where a Member State ascertains that apparatus bearing the "CE" marking does not comply with the requirements of this Directive, it shall take all appropriate measures to withdraw the apparatus from the market, to prohibit its placing on the market or its putting into service, or to restrict the free movement thereof. 
+2. The Member State concerned shall immediately inform the Commission and the other Member States of any such measure, indicating the reasons and specifying, in particular, whether non-compliance is due to: 
+(a) failure to satisfy the essential requirements referred to in Annex I, where the apparatus does not comply with the harmonised standards referred to in Article 6; 
+(b) incorrect application of the harmonised standards referred to in Article 6; 
+(c) shortcomings in the harmonised standards referred to in Article 6. 
+3. The Commission shall consult the parties concerned as soon as possible, following which it shall inform the Member States whether or not it finds the measure to be justified. 
+4. Where the measure referred to in paragraph 1 is attributed to a shortcoming in harmonised standards, the Commission, after consulting the parties, shall, if the Member State concerned intends to uphold the measure, bring the matter before the Committee and initiate the procedure laid down in Article 6(3) and (4). 
+5. Where the non-compliant apparatus has been subject to the conformity assessment procedure referred to in Annex III, the Member State concerned shall take appropriate action in respect of the author of the statement referred to in Annex III, point 3, and shall inform the Commission and the other Member States accordingly. 
+Article 11 
+Decisions to withdraw, prohibit or restrict the free movement of apparatus 
+1. Any decision taken pursuant to this Directive to withdraw apparatus from the market, prohibit or restrict its placing on the market or its putting into service, or restrict the free movement thereof, shall state the exact grounds on which it is based. Such decisions shall be notified without delay to the party concerned, who shall at the same time be informed of the remedies available to him under the national law in force in the Member State in question and of the time limits to which such remedies are subject. 
+2. In the event of a decision as referred to in paragraph 1, the manufacturer, his authorised representative, or any other interested party shall have the opportunity to put forward his point of view in advance, unless such consultation is not possible because of the urgency of the measure to be taken as justified in particular with respect to public interest requirements. 
+Article 12 
+Notified bodies 
+1. Member States shall notify the Commission of the bodies which they have designated to carry out the tasks referred to in Annex III. When determining the bodies to be designated, Member States shall apply the criteria laid down in Annex VI. 
+Such notification shall state whether the bodies are designated to carry out the tasks referred to in Annex III for all apparatus covered by this Directive, and/or the essential requirements referred to in Annex I or whether the scope of designation is limited to certain specific aspects and/or categories of apparatus. 
+2. Bodies which comply with the assessment criteria established by the relevant harmonised standards shall be presumed to comply with the criteria set out in Annex VI covered by such harmonised standards. The Commission shall publish in the Official Journal of the European Union the references of those standards. 
+3. The Commission shall publish in the Official Journal of the European Union a list of notified bodies. The Commission shall ensure that the list is kept up to date. 
+4. If a Member State finds that a notified body no longer meets the criteria listed in Annex VI, it shall inform the Commission and the other Member States accordingly. The Commission shall withdraw the reference to that body from the list referred to in paragraph 3. 
+CHAPTER III 
+FIXED INSTALLATIONS 
+Article 13 
+Fixed installations 
+1. Apparatus which has been placed on the market and which may be incorporated into a fixed installation is subject to all relevant provisions for apparatus set out in this Directive. 
+However, the provisions of Articles 5, 7, 8 and 9 shall not be compulsory in the case of apparatus which is intended for incorporation into a given fixed installation and is otherwise not commercially available. In such cases, the accompanying documentation shall identify the fixed installation and its electromagnetic compatibility characteristics and shall indicate the precautions to be taken for the incorporation of the apparatus into the fixed installation in order not to compromise the conformity of that installation. It shall furthermore include the information referred to in Article 9(1) and (2). 
+2. Where there are indications of non-compliance of the fixed installation, in particular, where there are complaints about disturbances being generated by the installation, the competent authorities of the Member State concerned may request evidence of compliance of the fixed installation, and, when appropriate, initiate an assessment. 
+Where non-compliance is established, the competent authorities may impose appropriate measures to bring the fixed installation into compliance with the protection requirements set out in Annex I, point 1. 
+3. Member States shall set out the necessary provisions for identifying the person or persons responsible for the establishment of compliance of a fixed installation with the relevant essential requirements. 
+CHAPTER IV 
+FINAL PROVISIONS 
+Article 14 
+Repeal 
+Directive 89/336/EEC is hereby repealed as from 20 July 2007. 
+References to Directive 89/336/EEC shall be construed as references to this Directive and should be read in accordance with the correlation table set out in Annex VII. 
+Article 15 
+Transitional provisions 
+Member States shall not impede the placing on the market and/or the putting into service of equipment which is in compliance with the provisions of Directive 89/336/EEC and which was placed on the market before 20 July 2009. 
+Article 16 
+Transposition 
+1. Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive by 20 January 2007. They shall forthwith inform the Commission thereof. They shall apply those provisions as from 20 July 2007. When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States. 
+2. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field covered by this Directive. 
+Article 17 
+Entry into force 
+This Directive shall enter into force on the twentieth day after its publication in the Official Journal of the European Union. 
+Article 18 
+Addressees 
+This Directive is addressed to the Member States. 
+Done at Strasbourg, 15 December 2004. 
+For the European Parliament 
+The President 
+J. Borrell Fontelles 
+For the Council 
+The President 
+A. Nicola誰 
+-------------------------------------------------- 
+[1] OJ C 220, 16.9.2003, p. 13. 
+[2] Opinion of the European Parliament of 9 March 2004 (not yet published in the Official Journal) and Council Decision of 29 November 2004. 
+[3] OJ L 139, 23.5.1989, p. 19. Directive as last amended by Directive 93/68/EEC (OJ L 220, 30.8.1993, p. 1). 
+[4] OJ L 91, 7.4.1999, p. 10. Directive as amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1). 
+[5] OJ C 136, 4.6.1985, p. 1. 
+[6] OJ L 204, 21.7.1998, p. 37. Directive as last amended by the 2003 Act of Accession. 
+[7] OJ L 240, 7.9.2002, p. 1. Regulation as amended by Commission Regulation (EC) No 1701/2003 (OJ L 243, 27.9.2003, p. 5). 
+[8] Constitution and Convention of the International Telecommunication Union adopted by the Additional Plenipotentiary Conference (Geneva, 1992) as amended by the Plenipotentiary Conference (Kyoto, 1994). 
+-------------------------------------------------- 
++++++ ANNEX 1 +++++&lt;/br&gt; 
++++++ ANNEX 2 +++++&lt;/br&gt; 
++++++ ANNEX 3 +++++&lt;/br&gt; 
++++++ ANNEX 4 +++++&lt;/br&gt; 
++++++ ANNEX 5 +++++&lt;/br&gt; 
++++++ ANNEX 6 +++++&lt;/br&gt; 
++++++ ANNEX 7 +++++&lt;/br&gt; 

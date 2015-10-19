@@ -1,0 +1,120 @@
+PROTOCOLE 
+établi conformément à l'article 34 du traité sur l'Union européenne, modifiant, en ce qui concerne la création d'un fichier d'identification des dossiers d'enquêtes douanières, la convention sur l'emploi de l'informatique dans le domaine des douanes 
+LES HAUTES PARTIES CONTRACTANTES au présent protocole, États membres de l'Union européenne, 
+SE RÉFÉRANT à l'acte du Conseil de l'Union européenne du 8 mai 2003, 
+CONSIDÉRANT que la coopération douanière dans l'Union européenne est un élément important de l'espace de liberté, de sécurité et de justice, 
+CONSIDÉRANT que l'échange d'informations entre les services douaniers des différents États membres est primordial pour une telle coopération, 
+DONNANT SUITE aux conclusions du Conseil européen réuni à Tampere les 15 et 16 octobre 1999, selon lesquelles 
+- la coopération entre les autorités des États membres, lors d'enquêtes sur des activités criminelles transfrontières dans un État membre, doit être la plus fructueuse possible (point 43 des conclusions), 
+- il faut parvenir à mettre en place de manière équilibrée à l'échelle de l'Union des mesures de lutte contre la criminalité tout en protégeant la liberté des particuliers et des opérateurs économiques et les droits que leur reconnaît la loi (point 40 des conclusions), 
+- les formes graves de criminalité économique comportent de plus en plus d'aspects liés aux taxes et aux droits d'accise (point 49 des conclusions), 
+RAPPELANT que, dans sa résolution du 30 mai 2001 concernant une stratégie pour l'union douanière(1), le Conseil: 
+- est convenu qu'un objectif important doit être d'améliorer la coopération pour lutter efficacement contre la fraude et d'autres actes menaçant la sécurité des personnes et des biens, 
+- a souligné que les autorités douanières contribuent de manière non négligeable à la lutte contre la criminalité transfrontière grâce à la prévention et à la détection des activités criminelles et également, dans le cadre des compétences de leurs services au niveau national, en procédant à des enquêtes et des poursuites concernant ces activités dans les domaines de la fraude fiscale, du blanchiment d'argent et du trafic de drogues et autres marchandises illicites, 
+- a souligné que, vu la variété des tâches qui leur sont confiées, les autorités douanières doivent travailler à la fois dans un cadre communautaire et dans le cadre de la coopération douanière prévue par le titre VI du traité sur l'Union européenne, 
+CONSIDÉRANT que le système d'information des douanes créé en vertu de la convention sur l'emploi de l'informatique dans le domaine des douanes(2) autorise l'introduction de données à caractère personnel aux seules fins d'observation et de compte rendu, de surveillance discrète ou de contrôles spécifiques (article 5 de la convention) et que toute autre fin requiert la mise en place d'une nouvelle base juridique, 
+SENSIBLES AU FAIT qu'il n'existe, à l'heure actuelle, aucune possibilité d'échanger, entre l'ensemble des autorités compétentes, par voie électronique et de manière systématique, des informations relatives à l'existence de dossiers d'enquête concernant des enquêtes en cours ou terminées et, partant, d'assurer une coordination adéquate des enquêtes menées par ces autorités, et que le système d'information des douanes doit être utilisé à cette fin, 
+EU EGARD AU FAIT que les résultats d'une évaluation des bases de données de l'UE relevant du troisième pilier pourraient faire ressortir la nécessité d'une complémentarité entre ces systèmes, 
+CONSIDÉRANT que, en matière de conservation, de traitement et d'utilisation de données à caractère personnel dans le domaine douanier, il convient de tenir dûment compte des principes énoncés par la convention du Conseil de l'Europe du 28 janvier 1981 pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel, ainsi que du point 5.5 de la recommandation R (87) 15 du Comité des ministres du Conseil de l'Europe, du 17 septembre 1987, visant à réglementer l'utilisation de données à caractère personnel dans le secteur de la police, 
+CONSTATANT que, conformément au point 48 du plan d'action du Conseil et de la Commission du 3 décembre 1998 concernant les modalités optimales de mise en oeuvre des dispositions du traité d'Amsterdam relatives à l'établissement d'un espace de liberté, de sécurité et de justice(3), il y a lieu de s'attacher à déterminer si, et selon quelles modalités, l'Office européen de police (Europol) peut avoir accès au système d'information des douanes, 
+SONT CONVENUES DES DISPOSITIONS QUI SUIVENT: 
+Article premier 
+La convention sur l'emploi de l'informatique dans le domaine des douanes(4) est modifiée comme suit: 
+1) Après le titre V, les trois titres suivants sont insérés: 
+"TITRE V A 
+ÉTABLISSEMENT D'UN FICHIER D'IDENTIFICATION DES DOSSIERS D'ENQUÊTES DOUANIÈRES 
+Article 12 A 
+1. Le système d'information des douanes comprend, en plus des données visées à l'article 3, les données relevant du présent titre, dans une base de données spéciale, ci-après dénommée 'le fichier d'identification des dossiers d'enquêtes douanières'. Sans préjudice des dispositions du présent titre et des titres V B et V C, toutes les dispositions de la présente convention s'appliquent également au fichier d'identification des dossiers d'enquêtes douanières. 
+2. L'objectif du fichier d'identification des dossiers d'enquêtes douanières est de permettre aux autorités compétentes d'un État membre en matière d'enquêtes douanières, désignées conformément à l'article 7, qui ouvrent un dossier d'enquête ou qui enquêtent sur une ou plusieurs personnes ou entreprises d'identifier les autorités compétentes des autres États membres qui enquêtent ou ont enquêté sur ces personnes ou entreprises, afin d'atteindre, par le biais d'informations sur l'existence de dossiers d'enquêtes, les objectifs visés à l'article 2, paragraphe 2. 
+3. Aux fins du fichier d'identification des dossiers d'enquêtes douanières, chaque État membre transmet aux autres États membres ainsi qu'au comité visé à l'article 16 une liste des infractions graves à ses lois nationales. 
+Cette liste ne comprend que les violations qui sont punies. 
+- d'une peine privative de liberté ou d'une mesure de sûreté privative de liberté d'au moins douze mois, ou 
+- d'une amende d'au moins 15000 euros. 
+4. Si l'État membre effectuant une recherche dans le fichier d'identification des dossiers d'enquêtes douanières a besoin de plus amples renseignements sur les dossiers d'enquêtes enregistrés concernant une personne ou une entreprise, il demande l'assistance de l'État membre fournisseur, sur la base des instruments en vigueur relatifs à l'assistance mutuelle. 
+TITRE V B 
+FONCTIONNEMENT ET UTILISATION DU FICHIER D'IDENTIFICATION DES DOSSIERS D'ENQUÊTES DOUANIÈRES 
+Article 12 B 
+1. Les autorités compétentes introduisent dans le fichier d'identification des dossiers d'enquêtes douanières des données provenant des dossiers d'enquêtes aux fins définies à l'article 12 A, paragraphe 2. Ces données se limitent aux catégories suivantes: 
+i) une personne ou une entreprise qui fait l'objet ou a fait l'objet d'un dossier d'enquête mené par une autorité compétente d'un État membre, et 
+- qui, conformément au droit national de l'État membre concerné, est soupçonnée de commettre, d'avoir commis, de participer ou d'avoir participé à la commission d'une infraction grave aux lois nationales, ou 
+- qui a fait l'objet d'une constatation établissant l'une de ces infractions, ou 
+- qui a fait l'objet d'une sanction administrative ou judiciaire pour une de ces infractions; 
+ii) le domaine concerné par le dossier d'enquête; 
+iii) le nom, la nationalité et les coordonnées de l'autorité de l'État membre traitant ainsi que le numéro de dossier. 
+Les données visées aux points i), ii) et iii) sont introduites dans un registre de données séparément pour chaque personne ou entreprise. La création de liens entre les registres de données n'est pas autorisée. 
+2. Les données à caractère personnel visées au paragraphe 1, point i), se limitent aux suivantes: 
+i) pour les personnes: les nom, nom de jeune fille, prénoms et noms d'emprunt, les date et lieu de naissance, la nationalité et le sexe; 
+ii) pour les entreprises: la raison sociale, le nom utilisé par l'entreprise dans le cadre de son activité, le siège de l'entreprise et l'identifiant TVA. 
+3. Les données sont introduites pour une durée limitée, conformément à l'article 12 E. 
+Article 12 C 
+Un État membre n'est pas tenu, dans un cas concret, d'introduire les données visées à l'article 12 B si et aussi longtemps que cet enregistrement porte préjudice à l'ordre public ou à d'autres intérêts essentiels, notamment en matière de protection des données, de l'État membre concerné. 
+Article 12 D 
+1. L'introduction de données dans le fichier d'identification des dossiers d'enquêtes douanières et leur consultation sont réservées exclusivement aux autorités visées à l'article 12 A, paragraphe 2. 
+2. Toute interrogation du fichier d'identification des dossiers d'enquêtes douanières contient nécessairement les données à caractère personnel suivantes: 
+i) pour les personnes: le prénom et/ou le nom et/ou le nom de jeune fille et/ou le nom d'emprunt et/ou la date de naissance; 
+ii) pour les entreprises: la raison sociale et/ou le nom utilisé par l'entreprise dans le cadre de son activité et/ou l'identifiant TVA. 
+TITRE V C 
+CONSERVATION DES DONNÉES DU FICHIER D'IDENTIFICATION DES DOSSIERS D'ENQUÊTES DOUANIÈRES 
+Article 12 E 
+1. Les délais de conservation des données sont définis conformément aux lois, réglementations et procédures de l'État membre qui les introduit. Toutefois, les délais ci-après, qui courent à compter de la date d'introduction des données dans le dossier, ne sauraient en aucun cas être dépassés: 
+i) les données relatives à des dossiers d'enquêtes en cours ne sont pas conservées au-delà d'un délai de trois ans sans qu'aucune infraction n'ait été constatée; les données sont effacées au préalable s'il s'est écoulé un an depuis la dernière enquête; 
+ii) les données relatives aux dossiers d'enquêtes ayant donné lieu à la constatation d'une infraction, qui n'ont pas encore abouti à un jugement de condamnation ou au prononcé d'une amende, ne sont pas conservées au-delà d'un délai de six ans; 
+iii) les données relatives à des dossiers d'enquêtes ayant abouti à un jugement de condamnation ou à une amende ne sont pas conservées au-delà d'un délai de dix ans. 
+2. À toutes les étapes d'une enquête telles que visées au paragraphe 1, points i), ii) et iii), dès qu'aux termes des lois et réglementations de l'État membre fournisseur une personne ou une entreprise relevant de l'article 12 B est mise hors de cause, toutes les données relatives à cette personne ou entreprise sont immédiatement effacées. 
+3. Les données sont automatiquement effacées du fichier d'identification des dossiers d'enquêtes douanières dès que le délai de conservation maximum au sens du paragraphe 1 est dépassé." 
+2) À l'article 20 de la convention, les termes "visés à l'article 12, paragraphes 1 et 2" sont remplacés par "visés à l'article 12, paragraphes 1 et 2, et à l'article 12 E". 
+Article 2 
+1. Le présent protocole est soumis à l'adoption par les États membres conformément à leurs règles constitutionnelles respectives. 
+2. Les États membres notifient au dépositaire l'accomplissement des procédures requises par leurs règles constitutionnelles respectives pour l'adoption du présent protocole. 
+3. Le présent protocole entre en vigueur dans les huit États membres concernés quatre-vingt-dix jours après la notification visée au paragraphe 2, faite par l'État, membre de l'Union européenne au moment de l'adoption par le Conseil de l'acte établissant le présent protocole, qui procède le huitième à cette formalité. Toutefois, si la convention n'est pas entrée en vigueur à cette date, le présent protocole entre en vigueur, pour les huit États membres concernés, à la date d'entrée en vigueur de la convention. 
+4. Toute notification faite par un État membre postérieurement à la réception de la huitième notification visée au paragraphe 2 a pour effet que, quatre-vingt-dix jours après cette notification postérieure, le présent protocole entre en vigueur entre cet État membre et les États membres pour lesquels il est déjà entré en vigueur. 
+5. Les États membres n'introduisent dans le fichier d'identification des dossiers d'enquêtes douanières que les données saisies lors d'une enquête après l'entrée en vigueur du présent protocole. 
+Article 3 
+1. Le présent protocole est ouvert à l'adhésion de tout État qui devient membre de l'Union européenne et qui adhère à la convention. 
+2. Le texte du présent protocole dans la langue de l'État adhérent, établi par le Conseil de l'Union européenne, fait foi. 
+3. Les instruments d'adhésion sont déposés auprès du dépositaire. 
+4. Le présent protocole entre en vigueur à l'égard de tout État membre qui y adhère quatre-vingt-dix jours après la date du dépôt de son instrument d'adhésion ou à la date de l'entrée en vigueur du présent protocole, si celui-ci n'est pas encore entré en vigueur au moment de l'expiration de ladite période de quatre-vingt-dix jours et à condition que la convention soit en vigueur pour celui-ci. 
+Article 4 
+Tout État qui devient membre de l'Union européenne et adhère à la convention conformément à son article 25, après l'entrée en vigueur du présent protocole, est réputé y adhérer telle qu'elle est modifiée par le présent protocole. 
+Article 5 
+Le secrétaire général du Conseil de l'Union européenne est dépositaire du présent protocole. 
+Le dépositaire publie au Journal officiel de l'Union européenne une information concernant l'avancement des adoptions et adhésions, les déclarations et les autres notifications relatives au présent protocole. 
+Fait à Bruxelles, le huit mai deux mille trois, en un exemplaire unique, en langues allemande, anglaise, danoise, espagnole, finnoise, française, grecque, irlandaise, italienne, néerlandaise, portugaise et suédoise, tous ces textes faisant également foi, exemplaire qui est déposé dans les archives du secrétariat général du Conseil de l'Union européenne. 
+Pour le Royaume de Belgique 
+Voor het Koninkrijk België 
+Für das Königreich Belgien 
+&gt;PIC FILE= "C_2003139FR.000601.TIF"&gt; 
+På Kongeriget Danmarks vegne 
+&gt;PIC FILE= "C_2003139FR.000602.TIF"&gt; 
+Für die Bundesrepublik Deutschland 
+&gt;PIC FILE= "C_2003139FR.000603.TIF"&gt; 
+Για την Ελληνική Δημοκρατία 
+&gt;PIC FILE= "C_2003139FR.000604.TIF"&gt; 
+Por el Reino de España 
+&gt;PIC FILE= "C_2003139FR.000605.TIF"&gt; 
+Pour la République française 
+&gt;PIC FILE= "C_2003139FR.000701.TIF"&gt; 
+Thar cheann Na hÉireann 
+For Ireland 
+&gt;PIC FILE= "C_2003139FR.000702.TIF"&gt; 
+Per la Repubblica italiana 
+&gt;PIC FILE= "C_2003139FR.000703.TIF"&gt; 
+Pour le Grand-Duché de Luxembourg 
+&gt;PIC FILE= "C_2003139FR.000704.TIF"&gt; 
+Voor het Koninkrijk der Nederlanden 
+&gt;PIC FILE= "C_2003139FR.000705.TIF"&gt; 
+Für die Republik Österreich 
+&gt;PIC FILE= "C_2003139FR.000801.TIF"&gt; 
+Pela República Portuguesa 
+&gt;PIC FILE= "C_2003139FR.000802.TIF"&gt; 
+Suomen tasavallan puolesta 
+För Republiken Finland 
+&gt;PIC FILE= "C_2003139FR.000803.TIF"&gt; 
+För Konungariket Sverige 
+&gt;PIC FILE= "C_2003139FR.000804.TIF"&gt; 
+For the United Kingdom of Great Britain and Northern Ireland 
+&gt;PIC FILE= "C_2003139FR.000805.TIF"&gt; 
+(1) JO C 171 du 15.6.2001, p. 1. 
+(2) JO C 316 du 27.11.1995, p. 34. 
+(3) JO C 19 du 23.1.1999, p. 1. 
+(4) JO C 316 du 27.11.1995, p. 34. 

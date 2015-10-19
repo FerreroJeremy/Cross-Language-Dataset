@@ -1,0 +1,106 @@
+Commission Regulation (EC) No%nbsp%601/2006 of 18 April 2006 implementing Regulation (EC) No%nbsp%184/2005 of the European Parliament and of the Council as regards the format and the procedure for the transmission of data 
+Commission Regulation (EC) No 601/2006 
+of 18 April 2006 
+implementing Regulation (EC) No 184/2005 of the European Parliament and of the Council as regards the format and the procedure for the transmission of data 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Regulation (EC) No 184/2005 of the European Parliament and of the Council of 12 January 2005 on Community statistics concerning balance of payments, international trade in services and foreign direct investment [1], and in particular Article 7 thereof, 
+Whereas: 
+(1) Regulation (EC) No 184/2005 establishes a common framework for the systematic production of Community statistics concerning balance of payments, international trade in services and foreign direct investment. 
+(2) It is necessary to specify the format and the procedure for the transmission of the required data in order to produce comparable and harmonised data between Member States, to reduce the risk of errors in the transmission of data and to increase the speed with which the data collected can be processed and made available to users. Implementing rules should therefore be laid down to supplement the instructions contained in the Eurostat Balance of Payments Vademecum, as revised yearly. 
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Balance of Payments Committee set up by Regulation (EC) No 184/2005, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Data transmission 
+Member States shall transmit to the Commission (Eurostat) data in electronic form, through the Single Entry Point for data, maintained by the Commission (Eurostat). 
+The Commission (Eurostat) shall make available detailed documentation in relation to this Single Entry Point and shall supply guidelines on how to implement data transmission approaches compatible with it. 
+Article 2 
+Data format 
+Member States shall use the data format "Gesmes", in conformity with the interchange standards specified by the Commission (Eurostat). The Commission (Eurostat) shall make available detailed documentation in relation to these standards and shall supply guidelines on how to implement these standards in accordance with the requirements of this Regulation. 
+No proprietary data format shall be used. 
+Article 3 
+Technical specifications of data format 
+The technical specifications of the data structure shall be as given in the Annex to this Regulation. 
+Article 4 
+Entry into force 
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 18 April 2006. 
+For the Commission 
+JoaquĂ­n Almunia 
+Member of the Commission 
+[1] OJ L 35, 8.2.2005, p. 23. 
+-------------------------------------------------- 
+ANNEX 
+Technical specifications of the data structure 
+INTRODUCTION 
+Standardisation of data record structures is fundamental for efficient data processing. It is a necessary stage for providing data conforming to the interchange standards specified by the Commission (Eurostat). Gesmes format is the exclusive means of transmitting data on balance of payments statistics from Member States to the Commission (Eurostat). 
+DATA SETS 
+The following five data sets will be used for balance of payments reporting: 
+Data set identifier | Description | 
+BOP_EUR_Q | Euro indicators | 
+BOP_FDI_A | Foreign direct investments | 
+BOP_ITS_A | International trade in services | 
+BOP_POS_A | Foreign direct investment positions | 
+BOP_Q_Q | Quarterly statistics | 
+DATA STRUCTURE, CODE LISTS AND ATTRIBUTES 
+This section gives an overview of the data structure, code lists and attributes to be used. The available values of the attributes are to be found in the most recent version of the Eurostat Balance of Payments Vademecum. 
+(1) Frequency 
+(a) Definition: the frequency of the series 
+(b) Name of the code list: CL_FREQ 
+(c) Format: AN1 
+(2) Reference area or reporter 
+(a) Definition: the country or geographical/political group of countries related to measured economic phenomenon. This entity is also called "reporter" 
+(b) Name of the code list: CL_AREA_EE 
+(c) Format: AN2 
+(d) Abbreviations used for type: COU country, ECO economic zone, GEO geographical zone, ORG international organisation 
+(3) Adjustment indicator 
+(a) Definition: indicates whether a seasonal adjustment and/or working day adjustment has been applied or not 
+(b) Name of the code list: CL_ADJUSTMENT 
+(c) Format: AN1 
+(4) Data type 
+(a) Definition: describes the data type, e.g. stock, flow, for balance of payments statistics. 
+(b) Name of the code list: CL_DATA_TYPE_BOP 
+(c) Format: AN1 
+(5) BOP coded item 
+(a) Definition: coded item from breakdown of the BOP 
+(b) Name of the code list: CL_BOP_ITEM 
+(c) Format: AN8 
+(d) Abbreviations used for type: STD standard component, MEM memorandum item, SUP supplementary information, XOE Eurostat/OECD or Eurostat item, ECB item, IIP International Investment Position 
+(6) Currency breakdown 
+(a) Definition: it refers to currency breakdown for transactions and positions 
+(b) Name of the code list: CL_CURR_BRKDWN 
+(c) Format: AN1 
+(7) Counterpart area 
+(a) Definition: the country or geographical/economical group of countries within which the reference area or reporter (ref_area) had the transaction 
+(b) Name of the code list: CL_AREA_EE 
+(c) Format: AN2 
+(8) Denomination of series 
+(a) Definition: currency of denomination (common currency e.g. Euro or ECU or USD or national currency, etc.) or special drawing rights 
+(b) Name of the code list: CL_SERIES_DENOM 
+(c) Format: AN1 
+(9) Resident economic activity 
+(a) Definition: resident economic activity 
+(b) Name of the code list: CL_BOP_EC_ACTIV_R1 
+(c) Format: N4 
+(10) Non-resident economic activity 
+(a) Definition: non-resident economic activity 
+(b) Name of the code list: CL_BOP_EC_ACTIV_R1 
+(c) Format: N4 
+(11) Observation status (mandatory) 
+(a) Definition: information on quality of value or an unusual or missing value 
+(b) Name of the code list: CL_OBS_STATUS 
+(c) Format: AN1 
+(12) Observation confidentiality (conditional) 
+(a) Definition: information about whether the observation can be made public outside the receiving institution or not 
+(b) Name of the code list: CL_OBS_CONF 
+(c) Format: AN1 
+(13) Sender organisation 
+(a) Definition: entity that sends the data 
+(b) Name of the code list: CL_ORGANISATION 
+(c) Format: AN3 
+(14) Recipient 
+(a) Definition: entity that receives the data 
+(b) Name of the code list: CL_ORGANISATION 
+(c) Format: AN3 
+-------------------------------------------------- 

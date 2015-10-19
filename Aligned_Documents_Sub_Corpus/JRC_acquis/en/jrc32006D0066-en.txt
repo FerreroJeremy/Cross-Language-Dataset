@@ -1,0 +1,896 @@
+2006/66/EC: Commission Decision of 23 December 2005 concerning the technical specification for interoperability relating to the subsystem rolling stock %mdash% noise of the trans-European conventional rail system ( notified under document number C(2005) 5666 ) (Text with EEA relevance) 
+Commission Decision 
+of 23 December 2005 
+concerning the technical specification for interoperability relating to the subsystem "rolling stock — noise" of the trans-European conventional rail system 
+(notified under document number C(2005) 5666) 
+(Text with EEA relevance) 
+(2006/66/EC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Directive 2001/16/EC of the European Parliament and of the Council of 19 March 2001 on the interoperability of the conventional rail system [1], and in particular Article 6(1) thereof, 
+Whereas: 
+(1) In accordance with Article 2(c) of Directive 2001/16/EC, the trans-European conventional rail system is subdivided into structural and functional subsystems. 
+(2) In accordance with Article 23(1) of the Directive, the subsystem "noise" needs to be covered by a technical specification for interoperability (TSI). 
+(3) The first step in establishing a TSI is to have a draft TSI drawn up by the European Association for Railway Interoperability (AEIF) which was appointed as the joint representative body. 
+(4) The AEIF has been given a mandate to draw up a draft TSI for the subsystem "noise" in accordance with Article 6(1) of the Directive. The basic parameters for this draft TSI were adopted by Commission Decision 2004/446/EC of 29 April 2004 specifying the basic parameters of the noise, freight wagons and telematics applications for freight technical specifications for interoperability referred to in Directive 2001/16/EC [2]. 
+(5) The draft TSI set up on the basis of the basic parameters was accompanied by an introductory report containing the cost-benefit analysis as provided for in Article 6(5) of the Directive. 
+(6) The draft TSI has been examined by the Committee set up under Article 21 of Council Directive 96/48/EC of 23 July 1996 on the interoperability of the trans-European high-speed rail system [3], in the light of the introductory report. 
+(7) Directive 2001/16/EC and the TSIs do apply to renewals but not to maintenance-related replacements. However Member States are encouraged, when they are able to do so and where it is justified by the scope of the maintenance-related work, to apply the TSIs to maintenance-related replacements. 
+(8) The TSI regarding rolling-stock noise should not demand the use of specific technologies or technical solutions except where this is strictly necessary for the interoperability of the trans-European conventional rail system. 
+(9) The TSI is based on best available expert knowledge at the time of preparation of the relevant draft. Developments in technology, operational, safety or social requirements may make it necessary to amend or supplement the TSI. Where applicable, a review or updating procedure will be initiated in accordance with Article 6(3) of Directive 2001/16/EC. 
+(10) To encourage innovation and in order to take into account the experience acquired, the TSI could be subject to revision at regular intervals. This provision is detailed in Chapter 7 of the TSI. 
+(11) Conventional rail rolling stock currently operates under existing national, bilateral, multinational or international agreements. It is important that those agreements do not hinder current and future progress towards interoperability. To this end, it is necessary that the Commission examine those agreements in order to determine whether the TSI contained in the Annex needs to be revised accordingly. 
+(12) In order to avoid any confusion, it is necessary to state that the provisions of Decision 2004/446/EC which concern the basic parameters of the trans-European conventional rail system shall not apply anymore. 
+(13) The provisions of this Decision are in conformity with the opinion of the Committee as set up under Article 21 of Directive 96/48/EC, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+The Technical Specification for Interoperability (hereinafter referred to as the TSI) relating to the subsystem "noise" of the trans-European conventional rail system referred to in Article 6(1) of Directive 2001/16/EC shall be as set out in the Annex to this Decision. 
+The TSI shall be fully applicable to the rolling stock of the trans-European conventional rail system as defined in Annex I to Directive 2001/16/EC. 
+Article 2 
+The TSI shall comprise a two-step approach, as specified in Chapter 7 of the Annex. Without prejudice to the regular revision mechanism provided for in Chapter 7, the Commission shall deliver to the Committee set up by Article 21 of Directive 96/48/EC, no later than seven years after the date on which this Decision becomes applicable, a report and, if needed, a proposal for revising section 7.2 of the Annex. 
+Article 3 
+Where agreements contain requirement relating to noise emission limits, Member States shall notify them to the Commission within six months of the entry into force of this Decision. The types of agreements to be notified shall be: 
+(a) national agreements between the Member States and railway undertakings or infrastructure managers, agreed on either a permanent or a temporary basis and necessitated by the very specific or local nature of the intended transport service; 
+(b) bilateral or multilateral agreements between railway undertakings, infrastructure managers or safety authorities which deliver significant levels of local or regional interoperability; 
+(c) international agreements between one or more Member States and at least one third country, or between railway undertakings or infrastructure managers of Member States and at least one railway undertaking or infrastructure manager of a third country which deliver significant levels of local or regional interoperability. 
+Article 4 
+The provisions of Decision 2004/446/EC concerning the basic parameters of the trans-European conventional rail system shall no longer apply as from the date on which this Decision becomes applicable. 
+Article 5 
+This Decision shall become applicable six months after the date of its notification. 
+Article 6 
+This Decision is addressed to the Member States. 
+Done at Brussels, 23 December 2005. 
+For the Commission 
+Jacques Barrot 
+Vice-President 
+[1] OJ L 110, 20.4.2001, p. 1. Directive as amended by Directive 2004/50/EC (OJ L 164, 30.4.2004, p. 114, corrected by OJ L 220, 21.6.2004, p. 40). 
+[2] OJ L 155, 30.4.2004, p. 1, corrected by OJ L 193, 1.6.2004, p. 1. 
+[3] OJ L 235, 17.9.1996, p. 6. Directive as last amended by Directive 2004/50/EC. 
+-------------------------------------------------- 
+ANNEX 
+Technical specification for interoperability relating to the subsystem "rolling stock — noise" of the trans-European conventional rail 
+1. INTRODUCTION 
+1.1. TECHNICAL SCOPE 
+1.2. GEOGRAPHICAL SCOPE 
+1.3. CONTENT OF THIS TSI 
+2. DEFINITION OF SUBSYSTEM/SCOPE 
+2.1. DEFINITION OF SUBSYSTEM 
+2.2. INTERFACES OF SUBSYSTEM 
+3. ESSENTIAL REQUIREMENTS 
+3.1. GENERAL 
+3.2. ESSENTIAL REQUIREMENTS 
+3.3. GENERAL ESSENTIAL REQUIREMENTS 
+3.3.1. Environmental protection 
+3.4. ASPECTS RELATING TO ESSENTIAL REQUIREMENTS SPECIFIC FOR THE ROLLING STOCK SUBSYSTEM 
+4. CHARACTERISATION OF THE SUBSYSTEM 
+4.1. INTRODUCTION 
+4.2. FUNCTIONAL AND TECHNICAL SPECIFICATIONS OF THE SUBSYSTEM 
+4.2.1. Noise emitted by freight wagons 
+4.2.1.1. Limits for pass-by noise 
+4.2.1.2. Limits for stationary noise 
+4.2.2. Noise emitted by locomotives, multiple units and coaches 
+4.2.2.1. Introduction 
+4.2.2.2. Limits for stationary noise 
+4.2.2.3. Limits for starting noise 
+4.2.2.4. Limits for pass-by noise 
+4.2.3. Interior noise of locomotives, multiple units and driving trailers 
+4.3. FUNCTIONAL AND TECHNICAL SPECIFICATIONS OF THE INTERFACES 
+4.3.1. Conventional rail rolling stock subsystem 
+4.3.2. The locomotives, multiple units and coaches subsystems 
+4.4. OPERATING RULES 
+4.5. MAINTENANCE RULES 
+4.6. PROFESSIONAL QUALIFICATIONS 
+4.7. HEALTH AND SAFETY CONDITIONS 
+4.8. INFRASTRUCTURE AND ROLLING STOCK REGISTERS 
+4.8.1. Infrastructure register 
+4.8.2. Rolling stock register 
+5. INTEROPERABILITY CONSTITUENTS 
+5.1. DEFINITION 
+6. ASSESSMENT OF CONFORMITY AND/OR SUITABILITY FOR USE OF THE CONSTITUENTS AND VERIFICATIONS OF THE SUBSYSTEM 
+6.1. INTEROPERABILITY CONSTITUENTS NOT APPLICABLE 
+6.2. SUBSYSTEM ROLLING STOCK REGARDING NOISE EMITTED BY ROLLING STOCK 
+6.2.1. Assessment procedures 
+6.2.2. Modules 
+6.2.3. Subsystem rolling stock aspect noise 
+7. IMPLEMENTATION 
+7.1. GENERAL 
+7.2. TSI REVISION 
+7.3. A TWO STEP APPROACH 
+7.4. RETROFITTING PROGRAMME FOR NOISE REDUCTION 
+7.5. APPLICATION OF THIS TSI TO NEW ROLLING STOCK 
+7.5.1. Transitional period for external noise 
+7.5.2. Starting noise 
+7.5.3. Noise within the driver's cab 
+7.5.4. Exceptions for national, bilateral, multilateral or multinational agreements 
+7.5.4.1. Existing agreements 
+7.5.4.2. Future agreements 
+7.6. APPLICATION OF THIS TSI TO EXISTING ROLLING STOCK 
+7.6.1. Renewal or upgrading of existing freight wagons 
+7.6.2. Renewal or upgrading of locomotives, multiple units and coaches 
+7.7. SPECIFIC CASES 
+7.7.1. Introduction 
+7.7.2. List of specific cases 
+7.7.2.1. Limit for stationary noise, "strictly for use on the UK and Ireland networks only" 
+7.7.2.2. Finland 
+7.7.2.3. Limits for starting noise, "strictly for the use on the UK and Ireland networks only" 
+7.7.2.4. Limits for pass-by noise for freight wagons in Finland, Norway, Estonia, Latvia and Lithuania 
+7.7.2.5. Specific case for Greece 
+7.7.2.6. Specific case for Estonia, Latvia and Lithuania 
+ANNEX A: MEASURING CONDITIONS 
+A.1. DEVIATIONS FROM PREN ISO 3095:2001 
+A.1.1. STATIONARY NOISE 
+A.1.2. STARTING NOISE 
+A.1.3. PASS-BY NOISE 
+A.1.4. REFERENCE TRACK FOR PASS-BY NOISE 
+A.2. CHARACTERISATION OF THE DYNAMIC PERFORMANCES OF THE REFERENCE TRACKS 
+A.2.1. MEASUREMENT PROCEDURE 
+A.2.2. MEASUREMENT SYSTEM 
+A.2.3. DATA PROCESSING 
+A.2.4. TEST REPORT 
+ANNEX B: MODULES FOR THE EC VERIFICATION OF SUBSYSTEMS — ASPECT NOISE: 
+B.1. MODULE SB: TYPE EXAMINATION 
+B.2. MODULE SD: PRODUCTION QUALITY MANAGEMENT SYSTEM 
+B.3. MODULE SF: PRODUCT VERIFICATION 
+B.4. MODULE SH2: FULL QUALITY MANAGEMENT SYSTEM WITH DESIGN EXAMINATION 
+TRANS-EUROPEAN CONVENTIONAL RAIL SYSTEM 
+Technical specification for interoperability 
+Subsystem: Conventional rolling stock 
+Scope: Noise 
+Aspect: Noise emitted by freight wagons, locomotives, multiple units and coaches 
+1. INTRODUCTION 
+1.1. Technical scope 
+This TSI concerns the rolling stock subsystem shown in the list in point 1 of Annex II to Directive 2001/16/EC. 
+Further information on the rolling stock subsystem is provided in Chapter 2. 
+This TSI covers noise emitted by freight wagons, locomotives, multiple units and coaches. 
+1.2. Geographical scope 
+The geographical scope of this TSI is the trans-European conventional rail system as described in Annex I to Directive 2001/16/EC. 
+1.3. Content of this TSI 
+In accordance with Article 5(3) of Directive 2001/16/EC, this TSI: 
+(a) indicates its intended scope (part of the network or rolling stock referred to in Annex I to the Directive; subsystem or part of subsystem referred to in Annex II to the Directive) — Chapter 2; 
+(b) lays down essential requirements for each subsystem concerned and its interfaces vis-à-vis other subsystems — Chapter 3; 
+(c) establishes the functional and technical specifications to be met by the subsystem and its interfaces vis-à-vis other subsystems. If necessary, these specifications may vary according to the use of the subsystem, for example according to the categories of line, hub and/or rolling stock provided for in Annex I to the Directive — Chapter 4. 
+(d) determines the interoperability constituents and interfaces covered by European specifications, including European standards, which are necessary to achieve interoperability within the trans-European conventional rail system — Chapter 5; 
+(e) states, in each case under consideration, the procedures for the assessment of conformity or suitability for use. This includes in particular the modules defined in Council Decision 93/465/EEC or, where appropriate, the specific procedures to be used to assess either the conformity or the suitability for use of interoperability constituents and "EC" verification of subsystems — Chapter 6; 
+(f) indicates the strategy for implementing the TSI. In particular, it is necessary to specify the stages to be completed in order to make a gradual transition from the existing situation to the final situation in which compliance with the TSI shall be the norm — Chapter 7; 
+(g) indicates, for the staff concerned, the professional qualifications and health and safety conditions at work required for the operation and maintenance of the subsystem concerned, as well as for the implementation of the TSI — Chapter 4. 
+Moreover, in accordance with Article 5(5), provision may be made for specific cases for each TSI; these are indicated in Chapter 7. 
+Lastly, this TSI also comprises, in Chapter 4, the operating and maintenance rules specific to the scope indicated in points 1.1 and 1.2. 
+2. DEFINITION OF SUBSYSTEM/SCOPE 
+2.1. Definition of subsystem 
+The rolling stock that is the subject of this TSI comprises locomotives, multiple units, freight wagons, and coaches likely to travel on all or part of the trans-European conventional rail network. Freight wagons include rolling stock designed to carry lorries. 
+This rolling stock include those designed for international use and those designed for national (specific) use only, taking due account of the local, regional or long distance use of the stock. 
+The rolling stock subsystem TSI noise includes limits for stationary noise, starting noise, pass-by noise and interior noise for driver's cabs caused by conventional rolling stock. 
+2.2. Interfaces of subsystem 
+This noise TSI has interfaces with: 
+- - pass-by noise, 
+- stationary noise; 
+- - stationary noise, 
+- starting noise, 
+- pass-by noise, 
+- interior noise within the driver's cab, where applicable. 
+3. ESSENTIAL REQUIREMENTS 
+3.1. General 
+In the scope of the present TSI, fulfilment of relevant essential requirements quoted in Chapter 3 of this TSI will be ensured by the compliance with the specifications described in Chapter 4 for the subsystem, as demonstrated by a positive result of the assessment of the verification of the subsystem, as described in Chapter 6. 
+Nevertheless, if part of the essential requirements are covered by national rules because of: 
+- open and reserved points declared in the TSI, 
+- derogation under Article 7 of the Directive 2001/16/EC, 
+- specific cases described in point 7.6 of the present TSI, 
+the corresponding conformity assessment shall be carried out according to procedures under the responsibility of the Member State concerned. 
+According to Article 4(1) of Directive 2001/16/EC, the trans-European conventional rail system, subsystems and interoperability constituents including interfaces shall meet the relevant essential requirements set out in Annex III to the Directive. 
+3.2. Essential requirements 
+The essential requirements relate to: 
+- safety, 
+- reliability and availability, 
+- health, 
+- environmental protection, 
+- technical compatibility. 
+These requirements include general requirements, and requirements specific to each subsystem. 
+3.3. General essential requirements 
+3.3.1. Environmental protection 
+Essential requirement 1.4.4 of Annex III to Directive 2001/16/EC: Operation of the trans-European conventional rail system must respect existing regulations on noise pollution. 
+As far as the rolling stock subsystem regarding noise emitted by rolling stock is concerned, this essential requirement is addressed by the specification of the subsections: 
+- Pass-by noise (basic parameter 4.2.1.1 and 4.2.2.4), 
+- Stationary noise (basic parameter 4.2.1.2 and 4.2.2.2), 
+- Starting noise (basic parameter 4.2.1.3), 
+- Interior noise of locomotives, multiple units and driving trailers (basic parameter 4.2.3). 
+3.4. Aspects relating to essential requirements specific for the rolling stock subsystem 
+The essential requirements specific for the rolling stock subsystem are not relevant as far as noise emitted by rolling stock is concerned. 
+4. CHARACTERISATION OF THE SUBSYSTEM 
+4.1. Introduction 
+The trans-European conventional rail system, to which Directive 2001/16/EC applies and of which the rolling stock subsystem is a part, is an integrated system whose consistency must be verified. This consistency must be checked in particular with regard to the specifications of the subsystem, its interfaces vis-à-vis the system into which it is integrated, as well as the operating and maintenance rules. 
+Taking account of all the applicable essential requirements, the rolling stock subsystem regarding Noise emitted by rolling stock is characterised in the present Chapter 4. 
+This TSI is applicable to new vehicles, and renewed or upgraded rolling stock if required by the provisions of Chapter 7.2. 
+Point 4.2 of this TSI is applicable only for the putting into service of rolling stock according Article (14)(1) or 14(3) of Directive 2001/16/EC. 
+4.2. Functional and technical specifications of the subsystem 
+In light of the essential requirements in Chapter 3, the functional and technical specifications of the rolling stock subsystem regarding Noise emitted by rolling stock are as follows: 
+- stationary noise (basic parameters 4.2.1.2 and 4.2.2.2), 
+- starting noise (basic parameter 4.2.2.3), 
+- pass-by noise (basic parameters 4.2.1.1 and 4.2.2.4), 
+- interior noise of locomotives, multiple units and driving trailers (basic parameter 4.2.3). 
+Infrastructure maintenance machines have to be considered as locomotives during transfer travel, but have not to comply with this TSI, when working. 
+4.2.1. Noise emitted by freight wagons 
+Noise emitted by freight wagons subdivides into pass-by noise and stationary noise. 
+The pass-by noise of a freight wagon is highly influenced by its rolling noise (noise of the wheel/rail contact) which is a function of speed. 
+The rolling noise itself is caused by the combined wheel and rail roughness and by the dynamic behaviour of the track and wheel-set. 
+The parameter set for the characterisation of pass-by noise comprises: 
+- sound pressure level, according to a defined measuring method. 
+- microphone position, 
+- speed of the wagon, 
+- rail roughness, 
+- dynamic and radiation behaviour of the track. 
+Stationary noise of a freight wagon will only be of relevance if the wagon is equipped with auxiliary devices like engines, generators, cooling systems. It is mostly applicable to refrigerated wagons. 
+The parameters set for the characterisation of stationary noise comprise: 
+- sound pressure level, according to a defined measuring method and microphone position, 
+- operating conditions. 
+4.2.1.1. Limits for pass-by noise 
+The indicator for pass-by noise is the A-weighted equivalent continuous sound pressure level LpAeq, Tp measured over the pass-by time at a distance of 7,5 m from the track centreline, 1,2 m above top of rail. Measurements shall be made in accordance to prEN ISO 3095:2001 except that the reference track shall meet the requirements stated in Annex A1.4. The reference track shall be made available in a non-discriminatory way. 
+The limiting values LpAeq,Tp for the pass-by noise of freight wagons under the conditions stated above are given in Table 1. 
+Table 1 
+Limiting values LpAeq,Tp for the pass-by noise of freight wagons 
+Wagons | LpAeq,Tp | 
+New wagons with an average number of axles per unit length (apl) up to 0,15 m-1 at 80 km/h | %lt% = 82 dB(A) | 
+Renewed or upgraded wagons according Article 14(3) of Directive 2001/16/EC with an average number of axles per unit length (apl) up to 0,15 m-1 at 80 km/h | %lt% = 84 dB(A) | 
+New wagons with an average number of axles per unit length (apl) higher than 0,15 m-1 up to 0,275 m-1 at 80 km/h | %lt% = 83 dB(A) | 
+Renewed or upgraded wagons according Article 14(3) of Directive 2001/16/EC with an average number of axles per unit length (apl) higher than 0.15 m-1 up to 0,275 m-1 at 80 km/h | %lt% = 85 dB(A) | 
+New wagons with an average number of axles per unit length (apl) higher than 0,275 m-1 at 80 km/h | %lt% = 85 dB(A) | 
+Renewed or upgraded wagons according Article 14(3) of Directive 2001/16/EC with an average number of axles per unit length (apl) higher than 0,275 m-1 at 80 km/h | %lt% = 87 dB(A) | 
+Apl is the number of axles divided by the length over buffers. 
+The pass-by noise of a train shall be measured at 80 km/h and at maximum speed, but less than 190 km/h. The values to be compared with the limits (see Table 1) is the maximum of the measured value at 80 km/h and the measured value taken at maximum speed but referred to 80 km/h by the equation LpAeq,Tp (80 km/h) = LpAeq,Tp(v)-30*log (v/80 km/h). Other speeds mentioned in the prEN ISO 3095:2001 shall not be considered. 
+4.2.1.2. Limits for stationary noise 
+Stationary noise is to be described in terms of the A-weighted equivalent continuous sound pressure level LpAeq, T, according to prEN ISO 3095:2001, Chapter 7.5 with the deviations defined in Annex A. The limiting value for the stationary noise of freight wagons at a distance of 7,5 m from the track centreline of track and 1,2 m above the upper surface of the rails is given in Table 2. The indicator for the sound pressure level is LpAeq,T. 
+Table 2 
+Limiting value LpAeq,T for the stationary noise of freight wagons 
+Wagons | LpAeq,T | 
+All freight wagons | %lt% = 65 dB(A) | 
+The specified level for stationary noise is the energy-average of all measured values taken at the measuring points defined in Annex A.1.1 of this TSI. 
+4.2.2. Noise emitted by locomotives, multiple units and coaches 
+4.2.2.1. Introduction 
+Noise emitted by locomotives, multiple units and coaches subdivides into stationary noise, starting noise, and pass-by noise. The noise within driver's cabs is also considered. 
+The stationary noise is highly influenced by auxiliaries, such as cooling systems, air conditioning and compressors. 
+Starting noise is a combination of contributions from traction components such as diesel engines and cooling fans, auxiliaries and, sometimes, wheel slip. 
+Pass-by noise is highly influenced by the rolling noise, linked to the wheel/rail interaction, which is a function of speed. 
+The rolling noise itself is caused by the combined wheel and rail roughness and by the dynamic behaviour of the track and wheelset. 
+At lower speeds the noise of auxiliaries and traction equipment is also significant. 
+The emitted level of noise is characterised by: 
+- Sound pressure level, according to a defined measuring method, 
+- Microphone position, 
+- Speed of the wagon, 
+- Rail roughness, 
+- Dynamic and radiation behaviour of the track. 
+The parameters set for the characterisation of stationary noise comprise: 
+- sound pressure level, according to a defined measuring method and microphone position, 
+- operating conditions. 
+Multiple units are fixed trainsets either with distributed power or with one or more dedicated power cars and coaches. Multiple units with electric traction are abbreviated as "EMUs", while those with diesel traction are abbreviated as "DMUs". In this TSI the wording "diesel" or "diesel engine" includes all forms of thermal engine that are used for traction. Fixed formation trains that consist of two locomotives and coaches cannot be considered as multiple units if the locomotive can operate in different train configurations. 
+4.2.2.2. Limits for stationary noise 
+The limits for stationary noise are defined at a distance of 7,5 m from the centreline of the track, 1,2 m above the upper surface of the rails. The measuring conditions are defined by the standard prEN ISO 3095:2001 with the deviations defined in Annex A. The indicator for the sound pressure level is LpAeq,T. The limiting values for the noise emission of the vehicles under the conditions mentioned are given in Table 3. 
+Table 3 
+Limiting values LpAeq,T for the stationary noise of electric locomotives, diesel locomotives, EMUs, DMUs and passenger coaches 
+Vehicles | LpAeq,T | 
+Electric locomotives | 75 | 
+Diesel locomotives | 75 | 
+EMUs | 68 | 
+DMUs | 73 | 
+Passenger coaches | 65 | 
+The specified level for stationary noise is the energy-average of all measured values taken at the measuring points defined in Annex A.1.1 of this TSI. 
+4.2.2.3. Limits for starting noise 
+The limits for starting noise are defined at a distance of 7,5 m from the centreline of the track, 1,2 m above the upper surface of the rails. The measuring conditions are defined by the standard prEN ISO 3095:2001 with the deviations defined in Annex A1.2 The indicator for the sound level is LpAFmax. The limiting values for the starting noise of the vehicles under the conditions stated are given in Table 4. 
+Table 4 
+Limiting values LpAFmax for the starting noise of electric locomotives, diesel locomotives, EMUs and DMUs 
+Vehicle | LpAFmax | 
+Electric locomotives P %lt% 4500 kW at the rim | 82 | 
+Electric locomotives P %gt%/= 4500 kW at the rim | 85 | 
+Diesel locomotives P %lt% 2000 kW at the shaft | 86 | 
+Diesel locomotives P %gt%/= 2000 kW at the shaft | 89 | 
+EMUs | 82 | 
+DMUs P %lt% 500 kW/engine | 83 | 
+DMUs P %gt%/= 500 kW/engine | 85 | 
+4.2.2.4. Limits for pass-by noise 
+The limits for pass-by noise are defined at a distance of 7,5 m from the centreline of the reference track, 1,2 m above the upper surface of the rails for a vehicle speed of 80 km/h. The indicator for the A weighted equivalent continuous sound level is LpAeq,Tp. 
+The measurements shall be carried out in accordance with prEN ISO 3095:2001 with deviations stated in Annexes A1.3 and A1.4. The reference track shall be made available in a non-discriminatory way. 
+The pass-by noise of a train shall be measured at 80 km/h and at maximum speed, but less than 190 km/h. Other speeds mentioned in the prEN ISO 3095:2001 shall not be considered. The value to be compared with the limits (see Table 5) is the greater of the measured value at 80 km/h and the measured value taken at maximum speed but normalised to 80 km/h by the equation. 
+LpAeq,Tp(80 km/h) = LpAeq,Tp(v)-30*log (v/80 km/h). 
+The limiting values for the noise emission of electric and diesel locomotives, EMUs, DMUs and passenger coaches under the conditions stated above are given in Table 5. 
+Table 5 
+Limiting values LpAeq,Tp for the pass-by noise of electric and diesel locomotives, EMUs, DMUs and passenger coaches 
+Vehicle | LpAeq,Tp @ 7,5 m | 
+Electric locomotives | 85 | 
+Diesel locomotives | 85 | 
+EMUs | 81 | 
+DMUs | 82 | 
+Passenger coaches | 80 | 
+4.2.3. Interior noise of locomotives, multiple units and driving trailers 
+The interior noise level of passenger vehicles is not considered to be a basic parameter. However, the noise level within the driver's cab is an important issue. Noise levels in the cab must be kept as low as possible, by limiting the noise at the source and by appropriate additional measures (acoustic insulation, sound absorption). The limiting values are defined in Table 6. 
+Table 6 
+Limiting values LpAeq,T for the noise within the driver's cab of electric and diesel locomotives, EMUs, DMUs and driving trailers 
+Noise within the driver's cab | LpAeq,T | Measurement time interval T | 
+Standstill (during external acoustical warning with the maximum sound pressure of the horn, but less than 125 dB(A) at 5 m ahead of the vehicle in 1,6 m height above head of rail) | 95 | 3 s | 
+Maximum speed, applicable for speeds less than 190 km/h. (open country without interior and exterior warnings) | 78 | 1 min | 
+The measurements shall be done under the following conditions: 
+- the doors and windows must be closed, 
+- the hauled loads must be equal to at least two-thirds of the maximum permissible value. 
+For the measurements at maximum speed, the microphone shall be positioned at the level of the driver's ear (in the seated position), at the centre of a horizontal plane extending from the front window panes to the rear wall of the cab. 
+For the measurements of the horn's impact, eight evenly spaced microphone positions around the position of the driver's head with a radius of 25 cm (in the seated position) shall be used, in a horizontal plane. The arithmetic mean of the eight values shall be assessed against the limit. 
+This table applies to drivers’ cabs. In any event, Directive 2003/10/EC of the European Parliament and the Council of 6 February 2003 on the minimum health and safety requirements regarding the exposure of workers to the risks arising from physical agents (noise) on has to be applied by railway undertakings and their staff, but the compliance with Directive 2003/10/EC does not concern the EC verification of rolling stock with drivers’ cabs. 
+4.3. Functional and technical specifications of the interfaces 
+4.3.1. Conventional rail rolling stock subsystem 
+The noise limits of this TSI emitted by freight wagons shall be taken as design parameter in Chapter 4.2.4 (Braking) and as part of the subsystem approval in Chapter 6.2 (Subsystem conventional rail rolling stock freight wagons) of the CR RST TSI into account. 
+4.3.2. The locomotives, multiple units and coaches subsystems 
+These TSIs do not exist yet. With regard to the noise emitted by locomotives, multiple units and coaches, their design has to be compliant with the specified limits in Chapter 4 (characterisation of the subsystem) of these TSIs. 
+4.4. Operating rules 
+In light of the essential requirements in Chapter 3, there are no operating rules specific to the subsystem rolling stock regarding noise emitted by rolling stock. 
+4.5. Maintenance rules 
+- wheel/rail contact parameters (wheel profile), 
+- wheel defects (wheel flats, out of roundness). 
+See maintenance file, which is specified in Chapter 4.2.8 of the conventional rail rolling stock TSI. 
+4.6. Professional qualifications 
+There are no additional requirements to existing European legislation and national ones compatible with European legislation on professional qualifications. 
+4.7. Health and safety conditions 
+The lower exposure action values set up in Article 3 of Directive 2003/10/EC (17th individual directive within the meaning of Article 16(1) of Directive 89/391/EEC) are met with the present limits of interior noise in drivers’ cabs: 
+- as regards peak values, 
+- and generally as regards average values, for standard operational conditions. 
+4.8. Infrastructure and rolling stock registers 
+4.8.1. Infrastructure register 
+Not applicable to this TSI. 
+4.8.2. Rolling stock register 
+As far the subsystem rolling stock regarding noise emitted by rolling stock is concerned, the following information shall be included in the rolling stock register: 
+- pass-by noise (basic parameters 4.2.1.1 and 4.2.2.4), 
+- stationary noise (basic parameters 4.2.1.2 and 4.2.2.2), 
+- starting noise (basic parameters 4.2.2.3), 
+- interior noise in the driver's cab. 
+5. INTEROPERABILITY CONSTITUENTS 
+5.1. Definition 
+According to Article 2(d) of Directive 2001/16/EC, interoperability constituents are "any elementary component, group of components, subassembly or complete assembly of equipment incorporated or intended to be incorporated into a subsystem upon which the interoperability of the trans-European conventional rail system depends directly or indirectly. The concept of a constituent covers both tangible objects and intangible objects such as software." 
+There are no interoperability constituents specified in this TSI. 
+6. ASSESSMENT OF CONFORMITY AND/OR SUITABILITY FOR USE OF THE CONSTITUENTS AND VERIFICATIONS OF THE SUBSYSTEM 
+6.1. Interoperability constituents 
+Not applicable 
+6.2. Subsystem rolling stock regarding noise emitted by rolling stock 
+6.2.1. Assessment procedures 
+At the request of the contracting entity or its authorised representative within the Community, the notified body carries out the EC verification in accordance with Annex VI to Directive 2001/16/EC. 
+The contracting entity shall draw up the EC declaration of verification for the rolling stock subsystem including the noise aspect in accordance with Article 18(1) and Annex V to Directive 2001/16/EC. 
+6.2.2. Modules 
+For the verification procedure of the noise requirements, as specified in Chapter 4, the contracting entity or its authorised representative established within the Community may chose the following modules: 
+- - either the production quality management system procedure (module SD), 
+- or the product verification procedure (module SF); 
+- or the full quality management system with design examination procedure (module SH2). 
+These modules are described in Annex B of this TSI. 
+The conformity assessment of the noise requirements of freight wagons may be carried out in the same time than the verification procedures of the other requirements of freight wagons, which are specified in the conventional rail rolling stock TSI. 
+The module SD may only be chosen where the contracting entity, or the main contractors when involved, operate a quality management system for manufacture, final product inspection and testing, approved and surveyed by a notified body of their choice. 
+The module SH2 may only be chosen where the contracting entity, or the main contractors when involved, operate a quality management system for design, manufacture, final production inspection and testing, approved and surveyed by a notified body of their choice. 
+The following additional facts shall be taken into account for the use of the modules: 
+- design phase: module SB, with reference to chapter 4.3 of the module, a design review is requested, 
+- production phase: the application of the modules SD, SF and SH2 for the production phase shall enable the conformity of the vehicles with the approved type as described in the type examination certificate. In particular the application shall demonstrate the manufacture and the assembly are realised with the same components and the same technical solutions than the approved type. 
+6.2.3. Subsystem rolling stock aspect noise 
+For the subsystem rolling stock, aspect noise emitted by freight wagons, locomotives, multiple units and coaches, verification is based on this chapter. 
+Procedures for EC verification: Annex A of this TSI. 
+List of specifications, description of the testing procedures: 
+- A1. Measuring conditions, deviations from prEN ISO 3095:2001 
+- A1.1. Stationary noise 
+- A1.2. Starting noise 
+- A1.3. Pass-by noise 
+- A1.4. Reference track for pass-by noise. 
+7. IMPLEMENTATION 
+7.1. General 
+The implementation of the TSIs must take into consideration the overall migration of the conventional rail network towards full interoperability. 
+In order to support this migration, the TSIs allow for staged, gradual application and coordinated implementation with other TSIs. 
+7.2. TSI Revision 
+In conformity with Article 6(3) of Directive 2001/16/EC as modified by Directive 2004/50/EC, the Agency shall be responsible for preparing the review and updating of TSIs and making appropriate recommendations to the Committee referred to in Article 21 of this Directive in order to take account of developments in technology or social requirements. In addition, the progressive adoption and revision of other TSIs may also impact this TSI. Proposed changes to this TSI shall be subject to rigorous review and updated TSIs will be published on an indicative periodic basis of three years. 
+In any case the EC will deliver to "the Article 21 Committee", at the latest seven years after the date of entry into force of this TSI, a report and, if needed, a proposal for revising this TSI about following issues: 
+1. an assessment of the implementation of the TSI, in particular costs and benefits; 
+2. the use of a continuous curve of limiting values LpAeq,Tp for the pass-by noise of freight wagons as a function of APL (axles per length), provided that it does not prevent technical innovation, in particular for rakes of wagons; 
+3. the second step pass-by noise limit values for wagons, locomotives, multiple units and coaches (see point 7.2), according to the results of accurate noise measurement campaigns, taking into account in particular technical progress and available technologies for both track and rolling stock and cost-benefit analyses; 
+4. a possible second-step starting noise limit values for diesel locomotives and multiple units; 
+5. the inclusion of infrastructure into the scope of the Noise TSI in coordination with the TSI Infrastructure; 
+6. the inclusion into the TSI of a monitoring scheme for wheel defects. Wheel defects have an impact on noise emission. 
+7.3. A two step approach 
+It is recommended that in the case of new rolling stock to be ordered 10 years after the entry into force of this TSI or to be put into service 12 years after the entry force of this TSI points 4.2.1.1 and 4.2.2.4 of this TSI are applied with a reduction of 5 dB(A) except for DMUs and EMUs. For both later cases the reduction is of 2 dB(A). This recommendation will serve only as a basis for revising points 4.2.1.1 and 4.2.2.4 in the context of the TSI revision process mentioned in point 7.2. 
+7.4. Retrofitting programme for noise reduction 
+Given the long life-cycle of railway vehicles it is also necessary to take measures on the existing fleet of rolling stock, with priority for freight wagons, to foster a noticeable reduction of the perceived noise level within a reasonable time period. The Commission will take initiatives to discuss options for retrofitting of freight wagons with the relevant stakeholders to achieve a general agreement with the industry. 
+7.5. Application of this TSI to new rolling stock 
+The specifications provided in this TSI apply for all new rolling stock within the scope of this TSI. 
+In the case of new wagons, the conventional rail rolling stock TSI must also be fully applied. 
+7.5.1. Transitional period for external noise 
+It is allowable to apply limits 2 dB(A) higher than those stated in Chapters 4 and 7 of this TSI for external noise from electric locomotives, diesel locomotives, EMUs, DMUs and passenger coaches within a transitional period of 24 months starting from the date of entry into force of this TSI. This allowance is restricted to the case of: 
+- contracts already signed or under final phase of tendering procedure at the date of entry into force of this TSI, and options to these contracts to purchase additional vehicles, or 
+- contracts for purchasing new rolling stock of an existing design type signed during this transitional period. 
+7.5.2. Starting noise 
+The starting noise limits may be raised by 2 dB(A) for all DMUs, with an engine power greater than 500 kW/engine, put into service during a transitional period of five years from the date of entry into force of this TSI. This is not additional to the 2 dB(A) of section 7.5.1. 
+7.5.3. Noise within the driver's cab 
+It is allowable for the cab noise for new and existing designs at standstill during the sounding of the external warning horn to be raised by 2 dB(A) for the first three years starting from the date of entry into force of this TSI. This concerns the following cases: 
+- contracts already signed or under final phase of tendering procedure at the date of entry into force of this TSI, and options to these contracts to purchase additional vehicles, or 
+- contracts for purchasing new rolling stock of a new and existing design type signed during this transitional period. 
+7.5.4. Exceptions for national, bilateral, multilateral or multinational agreements 
+7.5.4.1. Existing agreements 
+Where agreements contain requirements related to noise, then Member States shall notify the Commission, within six months after the entry into force of this TSI, of the following agreements under which freight wagons, locomotives, DMUs, EMUs and coaches, related to the scope of this TSI are operated: 
+(a) national, bilateral or multilateral agreements between Member States and railway undertakings or infrastructure managers, agreed on either a permanent or a temporary basis and necessitated by the very specific or local nature of the intended transport service; 
+(b) bilateral or multilateral agreements between railway undertakings, infrastructure managers or safety authorities which deliver significant levels of local or regional interoperability; 
+(c) international agreements between one or more Member States and at least one third country, or between railway undertakings or infrastructure managers of Member States and at least one railway undertaking or infrastructure manager of a third country, which deliver significant levels of local or regional interoperability. 
+The compatibility of these agreements with EU legislation including their non discriminatory character and, in particular, this TSI, will be assessed and the Commission will take the necessary measures such as, for example, the revision of this TSI to include possible specific cases or transitional measures. 
+These agreements remain permitted until the necessary measures are taken including EU level agreements related to this TSI with Russian Federation and all the other CIS countries having a border with the EU. 
+The RIV Agreement and COTIF instruments shall not be notified because they are known. 
+7.5.4.2. Future agreements or modification of existing agreements 
+Any future agreement or modification of existing agreements shall take into account EU legislation and, in particular, this TSI. Member States shall notify the Commission with such agreements/modifications. The same procedure as in point 7.5.4.1 then applies. 
+7.6. Application of this TSI to existing rolling stock 
+7.6.1. Renewal or upgrading of existing freight wagons 
+In the case of renewal or upgrading of freight wagons, the Member State, according to Article 14(3) of Directive 2001/16/EC as amended by the Directive 2004/50/EC, has to decide if a new authorisation of putting into service is needed. If the performance of the brake system of this wagon is changed by the renewal or upgrading and if a new authorisation of putting into service is needed, the requirement is that the pass-by level of this wagon shall comply with the relevant level indicated in Table 1 of point 4.2.1.1. If a wagon during renewal or upgrading is equipped with composite blocks and without adding additional noise sources to the wagon, it is to be assumed without testing that the values of point 4.2.1.1 are fulfilled. 
+An upgrading for noise emission reduction only is not mandatory, but if upgrading is done for another reason it has to be demonstrated that renewal or upgrading does not increase pass-by noise with respect to the performance of the vehicle before renewal or upgrading. 
+For stationary noise, it has to be demonstrated that retrofitting does not increase noise with respect to the performance of the vehicle before renewal or upgrading. 
+However, if a freight wagon will be during renewal or upgrading equipped with an additional noise source, than it has to fulfil the limit of point 4.2.1.2 (stationary noise). 
+Upgraded or renewed freight wagons, requiring new authorisation for putting into service within the meaning of Directive 2001/16/EC Article 14(3) shall comply with requirements of the conventional rail rolling stock TSI according to the provisions of point 7.3 of this TSI. 
+7.6.2. Renewal or upgrading of locomotives, multiple units and coaches 
+It has only to be demonstrated that a renewed or upgraded vehicle does not increase noise with respect to the performance of the vehicle before renewal or upgrading. 
+7.7. Specific cases 
+7.7.1. Introduction 
+The following special provisions are permitted in the specific cases below. 
+These specific cases belong to two categories: the provisions apply either permanently (case P), or temporarily (case T). In temporary cases, it is recommended that the Member States concerned should conform with the relevant subsystem either by 2010 (case T1), an objective set out in Decision 1692/96/EC of the European Parliament and of the Council of 23 July 1996 on Community guidelines for the development of the trans-European transport network, or by 2020 (case T2). 
+7.7.2. List of specific cases 
+7.7.2.1. Limit for stationary noise, "strictly for use on the UK and Ireland networks only" 
+Category P — permanent 
+Table 7 
+Limiting values LpAeq,T for the stationary noise of DMUs 
+Vehicles | LpAeq,T | 
+DMUs | 77 | 
+7.7.2.2. Finland 
+Category T — temporary 
+In the territory of Finland, the limits for stationary noise in point 4.2.1.2 shall not be applied to wagons equipped with a diesel aggregate for electrical power supply higher than 100 kW when the aggregate is used. In this case the stationary noise limit may be raised by 7 dB(A) due to the temperature range down to — 40 oC together with freezing and icy conditions. 
+7.7.2.3. Limits for starting noise, "strictly for use on the UK and Ireland networks only" 
+Category P — permanent 
+Table 8 
+Limiting values LpAFmax for the starting noise of electric locomotives, diesel locomotives and DMUs 
+Vehicle for | LpAFmax | 
+Electric locomotives less than 4500 kW at the rim | 84 | 
+Diesel locomotives Less than 2000 kW at the shaft | 89 | 
+DMUs P %lt% 500 kW/engine | 85 | 
+7.7.2.4. Limits for pass-by noise for freight wagons, in Finland, Norway, Estonia, Latvia and Lithuania 
+Category T1 — temporary 
+The noise emission limits for freight wagons are not valid for Finland, Norway, Estonia, Latvia and Lithuania. The reason for this is the safety aspects under Nordic winter conditions. This specific case is valid until the functional specification and assessment method for composite brake blocks are incorporated in the revised version of the conventional rail rolling stock TSI. 
+That does not preclude freight wagons from other member states from operating in Nordic and Baltic States. 
+7.7.2.5. Specific case for Greece 
+Category T1 — temporary: rolling stock for track gauge 1000 mm or less 
+For the existing isolated 1000 mm gauge, which is not in the scope of this TSI, national rules shall apply. 
+7.7.2.6. Specific case for Estonia, Latvia and Lithuania 
+Category "T1" — temporary 
+The noise emission limits for all rolling stock (locomotives, coaches, EMUs and DMUs) are not valid for Estonia, Latvia and Lithuania until the revision of this TSI. In the meantime, measurement campaigns will be carried out in these States; the revision of this TSI shall take into account the results of these campaigns. 
+-------------------------------------------------- 
+ANNEX A 
+MEASURING CONDITIONS 
+A.1. DEVIATIONS FROM PREN ISO 3095:2001 
+A.1.1. Stationary noise 
+The measurement of stationary noise shall be made according to prEN ISO 3095: 2001 with the following deviations (see Table A1). 
+Normal operation is defined by performance at an external temperature of 20 °C. Design parameters for forcing the operation in order to simulate 20 °C conditions are to be provided by the manufacturer. 
+Table A1 
+Stationary noise, deviations from prEN ISO 3095:2001 
+Point (prEN ISO 3095: 2001) | Subject | Deviation (marked in bold, italic characters) | 
+6.2.3 | Microphone positions, measurements on stationary vehicles | Measurements shall be made according to prEN ISO 3095:2001 Annex A, Figure A.1. | 
+6.3.1 | Vehicle conditions | Fouling on grilles, filters and fans shall be removed before the measurements. | 
+7.5.1 | General | The measuring time is to be 60 s. | 
+7.5.2 | Coaches, wagons and electric power units | All equipment that can operate with the vehicle stationary, including the main traction equipment where relevant, but excluding the brake air compressor, shall be operating. The auxiliary equipment shall be operated at normal load. | 
+7.5.3.1 | Power units with internal combustion engines | Engine idling unloaded, fan at normal speed, auxiliary equipment with normal load, brake air compressor not operating. | 
+7.5.3.2 | Power units with internal combustion engines | This clause is not relevant for Diesel locomotives and DMUs | 
+7.5.1 | Measurements on stationary vehicles, general | The sound level of the stationary noise is the energy average of all measured values taken at the measurement points according to prEN ISO 3095:2001 Annex A, Figure A.1. | 
+A.1.2. Starting noise 
+The measurement of starting noise shall be made according to prEN ISO 3095:2001 with the following deviations (see Table A2). 
+Normal operation is defined by performance at an external temperature of 20 °C. Design parameters for forcing the operation to simulate 20 °C conditions are provided by the manufacturer. 
+Table A2 
+Starting noise, deviations from prEN ISO 3095:2001 
+Point (prEN ISO 3095:2001) | Subject | Deviation (marked in bold, italic characters) | 
+6.1.2 | Meteorological Conditions | Measurements on accelerating vehicles shall be made only if the rail is dry. | 
+6.3.1 | Vehicle conditions | Fouling on grilles, filters and fans shall be removed before the measurements. | 
+6.3.3 | Doors, windows, auxiliary equipment | Tests on accelerating trains shall be performed with all auxiliary equipment operating at normal load. The sound emission of brake air compressors shall not be taken into account. | 
+7.3.1 | General | Tests have to be performed with maximum tractive effort without wheel spin and without macro slip. If the train under test does not comprise a fixed formation, the load has to be defined. It shall be typical of the normal service. | 
+7.3.2 | Trains with an individual power unit | Tests on accelerating trains shall be performed with all auxiliary equipment operating at normal load. The sound emission of the brake air compressors shall not be taken into account. | 
+A.1.3. Pass-by noise 
+Point (prEN ISO 3095:2001) | Subject | Deviation (marked in bold, italic characters) | 
+6.2 | Microphone position | There will be no track in-between the running track and the microphone | 
+6.3.1 | Vehicle conditions | Fouling on grilles, filters and fans shall be removed before the measurements. | 
+7.2.3 | Test procedure | A tachometer shall be used such that the speed is sufficiently accurately measured for pass-by, with train speed not in the range ±3 % of the stated test speed to be correctly identified as being outside that range and rejected. Minimum tractive effort to maintain a constant speed shall be maintained for at least 60 s before, and during, the pass-by measurement | 
+A.1.4. Reference track for pass-by noise 
+The specifications of the reference track were studied only to allow the assessment of rolling stock against pass-by noise limits. This section specifies neither the design nor the maintenance nor the operating conditions of "normal" tracks, which are not "reference" tracks. 
+Approval of the reference track shall be made according to prEN ISO 3095:2001 with the following deviations: 
+- the rail roughness shall lie below the limit spectrum as defined in figure F1. This limiting curve replaces the specification of prEN ISO 3095:2001, point 6.4.2 (figure 4), Annex C "Procedure for determining the rail rough ness limit spectrum". Annex D "Rail roughness measurement specifications", is only applicable in its paragraphs D.1.2 (direct acquisition method) and D.2.1 (Processing of roughness data — Direct measurement), with the following devia tions and D4 (data presentation): 
+Point (prEN ISO 3095:2001) | Subject | Deviation (marked in bold, italic characters) | 
+D.1.2.2 | Direct roughness measurement | The wavelength bandwidth should be at least (0,003; 0,10) metre The number of traces used to characterise the roughness will be chosen with regard to the actual rolling surface. The number of traces should be consistent with: the actual contact position, andthe actual width of the rolling surface (running band), such that only the traces which are inside the actual width of the rolling surface are taken into account in the roughness averaging of the overall roughness.Without a technical justification of these two parameters, the Pr EN ISO 3095:2001 point D.1.2.2 is applicable | 
+D.2.1 | Direct measurement | The one-third-octave band wavelength roughness spectra shall be processed from the quadratic mean of each spectrum from the elementary reference track sections. | 
+These methods, used in the NOEMIE project, have been shown to produce consistent results in the case of tracks fulfilling the proposed rail roughness limits. However, any other available and proven direct method, which can produce comparable results, can be used, 
+- the dynamic behaviour of the reference track (test track) shall be described by the vertical and lateral "track decay rates (TDRs)", which quantify the attenuation of rail vibration with distance along the track. The method of measurement used in the NOEMIE project is presented in point A.2. It showed its ability to properly discriminate the track dynamic characteristics. The use of an equivalent track characterisation measurement method is also permitted, if available and proven. In that case, the track vertical and lateral decay rates of the test track must be shown to be equivalent to those of the track type mentioned in this TSI, measured in accor dance with the specification sheet presented in point A.2. The decay rates of the reference track shall lie above the lower limits given in Figure F2, 
+- the reference track shall have consistent superstructure over a minimum length of 100 m. The measured track decay rates must pertain to 40 m on each side of the microphone position. The check of the roughness shall be carried out according prEN ISO 3095:2001. 
+Figure F1: 
+Rail roughness limit spectrum of the reference track 
++++++ TIFF +++++ 
+1/3 octave bande roughness level, dBre 1µm20,017,115,015,013,0Rail roughness11,09,010,07,0TSI+4,95,02,90,9-1,10,0-3,2-5,0-5,0-5,6-6,2-6,8-7,4-10,0-8,0-8,6-9,2-9,8-10,4-11,0-15,00,5000,4000,3150,2500,2000,1600,1250,1000,0800,0630,0500,0400,0320,0250,0200,0160,0130,0100,0080,0060,0050,0040,003Wavelength, m 
+Figure F2: 
+Vertical and lateral decay rate lower limit spectrum of the reference track 
++++++ TIFF +++++ 
+TDR (dB/M)1066332210,80,80,8TSI+ vertical TDRTSI+ lateral TDR0,50,50,20,20,1801001251602002503154005006308001 0001 2501 6002 0002 5003 1504 0005 000Frequency (Hz) 
+A.2. CHARACTERISATION OF THE DYNAMIC PERFORMANCES OF THE REFERENCE TRACKS 
+A.2.1. Measurement procedure 
+The following procedure is to be applied successively in the lateral and vertical directions, on each track site to be characterised. 
+Two accelerometers are secured (glued or stud) on the rail, in the middle section between two sleepers (see Figure F3): 
+- one in the vertical direction on the longitudinal axis of the rail, positioned on the rail head (preferred), or under the rail foot, 
+- the other in the transversal direction, positioned on the external face of the rail head. 
+Figure F3: 
+Captor location on the rail cross section 
++++++ TIFF +++++ 
+Fvertical1Flateral2Acceleromet 
+A measured force impulse is applied on the rail head, in each direction, with an instrumented hammer equipped with a tip of appropriate hardness to enable a good measurement of force and response in the frequency range (50; 6000 Hz). (A hardened steel tip is required for the higher end of the frequency range and is usually, though not always sufficient, to apply enough force for the lower end frequency range. An extra measurement with a softer tip may be required.) 
+The (transfer) accelerance (acceleration/force frequency response function) or mobility (velocity/force) is measured in the vertical and lateral-transverse directions for force applied in the corresponding same direction at an array of locations at various distances along the rail (defined below). It is not necessary to measure the cross-terms (vertical force to lateral response or vice versa). If analogue integration is available for the accelerometer measurement, it has been found that a better quality of measurement is achieved if the frequency response function (FRF) of mobility is recorded rather than accelerance. This produces better quality of data at low frequency, where the measured response is very small compared with the high frequency, since it reduces the dynamic range of the data before recording or digitisation. An average FRF from at least four valid impulses should be taken. The quality of each measured FRF (reproducibility, linearity etc.) should be monitored using the coherence function. This should also be recorded. 
+The transfer FRFs should be made to the accelerometer mounting location from each of the locations indicated in Figure F4. The measurement locations can be divided into sets as the "point" measurement location, the "near-field" set and "far-field" set as follows: 
+- the location index 0 is associated with the mid-point of the first sleeper bay. When the impulse is applied at this point (practically, as close to this point as possible), the point FRF is measured. 
+- the near-field measurements are carried out by applying the impulse, starting with the point FRF, at quarter sleeper spacing up to the end of sleeper bay 2, thence at half-sleeper spacing up to the middle of sleeper bay 4 and then at each mid-sleeper position up to sleeper bay 8. 
+- the far-field measurement use impulse locations from a distance of sleeper bay 8 from the accelerometer position outwards at the inter-sleeper positions, with the indices: 10, 12, 16, 20, 24, 30, 36, 42, 48, 54, 66, etc. as shown in Figure F4. The measurements need only be taken up to the point at which the response at all frequencies in the range becomes insignificant (with respect to the measurement noise). The coherence function provides a guide to this. Ideally, the response level in each one- third octave band should be at least 10 dB below the level of the same band at location 0. 
+Figure F4: 
+Track decay rates — location of the excitation points 
++++++ TIFF +++++ 
+Hammer impulse over the sleeperHammer impulse in between the sleepers0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15Accelerometer positionIntersleeper index15 16 20 24 30 36 42 48 54 66 67 68 (…)0 1 2 3 
+Experience has shown that the variability of the results is such that the whole decay measurement should be repeated for another accelerometer location on the track site. A distance between the two accelerometer locations of about 10 metres is sufficient. 
+Since the decay rates are a function of the rail pad stiffness and rail-pad materials typically have significant temperature dependence, the temperature of the pad should be recorded during the measurement. 
+A.2.2. Measurement system 
+Each sensor and acquisition system should have a calibration certificate, according to the EN ISO 17025 standard [1]. 
+The whole measurement system should be calibrated before and after each series of measurement (and particularly in the case of a modification in the measurement system, acquisition, or measurement location). 
+A.2.3. Data processing 
+The total sound power radiated from a rail excited into vibration is the product of the radiation ratio (radiation efficiency) of the rail and the squared velocity amplitude summed over the radiating area. If both vertical and lateral waves in the rail are assumed to decay exponentially from the excitation point (wheel contact) with distance along the rail then, A(z) ≈ A(0)e-βz where β is the decay constant for the amplitude of the response, A, with distance z along the rail from the excitation point. β can be converted to a decay rate expressed as dB per metre, Δ, as Δ=20log10(eβ)=8,686 β dB/m. 
++++++ TIFF +++++ 
+If A refers to the velocity response then the sound power emitted from the track is proportional to ∫x0| A(z) |2 dz. This quantity is simply related to the decay rate, either for vertical or lateral waves, by: 
++++++ TIFF +++++ 
+∫x0| A(z) |2 dz = | A(0) |2 ∫x0 e-2ß dz = | A(0) |2 1 2ß | (A2.1) | 
+This demonstrates the way in which the decay rate is in relation to the noise-radiation performance of the track structure. It should be expressed as a value in dB/m for each one-third octave frequency band. 
+The decay rate can, in principle, be evaluated as the slope of a graph of response amplitude in dB versus the distance z. In practice however, it is better to evaluate a decay rate based on a direct estimate of the summed response: 
++++++ TIFF +++++ 
+∫x0| A(z) |2| A(0) |2 dz = 1 2ß ≃ Σz maxz=0 | A(z) |2| A(0) |2Δz | (A2.2) | 
+where zmax is the maximum measurement distance and the sum is carried out for the response measurement locations with Δz representing the interval between the mid-distance points to the measurement locations either side. The influence of the interval taken at for the measurement at zmax should be small but is prescribed here to be symmetrical about zmax. 
+Thus for the response averaged in each one-third octave frequency band, the decay rate is evaluated as: 
++++++ TIFF +++++ 
+Δ (in dB/m) ≃ 4.343Σz maxz=0| A(z) |2| A(0) |2Δz | (A2.3) | 
+It is clear from this that it is immaterial whether A represents the response in terms of accelerance or mobility since these only differ by the factor 2πf, where f is the frequency. The averaging of the spectrum over one-third octave frequency bands may be carried out either before the evaluation of the decay rate for the FRFs or afterwards on the function Δ(f). Notice that accurate measurement of A(0) is important as it appears as a constant factor in the summation. In fact this is the FRF most easily measured accurately. Experience has shown that there is no significant error introduced by the fact that near-field waves are not taken into account in this simple analysis. 
+This method of evaluation is robust for high rates of decay but may be subject to error if the practical value of zmax truncates the response in any one-third octave frequency band before a sufficient attenuation has taken place for the summation to zmax to represent a good approximation to the infinite integral. Thus a minimum decay rate that can be evaluated for a particular value of zmax is: 
++++++ TIFF +++++ 
+Δmin = 4.343zmax | (A2.4) | 
+The evaluated decay rate should be compared with this value and if it is close to it the estimation of decay rate deemed unsafe. A value of zmax of about 40 m should be capable of evaluating a track decay rate that complies with the minimum specified in Figure F2. However, some incompliant tracks have significantly lower decay rates in some bands and to avoid the escalation of effort in measurement it may be necessary to resort to line-slope fitting for some bands. In the case of low decay rates, the response data tends to be free from some of the problems indicated above. They should be checked by plotting them together with the measured FRF versus distance, for each one-third-octave frequency band. 
+A.2.4. Test report 
+The spatial TDR (vertical and transversal directions) should be presented for the third-octave frequency bandwidth, in a graph following the presentation specified in Pr EN ISO 3740 [2] and IEC 60263 [3] with a scale ratio between horizontal and vertical axles of 3/4, respectively for one octave bandwidth and a decay rate of 5 dB/m. 
+[1] EN ISO CEI 17025: General requirements for the competence of testing and calibration laboratories, 2000. 
+[2] EN ISO 3740:2000: Acoustic — Determination of sound power levels of noise sources — Guidelines for the use of basic standards. 
+[3] IEC 60263: Scales and sizes for plotting frequency characteristics and polar diagrams. 
+-------------------------------------------------- 
+ANNEX B 
+MODULES FOR THE EC VERIFICATION OF SUBSYSTEMS –ASPECT NOISE 
+MODULES FOR THE EC VERIFICATION OF SUBSYSTEMS 
+Module SB: Type examination, 
+Module SD: Product quality management system, 
+Module SF: Product verification, 
+Module SH2: Full quality management system with design examination. 
+B.1. Module SB: Type examination 
+1. This module describes the EC verification procedure whereby a notified body checks and certifies at the request of an contracting entity or its authorised representative established within the Community, that a type of a rolling stock subsystem aspect noise, representative of the production envisaged, 
+- complies with this TSI and any other applicable TSI, which demonstrate that the essential requirements [1] of Directive 2001/16/EC [2] have been met, 
+- complies with the other regulations deriving from the Treaty. 
+The type examination defined by this module could include specific assessment phases — design review, type test or review of manufacturing process, which are specified in the relevant TSI. 
+2. The contracting entity [3] must lodge an application for EC verification (through type examination) of the subsystem with a notified body of his choice. 
+The application must include : 
+- name and address of the contracting entity or its authorised representative, 
+- the technical documentation, as described in point 3. 
+3. The applicant must place at the disposal of the notified body a specimen of the subsystem [4], representative of the production envisaged and hereinafter called "type". 
+A type may cover several versions of the subsystem provided that the differences between the versions do not affect the provisions of the TSI. 
+The notified body may request further specimens if needed for carrying out the test programme. 
+If so required for specific test or examination methods and specified in the TSI or in the European specification [5] referenced to in the TSI, a specimen or specimens of a subassembly or assembly or a specimen of the subsystem in a pre-assembled condition shall to be provided. 
+The technical documentation and specimen(s) must enable the design, manufacture, installation, maintenance and operation of the subsystem to be understood, and shall enable conformity with the provisions of the TSI to be assessed. 
+The technical documentation must include: 
+- a general description of the subsystem, overall design and structure, 
+- the rolling stock register, including all information as specified in the TSI, 
+- conceptual design and manufacturing information, for example drawings, schemes of components, subassemblies, assemblies, circuits, etc., 
+- descriptions and explanations necessary for the understanding of the design and manufacturing information, the maintenance and the operation of the subsystem, 
+- the technical specifications, including European specifications, that have been applied, 
+- any necessary supporting evidence for the use of the above specifications, in particular where European specifications and the relevant clauses have not been applied in full, 
+- a list of the interoperability constituents to be incorporated into the subsystem, 
+- copies of the EC declarations of conformity or suitability for use of interoperability constituents and all the necessary elements defined in Annex VI to the Directives, 
+- evidence of conformity with the other regulations deriving from the treaty (including certificates), 
+- technical documentation regarding the manufacture and the assembly of the subsystem, 
+- a list of manufacturers, involved in the subsystem's design, manufacturing, assembly and installation, 
+- conditions for use of the subsystem (restrictions of running time or distance, wear limits etc.), 
+- conditions for maintenance and technical documentation regarding the maintenance of the subsystem, 
+- any technical requirement that must be taken into account during production, maintenance or operation of the subsystem, 
+- results of design calculations made, examinations carried out, etc., 
+- test reports. 
+If the TSI requires further information for the technical documentation, this shall be included. 
+4. The notified body must: 
+4.1. Examine the technical documentation, 
+4.2. Verify that the specimen(s) of the subsystem or of assemblies or subassemblies of the subsystem, has (have) been manufactured in conformity with the technical documentation, and carry out or have carried out the type tests in accordance with the provisions of the TSI and the appropriate European specifications. Such manufacture shall be verified using an appropriate assessment module; 
+4.3. Where a design review is requested in the TSI, perform an examination of the design methods, the design tools and the design results to evaluate their capability to fulfil the requirements for conformity for the subsystem at the completion of the design process; 
+4.4. Identify the elements which have been designed in accordance with the relevant provisions of the TSI and the European specifications as well as the elements which have been designed without applying the relevant provisions of those European specifications; 
+4.5. Perform or have performed the appropriate examinations and necessary tests in accordance with points 4.2. and 4.3 to establish where the relevant European specifications have been chosen, these have actually been applied; 
+4.6. Perform or have performed the appropriate examinations and necessary tests in accordance with point 4.2. and 4.3. to establish whether the solutions adopted meet the requirements of the TSI when the appropriate European specifications have not been applied; 
+4.7. Agree with the applicant the location where the examinations and necessary tests will be carried out. 
+5. Where the type meets the provisions of the TSI, the notified body shall issue a type-examination certificate to the applicant. The certificate shall contain the name and address of the contracting entity and the manufacturer(s) indicated in the technical documentation, conclusions of the examination, conditions for its validity and the necessary data for identification of the approved type. 
+A list of the relevant parts of the technical documentation must be annexed to the certificate and a copy kept by the notified body. 
+If the contracting entity is denied a type-examination certificate, the notified body must provide detailed reasons for such denial. Provision must be made for an appeals procedure. 
+6. Each notified body must communicate to the other notified bodies the relevant information concerning the type-examination certificates issued, withdrawn or refused. 
+7. The other notified bodies may receive on request copies of the type-examination certificates issued and/or their additions. The annexes to the certificates must be kept at the disposal of the other notified bodies. 
+8. The contracting entity must keep with the technical documentation copies of type-examination certificates and any additions throughout the service life of the subsystem. It must be sent to any Member State which so requests. 
+9. The applicant must inform the notified body that holds the technical documentation concerning the type-examination certificate of all modifications which may affect the conformity with the requirements of the TSI or the prescribed conditions for use of the subsystem. The subsystem must receive additional approval in such cases. This additional approval may be given either in the form of an addition to the original type-examination certificate, or by issue of a new certificate after withdrawal of the old certificate. 
+B.2. Module SD: Production quality management system 
+1. This module describes the EC verification procedure whereby a notified body checks and certifies, at the request of an contracting entity or its authorised representative established within the Community, that a rolling stock subsystem aspect noise, for which already a type-examination certificate has been issued by a notified body: 
+- complies with this TSI and any other applicable TSI, which demonstrate that the essential requirements [6] of Directive 2001/16/EC [7] have been met, 
+- complies with the other regulations deriving from the Treaty, and may be placed in service. 
+2. The notified body carries out the procedure, under the condition, that: 
+- the type examination certificate issued prior to the assessment remains valid for the subsystem subject to the application, 
+- the contracting entity [8] and the main contractors involved are satisfying the obligations of point 3. 
+The "main contractors" refers to companies, whose activities contribute to fulfil the essential requirements of the TSI. It concerns: 
+- the company responsible for the whole subsystem project (including in particular responsibility for subsystem integration), 
+- other companies only involved in a part of the subsystem project (performing for example assembly or installation of the subsystem). 
+It does not refer to manufacturer subcontractors supplying components and interoperability constituents. 
+3. For the subsystem that is subject of the EC verification procedure, the contracting entity, or the main contractors when employed, shall operate an approved quality management system for manufacture and final product inspection and testing as specified in point 5 and which shall be subject to surveillance as specified in point 6. 
+When the contracting entity itself is responsible for the whole subsystem project (including in particular responsibility for subsystem integration), or the contracting entity is directly involved in the production (including assembly and installation), it has to operate an approved quality management system for those activities, which shall be subject to surveillance as specified in point 6. 
+If a main contractor is responsible for the whole subsystem project (including in particular responsibility for subsystem integration), it must operate in any case an approved quality management system for manufacture and final product inspection and testing, which shall be subject to surveillance as specified in point 6. 
+4. EC verification procedure 
+4.1. The contracting entity must lodge an application for EC verification of the subsystem (through production quality management system), including coordination of the surveillance of the quality management systems, as under points 5.3 and 6.5. with a notified body of its choice. The contracting entity must inform the manufacturers involved of this choice and of the application. 
+4.2. The application must enable the design, manufacture, assembly, installation, maintenance and operation of the subsystem to be understood, and shall enable conformity with the type as described in the type-examination certificate and the requirements of the TSI to be assessed. 
+The application must include: 
+- name and address of the contracting entity or its authorised representative, 
+- the technical documentation regarding the approved type, including the type examination certificate, as issued after completion of the procedure defined in module SB, 
+and, if not included in this documentation, 
+- a general description of the subsystem, its overall design and structure, 
+- the technical specifications, including European specifications, that have been applied, 
+- any necessary supporting evidence for the use of the above specifications, in particular where these European specifications, and the relevant clauses have not been applied in full. This supporting evidence must include the results of tests carried out by the appropriate laboratory of the manufacturer or on his behalf, 
+- the rolling stock register, including all information as specified in the TSI, 
+- the technical documentation regarding the manufacture and the assembly of the subsystem, 
+- evidence of conformity to other regulations deriving from the treaty (including certificates) for the production phase, 
+- a list of the interoperability constituents to be incorporated into the subsys- tem, 
+- copies of the EC declarations of conformity or suitability for use with which the constituents must be provided, and all the necessary elements defined in Annex VI to the Directives, 
+- a list of manufacturers, involved in the subsystem's design, manufacturing, assembly and installation, 
+- the demonstration, that all stages, as mentioned in point 5.2, are covered by quality management systems of the contracting entity, if involved, and/or of the main contractors, and the evidence of their effectiveness, 
+- indication of the notified body, responsible for the approval and surveillance of these quality management systems. 
+4.3. The notified body shall first examine the application concerning the validity of the type examination and the type examination certificate. 
+If the notified body considers the type examination certificate no longer remains valid or is not appropriate and that a new type examination is necessary, it shall justify its decision. 
+5. Quality management system 
+5.1. The contracting entity, if involved, and the main contractors, when employed, must lodge an application for assessment of their quality management systems with a notified body of their choice. 
+The application must include: 
+- all relevant information for the subsystem envisaged, 
+- the quality management system documentation, 
+- the technical documentation of the approved type and a copy of the type examination certificate, issued after the completion of the type examination procedure of module SB. 
+For those only involved in a part of the subsystem project, the information to be provided is only that for the relevant part. 
+5.2. For the contracting entity or the main contractor responsible for the whole subsystem project, the quality management systems shall ensure overall compliance of the subsystem with the type as described in the type-examination certificate and overall compliance of the subsystem with the requirements of the TSI. For other main contractor, their quality management system(s) has (have) to ensure compliance of their relevant contribution to the subsystem with the type as described in the type-examination certificate and with the requirements of the TSI. 
+All the elements, requirements and provisions adopted by the applicant(s) must be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. This quality management system documentation shall ensure a common understanding of the quality policies and procedures such as quality programmes, plans, manuals and records. 
+It must contain in particular an adequate description of the following items for all applicant(s): 
+- the quality objectives and the organisational structure, 
+- the corresponding manufacturing, quality control and quality management techniques, processes and systematic actions that will be used, 
+- the examinations, checks and tests that will be carried out before, during and after manufacture, assembly and installation, and the frequency with which they will be carried out, 
+- the quality records, such as inspection reports and test data, calibration data, qualification reports of the personnel concerned, etc., and also for the contracting entity or the main contractor responsible for the whole subsystem project, 
+- responsibilities and powers of the management with regard to overall subsystem quality, including in particular the subsystem integration management. 
+The examinations, tests and checking shall cover all of the following stages: 
+- structure of subsystem, including, in particular, civil-engineering activities, constituent assembly, final adjustment, 
+- final testing of the subsystem, 
+- and, where specified in the TSI, the validation under full operation conditions. 
+5.3. The notified body chosen by the contracting entity must examine, if all stages of the subsystem as mentioned under point 5.2 are sufficiently and properly covered by the approval and surveillance of the quality management system(s) of the applicant(s) [9]. 
+If the conformity of the subsystem with the type as described in the type-examination certificate and the compliance of the subsystem with the requirements of the TSI is based on more than one quality management system, the notified body shall examine in particular, 
+- if the relations and interfaces between the quality management systems are clearly documented, 
+- and if overall responsibilities and powers of the management for the compliance of the whole entire subsystem for the main contractors are sufficiently and properly defined. 
+5.4. The notified body referenced to in point 5.1 must assess the quality management system to determine whether it satisfies the requirements referenced in point 5.2. It presumes compliance with these requirements if the applicant implements a quality system for production, final product inspection and testing in respect of the Standard EN ISO 9001 — 2000, which takes into consideration the specificity of the subsystem for which it is implemented. 
+When an applicant operates a certified quality management system, the notified body shall take this into account in the assessment. 
+The audit shall be specific for the subsystem concerned, taking into consideration the specific contribution of the applicant to the subsystem. The auditing team must have at least one member experienced as an assessor in the subsystem technology concerned. The evaluation procedure shall include an assessment visit to the applicant's premises. 
+The decision must be notified to the applicant. The notification must contain the conclusions of the examination and the reasoned assessment decision. 
+5.5. The contracting entity, if involved, and the main contractors shall undertake to fulfil the obligations arising out of the quality management system as approved and to uphold it so that it remains adequate and efficient. 
+They must keep the notified body that has approved the quality management system, informed of any significant change that will affect the fulfilment of the TSI requirements by the subsystem. 
+The notified body must evaluate the modifications proposed and decide whether the amended quality management system will still satisfy the requirements referenced in point 5.2 or whether a re-assessment is required. 
+It must notify its decision to the applicant. The notification shall contain the conclusions of the examination and the reasoned assessment decision. 
+6. Surveillance of the quality management system(s) under the responsibility of the notified body 
+6.1. The purpose of surveillance is to make sure that the contracting entity, if involved, and the main contractors, duly fulfil the obligations arising out of the approved quality management system(s). 
+6.2. The contracting entity, if involved, and the main contractors must send to the notified body referenced in point 5.1 (or have sent) all the documents needed for that purpose including the implementation plans and technical records concerning the subsystem (as far as relevant for the specific contribution of the applicants to the subsystem), in particular: 
+- the quality management system documentation, including the particular means implemented to ensure that: 
+- for the contracting entity or main contractor, responsible for the whole subsystem project, overall responsibilities and powers of the management for the compliance of the entire subsystem are sufficiently and properly defined, 
+- for each applicant, the quality management system is correctly managed for achieving integration at subsystem level, 
+- the quality records as foreseen by the manufacturing part (including assembly and installation) of the quality management system, such as inspection reports and test data, calibration data, qualification reports of the personnel concerned, etc. 
+6.3. The notified body must periodically carry out audits to make sure that the contracting entity, if involved, and the main contractors, maintain and apply the quality management system and must provide an audit report to them. When those operate a certified quality management system, the notified body shall take this into account in the surveillance. 
+The frequency of the audits shall be at least once a year, with at least one audit during the time period of performing relevant activities (manufacture, assembly or installation) of the subsystem being the subject of the EC verification procedure mentioned under point 8. 
+6.4. Additionally the notified body may pay unexpected visits to the relevant sites of the applicant(s). At the time of such visits, the notified body may conduct complete or partial audits and may carry out or cause to be carried out tests, in order to check the proper functioning of the quality management system where necessary. It must provide the applicant(s) with an inspection report and also, audit and/or test reports, as appropriate. 
+6.5. The notified body chosen by the contracting entity and responsible for the EC verification, if not carrying out the surveillance of all the quality management system(s) concerned, must co ordinate the surveillance activities of any other notified body responsible for that task, in order: 
+- to be ensured that correct management of interfaces between the different quality management systems relating to subsystem integration has been performed, 
+- to collect, in liaison with the contracting entity, the necessary elements for the assessment to guarantee the consistency and the overall supervision of the different quality management systems. 
+This coordination includes the rights of the notified body: 
+- to receive all documentation (approval and surveillance), issued by the other notified bodies, 
+- to witness the surveillance audits in point 6.3, 
+- to initiate additional audits as in point 6.4 under its responsibility and together with the other notified bodies. 
+7. The notified body as referenced in point 5.1 must have entrance, for inspection purposes, audit and surveillance, to the locations of building sites, production workshops, locations of assembly and installations, storage areas and where appropriate, prefabrication and testing facilities and, more general, to all premises which it considers necessary in order to carry out its tasks, in accordance with the applicant's specific contribution to the subsystem project. 
+8. The contracting entity, if involved, and the main contractors must, for a period of 10 years after the last subsystem has been manufactured, keep at the disposal of the national authorities: 
+- the documentation referenced in the second indent of the second subparagraph of point 5.1, 
+- the updating referenced in the second subparagraph of point 5.5, 
+- the decisions and reports from the notified body, which are, referenced in points 5.4, 5.5 and 6.4. 
+9. Where the subsystem meets the requirements of the TSI, the notified body must then, based on the type examination and the approval and surveillance of the quality management system(s), draw up the certificate of conformity intended for the contracting entity, who shall in turn draw up the EC declaration of verification intended for the supervisory authority in the Member State within which the subsystem is located and/or operates. 
+The EC declaration of verification and the accompanying documents must be dated and signed. The declaration must be written in the same language of the technical file and must contain at least the information included in Annex V to the Directive. 
+10. The notified body chosen by the contracting entity shall be responsible for compiling the technical file that has to accompany the EC declaration of verification. The technical file shall include at least the information indicated in the Article 18(3) of the Directive, and in particular as follows: 
+- all necessary documents relating to the characteristics of the subsystem, 
+- a list of interoperability constituents incorporated into the subsystem, 
+- copies of the EC declarations of conformity and, where appropriate, of the EC declarations of suitability for use, which said constituents must be provided in accordance with Article 13 of the Directive, accompanied, where appropriate, by the corresponding documents (certificates, quality management system approvals and surveillance documents) issued by the notified bodies, 
+- all elements relating to the maintenance, the conditions and limits for use of the subsystem, 
+- all elements relating to the instructions concerning servicing, constant or routine monitoring, adjustment and maintenance, 
+- the type-examination certificate for the subsystem and the accompanying technical documentation as defined in the module SB, 
+- evidence of conformity with other regulations deriving from the Treaty (including certificates), 
+- certificate of conformity of the notified body as mentioned in point 9, accompanied by corresponding calculation notes and countersigned by itself, stating that the project complies with the Directive and the TSI, and mentioning, where appropriate, reservations recorded during performance of the activities and not withdrawn. The certificate should also be accompanied by the inspection and audit reports drawn up in connection with the verification, as mentioned in points 6.3 and 6.4 and in particular: 
+- the rolling stock register, including all information as specified in the TSI. 
+11. Each notified body must communicate to the other notified bodies the relevant information concerning the quality management system approvals issued, withdrawn or refused. 
+The other notified bodies may receive on request copies of the quality management system approvals issued. 
+12. The records accompanying the certificate of conformity must be lodged with the contracting entity. 
+The contracting entity within the Community must keep a copy of the technical file throughout the service life of the subsystem; it must be sent to any other Member State which so requests. 
+B.3 Module SF: Product verification 
+1. This module describes the EC verification procedure whereby a notified body checks and certifies at the request of an contracting entity or its authorised representative established within the Community, that a rolling stock subsystem aspect noise, for which a type-examination certificate has already been issued by a notified body: 
+- complies with this TSI and any other applicable TSI, which demonstrate that the essential requirements [10] of Directive 2001/16/EC [11] have been met, 
+- complies with the other regulations deriving from the Treaty, 
+and may be placed into service. 
+2. The contracting entity [12] must lodge an application for EC verification (through product verification) of the subsystem with a notified body of his choice. The application shall include: 
+- the name and address of the contracting entity or its authorised representative, 
+- the technical documentation. 
+3. Within that part of the procedure the contracting entity checks and attests that the subsystem concerned is in conformity with the type as described in the type examination certificate and satisfies the requirements of the TSI that apply to it. 
+The notified body shall carrying out the procedure under the condition that the type examination certificate issued prior to the assessment remains valid for the subsystem subject to the application. 
+4. The contracting entity must take all measures necessary in order that the manufacturing process (including assembly and integration of interoperability constituents by main contractors [13] when employed) ensures conformity of the subsystem with the type as described in the type-examination certificate and with the requirements of the TSI that apply to it. 
+5. The application must enable the design, manufacture, installation, maintenance and operation of the subsystem to be understood, and shall enable conformity with the type as described in the type-examination certificate and the requirements of the TSI to be assessed. 
+The application must include: 
+- the technical documentation regarding the approved type, including the type examination certificate, as issued after completion of the procedure defined in module SB, 
+and, if not included in this documentation, 
+- a general description of the subsystem, overall design and structure, 
+- the rolling stock register, including all information as specified in the TSI, 
+- conceptual design and manufacturing information, for example drawings, schemes of components, subassemblies, assemblies, circuits, etc., 
+- the technical documentation regarding the manufacture and the assembly of the subsystem, 
+- the technical specifications, including European specifications, that have been applied, 
+- any necessary supporting evidence for the use of the above specifications, in particular where these European specifications and the relevant clauses have not been applied in full, 
+- evidence of conformity to other regulations deriving from the treaty (including certificates) for the production phase, 
+- a list of the interoperability constituents, to be incorporated into the subsystem, 
+- copies of the EC declarations of conformity or suitability for use with which said constituents must be provided and all the necessary elements defined in Annex VI to the Directives, 
+- a list of manufacturers involved in the subsystem's design, manufacture, assembly and installation. 
+If the TSI requires further information for the technical documentation, this shall be included. 
+6. The notified body shall first examine the application concerning the validity of the type examination and the type examination certificate. 
+If the notified body considers the type examination certificate no longer remains valid or is not appropriate and that a new type examination is necessary, it shall justify its decision. 
+The notified body must carry out the appropriate examinations and tests in order to check the conformity of the subsystem with the type, as described in the type examination certificate and with the requirements of the TSI. The notified body shall examine and testing of every subsystem manufactured as a serial product, as specified in point 4. 
+7. Verification by examination and testing of every subsystem (as a serial product) 
+7.1. The notified body must carry out the tests, examinations and verifications, to ensure conformity of the subsystems, as serial products as provided for in the TSI. The examinations, tests and checking shall extend to the stages as provided for in the TSI. 
+7.2. Each subsystem (as serial product) must be individually examined, tested and verified [14] in order to verify its conformity with the type as described in the type-examination certificate and the requirements of the TSI that apply to it. When a test is not set out in the TSI, (or in a European standard quoted in the TSI), the relevant European specifications or equivalent tests are applicable. 
+8. The notified body may agree with the contracting entity (and the main contractors) the locations where the tests will be carried out and may agree that final testing of the subsystem and, whenever required in the TSI, tests or validation under full operating conditions, are carried out by the contracting entity under direct supervision and attendance of the notified body. 
+The notified body shall have entrance for testing and verification purposes to production workshops, locations of assembly and installations, and where appropriate, prefabrication and testing facilities in order to carry out its tasks as provided for in the TSI. 
+9. Where the subsystem meets the requirements of the TSI, the notified body must, draw up the certificate of conformity intended for the contracting entity, which in turn draws up the EC declaration of verification intended for the supervisory authority in the Member State where the subsystem is located and/or operates. 
+These NB activities shall be based on the type examination and the tests, verifications and checks carried out on all serial products as indicated in point 7 and required in the TSI and/or in the relevant European specifications. 
+The EC declaration of verification and the accompanying documents must be dated and signed. The declaration must be written in the same language of the technical file and must contain at least the information included in Annex V of the Directive. 
+10. The notified body shall be responsible for compiling the technical file that has to accompany the EC declaration of verification. The technical file shall include at least the information indicated in Article 18(3) of the Directive, and in particular as follows : 
+- all necessary documents relating to the characteristics of the subsystem, 
+- the rolling stock register, including all information as specified in the TSI, 
+- the list of interoperability constituents incorporated into the subsystem, 
+- copies of the EC declarations of conformity and, where appropriate, of the EC declarations of suitability for use, which the constituents must be provided in accordance with Article 13 of the Directive, accompanied, where appropriate, by the corresponding documents (certificates, quality management system approvals and surveillance documents) issued by the notified bodies, 
+- all elements relating to the maintenance, the conditions and limits for use of the subsystem, 
+- all elements relating to the instructions concerning servicing, constant or routine monitoring, adjustment and maintenance, 
+- the type-examination certificate for the subsystem and accompanying technical documentation, as defined in the module SB, 
+- certificate of conformity of the notified body as mentioned in point 9, accompanied by corresponding calculation notes and countersigned by itself, stating that the project complies with the directive and the TSI, and mentioning, where appropriate, reservations recorded during performance of activities and not withdrawn. The certificate should also be accompanied, if relevant, by the inspection and audit reports drawn up in connection with the verification. 
+11. The records accompanying the certificate of conformity must be lodged with the contracting entity. 
+The contracting entity must keep a copy of the technical file throughout the service life of the subsystem; it must be sent to any other Member State which so requests. 
+B.4 Module SH2: Full quality management system with design examination 
+1. This module describes the EC verification procedure whereby a notified body checks and certifies, at the request of an contracting entity or its authorised representative established within the Community, that a rolling stock subsystem Aspect Noise: 
+- complies with this TSI and any other applicable TSI, which demonstrate that the essential requirements [15] of Directive 2001/16/EC [16] have been met, 
+- complies with the other regulations deriving from the Treaty; 
+and may be placed in service. 
+2. The notified body shall carry out the procedure, including a design examination of the subsystem, under the condition, that the contracting entity [17] and the main contractors involved are satisfying the obligations of point 3. 
+The "main contractors" refers to companies, whose activities contribute to fulfil the essential requirements of the TSI. It concerns the company: 
+- responsible for the whole subsystem project (including in particular responsibility for subsystem integration), 
+- other companies only involved only in a part of the subsystem project (performing for example design, assembly or installation of the subsystem). 
+It does not refer to manufacturer subcontractors supplying components and interoperability constituents. 
+3. For the subsystem that is subject of the EC verification procedure, the contracting entity or the main contractors, when employed, shall operate an approved quality management system for design, manufacture and final product inspection and testing as specified in point 5 and which shall be subject to surveillance as specified in point 6. 
+The main contractor responsible for the whole subsystem project (including in particular responsibility for subsystem integration), must operate in any case an approved quality management system for design, manufacture and final product inspection and testing, which shall be subject to surveillance as specified in point 6. 
+In the case that the contracting entity itself is responsible for the whole subsystem project (including in particular responsibility for subsystem integration) or that the contracting entity is directly involved in the design and/or production (including assembly and installation), it shall operate an approved quality management system for those activities, which shall be subject to surveillance as specified in point 6. 
+Applicants which are only involved in assembly and installation, may operate only an approved quality management system for manufacture and final product inspection and testing 
+4. EC verification procedure 
+4.1. The contracting entity must lodge an application for EC verification of the subsystem (through full quality management system with design examination), including co ordination of surveillance of the quality management systems as in points 5.4 and 6.6, with a notified body of its choice. The contracting entity must inform the manufacturers involved of his choice and of the application. 
+4.2. The application must enable the design, manufacture, assembly, installation, maintenance and operation of the subsystem to be understood, and shall enable conformity with the requirements of the TSI to be assessed. 
+The application must include: 
+- name and address of the contracting entity or its authorised representative, 
+- the technical documentation including: 
+- a general description of the subsystem, overall design and structure, 
+- the technical design specifications, including European specifications, that have been applied, 
+- any necessary supporting evidence for the use of the above specifications in particular where the European specifications and the relevant clauses have not been applied in full, 
+- the test programme, 
+- the rolling stock register, including all information as specified in the TSI, 
+- the technical documentation regarding the manufacture, the assembly of the subsystem, 
+- a list of the interoperability constituents to be incorporated into the subsystem, 
+- copies of the EC declarations of conformity or suitability for use with which the constituents must be provided and all the necessary elements defined in Annex VI to the Directives, 
+- evidence of conformity to other regulations deriving from the treaty (in- cluding certificates), 
+- a list of all manufacturers, involved in the subsystem's design, manufacturing, assembly and installation, 
+- conditions for use of the subsystem (restrictions of running time or distance, wear limits, etc), 
+- conditions for maintenance and technical documentation regarding the maintenance of the subsystem, 
+- any technical requirement that must be taken into account during production, maintenance or operation of the subsystem, 
+- the explanation, of how all stages, as mentioned in point 5.2, are covered by quality management systems of the mains contractor(s) and/or of the contracting entity, if involved, and the evidence of their effectiveness, 
+- indication of the notified body(ies) responsible for the approval and surveillance of these quality management systems. 
+4.3. The contracting entity shall present the results of examinations, checking and tests [18], including type tests when required, carried out by its appropriate laboratory or on their behalf. 
+4.4. The notified body must examine the application concerning the design examination and assess the results of the tests. Where the design meets the provisions of the Directive and of the TSI that apply to it must issue a design examination report to the applicant. The report shall contain the conclusions of the design examination, conditions for its validity, the necessary data for identification of the design examined and, if relevant, a description of the subsystem's functioning. 
+If the contracting entity is denied a design examination report, the notified body must provide detailed reasons for such denial. Provision must be made for an appeals procedure. 
+5. Quality management system 
+5.1. The contracting entity, if involved, and the main contractors, when employed, must lodge an application for assessment of their quality management systems with a notified body of their choice. 
+The application must include: 
+- all relevant information for the subsystem envisaged, 
+- the quality management system documentation. 
+For those only involved in a part of the subsystem project, the information to be provided is only that for the relevant part. 
+5.2. For the contracting entity or the main contractor responsible for the whole subsystem project, the quality management system shall ensure overall compliance of the subsystem with the requirements of the TSI. 
+The quality management system(s), for other main contractor(s), has (have) to ensure compliance of their relevant contribution to the subsystem, with the requirements of the TSI. 
+All the elements, requirements and provisions adopted by the applicants must be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. This quality management system documentation shall ensure a common understanding of the quality policies and procedures such as quality programmes, plans, manuals and records. 
+The system must contain in particular an adequate description of the following items: 
+- for all applicants: 
+- the quality objectives and the organisational structure, 
+- the corresponding manufacturing, quality control and quality management techniques, processes and systematic actions that will be used, 
+- the examinations, checking and tests that will be carried out before, during and after design, manufacture, assembly and installation and the frequency with which they will be carried out, 
+- the quality records, such as inspection reports and test data, calibration data, qualification reports of the personnel concerned, etc.; 
+- for the main contractors, as far as relevant for their contribution to the design of the subsystem: 
+- the technical design specifications, including European specifications [19], that will be applied and, where the European specifications will not be applied in full, the means that will be used to ensure that the requirements of the TSI that apply to the subsystem will be met, 
+- the design control and design verification techniques, processes and systematic actions that will be used when designing the subsystem, 
+- the means to monitor the achievement of the required design and subsystem quality and the effective operation of the quality management systems in all phases including production; 
+- and also for the contracting entity or the main contractor responsible for the whole subsystem project: 
+- responsibilities and powers of the management with regard to overall subsystem quality, including in particular the subsystem integration management. 
+The examinations, tests and checking shall cover all of the following stages: 
+- overall design, 
+- structure of the subsystem, including, in particular, civil-engineering activities, constituent assembly, final adjustment, 
+- final testing of the subsystem, 
+- and, where specified in the TSI, the validation under full operation conditions. 
+5.3. The notified body chosen by the contracting entity must examine, if all stages of the subsystem as mentioned in point 5.2 are sufficiently and properly covered by the approval and surveillance of the quality management system(s) of the applicant(s) [20]. 
+If the compliance of the subsystem with the requirements of the TSI is based on more than one quality management system, the notified body shall examine in particular, 
+- if the relations and interfaces between the quality management systems are clearly documented, 
+- and if overall responsibilities and powers of the management for the compliance of the whole entire subsystem for the main contractor are sufficiently and properly defined. 
+5.4. The notified body referenced in point 5.1 must assess the quality management system to determine whether it satisfies the requirements of point 5.2. It presumes compliance with these requirements if the applicant implements a quality system for design, production, final product inspection and testing in respect of the Standard EN/ISO 9001 — 2000, which takes into consideration the specificity of the subsystem for which it is implemented. 
+When an applicant operates a certified quality management system, the notified body shall take this into account in the assessment. 
+The audit shall be specific for the subsystem concerned, taking into consideration the specific contribution of the applicant to the subsystem. The auditing team must have at least one member experienced as an assessor in the subsystem technology concerned. The evaluation procedure shall include an assessment visit to the applicant's premises. 
+The decision must be notified to the applicant. The notification must contain the conclusions of the examination and the reasoned assessment decision. 
+5.5. The contracting entity, if involved, and the main contractors shall undertake to fulfil the obligations arising out of the quality management system as approved and to uphold it so that it remains adequate and efficient. 
+They must keep the notified body that has approved their quality management system informed of any significant change that will affect the fulfilment of the requirements by the subsystem. 
+The notified body must evaluate any modifications proposed and decide whether the amended quality management system will still satisfy the requirements of point 5.2 or whether a re-assessment is required. 
+It shall notify its decision to the applicant. The notification shall contain the conclusions of the examination and the reasoned assessment decision. 
+6. Surveillance of the quality management system(s) under the responsibility of the notified body 
+6.1. The purpose of surveillance is to make sure that the contracting entity, if involved, and the main contractors duly fulfil the obligations arising out of the approved quality management system(s). 
+6.2. The contracting entity, if involved, and the main contractors must send the notified body referenced in point 5.1 (or have sent) all the documents needed for that purpose and in particular the implementation plans and technical records concerning the subsystem (as far as relevant for the specific contribution of the applicant to the subsystem), including: 
+- the quality management system documentation, including the particular means implemented to ensure that: 
+- for the contracting entity or the main contractor, responsible for the whole subsystem project, overall responsibilities and powers of the management for the compliance of the whole entire subsystem are sufficiently and properly defined, 
+- for each applicant, the quality management system is correctly managed for achieving integration at subsystem level, 
+- the quality records as foreseen by the design part of the quality management system, such as results of analyses, calculations, tests, etc., 
+- the quality records as foreseen by the manufacturing part (including assembly, installation and integration) of the quality management system, such as inspection reports and test data, calibration data, competency records of the personnel concerned, etc. 
+6.3. The notified body must periodically carry out audits to make sure that the contracting entity, if involved, and the main contractors maintain and apply the quality management system and shall provide an audit report to them. When they operate a certified quality management system, the notified body shall take this into account in the surveillance. 
+The frequency of the audits shall be at least once a year, with at least one audit during the time period of performing the relevant activities (design, manufacture, assembly or installation) for the subsystem being the subject of the EC verification procedure mentioned in point 4. 
+6.4. Additionally the notified body may pay unexpected visits to the sites mentioned in point 5.2 of the applicant(s). At the time of such visits, the notified body may conduct complete or partial audits and may carry out or cause to be carried out tests in order to check the proper functioning of the quality management system where necessary. It must provide the applicant(s) with an inspection report and, audit and/or test reports as appropriate. 
+6.5. The notified body chosen by the contracting entity and responsible for the EC verification, if not carrying out the surveillance of all the quality management system(s) concerned as in point 5, must co ordinate the surveillance activities of any other notified bodies responsible for that task, in order: 
+- to be ensured that correct management of interfaces between the different quality management systems relating to subsystem integration has been performed; 
+- to collect, in liaison with the contracting entity, the necessary elements for the assessment to guarantee the consistency and the overall supervision of the different quality management systems. 
+This coordination includes the right of the notified body: 
+- to receive all documentation (approval and surveillance), issued by the other notified body(ies), 
+- to witness the surveillance audits as in point 5.4, 
+- to initiate additional audits as in point 5.5 under its responsibility and together with the other notified body(ies). 
+7. The notified body as referenced under point 5.1 must have entrance for inspection purposes, audit and surveillance to the locations of design, building sites, production workshops, locations of assembly and installation, storage areas and. where appropriate, prefabrication or testing facilities and, more general, to all premises which it considers necessary for its task, in accordance with the applicant's specific contribution to the subsystem project. 
+8. The contracting entity, if involved, and the main contractors must, for a period of 10 years after the last subsystem has been manufactured, keep at the disposal of the national authorities: 
+- the documentation referenced in the second indent of the second subparagraph of point 5.1, 
+- the updating referenced in the second subparagraph of point 5.5, 
+- the decisions and reports from the notified body which are referenced in the points 5.4, 5.5 and 6.4. 
+9. Where the subsystem meets the requirements of the TSI, the notified body must then, based on the design examination and the approval and surveillance of the quality management system(s), draw up the certificate of conformity intended for the contracting entity, who shall in turn draw up the EC declaration of verification intended for the supervisory authority in the Member State within which the subsystem is located and/or operates. 
+The EC declaration of verification and the accompanying documents must be dated and signed. The declaration must be written in the same language of the technical file and must contain at least the information included in Annex V to the Directive. 
+10. The notified body chosen by the contracting entity shall be responsible for compiling the technical file that has to accompany the EC declaration of verification. The technical file shall include at least the information indicated in Art 18(3) of the Directive, and in particular as follows: 
+- all necessary documents relating to the characteristics of the subsystem, 
+- the list of interoperability constituents incorporated into the subsystem, 
+- copies of the EC declarations of conformity and, where appropriate, of the EC declarations of suitability for use, which the constituents must be provided in accordance with Article 13 of the Directive, accompanied, where appropriate, by the corresponding documents (certificates, quality management system approvals and surveillance documents) issued by the notified bodies, 
+- evidence of conformity to other regulations deriving from the Treaty (including certificates), 
+- all elements relating to the maintenance, the conditions and limits for use of the subsystem, 
+- all elements relating to the instructions concerning servicing, constant or routine monitoring, adjustment and maintenance, 
+- certificate of conformity of the notified body as mentioned in point 9, accompanied by corresponding calculation notes and countersigned by itself, stating that the project complies with the Directive and the TSI, and mentioning, where appropriate, reservations recorded during performance of the activities and not withdrawn. The certificate should also be accompanied, if relevant, by the inspection and audit reports drawn up in connection with the verification, as mentioned in points 6.4 and 6.5, 
+- the rolling stock register, including all information as specified in the TSI. 
+11. Each notified body must communicate to the other notified bodies the relevant information concerning the quality management system approvals and the EC design examination reports, which it has issued, withdrawn or refused. 
+The other notified bodies may receive on request copies of: 
+- the quality management system approvals and additional approvals issued and, 
+- the EC design examination reports and additions issued. 
+12. The records accompanying the certificate of conformity must be lodged with the contracting entity. 
+The contracting entity must keep a copy of the technical file throughout the service life of the subsystem; it must be sent to any other Member State which so requests. 
+[1] The essential requirements are reflected in the technical parameters, interfaces and performance requirements, which are set out in Chapter 4 of the TSI. 
+[2] This module could be used in the future when the TSIs of HS Directive 96/48/EC are updated. 
+[3] In the module, "the contracting entity" means "the subsystem contracting entity, as defined in the directive. or his authorised representative established within the Community". 
+[4] The relevant section of a TSI may define specific requirements in this regard. 
+[5] The definition of an European specification is indicated in Directives 96/48/EC and 2001/16/EC. The guide for application of HS TSIs explains the way to use the European Specifications. 
+[6] The essential requirements are reflected in the technical parameters, interfaces and performance requirements, which are set out in Chapter 4 of the TSI. 
+[7] This module could be used in the future when the TSIs of HS Directive 96/48/EC are updated. 
+[8] In the module, "the contracting entity" means "the subsystem contracting entity, as defined in the Directive. or his authorised representative established within the Community". 
+[9] For the rolling stock TSI, the notified body may participate to the final in service test of locomotives or train set in the conditions specified in the relevant chapter of the TSI. 
+[10] The essential requirements are reflected in the technical parameters, interfaces and performance requirements, which are set out in Chapter 4 of the TSI. 
+[11] This module could be used in the future when the TSIs of HS Directive 96/48/EC are updated. 
+[12] In the module, "the contracting entity" means "the subsystem contracting entity, as defined in the directive. or his authorised representative established within the Community". 
+[13] The "main contractors" refers to companies, whose activities contribute to fulfil essential requirements of the TSI. It concerns the company that can be responsible for the whole subsystem project or other companies only involved in a part of the subsystem project, (performing for example assembly or installation of the subsystem). 
+[14] In particular, for the rolling stock TSI, the notified body will participate in the final in service testing of rolling stock or train set. This will be indicated in the relevant chapter of the TSI. 
+[15] The essential requirements are reflected in the technical parameters, interfaces and performance requirements, which are set out in Chapter 4 of the TSI. 
+[16] This module could be used in the future when the TSIs of HS Directive 96/48/EC are updated. 
+[17] In the module, "the contracting entity" means "the subsystem contracting entity, as defined in the Directive, or his authorised representative established within the Community". 
+[18] The presentation of the results of the tests can be at the same time as the application or later. 
+[19] The definition of an European specification is indicated in Directives 96/48/EC and 2001/16/EC and in the guidelines for application of HS TSIs. 
+[20] For the rolling stock TSI, the notified body may participate to the final in service test of rolling stock or train set in the conditions specified in the relevant chapter of the TSI. 
+-------------------------------------------------- 

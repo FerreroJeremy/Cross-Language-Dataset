@@ -1,0 +1,77 @@
+Commission Regulation (EC) No 500/2001 of 14 March 2001 laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 on the monitoring of catches taken by Community fishing vessels in third country waters and on the high seas 
+Commission Regulation (EC) No 500/2001 
+of 14 March 2001 
+laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 on the monitoring of catches taken by Community fishing vessels in third country waters and on the high seas 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Regulation (EEC) No 2847/93 of 12 October 1993 establishing a control system applicable to the common fisheries policy(1), as last amended by Regulation (EC) No 2846/98(2), and in particular Article 18(4) thereof, 
+Whereas: 
+(1) Member States are required, under Article 18(1) of Regulation (EEC) No 2847/93, to notify the Commission by computer transmission of the quantities of each stock taken by vessels flying their flag operating in waters subject to the sovereignty or jurisdiction of third countries and on the high seas and of all the information received pursuant to Article 17(2) thereof. 
+(2) Details of the information to be submitted, the intervals at which it is to be forwarded and the format to be used for submitting the reports in question should be specified. 
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+1. Each Member State shall notify the Commission by computer transmission, before the end of the first month of each quarter, of the quantities of each stock not subject to TACs or quotas taken by fishing vessels flying its flag operating in waters subject to the sovereignty or jurisdiction of third countries and on the high seas and: 
+- landed directly in its territory during the previous quarter, 
+- landed directly in third countries during the previous quarter, 
+- transhipped to third country vessels during the previous quarter. 
+2. Each Member State shall notify the Commission by computer transmission, before the end of the first month of each quarter, of the quantities taken by fishing vessels flying the flag of another Member State in waters subject to the sovereignty or jurisdiction of third countries and on the high seas and landed in its territory during the previous quarter. 
+3. Where a Member State submits the catch reports referred to in paragraphs 1 and 2, it shall do so in the format shown in the Annex. 
+Article 2 
+This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 14 March 2001. 
+For the Commission 
+Franz Fischler 
+Member of the Commission 
+(1) OJ L 261, 20.10.1993, p. 1. 
+(2) OJ L 358, 31.12.1998, p. 5. 
+ANNEX 
+I. REPORT E 
+Quarterly reports of catches that are not subject to TACs and quotas taken by Community fishing vessels in waters subject to the sovereignty or jurisdiction of third countries and on the high seas and landed and/or transhipped, other than catches landed in the territory of another Member State 
+Reports will contain five types of message, described in points A, B, C, D and E. All messages are mandatory, with the exception of that in point D. 
+Notes: 
+- Each field in a message should end with %quot%;%quot% (semicolon). 
+- Numeric fields representing quantities should be right justified and use the decimal point separator. 
+- Where the FIDES system(1) adopted by the Commission's Fisheries DG is used for submitting data, alternative forms of presentation will be allowed (with no change in content). 
+A. Report type. First message in report 
+%gt%TABLE%gt% 
+B. Identification of reporting Member State. Second message in report 
+%gt%TABLE%gt% 
+C. Identification of period. Third message in report 
+%gt%TABLE%gt% 
+D. Comments. Fourth or subsequent message(s) in report, optional 
+%gt%TABLE%gt% 
+E. Aggregate catch data. Fourth and/or subsequent message(s) in report 
+%gt%TABLE%gt% 
+II. REPORT F 
+Quarterly reports of catches that are not subject to TACs and quotas taken by Community fishing vessels of other Member States in waters subject to the sovereignty or jurisdiction of third countries and on the high seas and landed in the territory of the reporting Member State 
+Reports will contain five types of message, decribed in points A, B, C, D and E. All messages are mandatory, with the exception of that in point D. 
+The notes for report E, given in I above, apply also to report F. 
+A. Report type. First message in report 
+%gt%TABLE%gt% 
+B. Identification of reporting Member State. Second message in report 
+%gt%TABLE%gt% 
+C. Identification of period. Third message in report 
+%gt%TABLE%gt% 
+D. Comments. Fourth or subsequent message(s) in report, optional 
+%gt%TABLE%gt% 
+E. Aggregate catch data. Fourth and/or subsequent message(s) in report 
+%gt%TABLE%gt% 
+III. CODES FOR PERIOD COVERED 
+- YYYYMMDD is the date (YYYY - four-digit year, MM - two-digit month and DD - two-digit day) corresponding to the last day of the period covered. 
+- P is the type of period covered (one letter): 
+D- Day 
+W- Week (the last day of the week is Sunday). 
+M- Month 
+Q- Quarter 
+S- Semester/Half year 
+Y- Year 
+IV. AREA CODES 
+Area codes must comply with the provisions contained in the Regulation on the submission of nominal catch statistics by Member States fishing 
+1. In the North-East Atlantic (Council Regulation (EEC) No 3880/91 (OJ L 365, 31.12.1991, p. 1)). 
+2. In the North-West Atlantic (Council Regulation (EEC) No 2018/93 (OJ L 186, 28.7.1993, p. 1)). 
+3. In certain areas other than those of the North Atlantic (Council Regulation (EC) No 2597/95 (OJ L 270, 13.11.1995, p. 1)). 
+- The first two positions correspond to the FAO statistical fishing areas. 
+- The next seven positions correspond to the FAO statistical fishing subdivisions. 
+(1) FIDES: Fisheries Data Exchange System; project defining a common approach to electronic data exchange between the Commission and the Member States. 

@@ -1,0 +1,48 @@
+2003/24/EC: Commission Decision of 30 December 2002 concerning the development of an integrated computerised veterinary system (notified under document number C(2002) 5496) 
+Commission Decision 
+of 30 December 2002 
+concerning the development of an integrated computerised veterinary system 
+(notified under document number C(2002) 5496) 
+(2003/24/EC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning the veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market(1), as last amended by Directive 92/118/EEC(2), and in particular Article 20(3) thereof, 
+Having regard to Council Decision 92/438/EEC of 13 July 1992 on computerisation of veterinary import procedures (Shift project), amending Directives 90/675/EEC, 91/496/EEC, 91/628/EEC and Decision 90/424/EEC, and repealing Decision 88/192/EEC(3), as last amended by Council Decision 95/1/EC(4), and in particular Article 12 thereof, 
+Having regard to Council Decision 90/424/EEC of 26 June 1990 on expenditure in the veterinary field(5), as last amended by Decision 2001/572/EC(6), and in particular Articles 37 and 37a thereof, 
+Whereas: 
+(1) Directive 1999/93/EC of the European Parliament and of the Council of 13 December 1999 on a Community framework for electronic signatures(7) seeks to guarantee the security of and confidence in electronic communication media and facilitate their use by the national and Community authorities to communicate both among themselves and with citizens and economic operators. 
+(2) Article 3 of Commission Decision 92/563/EEC of 19 November 1992 on the database covering the Community's import requirements, envisaged by the Shift project(8) lays down that the Commission must develop the relevant databases. 
+(3) Commission Decision 91/398 of 19 July 1991 on a computerised network linking veterinary authorities (Animo)(9) defines the principles governing the communications network linking veterinary units. 
+(4) The work carried out in Community studies and seminars has shown that the architecture of the Animo network needs to be revised to create a veterinary system that includes various computer applications. 
+(5) European Parliament Resolution A5-0396/2000 on Court of Auditors Special Report No 1/2000(10) on the outbreak of classical swine fever calls for the Animo network to be managed and developed under the full control of the Commission and for amendments to be made in accordance with the Court's observations. 
+(6) In order to optimise functions and user interfaces, the Member States need to be closely involved in developing an integrated computerised veterinary system. 
+(7) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+The Community shall as soon as possible set up a computer system integrating the functions of the ANIMO and SHIFT systems into a single architecture. The technical specifications of this system are set out in the Annex. 
+Article 2 
+1. In the first phase, the Commission shall draw up the specifications for the new Animo system, analyse the system and present a prototype. 
+The Commission shall have a budget of EUR 200000 for that work. 
+2. In the second phase, the Commission shall develop the new Animo system and make the database available to the Member States. 
+3. The Commission shall also develop and integrate into the new computer system the Shift system, in particular the functions required to aid decision-making at border inspection posts, as regards both regulatory matters and risk analyses. 
+Article 3 
+The Director-General of the Directorate-General for Health and Consumer Protection shall be authorised to sign the contracts needed to implement this Decision. 
+Article 4 
+This Decision is addressed to the Member States. 
+Done at Brussels, 30 December 2002. 
+For the Commission 
+David Byrne 
+Member of the Commission 
+(1) OJ L 224, 18.8.1990, p. 29. 
+(2) OJ L 62, 15.3.1993, p. 49. 
+(3) OJ L 243, 25.8.1992, p. 27. 
+(4) OJ L 1, 1.1.1995, p. 113. 
+(5) OJ L 224, 18.8.1990, p. 19. 
+(6) OJ L 203, 28.7.2001, p. 16. 
+(7) OJ L 13, 19.1.2000, p. 12. 
+(8) OJ L 361, 10.12.1992, p. 45. 
+(9) OJ L 221, 9.8.1991, p. 30. 
+(10) OJ C 85, 23.3.2000, p. 1. 
+ANNEX 
+The architecture of the computer systems of the Directorate-General for Health and Consumer Protection is based on n-tier technology, with a client-side browser, a web server for the presentation of information and a separate Oracle database server. Strategic applications are developed in JAVA using BEA Weblogic. The network protocol is IP, and, where necessary for security reasons, a private data-network, TESTA II, and security protocols such as Secure Socket Layer (SSL) and Public Key Infrastructure (PKI) are used. Data is exchanged between applications using the XML standard. 
+Statistical reports are generated from BO (Business Object) and cartographic software. 

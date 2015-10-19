@@ -1,0 +1,142 @@
+Directive 75/33/CEE du Conseil, du 17 décembre 1974, concernant le rapprochement des législations des États membres relatives aux compteurs d'eau froide 
+DIRECTIVE DU CONSEIL du 17 décembre 1974 concernant le rapprochement des législations des États membres relatives aux compteurs d'eau froide (75/33/CEE) 
+LE CONSEIL DES COMMUNAUTÉS EUROPÉENNES, 
+vu le traité instituant la Communauté économique européenne, et notamment son article 100, 
+vu la proposition de la Commission, 
+vu l'avis de l'Assemblée (1), 
+vu l'avis du Comité économique et social (2), 
+considérant que, dans les États membres, la construction ainsi que les modalités de contrôle des compteurs d'eau froide font l'objet de dispositions impératives qui diffèrent d'un État membre à l'autre et entravent de ce fait les échanges de ces instruments ; qu'il faut donc procéder au rapprochement de ces dispositions; 
+considérant que la directive 71/316/CEE du Conseil, du 26 juillet 1971, concernant le rapprochement des législations des États membres relatives aux dispositions communes aux instruments de mesurage et aux méthodes de contrôle métrologique (3), modifiée par l'acte d'adhésion (4), a défini les procédures d'approbation CEE de modèle et de vérification primitive CEE ; que, conformément à cette directive, il y a lieu de fixer pour les compteurs d'eau froide les prescriptions techniques de réalisation et de fonctionnement auxquelles doivent satisfaire ces instruments pour pouvoir être importés, commercialisés et utilisés librement après avoir subi les contrôles et être munis des marques et signes prévus, 
+A ARRÊTÉ LA PRÉSENTE DIRECTIVE: 
+Article premier 
+La présente directive s'applique aux compteurs d'eau froide qui sont des appareils mesureurs intégrateurs déterminant de façon continue le volume de l'eau qui les traverse (à l'exclusion de tout autre liquide). Ces compteurs comportent un dispositif mesureur entraînant un dispositif indicateur. L'eau est dite froide lorsque sa température est comprise entre 0 ºC et 30 ºC. 
+Article 2 
+Les compteurs d'eau froide qui peuvent recevoir les marques et signes CEE sont décrits en annexe à la présente directive. Ils font l'objet d'une approbation CEE de modèle et ils sont soumis à la vérification primitive CEE. 
+Article 3 
+Les États membres ne peuvent refuser, interdire ou restreindre la mise sur le marché et la mise en service (1)JO nº C 2 du 9.1.1974, p. 62. (2)JO nº C 8 du 31.1.1974, p. 6. (3)JO nº L 202 du 6.9.1971, p. 1. (4)JO nº L 73 du 27.3.1972, p. 14. 
+des compteurs d'eau froide munis du signe d'approbation CEE de modèle et de la marque de vérification primitive CEE pour des raisons concernant leurs qualités métrologiques. 
+Article 4 
+1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive dans un délai de dix-huit mois suivant sa notification et en informent immédiatement la Commission. 
+2. Les États membres veillent à communiquer à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine régi par la présente directive. 
+Article 5 
+Les États membres sont destinataires de la présente directive. 
+Fait à Bruxelles, le 17 décembre 1974. 
+Par le Conseil 
+Le président 
+M. DURAFOUR 
+ANNEXE 
+I. TERMINOLOGIE ET DÉFINITIONS 1.0. La présente annexe s'applique uniquement aux compteurs d'eau froide utilisant un procédé mécanique direct faisant intervenir des chambres volumétriques à parois mobiles ou l'action de la vitesse de l'eau sur la rotation d'un organe mobile (turbine, hélice, etc.). 
+1.1. Débit 
+Le débit est le quotient du volume d'eau passé dans le compteur par le temps de passage de ce volume, ce dernier étant exprimé en mètres cubes ou litres et le temps en heure, minute ou seconde. 
+1.2. Volume débité 
+Le volume débité pendant un temps quelconque est le volume total d'eau qui est passé dans le compteur pendant ce temps. 
+1.3. Débit maximal : Qmax 
+Le débit maximal Qmax est le débit le plus élevé auquel le compteur doit pouvoir fonctionner sans détérioration, pendant des durées limitées, en respectant les erreurs maximales tolérées et sans dépasser la valeur maximale de la perte de pression. 
+1.4. Débit nominal : Qn 
+Le débit nominal Qn est égal à la moitié du débit maximal Qmax. Exprimé en mètres cubes par heure, il sert à désigner le compteur. 
+Au débit nominal Qn le compteur doit pouvoir fonctionner en utilisation normale, c'est-à-dire en régime permanent et en régime intermittent, en respectant les erreurs maximales tolérées. 
+1.5. Débit minimal : Qmin 
+Le débit minimal Qmin est le débit à partir duquel tout compteur doit respecter les erreurs maximales tolérées. Il est fixé en fonction de Qn. 
+1.6. Étendue de la charge 
+L'étendue de la charge d'un compteur d'eau est délimitée par le débit maximal Qmax et le débit minimal Qmin. Elle est divisée en deux zones dites inférieure et supérieure dans lesquelles les erreurs maximales tolérées sont différentes. 
+1.7. Débit de transition : Qt 
+Le débit de transition Qt est le débit qui sépare les zones inférieure et supérieure de l'étendue de la charge et auquel les erreurs maximales tolérées subissent une discontinuité. 
+1.8. Erreur maximale tolérée 
+L'erreur maximale tolérée est la valeur extrême de l'erreur tolérée par la présente directive lors de l'approbation CEE de modèle et de la vérification primitive CEE d'un compteur d'eau. 
+1.9. Perte de pression 
+Par perte de pression, il faut entendre celle qui est due à la présence du compteur d'eau dans la conduite. 
+II. CARACTÉRISTIQUES MÉTROLOGIQUES 2.1. Erreurs maximales tolérées 
+L'erreur maximale tolérée dans la zone inférieure comprise entre Qmin inclus et Qt exclu est de ± 5 %. 
+L'erreur maximale tolérée dans la zone supérieure comprise entre Qt inclus et Qmax inclus est de ± 2 %. 
+2.2. Classes métrologiques 
+Les compteurs d'eau sont répartis, suivant les valeurs de Qmin et Qt précédemment définies, en trois classes métrologiques conformément au tableau suivant: %gt%PIC FILE= %quot%T0006673%quot%%gt% 
+III. CARACTÉRISTIQUES TECHNOLOGIQUES 3.1. Construction - Dispositions générales 
+Les compteurs doivent être construits de façon: 1. à assurer un service prolongé en garantissant l'infraudabilité; 
+2. à satisfaire aux prescriptions de la présente directive dans les conditions normales d'emploi. 
+Lorsque les compteurs peuvent être soumis à un reflux accidentel de l'eau, ils doivent pouvoir le supporter sans détérioration ni altération de leurs qualités métrologiques mais en enregistrant une indication de décomptage. 
+3.2. Matériaux 
+Le compteur d'eau doit être réalisé en matériaux ayant une résistance et une permanence adéquates à sa destination d'emploi. L'ensemble du compteur doit être réalisé en matériaux résistant aux corrosions internes et externes usuelles et, si nécessaire, dont la protection a été assurée par l'application d'un traitement de surface convenable. Des variations de température de l'eau dans les limites de l'étendue des températures de service ne doivent pas altérer les matériaux utilisés dans la construction du compteur d'eau. 
+3.3. Étanchéité - Résistance à la pression 
+Les compteurs doivent supporter, de façon permanente, sans défectuosité de fonctionnement, ni fuite externe, ni suintement à travers les parois, ni déformation permanente, la pression continue de l'eau pour laquelle ils sont prévus, appelée pression maximale de service. La valeur minimale de cette pression est de 10 bars. 
+3.4. Perte de pression 
+La perte de pression à travers le compteur est déterminée par les essais d'approbation CEE de modèle et ne doit jamais dépasser 0,25 bar au débit nominal et 1 bar au débit maximal. 
+D'après les résultats des essais, les modèles sont répartis en 4 groupes suivant que leur perte de pression respecte l'une des valeurs maximales suivantes : 1 - 0,6 - 0,3 et 0,1 bar. Cette valeur est indiquée dans le certificat d'approbation CEE de modèle. 
+3.5. Dispositif indicateur 
+Le dispositif indicateur doit permettre, par simple juxtaposition des indications des différents éléments qui le constituent, une lecture sûre, facile et non ambiguë du volume d'eau mesuré, exprimé en mètres cubes. 
+Le volume est donnée: a) soit par le repérage de la position d'une ou plusieurs aiguilles devant des échelles circulaires, 
+b) soit par la lecture de chiffres alignés consécutifs apparaissant dans une ou plusieurs ouvertures, 
+c) soit par la combinaison de ces deux systèmes. 
+La couleur noire est indicatrice du mètre cube et de ses multiples, la couleur rouge des sous-multiples du mètre cube. 
+La hauteur réelle ou apparente des chiffres alignés ne doit pas être inférieure à 4 mm. 
+Sur les indicateurs à chiffres alignés (types b) et c)), le déplacement visible doit avoir lieu de bas en haut pour tous les chiffres. 
+L'avancement d'une unité d'un chiffre de rang quelconque doit se produire complètement pendant que le chiffre de rang immédiatement inférieur décrit le dernier dixième de tour 3 le rouleau portant les chiffres du rang le plus bas peut avoir un mouvement continu dans le cas du type c). Le nombre entier de mètres cubes doit être clairement indiqué. 
+Sur les indicateurs à aiguilles (types a) et c)), le sens de rotation doit être celui des aiguilles d'horloge. La valeur exprimée en mètres cubes de l'échelon de chaque échelle doit être de la forme 10n, n étant un nombre entier positif, négatif ou zéro, de façon à constituer un système de décades consécutives. Près de chaque échelle sont indiquées les désignations × 1 000 - 100 - × 10 - × 1 - × 0,1 - × 0,01 - × 0,001. 
+Dans les deux cas (aiguilles et chiffres alignés): - le symbole de l'unité m3 doit figurer sur le cadran ou à proximité immédiate de l'indication chiffrée, 
+- l'élément gradué le plus rapide observable visuellement constituant l'élément contrôleur et dont l'échelon est dit échelon de vérification doit avoir un mouvement continu. Cet élément contrôleur peut être permanent ou réalisé temporairement par l'adjonction de pièces amovibles. Ces dernières ne doivent pas avoir une influence appréciable sur les qualités métrologiques du compteur. 
+La longueur de l'échelon de vérification ne doit pas être inférieure à 1 mm ni supérieure à 5 mm. L'échelle est réalisée: - soit par des traits d'égale épaisseur n'excédant pas le quart de la distance entre les axes de deux traits consécutifs, les traits ne pouvant se différencier les uns des autres que par leur longueur; 
+- soit par des bandes à contrastes dont la largeur constante est égale à la longueur de l'échelon. 
+Toutefois, pendant un délai de 6 ans et 6 mois suivant la notification de la présente directive: a) le déplacement des chiffres alignés de haut en bas sera toléré et il sera indiqué par une flèche; 
+b) la longueur de l'échelon pourra être égale à 0,8 mm. 
+3.6. Nombre de chiffres et valeurs de l'échelon de vérification 
+Le dispositif indicateur doit pouvoir enregistrer, sans retour à zéro, un volume au moins égal à celui, exprimé en mètres cubes, correspondant à 1999 heures de fonctionnement au débit nominal. 
+L'échelon de vérification doit être de la forme 1 × 10n, 2 × 10n ou 5 × 10n. Il doit être suffisamment petit pour que, lors de la vérification, il soit possible d'assurer une imprécision de mesurage n'excédant pas 0,5 % (en admettant une erreur possible de lecture ne dépassant pas la moitié de la longueur du plus petit échelon) et de n'exiger qu'une quantité débitée assez faible au débit minimal, pour que l'essai, à ce débit, ne dure pas plus de 1 h 30. 
+Pendant un délai de 6 ans et 6 mois suivant la notification de la présente directive, une durée maximale de 7 heures est tolérée. 
+Un dispositif complémentaire (étoile, disque avec repère, etc.) peut être ajouté de façon à déceler le mouvement du dispositif mesureur avant que le déplacement de ce dernier ne soit nettement perceptible sur le dispositif indicateur. 
+3.7. Dispositif de réglage 
+Les compteurs peuvent comporter un dispositif de réglage permettant de modifier le rapport entre le volume indiqué et le volume débité. Ce dispositif est obligatoire pour les compteurs qui utilisent l'action de la vitesse de l'eau sur la rotation d'un organe mobile. 
+3.8. Dispositif accélérateur 
+Est interdit tout dispositif tendant à accélérer la marche du compteur en dessous de Qmin. 
+IV. INSCRIPTIONS ET MARQUES 4.1. Inscriptions d'identification 
+Tout compteur porte obligatoirement, de manière lisible et indélébile, groupées ou réparties sur l'enveloppe, le cadran du dispositif indicateur ou la plaque signalétique, les indications suivantes: a) le nom ou la raison sociale du fabricant ou sa marque de fabrique; 
+b) la classe métrologique et le débit nominal Qn en mètres cubes par heure; 
+c) l'année de fabrication, le numéro individuel de fabrication; 
+d) une ou deux flèches indiquant le sens d'écoulement; 
+e) le signe d'approbation CEE de modèle; 
+f) la pression maximale de service en bars si elle peut être supérieure à 10 bars; 
+g) la lettre V ou H, si le compteur ne peut fonctionner correctement que dans la position verticale (V) ou dans la position horizontale (H). 
+4.2. Emplacement des marques de vérification 
+Un emplacement sur une pièce essentielle (en principe l'enveloppe) visible sans démontage doit être prévu pour apposer les marques de vérification CEE. 
+4.3. Scellement 
+Les compteurs doivent comporter des dispositifs de protection pouvant être scellés de manière à interdire, aussi bien avant qu'après l'installation correcte du compteur, le démontage ou la modification du compteur ou de son dispositif de réglage, sans détérioration de ces dispositifs. 
+V. APPROBATION CEE DE MODÈLE 5.1. Procédure 
+La procédure d'approbation CEE de modèle se déroule conformément à la directive 71/316/CEE. 
+5.2. Essais de modèle 
+Après qu'il a été constaté, d'après le dossier de demande d'approbation, que le modèle répond aux prescriptions de la présente directive, un certain nombre d'appareils sont soumis à des essais en laboratoire dans les conditions suivantes: 5.2.1. Nombre de compteurs à essayer: 
+Le nombre de compteurs à présenter par le fabricant est fixé dans le tableau ci-dessous: %gt%PIC FILE= %quot%T0006674%quot%%gt% 
+5.2.2. Pression 
+Pour les essais métrologiques (point 5.2.4), la pression à la sortie du compteur doit être suffisante pour empêcher la cavitation. 
+5.2.3. Matériel d'essai 
+En général les compteurs sont essayés individuellement et, en tous cas, de façon à faire apparaître, avec certitude, les caractéristiques individuelles de chacun d'eux. 
+Le service de métrologie de l'État membre prend toutes les dispositions nécessaires pour que, compte tenu des différentes causes d'erreur de l'installation, l'incertitude maximale de précision relative soit de 0,2 % dans le mesurage du volume débité. 
+L'incertitude maximale de précision relative de l'installation est de 5 % pour le mesurage de la pression et de 2,5 % pour le mesurage de la perte de pression. 
+La variation relative de la valeur des débits, pendant chaque essai, ne doit pas dépasser 2,5 % de Qmin à Qt et 5 % de Qt à Qmax. 
+Quel que soit le lieu où les essais sont effectués, l'installation doit être approuvée par le service de métrologie de l'État membre intéressé. 
+5.2.4. Exécution des essais 
+Ces essais comprennent les opérations suivantes effectuées dans l'ordre indiqué: 1. essais d'étanchéité; 
+2. détermination des courbes d'erreur en fonction du débit en recherchant l'influence de la pression et compte tenu des conditions d'installation (longueurs de canalisation droites en amont et en aval, étranglement, obstacles, etc.) normales prévues par le fabricant pour ce type de compteur; 
+3. détermination des pertes de pression; 
+4. étude accélérée de l'usure. 
+L'étude d'étanchéité comporte les deux essais suivants: a) chaque compteur doit supporter, sans fuite, sans suintement à travers les parois, une pression égale à 16 bars ou 1,6 fois la pression maximale de service appliquée pendant quinze minutes (voir point 4.1 sous f)); 
+b) chaque compteur doit supporter sans destruction, ni blocage, une pression égale à 20 bars ou 2 fois la pression maximale de service appliquée pendant une minute (voir point 4.1 sous f)). 
+Les résultats des essais 2 et 3 doivent faire apparaître un nombre de points suffisant pour tracer avec sûreté les courbes dans toute l'étendue de la charge. 
+L'étude accélérée de l'usure est faite dans les conditions suivantes: %gt%PIC FILE= %quot%T0006675%quot%%gt% 
+Avant le premier essai et après chaque série d'essais, on détermine les erreurs de mesurage au moins aux débits ci-dessous: 
+Qmin - Qt - 0,3 Qn - 0,5 Qn - 1 Qn - 2 Qn 
+Pour chaque essai, le volume débité doit être tel que l'aiguille ou le rouleau de l'échelon de vérification effectue un ou plusieurs tours complets et que les effets de la distorsion cyclique soient éliminés. 
+5.2.5. Conditions d'approbation CEE de modèle 
+Un modèle de compteur d'eau est approuvé: a) lorsqu'il satisfait aux prescriptions administratives, techniques et métrologiques de la directive et de son annexe; 
+b) lorsque les essais 1, 2 et 3 prévus au point 5.2.4 montrent qu'il satisfait aux caractéristiques métrologiques et technologiques des parties II et III de la présente annexe, et 
+c) lorsqu'après chaque essai du programme d'usure accélérée: 1. il n'est pas constaté, par rapport à la courbe initiale, de variation de mesurage supérieure à 1,5 % entre Qt et Qmax et supérieure à 3 % entre Qmin et Qt; 
+2. le compteur respecte une erreur maximale de ± 6 % entre Qmin et Qt et de ± 2,5 % entre Qt et Qmax. 
+VI. VÉRIFICATION PRIMITIVE CEE 
+Le lieu de la vérification primitive CEE est agréé par le service de métrologie de l'État membre. La disposition des locaux et du matériel d'essai doit permettre d'effectuer la vérification avec sûreté et sécurité, sans perte de temps pour l'agent chargé du contrôle. Les prescriptions du point 5.2.3 doivent être satisfaites ; toutefois, les compteurs peuvent être disposés en série. Dans ce cas, la pression de sortie de tous les compteurs doit rester suffisante pour éviter la cavitation et des dispositions spéciales peuvent être exigées pour éviter les interréactions entre compteurs. 
+L'installation peut comporter des dispositifs automatiques, des dérivations, des réductions de section, etc., sous réserve que chaque circuit d'essai entre compteurs à vérifier et réservoirs de contrôle soit clairement défini et que son étanchéité interne puisse être vérifiée en permanence. 
+Tout système d'alimentation en eau est autorisé, mais en cas de marche de plusieurs circuits d'essai, en parallèle, il ne doit pas y avoir d'interréaction incompatible avec les dispositions du point 5.2.3. 
+Si un réservoir de contrôle est divisé en plusieurs chambres, la rigidité des cloisons de séparation doit être telle que le volume d'une chambre ne varie pas de plus de 0,2 % suivant que les chambres voisines sont pleines ou vides. 
+La vérification comporte un essai de précision effectué au moins à trois débits compris respectivement: a) entre 0,9 Qmax et Qmax, 
+b) entre Qt et 1,1 Qt, 
+c) entre Qmin et 1,1 Qmin. 
+Le premier de ces essais donne lieu à l'observation de la perte de pression qui doit rester inférieure à la valeur indiquée dans le certificat d'approbation CEE de modèle. 
+Les erreurs maximales tolérées sont celles du point 2.1. 
+Pour chaque essai, le volume débité doit être tel que l'aiguille ou le rouleau de l'échelon de vérification effectue un ou plusieurs tours complets et que les effets de la distorsion cyclique soient éliminés. 
+Lorsque les erreurs sont toutes de même signe, le compteur doit être ajusté de telle sorte que les erreurs n'excèdent pas toutes la moitié de l'erreur maximale tolérée. 

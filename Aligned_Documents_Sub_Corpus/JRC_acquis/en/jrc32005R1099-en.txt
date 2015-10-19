@@ -1,0 +1,468 @@
+Commission Regulation (EC) No 1099/2005 of 13 July 2005 implementing Regulation (EC) No 808/2004 of the European Parliament and of the Council concerning Community statistics on the information society (Text with EEA relevance) 
+Commission Regulation (EC) No 1099/2005 
+of 13 July 2005 
+implementing Regulation (EC) No 808/2004 of the European Parliament and of the Council concerning Community statistics on the information society 
+(Text with EEA relevance) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European Community, 
+Having regard to Regulation (EC) No 808/2004 of the European Parliament and of the Council concerning Community statistics on the information society [1], and in particular Article 8 thereof, 
+Whereas: 
+(1) Regulation (EC) No 808/2004 established a common framework for the systematic production of Community statistics on the information society. 
+(2) Pursuant to Article 8(1) of Regulation (EC) No 808/2004 implementing measures are necessary to determine the data to be supplied for preparation of the statistics defined in Articles 3 and 4 of that Regulation, and to fix the deadlines for their transmission. 
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee, established by Council Decision 89/382/EEC, Euratom [2], 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The data to be transmitted for the production of Community statistics on the information society as laid down in Articles 3(2) and 4 of Regulation (EC) No 808/2004 shall be as specified in Annexes I and II to this Regulation. 
+Article 2 
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 13 July 2005. 
+For the Commission 
+Joaquín Almunia 
+Member of the Commission 
+[1] OJ L 143, 30.4.2004, p. 49. 
+[2] OJ L 181, 28.6.1989, p. 47. 
+-------------------------------------------------- 
+ANNEX I 
+Module 1: Enterprises and the information society 
+1. SUBJECTS AND THEIR CHARACTERISTICS 
+The subjects to be covered for the reference year 2006, selected from the list in Annex I to Regulation (EC) No 808/2004, are the following: 
+- ICT systems and their usage in enterprises 
+- Use of Internet and other electronic networks by enterprises 
+- e-Commerce and e-Business processes 
+- ICT security. 
+The following enterprise characteristics shall be collected only for enterprises not classified in Section J of NACE Rev. 1.1: 
+ICT systems and their usage in enterprises 
+Characteristics to be collected for all enterprises: 
+- Computer usage 
+Characteristics to be collected for enterprises that use computers: 
+- Percentage of persons employed using computers at least once a week 
+- Existence of employed persons who regularly work part of their time (half a day per week or more) away from the enterprise’s regular work site and who connect to the enterprise’s computer systems through electronic networks (remote working) 
+- Difficulties in recruiting personnel with ICT skills during 2005 
+- Existence of wireless LAN 
+- Existence of wire based LAN 
+- Existence of Intranet 
+- Existence of Extranet 
+- Existence of IT system to manage the placing and/or receipt of orders 
+- Extent of substitution of traditional postal mail by electronic means of communication in the last five years (no substitution, minor substitution, significant substitution, mostly or entirely substituted, not applicable) 
+Characteristics to be collected for enterprises that make use of remote working: 
+- Remote working by type: working at home 
+- Remote working by type: at customers and/or external business partners’ premises 
+- Remote working by type: geographically dispersed locations of the same enterprise or enterprise group 
+- Remote working by type: during business travel 
+Characteristics to be collected for enterprises that encountered difficulties in recruiting personnel with ICT skills during 2005: 
+- ICT user skills not available or not entirely suitable in 2005 
+- ICT specialist skills not available or not entirely suitable in 2005 
+- High cost of ICT specialists in 2005 
+Characteristics to be collected for enterprises that have an IT system to manage the placing and/or receipt of orders: 
+- Orders management IT system linked to an internal system for re-ordering replacement supplies 
+- Orders management IT system linked to invoicing and payment systems 
+- Orders management IT system linked to system for managing production, logistics or service operations 
+- Orders management IT system linked to suppliers' business systems 
+- Orders management IT system linked to customers' business systems 
+Use of Internet and other electronic networks by enterprises 
+Characteristics to be collected for enterprises that use computers: 
+- Access to Internet 
+Characteristics to be collected for enterprises that have access to Internet: 
+- Percentage of persons employed using computers connected to the World Wide Web at least once a week 
+- Internet connection: Traditional modem 
+- Internet connection: ISDN 
+- Internet connection: DSL 
+- Internet connection: Other fixed Internet connection 
+- Internet connection: Mobile connection 
+- Maximum download speed of Internet connection (below 144 Kb/s, 144 Kb/s or more and less than 2 Mb/s, 2 Mb/s or more) 
+- Internet usage for banking and financial services 
+- Internet usage for training and education 
+- Internet usage for market monitoring 
+- Internet usage for receiving digital products 
+- Internet usage for obtaining after-sales services 
+- Internet usage for interaction with public authorities in 2005 
+- Existence of own website 
+Characteristics to be collected for enterprises that interacted with public authorities via Internet during 2005: 
+- Internet usage for obtaining information from public authorities’ websites in 2005 
+- Internet usage for obtaining forms from public authorities’ websites in 2005 
+- Internet usage for returning filled in forms to public authorities in 2005 
+- Internet usage for submitting a proposal in an electronic tender system (public e-procurement) in 2005 
+Characteristics to be collected for enterprises that have a website: 
+- Website for marketing own products 
+- Website for facilitating access to catalogues and price lists 
+- Website for providing after-sales support 
+e-commerce and e-business processes 
+Characteristics to be collected for enterprises that have access to Internet: 
+- Have ordered via Internet 
+- Have received orders via Internet 
+Characteristics to be collected for enterprises that have ordered via Internet: 
+- Percentage of total purchases resulting from orders placed via Internet, in percentage classes ( [0;1[ , [1;5[ , [5;10[ , [10;25[ , [25;100] ) 
+Characteristics to be collected for enterprises that have received orders via Internet: 
+- Percentage of total turnover resulted from orders received via Internet 
+- Internet e-sales by type of client: B2B and B2G 
+- Internet e-sales by type of client: B2C 
+- Internet e-sales by destination: Own country 
+- Internet e-sales by destination: Other EU countries 
+- Internet e-sales by destination: Rest of the world 
+- Have sold products via specialised B2B market places 
+Characteristics to be collected for enterprises that use computers: 
+- Have ordered via computer networks other than Internet 
+- Have received orders via computer networks other than Internet 
+Characteristics to be collected for enterprises that have ordered via computer networks other than Internet: 
+- Percentage of total purchases resulting from orders placed via computer networks other than Internet, in percentage classes ( [0;1[ , [1;25[ , [25;50[ , [50;75[ , [75;100] ) 
+Characteristics to be collected for enterprises that have received orders via computer networks other than Internet: 
+- Percentage of total turnover resulting from orders received via other computer networks than Internet 
+ICT security 
+Characteristics to be collected for enterprises that have access to Internet: 
+- Security facilities usage: Virus checking or protection software 
+- Security facilities usage: Firewalls 
+- Security facilities usage: Secure servers 
+- Security facilities usage: Off-site data backup 
+- Security facilities usage: Electronic digital signature as customer's authentication mechanism 
+- Security facilities usage: Other authentication mechanism (e.g. PIN code) 
+- Security facilities usage: Data encryption for confidentiality 
+- ICT-related problems encountered in 2005 that resulted in a loss of information or working time 
+The following enterprise characteristics shall be collected for enterprises of the financial sector classified in Section J classes 65.12, 65.22, 66.01 and 66.03 of NACE Rev. 1.1: 
+ICT systems and their usage in enterprises 
+Characteristics to be collected for all enterprises: 
+- Percentage of persons employed using computers at least once a week 
+- Existence of employed persons who regularly work part of their time (half a day per week or more) away from the enterprise’s regular work site and who connect to enterprise’s computer systems through electronic networks (remote working) 
+- Difficulties in recruiting personnel with ICT skills during 2005 
+- Existence of wireless LAN 
+- Existence of wire-based LAN 
+- Existence of Intranet 
+- Existence of Extranet 
+- Existence of IT system to manage the receipt of orders 
+- Extent of substitution of traditional postal mail by electronic means of communication in the last five years (no substitution, minor substitution, significant substitution, mostly or entirely substituted, not applicable) 
+Characteristics to be collected for enterprises that have remote working: 
+- Remote working by type: working at home 
+- Remote working by type: at customers’ and/or external business partners’ premises 
+- Remote working by type: geographically dispersed locations of the same enterprise or enterprise group 
+- Remote working by type: during business travel 
+Characteristics to be collected for enterprises that encountered difficulties in recruiting personnel with ICT skills during 2005: 
+- ICT user skills not available or not entirely suitable in 2005 
+- ICT specialist skills not available or not entirely suitable in 2005 
+- High cost of ICT specialists in 2005 
+Characteristics to be collected for enterprises that have an IT system to manage the receipt of orders: 
+- Orders management IT system linked to Internal system of enterprise or enterprise group 
+- Orders management IT system linked to Customers' business systems 
+Use of Internet by enterprises 
+Characteristics to be collected for all enterprises: 
+- Access to Internet 
+Characteristics to be collected for enterprises that have access to Internet: 
+- Percentage of persons employed using computers connected to the World Wide Web at least once a week 
+- Internet connection: Traditional modem 
+- Internet connection: ISDN 
+- Internet connection: DSL 
+- Internet connection: Other fixed Internet connection 
+- Internet connection: Mobile connection 
+- Maximum download speed of Internet connection (below 144 Kb/s, 144 Kb/s or more and less than 2 Mb/s, 2 Mb/s or more) 
+- Internet usage for training and education 
+- Internet usage for interaction with public authorities in 2005 
+- Existence of own website 
+Characteristics to be collected for enterprises that interacted with public authorities via Internet during 2005: 
+- Internet usage for obtaining information from public authorities websites in 2005 
+- Internet usage for obtaining forms from public authorities websites in 2005 
+- Internet usage for returning filled in forms to public authorities in 2005 
+- Internet usage for submitting a proposal in an electronic tender system (public e-procurement) in 2005 
+Characteristics to be collected for enterprises that have a website (optional): 
+- Website for marketing own products/services (optional) 
+e-commerce and e-business processes 
+Characteristics to be collected for enterprises that have access to Internet: 
+- Provision of on-line financial services to customers via the Internet 
+Characteristics to be collected for enterprises that have provided on-line financial services via the Internet: 
+- Provision of payment services 
+- Provision of savings deposits 
+- Provision of loans 
+- Provision of investment services 
+- Provision of life insurance 
+- Provision of non-life insurance 
+- Have received orders via Internet for payment services 
+- Have received orders via Internet for savings deposits 
+- Have received orders via Internet for loans 
+- Have received orders via Internet for investment services 
+- Have received orders via Internet for life insurance 
+- Have received orders via Internet for non-life insurance 
+- Internet e-sales of retail financial services by destination: Own country 
+- Internet e-sales of retail financial services by destination: Other EU countries 
+- Internet e-sales of retail financial services by destination: Rest of the world 
+Characteristics to be collected for enterprises that provide banking services via the Internet: 
+- Percentage of total account/deposit holders who placed orders via website, in percentage classes ( [0;1[ , [1;5[ , [5;10[ , [10;25[ , [25;50[ , [50;100] ) 
+- Percentage of total private holders of accounts/deposits who placed orders via website, in percentage classes ( [0;1[ , [1;5[ , [5;10[ , [10;25[ , [25;50[ , [50;100] ) 
+- Percentage of total corporate holders of accounts/deposits who placed orders via website, in percentage classes ( [0;1[ , [1;5[ , [5;10[ , [10;25[ , [25;50[ , [50;100] ) 
+- Percentage of value of payment orders via Internet (optional), in percentage classes ( [0;1[ , [1;5[ , [5;10[ , [10;25[ , [25;50[ , [50;100] ) 
+- Percentage of value of revenues from orders via Internet (optional), in percentage classes ( [0;1[ , [1;5[ , [5;10[ , [10;25[ , [25;50[ , [50;100] ) 
+Characteristics to be collected for enterprises that provide insurance via the Internet: 
+- Percentage of insurance policies ordered by private customers via website, in percentage classes ( [0;1[ , [1;5[ , [5;10[ , [10;25[ , [25;50[ , [50;100] ) 
+- Percentage of insurance policies ordered by corporate customers via website, in percentage classes ( [0;1[ , [1;5[ , [5;10[ , [10;25[ , [25;50[ , [50;100] ) 
+- Percentage of value of gross premiums written from private and corporate insurance policies ordered via website, in percentage classes ( [0;1[ , [1;5[ , [5;10[ , [10;25[ , [25;50[ , [50;100] ) 
+Characteristics to be collected for all enterprises (optional): 
+- Receipt of orders from customers via networks other than Internet (optional) 
+Characteristics to be collected for enterprises that have received orders from customers via networks other than Internet (optional): 
+- Use of network to receive batch payment orders from corporate customers’ computer applications (optional) 
+- Use of network of cash dispensers (e.g. ATM) in self-service areas to receive payment orders and/or network for credit card payment orders from retail customers/individuals (optional) 
+- Use of network to receive orders from sales agents’ computer systems linked to enterprise computer system (optional) 
+- Other use of electronic networks other than Internet (optional) 
+ICT security 
+Characteristics to be collected for enterprises that have access to Internet: 
+- Security facilities usage: Virus checking or protection software 
+- Security facilities usage: Firewalls 
+- Security facilities usage: Secure servers 
+- Security facilities usage: Off-site data backup 
+- Security facilities usage: Electronic digital signature as customer's authentication mechanism 
+- Security facilities usage: Other authentication mechanism (e.g. PIN code) 
+- Security facilities usage: Data encryption for confidentiality 
+- ICT-related problems encountered in 2005 that resulted in a loss of information or working time 
+2. COVERAGE 
+The characteristics defined in heading 1(b) of this Annex are to be collected from enterprises classified in the following economic activities and enterprise size. 
+Economic activity: enterprises classified in the following categories of NACE-Rev. 1.1: 
+NACE category | Description | 
+Section D | "Manufacturing" | 
+Section F | "Construction" | 
+Section G | "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods" | 
+Groups 55.1 and 55.2 | "Hotels" and "Camping sites and other provision of short-stay accommodation" | 
+Section I | "Transport, storage and communication" | 
+Class 65.12 | "Other monetary intermediation" | 
+Class 65.22 | "Other credit granting" | 
+Class 66.01 | "Life Insurance" | 
+Class 66.03 | "Non-Life Insurance" | 
+Section K | "Real estate, renting and business activities" | 
+Groups 92.1 and 92.2 | "Motion picture and video activities" and "Radio and television activities" | 
+Enterprise size: enterprises with 10 or more persons employed; 
+Geographic scope: enterprises located in any part of the territory of the Member State. 
+3. REFERENCE PERIODS 
+The reference period is the year 2005 for the variables under the heading e-commerce and e-business processes and where specified. The reference period is January 2006 for the other data. 
+4. BREAKDOWNS 
+The subjects and their characteristics listed in heading 1(b) of this Annex shall be provided separately for the following breakdowns: 
+Economic activity breakdown: according to the following NACE Rev. 1.1 aggregates: 
+NACE aggregation 
+DA + DB + DC + DD + DE 
+DF + DG + DH 
+DI + DJ 
+DK + DL + DM + DN 
+45 
+50 
+51 
+52 
+55.1 + 55.2 
+60 + 61 + 62 + 63 
+64 
+65.12 + 65.22 
+66.01 + 66.03 
+72 
+70 + 71 + 73 + 74 
+92.1 + 92.2 
+Size class breakdown: Data shall be broken down by the following size classes of the number of persons employed. 
+Size Class 
+10 or more 
+10-49 (small enterprises) 
+50-249 (medium enterprises) 
+250 or more (large enterprises) 
+Geographic breakdown: Data shall be broken down by the following regional groups. 
+Regional Group 
+Objective 1 regions (including transitional or phasing-out Objective 1 regions) 
+Non-Objective 1 regions 
+5. PERIODICITY 
+The data shall be provided once for the year 2006. 
+6. DEADLINES 
+(a) The aggregate data, where necessary flagged for confidentiality or unreliability, referred to in Article 6 of Regulation (EC) No 808/2004 shall be forwarded to Eurostat before 5 October 2006. By that date, the dataset has to be finalised, validated and accepted. The tabulated, computer readable transmission format shall follow the instructions provided by Eurostat. 
+(b) The metadata referred to in Article 6 of Regulation (EC) No 808/2004 shall be forwarded to Eurostat before 31 July 2006. The metadata shall follow the report template provided by Eurostat. 
+(c) The quality report referred to in Article 7(4) of Regulation (EC) No 808/2004 shall be forwarded to Eurostat by 1 December 2006. The quality report shall follow the report template provided by Eurostat. 
+-------------------------------------------------- 
+ANNEX II 
+Module 2: Individuals, households and the information society 
+1. SUBJECTS AND THEIR CHARACTERISTICS 
+The subjects to be covered for the reference year 2006, selected from the list in Annex II to Regulation (EC) No 808/2004, are the following: 
+- access to and use of ICT systems by individuals and/or in households 
+- use of Internet for different purposes by individuals and/or in households 
+- ICT security 
+- ICT competence 
+- barriers to use of ICT and the Internet. 
+The following characteristics shall be collected: 
+Access to and use of ICT systems by individuals and/or in households 
+Characteristics to be collected for all households: 
+- access to ICT devices at home: TV (to be reported separately: satellite dish, cable TV, digital TV) 
+- access to ICT devices at home: fixed telephone line 
+- access to ICT devices at home: mobile phone (to be reported separately: Internet-enabled mobile phone) 
+- access to ICT devices at home: games console 
+- access to ICT devices at home: desktop computer 
+- access to ICT devices at home: portable computer 
+- access to ICT devices at home: handheld computer 
+- access to the Internet at home, regardless of whether it is used. 
+Characteristics to be collected for households with access to the Internet at home: 
+- devices used to access the Internet at home: desktop computer 
+- devices used to access the Internet at home: portable computer 
+- devices used to access the Internet at home: TV set with specific Internet device 
+- devices used to access the Internet at home: games console 
+- devices used to access the Internet at home: other means (optional: report separately via Internet-enabled mobile phone, via handheld computer) 
+- type of connection used to access the Internet at home: modem or ISDN 
+- type of connection used to access the Internet at home: DSL 
+- type of connection used to access the Internet at home: other broadband connection (e.g. cable, UMTS, etc.) 
+- type of connection used to access the Internet at home: mobile phone over narrowband (WAP, GPRS, etc.). 
+Characteristics to be collected for all individuals: 
+- most recent computer use (within the last three months; between three months and a year ago; more than one year ago; never used a computer) 
+- use of a mobile phone. 
+Characteristics to be collected for individuals having used a computer in the last three months: 
+- frequency of computer use (every day or almost every day; at least once a week (but not every day); at least once a month (but not every week); less than once a month) 
+- location of computer use in the last three months: at home 
+- location of computer use in the last three months: at the usual place of work (other than home) 
+- location of computer use in the last three months: at place of education 
+- location of computer use in the last three months: at another person’s home 
+- location of computer use in the last three months: elsewhere. 
+Characteristics to be collected for individuals using a mobile phone: 
+- substitution of private traditional postal mail by mobile text or picture messages (no substitution; minor substitution; significant substitution; mostly or entirely substituted; not applicable). 
+Use of Internet for different purposes by individuals and/or in households 
+Characteristics to be collected for all individuals: 
+- most recent Internet use (within the last three months; between three months and a year ago; more than one year ago; never used the Internet). 
+Characteristics to be collected for individuals having already used the Internet: 
+- most recent Internet commerce activity for private use (within the last three months; between three months and a year ago; more than one year ago; never bought or ordered). 
+Characteristics to be collected for individuals having used the Internet in the last three months: 
+- frequency of Internet use in the last three months (every day or almost every day; at least once a week (but not every day); at least once a month (but not every week); less than once a month) 
+- location of Internet use in the last three months: at home 
+- location of Internet use in the last three months: at place of work (other than home) 
+- location of Internet use in the last three months: at place of education 
+- location of Internet use in the last three months: at another person’s home 
+- location of Internet use in the last three months: elsewhere (optional: report separately for public library; post office; public office, town hall or government agency; community or voluntary organisation; Internet café) 
+- use of mobile devices to access the Internet: mobile phone via WAP or GPRS 
+- use of mobile devices to access the Internet: mobile phone via UMTS 
+- use of mobile devices to access the Internet: handheld computer 
+- substitution of private traditional postal mail by Internet or e-mail messages (no substitution; minor substitution; significant substitution; mostly or entirely substituted; not applicable) 
+- use of a personal (private or office) e-mail address 
+- Internet usage in the last three months for private purposes for sending and/or receiving e-mail 
+- Internet usage in the last three months for private purposes for telephoning over the Internet 
+- Internet usage in the last three months for private purposes for other communication activities 
+- Internet usage in the last three months for private purposes for finding information about goods and services 
+- Internet usage in the last three months for private purposes for using services related to travel and accommodation 
+- Internet usage in the last three months for private purposes for listening to web radio or watching web television 
+- Internet usage in the last three months for private purposes for playing or downloading games, images or music 
+- Internet usage in the last three months for private purposes for downloading software 
+- Internet usage in the last three months for private purposes for reading or downloading online newspapers and news magazines 
+- Internet usage in the last three months for private purposes for looking for a job or sending a job application 
+- Internet usage in the last three months for private purposes for seeking health-related information 
+- Internet usage in the last three months for private purposes for other information search or on-line service 
+- Internet usage in the last three months for private purposes for Internet banking 
+- Internet usage in the last three months for private purposes for selling goods or services 
+- Internet usage in the last three months for private purposes for formalised educational activities 
+- Internet usage in the last three months for private purposes for post-educational courses 
+- Internet usage in the last three months for private purposes for other educational activities related specifically to employment opportunities 
+- Internet usage in the last three months for private purposes for obtaining information from public authorities’ websites 
+- Internet usage in the last three months for private purposes for downloading official forms from public authorities websites 
+- Internet usage in the last three months for private purposes for sending filled in forms to public authorities 
+- Internet usage for contacts with the public administration (usage; interest in usage; not interested). 
+Characteristics to be collected for individuals having used the Internet in the last three months and showing interest in e-government: 
+- e-government for income taxes (usage; intention to use; not interested) 
+- e-government for job search by labour offices (usage; intention to use; not interested) 
+- e-government for social security benefits (usage; intention to use; not interested) 
+- e-government for personal documents (usage; intention to use; not interested) 
+- e-government for car registration (usage; intention to use; not interested) 
+- e-government for application for building permission (usage; intention to use; not interested) 
+- e-government for declaration to the police (usage; intention to use; not interested) 
+- e-government for public libraries (usage; intention to use; not interested) 
+- e-government for requesting and issuing certificates (usage; intention to use; not interested) 
+- e-government for enrolment in higher education or university (usage; intention to use; not interested) 
+- e-government for announcement of moving (usage; intention to use; not interested) 
+- e-government for health-related services (usage; intention to use; not interested). 
+Characteristics to be collected for individuals having used the Internet for Internet commerce activities in the last 12 months: 
+- Internet usage for ordering food or groceries 
+- Internet usage for ordering household goods 
+- Internet usage for ordering films or music (to be reported separately: whether delivered on-line) 
+- Internet usage for ordering books, magazines, newspapers or e-learning material (to be reported separately: whether delivered on-line) 
+- Internet usage for ordering clothes or sports goods 
+- Internet usage for ordering computer software and upgrades (to be reported separately: whether delivered on-line) 
+- Internet usage for ordering computer hardware 
+- Internet usage for ordering electronic equipment 
+- Internet usage for ordering share purchases, financial services or insurance 
+- Internet usage for ordering travel or holiday accommodation 
+- Internet usage for ordering tickets for events 
+- Internet usage for ordering lotteries or betting 
+- Internet usage for ordering other goods or services 
+- Internet usage for ordering from retailers known from outside the Internet 
+- Internet usage for ordering from retailers known from the Internet or found on the Internet 
+- problems encountered with Internet commerce regardless of type of problem. 
+Characteristics to be collected for individuals having used the Internet for Internet commerce activities in the last 12 months and having encountered any problem with Internet commerce: 
+- problems encountered with Internet commerce: difficulties in finding information concerning guarantees 
+- problems encountered with Internet commerce: speed of delivery slower than indicated 
+- problems encountered with Internet commerce: final costs higher than indicated 
+- problems encountered with Internet commerce: wrong or damaged goods delivered or no goods received at all 
+- problems encountered with Internet commerce: lack of security of payments 
+- problems encountered with Internet commerce: complaints and redress difficult or no satisfactory response after complaint 
+- problems encountered with Internet commerce: other. 
+ICT security 
+Characteristics to be collected for individuals having used the Internet at home in the last three months: 
+- spam (unsolicited e-mails which the individual regards as junk mail and prefers not to receive). 
+ICT competence 
+Characteristics to be collected for individuals having ever used a computer: 
+- most recent training course of at least three hours on any aspect of computer use (within the last three months; between three months and one year ago; between one and three years ago; more than three years ago; never taken a course) 
+- computer skills for copying or moving a file or folder 
+- computer skills for using copy and paste tools to duplicate or move information within a document 
+- computer skills for using basic arithmetic formulae in a spreadsheet 
+- computer skills for compressing files 
+- computer skills for connecting and installing new devices, e.g. printer or modem 
+- computer skills for writing a computer program using a specialised programming language. 
+Characteristics to be collected for individuals having ever used the Internet: 
+- Internet skills for using a search engine to find information 
+- Internet skills for sending e-mails with attached files 
+- Internet skills for posting messages to chat rooms, newsgroups or an online discussion forum 
+- Internet skills for using the Internet to make phone calls 
+- Internet skills for using peer-to-peer file sharing for exchanging movies, music, etc. 
+- Internet skills for creating a web page. 
+Characteristics to be collected for individuals having one or more of the computer or Internet skills: 
+- way of obtaining e-skills: formalised educational institution 
+- way of obtaining e-skills: training courses in adult education centre (but not at the initiative of the employer) 
+- way of obtaining e-skills: vocational training courses (at the request of the employer) 
+- way of obtaining e-skills: self-study using books, CD-ROMs, etc. 
+- way of obtaining e-skills: self-study in the sense of learning-by-doing 
+- way of obtaining e-skills: informal assistance from colleagues, relatives, friends 
+- way of obtaining e-skills: other way. 
+Barriers to use of ICT and the Internet 
+Characteristics to be collected for households without access to the Internet at home: 
+- barriers to home Internet access: have access elsewhere 
+- barriers to home Internet access: do not want Internet (because content harmful, etc.) 
+- barriers to home Internet access: do not need Internet (because not useful, not interesting, etc.) 
+- barriers to home Internet access: equipment costs too high 
+- barriers to home Internet access: access costs too high 
+- barriers to home Internet access: lack of skills 
+- barriers to home Internet access: physical disability 
+- barriers to home Internet access: privacy or security concerns 
+- barriers to home Internet access: other. 
+Characteristics to be collected for individuals having used the Internet in the last three months and not yet using the Internet to replace personal contacts with, or visits to, public services or administrations: 
+- barriers to using e-government: services needed are not available on-line or difficult to find 
+- barriers to using e-government: personal contact is lacking 
+- barriers to using e-government: immediate response is lacking 
+- barriers to using e-government: concerned about protection and security of personal data 
+- barriers to using e-government: additional costs 
+- barriers to using e-government: too complex 
+- barriers to using e-government: other. 
+Characteristics to be collected for individuals having used the Internet but not for Internet commerce activities in the last 12 months: 
+- barriers to Internet commerce: have no need 
+- barriers to Internet commerce: prefer to shop in person, like to see product, loyalty to shops, force of habit 
+- barriers to Internet commerce: lack of skills 
+- barriers to Internet commerce: delivery of goods ordered over the Internet is a problem 
+- barriers to Internet commerce: security or privacy concerns 
+- barriers to Internet commerce: trust concerns about receiving or returning goods, concerns about complaints or redress 
+- barriers to Internet commerce: no payment card with which to pay over the Internet 
+- barriers to Internet commerce: speed of the Internet connection is too slow 
+- barriers to Internet commerce: other. 
+2. COVERAGE 
+(a) The statistical units to be represented for the characteristics listed in heading 1(b) of this Annex that relate to households, are the households with at least one member in the age group 16 to 74. 
+(b) The statistical units to be represented for the characteristics listed in heading 1(b) of this Annex that relate to individuals are the individuals aged 16 to 74. 
+(c) The geographical scope shall cover households and/or individuals living in any part of the territory of the Member State. 
+3. REFERENCE PERIODS 
+The reference period for the statistics to be collected is the first quarter of 2006. 
+4. BREAKDOWNS 
+(a) For the subjects and their characteristics listed in heading 1(b) of this Annex that relate to households, the following background characteristics shall be collected: 
+- Geographical location: living in Objective 1 regions (including transitional or phasing-out Objective 1 regions); living in other regions 
+- Degree of urbanisation: living in densely populated areas; living in intermediate populated areas; living in thinly populated areas 
+- Type of household: number of members in the household (to be collected separately: number of children under 16) 
+- (optional) Household’s net monthly income (to be collected as a value or using quartiles). 
+(b) For the subjects and their characteristics listed in heading 1(b) of this Annex that relate to individuals, the following background characteristics shall be collected: 
+- Geographical location: living in Objective 1 regions (including transitional or phasing-out Objective 1 regions); living in other regions 
+- Degree of urbanisation: living in densely populated areas; living in intermediate populated areas; living in thinly populated area 
+- Gender: male; female 
+- Age group: under 16 (optional); 16 to 24; 25 to 34; 35 to 44; 45 to 54; 55 to 64; 65 to 74; over 74 (optional) 
+- Highest completed level of education according to the International Standard Classification of Educational Levels (ISCED 97): low (ISCED 0, 1 or 2); middle (ISCED 3 or 4); high (ISCED 5 or 6) 
+- Employment situation: employee; self-employed, including family workers; unemployed; students not in the labour force; other not in the labour force. 
+- Occupation according to the International Standard Classification of Occupations (ISCO-88 (COM)): manual workers, non-manual workers; ICT workers, non-ICT workers. 
+5. PERIODICITY 
+The data shall be provided once for the year 2006. 
+6. DEADLINES FOR TRANSMISSION OF RESULTS 
+(a) The aggregate data, where necessary flagged for confidentiality or unreliability, referred to in Article 6 of Regulation (EC) No 808/2004 shall be forwarded to Eurostat before 5 October 2006. By that date, the dataset has to be finalised, validated and accepted. The tabulated, computer-readable transmission format shall follow the instructions provided by Eurostat. 
+(b) The metadata referred to in Article 6 of Regulation (EC) No 808/2004 shall be forwarded to Eurostat before 31 July 2006. The metadata shall follow the report template provided by Eurostat. 
+(c) The quality report referred to in Article 7(4) of Regulation (EC) No 808/2004 shall be forwarded to Eurostat by 1 December 2006. The quality report shall follow the report template provided by Eurostat. 
+-------------------------------------------------- 

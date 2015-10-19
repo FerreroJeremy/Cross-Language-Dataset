@@ -1,0 +1,90 @@
+Reglamento (CE) n° 2163/2001 de la Comisión, de 7 de noviembre de 2001, relativo a las modalidades técnicas de transmisión de los datos estadísticos sobre transportes de mercancías por carretera (Texto pertinente a efectos del EEE) 
+Reglamento (CE) no 2163/2001 de la Comisión 
+de 7 de noviembre de 2001 
+relativo a las modalidades técnicas de transmisión de los datos estadísticos sobre transportes de mercancías por carretera 
+(Texto pertinente a efectos del EEE) 
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS, 
+Visto el Tratado constitutivo de la Comunidad Europea, 
+Visto el Reglamento (CE) n° 1172/98 del Consejo, de 25 de mayo de 1998, sobre la relación estadística de los transportes de mercancías por carretera(1), modificado por el Reglamento (CE) n° 2691/1999 de la Comisión(2), y, en particular, el apartado 2 de su artículo 5 y su artículo 9, 
+Considerando lo siguiente: 
+(1) Con arreglo al apartado 2 del artículo 5 del Reglamento (CE) n° 1172/98, la Comisión determinará las modalidades de transmisión de los datos por parte de los Estados miembros. 
+(2) Es necesario especificar el formato en que deben transmitirse los datos a Eurostat de forma lo suficientemente detallada como para garantizar que se pueda procesar los datos de manera rápida y rentable. 
+(3) El presente Reglamento no modifica el estatus de las variables que ya se declararon optativas en el Reglamento (CE) n° 1172/98. 
+(4) Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité del programa estadístico, creado en la Decisión 89/382/CEE, Euratom del Consejo(3). 
+HA ADOPTADO EL PRESENTE REGLAMENTO: 
+Artículo 1 
+En el anexo del presente Reglamento queda definido el formato técnico para la transmisión de datos a la Comisión (Eurostat). 
+Los Estados miembros usarán este formato para los datos del año de referencia 2002 y de los años siguientes. 
+Artículo 2 
+Los Estados miembros enviarán a la Comisión (Eurostat) los datos y metadatos exigidos en el presente Reglamento en forma electrónica, con arreglo a la norma de intercambio propuesta por la Comisión (Eurostat). 
+Artículo 3 
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de las Comunidades Europeas. 
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+Hecho en Bruselas, el 7 de noviembre de 2001. 
+Por la Comisión 
+Pedro Solbes Mira 
+Miembro de la Comisión 
+(1) DO L 163 de 6.6.1998, p. 1. 
+(2) DO L 326 de 18.12.1999, p. 39. 
+(3) DO L 181 de 28.6.1989, p. 47. 
+ANEXO 
+FORMATO TÉCNICO PARA LA TRANSMISIÓN DE DATOS 
+1. ESTRUCTURA DE LOS DATOS 
+Cada uno de los registros de datos trimestrales que deben enviarse a Eurostat constará de tres conjuntos de datos relacionados entre sí y que abarcarán las variables siguientes: 
+A1 variables del vehículo, 
+A2 variables del recorrido, 
+A3 variables de la mercancía (en la operación elemental de transporte). 
+Cada %quot%registro de vehículo%quot% A1 estará relacionado con 1-n %quot%registros de recorrido%quot% (conjunto de datos A2), que incluirán datos sobr los recorridos llevados a cabo por dicho vehículo durante el período de la encuesta (en principio, una semana). Cada registro de recorrido, a su vez, estará relacionado con 0-m %quot%registros de mercancías%quot% (conjunto de datos A3), que incluirán datos sobre las operaciones elementales de transporte que constituyen dicho recorrido. 
+En la figura 1 se puede ver la estructura de los datos. 
+Nótese que no tiene por qué haber varios registros de mercancías para cada registro de recorrido. En los recorridos con carga, puede ocurrir, dependiendo del método usado para registrar los recorridos y/o del tipo de recorrido, que sólo haya un registro de mercancías asignado a cada registro de recorrido. 
+%gt%PIC FILE= %quot%L_2001291ES.001402.TIF%quot%%gt% 
+Los recorridos de vacío, en principio, no deberían estar relacionados con ningún registro de mercancías (aunque se permite que haya registros de mercancías relacionados con recorridos de vacío). 
+En el apéndice metodológico del anexo A del Reglamento (CE) n° 1172/98, se puede hallar más información al respecto. 
+2. LISTA DE CAMPOS 
+En cada campo se deberá facilitar la información siguiente: 
+- número de campo: sirve para identificar la posición del campo dentro del registro, 
+- variable: será o bien una referencia a una variable en el Reglamento (CE) n° 1172/98, o bien una clave de identificación interna, 
+- descripción: breve descripción de los contenidos del campo, 
+- codificación: las variables se codificarán con arreglo a los anexos A a G del Reglamento (CE) n° 1172/98. Aquí se especifican algunas normas de codificación adicionales. En el Manual de referencia para la aplicación del Reglamento (CE) n° 1172/98 [Reference Manual for the implementation of Council Regulation (EC) n° 1172/98], Eurostat facilita más explicaciones y recomendaciones sobre la codificación, 
+- tipo de campo: sirve para indicar si el campo contiene una cantidad numérica o una cadena de texto, 
+- excepto en el caso de la variable A1.9, todos los campos numéricos deberán ser enteros, 
+- en la variable A1.9, el separador decimal será la coma (%quot%,%quot%), 
+- variable optativa: marca para señalar las variables que son optativas con arreglo a lo dispuesto en el anexo A del Reglamento (CE) n° 1172/98, 
+- longitud máxima: la longitud máxima prevista para los datos de ese campo. No se podrán cargar datos que superen dicha longitud, 
+- campo clave: la combinación de los valores de los campos clave de un determinado conjunto de datos debe dar como resultado un valor clave único dentro de dicho conjunto de datos. Si se encuentran valores clave duplicados, se bloquea la carga de ese conjunto de datos y de los conjuntos de datos relacionados con él, porque resulta imposible establecer una relación correcta entre los registros de vehículo, recorrido y mercancías. 
+Conjunto de datos A1: Variables del vehículo 
+%gt%SITIO PARA UN CUADRO%gt% 
+Conjunto de datos A2: Variables del recorrido 
+%gt%SITIO PARA UN CUADRO%gt% 
+Conjunto de datos A3: Variables de la mercancía (en la operación elemental de transporte) 
+%gt%SITIO PARA UN CUADRO%gt% 
+3. VALORES NO DISPONIBLES 
+Por defecto, los valores no disponibles en los registros de datos se codificarán como campos vacíos (sin ningún dato entre dos separadores de campo sucesivos). En algunos campos, Eurostat recomienda el uso de códigos específicos para indicar los valores no disponibles u otros valores especiales (véase la columna %quot%códigos específicos para valores no disponibles%quot%). 
+Se puede obtener más información al respecto en el Manual de referencia para la aplicación del Reglamento (CE) n° 1172/98 (Reference Manual for the implementation of Council Regulation (EC) n° 1172/98). 
+4. CAMBIO EN LA CONFIGURACIÓN O EN EL TIPO DE TRANSPORTE 
+En el anexo A del Reglamento (CE) n° 1172/98 se especifica que, durante el período de encuesta, un vehículo puede cambiar su configuración (por ejemplo, la adición de un remolque provocaría un cambio de la configuración en el número de ejes y la capacidad de carga) o el tipo de transporte puede diferir de un recorrido a otro. Estos cambios deberían registrarse, aunque no es obligatorio. 
+Para permitir la transmisión de estos datos dentro de las estructuras de datos normales descritas en el presente anexo, las variables A1.2, A1.4, A1.5 y A1.7 se transmitirán dentro del conjunto de datos A2 (variables del recorrido). 
+5. VALIDACIÓN DE LOS DATOS POR PARTE DE EUROSTAT 
+Eurostat llevará a cabo algunos controles para validar los datos transmitidos por los Estados miembros antes de cargarlos en la base de datos de producción. Si hay un número significativo de registros que no pasan los controles, Eurostat notificará a los Estados miembros los registros erróneos y les indicará los motivos por los que no han sido aceptados. Se pedirá a los Estados miembros que corrijan los errores notificados y que vuelvan a enviar en su totalidad el conjunto de los tres conjuntos de datos de ese trimestre (no sólo los registros erróneos). Este procedimiento es necesario para garantizar la corrección de los factores de ponderación y la coherencia entre los registros de vehículo, recorrido y mercancías. 
+Si el número de registros con errores es muy pequeño y su efecto probable en cualquier análisis que se haga es insignificante, Eurostat cargará los registros que hayan pasado los controles de verificación y eliminará los registros erróneos. En ese caso, se informará al Estado miembro correspondiente de qué registros no han pasado los controles y por qué razón. Dicho Estado miembro podrá, si lo desea, corregir los errores y volver a enviar en su totalidad el conjunto de los tres conjuntos de datos de ese trimestre (no sólo los registros erróneos). Si los datos se envían de nuevo, Eurostat cargará los datos revisados; en caso contrario, Eurostat se servirá de los datos ya aceptados para preparar las tablas de agregados. 
+6. DENOMINACIÓN DE LOS CONJUNTOS DE DATOS 
+De conformidad con los requisitos de Stadium, los nombres de los conjuntos de datos adoptarán la forma %quot%CCYYQnROADAx.ZZZ%quot%, en la que: 
+%gt%SITIO PARA UN CUADRO%gt% 
+Ejemplos: 
+1) El conjunto de datos %quot%ES99Q2ROADA1.zip%quot% es un conjunto de datos, comprimidos en formato %quot%zip%quot%, que contiene el conjunto de datos A1 de España, año 1999, segundo trimestre (%quot%ES99Q2ROADA1.dat%quot%). 
+2) El conjunto de datos %quot%UK99Q3ROADA2.dat%quot% es el conjunto de datos que contiene el conjunto de datos A2 del Reino Unido, año 1999, tercer trimestre. 
+El nombre del conjunto de datos, compuesto tal como se especifica anteriormente, debe aparecer en la rúbrica %quot%Asunto:%quot% del correo electrónico. 
+7. MEDIOS DE TRANSMISIÓN 
+El soporte de transmisión preferido es Stadium, enviado a una dirección que será notificada por Eurostat. Nótese que el correo electrónico está sujeto a limitaciones en cuanto al tamaño máximo de los mensajes, lo que puede impedir su uso si se desea mandar conjuntos de datos voluminosos. 
+8. PERÍODO TRANSITORIO 
+Habrá un período transitorio, durante el cual los datos se podrán enviar también en conjuntos de datos ASCII con campos de longitud variable. Como separador de campo se utilizará el punto y coma (%quot%;%quot%). 
+Deberán incluirse todos los campos aunque estén vacíos (lo que se traduciría como dos separadores de campo seguidos). 
+Se pasarán por alto los espacios adicionales en los campos de datos, a no ser que en un campo determinado haya instrucciones específicas que prohíban los espacios adicionales. 
+Además, durante este período transitorio, Eurostat también aceptará los datos que reciba por correo en disquetes o en discos compactos grabables (CD-R). No se aceptarán los datos en cinta magnética o en papel. 
+Si se envían los datos por correo electrónico, deberán aplicarse las siguientes normas durante el período transitorio: 
+- los datos se enviarán en conjuntos de datos adjuntos, 
+- cada mensaje podrá llevar como anexo sólo un conjunto de datos a la vez, 
+- como %quot%Asunto:%quot% del mensaje se indicará el nombre del conjunto de datos, 
+- los comentarios sobre los datos (por ejemplo, notas metodológicas, observaciones sobre la calidad de los datos, etc.) figurarán como texto en el cuerpo del mensaje que lleve como anexo el conjunto de datos. Dicho texto irá sin formatear, 
+- los comentarios sobre los datos también se pueden enviar por separado en un mensaje de texto (sin conjunto de datos anexo); en la rúbrica %quot%Asunto:%quot% se indicará: %quot%CCYYQnROADAx.rem%quot%. El texto del mensaje irá sin formatear, 
+- correcciones: para corregir datos ya enviados a Eurostat, el conjuntgo de datos corregido se enviará con el mismo nombre de conjunto de datos, junto con una nota explicativa en formato de texto en el cuerpo del mensaje. 
