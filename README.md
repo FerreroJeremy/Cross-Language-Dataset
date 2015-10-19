@@ -16,6 +16,19 @@ PAN 2011 (Gutenberg Project) |  Parallel |  Professional authors | Human | Profe
 Amazon Product Reviews | Parallel | Anyone | Machine | Google Translate | No
 Conference papers | Comparable | Computer scientists | Human | Computer scientists | Noise
 
+### Statistics
+
+Sub-corpus | # Aligned documents | # Aligned sentences | # Aligned noun chunks
+--- | --- | ---| ---
+JRC-Acquis | 10,000 | 149,506 | 10,094 
+Europarl | 9,442 | 475,834 | 25,603 
+Wikipedia | 10,000 | 4,792 | 132 
+PAN 2011 | 2,920 | 88,977 | 1,360 
+Amazon Product Reviews | 6,000 | 23,235 | 2,603 
+Conference papers | 35 | 1,304 | 272 
+
+> <b>More statistics and explanations on this corpus coming soon, stay tuned!</b>
+
 ### References used tools and collections
 
 1.	Philipp Koehn (2005). 
@@ -35,16 +48,16 @@ Conference papers | Comparable | Computer scientists | Human | Computer scientis
 	 In Proceedings of TALN 2013 (Volume 2: Short Papers), pages 507–514. 
 
 5.	Helmut Schmid (1994). 
-Probabilistic Part-of-Speech Tag- ging Using Decision Trees. 
-In Proceedings of the International Conference on New Methods in Language Processing.
+	Probabilistic Part-of-Speech Tagging Using Decision Trees. 
+	In Proceedings of the International Conference on New Methods in Language Processing.
 
 6.	Gilles Sérasset (2014). 
-DBnary: Wiktionary as a Lemon-Based Multilingual Lexical Resource in RDF. 
-In to appear in Semantic Web Journal (special issue on Multilin- gual Linked Open Data).
+	DBnary: Wiktionary as a Lemon-Based Multilingual Lexical Resource in RDF. 
+	In to appear in Semantic Web Journal (special issue on Multilin- gual Linked Open Data).
 
 7.	Dániel Varga, Péter Hálacsy, Viktor Nagy, Lázló Németh, András Kornai, and Viktor Trón (2005). 
-Parallel corpora for medium density languages. 
-In Recent Advances in Natural Language Processing (RANLP 2005), pages 590–596.
+	Parallel corpora for medium density languages. 
+	In Recent Advances in Natural Language Processing (RANLP 2005), pages 590–596.
 
 ### Licence
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
