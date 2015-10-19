@@ -29,7 +29,7 @@ Conference papers | 35 | 1,304 | 272
 
 > <b>More statistics and explanations on this corpus coming soon, stay tuned!</b>
 
-### References used tools and collections
+### References, tools used and existing collections
 
 1.	Philipp Koehn (2005). 
 	Europarl: A Parallel Corpus for Statistical Machine Translation. 
