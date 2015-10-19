@@ -1,0 +1,12 @@
+ Villebon-sur-Yvette es una comuna francesa, situada en el departamento de Essonne, en la región Île-de-France. Es el chef-lieu del cantón de Villebon-sur-Yvette.Está situada a lo largo del río Yvette.Demografía Fuente : INSEE.  ImageSize = width:250 height:200 PlotArea = left:40 right:10 top:10 bottom:20 TimeAxis = orientation:horizontal AlignBars = justify Colors = id:gray1 value:gray(0.9)                           DateFormat = yyyy Period = from:1960 till:2010 ScaleMajor = unit:year increment:10 start:1960PlotData = bar:12000 color:gray1 width:1       
+ from:start till:end             
+ bar:8000 color:gray1              
+ from:start till:end            
+ bar:4000 color:gray1           
+ from:start till:end         
+ bar:0 color:gray1       LineData = layer:front    
+ points:(48,63)(84,90) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 3033 1968: 4949
+ points:(84,90)(100,122)    color:blue    width:2 #1975: 7234
+ points:(100,122)(128,129)   color:blue    width:2 #1982: 7728
+ points:(128,129)(160,149)   color:blue    width:2 #1990: 9080
+ points:(160,149)(196,153)   color:blue    width:2 #1999: 9373Ciudades hermanadasLiederbach am Taunus, AlemaniaLas Rozas de Madrid, EspañaWhitnash, Reino UnidoEnlaces externosWeb oficial de Villebon-sur-YvetteINSEEELECCIONES MUNICIPALES DE 2008Categoría:Localidad de Essonneceb:Villebon-sur-Yvette de:Villebon-sur-Yvette en:Villebon-sur-Yvette fr:Villebon-sur-Yvette id:Villebon-sur-Yvette it:Villebon-sur-Yvette nl:Villebon-sur-Yvette pl:Villebon-sur-Yvette vi:Villebon-sur-Yvette vo:Villebon-sur-Yvette

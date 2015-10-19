@@ -1,0 +1,54 @@
+|
+ frazioni          = Caminata, Prati, San Giacomo|
+ telephone         = 0472|
+ postalcode        = 39049|
+ gentilic          = Italian: valvizzesi&lt;br&gt;German:|
+ saint             = |
+ day               = |
+ mayor             = Johann Frei|
+ website           = [http://www.gvcc.net/soci/val_di_vizze.htm www.gvcc.net/soci/val_di_vizze.htm]|
+ mapy              = 11.4667|
+ mapx              = 46.9000|Pfitsch (; ; ; Archaic (1186AD): Phize; Archaic (1288AD): Vitsch) is a comune (municipality) in the province of Bolzano-Bozen in the Italian region Trentino-Alto Adige/Südtirol, located about 100 km northeast of the city of Trento and about 45 km north of the city of Bolzano, on the border with Austria. As of 31 December 2004, it had a population of 2,676 and an area of 142.3 km².All demographics and other statistics: Italian statistical institute Istat.The municipality of Pfitsch contains the frazioni (subdivisions, mainly villages and hamlets) Caminata, Prati, and San Giacomo.Pfitsch borders the following municipalities: Brenner, Freienfeld, Mühlbach, Mühlwald, Sterzing, Vintl, Finkenberg (Austria), Gries am Brenner (Austria) and Vals (Austria).Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:3000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:0
+ bar:1871 from: 0 till:0
+ bar:1881 from: 0 till:0
+ bar:1901 from: 0 till:0
+ bar:1911 from: 0 till:0
+ bar:1921 from: 0 till:1590
+ bar:1931 from: 0 till:1803
+ bar:1936 from: 0 till:1943
+ bar:1951 from: 0 till:1912
+ bar:1961 from: 0 till:1957
+ bar:1971 from: 0 till:2211
+ bar:1981 from: 0 till:2325
+ bar:1991 from: 0 till:2508
+ bar:2001 from: 0 till:2619PlotData= bar:1861 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1871 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1881 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1901 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1911 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1921 at:1590 fontsize:XS text: 1590 shift:(-8,5)
+ bar:1931 at:1803 fontsize:XS text: 1803 shift:(-8,5)
+ bar:1936 at:1943 fontsize:XS text: 1943 shift:(-8,5)
+ bar:1951 at:1912 fontsize:XS text: 1912 shift:(-8,5)
+ bar:1961 at:1957 fontsize:XS text: 1957 shift:(-8,5)
+ bar:1971 at:2211 fontsize:XS text: 2211 shift:(-8,5)
+ bar:1981 at:2325 fontsize:XS text: 2325 shift:(-8,5)
+ bar:1991 at:2508 fontsize:XS text: 2508 shift:(-8,5)
+ bar:2001 at:2619 fontsize:XS text: 2619 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal links  Homepage of the cityCategory:Cities and towns in the Province of Bolzano-Bozende:Pfitsch es:Val di Vizze eo:Pfitsch fr:Val di Vizze it:Val di Vizze nl:Pfitsch ja:ヴァル・ディ・ヴィッツェ nap:Val di Vizze pms:Pfitsch pl:Val di Vizze pt:Val di Vizze vi:Val di Vizze vo:Val di Vizze

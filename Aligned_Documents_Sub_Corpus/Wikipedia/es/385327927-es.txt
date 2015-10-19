@@ -1,0 +1,207 @@
+En informática, un programa Hola mundo (o Hello World, en inglés) es el que imprime el texto «¡Hola, mundo!» en un dispositivo de visualización (generalmente una pantalla de monitor). Se suele usar como introducción al estudio de un lenguaje de programación, siendo un primer ejercicio típico.El Hola Mundo se caracteriza por su sencillez, especialmente cuando se utiliza en programas de línea de comandos. En interfaces gráficas este programa suele tener una complejidad mayor.Un programa Hola Mundo puede ser útil como prueba de configuración para asegurar que el compilador, que el entorno de desarrollo, y que el entorno de ejecución están instalados correctamente y funcionando. Configurar un conjunto de herramientas básicas completo desde cero hasta el punto donde hasta los programas triviales puedan ser compilados y ejecutados, puede involucrar una cantidad de trabajo sustancial. Por esta razón, generalmente es usado un programa muy simple para probar un conjunto de herramientas nuevo.Ejemplos en diferentes lenguajesEn [[ABAP|ABAP/IV]]REPORT HOLAMUNDO.
+WRITE '¡Hola, mundo!'.En [[Lenguaje de programación ABC|ABC]] WRITE &quot;¡Hola mundo!&quot;En [[ActionScript]]trace(&quot;¡Hola, mundo!&quot;);En [[ActionScript 3.0]] var txtField = new TextField(); txtField.text = "¡Hola, Mundo!"; txtField.autoSize = "left"; var format = new TextFormat("Arial",40,"#000000"); txtField.setTextFormat(format); addChild(txtField); En [[Lenguaje de programación Ada|Ada]]with Ada.Text_IO; procedure Hola_Mundo is
+ begin
+    Ada.Text_IO.Put(&quot;¡Hola, mundo!&quot;);
+ end Hola_Mundo;En [[ALGOL]]BEGIN
+FILE F (KIND=REMOTE);
+EBCDIC ARRAY E [0:12];
+REPLACE E BY &quot;HOLA MUNDO!&quot;;
+WHILE TRUE DO
+  BEGIN
+  WRITE (F, *, E);
+  END;
+END.En [[Active Server Pages|ASP]] &lt;%Response.Write(&quot;Hola Mundo&quot;)%&gt; En [[AppleScript]]display dialog &quot;Hola, Mundo!&quot; buttons  default button En [[AutoIt]] MsgBox(0,"","Hola Mundo!") En [[Autoplay Media Studio]] Dialog.Message(&quot;Noticia&quot;, &quot;Hola, Mundo!&quot;, MB_OK, MB_ICONINFORMATION, MB_DEFBUTTON1);En [[AWK]]#!/bin/awk -f
+BEGINEn [[Bash]]#!/bin/bash
+echo &quot;Hola mundo&quot;En [[Batch]]Opción 1Opción 3@echo offecho Hello World pause  nul exit  |En [[Basic]]10 print &quot;Hola Mundo&quot;En [[Delphi]]program PHolaMundo;
+uses
+  Dialogs;
+begin
+  MessageDlg('Hola Mundo', mtInformation, [mbOK], 0);
+end.En [[Div Games Studio]] y [[Fenix GNU]] PROGRAM Hola Mundo;
+   PRIVATE fuente1;
+   BEGIN 
+     fuente1 = load_fnt(&quot;help\help.fnt&quot;);
+     write(fuente1, 160, 100, 4, &quot;Hola Mundo&quot;); 
+     LOOP 
+       FRAME; 
+     END 
+   ENDEn [[Brainfuck]]++++++++++
+[   Bucle para iniciar el vector
+   &gt;+++++++&gt;+++++++++++&gt;++++&gt;+++&gt;+&lt;&lt;&lt;&lt;&lt;-
+]
+&gt;++.            imprime 'H'
+&gt;+.                     'o'
+---.                    'l'
+-----------.            'a'
+&gt;++++.                  coma
+&gt;++.                    ' '
+&lt;&lt;&lt;+++++.               'M'
+&gt;++++++++++++++++++++.  'u'
+-------.                'n'
+----------.             'd'
++++++++++++.            'o'
+&gt;&gt;+.                    '!'
+&gt;.                      \nEn [[Lenguaje de programación C|C]]#include &lt;stdio.h&gt;int main()  En [[C más más|C++]]include using namespace std;int main()  En [[C más más/CLI|C++/CLI]]En [[C Sharp|C#]]class MainClass
+
+En [[Centura]] Call SalMessageBox('Hola Mundo', 'Saludo', MB_IconExclamation | MB_Ok)En [[CLIPS]](printout t &quot;Hola Mundo&quot; crlf)En [[Clipper]]? &quot;Hola Mundo!&quot;En [[COBOL]]IDENTIFICATION DIVISION.
+PROGRAM-ID. HELLO.
+ENVIRONMENT DIVISION.
+DATA DIVISION.
+PROCEDURE DIVISION.
+DISPLAY &quot;Hola mundo&quot;.
+STOP RUN.En [[ColdFusion]]&lt;cfset variable=&quot;Hola Mundo&quot;&gt;
+&lt;cfoutput&gt;#variable#&lt;/cfoutput&gt;En [[ensamblador]] de [[PowerPC]] para [[Mac OS X]]# hola-ppc.S para Mac OS X
+# gcc -nostdlib hola-ppc.S -o hola-ppc
+.data                    ; datoshola:
+  .ascii    &quot;Hola, mundo!\n&quot;
+  hola_len = . - hola.text                    ; aquí vive el codigo
+  .globl startstart:
+    li      r0, 4              ; llamada al sistema 4 (sys_write)
+    li      r3, 1              ; arg. 1: descriptor de archivo (stdout)
+    lis     r4, ha16(hola)     ; arg. 2: puntero a la cadena (parte alta)
+    addi    r4, r4,lo16(hola)  ; sumamos la parte baja del mismo
+    li      r5, hola_len       ; arg. 3: longitud de la cadena
+    sc                         ; llamamos al sistema
+    nop
+    li        r3, 0            ; el valor que vamos a devolver
+    li        r0, 1            ; llamada al sistema sys_exit
+    sc
+    nopEn [[ensamblador]] de [[PowerPC]] para [[GNU/Linux]]# hola-ppc.S para GNU/Linux
+# gcc -nostdlib hola-ppc.S -o hola-ppc
+.data                    # datoshola:
+  .string    &quot;Hola, mundo!\n&quot;
+  hola_len = . - hola.text                    # aqui vive el codigo
+  .global _start_start:
+    li      0, 4              # llamada al sistema 4 (sys_write)
+    li      3, 1              # arg. 1: descriptor de archivo (stdout)
+    lis     4, hola@ha        # arg. 2: puntero a la cadena (parte alta)
+    addi    4, 4,hola@l      # sumamos la parte baja del mismo
+    li      5, hola_len       # arg. 3: longitud de la cadena
+    sc                         # llamamos al sistema
+    nop
+    li      3, 0            # el valor que vamos a devolver
+    li      0, 1            # llamada al sistema sys_exit
+    sc
+    nopEn [[ensamblador]] de [[x86]] para DOS.model small
+.stack
+.data
+Cadena1 DB 'Hola Mundo.$'
+.code
+programa:
+   mov ax, @data
+   mov ds, ax
+   mov dx, offset Cadena1
+   mov ah, 9
+   int 21h
+end programaEn [[ensamblador]] de [[x86]] para GNU/Linux (nasm)section .datamsg     db &quot;¡Hola Mundo!&quot;, 0Ah
+len     equ     $ - msg  section .textglobal _start_start:
+       mov     eax, 04h
+       mov     ebx, 01h
+       mov     ecx, msg
+       mov     edx, len
+       int     80h
+       mov     eax, 01h
+       mov     ebx, 00h
+       int     80hEn [[mIRC Scripting]]on 1:start: En [[DOS]]En sistemas operativos de la familia DOS como MS-DOS o PC-DOS que usan como shell el intérprete de comandos COMMAND. COM o CMD. EXE (OS/2 y Windows de la rama NT) se pueden crear archivos de proceso por lotes con extensiones .BAT y .CMD respectivamente, con el siguiente contenido: @echo ¡Hola, Mundo!En [[Lenguaje de programación Eiffel|Eiffel]]class HOLA_MUNDO
+create
+    make
+feature
+    make is
+        do
+            io.put_string(&quot;%nHola mundo%N&quot;)
+        end
+end  -- HOLA_MUNDOEn [[Erlang]]-module (hola).
+-export([hola_mundo/0]).hola_mundo() -&gt; io:fwrite(&quot;Hola mundo!\n&quot;).En [[Fortran]]PROGRAM HOLA
+  PRINT *, '¡Hola, mundo!'
+ENDEn [[GWBasic]]print &quot;Hola Mundo&quot;En [[Groovy (Lenguaje de Programación)|Groovy]]println &quot;Hola Mundo!&quot;En [[Haskell]]holaMundo :: IO ()
+holaMundo = do putStrLn (&quot;Hola mundo!&quot;)En [[HQ9+]]HEn [[HTML]]&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Hola Mundo&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+     &lt;p&gt;¡Hola Mundo!&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;En [[IDL]]print,'Hola Mundo!'En [[IHTML]]   &lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;:message&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+     ¡:message
+  &lt;/body&gt;
+&lt;/html&gt;En [[INTERCAL]]PLEASE DO ,1 &lt;- #13
+DO ,1 SUB #1 &lt;- #238
+DO ,1 SUB #2 &lt;- #112
+DO ,1 SUB #3 &lt;- #112
+DO ,1 SUB #4 &lt;- #0
+DO ,1 SUB #5 &lt;- #64
+DO ,1 SUB #6 &lt;- #238
+DO ,1 SUB #7 &lt;- #26
+PLEASE DO ,1 SUB #8 &lt;- #22
+DO ,1 SUB #8 &lt;- #248
+DO ,1 SUB #9 &lt;- #168
+DO ,1 SUB #10 &lt;- #24
+DO ,1 SUB #11 &lt;- #16
+DO ,1 SUB #12 &lt;- #158
+DO ,1 SUB #13 &lt;- #52
+PLEASE READ OUT ,1
+PLEASE GIVE UPEn [[Lenguaje de programación Java|Java]]public class HolaMundo 
+En [[JCL]]//Paso1 EXEC PGM=T9971591
+//DDUNO DD IN
+%%    Hola mundoEn [[JSP]] &lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Strict//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&quot;&gt;
+    &lt;html&gt;
+      &lt;%! String hola = &quot;hola mundo&quot;; %&gt;
+      &lt;head&gt;
+        &lt;title&gt;
+          &lt;%= hola %&gt;
+        &lt;/title&gt;
+      &lt;/head&gt;
+      &lt;body&gt; 
+        &lt;%= hola %&gt;
+      &lt;/body&gt;&lt;/html&gt;En [[JavaScript]]&lt;script type=&quot;text/javascript&quot;&gt;
+  document.write(&quot;¡Hola, mundo!&quot;);
+&lt;/script&gt;En [[Korn Shell]]!usr/bin/kshprint "Hola Mundo"; En [[LabVIEW]]Imagen:LVholamundo.pngEn [[LISP]](format t &quot;¡Hola, mundo!&quot;)En [[Liberty BASIC]]print &quot;¡Hola, mundo!&quot;En [[Logo (Lenguaje de programación)|Logo]]escribe [¡Hola mundo!]Rotula &quot;Hola GD 90 sl av 50 Rotula &quot;mundoEn [[LOLCODE]] HAI
+ CAN HAS STDIO?
+ VISIBLE &quot;HAI WORLD!&quot;
+ KTHXBYEEn [[Makinporing]] copy_and_send 0, string 'Hola Mundo'En [[Maple]]&quot;hola mundo&quot;;En [[Mathematica]]En [[Lenguaje de programación MATLAB|MATLAB]] disp('hola mundo');       % muestra el mensajeEn [[Modula-2]]MODULE Hola;
+FROM InOut IMPORT WriteString;
+BEGIN
+  WriteString (&quot;Hola Mundo&quot;);
+END Hola.En [[Natural]]   WRITE &quot;HOLA MUNDO&quot;En [[NetLinx]] send_string 0,'Hola Mundo'En [[NetREXX]]En [[Object REXX]]En [[Object Pascal]]   procedure tform1.button1click (sender:tobject);
+   //Despues de crear y presionar el botón &quot;button1&quot;
+   begin
+   showmessage('HOLA MUNDO');
+   end;
+   end.En [[ObjectPAL]]   method holaMundo()
+       msgInfo( &quot;&quot;, &quot;¡hola mundo!&quot;)
+   endMethodEn [[Ook!]] Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook. Ook! Ook. Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook. Ook. Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook. Ook! Ook. Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook. Ook. Ook? Ook. Ook? Ook. Ook. Ook! Ook. Ook! Ook? Ook! Ook! Ook? Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. En [[Ocaml]]  print_string &quot;Hola mundo&quot;;;En [[OpenInventor]] #Inventor V2.1 ascii
+ Text3 En [[Lenguaje de programación Oz]] En [[Lenguaje de programación Pascal|Pascal]]Program HolaMundo;
+Begin
+    Write('¡Hola, Mundo!');
+End.En [[Pauscal]] 'Pauscal: Lenguaje de programación en español
+ Importar &quot;Pauscal.prp&quot;
+ Mensaje(&quot;¡Hola Mundo!&quot;)En [[Pawn]]main () En [[Perl]] print "Hola, mundo\n"; En [[Perl]] v5.10 say 'Hola, mundo'; En [[PHP]]&lt;?php echo 'Hola Mundo!'; ?&gt;En [[PL/SQL]]begin
+DBMS_OUTPUT.Put_Line( 'Hola Mundo' );  
+end;En [[Python]]print &quot;¡Hola Mundo!&quot;En [[Python 3.0]]En [[Prolog]]write('Hola mundo').En [[QBasic]]PRINT &quot;Hola mundo&quot;En [[RapidQ]]ShowMessage(&quot;Hola, mundo!&quot;)En [[REXX]]say &quot;Hola Mundo&quot;En [[Ruby]]puts &quot;Hola Mundo&quot;En [[SAPScript]]MAIN
+P1    Hola Mundo
+/En [[Scheme]](let ((HOLA MUNDO
+        (lambda ()
+          (display &quot;Hola, mundo&quot;) 
+          (newline))))
+   (hola-mundo))o, simplemente(display &quot;Hola, mundo\n&quot;)En [[Scratch]]Imagen:HolaMundoScratch.pngEn [[Seed7]]$ include &quot;seed7_05.s7i&quot;;const proc: main is func
+  begin
+    writeln(&quot;Hola Mundo&quot;);
+  end func;En [[Smalltalk]]Transcript show: '¡Hola, mundo!'En [[SQL]]Variante de Oracle: SELECT 'HOLA MUNDO'
+FROM DUAL;En [[Tcl]]puts &quot;Hola mundo&quot;En [[Template Toolkit]][% GET &quot;Hola mundo!&quot;; %]En [[TiBasic]]Disp &quot;Hola Mundo&quot;En [[TrueBasic]]print &quot;Hola Mundo&quot;En [[Unlambda]]```s``sii`ki
+``s``s`ks
+    ``s``s`ks``s`k`s`kr
+              ``s`k`si``s`k`s`k
+                              `d````````````.H.o.l.a.,. .m.u.n.d.o.!
+                       k
+     k
+ `k``s``s`ksk`k.*En [[Visual Basic]]Sub Form_Load()
+  Msgbox &quot;Hola Mundo&quot;
+End SubEn [[Visual Basic .NET]]Private Sub Form_Load() Handles Form1.Load
+  Messagebox.show(&quot;¡Hola, mundo!&quot;)
+End SubEn [[Visual FoxPro]]? &quot;Hola Mundo&quot;En [[X3]]SubProg HOLAMUNDO()
+   Infbox &quot;Hola Mundo&quot;
+EndEn [[xBase]]? &quot;Hola Mundo&quot;Enlaces externoswww2.latech.edu/~acm/HelloWorld.shtml Más de 200 ejemplos de Hola Mundo en inglés.http://www.roesler-ac.de/wolfram/hello.htm Otra extensísima lista de ejemplos en inglés.http://fox.wikis.com/wc.dll?Wiki~HelloWorld Varias formas de crear un Hello World en Visual Foxpro (en inglés).http://www.wikilearning.com/hola_mundo-wkccp-10578-5.htm Original del ejemplo de ADA.Categoría:Programaciónar:برنامج هلو ورلد az:Bir çox dillərdə &quot;Hello World&quot; bar:Servus-Woid-Programm bg:Hello, world bs:Hello world program ca:Hola món cs:Hello world da:Hello world-program de:Hallo-Welt-Programm el:Πρόγραμμα hello world en:Hello world program eo:Saluton, mondo! et:Hello world eu:Kaixo mundua fi:Hei maailma -ohjelma fr:Hello world he:תוכנית Hello world hu:„Helló, világ!” program ia:Hello World id:Hello world it:Hello world ja:Hello world ko:Hello world 프로그램 ml:ഹലോ വേള്‍ഡ് (കമ്പ്യൂട്ടര്‍ പ്രോഗ്രാം) ms:Hello world nl:Hello world (computerprogramma) nn:Hello World no:Hello, world pl:Hello world pt:Programa Olá Mundo ro:Program Hello, world! ru:Программа Hello world sh:Hello World simple:Hello World sk:Hello world sl:Pozdravljen, svet sq:Njatjeta Botë (programi) sr:Hello World sv:Hello World th:Hello world tr:Merhaba dünya programı uk:Hello world! (програма) vi:Chào thế giới! zh:Hello World

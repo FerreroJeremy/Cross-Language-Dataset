@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 0922 |
+ postalcode        = 92015 |
+ gentilic          = raffadalesi |
+ saint             = |
+ day               = |
+ mayor             = |
+ website           = [http://www.comune.raffadali.ag.it/ www.comune.raffadali.ag.it/] |
+ mapy = 13.5333 |
+ mapx = 37.4000 | Raffadali is a comune (municipality) in the Province of Agrigento in the Italian region Sicily, located about 80&nbsp;km south of Palermo and about 10&nbsp;km northwest of Agrigento. As of 31 December 2004, it had a population of 13,457 and an area of 22.2&nbsp;km².All demographics and other statistics: Italian statistical institute Istat.Raffadali borders the following municipalities: Agrigento, Joppolo Giancaxio, Sant'Angelo Muxaro, Santa Elisabetta.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:15000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:2000 start:0 ScaleMinor = gridcolor:lightgrey increment:500 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:6019
+ bar:1871 from: 0 till:6733
+ bar:1881 from: 0 till:7736
+ bar:1901 from: 0 till:9484
+ bar:1911 from: 0 till:10401
+ bar:1921 from: 0 till:10667
+ bar:1931 from: 0 till:11072
+ bar:1936 from: 0 till:11207
+ bar:1951 from: 0 till:12184
+ bar:1961 from: 0 till:12643
+ bar:1971 from: 0 till:12798
+ bar:1981 from: 0 till:13853
+ bar:1991 from: 0 till:13952
+ bar:2001 from: 0 till:13336PlotData= bar:1861 at:6019 fontsize:XS text: 6019 shift:(-8,5)
+ bar:1871 at:6733 fontsize:XS text: 6733 shift:(-8,5)
+ bar:1881 at:7736 fontsize:XS text: 7736 shift:(-8,5)
+ bar:1901 at:9484 fontsize:XS text: 9484 shift:(-8,5)
+ bar:1911 at:10401 fontsize:XS text: 10401 shift:(-8,5)
+ bar:1921 at:10667 fontsize:XS text: 10667 shift:(-8,5)
+ bar:1931 at:11072 fontsize:XS text: 11072 shift:(-8,5)
+ bar:1936 at:11207 fontsize:XS text: 11207 shift:(-8,5)
+ bar:1951 at:12184 fontsize:XS text: 12184 shift:(-8,5)
+ bar:1961 at:12643 fontsize:XS text: 12643 shift:(-8,5)
+ bar:1971 at:12798 fontsize:XS text: 12798 shift:(-8,5)
+ bar:1981 at:13853 fontsize:XS text: 13853 shift:(-8,5)
+ bar:1991 at:13952 fontsize:XS text: 13952 shift:(-8,5)
+ bar:2001 at:13336 fontsize:XS text: 13336 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal linkswww.comune.raffadali.ag.it/ Category:Cities and towns in Sicilyde:Raffadali es:Raffadali eo:Raffadali fr:Raffadali id:Raffadali it:Raffadali lmo:Raffadali nl:Raffadali ja:ラッファダーリ nap:Raffadali pl:Raffadali pt:Raffadali scn:Raffadali (AG) vi:Raffadali vo:Raffadali

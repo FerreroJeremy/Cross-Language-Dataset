@@ -1,0 +1,44 @@
+ Casandrino es una comuna localizada en la provincia de Nápoles, región de Campania, Italia. Se ubica 11 km al norte de Nápoles. Según los datos del 31 de diciembre de 2004, tenía una población de 13.245 habitantes y un área de 3,2 km2.Todos los datos y otras estadísticas: ISTAT.Casandrino limita con las siguientes comunas: Arzano, Grumo Nevano, Melito di Napoli, Nápoles y Sant'Antimo.Evolución demográfica Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:14000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:2000 start:0 ScaleMinor = gridcolor:lightgrey increment:500 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:2214
+ bar:1871 from: 0 till:2555
+ bar:1881 from: 0 till:2866
+ bar:1901 from: 0 till:3009
+ bar:1911 from: 0 till:2963
+ bar:1921 from: 0 till:2974
+ bar:1931 from: 0 till:3457
+ bar:1936 from: 0 till:3783
+ bar:1951 from: 0 till:4665
+ bar:1961 from: 0 till:5369
+ bar:1971 from: 0 till:6314
+ bar:1981 from: 0 till:9148
+ bar:1991 from: 0 till:11617
+ bar:2001 from: 0 till:13245PlotData= bar:1861 at:2214 fontsize:XS text: 2214 shift:(-8,5)
+ bar:1871 at:2555 fontsize:XS text: 2555 shift:(-8,5)
+ bar:1881 at:2866 fontsize:XS text: 2866 shift:(-8,5)
+ bar:1901 at:3009 fontsize:XS text: 3009 shift:(-8,5)
+ bar:1911 at:2963 fontsize:XS text: 2963 shift:(-8,5)
+ bar:1921 at:2974 fontsize:XS text: 2974 shift:(-8,5)
+ bar:1931 at:3457 fontsize:XS text: 3457 shift:(-8,5)
+ bar:1936 at:3783 fontsize:XS text: 3783 shift:(-8,5)
+ bar:1951 at:4665 fontsize:XS text: 4665 shift:(-8,5)
+ bar:1961 at:5369 fontsize:XS text: 5369 shift:(-8,5)
+ bar:1971 at:6314 fontsize:XS text: 6314 shift:(-8,5)
+ bar:1981 at:9148 fontsize:XS text: 9148 shift:(-8,5)
+ bar:1991 at:11617 fontsize:XS text: 11617 shift:(-8,5)
+ bar:2001 at:13245 fontsize:XS text: 13245 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Fuente ISTATReferenciasEnlaces externoshttp://www.casandrino.net/Categoría:Localidades de la provincia de Nápolesde:Casandrino en:Casandrino eo:Casandrino fr:Casandrino hu:Casandrino it:Casandrino ja:カザンドリーノ nap:Casandrino nl:Casandrino pl:Casandrino pt:Casandrino roa-tara:Casandrino scn:Casandrinu vi:Casandrino vo:Casandrino

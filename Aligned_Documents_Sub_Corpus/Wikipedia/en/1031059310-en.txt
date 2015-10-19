@@ -1,0 +1,54 @@
+ |
+ frazioni          = San Bernardo, Salsasio, San Giovanni, San Michele Grato,Cappuccini, Casanova, Tuninetti, Vallongo, Motta e Corno |
+ telephone         = 011 |
+ postalcode        = 10022 |
+ gentilic          = carmagnolesi |
+ saint             = [[Immaculate Conception]] |
+ day               =  [[december 8]] |
+ mayor             =  Gian Luigi Surra |
+ website           = [http://www.comune.carmagnola.to.it www.comune.carmagnola.to.it] |
+ mapy = 7.7167 |
+ mapx = 44.8500 |  Carmagnola is a comune (municipality) in the Province of Turin in the Italian region Piedmont, located 29 km south of Turin. As of July 11, 2007, it had a population of 27,043 and an area of 96.4 km².All demographics and other statistics: Italian statistical institute Istat.The municipality of Carmagnola contains the frazioni (subdivisions, mainly villages and hamlets) San Bernardo, Salsasio, San Giovanni, San Michele Grato, Cappuccini, Casanova, Tuninetti, Vallongo, and Motta e Corno.Carmagnola borders the following municipalities: Poirino, Villastellone, Carignano, Lombriasco, Ceresole Alba, Racconigi, Sommariva del Bosco, Caramagna Piemonte.HistoryThe municipality was founded during the 11th century. The land, originally owned by the Arduinic dynasty, passed to the Margraves of Saluzzo, who had a castle built here. The Saluzzo dinasty soon underwent a rapid decadence ending with a French domination period which lasted 40 years. In 1588 Carmagnola became a possession of the House of Savoy, when Charles Emmanuel I besieged and conquered it. French took possession of Carmagnola a second time during the 17th century, during the civil war between Madamisti and Principisti (supporters of the French and the Savoy dinasty respectively). In this period (1637-1642), the three main subdivisions were raised to the ground as they were conflicting with the defence structures, and immediately re-built around 1.5&nbsp;km from their original position, where they still are at the present time.In 1690 the city was once again occupied by the French general Catinat, but just one year later Victor Amadeus II of Savoy brought it back among Piedmontese possessions. While its defence buildings were being demolished and its strategic role was progessively decreasing in importance, the town could finally develop agriculture and commerce, mainly of canapa and ropes, which were exported in great quantity to Liguria and souther France. The characteristic of both agricultural and commercial site remained important until after World War II, which caused a massive immigration and a rapid urbanistic expansion]].Geographical positionThe town is on the right side of the Po river. The nature of the soil determined, as time was passing, the accumulation of the river sands.EconomyThe economy of the town is currently linked to the industry and intensive production of vegetables and cereals, which the particular soil makes very productive. Industry experienced a notable growth during 1960s, when FIAT opened an important factory, thus attracting a growing number of immigrants from southern Italy. The rapid growth of FIAT made also possible other activities in the metallurgy, electronics, optics, chemical industry, and food industry fields. Also well-developed are the banking, financial and insurance sectors.Notable citiziensFrancesco Bussone da Carmagnola, better known as Il Carmagnola (1380-1432), was a famous Renaissance condottiero.Feasts and celebrationsPeppers Fair. It is held between the last week of August and the first of September; it is an eno-gastronomic fair dedicated to the most typical product of Carmagnola's agriculture. It attracts over 250,000 visitors each year.Spring Fair, Fiera di primavera. Held annually in March, dedicated to agricultural commerce, it features many collateral events.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:26000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:2000 start:0 ScaleMinor = gridcolor:lightgrey increment:500 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:12664
+ bar:1871 from: 0 till:13247
+ bar:1881 from: 0 till:13005
+ bar:1901 from: 0 till:11721
+ bar:1911 from: 0 till:12248
+ bar:1921 from: 0 till:11987
+ bar:1931 from: 0 till:12078
+ bar:1936 from: 0 till:12737
+ bar:1951 from: 0 till:13459
+ bar:1961 from: 0 till:14477
+ bar:1971 from: 0 till:21109
+ bar:1981 from: 0 till:24187
+ bar:1991 from: 0 till:24725
+ bar:2001 from: 0 till:24911PlotData= bar:1861 at:12664 fontsize:XS text: 12664 shift:(-8,5)
+ bar:1871 at:13247 fontsize:XS text: 13247 shift:(-8,5)
+ bar:1881 at:13005 fontsize:XS text: 13005 shift:(-8,5)
+ bar:1901 at:11721 fontsize:XS text: 11721 shift:(-8,5)
+ bar:1911 at:12248 fontsize:XS text: 12248 shift:(-8,5)
+ bar:1921 at:11987 fontsize:XS text: 11987 shift:(-8,5)
+ bar:1931 at:12078 fontsize:XS text: 12078 shift:(-8,5)
+ bar:1936 at:12737 fontsize:XS text: 12737 shift:(-8,5)
+ bar:1951 at:13459 fontsize:XS text: 13459 shift:(-8,5)
+ bar:1961 at:14477 fontsize:XS text: 14477 shift:(-8,5)
+ bar:1971 at:21109 fontsize:XS text: 21109 shift:(-8,5)
+ bar:1981 at:24187 fontsize:XS text: 24187 shift:(-8,5)
+ bar:1991 at:24725 fontsize:XS text: 24725 shift:(-8,5)
+ bar:2001 at:24911 fontsize:XS text: 24911 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATTwin townsOpatija, CroatiaReferencesExternal linksOfficial websiteCategory:Cities and towns in Piedmont Category:Castles in Italyca:Carmagnola de:Carmagnola (Piemont) es:Carmañola (Italia) eo:Carmagnola fr:Carmagnole (Italie) id:Carmagnola it:Carmagnola he:קארמניולה nl:Carmagnola ja:カルマニョーラ nap:Carmagnola pms:Carmagnòla pl:Carmagnola pt:Carmagnola vi:Carmagnola vo:Carmagnola

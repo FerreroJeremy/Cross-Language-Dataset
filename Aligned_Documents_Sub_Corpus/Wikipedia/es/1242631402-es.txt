@@ -1,0 +1,39 @@
+Dos números amigos son dos enteros positivos a'' y ''b tales que a'' es la suma de los divisores propios de ''b y b'' es la suma de los divisores propios de ''a. (la unidad se considera divisor propio, pero no lo es el mismo número).Un ejemplo es el par (220, 284), ya que:los divisores propios de 220 son 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 y 110, que suman 284los divisores propios de 284 son 1, 2, 4, 71 y 142, que suman 220Para los pitagóricos los números amigos tenían muchas propiedades místicas.Alrededor del año 850, Tabit ibn Qurra (826-901) descubrió una fórmula general para la cual se podían hallar números amigos: sip'' = 3 × 2''n-1 - 1,q'' = 3 × 2''n - 1,r'' = 9 × 22''n-1 - 1,donde n''  1 es entero y ''p, q'', y ''r son números primos, entonces2''npq'' y 2''nr'' son un par de números amigos.Esta fórmula genera los pares (220, 284), (1184, 1210), (17.296, 18.416) y (9.363.284, 9.437.056). El par (6232, 6368) también es de números amigos, pero no se puede hallar por la fórmula anterior.Los números amigos han sido estudiados por Al Madshritti (muerto en 1007), Abu Mansur Tahir al-Baghdadi (980-1037), Pierre de Fermat(1601-1665), René Descartes (1596-1650), a quien se atribuye a veces la fórmula de Tabit, C. Rudolphus y otros. La fórmula de Tabit fue generalizada por Euler. En la Edad Media, existió la creencia de que si se daba de comer a dos personas (al mismo tiempo pero no en el mismo lugar) sendos alimentos que contenían una inscripción 220 para uno y de 284 para el otro, entonces se volvían amigos por arte de magia.Si un número es amigo de sí mismo (es igual a la suma de sus divisores propios), recibe el nombre de número perfecto.DescubrimientosLos pitagóricos observaron una rara relación entre los números 220 y 284: la suma de los divisores de cada uno de ellos, salvo el propio número, es el otro. Los denominaron números amigos. Durante muchos siglos, la pareja 220 y 284 fueron los únicos amigos conocidos, hasta que en 1636 Fermat descubrió que 17.296 y 18.416 también lo son. En 1638 Descartes, colega y competidor de Fermat, encontró la tercera pareja: 9.363.584 y 9.437.056Implementación en lenguajes de programaciónPython-*- coding: cp1252 -*-Definición de la función de comprobación de números amigosdef números_amigos(x,y):   suma_x=0
+   suma_y=0
+   for i in range(1,x):
+       if x%i==0:
+           suma_x+=i   for k in range(1,y):
+       if y%k==0:
+           suma_y+=k   return suma_x==y and suma_y==xCuerpo del programan_1=int(raw_input('Introduzca el nº 1: ')) n_2=int(raw_input('Introduzca el nº 2: '))if numeros_amigos(n_1,n_2):   print '¡Son amigos! :)'else:   print 'No son amigos :('Haskell--Definición de la función &quot;sonNumerosAmigos x y&quot;sonNumerosAmigos :: Int -&gt; Int -&gt; BoolsonNumerosAmigos x y = if (x &gt; 0 &amp;&amp; y &gt; 0) then ( sum (listaDivisores y) == x &amp;&amp; sum 
+(listaDivisores x) == y ) else error(&quot;Los numeros deben ser enteros positivos&quot;)
+       where listaDivisores n = [ x | x &lt;- [1..(n-1)], (mod n x) == 0]VB .NET   Private Function numeros_amigos(ByVal num_1 As Integer, ByVal num_2 As Integer) As Boolean
+       Dim x As Integer            'Contador para bucles num_1 y num_2
+       Dim suma_1 As Integer       'Acumular de suma de divisibles de Num_1
+       Dim suma_2 As Integer       'Acumular de suma de divisibles de Num_2       x = 1       'Inicializamos a 0 el bucle para sacar los numeros divisibles de num_1       Do
+           If num_1 Mod x = 0 Then     ' Si la division es 0 entra
+               suma_1 = suma_1 + x     'Guardamos la suma de los divisibles para luego comparala
+           End If
+           x = x + 1
+       Loop Until x &gt;= num_1           'Recorre todos los numeros hasta ser + o = a num_1       x = 1       'Inicializamos a 0 el bucle para sacar los numeros divisibles de num_2       Do
+           If num_2 Mod x = 0 Then     ' Si la division es 0 entra
+               suma_2 = suma_2 + x     'Guardamos la suma de los divisibles para luego comparala
+           End If
+           x = x + 1
+       Loop Until x &gt;= num_2           'Recorre todos los numeros hasta ser + o = a num_2       If ((suma_1 = num_2) And (suma_2 = num_1)) Then 'Si la suma de los divisibles de num_1 es
+                                                       '= a num_2 o al reves entra
+           numeros_amigos = True
+       Else
+           numeros_amigos = False
+       End If   End Function   Sub main()
+       Dim num_1 As Integer
+       Dim num_2 As Integer       Console.Write(&quot;Introduzca el primer numero:  &quot;)
+       num_1 = CInt(Console.ReadLine())
+       Console.Write(&quot;Introduzca el segundo numero: &quot;)
+       num_2 = CInt(Console.ReadLine())
+       Console.WriteLine(&quot;&quot;)      Console.Write(&quot;La comparación para saber si los numeros  y &quot;, num_1, num_2)
+      Console.Write(&quot;son amigos es: &quot;, numeros_amigos(num_1, num_2))
+      Console.ReadLine()
+   End SubCincludeint num1, num2; int sumadiv1=0, sumadiv2=0; int conta;main()      for (conta=1 ; conta&lt;num2 ; conta++)      if(sumadiv1==num2 &amp;&amp; sumadiv2==num1)
+         printf(&quot;Los numeros son amigos\n&quot;);
+      else
+         printf(&quot;Los numeros no son amigos\n&quot;);system("pause"); Véase tambiénNúmero perfectoNúmeros sociablesCategoría:Teoría de númerosbe-x-old:Прыхільныя лікі br:Niver karantezus ca:Nombres amics da:Venskabstal de:Befreundete Zahl en:Amicable number eo:Amikebla nombro fr:Nombre amical gl:Números amigos he:מספרים ידידים hu:Barátságos számok is:Vingjarnlegar tölur it:Numeri amicabili ja:友愛数 ko:친화수 la:Numeri amicabiles lmo:Nümar amiis lt:Draugiškasis skaičius nl:Bevriende getallen no:Vennskapstall pl:Liczby zaprzyjaźnione pt:Número amigável ru:Дружественные числа sl:Prijateljsko število sv:Vänskapliga tal th:จำนวนเชิงมิตร zh:相亲数

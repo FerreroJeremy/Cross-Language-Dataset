@@ -1,0 +1,197 @@
+Un árbol binario de búsqueda es un tipo particular de árbol binario que presenta una estructura de datos en forma de árbol usada en informática.DescripciónUn árbol binario de búsqueda (ABB) es un árbol binario definido de la siguiente forma: Todo árbol vacío es un árbol binario de búsqueda.Un árbol binario no vacío, de raíz R, es un árbol binario de búsqueda si: • En caso de tener subárbol izquierdo, la raíz R debe ser mayor que el valor máximo almacenado en el subárbol izquierdo, y que el subárbol izquierdo sea un árbol binario de búsqueda. • En caso de tener subárbol derecho, la raíz R debe ser menor que el valor mínimo almacenado en el subárbol derecho, y que el subárbol derecho sea un árbol binario de búsqueda. Para una fácil comprensión queda resumido en que es un árbol binario que cumple que el subárbol izquierdo de cualquier nodo (si no está vacío) contiene valores menores que el que contiene dicho nodo, y el subárbol derecho (si no está vacío) contiene valores mayores.Para estas definiciones se considera que hay una relación de orden establecida entre los elementos de los nodos. Que cierta relación este definida, o no, depende de cada lenguaje de programación. De aquí se deduce que puede haber distintos árboles binarios de búsqueda para un mismo conjunto de elementos.La altura h en el peor de los casos siempre el mismo tamaño que el número de elementos disponibles. Y en el mejor de los casos viene dada por la expresión h = ceil(log_2(c+1)), donde ceil indica redondeo por exceso.Archivo:ABB.svg Archivo:ABB1.jpg[[Archivo:ABBabcd.jpg|right|thumb|300px|Ejemplo de Árbol Binario de Búsqueda]] El interés de los árboles binarios de búsqueda radica en que su recorrido en inorden proporciona los elementos ordenados de forma ascendente y en que la búsqueda de algún elemento suele ser muy eficiente.Dependiendo de las necesidades del usuario que trate con una estructura de este tipo se podrá permitir la igualdad estricta en alguno, en ninguno o en ambos de los subárboles que penden de la raíz. Permitir el uso de la igualdad provoca la aparición de valores dobles y hace la búsqueda más compleja.Un árbol binario de búsqueda no deja de ser un caso particular de árbol binario, así usando la siguiente especificación de árbol binario en maude:   &lt;font color=#AF0000&gt;'''fmod'''&lt;/font&gt; ARBOL-BINARIO &lt;font color=#C8AA00&gt;'''is'''&lt;/font&gt;
+   &lt;font color=#AF0000&gt;'''sorts'''&lt;/font&gt; ArbolBinNV ArbolBin .
+   &lt;font color=#AF0000&gt;'''subsort'''&lt;/font&gt; ArbolBinNV &lt; ArbolBin .
+   &lt;font color=#008000&gt;'''*** generadores'''&lt;/font&gt;
+   &lt;font color=#800080&gt;'''op'''&lt;/font&gt; crear : -&gt; ArbolBin [&lt;font color=#0080AF&gt;'''ctor'''&lt;/font&gt;] .
+   &lt;font color=#800080&gt;'''op'''&lt;/font&gt; arbolBin : X$Elt ArbolBin ArbolBin -&gt; ArbolBinNV [&lt;font color=#0080AF&gt;'''ctor'''&lt;/font&gt;] .
+   &lt;font color=#AF0000&gt;'''endfm'''&lt;/font&gt;podemos hacer la siguiente definicion para un árbol binario de búsqueda (también en maude):   &lt;font color=#AF0000&gt;'''fmod'''&lt;/font&gt; ARBOL-BINARIO-BUSQUEDA  &lt;font color=#C8AA00&gt;'''is'''&lt;/font&gt;
+       &lt;font color=#AF0000&gt;'''protecting'''&lt;/font&gt; ARBOL-BINARIO .
+       &lt;font color=#AF0000&gt;'''sorts'''&lt;/font&gt; ABB ABBNV .
+       &lt;font color=#AF0000&gt;'''subsort'''&lt;/font&gt; ABBNV &lt; ABB .
+       &lt;font color=#AF0000&gt;'''subsort'''&lt;/font&gt; ABB &lt; ArbolBin .
+       &lt;font color=#AF0000&gt;'''subsort'''&lt;/font&gt; ABBNV &lt; ArbolBinNV .
+   &lt;font color=#008000&gt;'''*** generadores'''&lt;/font&gt;
+   &lt;font color=#800080&gt;'''op'''&lt;/font&gt; crear : -&gt; ArbolBin [&lt;font color=#0080AF&gt;'''ctor'''&lt;/font&gt;] .
+   &lt;font color=#800080&gt;'''op'''&lt;/font&gt; arbolBin : X$Elt ArbolBin ArbolBin -&gt; ArbolBinNV [&lt;font color=#0080AF&gt;'''ctor'''&lt;/font&gt;] .
+   &lt;font color=#AF0000&gt;'''endfm'''&lt;/font&gt;con la siguiente teoría de orden:    &lt;font color=#AF0000&gt;'''fth'''&lt;/font&gt; ORDEN &lt;font color=#C8AA00&gt;'''is'''&lt;/font&gt;
+    &lt;font color=#AF0000&gt;'''protecting'''&lt;/font&gt; BOOL .
+    &lt;font color=#AF0000&gt;'''sort'''&lt;/font&gt; Elt .
+    &lt;font color=#008000&gt;'''*** operaciones'''&lt;/font&gt;
+    &lt;font color=#800080&gt;'''op'''&lt;/font&gt; _&lt;_ : Elt Elt -&gt; Bool .
+    &lt;font color=#AF0000&gt;'''endfth'''&lt;/font&gt;para que un árbol binario pertenezca al tipo árbol binario de búsqueda debe cumplir la condición de ordenación siguiente que iría junto al módulo ARBOL-BINARIO-BUSQUEDA:   &lt;font color=#800080&gt;'''var'''&lt;/font&gt;  R : X$Elt .
+   &lt;font color=#800080&gt;'''vars'''&lt;/font&gt; INV DNV : ABBNV .
+   &lt;font color=#800080&gt;'''vars'''&lt;/font&gt; I D : ABB .
+   &lt;font color=#C8AA00&gt;'''mb'''&lt;/font&gt; crear : ABB .
+   &lt;font color=#C8AA00&gt;'''mb'''&lt;/font&gt; arbolBin(R, crear, crear) : ABBNV .
+   &lt;font color=#C8AA00&gt;'''cmb'''&lt;/font&gt; arbolBin(R, INV, crear) : ABBNV &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; R &gt; max(INV) .
+   &lt;font color=#C8AA00&gt;'''cmb'''&lt;/font&gt; arbolBin(R, crear, DNV) : ABBNV &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; R &lt; min(DNV) .
+   &lt;font color=#C8AA00&gt;'''cmb'''&lt;/font&gt; arbolBin(R, INV, DNV) : ABBNV &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; (R &gt; max(INV)) and (R &lt; min(DNV)) .
+   &lt;font color=#800080&gt;'''ops'''&lt;/font&gt; min max : ABBNV -&gt; X$Elt .
+   &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; min(arbolBin(R, crear, D)) = R .
+   &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; min(arbolBin(R, INV, D)) = min(INV) .
+   &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; max(arbolBin(R, I, crear)) = R .
+   &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; max(arbolBin(R, I, DNV)) = max(DNV) .OperacionesTodas las operaciones realizadas sobre árboles binarios de búsqueda están basadas en la comparación de los elementos o clave de los mismos, por lo que es necesaria una subrutina, que puede estar predefinida en el lenguaje de programacion, que los compare y pueda establecer una relación de orden entre ellos, es decir, que dados dos elementos sea capaz de reconocer cual es mayor y cual menor. Se habla de clave de un elemento porque en la mayoría de los casos el contenido de los nodos será otro tipo de estructura y es necesario que la comparación se haga sobre algún campo al que se denomina clave.BúsquedaLa búsqueda consiste acceder a la raíz del árbol, si el elemento a localizar coincide con éste la búsqueda ha concluido con éxito, si el elemento es menor se busca en el subárbol izquierdo y si es mayor en el derecho. Si se alcanza un nodo hoja y el elemento no ha sido encontrado se supone que no existe en el árbol. Cabe destacar que la búsqueda en este tipo de árboles es muy eficiente, representa una función logarítmica. El número de comparaciones que necesitaríamos para saber si un elemento se encuentra en un árbol binario de búsqueda estaría entre log&lt;sub&gt;2&lt;/sub&gt;(N+1) y N, siendo N el numero de nodos. La búsqueda de un elemento en un ABB (Árbol Binario de Búsqueda) se puede realizar de dos formas, iterativa o recursiva.Ejemplo de versión iterativa en el lenguaje de programación C, suponiendo que estamos buscando una clave alojada en un nodo donde está el correspondiente "dato" que precisamos encontrar: data Buscar_ABB(abb t,clave k) 
+         if (p-&gt;k &lt; k)
+           
+       
+     if (!estaVacio(p) &amp;&amp;(p-&gt;d!=NULL) )
+                                                 
+   
+ return e; Véase ahora la versión recursiva en ese mismo lenguaje: int buscar(tArbol *a, int elem)  Otro ejemplo en Python: def search_binary_tree(node, key):  if node is None:
+       return None  # not found
+   if key &lt; node.key:
+       return search_binary_tree(node.left, key)
+   else if key &gt; node.key:
+       return search_binary_tree(node.right, key)
+   else:
+       return node.valueEn Pascal: Function busqueda(T:ABR, y: integer):ABR begin if (T=nil) or (^T.raiz=y) then
+    busqueda:=T;
+ else
+    if (^T.raiz&lt;y) then
+       busqueda:=busqueda(^T.dch,y);
+    else
+       busqueda:=busqueda(^T.izq,y);end; Una especificación en maude para la operación de búsqueda quedaría de la siguiente forma:    &lt;font color=#800080&gt;'''op'''&lt;/font&gt; esta? : X$Elt ABB -&gt; Bool .
+    &lt;font color=#800080&gt;'''var'''&lt;/font&gt; R R1 R2 : X$Elt .
+    &lt;font color=#800080&gt;'''vars'''&lt;/font&gt; I D : ABB .
+    &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; esta?(R, crear) = &lt;font color=#C8AA00&gt;'''false'''&lt;/font&gt; .
+    &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; esta?(R1, arbolBin(R2, I, D)) = &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; R1 == R2 &lt;font color=#C8AA00&gt;'''then '''&lt;/font&gt;
+                                     &lt;font color=#C8AA00&gt;'''true'''&lt;/font&gt;
+                                  &lt;font color=#C8AA00&gt;'''else '''&lt;/font&gt;
+                                      &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; R1 &lt; R2 &lt;font color=#C8AA00&gt;'''then'''&lt;/font&gt;
+                                          esta?(R1, I)
+                                      &lt;font color=#C8AA00&gt;'''else '''&lt;/font&gt;
+                                          esta?(R1, D)
+                                      &lt;font color=#C8AA00&gt;'''fi'''&lt;/font&gt;
+                                  &lt;font color=#C8AA00&gt;'''fi'''&lt;/font&gt; .InserciónLa inserción es similar a la búsqueda y se puede dar una solución tanto iterativa como recursiva. Si tenemos inicialmente como parámetro un árbol vacío se crea un nuevo nodo como único contenido el elemento a insertar. Si no lo está, se comprueba si el elemento dado es menor que la raíz del árbol inicial con lo que se inserta en el subárbol izquierdo y si es mayor se inserta en el subárbol derecho. De esta forma las inserciones se hacen en las hojas.center|thumb|800px|Evolución de la inserción del elemento &quot;5&quot; en un ABB Como en el caso de la búsqueda puede haber varias variantes a la hora de implementar la inserción en el TAD (Tipo Abstracto de Datos), y es la decisión a tomar cuando el elemento (o clave del elemento) a insertar ya se encuentra en el árbol, puede que éste sea modificado o que sea ignorada la inserción. Es obvio que esta operación modifica el ABB perdiendo la versión anterior del mismo.A continuación se muestran las dos versiones del algoritmo en pseudolenguaje, iterativa y recursiva, respectivamente.  PROC InsertarABB(árbol:TABB; dato:TElemento) VARIABLES  nuevonodo,pav,pret:TABB
+  clavenueva:Tclave
+  ele:TElementoINICIO  nuevonodo &lt;- NUEVO(TNodoABB)
+  nuevonodo^.izq &lt;- NULO
+  nuevonodo^.der &lt;- NULO
+  nuevonodo^.elem &lt;- dato
+  SI ABBVacío (árbol) ENTONCES
+     árbol &lt;- nuevonodo
+  ENOTROCASO
+     clavenueva &lt;- dato.clave
+     pav &lt;- árbol                // Puntero Avanzado
+     pret &lt;- NULO                // Puntero Retrasado
+     MIENTRAS (pav &lt;- NULO) HACER
+         pret &lt;- pav
+         ele = pav^.elem
+         SI (clavenueva &lt; ele.clave ) ENTONCES
+              pav &lt;- pav^.izq 
+         EN OTRO CASO
+              pav &lt;- pav^.dch
+         FINSI
+     FINMIENTRAS
+     ele = pret^.elem
+     SI (clavenueva &lt; ele.clave ) ENTONCES
+         pret^.izq &lt;- nuevonodo 
+     EN OTRO CASO
+         pret^.dch &lt;- nuevonodo 
+     FINSI
+  FINSIFIN  PROC InsertarABB(árbol:TABB; dato:TElemento) VARIABLES   ele:TElementoINICIO   SI (ABBVacío(árbol)) ENTONCES
+      árbol &lt;- NUEVO(TNodoABB)
+      árbol^.izq &lt;- NULO
+      árbol^.der &lt;- NULO
+      árbol^.elem &lt;- dato
+   EN OTRO CASO
+      ele = InfoABB(árbol)
+      SI (dato.clave &lt; ele.clave) ENTONCES
+          InsertarABB(árbol^.izq, dato)
+      EN OTRO CASO
+          InsertarABB(árbol^.dch, dato)
+      FINSI
+   FINSIFIN Se ha podido apreciar la simplicidad que ofrece la versión recursiva, este algoritmo es la traducción en C. El árbol es pasado por referencia para que los nuevos enlaces a los subárboles mantengan la coherencia. void insertar(tArbol **a, int elem) 
+ else if ((*a)-&gt;clave &lt; elem)
+   insertar(&amp;(*a)-&gt;hDerecho, elem);
+ else if ((*a)-&gt;clave &gt; elem)
+   insertar(&amp;(*a)-&gt;hIzquierdo, elem); Ejemplo en Python: def binary_tree_insert(node, key, value):   if node is None:
+       return TreeNode(None, key, value, None)
+   if key == node.key:
+       return TreeNode(node.left, key, value, node.right)
+   if key &lt; node.key:
+       return TreeNode(binary_tree_insert(node.left, key, value), node.key, node.value, node.right)
+   else:
+       return TreeNode(node.left, node.key, node.value, binary_tree_insert(node.right, key, value))Otro ejemplo en Pascal: Procedure Insercion(var T:ABR, y:integer) var ultimo:ABR;
+ actual:ABR;
+ nuevo:ABR;begin ultimo:=nil;
+ actual:=T;
+ while (actual&lt;&gt;nil) do
+ begin
+   ultimo:=actual;
+   if (^actual.raiz&lt;y) then
+      actual:=^actual.dch;
+   else
+      actual:=^actual.izq;
+ end;
+ new(nuevo);
+ ^nuevo.raiz:=y;
+ ^nuevo.izq:=nil;
+ ^nuevo.dch:=nil;
+ if ultimo=nil then
+    T:=nuevo;
+ else
+    if ^ultimo.raiz&lt;y then
+       ^ultimo.dch:=nuovo;
+    else
+       ^ultimo.izq:=nuevo;end; Véase también un ejemplo de algoritmo recursivo de inserción en un ABB en el lenguaje de programación Maude:    &lt;font color=#800080&gt;'''op'''&lt;/font&gt; insertar : X$Elt ABB -&gt; ABBNV .
+    &lt;font color=#800080&gt;'''var'''&lt;/font&gt; R R1 R2 : X$Elt .
+    &lt;font color=#800080&gt;'''vars'''&lt;/font&gt; I D : ABB .
+    &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; insertar(R, crear) = arbolBin(R, crear, crear) .
+    &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; insertar(R1, arbolBin(R2, I, D)) =  &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; R1 &lt; R2 &lt;font color=#C8AA00&gt;'''then'''&lt;/font&gt;
+                                               arbolBin(R2, insertar(R1, I), D)
+                                           &lt;font color=#C8AA00&gt;'''else '''&lt;/font&gt;                                         
+                                               arbolBin(R2, I, insertar(R1, D))
+                                           &lt;font color=#C8AA00&gt;'''fi'''&lt;/font&gt; .La operación de inserción requiere, en el peor de los casos, un tiempo proporcional a la altura del árbol.BorradoLa operación de borrado no es tan sencilla como las de búsqueda e inserción. Existen varios casos a tener en consideración:Borrar un nodo sin hijos ó nodo hoja: simplemente se borra y se establece a nulo el apuntador de su padre.frame|center|Nodo a eliminar 74Borrar un nodo con un subárbol hijo: se borra el nodo y se asigna su subárbol hijo como subárbol de su padre.frame|center|Nodo a eliminar 70Borrar un nodo con dos subárboles hijo: la solución está en reemplazar el valor del nodo por el de su predecesor o por el de su sucesor en inorden y posteriormente borrar este nodo. Su predecesor en inorden será el nodo más a la derecha de su subárbol izquierdo (mayor nodo del subarbol izquierdo), y su sucesor el nodo más a la izquierda de su subárbol derecho (menor nodo del subarbol derecho). En la siguiente figura se muestra cómo existe la posibilidad de realizar cualquiera de ambos reemplazos:frame|center|Nodo a eliminar 59El siguiente algoritmo en C realiza el borrado en un ABB. El procedimiento reemplazar busca la mayor clave del subárbol izquierdo y la asigna al nodo a eliminar. void borrar(tArbol **a, int elem) void reemplazar(tArbol **a, tArbol **aux) 
+ else
+   reemplazar(&amp;(*a)-&gt;hDerecho, aux); Otro ejemplo en Pascal. Procedure Borrar(var T:ABR, x:ABR) var  aBorrar:ABR;
+  anterior:ABR;
+  actual:ABR;
+  hijo:ABR;begin  if (^x.izq=nil) or (^x.dch=nil) then
+     aBorrar:=x;
+  else
+     aBorrar:=sucesor(T,x);
+  actual:=T;
+  anterior:=nil;
+  while (actual&lt;&gt;aBorrar) do
+  begin
+     anterior:=actual;
+     if (^actual.raiz&lt;^aBorrar.raiz) then
+        actual:=^actual.dch;
+     else 
+        actual:=^actual.izq;
+  end;
+  if (^actual.izq=nil) then
+     hijo:=^actual.dch;
+  else
+     hijo:=^actual.izq;
+  if (anterior=nil) then
+     T:=hijo;
+  else 
+     if (^anterior.raiz&lt;^actual.raiz) then
+        ^anterior.dch:=hijo;
+     else
+        ^anterior.izq:=hijo;
+  if (aBorrar&lt;&gt;x) then
+      ^x.raiz:=^aBorrar.raiz;
+  free(aBorrar);end; Véase también un ejemplo de algoritmo recursivo de borrado en un ABB en el lenguaje de programación Maude, considerando los generadores crear y arbolBin. Esta especificación hace uso de la componente clave a partir de la cual se ordena el árbol.    &lt;font color=#800080&gt;'''op'''&lt;/font&gt; eliminar : X$Elt ABB -&gt; ABB .
+    &lt;font color=#800080&gt;'''varS'''&lt;/font&gt; R M : X$Elt .
+    &lt;font color=#800080&gt;'''vars'''&lt;/font&gt; I D : ABB .
+    &lt;font color=#800080&gt;'''vars'''&lt;/font&gt; INV DNV : ABBNV .
+    &lt;font color=#C8AA00&gt;'''ops'''&lt;/font&gt; max min : ArbolBin -&gt; X$Elt .
+    &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; min(arbolBin(R, crear, D)) = R .
+    &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; max(arbolBin(R, I, crear)) = R .
+    &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; min(arbolBin(R, INV, D)) = min(INV) .
+    &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; max(arbolBin(R, I, DNV )) = max(DNV) .
+    &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; eliminar(M, crear) = crear .
+    &lt;font color=#C8AA00&gt;'''ceq'''&lt;/font&gt; eliminar(M, arbolBin(R, crear, D)) = D &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; M == clave(R) .
+    &lt;font color=#C8AA00&gt;'''ceq'''&lt;/font&gt; eliminar(M, arbolBin(R, I, crear)) = I &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; M == clave(R) .
+    &lt;font color=#C8AA00&gt;'''ceq'''&lt;/font&gt; eliminar(M, arbolBin(R, INV, DNV)) = arbolBin(max(INV), eliminar(clave(max(INV)), INV), DNV) &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; M == clave(R) .
+    &lt;font color=#C8AA00&gt;'''ceq'''&lt;/font&gt; eliminar(M, arbolBin(R, I, D)) = arbolBin(R, eliminar(M, I), D) &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; M &lt; clave(R) .
+    &lt;font color=#C8AA00&gt;'''ceq'''&lt;/font&gt; eliminar(M, arbolBin(R, I, D)) = arbolBin(R, I, eliminar(M, D)) &lt;font color=#C8AA00&gt;'''if'''&lt;/font&gt; clave(R) &lt; M .Otras OperacionesOtra opereción sería por ejemplo comprobar que un árbol binario es un árbol binario de búsqueda. Su implementación en maude es la siguiente:   &lt;font color=#800080&gt;'''op'''&lt;/font&gt;  esABB? : ABB -&gt; Bool .
+   &lt;font color=#800080&gt;'''var'''&lt;/font&gt;  R : X$Elt .
+   &lt;font color=#800080&gt;'''vars'''&lt;/font&gt;  I D : ABB .
+   &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; esABB?(crear) = &lt;font color=#C8AA00&gt;'''true'''&lt;/font&gt; .
+   &lt;font color=#C8AA00&gt;'''eq'''&lt;/font&gt; esABB?(arbolbBin(R, I, D)) = 
+       (Max(I) &lt; R) and (Min(D) &gt; R) and
+       (esABB?(I)) and (esABB?(D)) .RecorridosSe puede hacer un recorrido de un árbol en profundidad o en anchura.Los recorridos en anchura son por niveles, se realiza horizontalmente desde la raíz a todos los hijos antes de pasar a la descendencia de alguno de los hijos.El recorrido en profundidad lleva al camino desde la raíz hacia el descendiente más lejano del primer hijo y luego continúa con el siguiente hijo. Como recorridos en profundidad tenemos inorden, preorden y postorden.Una propiedad de los ABB es que al hacer un recorrido en profundidad inorden obtenemos los elementos ordenados de forma ascendente. frame|left|Ejemplo árbol binario de búsquedaResultado de hacer el recorrido en:Inorden = 9, 13, 14, 15, 17, 20, 26, 64, 72.Preorden = 9, 6, 14, 13, 20, 17, 64, 26, 72.Postorden =13, 14, 9, 17, 26, 72, 64, 20, 15.Tipos de árboles binarios de búsquedaHay varios tipos de árboles binarios de búsqueda. Los árboles AVL, árbol rojo-negro, son árboles autobalanceables . Los árbol biselado son árboles también autobalanceables con la propiedad de que los elementos accedidos recientemente se accederá más rápido en posteriores accesos. En el montículo como en todos los árboles binarios de búsqueda cada nodo padre tiene un valor mayor q sus hijos y además es completo, esto es cuando todos los niveles están llenos con excepción del último que puede no estarlo.Hay muchos tipos de árboles binarios de búsqueda. Los árboles AVL y los árbol rojo-negro son ambos formas de árboles binarios de búsqueda autobalanceables. Un árbol biselado es un árbol binario de búsqueda que automáticamente mueve los elementos a los que se accede frecuentemente cerca de la raíz. En los monticulos, cada nodo también mantiene una prioridad y un nodo padre tiene mayor prioridad que su hijo.Otras dos maneras de configurar un árbol binario de búsqueda podría ser como un árbol completo o degenerado.Un árbol completo es un árbol con "n" niveles, donde cada nivel d d. Esto significa que todos los posibles nodos existen en esos niveles, no hay ningún hueco. Un requirimiento adicional para un árbol binario completo es que para el nivel "n", los nodos deben estar ocupados de izquierda a derecha, no pudiendo haber un hueco a la izquierda de un nodo ocupado.Un árbol degenerativo es un árbol que, para cada nodo padre, sólo hay asociado un nodo hijo. Por lo que se comporta como una lista enlazada.Comparación de rendimientoD. A. Heger(2004)   realiza una comparación entre los diferentes tipos de árboles binarios de búsqueda para encontrar que tipo nos daría el mejor rendimiento para cada caso. Los montículos se encuentran como el tipo de árbol binario de búsqueda que mejor resultado promedio da, mientras que los árboles rojo-negro los que menor rendimiento medio nos aporta.Buscando el Árbol binario de búsqueda óptimoSi nosotros no tenemos en mente planificar un árbol binario de busqueda, y sabemos exactamente como de frecuente serán visitados cada elemento podemos construir un árbol binario de búsqueda óptimo con lo que conseguiremos que la media de gasto generado a la hora de buscar un elemento sea minimizado.Asumiendo que conocemos los elementos y en qué nivel está cada uno, también conocemos la proporción de futuras búsquedas que se harán para encontrar dicho elemento. Si es así, podemos usar una solución basada en la programación dinámica.En cambio, a veces sólo tenemos la estimación de los costes de búsqueda, como pasa con los sitemas que nos muestra el tiempo que ha necesitado para realizar una búsqueda. Un ejemplo, si tenemos un ABB de palabras usado en un corrector ortográfico, deberíamos balancear el árbol basado en la frecuencia que tiene una palabra en el Corpus lingüístico, desplazando palabras como "de" cerca de la raíz y palabras como "vesánico" cerca de las hojas. Un árbol como tal podría ser comparado con los árboles Huffman que tratan de encontrar elementos que son accedidos frecuentemente cerca de la raiz para producir una densa información; de todas maneras, los árboles Huffman sólo puede guardar elementos que contienen datos en las hojas y estos elementos no necesitan ser ordenados.En cambio, si no sabemos la secuencia en la que los elementos del árbol van a ser accedidos, podemos usar árboles biselados que son tan buenos como cualquier árbol de búsqueda que podemos construir para cualquier secuencia en particular de operaciones de búsqueda.Árboles alfabéticos son árboles Huffman con una restricción de orden adicional, o lo que es lo mismo, árboles de búsqueda con modificación tal que todos los elementos son almacenados en las hojas.Véase tambiénÁrbol (programación)Árbol BinarioÁrbol AVLÁrbol 2-3Árbol BÁrbol Rojo-NegroÁrbol SplayÁrbol MultirramaReferenciasEnlaces externosÁrboles binarios de búsqueda en googleImplementación de árboles binarios de búsqueda en distintos lenguajesAplicación JAVA de árbolesBinario de busqueda, Arbolcs:Binární vyhledávací strom da:Binært søgetræ de:Binärer Suchbaum en:Binary search tree fi:Binäärinen hakupuu fr:Arbre binaire de recherche he:עץ חיפוש id:Pohon biner terurut it:Albero binario di ricerca ja:2分探索木 ko:이진 탐색 트리 nl:Binaire zoekboom pl:Binarne drzewo poszukiwań pt:Árvore de busca binária ro:Arbore binar de căutare ru:Двоичное дерево поиска sk:Binárny vyhľadávací strom sv:Binärt sökträd th:ต้นไม้ค้นหาแบบทวิภาค uk:Бінарне дерево пошуку vi:Cây tìm kiếm nhị phân zh:二元搜尋樹

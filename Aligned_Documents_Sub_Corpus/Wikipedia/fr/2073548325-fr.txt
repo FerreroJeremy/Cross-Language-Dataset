@@ -1,0 +1,37 @@
+  |régime=nival de plaine |bass. fluv. coll.=Don |source=au sud-est de Moscou |source localisation=Toula |source altitude=~180 |source latitude= |source longitude= |embouchure=la mer d'Azov |embouchure altitude= |embouchure localisation= |embouchure latitude= |embouchure longitude= Le Don (en , langue des Scythes - « eau ») est un des principaux fleuves de Russie.GéographieIl prend sa source près de Toula, au sud-est de Moscou, à une altitude de 180 mètres environ et parcourt une distance d'environ  avant de se jeter dans la mer d'Azov en donnant naissance à un delta d'une superficie de 540 km².Le Don possède toutes les caractéristiques d'un fleuve de plaine. Sa pente moyenne varie peu depuis sa source jusqu'à son embouchure avec une valeur faible égale à 0,1 ‰. Le fleuve s'écoule dans de vastes plaines d'inondation sur la totalité de son parcours excepté au voisinage de Kalatch-sur-le-Don ou sa vallée se rétrécit fortement.La vallée du Don, à l'instar des autres cours d'eau de la région, présente un aspect asymétrique. Les berges de la rive droite du fleuve sont hautes et pentues tandis que celles de la rive gauche sont basses et planes.Depuis sa source, le fleuve s'écoule d'abord en direction du sud-est vers Voronej, puis vers le sud-ouest jusqu'à son embouchure.Villes traverséesLa principale ville sur le fleuve est Rostov-sur-le-Don.AffluentsCours supérieur :gauche – Voronejdroite – Nepriadva, Krassivaïa Metcha, SosnaCours moyen :gauche – Bitioug, Khoper, Medveditsa, Ilovliadroite – Tikhaïa Sosna, Tcherna KalitvaCours inférieur :gauche – Sal, Manytchdroite – DonetsHistoireLe Don était connu en Grèce antique et dans l'Empire romain sous le nom de « Tanaïs » (en grec ancien Τάναϊς), nom également donné à une cité sarmate, Tana-Azaq, située sur son embouchure méridionale. Le fleuve était considéré comme la frontière entre l'Europe et l'Asie. On racontait que son cours était si rapide qu'il ne gelait jamais. Selon Plutarque et Eustathe de Thessalonique, le nom grec dérivait du scythe don ou dan.AménagementAu point le plus oriental de son cheminement, le Don s'approche de la Volga. À ce niveau, on a édifié le barrage-réservoir de Tsimliansk qui forme une retenue de  sur le fleuve.Construit au départ de cette retenue, le canal Volga-Don ( de long) reliant les deux fleuves est une importante voie de navigation.thumb|right|290px|Le Don près de [[Ielets dans l'oblast de Lipetsk.]]HydrologieLe Don possède un régime nival de plaine. Le fleuve commence à geler fin novembre-début décembre. Il est pris dans la glace 140 jours par an dans la partie supérieure de son cours contre 30 à 90 jours dans la partie inférieure.Le débit du fleuve a été observé pendant 94 ans (1891-1984) à Razdorskaïa, localité située à quelques 90 kilomètres en amont de Rostov-sur-le-Don, donc à 125 kilomètres du débouché du Don dans la mer d'Azov GRDC - Le Don à Razdorskaïa.À Razdorskaïa, le débit annuel moyen ou module observé sur cette période était de 790 m³/seconde pour une surface de drainage de plus ou moins 378.000 km², soit 88,8% de la totalité du bassin versant du fleuve. La lame d'eau d'écoulement annuel dans le bassin se montait de ce fait à 66 millimètres, ce qui est assez médiocre, en relation avec la faiblesse des précipitations enregistrées en général dans son bassin. Débit moyen mensuel (en m³/s) mesuré à la Station hydrologique de Razdorskaïa - bassin versant: 378 000 km² - données calculées sur la période 1891-1984 Colors= id:lightgrey value:gray(0.8)
+ id:darkgrey  value:gray(0.3)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.8,0.9)ImageSize = width:500 height:300 PlotArea = left:40 bottom:40 top:20 right:20 DateFormat = x.y Period = from:0 till:3000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:lightgrey increment:500 start:0 ScaleMinor = gridcolor:lightgrey increment:100 start:0 BackgroundColors = canvas:sfondoBarData= bar:Jan text:Janvier
+ bar:Fév text:Février
+ bar:Mar text:Mars
+ bar:Avr text:Avril
+ bar:Mai text:Mai
+ bar:Jun text:Juin
+ bar:Jul text:Juillet
+ bar:Aoû text:Août
+ bar:Sep text:Sept.
+ bar:Oct text:Oct.
+ bar:Nov text:Nov.
+ bar:Déc text:Déc.PlotData= color:barra width:30 align:left bar:Jan from:0 till: 330
+ bar:Fév from:0 till: 457
+ bar:Mar from:0 till: 859
+ bar:Avr from:0 till: 2115
+ bar:Mai from:0 till: 2627
+ bar:Jun from:0 till: 823
+ bar:Jul from:0 till: 458
+ bar:Aoû from:0 till: 391
+ bar:Sep from:0 till: 360
+ bar:Oct from:0 till: 362
+ bar:Nov from:0 till: 389
+ bar:Déc from:0 till: 314PlotData= bar:Jan at: 330 fontsize:S text: 330 shift:(-10,5)
+ bar:Fév at: 547 fontsize:S text: 547 shift:(-10,5)
+ bar:Mar at: 859 fontsize:S text: 859 shift:(-10,5)
+ bar:Avr at: 2115 fontsize:S text: 2115 shift:(-10,5)
+ bar:Mai at: 2627 fontsize:S text: 2627 shift:(-10,5)
+ bar:Jun at: 823 fontsize:S text: 823 shift:(-10,5)
+ bar:Jul at: 458 fontsize:S text: 458 shift:(-10,5)
+ bar:Aoû at: 391 fontsize:S text: 391 shift:(-10,5)
+ bar:Sep at: 360 fontsize:S text: 360 shift:(-10,5)
+ bar:Oct at: 362 fontsize:S text: 362 shift:(-10,5)
+ bar:Nov at: 389 fontsize:S text: 389 shift:(-10,5)
+ bar:Déc at: 314 fontsize:S text: 314 shift:(-10,5) Voir aussiListe de fleuves dans le mondeListe des cours d'eau de RussieNotes et références   * Catégorie:Cours d'eau de Rostov Catégorie:Cours d'eau de l'oblast de Voronej Catégorie:Cours d'eau de Lipetsk Catégorie:Cours d'eau de Toulabg:Дон bs:Don (rijeka) ca:Don cs:Don cv:Тан (юханшыв) cy:Afon Don (Rwsia) da:Don de:Don (Russland) el:Ντον en:Don River (Russia) eo:Don (rivero) es:Río Don et:Don eu:Don ibaia fi:Don gl:Río Don he:דון (נהר) hr:Don hu:Don is:Don it:Don (fiume russo) ja:ドン川 ko:돈 강 la:Tanais lt:Donas nl:Don (Rusland) nn:Don no:Don pl:Don pt:Rio Don (Rússia) ro:Don (Rusia) ru:Дон sh:Don simple:River Don sk:Don sr:Дон sv:Don (flod) tr:Don Nehri uk:Дон vi:Sông Đông zh:頓河 (俄羅斯)

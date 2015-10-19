@@ -1,0 +1,97 @@
+  Chantilly est une commune française, située dans le département de l'Oise et la région Picardie. Les habitants sont appelés Cantilien(ne)s. Pendant la Révolution française la ville fut appelée Champ-Libre.GéographieSituée sur la Nonette.Communes limitrophesQuartiersLes quartiers de Chantilly sont :le Coq Chantantle quartier Lefeburele Bois Saint-DenisLa ville en elle-même organisée en deux noyaux, autour de la rue du Connétable et de l'avenue du maréchal Joffre.Voies de communication et transportsL'ancienne Route nationale 16, ancienne route royale qui allait de Pierrefitte-sur-Seine à Dunkerque en passant par Amiens, traverse la ville du sud au nord. Elle est désormais numérotée Départementale 1016. La D924A permet de rejoindre l'ancienne Route nationale 17 à La Chapelle-en-Serval et la D924 relie la ville à Senlis.La gare de Chantilly - Gouvieux est desservie par la SNCF depuis Paris au départ de la Gare du Nord, Grande ligne direction Creil, Amiens. La même gare est sur la ligne D du RER d'Île-de-France.ToponymieHistoireÀ l'origine, Chantilly n'était qu'un château. C'est Henri Jules de Bourbon-Condé qui fit ériger Chantilly en paroisse en 1692 pour les domestiques logés sur place. Son petit-fils, Louis IV Henri de Bourbon-Condé, est le véritable fondateur de la ville dont il fait tracer le premier plan.Sous la Révolution française, le château est vendu comme bien national et sert de carrière de pierre. Devant subir le même sort, "le petit château" est néanmoins préservé pour être transformé en prison. Les Grandes écuries échappent à la destruction par les nécessités des guerres révolutionnaires, l'armée les réquisitionnant.En 1876, le duc d'Aumale commandera à l'architecte Daumet le nouveau château.Lors de la Première Guerre mondiale, le Maréchal Joffre installa son état-major à Chantilly. Politique et AdministrationMunicipalité'Conseil municipal de Chantilly '(2008-2014)GroupePrésidentEffectifStatutUMP]]Eric Woerth28majoritéUnion de la GaucheDominique Louis-Dit-Trieau5oppositionListe des maires     |- |colspan="5" align="center" bgcolor="#f3fff3" |align=centeralignB=centeralignT=centercouleurFondT=#f3fff3couleurFondB=#f3fff3titre=Liste des maires (de 1789 à 1965)largeur=100%contenu=EnseignementChantilly dépend de l'Académie d'AmiensSources : de l'AcadémieEcoles maternelles publiques :Ecole du Coq chantantEcole du Bois Saint-DenisEcole Jean MermozEcole Michel LefebureEcole les TilleulsEcoles élémentaires publiquesEcole du Coq chantantEcole du Bois Saint-DenisEcole Paul CézanneCollège public :Collège des Bourgognes : 587 élèves, 37 enseignantsLycées publics :Lycée général et technologique Jean Rostand : 1069 élèves, 112 enseignantsLycée professionnel de la Forêt : 601 élèves, 51 enseignantsEcole primaire privée :Ecole Saint-LouisLycée privé :Lycée professionnel Croiset : 123 élèves, 13 enseignantsDémographieCourbe d'évolution démographique de Chantilly depuis 1793 Colors = id:grisclair value:gray(0.9)
+ id:grisfonce value:gray(0.5)
+ id:couleurcourbe value:rgb(0,0.6,0.4)ImageSize = width:712 height:230 PlotArea = left:42 right:10 top:1 bottom:20 TimeAxis = orientation:horizontal AlignBars = justify DateFormat = yyyy Period = from:1790 till:2010 ScaleMajor = unit:year increment:10 start:1790BarData = bar:14 text:
+ bar:13 text:12 000
+ bar:12 text:
+ bar:11 text:10 000
+ bar:10 text:
+ bar:9 text:8 000
+ bar:8 text:
+ bar:7 text:6 000
+ bar:6 text:
+ bar:5 text:4 000
+ bar:4 text:
+ bar:3 text:2 000
+ bar:2 text:
+ bar:1 text:0PlotData = color:grisclair width:0.5 # repères et légende axe vertical (population)
+ bar:14 color:white from:start till:end
+ bar:13 color:grisfonce from:start till:end
+ bar:12 from:start till:end
+ bar:11 color:grisfonce from:start till:end
+ bar:10 from:start till:end
+ bar:9 color:grisfonce from:start till:end
+ bar:8 from:start till:end
+ bar:7 color:grisfonce from:start till:end
+ bar:6 from:start till:end
+ bar:5 color:grisfonce from:start till:end
+ bar:4 from:start till:end
+ bar:3 color:grisfonce from:start till:end
+ bar:2 from:start till:end
+ bar:1 color:grisfonce from:start till:endLineData = layer:front color:couleurcourbe width:1 # courbe de population
+ points:(51,52)(72,43) # 1793: 2 029 h. à 1800: 1 418 h.
+ points:(72,43)(90,51) # 1800: 1 418 h. à 1806: 1 966 h.
+ points:(90,51)(135,49) # 1806: 1 966 h. à 1821: 1 825 h.
+ points:(135,49)(165,60) # 1821: 1 825 h. à 1831: 2 524 h.
+ points:(165,60)(180,58) # 1831: 2 524 h. à 1836: 2 416 h.
+ points:(180,58)(195,59) # 1836: 2 416 h. à 1841: 2 446 h.
+ points:(195,59)(210,59) # 1841: 2 446 h. à 1846: 2 419 h.
+ points:(210,59)(225,59) # 1846: 2 419 h. à 1851: 2 454 h.
+ points:(225,59)(240,61) # 1851: 2 454 h. à 1856: 2 575 h.
+ points:(240,61)(255,67) # 1856: 2 575 h. à 1861: 2 930 h.
+ points:(255,67)(270,71) # 1861: 2 930 h. à 1866: 3 181 h.
+ points:(270,71)(288,73) # 1866: 3 181 h. à 1872: 3 352 h.
+ points:(288,73)(300,76) # 1872: 3 352 h. à 1876: 3 497 h.
+ points:(300,76)(315,83) # 1876: 3 497 h. à 1881: 3 942 h.
+ points:(315,83)(330,86) # 1881: 3 942 h. à 1886: 4 156 h.
+ points:(330,86)(345,87) # 1886: 4 156 h. à 1891: 4 231 h.
+ points:(345,87)(360,87) # 1891: 4 231 h. à 1896: 4 211 h.
+ points:(360,87)(375,96) # 1896: 4 211 h. à 1901: 4 791 h.
+ points:(375,96)(390,101) # 1901: 4 791 h. à 1906: 5 083 h.
+ points:(390,101)(405,108) # 1906: 5 083 h. à 1911: 5 556 h.
+ points:(405,108)(435,108) # 1911: 5 556 h. à 1921: 5 539 h.
+ points:(435,108)(450,112) # 1921: 5 539 h. à 1926: 5 767 h.
+ points:(450,112)(465,115) # 1926: 5 767 h. à 1931: 5 959 h.
+ points:(465,115)(480,116) # 1931: 5 959 h. à 1936: 6 002 h.
+ points:(480,116)(510,116) # 1936: 6 002 h. à 1946: 6 040 h.
+ points:(510,116)(534,132) # 1946: 6 040 h. à 1954: 7 065 h.
+ points:(534,132)(558,151) # 1954: 7 065 h. à 1962: 8 197 h.
+ points:(558,151)(576,183) # 1962: 8 197 h. à 1968: 10 246 h.
+ points:(576,183)(597,188) # 1968: 10 246 h. à 1975: 10 552 h.
+ points:(597,188)(618,180) # 1975: 10 552 h. à 1982: 10 065 h.
+ points:(618,180)(642,201) # 1982: 10 065 h. à 1990: 11 341 h.
+ points:(642,201)(669,194) # 1990: 11 341 h. à 1999: 10 902 h.
+ points:(669,194)(690,196) # 1999: 10 902 h. à 2006: 11 045 h. color:black width:3 # points de population
+ points:(51,51)(51,53) # 1793: 2 029 h.
+ points:(72,42)(72,44) # 1800: 1 418 h.
+ points:(90,50)(90,52) # 1806: 1 966 h.
+ points:(135,48)(135,50) # 1821: 1 825 h.
+ points:(165,59)(165,61) # 1831: 2 524 h.
+ points:(180,57)(180,59) # 1836: 2 416 h.
+ points:(195,58)(195,60) # 1841: 2 446 h.
+ points:(210,58)(210,60) # 1846: 2 419 h.
+ points:(225,58)(225,60) # 1851: 2 454 h.
+ points:(240,60)(240,62) # 1856: 2 575 h.
+ points:(255,66)(255,68) # 1861: 2 930 h.
+ points:(270,70)(270,72) # 1866: 3 181 h.
+ points:(288,72)(288,74) # 1872: 3 352 h.
+ points:(300,75)(300,77) # 1876: 3 497 h.
+ points:(315,82)(315,84) # 1881: 3 942 h.
+ points:(330,85)(330,87) # 1886: 4 156 h.
+ points:(345,86)(345,88) # 1891: 4 231 h.
+ points:(360,86)(360,88) # 1896: 4 211 h.
+ points:(375,95)(375,97) # 1901: 4 791 h.
+ points:(390,100)(390,102) # 1906: 5 083 h.
+ points:(405,107)(405,109) # 1911: 5 556 h.
+ points:(435,107)(435,109) # 1921: 5 539 h.
+ points:(450,111)(450,113) # 1926: 5 767 h.
+ points:(465,114)(465,116) # 1931: 5 959 h.
+ points:(480,115)(480,117) # 1936: 6 002 h.
+ points:(510,115)(510,117) # 1946: 6 040 h.
+ points:(534,131)(534,133) # 1954: 7 065 h.
+ points:(558,150)(558,152) # 1962: 8 197 h.
+ points:(576,182)(576,184) # 1968: 10 246 h.
+ points:(597,187)(597,189) # 1975: 10 552 h.
+ points:(618,179)(618,181) # 1982: 10 065 h.
+ points:(642,200)(642,202) # 1990: 11 341 h.
+ points:(669,193)(669,195) # 1999: 10 902 h.
+ points:(690,195)(690,197) # 2006: 11 045 h.échelle de temps: le graphe commence à 1790 = 42 px, ensuite chaque année fait 3 px jusqu'à 2010 = 42+3x220 = 702 pxéchelle de population: le graphe va de 20px à 227px, donc 0 hab. = 20px et 1 habitant fait 207/13000 = 0.015923 pixelet donc l'ordonnée (population) des points est y = 20 + nb(habitants) x 0.015923Courbe réalisée avec l'aide du modèle modèle:Générateur de code de courbe démographique  ÉconomieHistoire économiqueLes porcelaines de Chantilly furent les plus anciennes de France, avant celles de Sèvres et de Limoges. C'est également à Chantilly qu'auraient été inventées la dentelle et la crème chantilly.Principaux secteurs d'activitéLes ressources de la ville sont essentiellement touristiques :Grand massif forestier (faisant partie du parc naturel régional Oise-Pays de France) regroupant les forêts de Chantilly, d'Ermenonville, forêt du Lys et d'Halatte. Le massif est le théâtre, pendant la saison, de chasses à courre, dont plusieurs équipages sont basés à Chantilly.Hippodrome de Chantilly, spécialisé en courses de plat, qui accueille de nombreuses courses hippiques dont les prestigieux Prix du Jockey-Club et Prix de Diane.Culture et patrimoineMonuments et lieux touristiquesLe Conseil National des villes d’art et d’histoire, réuni le 13 février 2007, a décerné le label "Villes et Pays d'Art et d'Histoire" , à Chantilly. Chantilly rejoint ainsi le cercle fermé des 130 villes d’art et d’histoire.Château de Chantilly, bâti pour les Montmorency puis résidence des Condé et enfin du duc d'Aumale, cinquième fils de Louis-Philippe, qui en fit don à l'Institut de France. Le château comprend les fameuses Grandes Écuries.Musée Condé dans le château.Les Grandes Écuries où se situe le Musée vivant du cheval, un des sites équestres les plus visités au monde.Le Pavillon de Manse et ses machines hydrauliques. Au bord de la Nonette, au cœur de Chantilly, le Pavillon de Manse a été construit à la fin du  pour abriter une machine hydraulique contemporaine à la machine de Marly. Son rôle était de puiser l'eau d'une source à son aplomb, de l'élever pour remplir un réservoir à ciel ouvert, et de là, la distribuer aux bassins, fontaines,cascades et jets d'eaux qui ornaient le jardin du Grand Condé, cousin du roi Louis XIV, dessiné par Le Nôtre.Le Potager des Princes séparé à la Révolution du Château et restauré en 2001 par Yves Bienaiméla Forêt de Chantilly, qui couvre 6344 hectares dont 1121 ha sur la commune, soit 69 % de son territoire, propriété de l'Institut de France et gérée par l'ONF.l'église Notre-Dame, construite de 1687 à 1691, sur les plans de Jules Hardouin-MansartPhotos Image:Chantilly Castle 01.jpg|Le château de Chantilly vu de la grille d'honneur Image:Chantilly_Ecuries_01.jpg|Les Grandes Écuries (Musée vivant du cheval) Image:Chevalchantilly.jpg|Entrainement matinal d'un Pur Sang Personnalités liées à la communeFrançois Vatel (1631-1671), maître d'hôtel français et inventeur présumé de la crème chantilly.Joseph Joffre (1852-1931), militaire français, maréchal de France, qui y a établi son quartier général pendant la Première Guerre mondiale.Henri d'Orléans, Duc d'Aumale ( 1822-1897), cinquième fils de Louis-Philippe IerAnne de Montmorency (1492-1567), grand maître de France, puis ConnétableEric Woerth, actuel maire et ministre du budget, des comptes publics et de la fonction publique.JumelagesLe château de Chantilly a également signé un traité d'amitié avec le château du Héron blanc, à .Notes et référencesVoir aussiDomaine de ChantillyForêt de ChantillyParc naturel régional Oise-Pays de FranceCommunes de l'OiseBibliographieLiens externesSite officiel de la ville de ChantillySite officiel de l'Office de Tourisme de ChantillyChantilly sur le site de l'Institut géographique national  Catégorie:Commune de l'Oise Catégorie:Chantillyca:Chantilly ceb:Chantilly cs:Chantilly de:Chantilly en:Chantilly, Oise es:Chantilly it:Chantilly nl:Chantilly pl:Chantilly pt:Chantilly (Oise) ro:Chantilly ru:Шантийи (город) sr:Chantilly vi:Chantilly, Oise vo:Chantilly (Fransän)

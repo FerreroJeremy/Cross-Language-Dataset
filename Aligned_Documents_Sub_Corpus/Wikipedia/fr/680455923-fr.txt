@@ -1,0 +1,23 @@
+   En algèbre linéaire, le rang d'une famille de vecteurs est la dimension du sous-espace vectoriel engendré par cette famille. On peut étendre la notion de rang aux matrices et aux endomorphismes.Rang d'une matriceLe rang d'une matrice A, noté rg A, estle nombre maximal de vecteurs lignes (ou colonnes) linéairement indépendants,la dimension du sous-espace vectoriel engendré par les vecteurs lignes (ou colonnes) de A,le plus grand des ordres des matrices carrées inversibles extraites de A,la taille du plus grand mineur non nul de A,la plus petite des tailles des matrices B et C dont le produit est égal à A,tous ces nombres étant égaux.On peut déterminer le rang en procédant à une élimination via la méthode de Gauss-Jordan et en examinant la forme échelonnée obtenue de cette manière.ExempleSoit la matrice suivante : A =
+ \begin
+   1 &amp; 0 &amp; 2 &amp; 3 \\
+   2 &amp; 0 &amp; 4 &amp; 6 \\
+   0 &amp; 2 &amp; 2 &amp; 0 \\
+   1 &amp; 2 &amp; 4 &amp; 3 \\
+ \endOn voit que la 2e ligne est le double de la première ligne. On note également que la 4e ligne est égale à la somme de la première avec la troisième. Les lignes 1 et 3 sont ainsi linéairement indépendantes. Le rang de cette matrice est donc égal à 2. Une autre manière plus directe est de calculer la forme échelonnée réduite de cette matrice. Cette nouvelle matrice a le même rang que la matrice originale, et le rang correspond au nombre de lignes qui sont non nulles. Dans ce cas, nous avons deux lignes qui correspondent à ce critère. A =
+ \begin
+   1 &amp; 0 &amp; 2 &amp; 3 \\
+   0 &amp; 1 &amp; 1 &amp; 0 \\
+   0 &amp; 0 &amp; 0 &amp; 0 \\
+   0 &amp; 0 &amp; 0 &amp; 0 \\
+ \endOn remarque que le rang d'une matrice donnée est égale au rang de sa transposée. Pour l'exemple, prenons la transposée de la matrice A ci-dessus : \begin
+   1 &amp; 2 &amp; 0 &amp; 1 \\
+   0 &amp; 0 &amp; 2 &amp; 2 \\
+   2 &amp; 4 &amp; 2 &amp; 4 \\
+   3 &amp; 6 &amp; 0 &amp; 3 \\
+ \end On voit que la 4ème ligne est triple de la première, et que la troisième ligne moins la deuxième est double de la première.Après échelonnement, on obtient donc : \begin
+   1 &amp; 2 &amp; 0 &amp; 1 \\
+   0 &amp; 0 &amp; 1 &amp; 1 \\
+   0 &amp; 0 &amp; 0 &amp; 0 \\
+   0 &amp; 0 &amp; 0 &amp; 0 \\
+ \end Et le rang de cette matrice est bien 2.Rang d'une application linéaireÉtant donnés deux espaces vectoriels E, F de dimensions finies et une application linéaire f de E dans F, le rang de f est :La dimension de l'image de f.Le rang de la matrice associée à f dans deux bases de E et F, car le rang ne dépend pas des bases choisies pour représenter f. En effet, la multiplication à droite ou à gauche par une matrice inversible ne modifie pas le rang, ce qui amène rg(P^AQ)=rg(A), où A est la matrice représentant f dans un premier couple de bases, et P,Q des matrices de changement de base.Rang d'une famille de vecteursPour une famille, son rang correspond au nombre maximal de vecteur que peut contenir une sous - famille libre de cette familleOn peut aussi définir le rang d'une famille u par : rg (u) = dim(Vect(u))PropriétésSoit A une matriceInégalité de Frobenius : rg(AB)+rg(BC)\leqrg(ABC)+rg(B)Théorème du rang : f une application linéaire de E dans F, dim(E)=rg(f)+dim(Ker(f))Transposée : rg(A)=rg(tA)Composition : rg(AB)\leqmin(rg(A),rg(B))Le rang d'une famille de vecteurs ne change pas lorsqu'on multiplie un de ses vecteurs par un scalaire non nul, lorsqu'on ajoute à un des vecteurs une combinaison linéaire des autres vecteurs, ou lorsqu'on échange deux vecteurs.Deux matrices sont équivalentes si et seulement si elles ont le même rang. Catégorie:Application linéaire Catégorie:Matricecs:Hodnost matice de:Rang (Mathematik) en:Rank (linear algebra) es:Rango de una matriz he:דרגה (אלגברה לינארית) hr:Rang matrice is:Metorð it:Rango (algebra lineare) ja:行列の階数 ko:계수 (선형대수학) nl:Rang (lineaire algebra) pl:Rząd macierzy ru:Ранг матрицы sr:Ранг матрице sv:Matrisrang uk:Ранг матриці zh:秩 (线性代数)

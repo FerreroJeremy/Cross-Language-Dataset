@@ -1,0 +1,54 @@
+|
+ frazioni          = |
+ telephone         = 0473|
+ postalcode        = 39020|
+ gentilic          = German:Glurnser&lt;br&gt;Italian: glorenzini|
+ saint             = |
+ day               = |
+ mayor             = |
+ website           = [http://www.comune.glorenza.bz.it www.comune.glorenza.bz.it]|
+ mapy              = 10.5500|
+ mapx              = 46.6667|Glurns () is a comune (municipality) in the province of Bolzano-Bozen in the Italian region Trentino-Alto Adige/Südtirol, located about 80 km northwest of Trento and about 60 km northwest of Bolzano. As of 31 December 2004, it had a population of 882 and an area of 13.0 km².All demographics and other statistics: Italian statistical institute Istat.Glurns borders the following municipalities: Mals, Prad am Stilfser Joch, Schluderns and Taufers im Münstertal.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:2000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:0
+ bar:1871 from: 0 till:0
+ bar:1881 from: 0 till:0
+ bar:1901 from: 0 till:0
+ bar:1911 from: 0 till:0
+ bar:1921 from: 0 till:779
+ bar:1931 from: 0 till:768
+ bar:1936 from: 0 till:732
+ bar:1951 from: 0 till:811
+ bar:1961 from: 0 till:792
+ bar:1971 from: 0 till:717
+ bar:1981 from: 0 till:716
+ bar:1991 from: 0 till:795
+ bar:2001 from: 0 till:883PlotData= bar:1861 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1871 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1881 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1901 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1911 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1921 at:779 fontsize:XS text: 779 shift:(-8,5)
+ bar:1931 at:768 fontsize:XS text: 768 shift:(-8,5)
+ bar:1936 at:732 fontsize:XS text: 732 shift:(-8,5)
+ bar:1951 at:811 fontsize:XS text: 811 shift:(-8,5)
+ bar:1961 at:792 fontsize:XS text: 792 shift:(-8,5)
+ bar:1971 at:717 fontsize:XS text: 717 shift:(-8,5)
+ bar:1981 at:716 fontsize:XS text: 716 shift:(-8,5)
+ bar:1991 at:795 fontsize:XS text: 795 shift:(-8,5)
+ bar:2001 at:883 fontsize:XS text: 883 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal links  Homepage of the cityCategory:Cities and towns in the Province of Bolzano-Bozenbg:Глоренца de:Glurns es:Glorenza eo:Glurns fr:Glorenza it:Glorenza hu:Glorenza nl:Glorenza ja:グロレンツァ nap:Glorenza pms:Glurns pl:Glorenza pt:Glorenza vi:Glorenza vo:Glorenza

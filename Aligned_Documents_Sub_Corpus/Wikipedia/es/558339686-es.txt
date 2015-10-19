@@ -1,0 +1,44 @@
+ Frattamaggiore es una comuna localizada en la provincia de Nápoles, región de Campania, Italia. Se ubica a 11 km al norte de Nápoles, en su área metropolitana. Según los datos del 31 de diciembre de 2004, tenía una población de 31.831 habitantes y un área de 5,32 km2.Todos los datos y otras estadísticas: ISTAT.Frattamaggiore limita con las siguientes comunas: Arzano, Cardito, Casoria, Crispano, Frattaminore, Grumo Nevano, Sant'Arpino (CE).Evolución demográfica Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:45000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:10000 start:0 ScaleMinor = gridcolor:lightgrey increment:2000 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:10897
+ bar:1871 from: 0 till:10680
+ bar:1881 from: 0 till:10951
+ bar:1901 from: 0 till:13323
+ bar:1911 from: 0 till:13781
+ bar:1921 from: 0 till:15301
+ bar:1931 from: 0 till:18131
+ bar:1936 from: 0 till:19168
+ bar:1951 from: 0 till:23691
+ bar:1961 from: 0 till:30018
+ bar:1971 from: 0 till:34836
+ bar:1981 from: 0 till:38155
+ bar:1991 from: 0 till:36089
+ bar:2001 from: 0 till:32731PlotData= bar:1861 at:10897 fontsize:XS text: 10897 shift:(-8,5)
+ bar:1871 at:10680 fontsize:XS text: 10680 shift:(-8,5)
+ bar:1881 at:10951 fontsize:XS text: 10951 shift:(-8,5)
+ bar:1901 at:13323 fontsize:XS text: 13323 shift:(-8,5)
+ bar:1911 at:13781 fontsize:XS text: 13781 shift:(-8,5)
+ bar:1921 at:15301 fontsize:XS text: 15301 shift:(-8,5)
+ bar:1931 at:18131 fontsize:XS text: 18131 shift:(-8,5)
+ bar:1936 at:19168 fontsize:XS text: 19168 shift:(-8,5)
+ bar:1951 at:23691 fontsize:XS text: 23691 shift:(-8,5)
+ bar:1961 at:30018 fontsize:XS text: 30018 shift:(-8,5)
+ bar:1971 at:34836 fontsize:XS text: 34836 shift:(-8,5)
+ bar:1981 at:38155 fontsize:XS text: 38155 shift:(-8,5)
+ bar:1991 at:36089 fontsize:XS text: 36089 shift:(-8,5)
+ bar:2001 at:32731 fontsize:XS text: 32731 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Fuente ISTATPersonajes célebresFrancesco Durante (1684-1755), compositor.ReferenciasEnlaces externosPágina web de la ciudadCategoría:Localidades de la provincia de Nápolesca:Frattamaggiore de:Frattamaggiore en:Frattamaggiore eo:Frattamaggiore fr:Frattamaggiore hu:Frattamaggiore it:Frattamaggiore ja:フラッタマッジョーレ nap:Frattamaggiore nl:Frattamaggiore pl:Frattamaggiore pt:Frattamaggiore scn:Frattamaggiuri vo:Frattamaggiore

@@ -1,0 +1,124 @@
+Lempel-Ziv-Welch (LZW) is a universal lossless data compression algorithm created by Abraham Lempel, Jacob Ziv, and Terry Welch. It was published by Welch in 1984 as an improved implementation of the LZ78 algorithm published by Lempel and Ziv in 1978. The algorithm is designed to be fast to implement but is not usually optimal because it performs only limited analysis of the data.Description of the algorithmThe compressor algorithm builds a string translation table from the text being compressed. The string translation table maps fixed-length codes (usually 12-bit) to strings. The string table is initialized with all single-character strings (256 entries in the case of 8-bit characters). As the compressor character-serially examines the text, it stores every unique two-character string into the table as a code/character concatenation, with the code mapping to the corresponding first character. As each two-character string is stored, the first character is sent to the output. Whenever a previously-encountered string is read from the input, the longest such previously-encountered string is determined, and then the code for this string concatenated with the extension character (the next character in the input) is stored in the table. The code for this longest previously-encountered string is output and the extension character is used as the beginning of the next word.The decompressor algorithm only requires the compressed text as an input, since it can build an identical string table from the compressed text as it is recreating the original text. However, an abnormal case shows up whenever the sequence character/''string''/''character''/''string''/''character'' (with the same character for each character and string for each string) is encountered in the input and character/''string'' is already stored in the string table. When the decompressor reads the code for character/''string''/''character'' in the input, it cannot resolve it because it has not yet stored this code in its table. This special case can be dealt with because the decompressor knows that the extension character is the previously-encountered character.Welch, T. A. (June 1984). "A technique for high-performance data compression." Computer. Vol. 17, pp. 8-19.AlgorithmCompressor algorithm:    w = NIL;
+   add all possible charcodes to the dictionary
+   for (every character c in the uncompressed data) do
+       if ((w + c) exists in the dictionary) then
+           w = w + c;
+       else 
+           add (w + c) to the dictionary;
+           add the dictionary code for w to output;
+           w = c;
+       endif
+   done
+   add the dictionary code for w to output;
+   display output;Decompressor algorithm:    read a char k;
+   output k;
+   w = k;
+   while (read a char k) do
+      if (index k exists in dictionary) then
+          entry = dictionary entry for k;
+      else if (k == currSizeDict)
+          entry = w + w[0];
+      else
+          signal invalid code;
+      endif
+      output entry;
+      add w+entry[0] to the dictionary;
+      w = entry;
+   doneExampleCompressionThe following table shows the result of executing compressor algorithm on this input:   TOBEORNOTTOBEORTOBEORNOTSuppose that we are using 256 (8-bit) ASCII code as the default dictionary. The length of this input is 24 characters. So this input requires 24 * 8 = 192 bits to store.  c  w  wc  output  dictionary    T  &lt;NIL&gt;  T        O  T  TO  T  TO = &lt;256&gt;    B  O  OB  O  OB = &lt;257&gt;    E  B  BE  B  BE = &lt;258&gt;    O  E ''' EO ''' E  EO = &lt;259&gt;    R  O  OR  O  OR = &lt;260&gt;    N  R  RN  R  RN = &lt;261&gt;    O  N  NO  N  NO = &lt;262&gt;    T  O  OT  O  OT = &lt;263&gt;    T  T  TT  T  TT = &lt;264&gt;    O  T  TO        B  TO  TOB  &lt;256&gt;  TOB = &lt;265&gt;    E  B  BE        O  BE  BEO  &lt;258&gt;  BEO = &lt;266&gt;    R  O  OR        T  OR  ORT  &lt;260&gt;  ORT = &lt;267&gt;    O  T  TO        B  TO  TOB        E  TOB  TOBE  &lt;265&gt;  TOBE = &lt;268&gt;    O  E  EO        R  EO  EOR  &lt;259&gt;  EOR = &lt;269&gt;    N  R  RN        O  RN  RNO  &lt;261&gt;  RNO = &lt;270&gt;    T  O  OT          OT    &lt;263&gt;     After compression we have this sequence of 9-bits codes in output:   TOBEORNOT&lt;256&gt;&lt;258&gt;&lt;260&gt;&lt;265&gt;&lt;259&gt;&lt;261&gt;&lt;263&gt;This sequence requires 16 * 9 = 144 bits to store.  k  w  entry  w+entry0  output  dictionary    84  T      T      79  T  O  TO  O  TO = &lt;256&gt;    66  O  B  OB  B  OB = &lt;257&gt;    69  B  E  BE  E  BE = &lt;258&gt;    79  E  O  EO  O  EO = &lt;259&gt;    82  O  R  OR  R  OR = &lt;260&gt;    78  R  N  RN  N  RN = &lt;261&gt;    79  N  O  NO  O  NO = &lt;262&gt;    84  O  T  OT  T  OT = &lt;263&gt;    &lt;256&gt;  T  TO  TT  TO  TT = &lt;264&gt;    &lt;258&gt;  TO  BE  TOB  BE  TOB = &lt;265&gt;    &lt;260&gt;  BE  OR  BEO  OR  BEO = &lt;266&gt;    &lt;265&gt;  OR  TOB  ORT  TOB  ORT = &lt;267&gt;    &lt;259&gt;  TOB  EO  TOBE  EO  TOBE = &lt;268&gt;    &lt;261&gt;  EO  RN  EOR  RN  EOR = &lt;269&gt;    &lt;263&gt;  RN  OT  RNO  OT  RNO = &lt;270&gt;   UsesThe method became widely used in the program compress, which became a more or less standard utility in Unix systems circa 1986. (It had since disappeared from many for both legal and technical reasons, but as of 2008 at least FreeBSD includes the utility of compress and uncompress as a part of the distribution.) Several other popular compression utilities also used the method, or closely related ones.It became very widely used after it became part of the GIF image format in 1987. It may also (optionally) be used in TIFF files.LZW compression provided a better compression ratio, in most applications, than any well-known method available up to that time. It became the first widely used universal data compression method on computers. It would typically compress large English texts to about half of their original sizes.Today, an implementation of the algorithm is contained within the popular Adobe Acrobat software program.ExampleThis example shows the LZW algorithm in action, showing the status of the output and the dictionary at every stage, both in encoding and decoding the message. In order to keep things clear, let us assume that we're dealing with a simple alphabet - capital letters only, and no punctuation or spaces. This example has been constructed to give reasonable compression on a very short message; when used on real data, repetition is generally less pronounced, and so the initial parts of a message will see little compression. As the message grows, however, the compression ratio tends asymptotically to the maximum.Jacob Ziv and Abraham Lempel; [http://www.cs.duke.edu/courses/spring03/cps296.5/papers/ziv_lempel_1978_variable-rate.pdf Compression of Individual Sequences Via Variable-Rate Coding], IEEE Transactions on Information Theory, September 1978. A message to be sent might then look like the following:TOBEORNOTTOBEORTOBEORNOT#The #''' is a marker used to show that the end of the message has been reached. Clearly, then, we have 27 symbols in our alphabet (the 26 capital letters A'' through ''Z, plus the #'' character). A computer will render these as strings of bits; 5-bit strings are needed to give sufficient combinations to encompass the entire dictionary. As the dictionary grows, the strings will need to grow in length to accommodate the additional entries. A 5-bit string gives 25 = 32 possible combinations of bits, and so when the 33rd dictionary word is created, the algorithm will have to start using 6-bit strings (for ''all strings, including those which were previously represented by only five bits). Note that since the all-zero string 00000 is used, and is labeled "0", the 33rd dictionary entry will be labeled '''32. The initial dictionary, then, will consist of the following:# = 00000
+A = 00001
+B = 00010
+C = 00011
+.
+.
+.
+Z = 11010EncodingIf we weren't using LZW, and just sent the message as it stands (25 symbols at 5 bits each), it would require 125 bits. We will be able to compare this figure to the LZW output later. We are now in a position to apply LZW to the message.Symbol:   Bit Code:    New Dictionary Entry:
+          (= output)T      20 =  10100
+O      15 =  01111     28: TO &lt;--- Don't forget, we originally had 27 symbols, so the next one is 28th.
+B       2 =  00010     29: OB
+E       5 =  00101     30: BE
+O      15 =  01111     31: EO &lt;--- start using 6-bit strings
+R      18 = 010010     32: OR
+N      14 = 001110     33: RN
+O      15 = 001111     34: NO
+T      20 = 010100     35: OT
+TO     28 = 011100     36: TT
+BE     30 = 011110     37: TOB
+OR     32 = 100000     38: BEO
+TOB    37 = 100101     39: ORT
+EO     31 = 011111     40: TOBE
+RN     33 = 100001     41: EOR
+OT     35 = 100011     42: RNO
+#       0 = 000000     43: OT#This is somewhat clearer:Current  Next  Output Value  Extended
+Sequence Char  (# of bits)   Dictionary
+NULL     T 
+T        O     20 = 5 bits   27:     TO &lt;-- This IS the 28th entry, but the initial entries are numbered 0-26 so this is #27.
+O        B     15 = 5 bits   28:     OB
+B        E      2 = 5 bits   29:     BE
+E        O      5 = 5 bits   30:     EO
+O        R     15 = 5 bits   31:     OR 
+R        N     18 = 6 bits   32:     RN &lt;-- Starting at R, 6 bits are used 
+N        O     14 = 6 bits   33:     NO     i.e. O: floor(lg2(27 + 4)) + 1 = 5 bits -&gt;  01111
+O        T     15 = 6 bits   34:     OT          R: floor(lg2(27 + 5)) + 1 = 6 bits -&gt; 010010
+T        T     20 = 6 bits   35:     TT
+TO       B     27 = 6 bits   36:    TOB
+BE       O     29 = 6 bits   37:    BEO
+OR       T     31 = 6 bits   38:    ORT
+TOB      E     36 = 6 bits   39:   TOBE
+EO       R     30 = 6 bits   40:    EOR
+RN       O     32 = 6 bits   41:    RNO
+OT       #     34 = 6 bits   42:    OT#
+#               0 = 6 bitsTotal Length = 5*5 + 12*6 = 97 bits.In using LZW we have made a saving of 28 bits out of 125 -- we have reduced the message by almost 22%. If the message were longer, then the dictionary words would begin to represent longer and longer sections of text, allowing repeated words to be sent very compactly.DecodingImagine now that we have received the message produced above, and wish to decode it. We need to know in advance the initial dictionary used, but we can reconstruct the additional entries as we go, since they are always simply concatenations of previous entries.Bits:        Output:    New Entry:
+                        Full:        Partial: 10100 = 20     T                    28: T?
+ 01111 = 15     O       28: TO       29: O?
+ 00010 = 2      B       29: OB       30: B?
+ 00101 = 5      E       30: BE       31: E?
+ 01111 = 15     O       31: EO       32: O?  &lt;--- start using 6-bit strings
+010010 = 18     R       32: OR       33: R?
+001110 = 14     N       33: RN       34: N?
+001111 = 15     O       34: NO       35: O?
+010100 = 20     T       35: OT       36: T?
+011100 = 28     TO      36: TT       37: TO? &lt;--- for 36, only add 1st element
+011110 = 30     BE      37: TOB      38: BE?      of next dictionary word
+100000 = 32     OR      38: BEO      39: OR?
+100101 = 37     TOB     39: ORT      40: TOB?
+011111 = 31     EO      40: TOBE     41: EO?
+100001 = 33     RN      41: EOR      42: RN?
+100011 = 35     OT      42: RNO      43: OT?
+000000 = 0      #The only slight complication comes if the newly-created dictionary word is sent immediately. In the decoding example above, when the decoder receives the first symbol, T''', it knows that symbol 28 begins with a T, but what does it end with? The problem is illustrated below. We are decoding part of a message that reads '''ABABA:Bits:        Output:    New Entry:
+                        Full:        Partial:.
+.
+.
+011101 = 29     AB      46: (word)   47: AB?
+101111 = 47     AB?  &lt;--- what do we do here?At first glance, this may appear to be asking the impossible of the decoder. We know ahead of time that entry 47 should be ABA, but how can the decoder work this out? The critical step is to note that 47 is built out of 29 plus whatever comes next. 47, therefore, ends with "whatever comes next". But, since it was sent immediately, it must also start with "whatever comes next", and so must end with the same symbol it starts with, namely A'''. This trick allows the decoder to see that 47 must be '''ABA.More generally the situation occurs whenever the encoder encounters the input of the form cScSc, where c'' is a single character, ''S is a string and cS is already in the dictionary. The encoder outputs the symbol for cS putting new symbol for cSc in the dictionary. Next it sees the cSc in the input and sends the new symbol it just inserted into the dictionary. By the reasoning presented in the above example this is the only case where the newly-created symbol is sent immediately.LZW variantsLZMW (1985, by V. Miller, M. Wengman)David Salomon, Data Compression - The complete reference, 4th ed., page 209 - encoder remembers previous word and matches current word from dictionary. The output in a single iteration is code for current word (as in original LZW), but dictionary is extended by concatenation of previous and current words, thus length of new dictionary entries grow quickly.LZAP (1988, by James Storer)David Salomon, Data Compression - The complete reference, 4th ed., page 212 - modification of LZMW: dictionary is extended with concatenation of previous word and all prefixes of current word. For example if previous word is 'wiki' and current is 'pedia', then LZAP encoder add 4 words: "wikip", "wikipe", "wikiped", "wikipedia"; LZMW encode add one word "wikipedia". Downside of LZAP is large amount of words stored in dictionary.[[Python (programming language)|Python]] exampleLempel-Ziv-Welch compression algorithmdef compress(uncompressed):   &quot;&quot;&quot;Compress a string to a list of output symbols.&quot;&quot;&quot;   # Build the dictionary.
+   dict_size = 256
+   dictionary = 
+   for i in range(dict_size):
+       dictionary[chr(i)] = chr(i)   w = ''
+   result = []
+   for c in uncompressed:
+       wc = w + c
+       if wc in dictionary:
+           w = wc
+       else:
+           result.append(dictionary[w])
+           # Add wc to the dictionary.
+           dictionary[wc] = dict_size
+           dict_size += 1           w = c
+   # Output the code for w.
+   result.append(dictionary[w])
+   return resultdef decompress(compressed):   &quot;&quot;&quot;Decompress a list of output ks to a string.&quot;&quot;&quot;   # Build the dictionary.
+   dict_size = 256
+   dictionary = 
+   for i in range(dict_size):
+       dictionary[chr(i)] = chr(i)   w = result = compressed[0]
+   for k in compressed[1:]:
+       if k in dictionary:
+           entry = dictionary[k]
+       elif k == len(dictionary):
+           entry = w + w[0]
+       else:
+           raise ValueError, 'Bad compressed k: %s' % k
+       result += entry       # Add w+entry[0] to the dictionary.
+       dictionary[dict_size] = w+entry[0]
+       dict_size += 1       w = entry
+   return result      How to use:  compressed = compress('TOBEORNOTTOBEORTOBEORNOT') print compressed decompressed = decompress(compressed) print decompressed [[Objective Caml]] exampleThere is an implementation of the LZW algorithm written in OCaml in the code repository Rosetta&nbsp;Code http://www.rosettacode.org/wiki/LZW_compression#OCaml.[[Visual_Basic|Visual Basic]] exampleThere is a simple implementation of LZW Compression/Decompression algorithm written in Visual Basic 6.0 by Mortaza Doulaty available for download at FreeVBCode.com.PatentsVarious patents have been issued in the United States and other countries for LZW and similar algorithms. LZ78 was covered by  by Lempel, Ziv, Cohn, and Eastman, assigned to Sperry Corporation, later Unisys Corporation, filed on August 10, 1981. Two US patents were issued for the LZW algorithm:  by Victor S. Miller and Mark N. Wegman and assigned to IBM, originally filed on June 1, 1983, and  by Welch, assigned to Sperry Corporation, later Unisys Corporation, filed on June 20, 1983. On June 20, 2003, this patent on the LZW algorithm expired http://www.unisys.com/about__unisys/lzw.US Patent 4,558,302 received a lot of negative press after LZW compression was used in the GIF image format (see Graphics Interchange Format#Unisys and LZW patent enforcement).NameAlthough the name of the algorithm refers to the inventors as Lempel, Ziv and Welch, some people claim that the intellectual property rightly goes to Ziv first, so the method should be called the Ziv-Lempel-Welch algorithm, and not the Lempel-Ziv-Welch algorithm. Others who distinguish between the algorithm and the code prefer calling the algorithm LZ and the code written by Welch as LZW.See alsoLZWLLZ77 and LZ78Lempel-Ziv-Markov algorithm (LZMA), used in 7-ZipLempel-Ziv-Storer-Szymanski (LZSS)DEFLATE, used in the ZIP file formatBurrows-Wheeler transformLZJB Used in the ZFS ("Zettabyte File System").ReferencesExternal links&quot;A technique for high-performance data compression&quot; - The original paper by WelchUnited States Patent 4,558,302 URL Retrieved on Saturday, June 03, 2006&quot;LZW Data Compression&quot;, by Mark Nelson (DDJ Article with source code)Sad day... GIF patent dead at 20Category:Lossless compression algorithms Category:Articles with example pseudocode Category:Articles with example Python codecs:LZW84 de:Lempel-Ziv-Welch-Algorithmus et:Lempel-Ziv-Welch es:LZW fa:ال زد دابلیو fr:Lempel-Ziv-Welch ko:LZW it:Lempel-Ziv-Welch he:אלגוריתם למפל-זיו hu:LZW nl:Lempel Ziv Welch ja:LZW pl:LZW pt:LZW ru:Алгоритм Лемпеля — Зива — Велча sv:LZW vi:LZW zh:LZW

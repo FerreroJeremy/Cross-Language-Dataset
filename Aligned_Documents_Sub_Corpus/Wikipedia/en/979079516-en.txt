@@ -1,0 +1,54 @@
+|
+ frazioni          = Carrabba, Fondachello, Montargano, Nunziata, Portosalvo, Puntalazzo, Santa Venera, Sant’Anna, Sant'Antonino, Tagliaborse |
+ telephone         = 095 |
+ postalcode        = 95016, 95010 |
+ gentilic          = Mascalesi |
+ saint             = St. Leonard of Noblac |
+ day               = |
+ mayor             = |
+ website           = [http://www.comune.mascali.ct.it www.comune.mascali.ct.it] |
+ mapy = 15.2000 |
+ mapx = 37.7500 | Mascali is a comune (municipality) in the Province of Catania in the Italian region Sicily, located about 170&nbsp;km east of Palermo and about 30&nbsp;km northeast of Catania. As of 31 December 2004, it had a population of 12,066 and an area of 37.7&nbsp;km².All demographics and other statistics: Italian statistical institute Istat. The town of Mascali was entirely rebuilt after its almost complete destruction by Etna's lava in 1928.The municipality of Mascali contains many frazioni (subdivisions), the largest one is Nunziata.Mascali borders the following municipalities: Fiumefreddo di Sicilia, Giarre, Piedimonte Etneo, Riposto, Sant'Alfio.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:12000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:2000 start:0 ScaleMinor = gridcolor:lightgrey increment:500 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:3618
+ bar:1871 from: 0 till:4710
+ bar:1881 from: 0 till:5004
+ bar:1901 from: 0 till:7353
+ bar:1911 from: 0 till:7183
+ bar:1921 from: 0 till:8066
+ bar:1931 from: 0 till:7051
+ bar:1936 from: 0 till:8179
+ bar:1951 from: 0 till:8797
+ bar:1961 from: 0 till:8998
+ bar:1971 from: 0 till:8981
+ bar:1981 from: 0 till:8567
+ bar:1991 from: 0 till:9779
+ bar:2001 from: 0 till:11122PlotData= bar:1861 at:3618 fontsize:XS text: 3618 shift:(-8,5)
+ bar:1871 at:4710 fontsize:XS text: 4710 shift:(-8,5)
+ bar:1881 at:5004 fontsize:XS text: 5004 shift:(-8,5)
+ bar:1901 at:7353 fontsize:XS text: 7353 shift:(-8,5)
+ bar:1911 at:7183 fontsize:XS text: 7183 shift:(-8,5)
+ bar:1921 at:8066 fontsize:XS text: 8066 shift:(-8,5)
+ bar:1931 at:7051 fontsize:XS text: 7051 shift:(-8,5)
+ bar:1936 at:8179 fontsize:XS text: 8179 shift:(-8,5)
+ bar:1951 at:8797 fontsize:XS text: 8797 shift:(-8,5)
+ bar:1961 at:8998 fontsize:XS text: 8998 shift:(-8,5)
+ bar:1971 at:8981 fontsize:XS text: 8981 shift:(-8,5)
+ bar:1981 at:8567 fontsize:XS text: 8567 shift:(-8,5)
+ bar:1991 at:9779 fontsize:XS text: 9779 shift:(-8,5)
+ bar:2001 at:11122 fontsize:XS text: 11122 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal linkswww.comune.mascali.ct.it Category:Cities and towns in Sicilyca:Mascali de:Mascali es:Mascali eo:Mascali fr:Mascali it:Mascali lmo:Mascali nl:Mascali ja:マスカリ nap:Mascali pl:Mascali pt:Mascali scn:Màscali (CT) fi:Mascali vo:Mascali

@@ -1,0 +1,54 @@
+|
+ frazioni          = Colle (Koll), San Giacomo (St. Jakob), Santa Maddalena (St. Magdalena), San Pietro (St. Peter), San Valentino (St. Valentin), Tiso (Teis)|
+ telephone         = 0472|
+ postalcode        = 39040|
+ gentilic          = Italian: funesini&lt;br&gt;German:|
+ saint             = |
+ day               = |
+ mayor             = Robert Messner|
+ website           = [http://www.gvcc.net/soci/funes.htm www.gvcc.net/soci/funes.htm]|
+ mapy              = 11.6833|
+ mapx              = 46.6500|Villnöß (; Archaic (1070AD): Volnescis or Volnesse, also Valnez or Vulnez) is a comune (municipality) in the province of Bolzano-Bozen in the Italian region Trentino-Alto Adige/Südtirol, located about 80 km northeast of the city of Trento and about 30 km northeast of the city of Bolzano. As of 31 December 2004, it had a population of 2,433 and an area of 81.2 km².All demographics and other statistics: Italian statistical institute Istat.The municipality of Villnöß contains the frazioni (subdivisions, mainly villages and hamlets) Colle (Koll), San Giacomo (St. Jakob), Santa Maddalena (St. Magdalena), San Pietro (St. Peter), San Valentino (St. Valentin) and Tiso (Teis).Villnöß borders the following municipalities: Brixen, Klausen, Lajen, Urtijëi, San Martin de Tor, Santa Crestina Gherdëina and Feldthurns.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:3000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:0
+ bar:1871 from: 0 till:0
+ bar:1881 from: 0 till:0
+ bar:1901 from: 0 till:0
+ bar:1911 from: 0 till:0
+ bar:1921 from: 0 till:1570
+ bar:1931 from: 0 till:1765
+ bar:1936 from: 0 till:1979
+ bar:1951 from: 0 till:1911
+ bar:1961 from: 0 till:2050
+ bar:1971 from: 0 till:2167
+ bar:1981 from: 0 till:2242
+ bar:1991 from: 0 till:2309
+ bar:2001 from: 0 till:2379PlotData= bar:1861 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1871 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1881 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1901 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1911 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1921 at:1570 fontsize:XS text: 1570 shift:(-8,5)
+ bar:1931 at:1765 fontsize:XS text: 1765 shift:(-8,5)
+ bar:1936 at:1979 fontsize:XS text: 1979 shift:(-8,5)
+ bar:1951 at:1911 fontsize:XS text: 1911 shift:(-8,5)
+ bar:1961 at:2050 fontsize:XS text: 2050 shift:(-8,5)
+ bar:1971 at:2167 fontsize:XS text: 2167 shift:(-8,5)
+ bar:1981 at:2242 fontsize:XS text: 2242 shift:(-8,5)
+ bar:1991 at:2309 fontsize:XS text: 2309 shift:(-8,5)
+ bar:2001 at:2379 fontsize:XS text: 2379 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal links  Homepage of the cityCategory:Cities and towns in the Province of Bolzano-Bozenca:Funes (Itàlia) de:Villnöß es:Funes (Italia) eo:Villnöß fr:Funes (Italie) it:Funes nl:Villnöß ja:フーネス nap:Funes pms:Villnöß pl:Funes pt:Funes (Itália) vi:Funes vo:Funes

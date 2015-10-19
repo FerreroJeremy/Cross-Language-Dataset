@@ -1,0 +1,27 @@
+Le Groupe des cinq (, c'est-à-dire «&nbsp;puissant petit groupe&nbsp;» expression de Vladimir Stassov en 1867) désigne un groupe de musiciens russes, romantiques, actifs à l'époque de l'abolition du servage par Alexandre II en 1861.Réunis autour de leur fondateur, Mili Balakirev (1837-1910), les autres membres étaient :Nikolaï Rimski-Korsakov (1844-1908)Alexandre Borodine (1833-1887)Modeste Moussorgski (1839-1881)César Cui (1835-1918)Le groupe prônait une musique spécifiquement nationale basée avant tout sur les traditions populaires russes et détachée des standards occidentaux. En un sens, ils représentaient le mouvement romantique nationaliste russe, poursuivant les mêmes objectifs que le cercle d'Abramtsevo et le Renouveau russe dans le domaine des beaux-arts et de l'architecture.Les membres du groupe, tous autodidactes, se basèrent sur l'idéal de Glinka (1804-1857), considéré par beaucoup comme le fondateur de l'école musicale russe avec Alexandre Dargomyzsky. La rédaction du manifeste fut confiée à César Cui.Rimski-Korsakov reste le membre le plus influent et le plus connu du groupe, et orchestre plusieurs œuvres d'autres membres après leur mort. Il en formera les successeurs (Glazounov, Prokofiev, ou Stravinski) via son poste de professeur au Conservatoire de Saint-Pétersbourg.Le Groupe des cinq  Image:Aleksandr Borodin.jpg|Alexandre Borodine Image:Cui 1870s CuiIP 81 600.jpg|César Cui Image:Mily Balakirev.jpg|Mili Balakirev Image:Mussorgsky.jpg|Modeste Moussorgski Image:Nikolai Rimski-Korsakov.jpg|Nicolas Rimski-Korsakov  ImageSize = width:800 height:155 PlotArea = width:620 height:135 left:100 bottom:20 AlignBars = justifyColors = id:Borodine           value:tan1
+ id:Cui                value:rgb(1,0.6,0.5)
+ id:Balakirev          value:lightorange
+ id:Moussorgski        value:gray(0.8)
+ id:Rimski-Korsakov    value:coral
+ id:Règne              value:whitePeriod = from:1830 till:1920 TimeAxis = orientation:horizontal ScaleMajor = unit:year increment:20 start:1830 ScaleMinor = unit:year increment:10 start:1830Define $markred = text:"*" textcolor:red shift:(0,3) fontsize:10PlotData= align:center textcolor:black fontsize:8 mark:(line,black) width:18 shift:(0,-5) bar:Règne color:white text:&quot;&quot;
+ from: 1830 till: 1855 color: orange text: Nicolas_Ier       
+ from: 1855 till: 1881 color: yellow text: Alexandre_II
+ from: 1881 till: 1894 color: orange text: Alexandre_III
+ from: 1894 till: 1917 color: yellow text: Nicolas_II
+ bar:Borodine color:Borodine
+ from: 1833 till: 1887  
+ bar:Cui color:Cui
+ from: 1835 till: 1918 
+ bar:Balakirev color:Balakirev
+ from: 1837 till: 1910  
+ bar:Moussorgski color:Moussorgski
+ from: 1839 till: 1881  
+ bar:Rimski-Korsakov color:Rimski-Korsakov
+ from: 1844 till: 1908  LineData=  at:1861 color:red width:1
+  at:1917 color:red width:1
+  at:1855 color:black width:0.5 layer:back
+  at:1881 color:black width:0.5 layer:back
+  at:1894 color:black width:0.5 layer:backTextData =  pos: (305,170)    textcolor:red fontsize:S
+  tabs: (10-right, 395-right)
+  text: ^Abolition^Révolution
+  text: ^du servage^de 1917 Catégorie:Compositeur romantique Catégorie:Compositeur russe Catégorie:Musique russeca:Grup dels Cinc cs:Pětka (umělecká skupina) da:De Fem de:Gruppe der Fünf el:Η Ομάδα των Πέντε en:The Five eo:Kvinopo es:Grupo de los Cinco et:Võimas rühm fi:Viiden ryhmä he:החמישה hr:Moćna gomilica hu:Orosz Ötök it:Gruppo dei Cinque ja:ロシア5人組 ka:მძლავრი ჯგუფი ko:러시아 5인조 nl:Het Machtige Hoopje no:De Fem pl:Potężna gromadka pt:Grupo dos Cinco ru:Могучая кучка sk:Mocná hŕstka sl:Ruska peterka sv:De fem tr:Rus Beşleri uk:Могутня купка zh:五人樂派

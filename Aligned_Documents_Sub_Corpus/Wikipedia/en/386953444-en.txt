@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 0922 |
+ postalcode        = 92011 |
+ gentilic          = cattolicensi |
+ saint             = |
+ day               = |
+ mayor             = |
+ website           = [http://www.comune.cattolicaeraclea.ag.it/ www.comune.cattolicaeraclea.ag.it/] |
+ mapy = 13.4000 |
+ mapx = 37.4333 | Cattolica Eraclea (Catòlica in Sicilian) is a comune (municipality) in the Province of Agrigento in the Italian region Sicily, located about  south of Palermo and about  northwest of Agrigento. , it had a population of 4,736 and an area of .All demographics and other statistics: Italian statistical institute Istat.Cattolica Eraclea borders the following municipalities: Agrigento, Cianciana, Montallegro, Ribera, Sant'Angelo Muxaro.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:12000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:2000 start:0 ScaleMinor = gridcolor:lightgrey increment:500 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:6006
+ bar:1871 from: 0 till:6374
+ bar:1881 from: 0 till:6647
+ bar:1901 from: 0 till:8092
+ bar:1911 from: 0 till:9059
+ bar:1921 from: 0 till:8157
+ bar:1931 from: 0 till:9635
+ bar:1936 from: 0 till:9856
+ bar:1951 from: 0 till:11274
+ bar:1961 from: 0 till:8877
+ bar:1971 from: 0 till:6489
+ bar:1981 from: 0 till:5986
+ bar:1991 from: 0 till:6188
+ bar:2001 from: 0 till:4959PlotData= bar:1861 at:6006 fontsize:XS text: 6006 shift:(-8,5)
+ bar:1871 at:6374 fontsize:XS text: 6374 shift:(-8,5)
+ bar:1881 at:6647 fontsize:XS text: 6647 shift:(-8,5)
+ bar:1901 at:8092 fontsize:XS text: 8092 shift:(-8,5)
+ bar:1911 at:9059 fontsize:XS text: 9059 shift:(-8,5)
+ bar:1921 at:8157 fontsize:XS text: 8157 shift:(-8,5)
+ bar:1931 at:9635 fontsize:XS text: 9635 shift:(-8,5)
+ bar:1936 at:9856 fontsize:XS text: 9856 shift:(-8,5)
+ bar:1951 at:11274 fontsize:XS text: 11274 shift:(-8,5)
+ bar:1961 at:8877 fontsize:XS text: 8877 shift:(-8,5)
+ bar:1971 at:6489 fontsize:XS text: 6489 shift:(-8,5)
+ bar:1981 at:5986 fontsize:XS text: 5986 shift:(-8,5)
+ bar:1991 at:6188 fontsize:XS text: 6188 shift:(-8,5)
+ bar:2001 at:4959 fontsize:XS text: 4959 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal linkswww.comune.cattolicaeraclea.ag.it/ Category:Cities and towns in Sicilyco:Cattolica Eraclia de:Cattolica Eraclea es:Cattolica Eraclea eo:Cattolica Eraclea fr:Cattolica Eraclea id:Cattolica Eraclea it:Cattolica Eraclea lmo:Cattolica Eraclea nl:Cattolica Eraclea ja:カットーリカ・エラクレーア nap:Cattolica Eraclea pl:Cattolica Eraclea pt:Cattolica Eraclea scn:Catòlica (AG) vi:Cattolica Eraclea vo:Cattolica Eraclea

@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 0565 |
+ postalcode        = 57036 |
+ gentilic          =  |
+ saint             = |
+ day               = |
+ mayor             = Maurizio Papi (since May 2002) |
+ website           =  |
+ mapy = 10.4000 |
+ mapx = 42.7667 | Porto Azzurro is a comune (municipality) in the Province of Livorno in the Italian region Tuscany; it is on the Elba Island, located about 130&nbsp;km southwest of Florence and about 90&nbsp;km south of Livorno. As of 31 December 2004, it had a population of 3,454 and an area of 13.3&nbsp;km².All demographics and other statistics: Italian statistical institute Istat.Porto Azzurro borders the following municipalities: Capoliveri, Portoferraio, Rio Marina, Rio nell'Elba.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:4000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:2421
+ bar:1871 from: 0 till:2444
+ bar:1881 from: 0 till:2786
+ bar:1901 from: 0 till:2352
+ bar:1911 from: 0 till:2544
+ bar:1921 from: 0 till:2555
+ bar:1931 from: 0 till:2369
+ bar:1936 from: 0 till:2429
+ bar:1951 from: 0 till:3078
+ bar:1961 from: 0 till:3006
+ bar:1971 from: 0 till:2929
+ bar:1981 from: 0 till:3073
+ bar:1991 from: 0 till:3111
+ bar:2001 from: 0 till:3220PlotData= bar:1861 at:2421 fontsize:XS text: 2421 shift:(-8,5)
+ bar:1871 at:2444 fontsize:XS text: 2444 shift:(-8,5)
+ bar:1881 at:2786 fontsize:XS text: 2786 shift:(-8,5)
+ bar:1901 at:2352 fontsize:XS text: 2352 shift:(-8,5)
+ bar:1911 at:2544 fontsize:XS text: 2544 shift:(-8,5)
+ bar:1921 at:2555 fontsize:XS text: 2555 shift:(-8,5)
+ bar:1931 at:2369 fontsize:XS text: 2369 shift:(-8,5)
+ bar:1936 at:2429 fontsize:XS text: 2429 shift:(-8,5)
+ bar:1951 at:3078 fontsize:XS text: 3078 shift:(-8,5)
+ bar:1961 at:3006 fontsize:XS text: 3006 shift:(-8,5)
+ bar:1971 at:2929 fontsize:XS text: 2929 shift:(-8,5)
+ bar:1981 at:3073 fontsize:XS text: 3073 shift:(-8,5)
+ bar:1991 at:3111 fontsize:XS text: 3111 shift:(-8,5)
+ bar:2001 at:3220 fontsize:XS text: 3220 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTAT Photos Image:PortoAzzuro.jpg Image:Elba-048.jpg  References Category:Cities and towns in Tuscanyde:Porto Azzurro es:Porto Azzurro eo:Porto Azzurro fr:Porto Azzurro it:Porto Azzurro la:Portus Lungonis hu:Porto Azzurro nl:Porto Azzurro ja:ポルト・アッズッロ nap:Porto Azzurro no:Porto Azzurro pms:Porto Azzurro pl:Porto Azzurro pt:Porto Azzurro vi:Porto Azzurro vo:Porto Azzurro

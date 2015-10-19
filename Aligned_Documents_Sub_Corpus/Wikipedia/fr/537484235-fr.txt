@@ -1,0 +1,39 @@
+ &lt;br /&gt;
+| villes=[[Narva]], [[Ivangorod]], [[Narva-Jõesuu]]  
+| sources=  depuis la rive estonienne du fleuve. À l'avant-plan, la forteresse Hermann de la ville de Narva.]] La Narva est un fleuve de 75 km qui constitue une partie de la frontière nord entre la Russie et l'Estonie. Ce fleuve relie le lac Peïpous, dont il est l'émissaire, au golfe de Finlande.Elle constitue également la limite entre les deux villes de Narva, située en Estonie et Ivangorod, située en Russie.GéographieLa Narva a sa source à l'extrémité nord-est du lac Peïpous, entre les localités estonienne de Vasknarva, et russe de Skamya. Ses rives sont peu peuplées, et les petites localités sont à peine plus nombreuses le long de son cours supérieur (Permisküla et Kuningaküla du côté estonien, et Omuti du côté russe). Depuis le lac jusqu'aux villes jumelles de Narva et d'Ivangorod, ses rives sont couvertes de forêts ou constituées de marécages.  Le fleuve est coupé juste à l'entrée de Narva par un barrage datant des années 1950 et formant un important réservoir qui s'étend sur plus de 38 kilomètres en amont et dont la surface est de 191 kilomètres carrés Sada aastat Narva jõe äravoolu mõõtmisi (Eesti Loodus).À son embouchure, le fleuve déverse ses eaux dans la baie de Narva, au sud du golfe de Finlande, au niveau de la station balnéaire de Narva-Jõesuu, jadis très fréquentée par les habitants de Saint-Pétersbourg, puis de Leningrad, située à seulement 150 kilomètres plus à l'est. Narva-Jõesuu est la troisième plus grande agglomération des rives du fleuve.AffluentsLa Plioussa (rive droite) est l'affluent principal de la Narva. Il provient de la ville russe de Slantsy, et débouche au niveau du lac de barrage du fleuve.Les autres affluents sont peu importants :Le Jaama (rive gauche ou estonienne)Le Poruni (rive gauche)Le Mustajõgi (rive gauche)Le Rosson (rive droite ou russe)Villes traverséesNarvaIvangorodNarva-JõesuuHydrométrie - Les débits mensuels au barrage de NarvaLe débit du fleuve a été observé pendant 79 ans (durant la période 1902-1985) au barrage de Narva, situé à très peu de distance en amont des villes jumelles de Narva-Ivangorod, et donc à une vingtaine de kilomètres de son embouchure dans le golfe de Finlande GRDC - Bassin de la Narva - Station : barrage de Narva.Au barrage de Narva, le débit inter annuel moyen ou module observé sur cette période était de 384 m³/seconde pour une surface de drainage de 56.000 km², soit la quasi totalité du bassin versant. La lame d'eau écoulée dans ce bassin versant se monte ainsi à 216 millimètres par an, ce qui peut être considéré comme modéré.Fleuve alimenté en partie par la fonte des neiges, la Narva est un cours d'eau de régime pluvio-nival de plaine qui présente globalement deux saisons.Les hautes eaux se déroulent du mois d'avril au début du mois de juin, ce qui correspond à la fonte des neiges de son bassin. Dès le mois de juin, le débit du fleuve baisse rapidement, ce qui mène à la période des basses eaux. Celle-ci a lieu de juillet à mars inclus, avec cependant une reprise du débit en fin d'automne (octobre et novembre) qui traduit les précipitations plus fortes durant cette saison, et tombant surtout sous forme de pluie. Mais le fleuve conserve durant toute la période des basses eaux un débit très consistant, les lacs multiples et étendus jouant un rôle stabilisant.Le débit moyen mensuel observé en janvier (minimum d'étiage) est de 267&nbsp;m³/seconde, soit près de la moitié du débit moyen du mois d'avril (614&nbsp;m³/seconde), ce qui témoigne de l'amplitude très faible des variations saisonnières. Sur la durée d'observation de 79 ans, le débit mensuel minimal a été de 86&nbsp;m³/seconde (décembre 1939), tandis que le débit mensuel maximal s'élevait à 1&nbsp;450&nbsp;m³/seconde (avril 1924). Débits moyens mensuels de la Narva (en m³/seconde) mesurés à la station hydrométrique du barrage de NarvaDonnées calculées sur 79 ans Colors= id:lightgrey value:gray(0.8)
+ id:darkgrey  value:gray(0.3)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.8,0.9)ImageSize = width:600 height:280 PlotArea = left:40 bottom:40 top:20 right:20 DateFormat = x.y Period = from:0 till:700 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:lightgrey increment:200 start:0 ScaleMinor = gridcolor:lightgrey increment:100 start:0 BackgroundColors = canvas:sfondoBarData= bar:Jan text:Janvier
+ bar:Fév text:Février
+ bar:Mar text:Mars
+ bar:Avr text:Avril
+ bar:Mai text:Mai
+ bar:Jun text:Juin
+ bar:Jul text:Juillet
+ bar:Aoû text:Août
+ bar:Sep text:Sept.
+ bar:Oct text:Oct.
+ bar:Nov text:Nov.
+ bar:Déc text:Déc.PlotData= color:barra width:30 align:left bar:Jan from:0 till: 267 
+ bar:Fév from:0 till: 278 
+ bar:Mar from:0 till: 335 
+ bar:Avr from:0 till: 614 
+ bar:Mai from:0 till: 593 
+ bar:Jun from:0 till: 467 
+ bar:Jul from:0 till: 383 
+ bar:Aoû from:0 till: 338 
+ bar:Sep from:0 till: 326 
+ bar:Oct from:0 till: 342 
+ bar:Nov from:0 till: 355 
+ bar:Déc from:0 till: 303 PlotData= bar:Jan at: 267 fontsize:S text: 267 shift:(-10,5)
+ bar:Fév at: 278 fontsize:S text: 278 shift:(-10,5)
+ bar:Mar at: 335 fontsize:S text: 335 shift:(-10,5)
+ bar:Avr at: 614 fontsize:S text: 614 shift:(-10,5)
+ bar:Mai at: 593 fontsize:S text: 593 shift:(-10,5)
+ bar:Jun at: 467 fontsize:S text: 467 shift:(-10,5)
+ bar:Jul at: 383 fontsize:S text: 383 shift:(-10,5)
+ bar:Aoû at: 338 fontsize:S text: 338 shift:(-10,5)
+ bar:Sep at: 326 fontsize:S text: 326 shift:(-10,5)
+ bar:Oct at: 342 fontsize:S text: 342 shift:(-10,5)
+ bar:Nov at: 355 fontsize:S text: 355 shift:(-10,5)
+ bar:Déc at: 303 fontsize:S text: 303 shift:(-10,5) AnnexesRéférencesVoir aussiCatégorie:Cours d'eau frontalier d'Europe Catégorie:Cours d'eau d'Estonie Catégorie:Cours d'eau de l'oblast de Léningradbe-x-old:Нарва (рака Беларусі) bg:Нарва cs:Narva (řeka) de:Narva (Fluss) en:Narva River eo:Narva (rivero) es:Río Narva et:Narva jõgi fi:Narvajoki hr:Narva (rijeka) it:Narva (fiume) ja:ナルヴァ川 ko:나르바 강 lt:Narva (upė) lv:Narva (upe) nl:Narva (rivier) nn:Elva Narva no:Narva (elv) pl:Narwa (rzeka) pt:Rio Narva ru:Нарва (река) sr:Нарва (река) sv:Narva (flod) tr:Narova Nehri

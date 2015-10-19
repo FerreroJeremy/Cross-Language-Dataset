@@ -1,0 +1,37 @@
+La Volta est un fleuve d'Afrique centrale et de l'ouest qui se jette dans le golfe de Guinée. Elle est formée par la confluence de la Volta Noire (aujourd'hui : Mouhoun), la Volta Blanche (aujourd'hui : Nakambé) et la Volta Rouge (aujourd'hui : Nazinon). Ce fleuve donna autrefois son nom à un pays, la Haute-Volta, avant qu'il prenne le nom de Burkina Faso en 1984.Le lac Volta, le plus grand lac artificiel du monde, s'étend du barrage Akosombo au sud-est du Ghana jusqu'à la ville de Yapei à 520 kilomètres au nord. Ce lac produit de l'électricité, permet le transport fluvial, et est une ressource potentielle pour l'irrigation et la pisciculture.HydrologieLa surface du bassin versant de la Volta est de 394 100 km² à Senchi à 111 km de son embouchure. Son module y est de 1106 m³/s et son débit spécifique de 2,8 l/s/km². Le fleuve présente une période de hautes eaux en septembre et octobre et d'étiage de janvier à mai.Débit moyen mensuel (en m³/s) mesuré à la Station hydrologique de Senchi(Halcrow)- bassin versant: 394 100 km²-données calculées sur la période 1936-1979La Volta à Senchi Colors= id:lightgrey value:gray(0.8)
+ id:darkgrey  value:gray(0.3)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.8,0.9)ImageSize = width:500 height:300 PlotArea = left:40 bottom:40 top:20 right:20 DateFormat = x.y Period = from:0 till:4000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:Jan text:Janvier
+ bar:Fév text:Février
+ bar:Mar text:Mars
+ bar:Avr text:Avril
+ bar:Mai text:Mai
+ bar:Jun text:Juin
+ bar:Jul text:Juillet
+ bar:Aoû text:Août
+ bar:Sep text:Sept.
+ bar:Oct text:Oct.
+ bar:Nov text:Nov.
+ bar:Déc text:Déc.PlotData= color:barra width:30 align:left bar:Jan from:0 till: 267
+ bar:Fév from:0 till: 309
+ bar:Mar from:0 till: 278
+ bar:Avr from:0 till: 310
+ bar:Mai from:0 till: 279
+ bar:Jun from:0 till: 405
+ bar:Jul from:0 till: 750
+ bar:Aoû from:0 till: 1509
+ bar:Sep from:0 till: 3743
+ bar:Oct from:0 till: 3833
+ bar:Nov from:0 till: 1118
+ bar:Déc from:0 till: 466PlotData= bar:Jan at: 267 fontsize:S text: 267 shift:(-10,5)
+ bar:Fév at: 309 fontsize:S text: 309 shift:(-10,5)
+ bar:Mar at: 278 fontsize:S text: 278 shift:(-10,5)
+ bar:Avr at: 310 fontsize:S text: 310 shift:(-10,5)
+ bar:Mai at: 279 fontsize:S text: 279 shift:(-10,5)
+ bar:Jun at: 405 fontsize:S text: 405 shift:(-10,5)
+ bar:Jul at: 750 fontsize:S text: 750 shift:(-10,5)
+ bar:Aoû at: 1509 fontsize:S text: 1509 shift:(-10,5)
+ bar:Sep at: 3743 fontsize:S text: 3743 shift:(-10,5)
+ bar:Oct at: 3833 fontsize:S text: 3833 shift:(-10,5)
+ bar:Nov at: 1118 fontsize:S text: 1118 shift:(-10,5)
+ bar:Déc at: 466 fontsize:S text: 466 shift:(-10,5) Notes et référencesVoir aussiListe de fleuves dans le mondeAutorité du bassin de la VoltaCatégorie:Cours d'eau du Burkina Faso Catégorie:Cours d'eau du Ghanacs:Volta cy:Afon Volta da:Volta (flod) de:Volta (Fluss) en:Volta River es:Río Volta eu:Volta ibaia fi:Volta (joki) gl:Río Volta he:וולטה (נהר) hu:Volta is:Volta it:Volta (fiume) ja:ヴォルタ川 lt:Volta nl:Volta (rivier) no:Volta (elv) pl:Wolta pt:Rio Volta ro:Fluviul Volta ru:Вольта (река) sv:Volta (flod) sw:Volta (mto) zh:沃尔特河

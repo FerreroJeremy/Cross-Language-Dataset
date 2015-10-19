@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 0922 |
+ postalcode        = 92010 |
+ gentilic          = montallegresi |
+ saint             = |
+ day               = |
+ mayor             = |
+ website           =  |
+ mapy = 13.3500 |
+ mapx = 37.4000 | Montallegro (Muntallegru in Sicilian) is a comune (municipality) in the Province of Agrigento in the Italian region Sicily, located about 80&nbsp;km south of Palermo and about 25&nbsp;km northwest of Agrigento. As of 31 December 2004, it had a population of 2,639 and an area of 27.3&nbsp;km².All demographics and other statistics: Italian statistical institute Istat.Montallegro borders the following municipalities: Agrigento, Cattolica Eraclea, Siculiana.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:4000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:1635
+ bar:1871 from: 0 till:1659
+ bar:1881 from: 0 till:1472
+ bar:1901 from: 0 till:1915
+ bar:1911 from: 0 till:2186
+ bar:1921 from: 0 till:2255
+ bar:1931 from: 0 till:2849
+ bar:1936 from: 0 till:3062
+ bar:1951 from: 0 till:3644
+ bar:1961 from: 0 till:3548
+ bar:1971 from: 0 till:3018
+ bar:1981 from: 0 till:3168
+ bar:1991 from: 0 till:3515
+ bar:2001 from: 0 till:2732PlotData= bar:1861 at:1635 fontsize:XS text: 1635 shift:(-8,5)
+ bar:1871 at:1659 fontsize:XS text: 1659 shift:(-8,5)
+ bar:1881 at:1472 fontsize:XS text: 1472 shift:(-8,5)
+ bar:1901 at:1915 fontsize:XS text: 1915 shift:(-8,5)
+ bar:1911 at:2186 fontsize:XS text: 2186 shift:(-8,5)
+ bar:1921 at:2255 fontsize:XS text: 2255 shift:(-8,5)
+ bar:1931 at:2849 fontsize:XS text: 2849 shift:(-8,5)
+ bar:1936 at:3062 fontsize:XS text: 3062 shift:(-8,5)
+ bar:1951 at:3644 fontsize:XS text: 3644 shift:(-8,5)
+ bar:1961 at:3548 fontsize:XS text: 3548 shift:(-8,5)
+ bar:1971 at:3018 fontsize:XS text: 3018 shift:(-8,5)
+ bar:1981 at:3168 fontsize:XS text: 3168 shift:(-8,5)
+ bar:1991 at:3515 fontsize:XS text: 3515 shift:(-8,5)
+ bar:2001 at:2732 fontsize:XS text: 2732 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferences Category:Cities and towns in Sicilyde:Montallegro es:Montallegro eo:Montallegro fr:Montallegro id:Montallegro it:Montallegro lmo:Montallegro nl:Montallegro ja:モンタッレグロ nap:Montallegro pl:Montallegro pt:Montallegro scn:Muntallegru (AG) vi:Montallegro vo:Montallegro

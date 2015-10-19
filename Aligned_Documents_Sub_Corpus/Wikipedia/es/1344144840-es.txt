@@ -1,0 +1,71 @@
+En Teoría de la información y Ciencias de la Computación se llama Distancia de Levenshtein o distancia de edición al número mínimo de operaciones requeridas para transformar una cadena de caracteres en otra. Se entiende por operación, bien una inserción, eliminación o la substitución de un carácter. Esta distancia recibe ese nombre en honor al científico ruso Vladimir Levenshtein, quien se ocupara de esta distancia en 1965. Es útil en programas que determinan cuán similares son dos cadenas de caracteres, como es el caso de los correctores de ortografía.Por ejemplo, la distancia de Levenshtein entre "kitten" y "sitting" es de 3 porque se necesitan al menos tres ediciones elementales para cambiar uno en el otro.kitten ? sitten (sustitución de 'k' por 's')sitten ? sittin (sustitución de 'e' por 'i')sittin ? sitting (inserción de 'g' al final)Se le considera una generalización de la distancia de Hamming, que se usa para cadenas de la misma longitud y que solo considera como operación la substitución. Hay otras generalizaciones de la distancia de Levenshtein, como la distancia de Damerau-Levenshtein, que consideran el intercambio de dos caracteres como una operaciónEl algoritmoSe trata de un algoritmo muy común de tipo bottom-up programación dinámica empleado en el cálculo de la distancia de Levenshtein y que implementa el uso de matriz (n + 1) × (m + 1), donde n y m son las longitudes de los cadenas. Aquí se indica el algoritmo en pseudocódigo para una función LevenshteinDistance que toma dos cadenas, str1 de longitud lenStr1, y str2 de longitud lenStr2, y calcula la distancia Levenshtein entre ellos:'''int''' LevenshteinDistance('''char''' str1[1..lenStr1], '''char''' str2[1..lenStr2])
+   ''// d is a table with lenStr1+1 rows and lenStr2+1 columns''
+   '''declare''' '''int''' d[0..lenStr1, 0..lenStr2]
+   ''// i and j are used to iterate over str1 and str2''
+   '''declare''' '''int''' i, j, cost   '''for''' i '''from''' 0 '''to''' lenStr1
+       d[i, 0] := i
+   '''for''' j '''from''' 0 '''to''' lenStr2
+       d[0, j] := j   '''for''' i '''from''' 1 '''to''' lenStr1
+       '''for''' j '''from''' 1 '''to''' lenStr2
+           '''if''' str1[i] = str2[j] '''then''' cost := 0
+                                '''else''' cost := 1
+           d[i, j] := minimum(
+                                d[i-1, j] + 1,     ''// deletion''
+                                d[i, j-1] + 1,     ''// insertion''
+                                d[i-1, j-1] + cost   ''// substitution''
+                            )   '''return''' d[lenStr1, lenStr2]El invariante mantenido a través del algorítmo es que pueda transformar el segmento inicial str11..i en str21..j empleando un mínimo de di,j operaciones. Al final, el elemento ubicado en la parte INFERIOR derecha de la cadena contiene la respuesta.ImplementaciónA continuación se puede encontrar la implementación de la función para varios lenguajes de programación. Otros lenguajes de más alto nível, como php o la funciones de usuario de MySQL, las incorporan ya, sin necesidad de implementarla para se usada.C++include include include using namespace std;int levenshtein(const string &s1, const string &s2) 
+  
+  return T[N2]; JavaImplementado como una clase estática. public class LevenshteinDistance    public static int computeLevenshteinDistance(String str1, String str2)    private static int computeLevenshteinDistance(char [] str1, char [] str2)  Perl'''sub''' fastdistance
+    '''for''' (1.. $len2)     '''for''' my $i (1.. $len1) 
+    
+    '''return''' $d[$len1][$len2];
+'''sub''' _min
+Python'''def''' distance(str1, str2):
+  d=dict()
+  '''for''' i '''in''' range(len(str1)+1):
+     d[i]=dict()
+     d[i][0]=i
+  '''for''' i '''in''' range(len(str2)+1):
+     d[0][i] = i
+  '''for''' i '''in''' range(1, len(str1)+1):
+     '''for''' j '''in''' range(1, len(str2)+1):
+        d[i][j] = min(d[i][j-1]+1, d[i-1][j]+1, d[i-1][j-1]+('''not''' str1[i-1] == str2[j-1]))
+  '''return''' d[len(str1)][len(str2)]Ruby def self.LevenshteinDistance(str1,str2)
+   distance = Array.new(str1.size+1, 0)
+   for i in 0..str1.size
+     distance[i] = Array.new(str2.length+1)
+     distance[i][0] = i
+   end
+   for j in 0..(str2.size)
+     distance[0][j] = j
+   end   for i in 1..str1.size
+     for j in 1..str2.size
+       distance[i][j] = [distance[i-1][j]+1 ,
+                         distance[i][j-1]+1 ,
+                         distance[i-1][j-1]+((str1[i-1]==str2[j-1])? 0:1)].min
+     end
+   end
+   return distance[str1.size][str2.size];
+  endDelphi function LevenshteinDistance(Str1, Str2: String): Integer; var d : array of array of Integer;
+ Len1, Len2 : Integer;
+ i,j,cost:Integer;begin Len1:=Length(Str1);
+ Len2:=Length(Str2);
+ SetLength(d,Len1+1);
+ for i := Low(d) to High(d) do
+   SetLength(d[i],Len2+1); for i := 0 to Len1 do
+   d[i,0]:=i; for j := 0 to Len2 do
+   d[0,j]:=j; for i:= 1 to Len1 do
+   for j:= 1 to Len2 do
+   begin
+     if Str1[i]=Str2[j] then
+       cost:=0
+     else
+       cost:=1;
+     d[i,j]:= Min(d[i-1, j] + 1,     // deletion,
+                  Min(d[i, j-1] + 1, // insertion
+                      d[i-1, j-1] + cost)   // substitution
+                           );
+   end;
+ Result:=d[Len1,Len2];end; [[Macromedia ColdFusion|ColdFusion]]  function levDistance(s,t) if (m is 1) for (i = 1; i lte n; i=i+1)    for (j = 1; j lte m; j=j+1) for (i = 2; i lte n; i=i+1) 
+       else dij = min(di-1j+1, dij-1+1); dij = min(dij, di-1j-1 + cost);     
+      return d[n][m];  Véase tambiénDistancia de Damerau-Levenshteinalgoritmo Needleman-Wunschalgoritmo Smith-Watermanalgoritmo BitapAutómata de Levenshteinespacio métricoagrepRatcliff/ObershelpDynamic time warpingJaro-Winkler distanceCategoría:Programaciónaf:Levenshteinafstand de:Levenshtein-Distanz en:Levenshtein distance fi:Levenšteinin etäisyys fr:Distance de Levenshtein it:Distanza di Levenshtein ja:レーベンシュタイン距離 lv:Levenšteina attālums nl:Levenshteinafstand nn:Levenshtein-distanse pl:Odległość Levenshteina pt:Distância Levenshtein ru:Расстояние Левенштейна sr:Левенштајново растојање sv:Levenshteinavstånd tg:Масофаи Левенштейн uk:Відстань Левенштейна vi:Khoảng cách Levenshtein zh:編輯距離

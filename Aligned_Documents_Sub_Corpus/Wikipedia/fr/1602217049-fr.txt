@@ -1,0 +1,56 @@
+  | typage = dynamique | implémentations = Ruby, YARV, JRuby, XRuby, Rubinius, Cardinal, Gardens Point Ruby.NET | dialectes = | influencé par = Perl, Smalltalk, Python, Lisp, Dylan et CLU | a influencé = Groovy, Perl 6 | système d'exploitation = Multiplate-forme | licences = Licence Ruby et GPL | site web = ruby-lang.org  Ruby est un langage de programmation libre. Il est interprété, orienté objet, et multi-paradigme.Le nom Ruby n'est pas un acronyme mais un jeu de mots avec le langage informatique Perl, article de Yukihiro Matsumoto publié sur informit.com le 12 juin 2000.HistoriqueYukihiro &quot;Matz&quot; Matsumoto est le créateur de Ruby. Ne trouvant pas dans les langages de programmation déjà existants (dont Perl et Python) de quoi le satisfaire, il commença l'écriture en 1993 et publia une première version en 1995. Depuis, les versions se sont enchaînées, généralement pour NoëlVoir les dates de publication des versions 1.6 et 1.8.Les changements de version majeurs ont eu lieuSite FTP officiel de téléchargement :le  pour la version 1.2.0,le  pour la version 1.4.0,le  pour la version 1.6.0,le  pour la version 1.8.0,et le  pour la version 1.9.1 (première version stable de la branche 1.9) Annonce de la version 1.9.1.La dernière version stable est la 1.9.1, publiée le &lt;ref&gt; Annonce de la version 1.9.1.Depuis l'arrivée d'une documentation anglophone, et du , Ruby connaît un certain engouement, qui ne cesse de croître dans le monde de la programmationExplication de la croissance sur le site officiel.PhilosophieRuby est fortement orienté objet et se rapproche ainsi du paradigme objet de SmalltalkLa principale différence étant que les structures de contrôle (if-then-else, while, etc.) ne sont pas des objets. :toute donnée est un objet, y compris les types ;toute fonction est une méthode ;toute variable est une référence à un objet.Malgré cet aspect exclusivement objet, la programmation procédurale est possible et fréquente. Ruby utilise une syntaxe simple, inspirée par Eiffel et AdaRuby sur HOPL, .Le langage est souvent présenté comme évitant au maximum les mauvaises surprises, selon le principe de moindre surpriseDéfinition du PoLS sur le wiki de Ruby Garden. Mais puisqu'il n'est pas possible d'éviter la surprise de tous les utilisateurs, Yukihiro Matsumoto précise qu'il cherche surtout à éviter sa propre surprisee-mail  envoyé par matz le 26 mai 2005 sur ruby-talk. Ainsi plus on connaît le langage, plus on connaît la logique de son auteur et moins on s'étonne des fonctionnalités qu'on découvre.FonctionnalitésLes fonctionnalités principales sont :l'orientation objet omniprésente ;le ramasse-miettes chargé de libérer automatiquement la mémoire ;le système de gestion d'exceptions pour gérer les erreurs exceptionnelles ;la possibilité de modifier les classes pendant l'exécution du programme, qu'elles soient définies par l'utilisateur ou non ;l'intégration dans sa syntaxe des expressions rationnelles ;les blocs qui servent d'itérateur et permettent de passer des morceaux de programme en paramètre ;l'héritage simple ;l'inclusion de modules dans les classes, une autre manière de concevoir l'héritage multiple (mixin) ;l'écriture d'extensions en C relativement simple ;les nombres entiers de taille illimitée avec conversion automatique lorsque c'est nécessaire, article publié sur devx.com ;la portée des variables définie par leur forme :  est une variable locale,  est une variable d'instance,  est une variable de classe,  est une variable globale,  est une constante, etc. ;les  indépendants du système d'exploitation ;la réflexion, c'est-à-dire la possibilité pour les programmes et les objets de s'inspecter eux-mêmes et de se modifier.ImplémentationsL'interpréteur officiel fonctionne sur de nombreux systèmes d'exploitation : UNIX, Linux, Microsoft Windows, DOS, Mac OS X, OS/2, Amiga, etc. Il est publié sous la double licence libre GNU GPL et la licence RubyTexte de la licence sur le site officiel.Ruby est fourni avec irb, un interpréteur de commandes interactif pour tester en profondeur le fonctionnement du langage. Il existe une version web d'irb pour tester Ruby dans un navigateur sur hobix.com.Depuis le , le développement de Ruby (1.9) est basée sur l'interpréteur YARV écrit par Koichi Sasada'', interview de matz et de ko1 sur la machine virtuelle de Ruby. Ce nouvel interpréteur apporte un gain notable en performances, comparaison des performances des principaux interpréteurs Ruby.Il existe plusieurs autres interpréteurs Ruby :JRubySite officiel de JRubyIl est écrit en Java et interprète directement du code source écrit en Ruby.XRubyIl convertit du code Ruby en code Java et est plus rapide sur certains tests de performance que la version 1.8.5 de l'interpreteur officiel .RubiniusUne machine virtuelle simplifiée, inspirée de Smalltalk-80 Rubinius Interview, implémentée en Ruby même.CardinalSite du projet CardinalUn interpréteur fonctionnant sous Parrot.Gardens Point Ruby.NETUn interpréteur fonctionnant sur le  Ruby.NET - Integrating the Gardens Point Compilerpar Huw Collingbourne.IronRubyUn compilateur fonctionnant sur la DLR du  http://www.ironruby.net/.Ruby for .NetUn compilateur fonctionnant sur la CLR du  qui a été abandonnée au profit de IronRubyhttp://www.sapphiresteel.com/The-End-Of-Ruby-NETInterprètes embarquéRuby possède une interface de programmation en langage C qui lui permet d'être intégré au sein d'autres logiciels. Ruby est notamment utilisable dans :Apache avec mod_ruby pour générer des pages web en Rubyet PostgreSQL avec PL/ruby pour faire exécuter des commandes Ruby au serveur de base de données.Le logiciel de création de jeu vidéo  intègre dans ses versions XP et VX un langage de programmation issu de Ruby et nommé RGSS, .BibliothèquesIl existe de nombreuses bibliothèques de fonctionnalités adjoignables au langage. Le dépôt historique de ces bibliothèques est le  (RAA)Ruby Application Archive. Il contient des fonctionnalités supplémentaires pour Ruby comme des bibliothèques de classes et de modules, mais aussi des extensions permettant d'utiliser des bibliothèques tierces.Le RAA contient également des logiciels écrits en Ruby. Parmi ces logiciels on trouve notamment Rubygems qui est un outil d'empaquetage et d'installation pour les extensions RubySite officiel de Rubygems. Il permet de déployer rapidement des bibliothèques et des programmes Ruby.Le site web RubyforgeRubyForge est également un hébergeur important de programmes et de bibliothèques écrites en Ruby.ExemplesLe classique  : puts "Hello World!" Utilisation des objets : Tout est objet, même les nombres:199.abs # 199"ruby is cool".length # 12 "Rick".index("c") # 2 "Nice Day Isn't It?".downcase.split(//).sort.uniq.join # " '?acdeinsty" Utilisation de Mixin et de l'Héritage  module AnimalSkills  def eat
+     puts &quot;I'm eating !&quot;
+  end  def move
+     puts &quot;I'm moving !&quot;
+  end  def express
+     puts &quot;I'm expressing !&quot;
+  endendclass Animal  include AnimalSkills # mixin  @@name = 'an animal' # variable de classe  def initialize(size, weight, color) # initialisation des variables d'instance
+     @size = size.to_i
+     @weight = weight.to_i
+     @color = color.to_s
+  end  def describe
+     puts &quot;I'm # !&quot;
+     puts &quot;I'm # meter tall, # kilogramms weigh and I'm &quot; + @color
+  endendclass Zebra  I'm a zebra ! / I'm 1 meter tall, 50 kilogramms weigh and I'm black and white z.eat # = I'm eating ! Voir aussiArticles connexesAda et SmalltalkBibliographie |
+    auteurs = [[Dave Thomas (programmeur)|Dave Thomas]], [[Andrew Hunt]] |
+    lien langue =  |
+    année = 2000 |
+    isbn = 0-201-71089-7 |
+    lire en ligne = http://ruby-doc.org/docs/ProgrammingRuby/
+  |
+    auteur = Yukihiro Matsumoto |
+    lien langue =  |
+    année = 2002 |
+    isbn = 2-84177-210-1 |
+ |
+    auteur = [[Dave Thomas (programmeur)|Dave Thomas]], [[Chad Fowler]], [[Andy Hunt]]  |
+    lien langue =  |
+    année = 2004 |
+    isbn = 0-97451-405-5 |
+  |
+    année = 2006 |
+    isbn = 2-74402-078-8 |
+  |
+    année = 2006 |
+    isbn = 978-2-84177-347-3 |
+  |
+    auteurs = [[Hal Fulton]] |
+    lien langue =  |
+    année = 2006 |
+    isbn = 0-67232-884-4 |
+  |
+    auteurs = [[Maik Schmidt]] |
+    lien langue =  |
+    année = 2006 |
+    isbn = 0-97669-406-9 |
+  |
+    auteurs = [[Brian Marick]] |
+    lien langue =  |
+    année = 2007 |
+    isbn = 978-0-97761-661-9 |
+  |
+    auteurs = [[Peter Cooper (programmeur)|Peter Cooper]] |
+    lien langue =  |
+    année = 2007 |
+    isbn = 978-1-59059-766-8 |
+ Liens externes Site officiel Association RubyFranceNotes et référencesCatégorie:Langage de programmation Catégorie:Langage orienté objet Catégorie:Langage de script * Catégorie:Outil libre de développement logicielar:روبي (لغة برمجة) bat-smg:Ruby bg:Ruby bn:রুবি (প্রোগ্রামিং ভাষা) ca:Ruby cs:Ruby (programovací jazyk) da:Ruby (programmeringssprog) de:Ruby (Programmiersprache) en:Ruby (programming language) eo:Ruby (programlingvo) es:Ruby eu:Ruby fa:روبی fi:Ruby gl:Ruby he:Ruby hr:Ruby (programski jezik) hu:Ruby ia:Ruby (linguage de programmation) id:Ruby (bahasa pemrograman) it:Ruby ja:Ruby ka:რუბი (პროგრამირების ენა) ko:루비 (프로그래밍 언어) ku:روبی lt:Ruby ms:Ruby nl:Ruby (programmeertaal) nn:Ruby no:Ruby pl:Ruby (język programowania) pt:Ruby (linguagem de programação) ro:Ruby ru:Ruby sk:Ruby (programovací jazyk) sr:Програмски језик Руби sv:Ruby ta:ரூபி tg:Руби th:ภาษารูบี tr:Ruby (programlama dili) uk:Ruby vi:Ruby (ngôn ngữ lập trình) zh:Ruby zh-yue:Ruby程式語言

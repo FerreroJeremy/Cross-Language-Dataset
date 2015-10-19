@@ -1,0 +1,47 @@
+  Carmañola (Carmagnola en italiano y Carmagnòla en piamontés) es una comuna italiana situada en la provincia de Turín, en la región del Piamonte, en el norte del país. Se encuentra a unos 25 kilómetros al sur de Turín. Desde el 13 de junio de 2006 su alcalde es Gian Luigi Surra, de centroderecha.La población se encuentra en el margen derecho del río Po y su tipo de suelo es fruto de la acumulación de arenas de río con el paso del tiempo.En la ciudad nació Francesco Bussone de Carmañola, más conocido como Il Carmagnola (1380-1432), quien estuvo al servicio de Filippo Maria Visconti de Milán, que inspiró la tragedia de Alessandro Manzoni, "El conde de Carmañola" (Il conte di Carmagnola).HistoriaEl municipio de Carmañola fue fundado en el siglo XI. Su territorio, que pertenecía originariamente a los señores de Arduinici, pasó a manos de los marqueses de Saluzzo, quienes construyeron su castillo. La dinastía de Saluzzo entró en un periodo de decadencia que finalizó en cuarenta años de dominación francesa tras la batalla de Cerisoles en 1544.En 1588 se convirtió en una posesión de la Casa de Saboya tras el asedio de Carlos Manuel I de Saboya. La ciudad vivió un segundo periodo de dominación francesa en el siglo XVII, durante la guerra civil entre los Madamisti y los Principisti (los primeros apoyaban a Francia, mientras que los segundos apoyaban al Ducado de Saboya). En este periodo, entre 1637 y 1642, las tres subdivisiones principales fueron destruidas debido a problemas con las estructuras defensivas e inmediatamente reconstruidas a una distancia aproximada de un kilómetro y medio de su emplazamiento original. En 1690 la ciudad fue ocupada de nuevo por los franceses a las órdenes del general Nicolas de Catinat. Sin embargo, Víctor Amadeo II de Saboya retomó la ciudad un año más tarde.Finalmente, conforme su situación estratégica fue perdiendo importancia y sus construcciones defensivas fueron demolidas, la población pudo desarrollar la agricultura y el comercio, principalmente de cáñamo y cuerdas que eran exportadas principalmente a Liguria y el sur de Francia. La agricultura y el comercio característico de la ciudad estuvieron presentes hasta la finalización de la Segunda Guerra Mundial, tras la que la llegada masiva de inmigrantes provocó un rápido crecimiento urbanístico.EconomíaLa economía de la ciudad está ligada a la producción intensiva de cereales y verduras, de buen rendimiento debido a la naturaleza del suelo. Durante los años 1960 la industria experimentó un notable crecimiento cuando la FIAT abrió una factoría, atrayendo un buen número de emigrantes provenientes del sur del país. Gracias a la factoría de FIAT se desarrollaron otras actividades industriales como la metalurgia, la electrónica, óptica, industria química y la industria alimentaria. El sector financiero, de la banca y los seguros también se ha desarrollado de forma notable.DemografíaEvolución demográfica desde 1861   Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.3,0.5,0.7)ImageSize = width:500 height:373 PlotArea = left:60 bottom:30 top:20 right:20 DateFormat = x.y Period = from:0 till:30000 TimeAxis = orientation:vertical AlignBars = late ScaleMajor = gridcolor:darkgrey increment:5000 start:0 ScaleMinor = gridcolor:lightgrey increment:1000 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2007 text:2007PlotData= color:barra width:20 align:center bar:1861 from:12664 till: 0
+ bar:1871 from:13247 till: 0
+ bar:1881 from:13005 till: 0
+ bar:1901 from:11721 till: 0
+ bar:1911 from:12248 till: 0
+ bar:1921 from:11987 till: 0
+ bar:1931 from:12078 till: 0
+ bar:1936 from:12737 till: 0
+ bar:1951 from:13459 till: 0
+ bar:1961 from:14477 till: 0
+ bar:1971 from:21109 till: 0
+ bar:1981 from:24187 till: 0
+ bar:1991 from:24725 till: 0
+ bar:2001 from:24911 till: 0
+ bar:2007 from:27043 till: 0PlotData= bar:1861 at: 12664 fontsize:S text: 12.664 shift:(0,5)
+ bar:1871 at: 13247 fontsize:S text: 13.247 shift:(0,5)
+ bar:1881 at: 13005 fontsize:S text: 13.005 shift:(0,5)
+ bar:1901 at: 11721 fontsize:S text: 11.721 shift:(0,5)
+ bar:1911 at: 12248 fontsize:S text: 12.248 shift:(0,5)
+ bar:1921 at: 11987 fontsize:S text: 11.987 shift:(0,5)
+ bar:1931 at: 12078 fontsize:S text: 12.078 shift:(0,5)
+ bar:1936 at: 12737 fontsize:S text: 12.737 shift:(0,5)
+ bar:1951 at: 13459 fontsize:S text: 13.459 shift:(0,5)
+ bar:1961 at: 14477 fontsize:S text: 14.477 shift:(0,5)
+ bar:1971 at: 21109 fontsize:S text: 21.109 shift:(0,5)
+ bar:1981 at: 24187 fontsize:S text: 24.187 shift:(0,5)
+ bar:1991 at: 24725 fontsize:S text: 24.725 shift:(0,5)
+ bar:2001 at: 24911 fontsize:S text: 24.911 shift:(0,5)
+ bar:2007 at: 27043 fontsize:S text: 27.043 shift:(0,5)TextData= fontsize:S pos:(20,20)
+ text:Fuente ISTAT - Elaboración gráfica por Wikipedia. Fiestas y celebracionesSagra del peperone (Feria del pimiento). Se celebra entre la última semana de agosto y la primera de septiembre. Se trata de una feria gastronómica dedicada al producto más típico de la agricultura de Carmañola. La feria suele atraer a más de 250.000 visitantes cada año.Fiera di primavera (Feria de la primavera). Celebrada habitualmente en marzo, está dedicada al comercio agrícola, celebrándose muchas actividades paralelas.Ciudades hermanadas Opatija, Croacia Río Tercero - Provincia de Córdoba - República Argentina a partir del Domingo 16 de Noviembre de 2008 desde las 21 P.M. hora de Córdoba R.A.Enlaces externosEcomuseo della Cultura della Lavorazione della Canapa (en italiano)Museo Civico di Storia Naturale di Carmagnola (en italiano)Sozieta' Filarmonica di Carmagnola (en italiano)Categoría:Localidades de la provincia de Turínca:Carmagnola de:Carmagnola (Piemont) en:Carmagnola eo:Carmagnola fr:Carmagnole (Italie) he:קארמניולה id:Carmagnola it:Carmagnola ja:カルマニョーラ nap:Carmagnola nl:Carmagnola pl:Carmagnola pms:Carmagnòla pt:Carmagnola vi:Carmagnola vo:Carmagnola

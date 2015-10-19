@@ -1,0 +1,8 @@
+El ordenamiento por montículos (Heap sort en inglés) es un algoritmo de ordenación no recursivo, no estable, con complejidad computacional O(n'' log ''n).Este algoritmo consiste en almacenar todos los elementos del vector a ordenar en un montículo (heap), y luego extraer el nodo que queda como nodo raíz del montículo (cima) en sucesivas iteraciones obteniendo el conjunto ordenado. Basa su funcionamiento en una propiedad de los montículos, por la cual, la cima contiene siempre el menor elemento (o el mayor, según se haya definido el montículo) de todos los almacenados en él.DescripciónHe aquí una descripción en pseudocódigo del algoritmo. Se pueden encontrar descripciones de las operaciones insertar_en_monticulo y extraer_cima_del_monticulo en el artículo sobre montículos.'''function''' heapsort('''array''' A[0..n]):
+  '''montículo''' M
+  '''integer''' i := 124578
+  '''for''' i = 0..n:
+    '''insertar_en_monticulo'''(M, A[i])
+  '''for''' i = 0..n:
+    A[i] = '''extraer_cima_del_monticulo'''(M)
+  '''return''' AEnlaces externosHeapsort - Método del montículoHeapsort explained and source code in C++Heapsort C, C #, Java, VB códigoCategoría:Algoritmos de ordenamientocs:Heapsort de:Heapsort en:Heapsort fr:Tri par tas he:מיון ערימה is:Hrúguröðun it:Heap sort ja:ヒープソート lb:Heapsort lt:Krūvos rikiavimo algoritmas nl:Heapsort no:Heapsort pl:Sortowanie przez kopcowanie pt:Heapsort ru:Пирамидальная сортировка tr:Yığın sıralaması uk:Пірамідальне сортування vi:Sắp xếp vun đống zh:堆積排序

@@ -1,0 +1,54 @@
+ |
+ frazioni          = Auzate, Bugnate |
+ telephone         = 0322 |
+ postalcode        = 28024 |
+ gentilic          = gozzanesi |
+ saint             = |
+ day               = |
+ mayor             = |
+ website           = [http://www.comune.gozzano.no.it www.comune.gozzano.no.it] |
+ mapy = 8.4333 |
+ mapx = 45.7500 | Gozzano is a comune (municipality) in the Province of Novara in the Italian region Piedmont, located about 100 km northeast of Turin and about 35 km northwest of Novara. As of 31 December 2004, it had a population of 5,949 and an area of 12.5 km².All demographics and other statistics: Italian statistical institute Istat.The municipality of Gozzano contains the frazioni (subdivisions, mainly villages and hamlets) Auzate and Bugnate.Gozzano borders the following municipalities: Bolzano Novarese, Borgomanero, Briga Novarese, Gargallo, Invorio, Orta San Giulio, Pogno, San Maurizio d'Opaglio, and Soriso.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:7000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:500 start:0 ScaleMinor = gridcolor:lightgrey increment:100 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:2714
+ bar:1871 from: 0 till:3148
+ bar:1881 from: 0 till:3353
+ bar:1901 from: 0 till:3633
+ bar:1911 from: 0 till:3790
+ bar:1921 from: 0 till:3641
+ bar:1931 from: 0 till:4201
+ bar:1936 from: 0 till:4581
+ bar:1951 from: 0 till:4608
+ bar:1961 from: 0 till:5424
+ bar:1971 from: 0 till:6494
+ bar:1981 from: 0 till:6398
+ bar:1991 from: 0 till:5986
+ bar:2001 from: 0 till:5982PlotData= bar:1861 at:2714 fontsize:XS text: 2714 shift:(-8,5)
+ bar:1871 at:3148 fontsize:XS text: 3148 shift:(-8,5)
+ bar:1881 at:3353 fontsize:XS text: 3353 shift:(-8,5)
+ bar:1901 at:3633 fontsize:XS text: 3633 shift:(-8,5)
+ bar:1911 at:3790 fontsize:XS text: 3790 shift:(-8,5)
+ bar:1921 at:3641 fontsize:XS text: 3641 shift:(-8,5)
+ bar:1931 at:4201 fontsize:XS text: 4201 shift:(-8,5)
+ bar:1936 at:4581 fontsize:XS text: 4581 shift:(-8,5)
+ bar:1951 at:4608 fontsize:XS text: 4608 shift:(-8,5)
+ bar:1961 at:5424 fontsize:XS text: 5424 shift:(-8,5)
+ bar:1971 at:6494 fontsize:XS text: 6494 shift:(-8,5)
+ bar:1981 at:6398 fontsize:XS text: 6398 shift:(-8,5)
+ bar:1991 at:5986 fontsize:XS text: 5986 shift:(-8,5)
+ bar:2001 at:5982 fontsize:XS text: 5982 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTAT ReferencesExternal linkswww.comune.gozzano.no.it  Category:Cities and towns in Piedmontde:Gozzano es:Gozzano eo:Gozzano fr:Gozzano id:Gozzano it:Gozzano nl:Gozzano ja:ゴッツァーノ nap:Gozzano pms:Gosan pl:Gozzano pt:Gozzano vi:Gozzano vo:Gozzano

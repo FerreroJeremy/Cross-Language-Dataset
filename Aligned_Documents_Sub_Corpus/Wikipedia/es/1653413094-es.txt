@@ -1,0 +1,47 @@
+ Larino es una comuna italiana situada en la provincia de Campobasso, en la región de Molise, en la mitad sur de la península italiana. La ciudad se encuentra en el valle del río Biferno.Historiathumb|left|320px|Vista aérea de Larino. Los primeros habitantes de la zona fueron los samnitas y los frentanos y posteriormente la ciudad cayó en manos de los oscos. En el año 217&amp;nbsp;a.&amp;nbsp;C., se produjo un enfrentamiento entre los romanos y los cartagineses mandados por Aníbal, que fue derrotado. Posteriormente la ciudad fue incorporada al Imperio romano como municipium y añadida a la Secunda Regio (Apulia).La ciudad moderna fue construida en 1300 después de que el asentamiento original, a un kilómetro y medio de distancia, fuera destruido por un terremoto y haber sido saqueada repetidamente por los sarracenos. La antigua ciudad romana de Larinum, sobre la que creció Larino, estaba situada en el principal camino al sureste de la península italiana, que empezaba en la costa en Histonium (Vasto) y se dirigía desde Larinum a Sipontum. En Larinum surgía un camino secundario hacia Bovianum Vetus.En 1656, una epidemia de peste acabó con la vida de miles de los habitantes de la ciudad, que estuvo a punto de desaparecer. Los 373 supervivientes estaban dispuestos a abandonar la población, pero los esfuerzos del obispo Giuseppe Catalano consiguieron convencerlos para que permanecieran en la ciudad que logró recuperarse.La ciudad es la cuna de tres santos: Primiano, Firmiano y Casto, aunque el santo más venerado en la población y su patrón es san Pardo, originario de Grecia. Cluentius, un cliente de Cicerón, quien envió un discurso en su favor, también era natural de Larinum. Una trascripción del juicio, Pro Cluentio, ofrece una vista de la vida de la ciudad seis décadas antes del nacimiento de Cristo. Julio Cesar escribió sobre la ciudad en su relato de la Guerra Social o Guerra de los aliados. También aparece en la novela "La San-Felice", en la que describe las fiestas de san Pardo.Durante la Segunda Guerra Mundial la radio informó de que la ciudad había sido totalmente destruida en un bombardeo. Sin embargo, y a pesar de que las tropas alemanas y aliadas se encontraban en las inmediaciones de la ciudad, la ciudad no fue destruida.Patrimoniothumb|left|270px|Detalle de la catedral de San Pardo. La ciudad antigua conserva importantes monumentos, como una fuente y el Duomo o catedral de San Pardo, al que el papa Pío XI otorgó el rango de basílica menor en 1928; el templo es considerado uno de los mejores ejemplos de la arquitectura gótica italiana. Fue construida en los siglos X y XI e inaugurada en 1319. Se ha remodelado en numerosas ocasiones; en 1451 se la añadió un arco gótico, en 1523 un campanario y en el siglo XVIII se remodeló su interior. Ha sido declarada patrimonio nacional por su fachada gótica y su rosetón, así como por su interior, que guarda importantes obras como el busto de plata de San Pardo. Otras iglesias de la ciudad son la de San Francesco, de Santo Stefano y de Santa Maria della Pietà.La torre Galuppi, justo enfrente de la catedral, ha sido reforzada mediante planchas metálicas. La torre, que formaba parte de las construcciones defensivas de la ciudad, fue el campanario de un antiguo convento.El antiguo Palazzo Ducale (Palacio Ducal), probablemente un antiguo castillo normando, dejó de ser el ayuntamiento para convertirse en una prisión. El palacio ha sido repintado. Los muros exteriores alternan el gris blanquecino con el negro. Las piedras de las ventanas de los pisos superiores son de un color roja y crema y el nivel superior es de color amarillo. El edificio fue convertido en un hotel, el Albergo Moderno, pero fue abandonado.En Larino hay numerosos restos arqueológicos romanos como un anfiteatro y el foro de la antigua Larinum.DemografíaEvolución demográfica desde 1861   Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.3,0.5,0.7)ImageSize = width:500 height:373 PlotArea = left:60 bottom:30 top:20 right:20 DateFormat = x.y Period = from:0 till:9000 TimeAxis = orientation:vertical AlignBars = late ScaleMajor = gridcolor:darkgrey increment:5000 start:0 ScaleMinor = gridcolor:lightgrey increment:1000 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2006 text:2006PlotData= color:barra width:20 align:center bar:1861 from:5783 till: 0
+ bar:1871 from:5576 till: 0
+ bar:1881 from:6778 till: 0
+ bar:1901 from:7044 till: 0
+ bar:1911 from:7310 till: 0
+ bar:1921 from:6923 till: 0
+ bar:1931 from:7212 till: 0
+ bar:1936 from:7615 till: 0
+ bar:1951 from:8521 till: 0
+ bar:1961 from:6979 till: 0
+ bar:1971 from:6813 till: 0
+ bar:1981 from:7805 till: 0
+ bar:1991 from:8294 till: 0
+ bar:2001 from:7078 till: 0
+ bar:2006 from:8230 till: 0PlotData= bar:1861 at: 5783 fontsize:S text: 5.783 shift:(0,5)
+ bar:1871 at: 5576 fontsize:S text: 5.576 shift:(0,5)
+ bar:1881 at: 6778 fontsize:S text: 6.778 shift:(0,5)
+ bar:1901 at: 7044 fontsize:S text: 7.044 shift:(0,5)
+ bar:1911 at: 7310 fontsize:S text: 7.310 shift:(0,5)
+ bar:1921 at: 6923 fontsize:S text: 6.923 shift:(0,5)
+ bar:1931 at: 7212 fontsize:S text: 7.212 shift:(0,5)
+ bar:1936 at: 7615 fontsize:S text: 7.615 shift:(0,5)
+ bar:1951 at: 8521 fontsize:S text: 8.521 shift:(0,5)
+ bar:1961 at: 6979 fontsize:S text: 6.979 shift:(0,5)
+ bar:1971 at: 6813 fontsize:S text: 6.813 shift:(0,5)
+ bar:1981 at: 7805 fontsize:S text: 7.805 shift:(0,5)
+ bar:1991 at: 8294 fontsize:S text: 8.294 shift:(0,5)
+ bar:2001 at: 7078 fontsize:S text: 7.078 shift:(0,5)
+ bar:2006 at: 8230 fontsize:S text: 8.230 shift:(0,5)TextData= fontsize:S pos:(20,20)
+ text:Fuente ISTAT - Elaboración gráfica por Wikipedia. Enlaces externosLarino online (en italiano)La Festa di San Pardo (en italiano e inglés)Larino: The Miracle of the Molise (en inglés)Urp Larino, página no oficial de la ciudad (en italiano)Categoría:Localidades de la provincia de Campobassode:Larino en:Larino eo:Larino fr:Larino hu:Larino it:Larino ja:ラリーノ nap:Larino nl:Larino pl:Larino pt:Larino vi:Larino vo:Larino

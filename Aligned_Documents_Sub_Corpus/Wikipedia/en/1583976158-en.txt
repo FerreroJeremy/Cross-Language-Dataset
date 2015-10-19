@@ -1,0 +1,54 @@
+|
+ frazioni          = |
+ telephone         = 0922 |
+ postalcode        = 92012 |
+ gentilic          = Ciancianesi |
+ saint             = [[Saint Anthony from Padua]]|
+ day               = [[June 13]]|
+ mayor             = Salvatore Sanzeri|
+ website           = [http://www.cianciana.com/ www.cianciana.com] |
+ mapy = 13.4333 |
+ mapx = 37.5167 | Cianciana is a comune (municipality) in the Province of Agrigento in the Italian region Sicily, located in the middle valley of the Platani river, about 70&nbsp;km south of Palermo and about 25&nbsp;km northwest of Agrigento. The Monte Cammarata (1,579&nbsp;m), part of the Monti Sicani chain, is in the nearby. [[image:Zolfare- G. La Corte (2).jpg|thumb|left|An abandoned zolfara (sulfur mine) near Cianciana.]] Cianciana borders the following municipalities: Alessandria della Rocca, Bivona, Cattolica Eraclea, Ribera, Sant'Angelo Muxaro.HistoryAccording to local chronicles, a town known as La Ferla existed in the area in 1269. This was likely destroyed by an earthquake. Archaeological excavations have found traces of Roman temples and other constructions, including a "castle" called Casaletto di Chincana, whence the name given to the area in the feudal era of the Kingdom of Sicily.Cianciana itself was founded on October 4 1646 as Sant'Antonio di Cianciana, under the aegis of the Joppolo feudal family. In 1713 it had 2,303 inhabitants.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:8000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:500 start:0 ScaleMinor = gridcolor:lightgrey increment:100 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:4604
+ bar:1871 from: 0 till:4842
+ bar:1881 from: 0 till:5735
+ bar:1901 from: 0 till:7306
+ bar:1911 from: 0 till:7638
+ bar:1921 from: 0 till:6910
+ bar:1931 from: 0 till:6960
+ bar:1936 from: 0 till:7376
+ bar:1951 from: 0 till:7708
+ bar:1961 from: 0 till:7740
+ bar:1971 from: 0 till:5126
+ bar:1981 from: 0 till:5151
+ bar:1991 from: 0 till:5103
+ bar:2001 from: 0 till:4073PlotData= bar:1861 at:4604 fontsize:XS text: 4604 shift:(-8,5)
+ bar:1871 at:4842 fontsize:XS text: 4842 shift:(-8,5)
+ bar:1881 at:5735 fontsize:XS text: 5735 shift:(-8,5)
+ bar:1901 at:7306 fontsize:XS text: 7306 shift:(-8,5)
+ bar:1911 at:7638 fontsize:XS text: 7638 shift:(-8,5)
+ bar:1921 at:6910 fontsize:XS text: 6910 shift:(-8,5)
+ bar:1931 at:6960 fontsize:XS text: 6960 shift:(-8,5)
+ bar:1936 at:7376 fontsize:XS text: 7376 shift:(-8,5)
+ bar:1951 at:7708 fontsize:XS text: 7708 shift:(-8,5)
+ bar:1961 at:7740 fontsize:XS text: 7740 shift:(-8,5)
+ bar:1971 at:5126 fontsize:XS text: 5126 shift:(-8,5)
+ bar:1981 at:5151 fontsize:XS text: 5151 shift:(-8,5)
+ bar:1991 at:5103 fontsize:XS text: 5103 shift:(-8,5)
+ bar:2001 at:4073 fontsize:XS text: 4073 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal linksCianciana websiteCianciana Information website Category:Cities and towns in Sicilyde:Cianciana es:Cianciana eo:Cianciana fr:Cianciana id:Cianciana it:Cianciana lmo:Cianciana nl:Cianciana ja:チャンチャーナ nap:Cianciana pl:Cianciana pt:Cianciana scn:Cianciana (AG) vi:Cianciana vo:Cianciana

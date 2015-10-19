@@ -1,0 +1,12 @@
+' Ottrott ' is a village and commune in the Bas-Rhin département of north-eastern France. Located 30 km south-east of Strasbourg, as of 1999 it has a population of 1513.HistoryThe village was first mentioned in 1059, in Latin in the ordnance survey of Heinrich IV. The area rose to prominence in the 13th century when a number of castles were built. Many such as Château du Birkenfels stand but are in ruins today. It was built by Burkhard Berger, a vassal of the bishop of Strasbourg. The castle's position allowed surveillance of the old Roman road running from Mont Sainte-Odile to Champ du Feu and the valley of the Bruche.The castle belonged to the Berger family who ruled Ottrott until 1532, then power fell to the Mundolsheim family until the French Revolution. The castle fell into ruins after the Thirty Years' War and was taken over by the town of Obernai, becoming part of the continuous forest between Obernai and Bernardswiller.Demographic evolution ImageSize = width:250 height:200 PlotArea = left:40 right:10 top:10 bottom:20 TimeAxis = orientation:horizontal AlignBars = justify Colors = id:gray1 value:gray(0.9)DateFormat = yyyy Period = from:1960 till:2010 ScaleMajor = unit:year increment:10 start:1960PlotData = bar:2100 color:gray1 width:1       
+ from:start till:end             
+ bar:1400 color:gray1              
+ from:start till:end            
+ bar:700 color:gray1           
+ from:start till:end         
+ bar:0 color:gray1LineData = layer:front    
+ points:(48,104)(84,107) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 1043 1968: 1074
+ points:(84,107)(100,110)    color:blue    width:2 #1975: 1115
+ points:(100,110)(128,125)   color:blue    width:2 #1982: 1303
+ points:(128,125)(160,142)   color:blue    width:2 #1990: 1501
+ points:(160,142)(196,142)   color:blue    width:2 #1999: 1513GeographyNeighboring communes]]BœrschSaint-NaborNeuviller-la-RocheBarrLe HohwaldBernardswillerObernaiNotable landmarks and monumentsChâteau du Birkenfels, (13th century)Château de Dreistein, (13th century)Château de Hagelschloss, (13th century)Château de Kagenfels, (13th century)Château de KoepfelChâteau de Lutzelbourg, (13th century)Château de Rathsamhausen, (13th century - (15th century)Château de Windeck, (13th century - (14th century)Chapelle Saint Nicolas (17th century)Église Saints Simon et Jude, Built 1771.Mont Sainte-OdileSee alsoCommunes of the Bas-Rhin departmentExternal links Official websiteCategory:Communes of Bas-Rhinceb:Ottrott de:Ottrott es:Ottrott fr:Ottrott it:Ottrott nl:Ottrott pl:Ottrott pt:Ottrott vo:Ottrott

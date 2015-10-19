@@ -1,0 +1,37 @@
+ Le rio São Francisco est un important fleuve brésilien qui naît dans la Serra da Canastra dans le sud de l'État du Minas Gerais, à approximativement 1200 m d'altitude, traverse du sud au nord cet État puis celui de Bahia où il s'incurve à l'est et fait la frontière avec l'État du Pernambouc, puis il termine sa boucle vers le sud-est, séparant les États du Sergipe et de l'Alagoas. Enfin, il se jette dans l'océan Atlantique. Auparavant nommé « Opara », il a été rebaptisé en hommage à Saint-François d'Assise, fondateur de l'ordre des franciscains, très présents dans la région durant la période coloniale. Il est aussi connu sous les noms de Nil brésilien ou encore de fleuve de l'unité nationale. Ce dernier nom fait référence à l'union qu'il opère entre les deux plus importants groupes d'États brésiliens : les États industrialisés du sud-est et ceux agricoles du nord-est.Bassin du rio São FranciscoLe fleuve a une longueur totale de 3 160 km. Il draine une superficie de 617 812 km², plus étendue que la France et la Suisse réunies. Ses principaux affluents sont les rios Paraopeba, Abaeté, das Velhas, Jequitaí, Paracatu, Urucuia, Verde Grande, Carinhanha, Corrente et Grande. Ces rivières sont surtout originaires du sud du Minas Gerais où les précipitations sont nettement plus abondantes que plus au nord.Le débit moyen du rio São Francisco de plus de 3 000 mètres cubes par seconde, très irrégulier, est important, supérieur aux débits du Rhin à son embouchure, du Nil à Khartoum et aux Tigre et Euphrate réunis.Villes traverséesLes régions traversées par le fleuve sont vastes et peu peuplées, mais il y a quelques villes moyennes qui s'y sont installées. Depuis sa source le fleuve passe par Pirapora, São Francisco, Januária, Bom Jesus da Lapa, Xique-Xique, puis il baigne les villes jumelles de Petrolina et Juazeiro, enfin Paulo Afonso. Les zones baignées sont sèches et arides si bien que les autres cités sont petites et peu développées. Seule l'agglomération Petrolina-Juazeiro a bien prospéré. Ces deux cités sont importantes pour la production de fruits dans la région, liée à l'irrigation due au barrage de Sobradinho.Les débits à JuazeiroLe débit du fleuve a été observé pendant 66 ans (1929-1994) à Juazeiro, localité de l'état de Bahia située assez loin de son embouchure sur l'océan Sao Francisco Basin - Station: Juazeiro.À Juazeiro, le débit annuel moyen ou module observé sur cette période a été de 2.711 m³/seconde pour un territoire de 510.800 km², soit 82,6 % de la totalité du bassin versant du fleuve.Débits moyens mensuels du São Francisco (en m³/seconde) mesurés à la station hydrométrique de JuazeiroDonnées calculées sur 66 ans (1929-1994) Colors= id:lightgrey value:gray(0.8)
+ id:darkgrey  value:gray(0.3)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.8,0.9)ImageSize = width:600 height:250 PlotArea = left:40 bottom:40 top:20 right:20 DateFormat = x.y Period = from:0 till:5000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:lightgrey increment:500 start:0 BackgroundColors = canvas:sfondoBarData= bar:Jan text:Janvier
+ bar:Fév text:Février
+ bar:Mar text:Mars
+ bar:Avr text:Avril
+ bar:Mai text:Mai
+ bar:Jun text:Juin
+ bar:Jul text:Juillet
+ bar:Aoû text:Août
+ bar:Sep text:Sept.
+ bar:Oct text:Oct.
+ bar:Nov text:Nov.
+ bar:Déc text:Déc.PlotData= color:barra width:30 align:left bar:Jan from:0 till: 4240 
+ bar:Fév from:0 till: 4632 
+ bar:Mar from:0 till: 4453 
+ bar:Avr from:0 till: 3782 
+ bar:Mai from:0 till: 2509 
+ bar:Jun from:0 till: 1792 
+ bar:Jul from:0 till: 1575 
+ bar:Aoû from:0 till: 1459 
+ bar:Sep from:0 till: 1368 
+ bar:Oct from:0 till: 1448 
+ bar:Nov from:0 till: 2029 
+ bar:Déc from:0 till: 3242 PlotData= bar:Jan at: 4240 fontsize:S text: 4.240 shift:(-10,5)
+ bar:Fév at: 4632 fontsize:S text: 4.632 shift:(-10,5)
+ bar:Mar at: 4453 fontsize:S text: 4.453 shift:(-10,5)
+ bar:Avr at: 3782 fontsize:S text: 3.782 shift:(-10,5)
+ bar:Mai at: 2509 fontsize:S text: 2.509 shift:(-10,5)
+ bar:Jun at: 1792 fontsize:S text: 1.792 shift:(-10,5)
+ bar:Jul at: 1575 fontsize:S text: 1.575 shift:(-10,5)
+ bar:Aoû at: 1459 fontsize:S text: 1.459 shift:(-10,5)
+ bar:Sep at: 1368 fontsize:S text: 1.368 shift:(-10,5)
+ bar:Oct at: 1448 fontsize:S text: 1.448 shift:(-10,5)
+ bar:Nov at: 2029 fontsize:S text: 2.029 shift:(-10,5)
+ bar:Déc at: 3242 fontsize:S text: 3.242 shift:(-10,5) NavigationLes sections navigables sont situées dans le cours moyen et inférieur du fleuve. La plus longue d'entre elles, entre Pirapora e Juazeiro-Petrolina, est longue de 1 371 km. La première sous-section, qui va de Pirapora au sud (au Minas Gerais) à l'extrémité amont du réservoir de Sobradinho, c'est-à-dire près de la ville de Xique-Xique (Bahia), a 1 074 km d'extension. La navigation y est du ressort de la société FRANAVE.Les principales marchandises transportées sur le fleuve sont le ciment, le sel, le sucre, le riz, le soja, les produits manufacturés divers, le bois et surtout le gypse. Sur les sections navigables s'exerce aussi le transport de touristes sur des embarcations adéquates.SourcesCertaines infos sont recueillies de http://www.transportes.gov.br.Municipes du bassin du São Francisco http://www.valedosaofrancisco.com.br/Municipios/DivisaoPolitica-MG.aspTransfert des eaux vers d'autres bassins fluviauxL'abondance du débit du fleuve en contraste avec la pauvreté en eau de divers états du nord-est du pays est à la base de projet de détournement des eaux vers d'autres bassins fluviaux, et ce depuis le règne de l'Empereur Dom Pedro II.RéférencesVoir aussiListe de fleuves dans le mondeTransfert des eaux du Rio São Francisco.Sao Francisco Sao Francisco Sao Francisco Sao Francisco Sao Franciscoca:Riu São Francisco cs:São Francisco da:Rio São Francisco de:Rio São Francisco en:São Francisco River es:Río São Francisco eu:Sao Francisco gl:Río São Francisco he:סאו פרנסיסקו (נהר) hr:São Francisco (rijeka) it:São Francisco (fiume) ja:サンフランシスコ川 lt:San Fransiskas (upė) nl:São Francisco (rivier) no:São Francisco (elv) pl:São Francisco pt:Rio São Francisco ru:Сан-Франсиску simple:São Francisco River sr:Сао Франсиско (река) th:แม่น้ำเซาฟรังซีสกู uk:Сан-Франсиску (річка) zh:聖弗朗西斯科河

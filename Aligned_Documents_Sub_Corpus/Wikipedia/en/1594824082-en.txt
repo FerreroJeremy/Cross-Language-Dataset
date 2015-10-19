@@ -1,0 +1,54 @@
+|
+ frazioni          = Ara, Bertolotto, Bovagliano, Ca' Marietta, Carola, Garodino, Pianaccia, Torchio, Sagliaschi, Isella |
+ telephone         = 0163 |
+ postalcode        = 28075 |
+ gentilic          = grignaschesi |
+ saint             = |
+ day               = |
+ mayor             = |
+ website           = [http://www.comune.grignasco.no.it www.comune.grignasco.no.it] |
+ mapy = 8.3333 |
+ mapx = 45.6833 | Grignasco is a comune (municipality) in the Province of Novara in the Italian region Piedmont, located about 80 km northeast of Turin and about 35 km northwest of Novara. As of 31 December 2004, it had a population of 4,803 and an area of 14.6 km².All demographics and other statistics: Italian statistical institute Istat.The municipality of Grignasco contains the frazioni (subdivisions, mainly villages and hamlets) Ara, Bertolotto, Bovagliano, Ca' Marietta, Carola, Garodino, Pianaccia, Torchio, Sagliaschi, and Isella.Grignasco borders the following municipalities: Boca, Borgosesia, Prato Sesia, Serravalle Sesia, and Valduggia.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:5000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:2224
+ bar:1871 from: 0 till:2372
+ bar:1881 from: 0 till:2474
+ bar:1901 from: 0 till:3007
+ bar:1911 from: 0 till:3434
+ bar:1921 from: 0 till:3497
+ bar:1931 from: 0 till:3708
+ bar:1936 from: 0 till:3896
+ bar:1951 from: 0 till:4320
+ bar:1961 from: 0 till:4710
+ bar:1971 from: 0 till:4717
+ bar:1981 from: 0 till:4621
+ bar:1991 from: 0 till:4724
+ bar:2001 from: 0 till:4704PlotData= bar:1861 at:2224 fontsize:XS text: 2224 shift:(-8,5)
+ bar:1871 at:2372 fontsize:XS text: 2372 shift:(-8,5)
+ bar:1881 at:2474 fontsize:XS text: 2474 shift:(-8,5)
+ bar:1901 at:3007 fontsize:XS text: 3007 shift:(-8,5)
+ bar:1911 at:3434 fontsize:XS text: 3434 shift:(-8,5)
+ bar:1921 at:3497 fontsize:XS text: 3497 shift:(-8,5)
+ bar:1931 at:3708 fontsize:XS text: 3708 shift:(-8,5)
+ bar:1936 at:3896 fontsize:XS text: 3896 shift:(-8,5)
+ bar:1951 at:4320 fontsize:XS text: 4320 shift:(-8,5)
+ bar:1961 at:4710 fontsize:XS text: 4710 shift:(-8,5)
+ bar:1971 at:4717 fontsize:XS text: 4717 shift:(-8,5)
+ bar:1981 at:4621 fontsize:XS text: 4621 shift:(-8,5)
+ bar:1991 at:4724 fontsize:XS text: 4724 shift:(-8,5)
+ bar:2001 at:4704 fontsize:XS text: 4704 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTAT ReferencesExternal linkswww.comune.grignasco.no.it  Category:Cities and towns in Piedmont de:Grignasco es:Grignasco eo:Grignasco fr:Grignasco id:Grignasco it:Grignasco nl:Grignasco ja:グリニャスコ nap:Grignasco pms:Grignasch pl:Grignasco pt:Grignasco vi:Grignasco vo:Grignasco

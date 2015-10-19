@@ -1,0 +1,476 @@
+hello world (traduit literalemment en français par bonjour le monde) sont les mots traditionnellement écrits par un programme informatique simple dont le but est de faire la démonstration rapide d'un langage de programmation (par exemple à but pédagogique) ou le test d'un compilateur.Certains des programmes imprimant ces mots sont étonnamment complexes, particulièrement dans un contexte d'interface graphique. D'autres sont très simples, particulièrement ceux qui utilisent un interpréteur de ligne de commande pour afficher le résultat. Dans plusieurs systèmes embarqués, le texte peut être envoyé sur une ou deux lignes d'un afficheur LCD (ou dans d'autres systèmes, une simple DEL peut se substituer à un hello world).HistoriqueAlors que les petits programmes de test existaient depuis le début de la programmation, la tradition d'utiliser hello world comme message de test a été influencée par le livre The C Programming Language de Brian Kernighan et Dennis Ritchie. Le premier exemple de ce livre affiche hello, world (sans majuscule ni point final, mais avec une virgule et un retour à la ligne final). Le premier hello world dont Ritchie et Kernighan se souviennent provient d'un manuel d'apprentissage du langage B écrit par Kernighan http://cm.bell-labs.com/cm/cs/who/dmr/bintro.html.Aujourd'hui on affiche plus souvent Hello world! comme une phrase, avec majuscule et point d'exclamation final.Le programme ''Hello world!'' suivant les langages[[ABC (langage)|ABC]]WRITE &quot;Hello world!&quot;[[ActionScript#actionscript_3.0|ActionScript 3.0]]trace(&quot;Hello world!&quot;);&lt;source lang=&quot;actionscript&quot;&gt;var champ:TextField = new TextField(); champ.text = "Hello World !"; this.addChild(champ); [[Ada (langage)|Ada]]with Ada.Text_IO;
+use Ada.Text_IO;procedure Bonjour is
+begin -- Bonjour
+  Put(&quot;Hello world!&quot;);
+end Bonjour;AlmaHello world!AmigaEPROC main()
+  WriteF('Hello world!')
+ENDPROC[[APL (langage)|APL]]'Hello world!'[[AppleScript]]display dialog &quot;Hello world!&quot;[[Active server pages|ASP]] et ASP.NET&lt;%
+Response.Write(&quot;Hello World&quot;)
+%&gt;AspectJ Main.java:   public class Main 
+   HelloWorld.aj:   public aspect HelloWorld 
+   Assembleur de [[Bytecode Java]]Ce code fonctionne avec les assembleurs Jasmin et Oolong.    .class public Hello
+   .super java/lang/Object   ; spécification du constructeur par défaut
+   .method public &lt;init&gt;();
+       ; pousse la référence à l'objet courant sur la pile
+       aload_0 
+       ; appel statiquement lié aux constructeurs de la classe de base
+       invokespecial java/lang/Object/&lt;init&gt;()V
+       return
+   .end method   .method public static main([java/lang/String;)V
+      .limit stack 2
+      ; pousse la réf. à l'objet statique out de la classe System sur la pile
+      getstatic java/lang/System/out Ljava/io/PrintStream
+      ; pousse la chaîne de caractère sur la pile
+      ldc &quot;Hello world!&quot; 
+      ; appel polymorphe
+      invokevirtual java/io/PrintStream/println(Ljava.lang.String;)V
+      return
+   .end method[[Programme assembleur|Assembleur x86]] sous DOScseg segment
+assume cs:cseg, ds:cseg
+org 100h	
+main proc	
+jmp debut
+mess db 'Hello world!$'
+debut:
+mov dx, offset mess
+mov ah, 9
+int 21h
+ret
+main endp	
+cseg ends
+end main[[Programme assembleur|Assembleur x86]], écrit pour l'assembleur [[TASM]] sous DOS.model small.stack 100h.data
+   bonjour  db  &quot;Hello world!$&quot;.code
+   main  proc
+       mov  AX,@data
+       mov  DS, AX
+       mov  DX, offset bonjour
+       mov  AX,0900h
+       int  21h
+       mov  AX,4C00h
+       int  21h
+       main endp
+   end main[[Programme assembleur|Assembleur x86]], sous Linux, écrit pour l'assembleur [[NASM]]section .data
+       helloMsg:     db 'Hello world!',10 
+       helloSize:    equ $-helloMsg
+section .text
+       global _start
+_start:
+       mov eax,4             ; Appel système &quot;write&quot; (sys_write)
+       mov ebx,1             ; File descriptor, 1 pour STDOUT (sortie standard)
+       mov ecx, helloMsg     ; Adresse de la chaîne a afficher
+       mov edx, helloSize    ; Taille de la chaîne
+       int 80h               ; Execution de l'appel système
+                             ; Sortie du programme
+       mov eax,1             ; Appel système &quot;exit&quot;
+       mov ebx,0             ; Code de retour
+       int 80h[[Awk]]!/usr/bin/awk -fBEGIN [[BASIC]] 10 PRINT "Hello world!" 20 END Noter que les étiquettes (numéros devant les lignes) ne sont plus nécessaires dans les versions modernes (BBC BASIC for Windows, Quick Basic, Turbo Basic, QBasic, Visual Basic...). Elles ne sont plus utilisées que pour les instructions de contrôle de flux (les boucles et les sauts, notamment le GOTO et le GOSUB).[[Bourne-Again shell|Bash]]!/bin/bashecho 'Hello world' [[BCPL]]GET &quot;LIBHDR&quot;
+&amp;nbsp;
+LET START () BE
+$(
+   WRITES (&quot;Hello world!*N&quot;)
+$)[[Befunge]]&lt;q_,#! #:&lt;&quot;Hello world!&quot;a[[Brainfuck]]++++++++++&gt;+++++++&gt;++++++++++&gt;+++&gt;+&lt;&lt;&lt;&lt;-++.+.+++++++..+++.++..+++.------.--------.+..[[C (langage)|C]]include include /* C99 : le prototype de main est normalisé */ int main (int argc, char * argv[], char * envp[]) &lt;/source&gt;En utilisant uniquement des fonctions POSIX : include include int main(int argc, char* argv[])  [[C (langage)|C]] (uniquement sous windows, API Win32)include int WinMain( HINSTANCE hInstance, HINSTANCE hPrevInstance, LPWSTR lpCmdLine, int nCmdShow )  [[C (langage)|C]] (uniquement sur [[PlayStation Portable|PSP]])include include PSP_MODULE_INFO("Hello World", 0, 1, 1);define printf pspDebugScreenPrintf/* Exit callback */ int exit_callback(int arg1, int arg2, void *common) /* Callback thread */ int CallbackThread(SceSize args, void *argp) /* Sets up the callback thread and returns its thread id */ int SetupCallbacks(void)    return thid;int main()  [[C sharp|C#]] (en Console)using System;public class HelloWorld 
+[[C sharp|C#]] (Application Windows)using System.Windows.Forms;public class HelloWorld
+
+[[C++]]include int main()  [[Caml]]print_string(&quot;Hello world!&quot;);;Ou(* Fichier hello.ml*)
+let hello () =
+  print_string(&quot;Hello world!&quot;);
+  print_newline();;
+let main () =
+  hello();
+  exit(0);;
+main();;Casio (calculatrices graphiques de la gamme «Graph xx»)&quot;Hello world!&quot; ou : Locate 1,1,&quot;Hello world!&quot;ou encore :  Text 1,1,"Hello world!" [[C Intermediate Language|CIL]].method public static void Main() cil managed
+Cleanmodule hello
+&amp;nbsp;
+Start :: String
+Start = &quot;Hello world!&quot;[[CLIST]]PROC 0
+WRITE Hello world![[COBOL]]IDENTIFICATION DIVISION.
+PROGRAM-ID. HELLO-WORLD.
+&amp;nbsp;
+ENVIRONMENT DIVISION.
+&amp;nbsp;
+DATA DIVISION.
+&amp;nbsp;
+PROCEDURE DIVISION.
+DISPLAY &quot;Hello world!&quot;.
+STOP RUN.[[Common Lisp]](princ &quot;Hello world!&quot;)[[D (langage)|D]] import std.stdio;int main ()  [[Delphi (informatique)|Delphi]]unit Unit1;interfaceuses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs;type
+  TForm1 = class(TForm)
+    procedure FormActivate(Sender: TObject);
+  private
+    
+  public
+    
+ end;var
+  Form1: TForm1;implementationprocedure TForm1.FormActivate(Sender: TObject);
+begin
+  ShowMessage('Hello world');
+end;end.ou en console : program hello_world;uses SysUtils;begin writeln('Hello world!');
+ readln;end.=== Dialog/Xdialog ===dialog --title 'Hello world!' --ok-label 'OK' --msgbox 'Hello world!' 0 0
+Xdialog --title 'Hello world!' --ok-label 'OK' --msgbox 'Hello world!' 0 0
+kdialog --title 'Hello world!'  --msgbox 'Hello world!' 0 0DCL batch$ write sys$output &quot;Hello world!&quot;[[ed (logiciel)|ed]] et [[Ex (logiciel)|ex]] (Ed extendu)a
+Hello world!
+.
+pou comme ceci:echo -e 'a\nHello world!\n.\np'|ed
+echo -e 'a\nHello world!\n.\np'|ex[[Eiffel (langage)|Eiffel]]class HELLO_WORLDcreation
+    makefeature
+    make is
+        do
+            io.put_string(&quot;Hello world!%N&quot;)
+        end -- makeend -- class HELLO_WORLD[[Erlang (langage)|Erlang]]-module(hello).
+-export([hello_world/0]).
+&amp;nbsp;
+hello_world() -&gt; io:fwrite(&quot;Hello world!\n&quot;).EUPHORIAputs(1, &quot;Hello world!&quot;)Forte TOOLbegin TOOL HelloWorld;
+&amp;nbsp;
+  includes Framework;
+  HAS PROPERTY IsLibrary = FALSE;
+&amp;nbsp;
+  forward  Hello;
+&amp;nbsp;
+  -- START CLASS DEFINITIONS
+&amp;nbsp;
+  class Hello inherits from Framework.Object
+&amp;nbsp;
+  has public method Init;
+&amp;nbsp;
+  has property
+       shared=(allow=off, override=on);
+       transactional=(allow=off, override=on);
+       monitored=(allow=off, override=on);
+       distributed=(allow=off, override=on);
+&amp;nbsp;
+  end class;
+   -- END CLASS DEFINITIONS
+&amp;nbsp;
+   -- START METHOD DEFINITIONS
+&amp;nbsp;
+   ------------------------------------------------------------
+   method Hello.Init
+   begin
+   super.Init();
+&amp;nbsp;
+   task.Part.LogMgr.PutLine('Hello world!');
+   end method;
+   -- END METHOD DEFINITIONS
+   HAS PROPERTY
+       CompatibilityLevel = 0;
+       ProjectType = APPLICATION;
+       Restricted = FALSE;
+       MultiThreaded = TRUE;
+       Internal = FALSE;
+       LibraryName = 'hellowor';
+       StartingMethod = (class = Hello, method = Init);
+&amp;nbsp;
+   end HelloWorld;[[Forth (langage)|Forth]].&quot; Hello world!&quot; CR=== Fortran (ANSI 77) ===PROGRAM BONJOUR
+WRITE (*,*) 'Hello world!'
+ENDFrink   println[&quot;Hello world!&quot;][[Gambas (langage)|Gambas]]   PUBLIC SUB Main()
+&amp;nbsp;
+     Print &quot;Hello world!&quot;
+&amp;nbsp;
+   END[[Game Maker Language|GML]] (Game Maker Language)   draw_text(x, y,&quot;Hello world!&quot;);[[Gnuplot]]#! /usr/bin/gnuplot
+print &quot;hello world&quot;GOTO++   GOTOPRINTDUTEXTE() ; «Hello world!»[[Grails (technologie)|Grails]]   class HelloWorldController 
+   [[Graphviz]]echo &quot;digraph G &quot; | dot -Tpng &gt;hello.png[[Groovy (langage)|Groovy]]   print &quot;hello world&quot;[[Haskell]]   module HelloWorld (main) where
+&amp;nbsp;
+   main = putStrLn &quot;Hello world!&quot;Heron program HelloWorld;
+ functions 
+ 
+ end[[HP-41]] et HP-42S(calculatrice Hewlett-Packard alphanumérique)&amp;nbsp;
+   01 LBL&lt;sup&gt;T&lt;/sup&gt;HELLO
+   02 &lt;sup&gt;T&lt;/sup&gt;HELLO, WORLD
+   03 PROMPT&lt;sup&gt; &lt;/sup&gt;HP-40 G(calculatrice Hewlett-Packard)DISP 1;&quot;HELLO WORLD !&quot;:
+FREEZE:[[Hypertext Markup Language|HTML]]    Afficher «Hello world»  Hello World   [[Extensible HyperText Markup Language|XHTML]] 1.0 Strict    Afficher «Hello world» en XHTML 1.0 Strict  Hello world!  [[ICON]]   procedure main()
+     write(&quot;Hello World !&quot;)
+   end[[Inform]] 7 "Hello World" by "Anonymous"Earth is a room. The description of Earth is "Hello World!"When play begins: say "Bonjour tout le monde !" Iptscrae   ON ENTER [[Io (langage)|Io]]   &quot;Hello world!&quot; printou   write(&quot;Hello world!\n&quot;)[[Java (langage)|Java]]Note: Le nom du fichier doit absolument être HelloWorld.java (même nom que la classe)  public class HelloWorld   ou  public class HelloWorld  [[JavaScript]] / HTML DOMEn javascript :&lt;source lang=&quot;javascript&quot;&gt;document.write("Hello world!"); Cela peut être inclus dans du HTML de cette manière :&lt;source lang=&quot;html4strict&quot;&gt;	document.write(&quot;Hello world!&quot;);
+&lt;/script&gt;Ou par l'appel à une fonction :&lt;script type=&quot;text/javascript&quot;&gt;alert("Hello world!");&lt;/script&gt;Kogut   WriteLine &quot;Hello world!&quot;Langage machine (écrit en hexadécimal)BA1001B409CD2130E4CD16B8004CCD2148656C6C6F20576F726C642124[[LaTeX]]   \documentclass
+   \begin
+   Hello world!
+   \end[[Linotte (langage)|Linotte]]Livre : HelloWorld
+ Paragraphe : Affichage
+ Les actions :
+   &quot;Hello, World !&quot; ![[Lisaac]]section HEADER
+  + name        := HELLO_WORLD;
+  - category    := MACRO;
+section INHERIT
+  - parent_object:OBJECT := OBJECT;
+section PUBLIC
+  - make &lt;-
+  ( 
+    &quot;Hello world !\n&quot;.print;
+  );[[Lisp]]   (write-line &quot;Hello World!&quot;)[[Logo (langage)|Logo]]   print [Hello world!]ou   pr [Hello world!]en mswlogo seulement   &lt;nowiki&gt;messagebox [Hi] [Hello world!]&lt;/nowiki&gt;[[LOLCODE]]   HAI
+   CAN HAS STDIO?
+   VISIBLE &quot;HAI WORLD!&quot;
+   KTHXBYE[[Lua]]   screen:print &quot;Hello world!&quot;[[Lua]] sur PSP red = Color.new(255, 0, 0) --declaration de la couleur rougewhile true do --commencement de la boucle screen:clear()--on efface l'ecran screen.flip()--on actualise l'ecranscreen:print(00,10,"Hello World",red)--on affiche le texte "Hello World" en position  screen.waitVblankStart()--on attend l'instruction suivante (dans ce cas la on laisse afficher le texte indefiniment)screen.flip()--on actualise l'ecran end --fin de la boucle [[Malbolge]] (=&lt;`:9876Z4321UT.-Q+*)M'&amp;%$H&quot;!~|Bzy?=|/.zHGwEDCBA@98\6543W10/.R,+O&lt;[[MATLAB]]   disp('Hello world'); ou    fprintf('Hello world\n');[[METAFONT (langage)|METAFONT]] message "Hello world!"; bye [[MIRC#Langage de script|mIRC Script]]   echo -a Hello World!M (MUMPS)   W &quot;Hello world!&quot;Modula-2   MODULE Hello;
+&amp;nbsp;
+   FROM Terminal2 IMPORT WriteLn, WriteString;
+&amp;nbsp;
+   BEGIN
+      WriteString(&quot;Hello world!&quot;);
+      WriteLn;
+   END Hello.MS-DOS batchUtilisé avec l'interpreteur standard command.com. Le symbole  est optionnel et évite au système de répéter la commande avant de l'exécuter. Le symbole doit être enlevé avec les versions de MS-DOS antérieures au 5.0. @echo Hello world!    pause&lt;/source&gt;MUF   : main
+     me @ &quot;Hello world!&quot; notify
+   ;[[Objective C]]  &lt;source lang=&quot;objc&quot;&gt;#import &lt;Foundation/Foundation.h&gt;   int main ()  [[Objective Caml]]Cf. Caml. Cet exemple vaut aussi pour le F#. let _ = print_endline &quot;Hello world&quot;Octave#!/usr/bin/octave
+disp(&quot;hello world&quot;)[[Brainfuck#Ook!|Ook]]Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook. Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook! Ook! Ook? Ook! Ook. Ook? Ook. Ook. Ook. Ook. Ook! Ook. Ook. Ook? Ook. Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. Ook. Ook? Ook. Ook. Ook. Ook. Ook! Ook. Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. Ook. Ook? Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook. Ook. Ook? Ook. Ook. Ook! Ook. Ook. Ook? Ook! Ook.[[OpenLaszlo]]   &lt;nowiki&gt;
+       &lt;canvas&gt;
+           &lt;text&gt;Hello world&lt;/text&gt;
+       &lt;/canvas&gt;
+   &lt;/nowiki&gt;[[OPL]]   PROC hello:
+     PRINT &quot;Hello world!&quot;
+   ENDPOPS5   (object-class request
+            ^action)
+&amp;nbsp;
+   (startup
+      (strategy MEA)
+      (make request ^action hello)
+   )
+&amp;nbsp;
+&amp;nbsp;
+   (rule hello
+      (request ^action hello)
+      --&gt;
+        (write |Hello world!| (crlf))
+   )[[Oz (langage)|Oz]][[Pascal (langage)|Pascal]]PROGRAM salutation;begin    writeln('hello world');end. [[Portable Document Format|PDF]]%PDF-1.3
+1 0 obj
+  &lt;&lt; /Type /Catalog
+     /Outlines 2 0 R
+     /Pages 3 0 R
+  &gt;&gt;
+endobj2 0 obj
+  &lt;&lt; /Type /Outlines
+     /Count 0
+  &gt;&gt;
+endobj3 0 obj
+  &lt;&lt; /Type /Pages
+     /Kids [4 0 R]
+     /Count 1
+  &gt;&gt;
+endobj4 0 obj
+  &lt;&lt; /Type /Page
+     /Parent 3 0 R
+     /MediaBox [0 0 612 792]
+     /Contents 5 0 R
+     /Resources &lt;&lt; /ProcSet 6 0 R
+                   /Font &lt;&lt; /F1 7 0 R &gt;&gt;
+                &gt;&gt;
+&gt;&gt;
+endobj5 0 obj
+  &lt;&lt; /Length 73 &gt;&gt;
+stream
+  BT
+    /F1 24 Tf
+    100 100 Td
+    (Hello World) Tj
+  ET
+endstream
+endobj6 0 obj
+  [/PDF /Text]
+endobj7 0 obj
+  &lt;&lt; /Type /Font
+     /Subtype /Type1
+     /Name /F1
+     /BaseFont /Helvetica
+     /Encoding /MacRomanEncoding
+  &gt;&gt;
+endobjxref
+0 8
+0000000000 65535 f
+0000000009 00000 n
+0000000074 00000 n
+0000000120 00000 n
+0000000179 00000 n
+0000000364 00000 n
+0000000466 00000 n
+0000000496 00000 ntrailer
+  &lt;&lt; /Size 8
+     /Root 1 0 R
+  &gt;&gt;
+startxref
+625
+%%EOF[[Perl (langage)|Perl]]#!/usr/bin/perl 
+print &quot;Hello world!\n&quot;;[[Perl 6]] et 5.10 say &quot;Hello world&quot;;[[PHP: Hypertext Preprocessor|PHP]]  ou  ou (version printf() du c)  et encore (en version raccourcie)  [[Piet]]  en langage Piet]]   . . . . . . . . . . . . . [[PlanFacile]]start#messageou pour les amateurs d'IOCCCdefine#defineH#define!#e#define#1#2w#define#define#define#start#define [[PL/I]]hello: procedure options(main);
+       display ('Hello world!');
+       /* Ou, variante : put skip list ('Hello world!'); */
+       end hello;[[PL/SQL]]   SET SERVEROUTPUT ON
+   BEGIN
+   DBMS_OUTPUT.PUT_LINE('Hello world!');
+   END;[[PL/PGSQL]]   CREATE FUNCTION hello_world() RETURNS VOID AS $$
+   BEGIN
+   	RAISE NOTICE 'Hello World';
+   END
+   $$ LANGUAGE 'plpgsql' VOLATILE;POP-11   'Hello world!' =&gt;[[POV-Ray]] #include &quot;colors.inc&quot;
+ camera 
+ light_source 
+ text 
+ === PostScript ===%!PS
+100 /Helvetica findfont exch scalefont setfont
+10 300 moveto
+(Hello, world !) show
+showpagePROC (langage de commande [[Pick (système d'exploitation)|Pick]])001 PQ
+002 C Affiche 'Hello, world !' à l'écran
+003 OHello, world !
+004 X[[Prolog]]   :- write('Hello world!'), nl.[[Pseudo-code]]output Hello world![[PureBasic]]   OpenConsole()
+   PrintN(&quot;Hello World!&quot;)[[Python (langage)|Python]]   print &quot;Hello world!&quot;ou depuis version 3.0:   print (&quot;Hello world!&quot;)[[Rebol]]   print &quot;Hello world!&quot;[[REXX]], NetRexx, et Object REXX  say &quot;Hello world!&quot;ou:  say 'Hello world!'[[Générateur automatique de programmes|RPG]]==== Syntaxe libre ====      /FREE         DSPLY 'Hello, world!';         *InLR = *On;     /END-FREE  ==== Syntaxe traditionnelle ==== Avec cette syntaxe, une constante doit être utilisée car seules les positions 12 à 25 peuvent être utilisées pour contenir le message.     d TestMessage     c                   Const( 'Hello, world!' )    c     TestMessage   DSPLY    c                   EVAL      *InLR = *On[[RPL]](Sur les calculatrices Hewlett-Packard HP-28, HP-48 et HP-49.)   &lt;&lt;
+     CLLCD
+     &quot;Hello world!&quot; 1 DISP
+     0 WAIT
+     DROP
+   &gt;&gt;[[Ruby]]   puts &quot;Hello world!&quot;[[Ruby on Rails]]   render :text =&gt; &quot;Hello, world!&quot;[[Sather]]   class HELLO_WORLD is
+     main is 
+      #OUT+&quot;Hello world!\n&quot;; 
+     end; 
+   end;[[Scala (langage)|Scala]]   object HelloWorld with Application [[Scilab]]   disp(&quot;Hello World&quot;);[[Scheme]]   (display &quot;Hello world!&quot;)
+   (newline)[[sed (logiciel)|sed]]   sed -ne '1s/.*/Hello world!/p'ou  sed &quot;i\Hello World" Seed7$ include &quot;seed7_05.s7i&quot;;const proc: main is func
+  begin
+    writeln(&quot;Hello world!&quot;);
+  end func;[[Self (langage)|Self]]   'Hello world!' print.SPL ([[Shakespeare Programming Language]]) The Infamous Hello World Program.Romeo, a young man with a remarkable patience. Juliet, a likewise young woman of remarkable grace. Ophelia, a remarkable woman much in dispute with Hamlet. Hamlet, the flatterer of Andersen Insulting A/S.                   Act I: Hamlet's insults and flattery.                   Scene I: The insulting of Romeo.Hamlet and RomeoHamlet:You lying stupid fatherless big smelly half-witted coward!
+You are as stupid as the difference between a handsome rich brave
+hero and thyself! Speak your mind!You are as brave as the sum of your fat little stuffed misused dusty
+old rotten codpiece and a beautiful fair warm peaceful sunny summer's
+day. You are as healthy as the difference between the sum of the
+sweetest reddest rose and my father and yourself! Speak your mind!You are as cowardly as the sum of yourself and the difference
+between a big mighty proud kingdom and a horse. Speak your mind.Speak your mind!Romeo                   Scene II: The praising of Juliet.JulietHamlet:Thou art as sweet as the sum of the sum of Romeo and his horse and his
+black cat! Speak thy mind!Juliet                   Scene III: The praising of Ophelia.OpheliaHamlet:Thou art as lovely as the product of a large rural town and my amazing
+bottomless embroidered purse. Speak thy mind!Thou art as loving as the product of the bluest clearest sweetest sky
+and the sum of a squirrel and a white horse. Thou art as beautiful as
+the difference between Juliet and thyself. Speak thy mind!Ophelia and Hamlet                   Act II: Behind Hamlet's back.                   Scene I: Romeo and Juliet's conversation.Romeo and JulietRomeo:Speak your mind. You are as worried as the sum of yourself and the
+difference between my small smooth hamster and my nose. Speak your
+mind!Juliet:Speak YOUR mind! You are as bad as Hamlet! You are as small as the
+difference between the square of the difference between my little pony
+and your big hairy hound and the cube of your sorry little
+codpiece. Speak your mind!Romeo                   Scene II: Juliet and Ophelia's conversation.OpheliaJuliet:Thou art as good as the quotient between Romeo and the sum of a small
+furry animal and a leech. Speak your mind!Ophelia:Thou art as disgusting as the quotient between Romeo and twice the
+difference between a mistletoe and an oozing infected blister! Speak
+your mind!Exeunt [[Shell Unix]]   #!/bin/sh
+   echo &quot;Hello world!&quot;[[Simula]]   BEGIN
+       outtext(&quot;Hello World!&quot;);
+       outimage;
+   END;Silscript    Intr-aff-Stop-aff-[[Smalltalk]]   &lt;source lang=&quot;smalltalk&quot;&gt;Transcript show: 'Hello world!'&lt;/source&gt;Ou   &lt;source lang=&quot;smalltalk&quot;&gt; self inform: 'Hello world!'&lt;/source&gt;SML   print &quot;Hello world!\n&quot;;[[SNOBOL]]       OUTPUT = &quot;Hello world!&quot;
+   END[[Structured Query Language|SQL]]   create table MESSAGE (TEXT char(15));
+   insert into MESSAGE (TEXT) values ('Hello world!');
+   select TEXT from MESSAGE;
+   drop table MESSAGE;Ou (ex : en Oracle)   select 'Hello world!' from dual;Ou (ex en: MySQL )   select 'Hello world!';Ou, plus simplement   print 'Hello world!.' Ou (pour le KB-SQL)    select Null from DATA_DICTIONARY.SQL_QUERY   FOOTER ''or HEADER or DETAIL or FINAL event''
+   write &quot;Hello world!&quot;STARLET   RACINE: HELLO_WORLD.   NOTIONS:
+   HELLO_WORLD : ecrire(&quot;Hello world!&quot;).TACL   #OUTPUT Hello world![[Tool Command Language|Tcl]]   puts &quot;Hello world!&quot;[[Tool Command Language|Tcl/Tk]]   pack [button .b -text &quot;Hello world!&quot; -command exit][[TeX]]   Hello world!
+   \bye[[Turbo Pascal]] program Hello_World;  begin writeln('Hello World'); 
+ readln; end. Turing   put &quot;Hello world!&quot;TSQL   Declare @Output varchar(16)
+   Set @Output='Hello world!'
+   Select @Outputou, variation plus simple:   Select 'Hello world!'
+   Print 'Hello world!'[[TI-59]]Texas Instruments TI 58, TI 58C, TI 59 : Ce code imprime HELLO WORLD! sur l'imprimante thermique000 69 OP 
+001 00 00    ''efface la ligne''
+002 02  2 
+003 03  3    H
+004 01  1 
+005 07  7    E
+006 69 OP 
+007 01 01    ''dans la zone de gauche''
+008 02  2    
+009 07  7    L
+010 02  2 
+011 07  7    L
+012 03  3 
+013 02  2    O
+014 00  0 
+015 00  0    espace
+016 04  4 
+017 03  3    W
+018 69 OP 
+019 02 02    ''dans la zone milieu-gauche''
+020 03  3 
+021 02  2    O
+022 03  3 
+023 05  5    R
+024 02  2 
+025 07  7    L
+026 01  1 
+027 06  6    D
+028 07  7 
+029 03  3    !
+030 69 OP 
+031 03 03    ''dans la zone milieu-droit''
+032 69 OP 
+033 05 05    ''imprime la ligne''
+034 91 R/S   ''arrêt du programme''ou avec le TI Compiler (voir page sur la TI-59):ClrLine
+   &quot;HE     &lt;&lt;line
+   &quot;LLO_W  &lt;line
+   &quot;ORLD!  line&gt;
+PrtLine
+R/S[[TI-Basic]]Ti 80 à Ti 92 :Disp "Hello world!"Remarque : les guillemets de fermeture ne sont pas indispensables Disp "Hello World! ouOutput(X,Y,"Hello world!")ou plus simplement : Output(X,Y,"Hello World! Où X représente la ligne et Y la colonne.[[Vala (langage de programmation)|Vala]]public class HelloWorld
+
+[[Verilog]]module main;
+ initial
+   begin
+     $display(&quot;Hello, world&quot;);
+     $finish ;
+   end
+endmodule[[Very High Speed Integrated Circuit Hardware Description Language|VHDL]] use std.textio.all; ENTITY hello IS
+ END ENTITY hello; ARCHITECTURE Wiki OF hello IS
+   CONSTANT message : string := &quot;hello world&quot;;
+ BEGIN
+   PROCESS
+     variable L: line; 
+   BEGIN
+     write(L, message);
+     writeline(output, L);
+     wait;
+   END PROCESS;
+ END ARCHITECTURE Wiki;=== VBA (Visual Basic for Application) ===Sub Main
+  MsgBox &quot;Hello world!&quot;
+End Sub[[Visual Basic .NET]] (Application Console)Imports System
+Public Shared Sub Main()
+  Console.WriteLine(&quot;Hello World!&quot;)
+End Sub[[Visual Basic .NET]] (Application Windows Forms)Imports System.Windows.Forms
+Public Shared Sub Main()
+  MessageBox.Show(&quot;Hello World!&quot;)
+End SubLe .Show n'est pas obligatoire mais les parenthèses oui[[Visual DialogScript]] 2,3,4 et 5   Title Hello World!
+   Info Hello World![[Whitespace]]&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;
+empty-line
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+empty-line
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&amp;#9;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;
+empty-line
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;
+empty-line
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;
+empty-line
+&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&amp;#32;&amp;#32;&lt;/span&gt;&lt;span style=&quot;background:#ccffcc&quot;&gt;&amp;#9;&lt;/span&gt;&lt;span style=&quot;background:#ffcccc&quot;&gt;&amp;#32;&lt;/span&gt;
+empty-line
+empty-line/EOF[[XSLT (langage)|XSLT]]  Hello world!  [[XUL]]  Hello world   [[YaBasic]]print &quot;Hello world&quot;  ou print @(1,1) &quot;Hello world&quot; ou open window 30,100
+text 1,20,&quot;Hello world&quot;Catégorie:Programmation informatiquear:برنامج أهلا بالعالم az:Salam dünya proqramı (Hello World) bar:Servus-Woid-Programm bg:Hello, world bs:Hello world program ca:Hola món cs:Hello world da:Hello world-program de:Hallo-Welt-Programm el:Πρόγραμμα hello world en:Hello world program eo:Saluton, mondo! es:Hola mundo et:Hello world eu:Kaixo mundua fi:Hei maailma -ohjelma he:תוכנית Hello world hu:„Helló, világ!” program ia:Hello World id:Hello world it:Hello world ja:Hello world ko:Hello world 프로그램 ml:ഹലോ വേള്‍ഡ് (കമ്പ്യൂട്ടര്‍ പ്രോഗ്രാം) ms:Hello world nl:Hello world (computerprogramma) nn:Hello World no:Hello, world pl:Hello world pt:Programa Olá Mundo ro:Program Hello, world! ru:Программа Hello, world! sh:Hello World simple:Hello World program sk:Hello world sl:Pozdravljen, svet sq:Njatjeta Botë (programi) sr:Hello World sv:Hello World th:Hello world tr:Merhaba dünya programı uk:Hello world! (програма) vi:Chào thế giới! zh:Hello World

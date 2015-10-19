@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 02 |
+ postalcode        = 20069 |
+ gentilic          = Vapriesi |
+ saint             = |
+ day               = |
+ mayor             = Roberto Orlandi (elected [[2004-06-13]]) |
+ website           = [http://www.comune.vapriodadda.mi.it/ www.comune.vapriodadda.mi.it/] |
+ mapy = 9.5333 |
+ mapx = 45.5833 | Vaprio d'Adda is a comune (municipality) in the Province of Milan in the Italian region Lombardy, located about 30 km northeast of Milan. As of 31 December 2004, it had a population of 6,972 and an area of 7.0 km².All demographics and other statistics: Italian statistical institute Istat.Vaprio d'Adda borders the following municipalities: Trezzo sull'Adda, Capriate San Gervasio, Grezzago, Canonica d'Adda, Pozzo d'Adda, Cassano d'Adda, Fara Gera d'Adda.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:7000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:500 start:0 ScaleMinor = gridcolor:lightgrey increment:100 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:3311
+ bar:1871 from: 0 till:3301
+ bar:1881 from: 0 till:3811
+ bar:1901 from: 0 till:4201
+ bar:1911 from: 0 till:4584
+ bar:1921 from: 0 till:4591
+ bar:1931 from: 0 till:4880
+ bar:1936 from: 0 till:4879
+ bar:1951 from: 0 till:5283
+ bar:1961 from: 0 till:5291
+ bar:1971 from: 0 till:5806
+ bar:1981 from: 0 till:6080
+ bar:1991 from: 0 till:6139
+ bar:2001 from: 0 till:6636PlotData= bar:1861 at:3311 fontsize:XS text: 3311 shift:(-8,5)
+ bar:1871 at:3301 fontsize:XS text: 3301 shift:(-8,5)
+ bar:1881 at:3811 fontsize:XS text: 3811 shift:(-8,5)
+ bar:1901 at:4201 fontsize:XS text: 4201 shift:(-8,5)
+ bar:1911 at:4584 fontsize:XS text: 4584 shift:(-8,5)
+ bar:1921 at:4591 fontsize:XS text: 4591 shift:(-8,5)
+ bar:1931 at:4880 fontsize:XS text: 4880 shift:(-8,5)
+ bar:1936 at:4879 fontsize:XS text: 4879 shift:(-8,5)
+ bar:1951 at:5283 fontsize:XS text: 5283 shift:(-8,5)
+ bar:1961 at:5291 fontsize:XS text: 5291 shift:(-8,5)
+ bar:1971 at:5806 fontsize:XS text: 5806 shift:(-8,5)
+ bar:1981 at:6080 fontsize:XS text: 6080 shift:(-8,5)
+ bar:1991 at:6139 fontsize:XS text: 6139 shift:(-8,5)
+ bar:2001 at:6636 fontsize:XS text: 6636 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATGallery Image:Naviglio Martesana and bridge across the Adda between Vaprio and Canonica (Ian Spackman 2007-007-16).jpg|Steps at Vaprio d’Adda leading down towards the Naviglio Martesana; the bridge crosses the Adda to Canonica d’Adda. Image:Naviglio Martesana between Vaprio d’Adda and Trezzo sull’Adda (Ian Spackman 2007-007-28).jpg| Naviglio Martesana between Vaprio d’Adda and Trezzo sull’Adda ReferencesExternal linkswww.comune.vapriodadda.mi.it/  Category:Cities and towns in Lombardybg:Ваприо д'Ада de:Vaprio d’Adda es:Vaprio d'Adda eo:Vaprio d'Adda fr:Vaprio d'Adda it:Vaprio d'Adda nl:Vaprio d'Adda ja:ヴァプリオ・ダッダ nap:Vaprio d'Adda pl:Vaprio d'Adda pt:Vaprio d'Adda vi:Vaprio d'Adda vo:Vaprio d'Adda

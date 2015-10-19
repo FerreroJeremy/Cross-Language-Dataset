@@ -1,0 +1,54 @@
+|
+ frazioni          = Settequerce, Vilpiano|
+ telephone         = 0471|
+ postalcode        = 39018|
+ gentilic          = Italian: terlanesi&lt;br&gt;German: Terlaner|
+ saint             = |
+ day               = |
+ mayor             = Klaus Runer|
+ website           = [http://www.comune.terlano.bz.it www.comune.terlano.bz.it]|
+ mapy              = 11.2500|
+ mapx              = 46.5333|Terlan (Terlano) (; German: Terlan; Ladin: Terlan; Latin: Torilanum; many of the region's Italian languages/dialects use Terlan) is a comune (municipality) in the province of Bolzano-Bozen in the Italian region Trentino-Alto Adige/Südtirol, located about 50 km north of the city of Trento and about 9 km northwest of the city of Bolzano. As of 31 December 2004, it had a population of 3,784 and an area of 18.7 km².All demographics and other statistics: Italian statistical institute Istat. Situated within the Adige Valley, Terlan is famous for its wine and asparagus production.The municipality of Terlan (Terlano) contains the frazioni (subdivisions, mainly villages and hamlets) Settequerce and Vilpiano.Terlan (Terlano) borders the following municipalities: Andrian (Andriano), Eppan (Appiano), Bolzano, Gargazon (Gargazzone), Mölten (Meltina), Nals (Nalles), and Jenesien (San Genesio Atesino).Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:4000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:0
+ bar:1871 from: 0 till:0
+ bar:1881 from: 0 till:0
+ bar:1901 from: 0 till:0
+ bar:1911 from: 0 till:0
+ bar:1921 from: 0 till:2035
+ bar:1931 from: 0 till:2244
+ bar:1936 from: 0 till:2341
+ bar:1951 from: 0 till:2661
+ bar:1961 from: 0 till:2716
+ bar:1971 from: 0 till:2882
+ bar:1981 from: 0 till:3012
+ bar:1991 from: 0 till:3117
+ bar:2001 from: 0 till:3579PlotData= bar:1861 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1871 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1881 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1901 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1911 at:0 fontsize:XS text: ? shift:(-8,5)
+ bar:1921 at:2035 fontsize:XS text: 2035 shift:(-8,5)
+ bar:1931 at:2244 fontsize:XS text: 2244 shift:(-8,5)
+ bar:1936 at:2341 fontsize:XS text: 2341 shift:(-8,5)
+ bar:1951 at:2661 fontsize:XS text: 2661 shift:(-8,5)
+ bar:1961 at:2716 fontsize:XS text: 2716 shift:(-8,5)
+ bar:1971 at:2882 fontsize:XS text: 2882 shift:(-8,5)
+ bar:1981 at:3012 fontsize:XS text: 3012 shift:(-8,5)
+ bar:1991 at:3117 fontsize:XS text: 3117 shift:(-8,5)
+ bar:2001 at:3579 fontsize:XS text: 3579 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal links  Homepage of the cityCategory:Cities and towns in the Province of Bolzano-Bozende:Terlan es:Terlano eo:Terlan fr:Terlano it:Terlano nl:Terlan ja:テルラーノ nap:Terlano pms:Terlan pl:Terlano pt:Terlano vi:Terlano vo:Terlano

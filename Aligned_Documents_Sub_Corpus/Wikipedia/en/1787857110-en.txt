@@ -1,0 +1,12 @@
+ 'Reyssouze ' is a commune in the department of Ain in eastern France.Demographic evolution ImageSize = width:250 height:200 PlotArea = left:40 right:10 top:10 bottom:20 TimeAxis = orientation:horizontal AlignBars = justify Colors = id:gray1 value:gray(0.9)DateFormat = yyyy Period = from:1960 till:2010 ScaleMajor = unit:year increment:10 start:1960PlotData = bar:900 color:gray1 width:1       
+ from:start till:end             
+ bar:600 color:gray1              
+ from:start till:end            
+ bar:300 color:gray1           
+ from:start till:end         
+ bar:0 color:gray1LineData = layer:front    
+ points:(48,138)(84,136)       color:blue    width:2 #1962 tot 1968  
+ points:(84,136)(100,152)      color:blue    width:2 #1975  
+ points:(100,152)(128,155)     color:blue    width:2 #1982  
+ points:(128,155)(160,154)     color:blue    width:2 #1990  
+ points:(160,154)(196,155)  color:blue    width:2 #1999See alsoCommunes of the Ain departmentReferencesBased on the article in the French Wikipedia. Category:Communes of Ainar:رييسوز، أين ceb:Reyssouze de:Reyssouze (Ain) es:Reyssouze fr:Reyssouze it:Reyssouze lmo:Reyssouze nl:Reyssouze pl:Reyssouze pt:Reyssouze vi:Reyssouze vo:Reyssouze

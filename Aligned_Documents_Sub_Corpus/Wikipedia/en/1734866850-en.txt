@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 0934 |
+ postalcode        = 93010 |
+ gentilic          = montedoresi |
+ saint             = |
+ day               = |
+ mayor             = |
+ website           =  |
+ mapy = 13.8167 |
+ mapx = 37.4500 | Montedoro (Muntidoru in Sicilian) is a comune (municipality) in the Province of Caltanissetta in the Italian region Sicily, located about 80&nbsp;km southeast of Palermo and about 20&nbsp;km west of Caltanissetta. As of 31 December 2004, it had a population of 1,751 and an area of 14.1&nbsp;km².All demographics and other statistics: Italian statistical institute Istat.Montedoro borders the following municipalities: Bompensiere, Canicattì, Mussomeli, Racalmuto, Serradifalco.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:4000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:2151
+ bar:1871 from: 0 till:2372
+ bar:1881 from: 0 till:2796
+ bar:1901 from: 0 till:3551
+ bar:1911 from: 0 till:3585
+ bar:1921 from: 0 till:2937
+ bar:1931 from: 0 till:3150
+ bar:1936 from: 0 till:3434
+ bar:1951 from: 0 till:3747
+ bar:1961 from: 0 till:3291
+ bar:1971 from: 0 till:2619
+ bar:1981 from: 0 till:2021
+ bar:1991 from: 0 till:2010
+ bar:2001 from: 0 till:1780PlotData= bar:1861 at:2151 fontsize:XS text: 2151 shift:(-8,5)
+ bar:1871 at:2372 fontsize:XS text: 2372 shift:(-8,5)
+ bar:1881 at:2796 fontsize:XS text: 2796 shift:(-8,5)
+ bar:1901 at:3551 fontsize:XS text: 3551 shift:(-8,5)
+ bar:1911 at:3585 fontsize:XS text: 3585 shift:(-8,5)
+ bar:1921 at:2937 fontsize:XS text: 2937 shift:(-8,5)
+ bar:1931 at:3150 fontsize:XS text: 3150 shift:(-8,5)
+ bar:1936 at:3434 fontsize:XS text: 3434 shift:(-8,5)
+ bar:1951 at:3747 fontsize:XS text: 3747 shift:(-8,5)
+ bar:1961 at:3291 fontsize:XS text: 3291 shift:(-8,5)
+ bar:1971 at:2619 fontsize:XS text: 2619 shift:(-8,5)
+ bar:1981 at:2021 fontsize:XS text: 2021 shift:(-8,5)
+ bar:1991 at:2010 fontsize:XS text: 2010 shift:(-8,5)
+ bar:2001 at:1780 fontsize:XS text: 1780 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferences Category:Cities and towns in Sicilyde:Montedoro es:Montedoro eo:Montedoro fr:Montedoro it:Montedoro lmo:Montedoro nl:Montedoro ja:モンテドーロ nap:Montedoro pms:Montedoro pl:Montedoro pt:Montedoro scn:Muntidoru (CL) vi:Montedoro vo:Montedoro

@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 0922 |
+ postalcode        = 92023 |
+ gentilic          = campobellesi |
+ saint             = |
+ day               = |
+ mayor             = |
+ website           = [http://www.comune.campobellodilicata.ag.it/ www.comune.campobellodilicata.ag.it/] |
+ mapy = 13.9167 |
+ mapx = 37.2500 | Campobello di Licata (Campubbeddu in Sicilian) is a comune (municipality) in the Province of Agrigento in the Italian region Sicily, located about 110&nbsp;km southeast of Palermo and about 30&nbsp;km east of Agrigento. As of 31 December 2004, it had a population of 10,647 and an area of 80.9&nbsp;km².All demographics and other statistics: Italian statistical institute Istat.Campobello di Licata borders the following municipalities: Licata, Naro, Ravanusa.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:17000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:2000 start:0 ScaleMinor = gridcolor:lightgrey increment:500 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:5740
+ bar:1871 from: 0 till:6232
+ bar:1881 from: 0 till:7567
+ bar:1901 from: 0 till:11898
+ bar:1911 from: 0 till:13765
+ bar:1921 from: 0 till:16209
+ bar:1931 from: 0 till:12676
+ bar:1936 from: 0 till:11541
+ bar:1951 from: 0 till:12595
+ bar:1961 from: 0 till:11733
+ bar:1971 from: 0 till:10793
+ bar:1981 from: 0 till:11396
+ bar:1991 from: 0 till:12275
+ bar:2001 from: 0 till:11075PlotData= bar:1861 at:5740 fontsize:XS text: 5740 shift:(-8,5)
+ bar:1871 at:6232 fontsize:XS text: 6232 shift:(-8,5)
+ bar:1881 at:7567 fontsize:XS text: 7567 shift:(-8,5)
+ bar:1901 at:11898 fontsize:XS text: 11898 shift:(-8,5)
+ bar:1911 at:13765 fontsize:XS text: 13765 shift:(-8,5)
+ bar:1921 at:16209 fontsize:XS text: 16209 shift:(-8,5)
+ bar:1931 at:12676 fontsize:XS text: 12676 shift:(-8,5)
+ bar:1936 at:11541 fontsize:XS text: 11541 shift:(-8,5)
+ bar:1951 at:12595 fontsize:XS text: 12595 shift:(-8,5)
+ bar:1961 at:11733 fontsize:XS text: 11733 shift:(-8,5)
+ bar:1971 at:10793 fontsize:XS text: 10793 shift:(-8,5)
+ bar:1981 at:11396 fontsize:XS text: 11396 shift:(-8,5)
+ bar:1991 at:12275 fontsize:XS text: 12275 shift:(-8,5)
+ bar:2001 at:11075 fontsize:XS text: 11075 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal linkswww.comune.campobellodilicata.ag.it/ Category:Cities and towns in Sicilyde:Campobello di Licata es:Campobello di Licata eo:Campobello di Licata fr:Campobello di Licata id:Campobello di Licata it:Campobello di Licata nl:Campobello di Licata ja:カンポベッロ・ディ・リカータ nap:Campobello di Licata pl:Campobello di Licata pt:Campobello di Licata scn:Campubbeddu (AG) vi:Campobello di Licata vo:Campobello di Licata

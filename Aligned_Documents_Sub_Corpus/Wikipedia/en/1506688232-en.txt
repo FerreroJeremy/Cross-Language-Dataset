@@ -1,0 +1,48 @@
+ Domagnano is a munipacility in San Marino. It has 2,865 inhabitants (conditions 2006) in an area of 6.62 km².GeographyIt borders the San Marino municipalities Faetano, Borgo Maggiore, Serravalle and the Italian municipality Coriano.HistoryDomagnano, previously known as Montelupo (mountain of wolves) after its coat of arms, was already colonized by Roman times and was first mentioned in c. 1300. It is located on Monte Titano and you can see the Adriatic Sea from here.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:373 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:3000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:200 start:0 ScaleMinor = gridcolor:lightgrey increment:1000 start:0 BackgroundColors = canvas:sfondoBarData= bar:1253 text:1253
+ bar:1371 text:1371
+ bar:1772 text:1772
+ bar:1786 text:1786
+ bar:1821 text:1821
+ bar:1844 text:1844
+ bar:1865 text:1865
+ bar:1874 text:1874
+ bar:1899 text:1899
+ bar:1905 text:1905
+ bar:1913 text:1913
+ bar:1917 text:1917
+ bar:1921 text:1921
+ bar:1985 text:1985
+ bar:1998 text:1998PlotData= color:barra width:20 align:left
+ bar:1253 from:0 till:100
+ bar:1371 from:0 till:120
+ bar:1772 from:0 till:251
+ bar:1786 from:0 till:240
+ bar:1821 from:0 till:236
+ bar:1844 from:0 till:324
+ bar:1865 from:0 till:398
+ bar:1874 from:0 till:430
+ bar:1899 from:0 till:656
+ bar:1905 from:0 till:682
+ bar:1913 from:0 till:723
+ bar:1917 from:0 till:798
+ bar:1921 from:0 till:877
+ bar:1985 from:0 till:1827
+ bar:1998 from:0 till:2310PlotData= bar:1253 at: 100 fontsize:S text:100 shift:(-8,5)
+ bar:1371 at: 120 fontsize:S text:120 shift:(-10,5)
+ bar:1772 at: 251 fontsize:S text:251 shift:(-10,5)
+ bar:1786 at: 240 fontsize:S text:240 shift:(-10,5)
+ bar:1821 at: 236 fontsize:S text:236 shift:(-10,5)
+ bar:1844 at: 324 fontsize:S text:324 shift:(-10,5)
+ bar:1865 at: 398 fontsize:S text:398 shift:(-10,5)
+ bar:1874 at: 430 fontsize:S text:430 shift:(-10,5)
+ bar:1899 at: 656 fontsize:S text:656 shift:(-10,5)
+ bar:1905 at: 682 fontsize:S text:682 shift:(-10,5)
+ bar:1913 at: 723 fontsize:S text:723 shift:(-10,5)
+ bar:1917 at: 798 fontsize:S text:798 shift:(-10,5)
+ bar:1921 at: 877 fontsize:S text:877 shift:(-10,5)
+ bar:1985 at: 1827 fontsize:S text:1.827 shift:(-10,5)
+ bar:1998 at: 2310 fontsize:S text:2.310 shift:(-10,5)TextData= fontsize:S pos:(20,20)
+ text: fonte Castello di Domagnano - elaborazione grafica a cura di WikipediaHamletsDomagnano has got 5 hamlets (curazie):Cà Giannino, Fiorina, Piandivello, Spaccio Giannoni, TorracciaExternal linksCategory:Towns in San Marinoca:Domagnano de:Domagnano es:Domagnano eo:Domagnano fr:Domagnano gl:Domagnano id:Domagnano it:Domagnano hu:Domagnano nl:Domagnano no:Domagnano pl:Domagnano pt:Domagnano ro:Domagnano sk:Domagnano fi:Domagnano sv:Domagnano uk:Доманьяно vec:Domagnan vo:Domagnano

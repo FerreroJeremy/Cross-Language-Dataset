@@ -1,0 +1,45 @@
+ Nepi es un pueblo y comuna de Italia ubicado en la provincia de Viterbo en la región de Lacio. Este pueblo esta a 40 km de Viterbo y a 13 km al suroeste de Civita Castellana. En 2005 la población era de 8,438 habitantes.Nepi es famoso por sus manantiales, que son embotellados y vendidos en Italia bajo el nombre de Aqcua di Nepi (Agua de Nepi en español).HistoriaNepi fue tomada por los romanos por el año 386&amp;nbsp;a.&amp;nbsp;C. cuando Tito Livio habla de ella y de Sutri como las llaves de Etruria. En ese año fue entregada por los Etruscos y se convirtió romana. Se convirtió en una colonia en el año 383&amp;nbsp;a.&amp;nbsp;C. que estaba entre las que rechazaron ayudar a Roma en 209&amp;nbsp;a.&amp;nbsp;C. Después de la Guerra social Nepi se convirtió en un municipio. Es muy poco mencionada durante la época del Imperio Romano, excepto de que era parte de la Vía Cassia, que corría hasta Ameria y Todi.Durante el Siglo VIII fue por un corto tiempo un ducado.Evolución demográficaPoblación de Nepi  Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:373 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:8000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:500 start:0 ScaleMinor = gridcolor:lightgrey increment:100 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left
+ bar:1861 from:0 till:0
+ bar:1871 from:0 till:2285
+ bar:1881 from:0 till:2279
+ bar:1901 from:0 till:2973
+ bar:1911 from:0 till:3116
+ bar:1921 from:0 till:3316
+ bar:1931 from:0 till:3476
+ bar:1936 from:0 till:3586
+ bar:1951 from:0 till:4450
+ bar:1961 from:0 till:4443
+ bar:1971 from:0 till:4827
+ bar:1981 from:0 till:5335
+ bar:1991 from:0 till:6346
+ bar:2001 from:0 till:7827PlotData= bar:1861 at: 0 fontsize:S text:n.d. shift:(-8,5)
+ bar:1871 at: 2285 fontsize:S text:2.285 shift:(-10,5)
+ bar:1881 at: 2279 fontsize:S text:2.279 shift:(-10,5)
+ bar:1901 at: 2973 fontsize:S text:2.973 shift:(-10,5)
+ bar:1911 at: 3116 fontsize:S text:3.116 shift:(-10,5)
+ bar:1921 at: 3316 fontsize:S text:3.316 shift:(-10,5)
+ bar:1931 at: 3476 fontsize:S text:3.476 shift:(-10,5)
+ bar:1936 at: 3586 fontsize:S text:3.586 shift:(-10,5)
+ bar:1951 at: 4450 fontsize:S text:4.450 shift:(-10,5)
+ bar:1961 at: 4443 fontsize:S text:4.443 shift:(-10,5)
+ bar:1971 at: 4827 fontsize:S text:4.827 shift:(-10,5)
+ bar:1981 at: 5335 fontsize:S text:5.335 shift:(-10,5)
+ bar:1991 at: 6346 fontsize:S text:6.346 shift:(-10,5)
+ bar:2001 at: 7827 fontsize:S text:7.827 shift:(-10,5)TextData= fontsize:S pos:(20,20)
+ text:Fuente ISTATSitios de interésCastillo de Borgia': Es la reconstrucción de un castillo feudal del siglo XV. Tiene grandes muros y cuatro torres, una de ellas visitable.Catedral de Assunta: Fue construida en el siglo XII sobre un templo pagano. Fue reconstruida en 1831 al finalizar las guerras Napoleónicas. Todavía queda una parte de la antigua cripta, que muestra el antiguo templo pagano.ReferenciasCategoría:Enciclopedia Británica (edición de 1911)ca:Nepi de:Nepi en:Nepi eo:Nepi fr:Nepi it:Nepi ja:ネーピ nap:Nepi nl:Nepi pl:Nepi pt:Nepi vo:Nepi

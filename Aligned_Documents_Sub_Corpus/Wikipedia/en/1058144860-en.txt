@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 0322 |
+ postalcode        = 28045 |
+ gentilic          =  |
+ saint             = |
+ day               = |
+ mayor             = |
+ website           =  |
+ mapy = 8.4833 |
+ mapx = 45.7500 | Invorio is a comune (municipality) in the Province of Novara in the Italian region Piedmont, located about 100 km northeast of Turin and about 35 km northwest of Novara. As of 31 December 2004, it had a population of 3,958 and an area of 17.4 km².All demographics and other statistics: Italian statistical institute Istat.Invorio borders the following municipalities: Ameno, Arona, Bolzano Novarese, Borgomanero, Briga Novarese, Colazza, Gattico, Gozzano, Meina, and Paruzzaro.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:5000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:3125
+ bar:1871 from: 0 till:3279
+ bar:1881 from: 0 till:3571
+ bar:1901 from: 0 till:3718
+ bar:1911 from: 0 till:3623
+ bar:1921 from: 0 till:3843
+ bar:1931 from: 0 till:3092
+ bar:1936 from: 0 till:3002
+ bar:1951 from: 0 till:3000
+ bar:1961 from: 0 till:3120
+ bar:1971 from: 0 till:3235
+ bar:1981 from: 0 till:3378
+ bar:1991 from: 0 till:3493
+ bar:2001 from: 0 till:3732PlotData= bar:1861 at:3125 fontsize:XS text: 3125 shift:(-8,5)
+ bar:1871 at:3279 fontsize:XS text: 3279 shift:(-8,5)
+ bar:1881 at:3571 fontsize:XS text: 3571 shift:(-8,5)
+ bar:1901 at:3718 fontsize:XS text: 3718 shift:(-8,5)
+ bar:1911 at:3623 fontsize:XS text: 3623 shift:(-8,5)
+ bar:1921 at:3843 fontsize:XS text: 3843 shift:(-8,5)
+ bar:1931 at:3092 fontsize:XS text: 3092 shift:(-8,5)
+ bar:1936 at:3002 fontsize:XS text: 3002 shift:(-8,5)
+ bar:1951 at:3000 fontsize:XS text: 3000 shift:(-8,5)
+ bar:1961 at:3120 fontsize:XS text: 3120 shift:(-8,5)
+ bar:1971 at:3235 fontsize:XS text: 3235 shift:(-8,5)
+ bar:1981 at:3378 fontsize:XS text: 3378 shift:(-8,5)
+ bar:1991 at:3493 fontsize:XS text: 3493 shift:(-8,5)
+ bar:2001 at:3732 fontsize:XS text: 3732 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTAT References  Category:Cities and towns in Piedmont de:Invorio es:Invorio eo:Invorio fr:Invorio id:Invorio it:Invorio nl:Invorio ja:インヴォーリオ nap:Invorio pms:Invò pl:Invorio pt:Invorio vi:Invorio vo:Invorio

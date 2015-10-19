@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 0934 |
+ postalcode        = 93010 |
+ gentilic          = Marianopolesi or Manchesi|
+ saint             = St. Prosperus|
+ day               = First Sunday in August|
+ mayor             = Calogero Vaccaro|
+ website           = [http://www.comunemarianopoli.it/ www.comunemarianopoli.it] |
+ mapy = 13.9167 |
+ mapx = 37.6000 | Marianopoli (Sicilian: Paisi di li Manchi) is a comune (municipality) in the Province of Caltanissetta in the Italian region Sicily, located about 80&nbsp;km southeast of Palermo and about 20&nbsp;km northwest of Caltanissetta.Marianopoli borders the following municipalities: Caltanissetta, Mussomeli, Petralia Sottana, Villalba.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:5000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:1805
+ bar:1871 from: 0 till:2105
+ bar:1881 from: 0 till:2475
+ bar:1901 from: 0 till:2765
+ bar:1911 from: 0 till:2840
+ bar:1921 from: 0 till:3026
+ bar:1931 from: 0 till:3426
+ bar:1936 from: 0 till:3791
+ bar:1951 from: 0 till:4721
+ bar:1961 from: 0 till:4623
+ bar:1971 from: 0 till:3361
+ bar:1981 from: 0 till:3013
+ bar:1991 from: 0 till:2675
+ bar:2001 from: 0 till:2362PlotData= bar:1861 at:1805 fontsize:XS text: 1805 shift:(-8,5)
+ bar:1871 at:2105 fontsize:XS text: 2105 shift:(-8,5)
+ bar:1881 at:2475 fontsize:XS text: 2475 shift:(-8,5)
+ bar:1901 at:2765 fontsize:XS text: 2765 shift:(-8,5)
+ bar:1911 at:2840 fontsize:XS text: 2840 shift:(-8,5)
+ bar:1921 at:3026 fontsize:XS text: 3026 shift:(-8,5)
+ bar:1931 at:3426 fontsize:XS text: 3426 shift:(-8,5)
+ bar:1936 at:3791 fontsize:XS text: 3791 shift:(-8,5)
+ bar:1951 at:4721 fontsize:XS text: 4721 shift:(-8,5)
+ bar:1961 at:4623 fontsize:XS text: 4623 shift:(-8,5)
+ bar:1971 at:3361 fontsize:XS text: 3361 shift:(-8,5)
+ bar:1981 at:3013 fontsize:XS text: 3013 shift:(-8,5)
+ bar:1991 at:2675 fontsize:XS text: 2675 shift:(-8,5)
+ bar:2001 at:2362 fontsize:XS text: 2362 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATTwin towns Catenanuova, ItalyReferencesExternal linkswww.comunemarianopoli.it/ Category:Cities and towns in Sicilyde:Marianopoli es:Marianopoli eo:Marianopoli fr:Marianopoli id:Marianopoli it:Marianopoli nl:Marianopoli ja:マリアノーポリ nap:Marianopoli pms:Marianopoli pl:Marianopoli pt:Marianopoli scn:Manchi (CL) vi:Marianopoli vo:Marianopoli

@@ -1,0 +1,175 @@
+The Universal Decimal Classification is a system of library classification developed by the Belgian bibliographers Paul Otlet and Henri la Fontaine at the end of the 19th century. It is based on the Dewey Decimal Classification, but uses auxiliary signs to indicate various special aspects of a subject and relationships between subjects. It thus contains a significant faceted or analytico-synthetic element, and is used especially in specialist libraries. UDC has been modified and extended over many years to cope with the increasing output in all disciplines of human knowledge, and is still under continuous review to take account of new developments.The documents classified by UDC may be in any form. They will often be literature, i.e. written documents, but may also be in other media such as films, video and sound recordings, illustrations, maps, and realia such as museum pieces.UDC classifications use Arabic numeral system and are based on the decimal system. Every number is thought of as a decimal fraction with the initial decimal point omitted, which determines filing order. For ease of reading, a UDC identifier is usually punctuated after every third digit. Thus, after 61 "Medical sciences" come the subdivisions 611 to 619; under 611 "Anatomy" come its subdivisions 611.1 to 611.9; under 611.1 come all of its subdivisions before 611.2 occurs, and so on; after 619 comes 620. An advantage of this system is that it is infinitely extensible, and when new subdivisions are introduced, they need not disturb the existing allocation of numbers.The main categories:0 generalities1 philosophy, psychology2 religion, theology3 social sciences4 vacant5 natural sciences6 technology7 the arts8 language, linguistics, literature9 geography, biography, historyA document may be classified under a combination of different categories through the use of additional symbols. For example:+plus]]additione.g. 59+636 zoology and animal breeding/stroke]]extensione.g. 592/599 Systematic zoology (everything from 592 to 599 inclusive):colon]]relatione.g. 17:7 Relation of ethics to art[]square bracketsalgebraic subgroupinge.g. 31:622+669(485) statistics of mining and metallurgy in Sweden (the auxiliary qualifies 622+669 considered as a unit)=equals]]languageEnglish]]; 59=111 Zoology, in EnglishThe design of UDC lends itself to machine readability, and the system has been used both with early automatic mechanical sorting devices, and modern library OPACs. A core version of UDC, with 65,000 subdivisions, is now available in database format, and is called the Master Reference File (MRF). The current full version of the UDC has 220,000 subdivisions.UDC Classes TableMain Table0 Generalities
+ 000 Computer science, knowledge &amp; systems
+ 010 Bibliographies
+ 020 Library &amp; information sciences
+ 030 Encyclopedias &amp; books of facts
+ 040 [Unassigned]
+ 050 Magazines, journals &amp; serials
+ 060 Associations, organizations &amp; museums
+ 070 News media, journalism &amp; publishing
+ 080 Quotations
+ 090 Manuscripts &amp; rare books
+1 Philosophy. Psychology
+ 100 Philosophy
+ 110 Metaphysics
+ 120 Epistemology
+ 130 Parapsychology &amp; occultism
+ 140 Philosophical schools of thought
+ 150 Psychology
+ 160 Logic
+ 170 Ethics
+ 180 Ancient, medieval &amp; eastern philosophy
+ 190 Modern western philosophy
+2 Religion. Theology
+ 200 Religion
+ 210 Philosophy &amp; theory of religion
+ 220 The Bible
+ 230 Christianity &amp; Christian theology
+ 240 Christian practice &amp; observance
+ 250 Christian pastoral practice &amp; religious orders
+ 260 Christian organization, social work &amp; worship
+ 270 History of Christianity
+ 280 Christian denominations
+ 290 Other religions
+3 Social sciences
+ 300 Social sciences, sociology &amp; anthropology
+ 310 Statistics
+ 320 Political science
+ 330 Economics
+ 340 Law
+ 350 Public administration &amp; military science
+ 360 Social problems &amp; social services
+ 370 Education
+ 380 Commerce, communications &amp; transportation
+ 390 Customs, etiquette &amp; folklore
+4 Vacant
+ 400 Language
+ 410 Linguistics
+ 420 English &amp; Old English languages
+ 430 German &amp; related languages
+ 440 French &amp; related languages
+ 450 Italian, Romanian &amp; related languages
+ 460 Spanish &amp; Portuguese languages
+ 470 Latin &amp; Italic languages
+ 480 Classical &amp; modern Greek languages
+ 490 Other languages
+5 Mathematics and natural sciences
+ 500 Science
+ 510 Mathematics
+ 520 Astronomy
+ 530 Physics
+ 540 Chemistry
+ 550 Earth sciences &amp; geology
+ 560 Fossils &amp; prehistoric life
+ 570 Life sciences; biology
+ 580 Plants (Botany)
+ 590 Animals (Zoology)
+6 Applied sciences. Medicine. Technology
+ 600 Technology
+ 610 Medicine &amp; health
+ 620 Engineering
+ 630 Agriculture
+ 640 Home &amp; family management
+ 650 Management &amp; public relations
+ 660 Chemical engineering
+ 670 Manufacturing
+ 680 Manufacture for specific uses
+ 690 Building &amp; construction
+7 The arts. Recreation. Entertainment. Sport
+ 700 Arts
+ 710 Landscaping &amp; area planning
+ 720 Architecture
+ 730 Sculpture, ceramics &amp; metalwork
+ 740 Drawing &amp; decorative arts
+ 750 Painting
+ 760 Graphic arts
+ 770 Photography &amp; computer art
+ 780 Music
+ 790 Sports, games &amp; entertainment
+8 Language. Linguistics. Literature
+ 800 Literature, rhetoric &amp; criticism
+ 810 American literature in English
+ 820 English &amp; Old English literatures
+ 830 German &amp; related literatures
+ 840 French &amp; related literatures
+ 850 Italian, Romanian &amp; related literatures
+ 860 Spanish &amp; Portuguese literatures
+ 870 Latin &amp; Italic literatures
+ 880 Classical &amp; modern Greek literatures
+ 890 Other literatures
+9 Geography. Biography. History
+ 900 History
+ 910 Geography &amp; travel
+ 920 Biography &amp; genealogy
+ 930 History of ancient world (to ca. 499)
+ 940 History of Europe
+ 950 History of Asia
+ 960 History of Africa
+ 970 History of North America
+ 980 History of South America
+ 990 History of other areasTable 2 (Geographic Areas, Historical Periods, Persons)-1 Place in general
+-2 Physiographic designation
+-3 The ancient world
+-4 Europe
+-41 British Isles (geographical whole)
+-410 United Kingdom of Gt Britain and N Ireland
+-410.1 England
+-410.3 Wales
+-410.5 Scotland
+-410.7 Northern Ireland
+-415 Ireland (geographical whole)
+-417 Republic of Ireland
+-430 Germany
+-436 Austria
+-437.1 Czech Republic
+-437.6 Slovak Republic
+-438 Poland
+-439 Hungary
+-44 France
+-450 Italy
+-4549 San Marino
+-45634 Vatican City
+-4585 Malta
+-460 Spain
+-469 Portugal
+-47 Former European USSR
+-470 Russia
+-48 Scandinavia
+-480 Finland
+-481 Norway
+-485- Sweden
+-489 Denmark
+-492 Netherlands
+-493 Belgium
+-494 Switzerland
+-495 Greece
+-497 Balkan States
+-5 Asia
+-61 Tunisia, Libya
+-7 North and Central America
+-71 Canada
+-72 Mexico
+-728 Central America
+-729 West Indies
+-73 USA
+-74 N E States
+-75 S E States
+-76 S Central States
+-77 N Central States
+-78 W States
+-79 Pacific States
+-8 South America
+-9 South Pacific and Australia. Arctic. AntarcticTable 5 (Ethnic and National Groups)-5 Italians, Romanians, related groups
+-591 Romanians
+-5994 Ladins
+-5998 Sardinians and Corsicans
+-59982 Sardinians
+-59984 CorsicansTable 6 (Languages)-21 English language
+-59 Romanian, Rhaetian, Sardinian, Corsican
+-5992 Friulian language
+-5994 Ladin language
+-5996 Romansch language
+-59982 Sardinian
+-59984 Corsican 
+-67 Judeo-Spanish (Ladino)
+-9455 SamiSee alsoBliss bibliographic classificationColon classificationLibrary of Congress classificationChinese Library ClassificationHarvard-Yenching ClassificationExternal linksUniversal Decimal Classification ConsortiumOutlineCategory:Classification systems Category:Knowledge representation Category:Library cataloging and classificationbg:Универсална десетична класификация cs:Mezinárodní desetinné třídění de:Universelle Dezimalklassifikation et:UDK es:Clasificación Decimal Universal eo:Universala dekuma klasifiko eu:Sailkapen Hamartar Unibertsala fr:Classification décimale universelle hr:Univerzalna decimalna klasifikacija it:Classificazione Decimale Universale lt:Universali dešimtainė klasifikacija hu:Egyetemes tizedes osztályozás nl:UDC (classificatiesysteem) ja:国際十進分類法 pl:Uniwersalna Klasyfikacja Dziesiętna pt:Classificação Decimal Universal ro:Clasificarea Zecimală Universală ru:Универсальная десятичная классификация sh:Univerzalna decimalna klasifikacija fi:Yleinen kymmenluokittelu sv:UDK uk:Універсальна десяткова класифікація zh:通用十进制图书分类法

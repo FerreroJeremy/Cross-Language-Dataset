@@ -1,0 +1,44 @@
+Banzi (antigua Bantia) es un municipio de 1.513 habitantes de la provincia de Potenza, en ItaliaHistoria y Lugares de InterésQuedan poco de las pruebas que demuestran que este sitio tuvo una cierta importancia en la época Romana. El "templo Auguraculum in terris", un templo único en su género, es un ejemplo de la anterior afrimación.Además de un "domo romano" y un "Balneario Térmico", los verdaderos tésoros que resguarda esta tierra, son la Cerámica y diferentes artefactos ornamentales labrados en Bronce o en oro que hoy en día se pueden encontrar en diversos museos italianos.Igualmente se han encontrado diversas Armas y Armaduras de la época romana, epígrafos honorarios, funerarios y políticos, así como antiguas calles urbanas de antíguas villas romanas, así como muros y pequeñas fortalezas.Igualmente se pueden encontrar iglesias que datan del medioevo, diversas catedrales e iglesias que datan algunas desde el 1080, que vale la pena visitar.Evolución demográfica del Municipio Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:373 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:3000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:500 start:0 ScaleMinor = gridcolor:lightgrey increment:100 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from:0 till: 1108
+ bar:1871 from:0 till: 1266
+ bar:1881 from:0 till: 1393
+ bar:1901 from:0 till: 1649
+ bar:1911 from:0 till: 1714
+ bar:1921 from:0 till: 1885
+ bar:1931 from:0 till: 1956
+ bar:1936 from:0 till: 2057
+ bar:1951 from:0 till: 2531
+ bar:1961 from:0 till: 2406
+ bar:1971 from:0 till: 2236
+ bar:1981 from:0 till: 1739
+ bar:1991 from:0 till: 1903
+ bar:2001 from:0 till: 1514PlotData= bar:1861 at: 1108 fontsize:S text: 1.108 shift:(-8,5)
+ bar:1871 at: 1266 fontsize:S text: 1.266 shift:(-10,5)
+ bar:1881 at: 1393 fontsize:S text: 1.393 shift:(-10,5)
+ bar:1901 at: 1649 fontsize:S text: 1.649 shift:(-10,5)
+ bar:1911 at: 1714 fontsize:S text: 1.714 shift:(-10,5)
+ bar:1921 at: 1885 fontsize:S text: 1.885 shift:(-10,5)
+ bar:1931 at: 1956 fontsize:S text: 1.956 shift:(-10,5)
+ bar:1936 at: 2057 fontsize:S text: 2.057 shift:(-10,5)
+ bar:1951 at: 2531 fontsize:S text: 2.531 shift:(-10,5)
+ bar:1961 at: 2406 fontsize:S text: 2.406 shift:(-10,5)
+ bar:1971 at: 2236 fontsize:S text: 2.236 shift:(-10,5)
+ bar:1981 at: 1739 fontsize:S text: 1.739 shift:(-10,5)
+ bar:1991 at: 1903 fontsize:S text: 1.903 shift:(-10,5)
+ bar:2001 at: 1514 fontsize:S text: 1.514 shift:(-10,5)TextData= fontsize:S pos:(20,20)
+ text:fuente ISTAT, Datos tomados de Wikipedia ItaliaEnlaces externosSitio Oficial del Comune de BanziCategoría:Localidades de la provincia de Potenzade:Banzi en:Banzi eo:Banzi fr:Banzi hu:Banzi it:Banzi ja:バンツィ la:Bantia nap:Banzi nl:Banzi pl:Banzi pt:Banzi ru:Банци vo:Banzi

@@ -1,0 +1,38 @@
+El DICT'ionary Network Protocol ('DICT) es una transacción TCP basada en petición/respuesta que permite a un cliente acceder a definiciones de diccionario, por medio de bases de datos de lenguajes naturales.IntroducciónEl Protocolo DICT fue creado por el DICT Development Group, y está descrito en el RFC 2229 (Request For Comments). Su meta es sobrepasar el protocolo Webster y permitir a los clientes acceder a más diccionarios al mismo tiempo. Habitualmente escucha en el puerto 2628.Tokens UtilizadosLos Comandos y las Respuestas están compuestos por caracteres del UCS ISO 10646 utilizando la codificación UTF-8 RFC 2044. Más concretamente, usando las convenciones gramaticales de RFC 822:(Extraído del RFC 2229)                                             ; (  Octal, Decimal.)
+  CHAR        =  &lt;any UTF-8 character (1 to 6 octets)&gt;
+  CTL         =  &lt;any ASCII control          ; (  0- 37,  0.- 31.)
+                  character and DEL&gt;         ; (    177,     127.)
+  CR          =  &lt;ASCII CR, carriage return&gt; ; (     15,      13.)
+  LF          =  &lt;ASCII LF, linefeed&gt;        ; (     12,      10.)
+  SPACE       =  &lt;ASCII SP, space&gt;           ; (     40,      32.)
+  HTAB        =  &lt;ASCII HT, horizontal-tab&gt;  ; (     11,       9.)
+  &lt;&quot;&gt;         =  &lt;ASCII quote mark&gt;          ; (     42,      34.)
+  &lt;'&gt;         =  &lt;ASCII single quote mark&gt;   ; (     47,      39.)
+  CRLF        =  CR LF
+  WS          =  1*(SPACE / HTAB)
+  dqstring    =  &lt;&quot;&gt; *(dqtext/quoted-pair) &lt;&quot;&gt;
+  dqtext      =  &lt;any CHAR except &lt;&quot;&gt;, &quot;\&quot;, and CTLs&gt;
+  sqstring    =  &lt;'&gt; *(dqtext/quoted-pair) &lt;'&gt;
+  sqtext      =  &lt;any CHAR except &lt;'&gt;, &quot;\&quot;, and CTLs&gt;
+  quoted-pair =  &quot;\&quot; CHAR
+  atom        =  1*&lt;any CHAR except SPACE, CTLs, &lt;'&gt;, &lt;&quot;&gt;, and &quot;\&quot;&gt;
+  string      =  *&lt;dqstring / sqstring / quoted-pair&gt;
+  word        =  *&lt;atom / string&gt;
+  description =  *&lt;word / WS&gt;
+  text        =  *&lt;word / WS&gt;ComandosLa forma de ejecutar los comandos es la siguiente:Se utiliza una Palabra Comando, seguida de cero o más parámetros.Los comandos con parámetros deben separar los parámetros entre sí y con el propio comando mediante espacios o caracteres TAB.Las lineas de comando deben estar completas con todos los parámetros requeridos, y solamente puede haber un comando en cada linea.Cada línea de comando debe terminar con CRLF.La gramática para los comandos es la siguiente:            command     = cmd-word *&lt;WS cmd-param&gt;
+            cmd-word    = atom
+            cmd-param   = database / strategy / word
+            database    = atom
+            strategy    = atomNo hay diferenciación entre mayúsculas y minúsculas.Las lineas de comandos no pueden exceder los 1024 caracteres, incluyendo espacios, separadores, caracteres de puntuación y el CRLF.RespuestasHay 2 tipos de respuesta a los comandos anteriores: de Estado, y de Texto.Estado:Las respuestas de estado indica la réplica del servidor al último comando recibido del cliente. Las lineas de respuesta de estado comienzan con 3 elementos de código alfanumérico, el cual es suficiente para distinguir todas las respuestas. El primer digito de la respuesta indica el éxito, fracaso o proceso del anterior comando (basado generalmente en RFC 640,RFC 821).      1yz - Positive Preliminary reply
+      2yz - Positive Completion reply
+      3yz - Positive Intermediate reply
+      4yz - Transient Negative Completion reply
+      5yz - Permanent Negative Completion replyEl siguiente digito en el código indica la categoría de la respuesta:      x0z - Syntax
+      x1z - Information (e.g., help)
+      x2z - Connections
+      x3z - Authentication
+      x4z - Unspecified as yet
+      x5z - DICT System (These replies indicate the status of the
+            receiver DICT system vis-a-vis the requested transfer
+            or other DICT system action.)
+      x8z - Nonstandard (private implementation) extensionsLa respuesta esperada por cada comando está detallada en la propia especificación del comando. Algunas repsuestas de estado pueden contener parámetros como números o cadenas de caracteresTexto:Antes que el texto, se envía una línea de respuesta de estado, usando un código 1yz, para indicar que el texto vendrá a continuación. El texto se envía como una serie de sucesivas lineas de texto, cada una terminada por CRLF. Para indicar el final del texto, se envía una línea con el código decimal 46 ó ("."). Después de una respuesta de texto, se envía otra respuesta de estado de código 2yz. Las líneas siguen sin poder esceder los 1024 caracteres, contando espacios, separadores, etc. como se apuntó anteriormente.Ejemplo de un Cliente DICTBuscando la palabra widget. thumb|300px|left|Buscando la palabra WidgetMás informaciónConsultando el RFC 2229 (inglés).Enlaces externosFree On-line Dictionary of ComputingCIA World FactbookWeb del DICT Development Grouphttp://www.dict.org/bin/DictBases de datos de diccionarios:http://freedict.org/en/http://www.escomposlinux.org/rvm/wordtrans/dictionaries_es.phpCategoría:Protocolos de Internetde:DICT en:DICT fr:Protocole DICT nl:DICT pl:DICT

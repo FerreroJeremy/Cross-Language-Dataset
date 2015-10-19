@@ -1,0 +1,20 @@
+ Vauvert is a town and commune in the Gard department in southern France. It was known as Posquières in the Middle Ages.The CommuneThe commune comprises the town of Vauvert and the villages of Gallician and MontcalmVauvert at Carmargue.fr accessed Aug 11 2007.Population Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:350 height:373 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:15000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:5000 start:0 ScaleMinor = gridcolor:lightgrey increment:1000 start:0 BackgroundColors = canvas:sfondoBarData= bar:1962 text:1962
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999PlotData= color:barra width:30 align:left bar:1962 from:0 till: 5031
+ bar:1968 from:0 till: 6345
+ bar:1975 from:0 till: 7472
+ bar:1982 from:0 till: 9103
+ bar:1990 from:0 till: 10296
+ bar:1999 from:0 till: 10261PlotData= bar:1962 at: 5031 fontsize:S text: 5.031 shift:(-8,5)
+ bar:1968 at: 6345 fontsize:S text: 6.345 shift:(-10,5)
+ bar:1975 at: 7472 fontsize:S text: 7.472 shift:(-10,5)
+ bar:1982 at: 9103 fontsize:S text: 9.103 shift:(-10,5)
+ bar:1990 at: 10296 fontsize:S text: 10.296 shift:(-10,5)
+ bar:1999 at: 10261 fontsize:S text: 10.261 shift:(-10,5)TextData= fontsize:S pos:(20,20)
+ text:Data from the French and Italian WikipediaSee alsoCostières de Nîmes AOCCommunes of the Gard departmentReferences  Category:Communes of Gardca:Vauvert de:Vauvert (Gard) es:Vauvert fr:Vauvert (Gard) it:Vauvert nl:Vauvert pl:Vauvert pt:Vauvert (Gard) vo:Vauvert (Gard)

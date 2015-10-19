@@ -1,0 +1,44 @@
+ Conegliano (Conejan en veneciano) es una comuna italiana situada en la provincia de Treviso, en la región del Veneto, en el norte de la península italiana. La ciudad se encuentra a pies del Colli Veneti y por ella pasa el río Monticato. Está situada a unos 30 kilómetros al norte de Treviso. Desde 28 de mayo de 2005 su alcalde es Alberto Maniero, de centroderecha.La ciudad es famosa por sus vinos, sobre todo el vino blanco seco Prosecco, elaborado a partir de la uva del mismo nombre y que tiene tres variedades -''tranquillo'', frizzante y spumante. Es la sede de la histórica Scuola Enologica di Conegliano (Escuela Enológica de Conegliano).Cada verano se celebra una partida de ajedrez en la que las figuras son personas. Con esta partida se celebra la victoria de Conegliano sobre Treviso.Conegliano es el lugar de nacimiento del pintor Giovanni Battista Cima, conocido como Cima da Conegliano. En la catedral de la ciudad se puede contemplar un magnífico retablo que data de 1492. En una colina se conservan las ruinas de un castillo de mil años de antigüedad que perteneció al obispo de Vittorio Veneto. La torre que se conserva alberga el pequeño museo de Conegliano.Otra de las personalidades nacidas en Conegliano es Alessandro Del Piero, futbolista de la selección de fútbol de Italia y de la Juventus de Turín.DemografíaEvolución demográfica desde 1861   Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.3,0.5,0.7)ImageSize = width:500 height:373 PlotArea = left:60 bottom:30 top:20 right:20 DateFormat = x.y Period = from:0 till:40000 TimeAxis = orientation:vertical AlignBars = late ScaleMajor = gridcolor:darkgrey increment:5000 start:0 ScaleMinor = gridcolor:lightgrey increment:1000 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:center bar:1861 from:0 till: 0
+ bar:1871 from:7872 till: 0
+ bar:1881 from:8209 till: 0
+ bar:1901 from:10252 till: 0
+ bar:1911 from:13007 till: 0
+ bar:1921 from:15072 till: 0
+ bar:1931 from:17232 till: 0
+ bar:1936 from:15434 till: 0
+ bar:1951 from:18353 till: 0
+ bar:1961 from:22892 till: 0
+ bar:1971 from:31531 till: 0
+ bar:1981 from:36142 till: 0
+ bar:1991 from:35656 till: 0
+ bar:2001 from:35100 till: 0PlotData= bar:1861 at: 0 fontsize:S text: n/d shift:(0,5)
+ bar:1871 at: 7872 fontsize:S text: 7.872 shift:(0,5)
+ bar:1881 at: 8209 fontsize:S text: 8.209 shift:(0,5)
+ bar:1901 at: 10252 fontsize:S text: 10.252 shift:(0,5)
+ bar:1911 at: 13007 fontsize:S text: 13.007 shift:(0,5)
+ bar:1921 at: 15072 fontsize:S text: 15.072 shift:(0,5)
+ bar:1931 at: 17232 fontsize:S text: 17.232 shift:(0,5)
+ bar:1936 at: 15434 fontsize:S text: 15.434 shift:(0,5)
+ bar:1951 at: 18353 fontsize:S text: 18.353 shift:(0,5)
+ bar:1961 at: 22892 fontsize:S text: 22.892 shift:(0,5)
+ bar:1971 at: 31531 fontsize:S text: 31.531 shift:(0,5)
+ bar:1981 at: 36142 fontsize:S text: 36.142 shift:(0,5)
+ bar:1991 at: 35656 fontsize:S text: 35.656 shift:(0,5)
+ bar:2001 at: 35100 fontsize:S text: 35.100 shift:(0,5)TextData= fontsize:S pos:(20,20)
+ text:Fuente ISTAT - Elaboración gráfica por Wikipedia. ReferenciasEnlaces externosConegliano2000, portal no oficial de la ciudad (en italiano)*Categoría:Localidades de la provincia de Trevisobg:Конеляно ca:Conegliano de:Conegliano en:Conegliano eo:Conegliano fr:Conegliano it:Conegliano ja:コネリアーノ nap:Conegliano nl:Conegliano pl:Conegliano pms:Conegliano pt:Conegliano ro:Conegliano roa-tara:Conegliano sv:Conegliano vec:Conejan vo:Conegliano

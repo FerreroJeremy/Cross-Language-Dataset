@@ -1,0 +1,13 @@
+Chevillard is a commune in the department of Ain in eastern France.Demographic evolution ImageSize = width:250 height:200 PlotArea = left:40 right:10 top:10 bottom:20 TimeAxis = orientation:horizontal AlignBars = justify Colors = id:gray1 value:gray(0.9)                           DateFormat = yyyy Period = from:1960 till:2010 ScaleMajor = unit:year increment:10 start:1960PlotData = bar:300 color:gray1 width:1       
+ from:start till:end             
+ bar:200 color:gray1              
+ from:start till:end            
+ bar:100 color:gray1           
+ from:start till:end         
+ bar:0 color:gray1       LineData = layer:front    
+ points:(48,107)(84,91)       color:blue    width:2 #1962 tot 1968  
+ points:(84,91)(100,86)      color:blue    width:2 #1975  
+ points:(100,86)(128,95)     color:blue    width:2 #1982  
+ points:(128,95)(160,98)     color:blue    width:2 #1990  
+ points:(160,98)(196,95)  color:blue    width:2 #1999     
+ points:(196,95)(228,118)     color:blue    width:2 #2004/5 See alsoCommunes of the Ain départementReferencesBased on the article in the French Wikipedia. Category:Communes of Ainar:شيفيلار، أين ceb:Chevillard de:Chevillard es:Chevillard fr:Chevillard (Ain) it:Chevillard nl:Chevillard pl:Chevillard sr:Chevillard fi:Chevillard vi:Chevillard, Ain vo:Chevillard (Ain)

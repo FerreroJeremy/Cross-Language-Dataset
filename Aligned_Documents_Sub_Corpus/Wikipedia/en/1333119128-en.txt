@@ -1,0 +1,12 @@
+' Géovreisset' is a commune in the department of Ain in eastern France.Demographic evolution ImageSize = width:250 height:200 PlotArea = left:40 right:10 top:10 bottom:20 TimeAxis = orientation:horizontal AlignBars = justify Colors = id:gray1 value:gray(0.9)DateFormat = yyyy Period = from:1960 till:2010 ScaleMajor = unit:year increment:10 start:1960PlotData = bar:1200 color:gray1 width:1       
+ from:start till:end             
+ bar:800 color:gray1              
+ from:start till:end            
+ bar:400 color:gray1           
+ from:start till:end         
+ bar:0 color:gray1LineData = layer:front    
+ points:(48,44)(84,43)       color:blue    width:2 #1962 tot 1968  
+ points:(84,43)(100,52)      color:blue    width:2 #1975  
+ points:(100,52)(128,62)     color:blue    width:2 #1982  
+ points:(128,62)(160,84)     color:blue    width:2 #1990  
+ points:(160,84)(196,128)  color:blue    width:2 #1999See alsoCommunes of the Ain departmentReferencesBased on the article in the French Wikipedia. Geovreissetar:غيوفريسيه، أين ceb:Géovreisset de:Géovreisset es:Géovreisset fr:Géovreisset it:Géovreisset lmo:Géovreisset nl:Géovreisset pl:Géovreisset pt:Géovreisset sr:Géovreisset vi:Géovreisset vo:Géovreisset

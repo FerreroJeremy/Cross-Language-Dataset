@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 031 |
+ postalcode        = 22020 |
+ gentilic          =  |
+ saint             = |
+ day               = |
+ mayor             = Achille Arrigoni|
+ website           =  |
+ mapy = 9.0000 |
+ mapx = 45.8167 | Parè is a comune (municipality) in the Province of Como in the Italian region Lombardy, located about 40 km northwest of Milan and about 6 km west of Como, on the border with Switzerland. As of 31 December 2007, it had a population of 1,784 and an area of 2.2 km².All demographics and other statistics: Italian statistical institute Istat, except population as of 2007 from the article in Italian WikipediaParè borders the following municipalities: Cavallasca, Chiasso (Switzerland), Drezzo, Faloppio, Gironico, Olgiate Comasco.HistoryIn the Napoleonic era the municipality of Parè was suppressed and united to Gironico (also municipalities of Drezzo and Montano were aggregated to it). The union lasted until 1816 when the previous municipalities were restored.In 1928 the municipalities of Parè, Drezzo and Cavallasca were united into a single municipality called Lieto Colle (name inspired by Margherita Sarfatti, the lover of Benito Mussolini who had a palace in Cavallasca). The town hall was in Parè. After the end of Fascism, the discontent against the union grew, but only in 1956 the municipality of Lieto Colle was suppressed and the three municipalities of Parè, Drezzo and Cavallasca restored.Famous nativesGiuseppe Leoni. Born April 5, 1778, in Parè, he became famous for his performances as "incombustible man".Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:2000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:1000 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:427
+ bar:1871 from: 0 till:474
+ bar:1881 from: 0 till:607
+ bar:1901 from: 0 till:670
+ bar:1911 from: 0 till:650
+ bar:1921 from: 0 till:650
+ bar:1931 from: 0 till:710
+ bar:1936 from: 0 till:728
+ bar:1951 from: 0 till:782
+ bar:1961 from: 0 till:938
+ bar:1971 from: 0 till:1148
+ bar:1981 from: 0 till:1268
+ bar:1991 from: 0 till:1328
+ bar:2001 from: 0 till:1534PlotData= bar:1861 at:427 fontsize:XS text: 427 shift:(-8,5)
+ bar:1871 at:474 fontsize:XS text: 474 shift:(-8,5)
+ bar:1881 at:607 fontsize:XS text: 607 shift:(-8,5)
+ bar:1901 at:670 fontsize:XS text: 670 shift:(-8,5)
+ bar:1911 at:650 fontsize:XS text: 650 shift:(-8,5)
+ bar:1921 at:650 fontsize:XS text: 650 shift:(-8,5)
+ bar:1931 at:710 fontsize:XS text: 710 shift:(-8,5)
+ bar:1936 at:728 fontsize:XS text: 728 shift:(-8,5)
+ bar:1951 at:782 fontsize:XS text: 782 shift:(-8,5)
+ bar:1961 at:938 fontsize:XS text: 938 shift:(-8,5)
+ bar:1971 at:1148 fontsize:XS text: 1148 shift:(-8,5)
+ bar:1981 at:1268 fontsize:XS text: 1268 shift:(-8,5)
+ bar:1991 at:1328 fontsize:XS text: 1328 shift:(-8,5)
+ bar:2001 at:1534 fontsize:XS text: 1534 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal linksBibliotopia's page about Parè (in Italian)  Category:Cities and towns in Lombardy de:Parè es:Parè eo:Parè fr:Parè it:Parè nl:Parè ja:パレ (コモ県) nap:Parè pl:Parè pt:Parè vi:Parè vo:Parè

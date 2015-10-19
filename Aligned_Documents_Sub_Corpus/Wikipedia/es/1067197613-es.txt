@@ -1,0 +1,33 @@
+ thumb|Icono de un directorio. En informática, un directorio es una agrupación de archivos de datos, atendiendo a su contenido, a su propósito o a cualquier criterio que decida el usuario. Técnicamente el directorio almacena información acerca de los archivos que contiene: como los atributos de los archivos o dónde se encuentran físicamente en el dispositivo de almacenamiento.En el entorno gráfico de los sistemas operativos modernos, el directorio se denomina metafóricamente carpeta y de hecho se representa con un icono con esta figura. Esta imagen se asocia con el ambiente administrativo de cualquier oficina, donde la carpeta de cartón encierra las hojas de papel (representando a los archivos de datos) de un expediente.En DOS y sus sucesores Windows y OS/2, la sintaxis de una ruta (o path en inglés), indica una jerarquía de directorios, donde el primer elemento puede ser bien la letra indicativa de cualquier Unidad Lógica (disco) en el sistema, o la barra invertida o backslash (\), designando al "directorio raíz" de la unidad lógica actual. Si la ruta comienza directamente en el nombre de un directorio es una ruta relativa desde el directorio de trabajo actual Por ejemplo, en la ruta "C:\AB\AGENDA", "C:" es la unidad lógica (el disco), "AB" un directorio y "AGENDA" un subdirectorio o un archivo. "AB\AGENDA" podría designar el mismo elemento si el directorio actual es "C:\".En los sistemas operativos de tipo UNIX, el directorio se organiza a partir del directorio Directorio raíz "/", el cual contiene archivos y otros directorios. Esos directorios pueden contener archivos y directorios y así sucesivamente. Esto puede organizarse por el sistema en una estructura llamada árbol, como la que se muestra en este diagrama:/
+ /bin
+     /chmod
+     /uname
+     /mkdir
+ /usr
+     /bin
+         /gimp
+         /abiword
+         /apt-get
+ /home
+      /pedro
+      /jose
+      /juan
+      /diego
+            /videos
+            /fotos
+                  /imagen.jpg
+                  /dibujo.png
+            /programas
+                      /mis-ejecutables
+                                      /tic-tac
+                                      /amerotis
+                      /primero.pl
+                      /segundo.pl
+                      /tercero.cc
+            /musica
+                   /cancion.mp3
+                   /cancion.wma
+            /escritorio
+            /descargas
+ /etc
+ /libExplicación: El directorio /''' ó '''root contiene tres directorios (bin, home y etc) y un archivo (lostandfound).Con este modelo, que dio origen a la organización de directorios de DOS y sus sucesores Windows y OS/2 la ruta de un archivo ('path' en inglés) es el recorrido que va desde el directorio / hasta el directorio que contiene al archivo. Por ejemplo:/home/diego/programases la ruta al archivo segundo.plArchivos y directorios no pueden ser diferenciados a través del nombre, sino solo a través de las herramientas del sistema operativo, las que además muestran otras propiedades de archivos y directorios, como fecha de creación, fecha de modificación, usuarios y grupos de usuarios que tienen acceso o derechos al archivo o directorio.Se le llama directorio-padre al directorio que contiene dentro de si otros directorios para formar una jerarquía de directorios que mantengan estructurados todos los archivos propios de un programa o destinados a un propósito específico.Véase tambiénJerarquía de directorios sistemas tipo UNIXEnlaces externosCategoría:ContabilidadCategoría:Sistemas operativos Categoría:Sistemas de archivoscs:Adresář de:Verzeichnis el:Κατάλογος (υπολογιστές) en:Directory (file systems) eo:Dosierujo eu:Direktorio fa:پوشه (رایانه) fi:Hakemisto fr:Répertoire (informatique) hi:फोल्डर hu:Mappa (számítástechnika) id:Direktori it:Directory ja:ディレクトリ ko:디렉터리 ku:Peldank ms:Direktori nl:Directory pl:Katalog (system plików) pt:Diretório (informática) ru:Директория (файловая система) sk:Adresár sr:Директоријум sv:Katalog uk:Директорія (інформатика)

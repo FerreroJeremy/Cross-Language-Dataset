@@ -1,0 +1,54 @@
+|
+ frazioni          =  |
+ telephone         = 0922 |
+ postalcode        = 92020 |
+ gentilic          = grottesi |
+ saint             = |
+ day               = |
+ mayor             = |
+ website           =  |
+ mapy = 13.7000 |
+ mapx = 37.4000 | Grotte is a comune (municipality) in the Province of Agrigento in the Italian region Sicily, located about 80&nbsp;km southeast of Palermo and about 14&nbsp;km northeast of Agrigento. As of 31 December 2004, it had a population of 6,119 and an area of 23.9&nbsp;km².All demographics and other statistics: Italian statistical institute Istat.Grotte borders the following municipalities: Aragona, Campofranco, Comitini, Favara, Milena, Racalmuto.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:12000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:2000 start:0 ScaleMinor = gridcolor:lightgrey increment:500 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:6507
+ bar:1871 from: 0 till:7316
+ bar:1881 from: 0 till:8814
+ bar:1901 from: 0 till:11055
+ bar:1911 from: 0 till:10383
+ bar:1921 from: 0 till:10465
+ bar:1931 from: 0 till:8765
+ bar:1936 from: 0 till:8920
+ bar:1951 from: 0 till:9727
+ bar:1961 from: 0 till:8958
+ bar:1971 from: 0 till:8034
+ bar:1981 from: 0 till:8087
+ bar:1991 from: 0 till:7449
+ bar:2001 from: 0 till:6208PlotData= bar:1861 at:6507 fontsize:XS text: 6507 shift:(-8,5)
+ bar:1871 at:7316 fontsize:XS text: 7316 shift:(-8,5)
+ bar:1881 at:8814 fontsize:XS text: 8814 shift:(-8,5)
+ bar:1901 at:11055 fontsize:XS text: 11055 shift:(-8,5)
+ bar:1911 at:10383 fontsize:XS text: 10383 shift:(-8,5)
+ bar:1921 at:10465 fontsize:XS text: 10465 shift:(-8,5)
+ bar:1931 at:8765 fontsize:XS text: 8765 shift:(-8,5)
+ bar:1936 at:8920 fontsize:XS text: 8920 shift:(-8,5)
+ bar:1951 at:9727 fontsize:XS text: 9727 shift:(-8,5)
+ bar:1961 at:8958 fontsize:XS text: 8958 shift:(-8,5)
+ bar:1971 at:8034 fontsize:XS text: 8034 shift:(-8,5)
+ bar:1981 at:8087 fontsize:XS text: 8087 shift:(-8,5)
+ bar:1991 at:7449 fontsize:XS text: 7449 shift:(-8,5)
+ bar:2001 at:6208 fontsize:XS text: 6208 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferences Category:Cities and towns in Sicilyde:Grotte (Sizilien) es:Grotte (AG) eo:Grotte fr:Grotte (Italie) id:Grotte (AG) it:Grotte (AG) nl:Grotte ja:グロッテ nap:Grotte (AG) pl:Grotte pt:Grotte scn:Grutti (AG) vi:Grotte vo:Grotte

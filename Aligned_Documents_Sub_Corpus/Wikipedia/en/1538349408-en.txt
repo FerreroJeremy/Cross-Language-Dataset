@@ -1,0 +1,54 @@
+|
+ frazioni          = [[Sant'Anna (Caltabellotta)|Sant'Anna]] |
+ telephone         = 0925 |
+ postalcode        = 92010 |
+ gentilic          = caltabellottesi |
+ saint             = |
+ day               = |
+ mayor             = |
+ website           = [http://www.comune.caltabellotta.ag.it/ www.comune.caltabellotta.ag.it/] |
+ mapy = 13.2167 |
+ mapx = 37.5833 |  Caltabellotta is a comune (municipality) in the Province of Agrigento in the Italian region Sicily, located about 60&nbsp;km south of Palermo and about 45&nbsp;km northwest of Agrigento. As of 31 December 2004, it had a population of 4,311 and an area of 123.6&nbsp;km².All demographics and other statistics: Italian statistical institute Istat.The municipality of Caltabellotta contains the frazione (subdivision) Sant'Anna.Caltabellotta borders the following municipalities: Bisacquino, Burgio, Calamonaci, Chiusa Sclafani, Giuliana, Ribera, Sambuca di Sicilia, Sciacca, Villafranca Sicula.Demographic evolution Colors= id:lightgrey value:gray(0.9)
+ id:darkgrey  value:gray(0.8)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)ImageSize = width:455 height:303 PlotArea = left:50 bottom:50 top:30 right:30 DateFormat = x.y Period = from:0 till:8000 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:500 start:0 ScaleMinor = gridcolor:lightgrey increment:100 start:0 BackgroundColors = canvas:sfondoBarData= bar:1861 text:1861
+ bar:1871 text:1871
+ bar:1881 text:1881
+ bar:1901 text:1901
+ bar:1911 text:1911
+ bar:1921 text:1921
+ bar:1931 text:1931
+ bar:1936 text:1936
+ bar:1951 text:1951
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001PlotData= color:barra width:20 align:left bar:1861 from: 0 till:6229
+ bar:1871 from: 0 till:6570
+ bar:1881 from: 0 till:6891
+ bar:1901 from: 0 till:7462
+ bar:1911 from: 0 till:7302
+ bar:1921 from: 0 till:7098
+ bar:1931 from: 0 till:6561
+ bar:1936 from: 0 till:6936
+ bar:1951 from: 0 till:7311
+ bar:1961 from: 0 till:6894
+ bar:1971 from: 0 till:5526
+ bar:1981 from: 0 till:5267
+ bar:1991 from: 0 till:5059
+ bar:2001 from: 0 till:4448PlotData= bar:1861 at:6229 fontsize:XS text: 6229 shift:(-8,5)
+ bar:1871 at:6570 fontsize:XS text: 6570 shift:(-8,5)
+ bar:1881 at:6891 fontsize:XS text: 6891 shift:(-8,5)
+ bar:1901 at:7462 fontsize:XS text: 7462 shift:(-8,5)
+ bar:1911 at:7302 fontsize:XS text: 7302 shift:(-8,5)
+ bar:1921 at:7098 fontsize:XS text: 7098 shift:(-8,5)
+ bar:1931 at:6561 fontsize:XS text: 6561 shift:(-8,5)
+ bar:1936 at:6936 fontsize:XS text: 6936 shift:(-8,5)
+ bar:1951 at:7311 fontsize:XS text: 7311 shift:(-8,5)
+ bar:1961 at:6894 fontsize:XS text: 6894 shift:(-8,5)
+ bar:1971 at:5526 fontsize:XS text: 5526 shift:(-8,5)
+ bar:1981 at:5267 fontsize:XS text: 5267 shift:(-8,5)
+ bar:1991 at:5059 fontsize:XS text: 5059 shift:(-8,5)
+ bar:2001 at:4448 fontsize:XS text: 4448 shift:(-8,5)TextData= fontsize:S pos:(20,20)
+ text:Data from ISTATReferencesExternal linksIl portale di Caltabellotta :Caltabellotta.comAlbum Fotografico di Caltabellotta :Obiettivo su CaltabellottaProLoco di Caltabellotta :ProlococaltabellottaSito istituzionale : http://www.comune.caltabellotta.ag.it/ Category:Cities and towns in Sicilyco:Cataviddotta de:Caltabellotta es:Caltabellotta eo:Caltabellotta fr:Caltabellotta id:Caltabellotta it:Caltabellotta nl:Caltabellotta ja:カルタベッロッタ nap:Caltabellotta pl:Caltabellotta pt:Caltabellotta scn:Cataviddotta (AG) vi:Caltabellotta vo:Caltabellotta

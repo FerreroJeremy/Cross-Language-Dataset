@@ -1,0 +1,12 @@
+Lantenay is a commune in the department of Ain in eastern France.Demographic evolution ImageSize = width:250 height:200 PlotArea = left:40 right:10 top:10 bottom:20 TimeAxis = orientation:horizontal AlignBars = justify Colors = id:gray1 value:gray(0.9)                           DateFormat = yyyy Period = from:1960 till:2010 ScaleMajor = unit:year increment:10 start:1960PlotData = bar:360 color:gray1 width:1       
+ from:start till:end             
+ bar:240 color:gray1              
+ from:start till:end            
+ bar:120 color:gray1           
+ from:start till:end         
+ bar:0 color:gray1       LineData = layer:front    
+ points:(48,126)(84,108)       color:blue    width:2 #1962 tot 1968  
+ points:(84,108)(100,103)      color:blue    width:2 #1975  
+ points:(100,103)(128,113)     color:blue    width:2 #1982  
+ points:(128,113)(160,131)     color:blue    width:2 #1990  
+ points:(160,131)(196,143)  color:blue    width:2 #1999     See alsoCommunes of the Ain departmentReferencesBased on the article in the French Wikipedia. Category:Communes of Ainar:لانتيناي، أين ceb:Lantenay, Ain de:Lantenay (Ain) es:Lantenay (Ain) fr:Lantenay (Ain) it:Lantenay (Ain) lmo:Lantenay, Ain nl:Lantenay (Ain) pl:Lantenay (Ain) pt:Lantenay (Ain) vi:Lantenay, Ain vo:Lantenay (Ain)

@@ -1,0 +1,11 @@
+ En programmation procédurale, un déclencheur (trigger en anglais) est un dispositif logiciel qui provoque un traitement particulier en fonction d'événements prédéfinis. Par extension, c'est l'événement lui-même qui est qualifié de déclencheur.UtilisationDans les bases de données, lors de la mise à jour ou de la suppression d'une donnée, si un déclencheur existe, il peut lancer automatiquement une procédure stockée, qui agit en parallèle sur la même donnée dans une table afférente. Cela permet d'automatiser certains traitements assurant la cohérence et l'intégrité de la base de données.Le déclencheur est la fonction qui initie une variable affectée à une autre fonction. Ce système s'apparente aux gestionnaires d'événements par exemple en Javascript.Les ordres du langage de définition de données (LDD) et de la gestion de transaction (CREATE, ALTER, DROP, COMMIT, SAVEPOINT, sont interdits pour les triggers autres que base de données (triggers système).ExempleTrigger déclenché lors d’une insertion ou d’une modification de la table table_exple :CREATE OR REPLACE TRIGGER trigg_exple
+BEFORE INSERT OR UPDATE ON table_exple
+FOR EACH ROW
+WHEN (new.no_line &gt; 0)
+DECLARE
+    evol_exemple number;
+BEGIN
+    evol_exemple := :new.exemple  - :old.exemple;
+    DBMS_OUTPUT.PUT_LINE('  evolution : ' || evol_exemple);
+END;
+/ Catégorie:Programmation informatique Catégorie:Base de donnéescs:Trigger (databáze) de:Datenbanktrigger en:Database trigger es:Trigger (base de datos) hu:Trigger (adatbázisok) it:Trigger (database) ja:データベーストリガ lv:Trigeris (DBPS) nl:Trigger no:Utløsere (database) pl:Wyzwalacz pt:Gatilho (banco de dados) ru:Триггер (базы данных) tr:Trigger

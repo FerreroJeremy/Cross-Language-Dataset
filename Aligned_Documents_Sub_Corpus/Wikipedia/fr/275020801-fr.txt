@@ -1,0 +1,37 @@
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; ]]La Tisza ( Tisza,  Tisa,  Theiss, en serbe et en ukrainien : Тиса) est une rivière d'Europe centrale et un affluent du Danube.GéographieElle naît en Ukraine, issue du massif des Carpates. Elle trace la frontière entre l'Ukraine et la Roumanie, traverse toute la Hongrie, arpente les grandes plaines de l'Est et rejoint le Danube en Serbie. Elle a un cours de plus de 1380 km soit plus long que celui du Rhin. Son bassin versant, particulièrement vaste, concerne aussi la Slovaquie et la Roumanie.La Tisza arrose Sighetu Marmaţiei et Bocicoiu Mare en Roumanie, Rachiw et Chust en Ukraine, Tokaj, Szolnok et Szeged en Hongrie avant de confluer avec le Danube en Serbie.HydrographieSon principal affluent est le Mureş (ou en hongrois : Maros), les autres affluents sont le Körös, la Zagyva, le Sajó, le Bodrog, la Crasna le Someş, la Bega, la Zlatica.Le cours hongrois de la Tisza est très peu pentu, mais plusieurs méandres ont été rectifiés. Le débit est irrégulier : on peut généralement traverser le rivière à pied à la fin de l'été mais la fonte des neiges dans les Carpates donne régulièrement des crues de 2000 à /s suivies d'inondations.Un barrage a créé une retenue de  au cœur de la Hongrie, offrant à la région de la Grande Plaine (grand Alföld) une vocation touristique en devenir.Débit moyen mensuel de la Tisza (en m³/seconde) mesuré à la station hydrologique de Szeged Colors= id:lightgrey value:gray(0.8)
+ id:darkgrey  value:gray(0.3)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.8,0.9)ImageSize = width:600 height:305 PlotArea = left:40 bottom:40 top:20 right:20 DateFormat = x.y Period = from:0 till:1600 TimeAxis = orientation:vertical AlignBars = justify ScaleMajor = gridcolor:lightgrey increment:400 start:0 ScaleMinor = gridcolor:lightgrey increment:200 start:0 BackgroundColors = canvas:sfondoBarData= bar:Jan text:Janvier
+ bar:Fév text:Février
+ bar:Mar text:Mars
+ bar:Avr text:Avril
+ bar:Mai text:Mai
+ bar:Jun text:Juin
+ bar:Jul text:Juillet
+ bar:Aoû text:Août
+ bar:Sep text:Sept.
+ bar:Oct text:Oct.
+ bar:Nov text:Nov.
+ bar:Déc text:Déc.PlotData= color:barra width:30 align:left bar:Jan from:0 till: 720 
+ bar:Fév from:0 till: 830 
+ bar:Mar from:0 till: 1236 
+ bar:Avr from:0 till: 1505 
+ bar:Mai from:0 till: 1260 
+ bar:Jun from:0 till: 940 
+ bar:Jul from:0 till: 731 
+ bar:Aoû from:0 till: 501 
+ bar:Sep from:0 till: 427 
+ bar:Oct from:0 till: 445 
+ bar:Nov from:0 till: 650 
+ bar:Déc from:0 till: 702 PlotData= bar:Jan at: 720 fontsize:S text: 720 shift:(-10,5)
+ bar:Fév at: 830 fontsize:S text: 830 shift:(-10,5)
+ bar:Mar at: 1236 fontsize:S text: 1236 shift:(-10,5)
+ bar:Avr at: 1505 fontsize:S text: 1505 shift:(-10,5)
+ bar:Mai at: 1260 fontsize:S text: 1260 shift:(-10,5)
+ bar:Jun at: 940 fontsize:S text: 940 shift:(-10,5)
+ bar:Jul at: 731 fontsize:S text: 731 shift:(-10,5)
+ bar:Aoû at: 501 fontsize:S text: 501 shift:(-10,5)
+ bar:Sep at: 427 fontsize:S text: 427 shift:(-10,5)
+ bar:Oct at: 445 fontsize:S text: 445 shift:(-10,5)
+ bar:Nov at: 650 fontsize:S text: 650 shift:(-10,5)
+ bar:Déc at: 702 fontsize:S text: 702 shift:(-10,5) La catastrophe écologique de 2000Le 30 janvier 2000, une digue cède dans un bassin d'une exploitation d'or de Baia Mare, au nord de la Roumanie, laissant échapper  d'eaux boueuses. La forte concentration en cyanure de cette pollution entraîne la destruction quasi totale de la faune et de la flore aquatique dans le Someş puis dans la Tisza. Les effets de ce déversement ont été sensibles jusqu'en mer Noire. La Hongrie a porté plainte contre la société australienne Esmeralda, actionnaire à 51 % de l'entreprise Aurul de Baia Mare.Liens externesRapport officiel sur la catastrophe écologiqueDossier documenté sur la catastropheNotes et références 1Tisza Catégorie:Cours d'eau d'Ukraine Catégorie:Cours d'eau de Roumanie Catégorie:Cours d'eau de Hongrie Catégorie:Cours d'eau de Serbie Catégorie:Cours d'eau de la Slovaquieast:Ríu Tisza bg:Тиса bs:Tisa (rijeka) ca:Tisza cs:Tisa da:Tisza de:Theiß en:Tisza eo:Tiso es:Tisza et:Tisza eu:Tisza fi:Tisza gl:Río Tisza he:טיסה (נהר) hr:Tisa hu:Tisza id:Sungai Tisza it:Tibisco ja:ティサ川 ko:티소 강 lt:Tisa nl:Tisza nn:Tisza no:Tisza pl:Cisa pt:Rio Tisza ro:Râul Tisa ru:Тиса (река) sh:Tisa simple:Tisza sk:Tisa sl:Tisa sr:Тиса sv:Tisza tk:Tisza tr:Tisza Nehri udm:Тиса uk:Тиса zh:蒂薩河

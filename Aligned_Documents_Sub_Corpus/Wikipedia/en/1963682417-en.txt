@@ -1,0 +1,113 @@
+ A Member State of the European Union is any one of the twenty-seven sovereign nation states that have acceded the European Union (EU) since its de facto inception in 1951 as the European Coal and Steel Community (ECSC). From an original membership of six states, there have been six successive enlargements, the largest occurring on 1 May 2004, when ten Member States joined. The EU is currently composed of twenty republics, six kingdoms and one grand duchy.Following the addition of Romania and Bulgaria in 2007, the EU's membership now stands at twenty-seven. Negotiations are also under way with a number of other states. The process of enlargement is sometimes referred to as European integration. However, this term is also used to refer to the intensification of cooperation between EU Member States as national governments allow for the gradual centralising of power within European institutions. Before being allowed to join the European Union, a state must fulfil the economic and political conditions generally known as the Copenhagen criteria: these basically require that a candidate Member State must enjoy a secular, democratic system of government, together with the corresponding freedoms and institutions, and respect the rule of law. Under the terms of the Treaty on European Union, enlargement of the Union is conditional upon the agreement of each existing Member State as well as approval by the European Parliament.Bulgaria and Romania comprise the second part of the EU's fifth enlargement, and joined the EU on 1 January 2007. This date was agreed upon at the Thessaloniki Summit in 2003, confirmed at Brussels on 18 June 2004, and affirmed by the country reports of October 2004 and the final report delivered on 26 September 2006. Bulgaria and Romania signed their Treaty of Accession on 25 April 2005 at a ceremony held at Neumünster Abbey in Luxembourg.ListFlagCoACommon nameOfficial nameAccessionPopulationArea (km²)CapitalSpecial territoriesAustriacenter|22x15px]]AustriaRepublic of AustriaViennaBelgiumcenter|22x15px]]BelgiumKingdom of BelgiumBrusselsBulgariacenter|22x15px]]BulgariaRepublic of BulgariaSofiaCypruscenter|22x15px]]CyprusRepublic of CyprusNicosiaCzech Republiccenter|22x15px]]Czech RepublicCzech RepublicPragueDenmarkcenter|22x15px]]DenmarkKingdom of DenmarkCopenhagenEstoniacenter|22x15px]]EstoniaRepublic of EstoniaTallinnFinlandcenter|22x15px]]FinlandRepublic of FinlandHelsinkiFrancecenter|22x15px]]FranceFrench RepublicThe population figure for France includes the four overseas departments (French Guiana, Guadeloupe, Martinique, and Réunion), which are integral parts of the European Union, but does not include the overseas collectivities and territories, which are not part of the European Union. The population figure for Metropolitan France is 61,875,822.ParisGermanycenter|22x15px]]GermanyFederal Republic of GermanyOn , the constituent states of the former German Democratic Republic acceded to the Federal Republic of Germany, automatically becoming part of the EU.BerlinGreececenter|22x15px]]GreeceHellenic RepublicAthensHungarycenter|22x15px]]HungaryRepublic of HungaryBudapestIrelandcenter|22x15px]]Ireland|IrelandIrelandThe constitutional name of the country is Ireland, not Republic of Ireland. See names of the Irish state.DublinItalycenter|22x15px]]ItalyItalian RepublicRomeLatviacenter|22x15px]]LatviaRepublic of LatviaRigaLithuaniacenter|22x15px]]LithuaniaRepublic of LithuaniaVilniusLuxembourgcenter|22x15px]]LuxembourgGrand Duchy of LuxembourgLuxembourg]]Maltacenter|22x15px]]MaltaRepublic of MaltaVallettaNetherlandscenter|22x15px]]Netherlands]]this article]]. However, only Netherlands (the European part) is fully subject to EU law.AmsterdamPolandcenter|22x15px]]PolandRepublic of PolandWarsawPortugalcenter|22x15px]]PortugalPortuguese RepublicLisbonRomaniacenter|22x15px]]RomaniaRomaniaBucharestSlovakiacenter|22x15px]]SlovakiaSlovak RepublicBratislavaSloveniacenter|22x15px]]SloveniaRepublic of SloveniaLjubljanaSpaincenter|22x15px]]SpainKingdom of SpainMadridSwedencenter|22x15px]]SwedenKingdom of SwedenStockholmUnited Kingdomcenter|22x15px]]United KingdomUnited Kingdom of Great Britain and Northern IrelandThe population figure for the United Kingdom includes England, Scotland, Wales, and Northern Ireland but not the Channel Islands or the overseas territories which are not part of the European Union. London–EU-27European Union total––NotesEnlargement   Enlargement has been a principal feature of the Union's political landscape. The Union was founded by the "Inner Six", those countries willing to forge ahead with the Community while others remained sceptical. It was but a decade before the first countries changed their policy and attempted to join the Union, which led to the first scepticism of enlargement. French President Charles de Gaulle feared British membership would be an American Trojan horse and vetoed its application. Only after de Gaulle left office did Britian's third application succeed.Applying with Britain were Ireland, Denmark and Norway. Norway however saw the first rejection of membership, with the electorate voting against it leaving just Ireland and Denmark joining along side the UK. But despite the setbacks, and the withdrawal of Greenland from Denmark's membership in 1985, three more countries would join the Communities before the end of the Cold War. In 1987, the geographical extent of the project was tested when Morocco applied, and was rejected as it was not considered a European country.1989 saw the Cold War drawing to a close, and East Germany was welcomed into the Community as part of a reunited Germany. Shortly after the previously neutral countries of Austria, Finland and Sweden acceded to the new European Union, though Switzerland, which applied in 2002, froze its application due to opposition from voters while Norway, which had applied once more, had its voters reject membership again.) Meanwhile, the members of the former Eastern bloc and Yugoslavia were all starting to move towards EU membership. 10 of these joined in a "big bang" enlargement on 1 May 2004 symbolising the unification of East and Western Europe in the EU.2007 saw the latest members, Bulgaria and Romania, accede to the Union and the EU has prioritised membership for the Western Balkans. Croatia, the Former Yugoslav Republic of Macedonia and Turkey are all formal, acknowledged candidates. Turkey, which applied in the 1980s, is a more contentious issue but entered negotiations in 2004 (see Accession of Turkey to the European Union). There are at present no plans to cease enlargement; according to the Copenhagen criteria, membership of the European Union is open to any European country that is a stable, free market liberal democracy that respects the rule of law and human rights. Furthermore, it has to be willing to accept all the obligations of membership such as adopting all previously agreed law and joining the euro.  DateFormat = dd/mm/yyyy ImageSize = width:820 height:auto barincrement:25 PlotArea = left:20 right:40 bottom:30 top:15Colors = id:negotiations  value:rgb(1,0.8,0)      legend:accession_negotiations
+ id:membership    value:skyblue           legend:European_Union_member_state
+ id:line          value:gray(0.8)Period = from:01/01/1945 till:12/12/2010 TimeAxis = orientation:horizontal format:yyyy ScaleMajor = unit:year increment:5 start:1950 gridcolor:line AlignBars = justify Legend = left:40 top:80BarData= bar:Belgium
+ bar:France
+ bar:Germany
+ bar:Italy
+ bar:Luxembourg
+ bar:Netherlands
+ bar:Ireland
+ bar:Denmark
+ bar:United_Kingdom
+ bar:Norway
+ bar:Greece
+ bar:Portugal
+ bar:Spain
+ bar:Turkey
+ bar:Morocco
+ bar:Austria
+ bar:Cyprus
+ bar:Malta
+ bar:Sweden
+ bar:Finland
+ bar:Switzerland
+ bar:Hungary
+ bar:Poland
+ bar:Romania
+ bar:Slovakia
+ bar:Latvia
+ bar:Estonia
+ bar:Lithuania
+ bar:Bulgaria
+ bar:Czech_Republic
+ bar:Slovenia
+ bar:Croatia
+ bar:FYROMPlotData= width:18 fontsize:S textcolor:black anchor:from align:left bar:Belgium         color:membership    from:23/07/1952  till:12/12/2008  shift:(-42,-5)  text:[[Belgium]]
+ bar:France          color:membership    from:23/07/1952  till:12/12/2008  shift:(-37,-5)  text:[[France]]
+ bar:Germany         color:membership    from:23/07/1952  till:12/12/2008  shift:(-80,-5)  text:[[Germany|(West) Germany]]
+ bar:Italy           color:membership    from:23/07/1952  till:12/12/2008  shift:(-24,-5)  text:[[Italy]]
+ bar:Luxembourg      color:membership    from:23/07/1952  till:12/12/2008  shift:(-62,-5)  text:[[Luxembourg]]
+ bar:Netherlands     color:membership    from:23/07/1952  till:12/12/2008  shift:(-61,-5)  text:[[Netherlands]]
+ bar:Ireland         color:negotiations  from:31/07/1961  till:14/01/1963  shift:(-36,-5)  text:[[Ireland]]
+                                         at:14/01/1963                     shift:(5,-5)    text:withdr.  textcolor:red
+                                         at:31/07/1961                     shift:(2,-5)    text:1  textcolor:black
+                     color:negotiations  from:11/05/1967  till:12/12/1972
+                                         at:11/05/1967                     shift:(2,-5)    text:2  textcolor:black
+                     color:membership    from:01/01/1973  till:12/12/2008
+ bar:Denmark         color:negotiations  from:10/08/1961  till:14/01/1963  shift:(-47,-5)  text:[[Denmark]]
+                                         at:14/01/1963                     shift:(5,-5)    text:withdr.  textcolor:red
+                                         at:10/08/1961                     shift:(2,-5)    text:1  textcolor:black
+                     color:negotiations  from:11/05/1967  till:12/12/1972
+                                         at:11/05/1967                     shift:(2,-5)    text:2  textcolor:black
+                     color:membership    from:01/01/1973  till:12/12/2008
+ bar:United_Kingdom  color:negotiations  from:10/08/1961  till:14/01/1963  shift:(-80,-5)  text:[[United Kingdom]]
+                                         at:31/07/1961                     shift:(2,-5)    text:1  textcolor:black
+                                         at:14/01/1963                     shift:(5,-5)    text:vetoed  textcolor:red
+                     color:negotiations  from:10/05/1967  till:12/12/1972
+                                         at:10/05/1967                     shift:(2,-5)    text:2  textcolor:black
+                     color:membership    from:01/01/1973  till:12/12/2008
+ bar:Norway          color:negotiations  from:30/04/1962  till:14/01/1963  shift:(-39,-5)  text:[[Norway]]
+                                         at:14/01/1963                     shift:(7,-5)    text:withdr.  textcolor:red
+                                         at:30/04/1962                     shift:(2,-5)    text:1  textcolor:black
+                     color:negotiations  from:21/07/1967  till:25/09/1972
+                                         at:25/09/1972                     shift:(5,-5)    text:withdrawn  textcolor:red
+                                         at:21/07/1967                     shift:(2,-5)    text:2  textcolor:black
+                     color:negotiations  from:25/11/1992  till:28/11/1994
+                                         at:28/11/1994                     shift:(5,-5)    text:withdrawn  textcolor:red
+                                         at:25/11/1992                     shift:(2,-5)    text:3  textcolor:black
+ bar:Greece          color:negotiations  from:12/06/1975  till:12/12/1980  shift:(-38,-5)  text:[[Greece]]
+                     color:membership    from:01/01/1981  till:12/12/2008
+ bar:Portugal        color:negotiations  from:28/03/1977  till:12/12/1985  shift:(-44,-5)  text:[[Portugal]]
+                     color:membership    from:01/01/1986  till:12/12/2008
+ bar:Spain           color:negotiations  from:28/03/1977  till:12/12/1985  shift:(-31,-5)  text:[[Spain]]
+                     color:membership    from:01/01/1986  till:12/12/2008
+ bar:Turkey          color:negotiations  from:14/04/1987  till:12/12/2008  shift:(-38,-5)  text:[[Turkey]]
+                                         at:12/12/2008                     shift:(-54,-5)  text:negotiating  textcolor:green
+ bar:Morocco         color:negotiations  from:20/07/1987  till:12/12/1987  shift:(-43,-5)  text:[[Morocco]]
+                                         at:12/12/1987                     shift:(5,-5)    text:rejected  textcolor:red
+ bar:Austria         color:negotiations  from:17/07/1989  till:12/12/1994  shift:(-38,-5)  text:[[Austria]]
+                     color:membership    from:01/01/1995  till:12/12/2008
+ bar:Cyprus          color:negotiations  from:03/07/1990  till:31/03/2004  shift:(-40,-5)  text:[[Cyprus]]
+                     color:membership    from:01/04/2004  till:12/12/2008
+ bar:Malta           color:negotiations  from:03/07/1990  till:31/03/2004  shift:(-31,-5)  text:[[Malta]]
+                     color:membership    from:01/04/2004  till:12/12/2008
+ bar:Sweden          color:negotiations  from:01/07/1991  till:12/12/1994  shift:(-43,-5)  text:[[Sweden]]
+                     color:membership    from:01/01/1995  till:12/12/2008
+ bar:Finland         color:negotiations  from:18/03/1992  till:12/12/1994  shift:(-41,-5)  text:[[Finland]]
+                     color:membership    from:01/01/1995  till:12/12/2008
+ bar:Switzerland     color:negotiations  from:25/05/1992  till:12/12/2008  shift:(-59,-5)  text:[[Switzerland]]
+                                         at:06/12/1992                     shift:(160,-5)  text:frozen  textcolor:black
+ bar:Hungary         color:negotiations  from:31/03/1994  till:31/03/2004  shift:(-46,-5)  text:[[Hungary]]
+                     color:membership    from:01/04/2004  till:12/12/2008
+ bar:Poland          color:negotiations  from:05/04/1994  till:31/03/2004  shift:(-39,-5)  text:[[Poland]]
+                     color:membership    from:01/04/2004  till:12/12/2008
+ bar:Romania         color:negotiations  from:22/06/1995  till:12/12/2006  shift:(-46,-5)  text:[[Romania]]
+                     color:membership    from:01/01/2007  till:12/12/2008
+ bar:Slovakia        color:negotiations  from:27/06/1995  till:31/03/2004  shift:(-44,-5)  text:[[Slovakia]]
+                     color:membership    from:01/04/2004  till:12/12/2008
+ bar:Latvia          color:negotiations  from:13/10/1995  till:31/03/2004  shift:(-33,-5)  text:[[Latvia]]
+                     color:membership    from:01/04/2004  till:12/12/2008
+ bar:Estonia         color:negotiations  from:24/11/1995  till:31/03/2004  shift:(-40,-5)  text:[[Estonia]]
+                     color:membership    from:01/04/2004  till:12/12/2008
+ bar:Lithuania       color:negotiations  from:08/12/1995  till:31/03/2004  shift:(-49,-5)  text:[[Lithuania]]
+                     color:membership    from:01/04/2004  till:12/12/2008
+ bar:Bulgaria        color:negotiations  from:14/12/1995  till:12/12/2006  shift:(-44,-5)  text:[[Bulgaria]]
+                     color:membership    from:01/01/2007  till:12/12/2008
+ bar:Czech_Republic  color:negotiations  from:17/01/1996  till:31/03/2004  shift:(-77,-5)  text:[[Czech Republic]]
+                     color:membership    from:01/04/2004  till:12/12/2008
+ bar:Slovenia        color:negotiations  from:10/06/1996  till:31/03/2004  shift:(-44,-5)  text:[[Slovenia]]
+                     color:membership    from:01/04/2004  till:12/12/2008
+ bar:Croatia         color:negotiations  from:21/02/2003  till:12/12/2008  shift:(-38,-5)  text:[[Croatia]]
+                                         at:12/12/2008                     shift:(-54,-5)  text:negotiating  textcolor:green
+ bar:FYROM       color:negotiations  from:24/03/2004  till:12/12/2008  shift:(-189,-5) text:&quot;[[former Yugoslav Republic of Macedonia]]&quot;  
+                                         at:12/12/2008                     shift:(-54,-5)  text:negotiating  textcolor:green  There are a number of countries with strong links with the EU, similar to elements of membership. Following Norway's failure to join the EU, it became one of the members of the European Economic Area which also includes Iceland and Liechtenstein (all former members have joined the EU and Switzerland rejected membership). The EEA links these countries into the EU's market, extending the four freedoms to these states. In return, they pay a membership fee and have to adopt most areas of EU law (which they do not have direct impact in shaping). The democratic repercussions of this have been described as "fax democracy" (waiting for new laws to be faxed in from Brussels rather than being involved).A different example is Bosnia and Herzegovina, which has been under international supervision. The High Representative for Bosnia and Herzegovina is an international administrator who has wide ranging powers over Bosnia and Herzegovina to ensure the peace agreement is respected. The High Representative is also the EU's representative, and is in practice appointed by the EU. In this role, and since a major ambition of Bosnia and Herzegovina is to join the EU, the country has become a de facto protectorate of the EU. The EU appointed representative has the power to impose legislation and dismiss elected officials and civil servants, meaning the EU has greater direct control over Bosnia and Herzegovina than its own member states. Indeed the state's flag was inspired by the EU's flag.RepresentationEach state has representation in the institutions of the European Union. Full membership gives the government of a member state a seat in the Council of the European Union and European Council. When decisions are not being taken by consensus, votes are weighted so that a country with a greater population has more votes within the Council than a smaller country (although not exact, smaller countries have more votes than their population would allow relative to the largest countries).Similarly, each state is assigned seats in Parliament according to their population. However, members of the European Parliament have been elected by universal suffrage since 1979 (before which they were seconded from national parliaments), rather than being appointed by governments. Governments do however appoint one member each to the European Commission (in accord with its president), the European Court of Justice (in accord with other members) and the Court of Auditors.Historically, larger member states were granted an extra Commissioner. However, as the body grew, this right has been removed and each state is represented equally. Yet the largest states are granted an Advocates General in the Court of Justice. Finally, the governing of the European Central Bank is made up of the governors of each national central bank (who may or may not be government appointed).The larger states traditionally carry more weight in negotiations, however smaller states can be effective impartial mediators and citizens of smaller states are often appointed to sensitive top posts to avoid competition between the larger states.SovereigntyThe founding treaties state that all member states are indivisibly sovereign and of equal value. However the EU does follow a supranational system (similar to federalism) in European Community matters, in that combined sovereignty is delegated by each member to the institutions in return for representation within those institutions. Those institutions are then empowered to make laws and execute them at a European level. If a state fails to comply with the law of the European Union, it may be fined or have funds withdrawn. In extreme cases, there are provisions for the voting rights or membership of a state to be suspended. On issues outside the European Community (foreign policy, police and courts) less sovereignty is transferred, with issues being dealt with by consensus and cooperation.However, as sovereignty still originates from the national level, it may be withdrawn by a member state who wishes to leave. Hence, if a law is agreed that is not to the liking of a state, it may withdraw from the EU to avoid it. This however has not happened as the benefits of membership are often seen to outweigh any negative impact of certain laws. Furthermore, in realpolitik, concessions and political pressure may lead to a state accepting something not in their interests in order to improve relations and hence strengthen their position on other issues.See alsoCountries bordering the European UnionSpecial Member State territoriesList of Member States of the European Union in the official languagesReferencesExternal linksMember States – Europa Category:European Union member statesca:Estats membres de la Unió Europea cs:Členové Evropské unie cy:Aelod-wladwriaethau yr Undeb Ewropeaidd de:Mitgliedstaaten der Europäischen Union et:Euroopa Liidu riikide loend es:Estado miembro de la Unión Europea eu:Europar Batasuneko estatu kideak fr:États membres de l'Union européenne ko:유럽 연합의 회원국 hy:Եվրոպական Միության անդամ երկրներ it:Stati membri dell'Unione europea lb:Memberstaate vun der Europäescher Unioun lt:Sąrašas:Europos Sąjungos valstybės narės hu:Az Európai Unió tagállamai ms:Ahli Kesatuan Eropah nl:Lijst van lidstaten van de Europese Unie ja:欧州連合加盟国 pl:Państwa członkowskie Unii Europejskiej pt:Estados membros da União Europeia ru:Список стран ЕС simple:European Union member state sk:Členovia Európskej únie sr:Државе чланице Европске уније th:รัฐสมาชิกสหภาพยุโรป tr:Avrupa Birliği üyesi ülkeler uk:Список країн Європейського Союзу
