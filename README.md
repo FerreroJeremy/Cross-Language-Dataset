@@ -31,32 +31,37 @@ Conference papers | 35 | 1,304 | 272
 
 ### References, tools used and existing collections
 
-1.	Philipp Koehn (2005). 
-	Europarl: A Parallel Corpus for Statistical Machine Translation. 
+1.	Philipp Koehn (2005). <br/>
+	Europarl: A Parallel Corpus for Statistical Machine Translation. <br/>
 	In Conference Proceedings: the tenth Machine Translation Summit, pages 79–86. AAMT. 
 	
-2.	Martin Potthast, Alberto Barrón-Cedeño, Benno Stein, and Paolo Rosso (2011). 
-	Cross-Language Plagiarism Detection.
+2.	Martin Potthast, Alberto Barrón-Cedeño, Benno Stein, and Paolo Rosso (2011). <br/>
+	Cross-Language Plagiarism Detection.<br/>
 	In Language Ressources and Evaluation, volume 45, pages 45–62. 
+
+3.	Martin Potthast, Benno Stein, Alberto Barrón-Cedeño, and Paolo Rosso (2010). <br/>
+	An Evaluation Framework for Plagiarism Detection. <br/>
+	In Proceedings of the 23rd International Conference on Computational Linguistics (COLING 2010), Beijing,
+China, August 2010. Association for Computational Linguistics.
 	
-3.	Peter Prettenhofer and Benno Stein (2010). 
-	Cross-language text classification using structural correspondence learning. 
+4.	Peter Prettenhofer and Benno Stein (2010). <br/>
+	Cross-language text classification using structural correspondence learning. <br/>
 	In Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics (ACL), pages 1118-1127.
 	
-4.	Florian Boudin (2013). 
-	TALN Archives : a digital archive of French research articles in Natural Language Processing (TALN Archives : une archive numérique francophone des articles de recherche en Traitement Automatique de la Langue) [in French]).
+5.	Florian Boudin (2013). <br/>
+	TALN Archives : a digital archive of French research articles in Natural Language Processing (TALN Archives : une archive numérique francophone des articles de recherche en Traitement Automatique de la Langue) [in French]). <br/>
 	 In Proceedings of TALN 2013 (Volume 2: Short Papers), pages 507–514. 
 
-5.	Helmut Schmid (1994). 
-	Probabilistic Part-of-Speech Tagging Using Decision Trees. 
+6.	Helmut Schmid (1994). <br/>
+	Probabilistic Part-of-Speech Tagging Using Decision Trees. <br/>
 	In Proceedings of the International Conference on New Methods in Language Processing.
 
-6.	Gilles Sérasset (2014). 
-	DBnary: Wiktionary as a Lemon-Based Multilingual Lexical Resource in RDF. 
+7.	Gilles Sérasset (2014). <br/>
+	DBnary: Wiktionary as a Lemon-Based Multilingual Lexical Resource in RDF. <br/>
 	In to appear in Semantic Web Journal (special issue on Multilin- gual Linked Open Data).
 
-7.	Dániel Varga, Péter Hálacsy, Viktor Nagy, Lázló Németh, András Kornai, and Viktor Trón (2005). 
-	Parallel corpora for medium density languages. 
+8.	Dániel Varga, Péter Hálacsy, Viktor Nagy, Lázló Németh, András Kornai, and Viktor Trón (2005). <br/>
+	Parallel corpora for medium density languages. <br/>
 	In Recent Advances in Natural Language Processing (RANLP 2005), pages 590–596.
 
 ### Licence
