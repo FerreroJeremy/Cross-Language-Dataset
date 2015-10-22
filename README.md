@@ -31,23 +31,27 @@ Conference papers | 35 | 1,304 | 272
 
 ### References, tools used and existing collections
 
-1.	Philipp Koehn (2005). <br/>
+1.	<b>Europarl</b><br/>
+	Philipp Koehn (2005). <br/>
 	Europarl: A Parallel Corpus for Statistical Machine Translation. <br/>
 	<i>In Conference Proceedings: the tenth Machine Translation Summit, pages 79–86. AAMT.<br/>
 	url: http://opus.lingfil.uu.se/Europarl.php </i> 
 	
-2.	Martin Potthast, Alberto Barrón-Cedeño, Benno Stein, and Paolo Rosso (2011). <br/>
+2.	<b>CL-PL-09 (JRC-Acquis + Wikipedia)</b><br/>
+	Martin Potthast, Alberto Barrón-Cedeño, Benno Stein, and Paolo Rosso (2011). <br/>
 	Cross-Language Plagiarism Detection.<br/>
 	<i>In Language Ressources and Evaluation, volume 45, pages 45–62.<br/>
 	url: http://users.dsic.upv.es/grupos/nle/downloads.html </i> 
 
-3.	Martin Potthast, Benno Stein, Alberto Barrón-Cedeño, and Paolo Rosso (2010). <br/>
+3.	<b>PAN 2011</b><br/>
+	Martin Potthast, Benno Stein, Alberto Barrón-Cedeño, and Paolo Rosso (2010). <br/>
 	An Evaluation Framework for Plagiarism Detection. <br/>
 	<i>In Proceedings of the 23rd International Conference on Computational Linguistics (COLING 2010), Beijing,
 China, August 2010. Association for Computational Linguistics. <br/>
 	url: http://www.uni-weimar.de/en/media/chairs/webis/corpora/pan-pc-11/ </i> 
 	
-4.	Peter Prettenhofer and Benno Stein (2010). <br/>
+4.	<b>Webis-CLS-10 (Amazon Product Reviews)</b><br/>
+	Peter Prettenhofer and Benno Stein (2010). <br/>
 	Cross-language text classification using structural correspondence learning. <br/>
 	<i>In Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics (ACL), pages 1118-1127. <br/>
 	url: http://www.uni-weimar.de/en/media/chairs/webis/corpora/corpus-webis-cls-10/ </i>
