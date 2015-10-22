@@ -9,22 +9,22 @@
 
 Sub-corpus | Alignment | Authors | Translations | Translators | Alteration
 --- | --- | ---| --- | ---| ---
-JRC Acquis | Parallel | Politicians | Human | Professional | No
-Europarl | Parallel | Politicians | Human | Professional | No
-Wikipedia | Comparable | Anyone | - | - | Noise
-PAN 2011 (Gutenberg Project) |  Parallel |  Professional authors | Human | Professional | Yes
-Amazon Product Reviews | Parallel | Anyone | Machine | Google Translate | No
+JRC Acquis<sup>2</sup> | Parallel | Politicians | Human | Professional | No
+Europarl<sup>1</sup> | Parallel | Politicians | Human | Professional | No
+Wikipedia<sup>2</sup> | Comparable | Anyone | - | - | Noise
+PAN 2011<sup>3</sup> (Gutenberg Project) |  Parallel |  Professional authors | Human | Professional | Yes
+Amazon Product Reviews<sup>4</sup> | Parallel | Anyone | Machine | Google Translate | No
 Conference papers | Comparable | Computer scientists | Human | Computer scientists | Noise
 
 ### Statistics
 
 Sub-corpus | # Aligned documents | # Aligned sentences | # Aligned noun chunks
 --- | --- | ---| ---
-JRC-Acquis | 10,000 | 149,506 | 10,094 
-Europarl | 9,442 | 475,834 | 25,603 
-Wikipedia | 10,000 | 4,792 | 132 
-PAN 2011 | 2,920 | 88,977 | 1,360 
-Amazon Product Reviews | 6,000 | 23,235 | 2,603 
+JRC-Acquis<sup>2</sup> | 10,000 | 149,506 | 10,094 
+Europarl<sup>1</sup> | 9,442 | 475,834 | 25,603 
+Wikipedia<sup>2</sup> | 10,000 | 4,792 | 132 
+PAN 2011<sup>3</sup> | 2,920 | 88,977 | 1,360 
+Amazon Product Reviews<sup>4</sup> | 6,000 | 23,235 | 2,603 
 Conference papers | 35 | 1,304 | 272 
 
 > <b>More statistics and explanations on this corpus coming soon, stay tuned!</b>
