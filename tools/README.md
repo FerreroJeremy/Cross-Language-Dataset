@@ -21,19 +21,22 @@ If you have a question, please send it to me by email at jeremyf@compilatio.net 
 	Helmut Schmid (1994). <br/>
 	Probabilistic Part-of-Speech Tagging Using Decision Trees. <br/>
 	<i>In Proceedings of the International Conference on New Methods in Language Processing. <br/>
-	url: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/ </i> 
+	url: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/ <br/>
+	licence: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/Tagger-Licence</i> 
 
 2.	<b>HunAlign</b><br/>
 	Dániel Varga, Péter Hálacsy, Viktor Nagy, Lázló Németh, András Kornai, and Viktor Trón (2005). <br/>
 	Parallel corpora for medium density languages. <br/>
 	<i>In Recent Advances in Natural Language Processing (RANLP 2005), pages 590–596. <br/>
-	url: http://mokk.bme.hu/resources/hunalign/ </i> 
+	url: http://mokk.bme.hu/en/resources/hunalign/ <br/>
+	licence: GNU LGPL version 2.1 or later</i> 
 
 3.	<b>DBNary</b><br/>
 	Gilles Sérasset (2014). <br/>
 	DBnary: Wiktionary as a Lemon-Based Multilingual Lexical Resource in RDF. <br/>
 	<i>In to appear in Semantic Web Journal (special issue on Multilin- gual Linked Open Data). <br/>
-	url: http://kaiko.getalp.org/about-dbnary/ </i> 
+	url: http://kaiko.getalp.org/about-dbnary/ <br/>
+	licence: Creative Commons Attribution-ShareAlike 3.0 </i> 
 
 4.	<b>Webis-CLS-10 (Amazon Product Reviews)</b><br/>
 	Peter Prettenhofer and Benno Stein (2010). <br/>
@@ -52,20 +55,24 @@ China, August 2010. Association for Computational Linguistics. <br/>
 	Florian Boudin (2013). <br/>
 	TALN Archives : a digital archive of French research articles in Natural Language Processing (TALN Archives : une archive numérique francophone des articles de recherche en Traitement Automatique de la Langue) [in French]). <br/>
 	<i>In Proceedings of TALN 2013 (Volume 2: Short Papers), pages 507–514. <br/>
-	url: https://github.com/boudinfl/taln-archives </i> 
+	url: https://github.com/boudinfl/taln-archives <br/>
+	licence: Creative Commons Attribution-NonCommercial 3.0 Unported </i> 
 
 7.	<b>ForceUTF8</b> <br/>
-	<i>url: https://github.com/neitanod/forceutf8</i>
+	<i>url: https://github.com/neitanod/forceutf8 <br/>
+	licence: BSD (http://www.debian.org/misc/bsd.license) </i>
 
 8.	<b>Text Language Detect</b> <br/>
-	<i>url: https://github.com/webmil/text-language-detect</i>
+	<i>url: https://github.com/webmil/text-language-detect <br/>
+	licence: BSD (http://www.debian.org/misc/bsd.license) </i>
 
 9.	William B. Cavnar and John M. Trenkle (1994). <br/>
 	N-Gram-Based Text Categorization. <br/>
 	<i>In Proceedings of SDAIR- 94, 3rd Annual Symposium on Document Analysis and Information Retrieval, pages 161–175.</i>
 
 10.	<b>DBNary PHP Interface</b> <br/>
-	<i>url: https://github.com/FerreroJeremy/DBNary-PHP-Interface</i>
+	<i>url: https://github.com/FerreroJeremy/DBNary-PHP-Interface <br/>
+	licence: Creative Commons Attribution-ShareAlike 4.0 International </i>
 
 
 ### Licence
