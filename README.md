@@ -5,6 +5,11 @@
 * In the <i>Aligned_Chunks_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at chunk-level (a line of a file represents one noun chunk).<br/>
 * In the <i>tools/</i> directory, you can find all the useful files to re-create the dataset.
 
+#### Notes
+
+* In the <i>Aligned_Documents_Sub_Corpus/Conference_papers/</i> directory, you can also find a <i>pdf_conference_papers/</i> directory containing the original scientific papers in PDF format.
+* In the <i>*_Sub_Corpus/PAN11/</i> sub-directories, you can also find a <i>metadata/</i> directory containing additional information about the PAN11 alignments.
+
 ### Characteristics
 
 Sub-corpus | Alignment | Authors | Translations | Translators | Alteration
@@ -39,9 +44,9 @@ Conference papers | 35 | 1,304 | 272
 * In the <i>tools/parse_PAN_collection/</i> directory, you can find a script to parse the <i>PAN-PC-11<sup>3</sup></i> corpus and extract the English-Spanish pairs with metadata.<br/>
 * In the <i>tools/parse_conf_papers_bibtex/</i> directory, you can find a script to parse the <i>TALN BibTeX<sup>8</sup></i>, crawl the web and thus allow the construction of French-English conference paper pairs.<br/>
 
-To manage the encoding of the files, I use the <i>ForceUTF8<sup>9</sup></i> class coded by Sebastián Grignoli.<br/>
-To detect the language of a text, I use the PHP implementation<sup>10</sup> by Nicholas Pisarro of the Cavnar and Trenkle (1994)<sup>11</sup> classification algorithm.<br/>
-To query <i>DBNary<sup>7</sup></i>, I use my own PHP classes<sup>12</sup>.
+To manage the encoding of the files, we use the <i>ForceUTF8<sup>9</sup></i> class coded by Sebastián Grignoli.<br/>
+To detect the language of a text, we use the PHP implementation<sup>10</sup> by Nicholas Pisarro of the Cavnar and Trenkle (1994)<sup>11</sup> classification algorithm.<br/>
+To query <i>DBNary<sup>7</sup></i>, we use PHP class-interfaces<sup>12</sup>.
 
 Sorry for the no commented dirty scripts. <br/> 
 If you have a question, please send it to me by email at jeremyf@compilatio.net or jeremy.ferrero@imag.fr.<br/>
@@ -77,8 +82,7 @@ China, August 2010. Association for Computational Linguistics. <br/>
 	Helmut Schmid (1994). <br/>
 	Probabilistic Part-of-Speech Tagging Using Decision Trees. <br/>
 	<i>In Proceedings of the International Conference on New Methods in Language Processing. <br/>
-	url: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/ <br/>
-	licence: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/Tagger-Licence</i> 
+	url: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/ </i> 
 
 6.	<b>HunAlign</b><br/>
 	Dániel Varga, Péter Hálacsy, Viktor Nagy, Lázló Németh, András Kornai, and Viktor Trón (2005). <br/>
@@ -99,15 +103,15 @@ China, August 2010. Association for Computational Linguistics. <br/>
 	TALN Archives : a digital archive of French research articles in Natural Language Processing (TALN Archives : une archive numérique francophone des articles de recherche en Traitement Automatique de la Langue) [in French]). <br/>
 	<i>In Proceedings of TALN 2013 (Volume 2: Short Papers), pages 507–514. <br/>
 	url: https://github.com/boudinfl/taln-archives <br/>
-	licence: Creative Commons Attribution-NonCommercial 3.0 Unported </i> 
+	licence: Creative Commons Attribution-NonCommercial 3.0 </i> 
 
 9.	<b>ForceUTF8</b> <br/>
 	<i>url: https://github.com/neitanod/forceutf8 <br/>
-	licence: BSD (http://www.debian.org/misc/bsd.license) </i>
+	licence: BSD </i>
 
 10.	<b>Text Language Detect</b> <br/>
 	<i>url: https://github.com/webmil/text-language-detect <br/>
-	licence: BSD (http://www.debian.org/misc/bsd.license) </i>
+	licence: BSD </i>
 
 11.	William B. Cavnar and John M. Trenkle (1994). <br/>
 	N-Gram-Based Text Categorization. <br/>
@@ -118,4 +122,7 @@ China, August 2010. Association for Computational Linguistics. <br/>
 	licence: Creative Commons Attribution-ShareAlike 4.0 International </i>
 
 ### Licence
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+This dataset is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
+
+<b>For more details on licenses of every tools used and existing collections, refer to LICENCE.md. </b>
