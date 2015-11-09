@@ -5,6 +5,8 @@ This dataset is licensed under a <a rel="license" href="http://creativecommons.o
 ### Licences of tools used and existing collections
 
 1.	<b>Europarl</b><br/>
+
+	No copyright restrictions.
 	
 2.	<b>CL-PL-09 </b><br/>
 	
@@ -16,8 +18,15 @@ inherited from JRC-Aqcuis: http://wt.jrc.it/lt/Acquis/JRC-Acquis.3.0/doc/README_
 	The original documents can be downloaded from http://wt.jrc.it/lt/Acquis/ and http://download.wikipedia.org/. 
 
 3.	<b>PAN-PC-11</b><br/>
+
+	The documents in the corpus are based on books from the Project Gutenberg 
+(www.gutenberg.org). All of the texts contained in this corpus are, to the best of our knowledge, 
+public domain. The corpus can therefore be used free of charge and without any
+liabilities.
 	
 4.	<b>Webis-CLS-10 </b><br/>
+
+	No information found.
 
 5.	<b>TreeTagger</b><br/>
 
