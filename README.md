@@ -3,12 +3,13 @@
 * In the <i>Aligned_Documents_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at document-level (one file represents one document).<br/>
 * In the <i>Aligned_Sentences_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at sentence-level (a line of a file represents one sentence).<br/>
 * In the <i>Aligned_Chunks_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at chunk-level (a line of a file represents one noun chunk).<br/>
+* In the <i>STATS/</i> directory, you can find XLSX and HTML files with statistics on the dataset.<br/>
 * In the <i>tools/</i> directory, you can find all the useful files to re-create the dataset.
 
 #### Notes
 
 * In the <i>Aligned_Documents_Sub_Corpus/Conference_papers/</i> directory, you can also find a <i>pdf_conference_papers/</i> directory containing the original scientific papers in PDF format.
-* In the <i>*_Sub_Corpus/PAN11/</i> sub-directories, you can also find a <i>metadata/</i> directory containing additional information about the PAN11 alignments.
+* In the <i>*_Sub_Corpus/PAN11/</i> sub-directories, you can also find a <i>metadata/</i> directory containing additional information about the PAN-PC-11 alignments.
 
 ### Characteristics
 
@@ -32,13 +33,13 @@ PAN-PC-11<sup>3</sup> | 2,920 | 88,977 | 1,360
 Amazon Product Reviews<sup>4</sup> | 6,000 | 23,235 | 2,603 
 Conference papers | 35 | 1,304 | 272 
 
-<b>For more statistics, see the HTML file</b>
+<b>For more statistics, see the <i>STATS/</i> directory.</b>
 
 ### Tools
 
 * In the <i>tools/chunking/</i> directory, you can find a script to constitute noun chunks from a POS output of <i>TreeTagger</i><sup>5</sup>.<br/>
 * In the <i>tools/create_translations_dico/</i> directory, you can find a script to create an unigram translation dictionary for the use of <i>HunAlign<sup>6</sup></i>.<br/>
-* In the <i>tools/create_verif_align/</i> directory, you can find a script to print and save the alignments to allow a manual verification.<br/>
+* In the <i>tools/create_verif_align/</i> directory, you can find a script to print and save the alignments to allow a manual verification of alignements.<br/>
 * In the <i>tools/enrich_dico_with_dbnary/</i> directory, you can find a script to enrich an unigram translation dictionary with the <i>DBNary</i><sup>7</sup> entries.<br/>
 * In the <i>tools/parse_APR_collection/</i> directory, you can find a script to parse the <i>Webis-CLS-10<sup>4</sup></i> corpus and extract the English-French pairs.<br/>
 * In the <i>tools/parse_PAN_collection/</i> directory, you can find a script to parse the <i>PAN-PC-11<sup>3</sup></i> corpus and extract the English-Spanish pairs with metadata.<br/>
@@ -125,4 +126,4 @@ China, August 2010. Association for Computational Linguistics. <br/>
 
 This dataset is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
 
-<b>For more details on licenses of every tools used and existing collections, refer to LICENCE.md. </b>
+<b>For more details on licenses of every tools used and existing collections, refer to <a rel="license" href="https://github.com/FerreroJeremy/Cross-Language-Dataset/blob/master/LICENCE.md">LICENCE.md</a>. </b>
