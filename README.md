@@ -1,15 +1,20 @@
-# A multilingual, multi-style and multi-granularity dataset for cross-language textual similarity detection
+# Cross-Language Dataset
 
-* In the <i>Aligned_Documents_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at document-level (one file represents one document).<br/>
-* In the <i>Aligned_Sentences_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at sentence-level (a line of a file represents one sentence).<br/>
-* In the <i>Aligned_Chunks_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at chunk-level (a line of a file represents one noun chunk).<br/>
-* In the <i>STATS/</i> directory, you can find XLSX and HTML files with statistics on the dataset.<br/>
-* In the <i>tools/</i> directory, you can find all the useful files to re-create the dataset.
+### Description
 
-#### Notes
-
-* In the <i>Aligned_Documents_Sub_Corpus/Conference_papers/</i> directory, you can also find a <i>pdf_conference_papers/</i> directory containing the original scientific papers in PDF format.
-* In the <i>*_Sub_Corpus/PAN11/</i> sub-directories, you can also find a <i>metadata/</i> directory containing additional information about the PAN-PC-11 alignments.
+This dataset is a multilingual, multi-style and multi-granularity dataset for cross-language textual similarity detection. 
+More precisely, the characteristics of this dataset are the following:
+* it is multilingual: French, English and Spanish;
+* it proposes cross-language alignment information at
+different granularities: document-level, sentence-level
+and chunk-level;
+* it is based on both parallel and comparable corpora;
+* it contains both human and machine translated text;
+* part of it has been altered (to make the cross-language
+similarity detection more complicated) while the rest
+remains without noise;
+* documents were written by multiple types of authors:
+from average to professionals.
 
 ### Characteristics
 
@@ -33,9 +38,19 @@ PAN-PC-11<sup>3</sup> | 2,920 | 88,977 | 1,360
 Amazon Product Reviews<sup>4</sup> | 6,000 | 23,235 | 2,603 
 Conference papers | 35 | 1,304 | 272 
 
-<b>For more statistics, see the <i>STATS/</i> directory.</b>
+For more statistics, see the <i>STATS/</i> directory.
 
-### Tools
+### Repository description
+
+* In the <i>Aligned_Documents_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at document-level (one file represents one document).
+* In the <i>Aligned_Sentences_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at sentence-level (a line of a file represents one sentence).
+* In the <i>Aligned_Chunks_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at chunk-level (a line of a file represents one noun chunk).
+* In the <i>STATS/</i> directory, you can find XLSX and HTML files with statistics on the dataset.
+* In the <i>tools/</i> directory, you can find all the useful files to re-create the dataset.
+* In the <i>Aligned_Documents_Sub_Corpus/Conference_papers/</i> directory, you can also find a <i>pdf_conference_papers/</i> directory containing the original scientific papers in PDF format.
+* In the <i>*_Sub_Corpus/PAN11/</i> sub-directories, you can also find a <i>metadata/</i> directory containing additional information about the PAN-PC-11 alignments.
+
+##### Tools directory
 
 * In the <i>tools/chunking/</i> directory, you can find a script to constitute noun chunks from a POS output of <i>TreeTagger</i><sup>5</sup>.<br/>
 * In the <i>tools/create_translations_dico/</i> directory, you can find a script to create an unigram translation dictionary for the use of <i>HunAlign<sup>6</sup></i>.<br/>
@@ -49,8 +64,7 @@ To manage the encoding of the files, we use the <i>ForceUTF8<sup>9</sup></i> cla
 To detect the language of a text, we use the PHP implementation<sup>10</sup> by Nicholas Pisarro of the Cavnar and Trenkle (1994)<sup>11</sup> classification algorithm.<br/>
 To query <i>DBNary<sup>7</sup></i>, we use PHP class-interfaces<sup>12</sup>.
 
-Sorry for the no commented dirty scripts. <br/> 
-If you have a question, please send it to me by email at jeremyf@compilatio.net or jeremy.ferrero@imag.fr.<br/>
+Sorry for the no commented scripts. If you have a question, please send it to me by email at jeremy.ferrero@imag.fr.
 
 ### References, tools used and existing collections
 
