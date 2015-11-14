@@ -2,7 +2,7 @@
 
 ### Description
 
-This dataset is a multilingual, multi-style and multi-granularity dataset for cross-language textual similarity detection. 
+<b>This dataset is a multilingual, multi-style and multi-granularity dataset for cross-language textual similarity detection</b>. 
 More precisely, the characteristics of this dataset are the following:
 * it is multilingual: French, English and Spanish;
 * it proposes cross-language alignment information at
