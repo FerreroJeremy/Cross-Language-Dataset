@@ -32,7 +32,7 @@ Conference papers | Comparable | Computer scientists | Human | Computer scientis
 Sub-corpus | # Aligned documents | # Aligned sentences | # Aligned noun chunks
 --- | --- | ---| ---
 JRC-Acquis<sup>2</sup> | 10,000 | 149,506 | 10,094 
-Europarl<sup>1</sup> | 9,442 | 475,834 | 25,603 
+Europarl<sup>1</sup> | 9,431 | 475,834 | 25,603 
 Wikipedia<sup>2</sup> | 10,000 | 4,792 | 132 
 PAN-PC-11<sup>3</sup> | 2,920 | 88,977 | 1,360 
 APR (Amazon Product Reviews<sup>4</sup>) | 6,000 | 23,235 | 2,603 
