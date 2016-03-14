@@ -16,6 +16,10 @@ remains without noise;
 * documents were written by multiple types of authors:
 from average to professionals.
 
+A complete description of the dataset and an evaluation of the state-of-the-art cross-language textual similarity detection methods on this latter will be published soon in the paper:
+
+<i>A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection. Jérémy Ferrero, Frédéric Agnès, Laurent Besacier and Didier Schwab. To appear at LREC 2016.</i>
+
 ### Characteristics
 
 Sub-corpus | Alignment | Authors | Translations | Translators | Alteration
@@ -137,7 +141,7 @@ China, August 2010. Association for Computational Linguistics. <br/>
 	<i>url: https://github.com/FerreroJeremy/DBNary-PHP-Interface <br/>
 	licence: Creative Commons Attribution-ShareAlike 4.0 International </i>
 
-### Licence
+### License
 
 This dataset is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
 
