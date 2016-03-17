@@ -42,7 +42,7 @@ PAN-PC-11<sup>3</sup> | 2,920 | 88,977 | 1,360
 APR (Amazon Product Reviews<sup>4</sup>) | 6,000 | 23,235 | 2,603 
 Conference papers | 35 | 1,304 | 272 
 
-For more statistics, see the <i>STATS/</i> directory.
+For more statistics, see the <i>stats/</i> directory.
 
 ### Repository description
 
