@@ -16,7 +16,7 @@ remains without noise;
 * documents were written by multiple types of authors:
 from average to professionals.
 
-A complete description of the dataset and an evaluation of the state-of-the-art cross-language textual similarity detection methods on this latter will be published soon in the paper:
+A complete description of the dataset and an evaluation of the state-of-the-art cross-language textual similarity detection methods on this latter will be published soon in the following paper (which can also be found in this repository):
 
 <i>A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection. Jérémy Ferrero, Frédéric Agnès, Laurent Besacier and Didier Schwab. To appear at LREC 2016.</i>
 
@@ -49,7 +49,7 @@ For more statistics, see the <i>stats/</i> directory.
 * In the <i>Aligned_Documents_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at document-level (one file represents one document).
 * In the <i>Aligned_Sentences_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at sentence-level (one line of a file represents one sentence).
 * In the <i>Aligned_Chunks_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at chunk-level (one line of a file represents one noun chunk).
-* In the <i>stats/</i> directory, you can find XLSX file with statistics on the dataset.
+* In the <i>stats/</i> directory, you can find the XLSX file with statistics on the dataset.
 * In the <i>tools/</i> directory, you can find all the useful files to re-build the dataset from the pre-existing corpora.
 * In the <i>Aligned_Documents_Sub_Corpus/Conference_papers/</i> directory, you can also find a <i>pdf_conference_papers/</i> directory containing the original scientific papers in PDF format.
 * In the <i>*_Sub_Corpus/PAN11/</i> sub-directories, you can also find a <i>metadata/</i> directory containing additional information about the PAN-PC-11 alignments.
