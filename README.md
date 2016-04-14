@@ -146,4 +146,4 @@ China, August 2010. Association for Computational Linguistics. <br/>
 
 This dataset is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
 
-<b>For more details on licenses of every tools used and existing collections, refer to <a rel="license" href="https://github.com/FerreroJeremy/Cross-Language-Dataset/blob/master/LICENCE.md">LICENCE.md</a>. </b>
+<b>For more details on licenses of every tools used and existing collections, refer to <a rel="license" href="https://github.com/FerreroJeremy/Cross-Language-Dataset/blob/master/LICENSE.md">LICENSE.md</a>. </b>
