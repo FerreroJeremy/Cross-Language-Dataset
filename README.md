@@ -16,9 +16,9 @@ remains without noise;
 * documents were written by multiple types of authors:
 from average to professionals.
 
-A complete description of the dataset and its building are described in the following paper:
+A description of the dataset and its building are described in the following paper:
 
-<i>A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection. Jérémy Ferrero, Frédéric Agnès, Laurent Besacier and Didier Schwab. To appear at LREC 2016.</i>
+<i>A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection. Jérémy Ferrero, Frédéric Agnès, Laurent Besacier and Didier Schwab. In the 10th edition of the Language Resources and Evaluation Conference (LREC 2016).</i>
 
 ### Characteristics
 
@@ -51,7 +51,7 @@ For more statistics, see the <i>stats/</i> directory.
 * In the <i>dataset/chunks/</i> directory, you can find the dataset of parallel and comparable files aligned at chunk-level (one line of a file represents one noun chunk).
 * In the <i>stats/</i> directory, you can find the XLSX file with statistics on the dataset.
 * In the <i>scripts/</i> directory, you can find all the useful files to re-build the dataset from the pre-existing corpora.
-* In the <i>docs/</i> directory, you can find the LREC paper.
+* In the <i>docs/</i> directory, you can find the previously mentioned LREC paper.
 * In the <i>dataset/documents/Conference_papers/</i> directory, you can also find a <i>pdf_conference_papers/</i> directory containing the original scientific papers in PDF format.
 * In the <i>dataset/*/PAN11/</i> sub-directories, you can also find a <i>metadata/</i> directory containing additional information about the PAN-PC-11 alignments.
 
@@ -141,6 +141,21 @@ China, August 2010. Association for Computational Linguistics. <br/>
 12.	<b>DBNary PHP Interface</b> <br/>
 	<i>url: https://github.com/FerreroJeremy/DBNary-PHP-Interface <br/>
 	licence: Creative Commons Attribution-ShareAlike 4.0 International </i>
+
+### Credit
+
+When you use this dataset, please cite:
+```
+@inproceedings{CrossLanguageDatasetLREC2016,
+  TITLE = {{A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection}},
+  AUTHOR = {J{\'e}r{\'e}my Ferrero and Fr{\'e}d{\'e}ric Agn{\`e}s and Laurent Besacier and Didier Schwab},
+  BOOKTITLE = {{The 10th edition of the Language Resources and Evaluation Conference (LREC 2016)}},
+  ADDRESS = {Portoro{\v z}, Slovenia},
+  YEAR = {2016},
+  MONTH = May,
+  KEYWORDS = {Cross-language plagiarism detection ; Dataset ; Cross-language dataset ; Cross-language similarity detection ; Evaluation},
+}
+```
 
 ### License
 
