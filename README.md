@@ -50,21 +50,21 @@ For more statistics, see the <i>stats/</i> directory.
 * In the <i>Aligned_Sentences_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at sentence-level (one line of a file represents one sentence).
 * In the <i>Aligned_Chunks_Sub_Corpus/</i> directory, you can find the dataset of parallel and comparable files aligned at chunk-level (one line of a file represents one noun chunk).
 * In the <i>stats/</i> directory, you can find the XLSX file with statistics on the dataset.
-* In the <i>tools/</i> directory, you can find all the useful files to re-build the dataset from the pre-existing corpora.
+* In the <i>scripts/</i> directory, you can find all the useful files to re-build the dataset from the pre-existing corpora.
 * In the <i>Aligned_Documents_Sub_Corpus/Conference_papers/</i> directory, you can also find a <i>pdf_conference_papers/</i> directory containing the original scientific papers in PDF format.
 * In the <i>*_Sub_Corpus/PAN11/</i> sub-directories, you can also find a <i>metadata/</i> directory containing additional information about the PAN-PC-11 alignments.
 * You may also find the paper presented at LREC 2016.
 
-##### Tools directory
+##### Scripts directory
 
-This directory contains tools that we used for corpus building. We also provide them in case somebody would be interested to extend the corpus.
-* In the <i>tools/chunking/</i> directory, you can find a script to extract noun chunks from a POS sequence from <i>TreeTagger</i><sup>5</sup>.<br/>
-* In the <i>tools/create_translations_dico/</i> directory, you can find a script to build an unigram translation dictionary for the use of <i>HunAlign<sup>6</sup></i>.<br/>
-* In the <i>tools/create_verif_align/</i> directory, you can find a script to print and save the alignments in a readable format.<br/>
-* In the <i>tools/enrich_dico_with_dbnary/</i> directory, you can find a script to enrich an unigram translation dictionary with <i>DBNary</i><sup>7</sup> entries.<br/>
-* In the <i>tools/parse_APR_collection/</i> directory, you can find a script to parse the <i>Webis-CLS-10<sup>4</sup></i> corpus and extract the English-French pairs.<br/>
-* In the <i>tools/parse_PAN_collection/</i> directory, you can find a script to parse the <i>PAN-PC-11<sup>3</sup></i> corpus and extract the English-Spanish pairs with metadata.<br/>
-* In the <i>tools/parse_conf_papers_bibtex/</i> directory, you can find a script to parse the <i>TALN BibTeX<sup>8</sup></i>, crawl the web and thus allow the construction of French-English conference paper pairs.<br/>
+This directory contains scripts that we used for corpus building. We also provide them in case somebody would be interested to extend the corpus.
+* In the <i>scripts/chunking/</i> directory, you can find a script to extract noun chunks from a POS sequence from <i>TreeTagger</i><sup>5</sup>.<br/>
+* In the <i>scripts/create_translations_dico/</i> directory, you can find a script to build an unigram translation dictionary for the use of <i>HunAlign<sup>6</sup></i>.<br/>
+* In the <i>scripts/create_verif_align/</i> directory, you can find a script to print and save the alignments in a readable format.<br/>
+* In the <i>scripts/enrich_dico_with_dbnary/</i> directory, you can find a script to enrich an unigram translation dictionary with <i>DBNary</i><sup>7</sup> entries.<br/>
+* In the <i>scripts/parse_APR_collection/</i> directory, you can find a script to parse the <i>Webis-CLS-10<sup>4</sup></i> corpus and extract the English-French pairs.<br/>
+* In the <i>scripts/parse_PAN_collection/</i> directory, you can find a script to parse the <i>PAN-PC-11<sup>3</sup></i> corpus and extract the English-Spanish pairs with metadata.<br/>
+* In the <i>scripts/parse_conf_papers_bibtex/</i> directory, you can find a script to parse the <i>TALN BibTeX<sup>8</sup></i>, crawl the web and thus allow the construction of French-English conference paper pairs.<br/>
 
 To manage the encoding of the files, we use the <i>ForceUTF8<sup>9</sup></i> class coded by Sebastián Grignoli.<br/>
 To detect the language of a text, we use the PHP implementation<sup>10</sup> by Nicholas Pisarro of the Cavnar and Trenkle (1994)<sup>11</sup> classification algorithm.<br/>
