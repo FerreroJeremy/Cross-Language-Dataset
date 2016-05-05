@@ -4,32 +4,34 @@
 
 <b>This dataset is a multilingual, multi-style and multi-granularity dataset for cross-language textual similarity detection</b>. 
 More precisely, the characteristics of this dataset are the following:
-* it is multilingual: French, English and Spanish;
+* it is multilingual: <b>French</b>, <b>English</b> and <b>Spanish</b>;
 * it proposes cross-language alignment information at
-different granularities: document-level, sentence-level
-and chunk-level;
-* it is based on both parallel and comparable corpora;
-* it contains both human and machine translated text;
-* part of it has been altered (to make the cross-language
+different granularities: <b>document</b>-level, <b>sentence</b>-level
+and <b>chunk</b>-level;
+* it is based on both <b>parallel</b> and <b>comparable</b> corpora;
+* it contains both <b>human and machine translated text</b>;
+* part of it has been <b>altered</b> (to make the cross-language
 similarity detection more complicated) while the rest
-remains without noise;
-* documents were written by multiple types of authors:
+remains <b>without noise</b>;
+* documents were <b>written by multiple types of authors</b>:
 from average to professionals.
+
+##### Scientific paper
 
 A description of the dataset and its building are described in the following paper:
 
-<i>A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection. Jérémy Ferrero, Frédéric Agnès, Laurent Besacier and Didier Schwab. In the 10th edition of the Language Resources and Evaluation Conference (LREC 2016).</i>
+<i><a href="http://creativecommons.org/licenses/by-sa/4.0/">A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection. Jérémy Ferrero, Frédéric Agnès, Laurent Besacier and Didier Schwab. In the 10th edition of the Language Resources and Evaluation Conference (LREC 2016).</a></i>
 
 ### Characteristics
 
-Sub-corpus | Alignment | Authors | Translations | Translators | Alteration
---- | --- | ---| --- | ---| ---
-JRC Acquis<sup>2</sup> | Parallel | Politicians | Human | Professional | No
-Europarl<sup>1</sup> | Parallel | Politicians | Human | Professional | No
-Wikipedia<sup>2</sup> | Comparable | Anyone | - | - | Noise
-PAN-PC-11<sup>3</sup> |  Parallel |  Professional authors | Human | Professional | Yes
-APR (Amazon Product Reviews<sup>4</sup>) | Parallel | Anyone | Machine | Google Translate | No
-Conference papers | Comparable | Computer scientists | Human | Computer scientists | Noise
+Sub-corpus | Alignment | Authors | Translations | Translators | Alteration | NE (%)
+--- | --- | --- | --- | --- | --- | --- |
+JRC Acquis<sup>2</sup> | Parallel | Politicians | Human | Professional | No | 3.74
+Europarl<sup>1</sup> | Parallel | Politicians | Human | Professional | No | 7.74
+Wikipedia<sup>2</sup> | Comparable | Anyone | - | - | Noise | 8.37
+PAN-PC-11<sup>3</sup> |  Parallel |  Professional authors | Human | Professional | Yes | 3.24
+APR (Amazon Product Reviews<sup>4</sup>) | Parallel | Anyone | Machine | Google Translate | No | 6.04
+Conference papers | Comparable | Computer scientists | Human | Computer scientists | Noise | 9.36
 
 ### Statistics
 
@@ -157,7 +159,7 @@ When you use this dataset, please cite:
 }
 ```
 
-### License
+### <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /> License
 
 This dataset is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
 
