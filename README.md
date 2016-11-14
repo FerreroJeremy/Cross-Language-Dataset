@@ -158,9 +158,3 @@ When you use this dataset, please cite:
   KEYWORDS = {Cross-language plagiarism detection ; Dataset ; Cross-language dataset ; Cross-language similarity detection ; Evaluation},
 }
 ```
-
-### <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /> License
-
-This dataset is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
-
-<b>For more details on licenses of every tools used and existing collections, refer to <a rel="license" href="https://github.com/FerreroJeremy/Cross-Language-Dataset/blob/master/LICENSE.md">LICENSE.md</a>. </b>
