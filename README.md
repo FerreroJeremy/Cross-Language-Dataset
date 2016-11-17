@@ -72,7 +72,7 @@ To manage the encoding of the files, we use the <i>ForceUTF8<sup>9</sup></i> cla
 To detect the language of a text, we use the PHP implementation<sup>10</sup> by Nicholas Pisarro of the Cavnar and Trenkle (1994)<sup>11</sup> classification algorithm.<br/>
 To query <i>DBNary<sup>7</sup></i>, we use PHP class-interfaces<sup>12</sup>.
 
-If you have additional questions, please send it to me by email at jeremy.ferrero@imag.fr.
+If you have additional questions, please send it to me by email at jeremy.ferrero@compilatio.net.
 
 ### References, tools used and pre-existing collections
 
