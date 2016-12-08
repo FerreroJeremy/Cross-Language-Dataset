@@ -49,21 +49,11 @@ foreach ($words as $word) {
  *      FUNCTIONS
  * *********************** */
 
-/**
- * Return the first token of a string.
- * @param   string  $text   Text.
- * @return  string  Token.
- */
 function getFirstWord($text) {
     $words = explode(chr(9), $text);
     return $words[0];
 }
 
-/**
- * Load a file line by line.
- * @param   string  $filename   File path.
- * @return  array   Extracted lines in a array.
- */
 function extractLinesFromFile($filename) {
     try {
         if (!file_exists($filename)) {
@@ -86,11 +76,6 @@ function extractLinesFromFile($filename) {
     return $content;
 }
 
-/**
- * Write in file.
- * @param   string  $name       Name of file.
- * @param   string  $content    Content of file.
- */
 function writeInFile($name, $content) {
     $temporaryFileHandle = fopen($name, "a");
     fwrite($temporaryFileHandle, $content);

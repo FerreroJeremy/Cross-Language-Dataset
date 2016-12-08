@@ -40,11 +40,6 @@ writeFile('dico/dico_fr_es.txt', trim($string));
  *      FUNCTIONS
  * *********************** */
 
-/**
- * Load a file line by line.
- * @param   string  $filename   File path.
- * @return  array   Extracted lines in a array.
- */
 function extractLinesFromFile($filename) {
     try {
         if (!file_exists($filename)) {
@@ -67,11 +62,6 @@ function extractLinesFromFile($filename) {
     return $content;
 }
 
-/**
- * Write a file.
- * @param   string  $name       Name of file.
- * @param   string  $content    Content of file.
- */
 function writeFile($name, $content) {
     $temporaryFileHandle = fopen($name, "w");
     fwrite($temporaryFileHandle, $content);

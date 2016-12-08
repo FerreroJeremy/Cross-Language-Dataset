@@ -107,11 +107,6 @@ if (is_dir($dir)) {
  *      FUNCTIONS
  * *********************** */
 
-/**
- * Load a file in a string.
- * @param   string  $filename   File path.
- * @return  string  Content.
- */
 function loadFile($filename) {
     try {
         if (!file_exists($filename)) {
@@ -123,17 +118,6 @@ function loadFile($filename) {
     }
 }
 
-/**
- * Extract the content of a specific balise in a XML string.
- * @param   string  $xmlTag         XML balise.
- * @param   string  $xmlString      XML string.
- * @param   boolean $conserveXMLTag Extraction mode.
- * <br/><br/>Usage :
- * <br/><b>&nbsp;&nbsp;&nbsp;true</b>&nbsp;&nbsp;&nbsp;Conserve the balise. 
- * <br/><b>&nbsp;&nbsp;&nbsp;false</b>&nbsp;&nbsp;&nbsp;Ignore the balise. <br/>
- * <b>false</b> to default.
- * @return  mixed   Array of matches.
- */
 function parseXMLString($xmlTag, $xmlString, $conserveXMLTag = false) {
     $matches = array();
     $found = preg_match_all('#<' . $xmlTag . '(?:\s+[^>]+)?>(.*?)' . '</' . $xmlTag . '>#s', $xmlString, $matches);
@@ -153,11 +137,6 @@ function parseXMLString($xmlTag, $xmlString, $conserveXMLTag = false) {
     return false;
 }
 
-/**
- * Write a file.
- * @param   string  $name       Name of file.
- * @param   string  $content    Content of file.
- */
 function writeFile($name, $content) {
     $temporaryFileHandle = fopen($name, "w");
     fwrite($temporaryFileHandle, $content);

@@ -84,22 +84,12 @@ echo '<br/>A total of <b>' . $limit . '</b> elements are displayed for verificat
  *      FUNCTIONS
  * *********************** */
 
-/**
- * Write in file.
- * @param   string  $name       Name of file.
- * @param   string  $content    Content of file.
- */
 function writeFile($name, $content) {
     $temporaryFileHandle = fopen($name, "a");
     fwrite($temporaryFileHandle, $content);
     fclose($temporaryFileHandle);
 }
 
-/**
- * Load a file line by line.
- * @param   string  $filename   File path.
- * @return  array   Extracted lines in a array.
- */
 function extractLinesFromFile($filename) {
     try {
         if (!file_exists($filename)) {

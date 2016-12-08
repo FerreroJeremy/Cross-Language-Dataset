@@ -136,8 +136,6 @@ function getFirstToken($string) {
 function isAlphanumericWords($string) {
     $result = "";
     preg_match("~([^A-Za-z\-ÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ0123456789 '])~", $string, $result);
-    //On cherche tous les caractères autre que alphabétique
-    //si on en trouve on retourne false
     if (!empty($result)) {
         return false;
     } else {
@@ -149,11 +147,6 @@ function splitStringBySpacesWithCaseRespect($string) {
     return preg_split("#[\\s]#", $string, null, PREG_SPLIT_NO_EMPTY);
 }
 
-/**
- * Load a file line by line.
- * @param   string  $filename   File path.
- * @return  array   Extracted lines in a array.
- */
 function extractLinesFromFile($filename) {
     try {
         if (!file_exists($filename)) {
@@ -176,11 +169,6 @@ function extractLinesFromFile($filename) {
     return $content;
 }
 
-/**
- * Write a file.
- * @param   string  $name       Name of file.
- * @param   string  $content    Content of file.
- */
 function writeFile($name, $content) {
     $temporaryFileHandle = fopen($name, "w");
     fwrite($temporaryFileHandle, $content);
