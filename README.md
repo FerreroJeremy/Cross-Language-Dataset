@@ -51,9 +51,10 @@ For more statistics, see the <i>stats/</i> directory.
 * In the <i>dataset/documents/</i> directory, you can find the dataset of parallel and comparable files aligned at document-level (one file represents one document).
 * In the <i>dataset/sentences/</i> directory, you can find the dataset of parallel and comparable files aligned at sentence-level (one line of a file represents one sentence).
 * In the <i>dataset/chunks/</i> directory, you can find the dataset of parallel and comparable files aligned at chunk-level (one line of a file represents one noun chunk).
-* In the <i>stats/</i> directory, you can find the XLSX file with statistics on the dataset.
-* In the <i>scripts/</i> directory, you can find all the useful files to re-build the dataset from the pre-existing corpora.
 * In the <i>docs/</i> directory, you can find the LREC 2016 paper and poster.
+* In the <i>masks/</i> directory, you can find the masks (that describe the pairs) used for build the folds during our evaluation.
+* In the <i>scripts/</i> directory, you can find all the useful files to re-build the dataset from the pre-existing corpora.
+* In the <i>stats/</i> directory, you can find the XLSX file with statistics on the dataset.
 * In the <i>dataset/documents/Conference_papers/</i> directory, you can also find a <i>pdf_conference_papers/</i> directory containing the original scientific papers in PDF format.
 * In the <i>dataset/*/PAN11/</i> sub-directories, you can also find a <i>metadata/</i> directory containing additional information about the PAN-PC-11 alignments.
 
