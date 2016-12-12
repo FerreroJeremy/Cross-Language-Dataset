@@ -19,3 +19,5 @@ Where `[LANG_1]` and `[LANG_2]` are the IETF language tags for the related textu
 Let a parallel corpus with four textual units in two languages (`en` and `fr`), the schema below illustrate the filter process inducing by the masks:
 
 <p align="center"><img src="./maks_explanation_schema.png"></p>
+
+If you have additional questions, please send it to me by email at jeremy.ferrero@compilatio.net.
