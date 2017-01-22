@@ -44,30 +44,30 @@ PAN-PC-11<sup>3</sup> | 2,920 | 88,977 | 1,360
 APR (Amazon Product Reviews<sup>4</sup>) | 6,000 | 23,235 | 2,603 
 Conference papers | 35 | 1,304 | 272 
 
-For more statistics, see the <i>stats/</i> directory.
+For more statistics, see the `stats/` directory.
 
 ### Repository description
 
-* In the <i>dataset/documents/</i> directory, you can find the dataset of parallel and comparable files aligned at document-level (one file represents one document).
-* In the <i>dataset/sentences/</i> directory, you can find the dataset of parallel and comparable files aligned at sentence-level (one line of a file represents one sentence).
-* In the <i>dataset/chunks/</i> directory, you can find the dataset of parallel and comparable files aligned at chunk-level (one line of a file represents one noun chunk).
-* In the <i>docs/</i> directory, you can find the LREC 2016 paper and poster.
-* In the <i>masks/</i> directory, you can find the masks (that describe the pairs) used for build the folds during our evaluation.
-* In the <i>scripts/</i> directory, you can find all the useful files to re-build the dataset from the pre-existing corpora.
-* In the <i>stats/</i> directory, you can find the XLSX file with statistics on the dataset.
-* In the <i>dataset/documents/Conference_papers/</i> directory, you can also find a <i>pdf_conference_papers/</i> directory containing the original scientific papers in PDF format.
-* In the <i>dataset/*/PAN11/</i> sub-directories, you can also find a <i>metadata/</i> directory containing additional information about the PAN-PC-11 alignments.
+* In the `dataset/documents/` directory, you can find the dataset of parallel and comparable files aligned at document-level (one file represents one document).
+* In the `dataset/sentences/` directory, you can find the dataset of parallel and comparable files aligned at sentence-level (one line of a file represents one sentence).
+* In the `dataset/chunks/` directory, you can find the dataset of parallel and comparable files aligned at chunk-level (one line of a file represents one noun chunk).
+* In the `docs/` directory, you can find the LREC 2016 paper and poster.
+* In the `masks/` directory, you can find the masks (that describe the pairs) used for build the folds during our evaluation.
+* In the `scripts/` directory, you can find all the useful files to re-build the dataset from the pre-existing corpora.
+* In the `stats/` directory, you can find the XLSX file with statistics on the dataset.
+* In the `dataset/documents/Conference_papers/` directory, you can also find a `pdf_conference_papers/` directory containing the original scientific papers in PDF format.
+* In the `dataset/*/PAN11/` sub-directories, you can also find a `metadata/` directory containing additional information about the PAN-PC-11 alignments.
 
 ##### Scripts directory
 
 This directory contains scripts that we used for corpus building. We also provide them in case somebody would be interested to extend the corpus.
-* In the <i>scripts/chunking/</i> directory, you can find a script to extract noun chunks from a POS sequence from <i>TreeTagger</i><sup>5</sup>.<br/>
-* In the <i>scripts/create_translations_dico/</i> directory, you can find a script to build an unigram translation dictionary for the use of <i>HunAlign<sup>6</sup></i>.<br/>
-* In the <i>scripts/create_verif_align/</i> directory, you can find a script to print and save the alignments in a readable format.<br/>
-* In the <i>scripts/enrich_dico_with_dbnary/</i> directory, you can find a script to enrich an unigram translation dictionary with <i>DBNary</i><sup>7</sup> entries.<br/>
-* In the <i>scripts/parse_APR_collection/</i> directory, you can find a script to parse the <i>Webis-CLS-10<sup>4</sup></i> corpus and extract the English-French pairs.<br/>
-* In the <i>scripts/parse_PAN_collection/</i> directory, you can find a script to parse the <i>PAN-PC-11<sup>3</sup></i> corpus and extract the English-Spanish pairs with metadata.<br/>
-* In the <i>scripts/parse_conf_papers_bibtex/</i> directory, you can find a script to parse the <i>TALN BibTeX<sup>8</sup></i>, crawl the web and thus allow the construction of French-English conference paper pairs.<br/>
+* In the `scripts/chunking/` directory, you can find a script to extract noun chunks from a POS sequence from <i>TreeTagger</i><sup>5</sup>.<br/>
+* In the `scripts/create_translations_dico/` directory, you can find a script to build an unigram translation dictionary for the use of <i>HunAlign<sup>6</sup></i>.<br/>
+* In the `scripts/create_verif_align/` directory, you can find a script to print and save the alignments in a readable format.<br/>
+* In the `scripts/enrich_dico_with_dbnary/` directory, you can find a script to enrich an unigram translation dictionary with <i>DBNary</i><sup>7</sup> entries.<br/>
+* In the `scripts/parse_APR_collection/` directory, you can find a script to parse the <i>Webis-CLS-10<sup>4</sup></i> corpus and extract the English-French pairs.<br/>
+* In the `scripts/parse_PAN_collection/` directory, you can find a script to parse the <i>PAN-PC-11<sup>3</sup></i> corpus and extract the English-Spanish pairs with metadata.<br/>
+* In the `scripts/parse_conf_papers_bibtex/` directory, you can find a script to parse the <i>TALN BibTeX<sup>8</sup></i>, crawl the web and thus allow the construction of French-English conference paper pairs.<br/>
 
 To manage the encoding of the files, we use the <i>ForceUTF8<sup>9</sup></i> class coded by Sebastián Grignoli.<br/>
 To detect the language of a text, we use the PHP implementation<sup>10</sup> by Nicholas Pisarro of the Cavnar and Trenkle (1994)<sup>11</sup> classification algorithm.<br/>
