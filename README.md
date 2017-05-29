@@ -51,12 +51,13 @@ For more statistics, see the `stats/` directory.
 * In the `dataset/documents/` directory, you can find the dataset of parallel and comparable files aligned at document-level (one file represents one document).
 * In the `dataset/sentences/` directory, you can find the dataset of parallel and comparable files aligned at sentence-level (one line of a file represents one sentence).
 * In the `dataset/chunks/` directory, you can find the dataset of parallel and comparable files aligned at chunk-level (one line of a file represents one noun chunk).
-* In the `docs/` directory, you can find the LREC 2016 paper and poster.
+* In the `dataset/documents/Conference_papers/` directory, you can also find a `pdf_conference_papers/` directory containing the original scientific papers in PDF format.
+* In the `dataset/*/PAN11/` sub-directories, you can also find a `metadata/` directory containing additional information about the PAN-PC-11 alignments.
+* In the `docs/` directory, you can find the papers related to the dataset.
 * In the `masks/` directory, you can find the masks (that describe the pairs) used for build the folds during our evaluation.
 * In the `scripts/` directory, you can find all the useful files to re-build the dataset from the pre-existing corpora.
 * In the `stats/` directory, you can find the XLSX file with statistics on the dataset.
-* In the `dataset/documents/Conference_papers/` directory, you can also find a `pdf_conference_papers/` directory containing the original scientific papers in PDF format.
-* In the `dataset/*/PAN11/` sub-directories, you can also find a `metadata/` directory containing additional information about the PAN-PC-11 alignments.
+* In the `study/` directory, you can find XLSX files related to the study conducted in the BUCC 2017 paper: <a href="https://www.researchgate.net/publication/317101072_Deep_Investigation_of_Cross-Language_Plagiarism_Detection_Methods">Deep Investigation of Cross-Language Plagiarism Detection Methods</a>.
 
 ##### Scripts directory
 
